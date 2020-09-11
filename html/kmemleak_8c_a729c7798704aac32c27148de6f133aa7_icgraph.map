@@ -1,0 +1,15 @@
+<map id="color_white" name="color_white">
+<area shape="rect" id="node2" href="$kmemleak_8c.html#a4815bfc5eaf95eafc807c0e513207cca" title="unreferenced_object" alt="" coords="587,195,725,221"/>
+<area shape="rect" id="node3" href="$kmemleak_8c.html#ab82c435db92c2b579ba74179de2313b3" title="kmemleak_scan" alt="" coords="789,93,906,120"/>
+<area shape="rect" id="node10" href="$kmemleak_8c.html#a64c8d17abe35f1c5d27e4dd252b51ee4" title="update_refs" alt="" coords="141,93,232,120"/>
+<area shape="rect" id="node8" href="$kmemleak_8c.html#a7db4ac243ea70c5908debba8c875834a" title="kmemleak_seq_show" alt="" coords="773,144,921,171"/>
+<area shape="rect" id="node9" href="$kmemleak_8c.html#a9d03b1cfe39f4090d9c224fd1549b08f" title="kmemleak_clear" alt="" coords="991,195,1108,221"/>
+<area shape="rect" id="node4" href="$kmemleak_8c.html#a33829d250c55f8b9c7db8305a27f5837" title="kmemleak_scan_thread" alt="" coords="969,93,1129,120"/>
+<area shape="rect" id="node6" href="$kmemleak_8c.html#aa2e52fc6a98c937afa34bdd0243dbe86" title="kmemleak_write" alt="" coords="1361,144,1478,171"/>
+<area shape="rect" id="node5" href="$kmemleak_8c.html#a324807c6c3b0c7861a74d9536a79e154" title="start_scan_thread" alt="" coords="1177,93,1304,120"/>
+<area shape="rect" id="node7" href="$kmemleak_8c.html#a91a3a4a7b67050f3b8982a73d47f34b2" title="kmemleak_late_init" alt="" coords="1352,93,1487,120"/>
+<area shape="rect" id="node11" href="$kmemleak_8c.html#ae5a585e601418b593240276da2fe604a" title="scan_block" alt="" coords="280,93,368,120"/>
+<area shape="rect" id="node12" href="$kmemleak_8c.html#ac2bdc1b189bd879298c8920d6ea46ee4" title="scan_large_block" alt="" coords="416,93,539,120"/>
+<area shape="rect" id="node13" href="$kmemleak_8c.html#ac03fe9fb73fc19f45b4f64a83dd7a417" title="scan_object" alt="" coords="431,144,523,171"/>
+<area shape="rect" id="node14" href="$kmemleak_8c.html#a5155d705c130d5ae05853d2bf61c16dc" title="scan_gray_list" alt="" coords="603,144,709,171"/>
+</map>

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['dbg_5fredzone1',['dbg_redzone1',['../slab_8c.html#a15bd71ce630766143fa69b480d10e670',1,'slab.c']]],
+  ['dbg_5fredzone2',['dbg_redzone2',['../slab_8c.html#ab3dd132724b2243dfca49a2980a0d031',1,'slab.c']]],
+  ['dbg_5fuserword',['dbg_userword',['../slab_8c.html#a08d86f707e80b43e36ec0b76625bbfa1',1,'slab.c']]],
+  ['debug',['DEBUG',['../slab_8c.html#ad72dbcf6d0153db1b8d8a58001feed83',1,'slab.c']]],
+  ['debug_5fdefault_5fflags',['DEBUG_DEFAULT_FLAGS',['../slub_8c.html#a35c135ba4871c93f4636e184a3eb1b3b',1,'slub.c']]],
+  ['debug_5fmetadata_5fflags',['DEBUG_METADATA_FLAGS',['../slub_8c.html#a50444f8e23717d31a43e96a18388c502',1,'slub.c']]],
+  ['dec_5fmm_5fcounter_5ffast',['dec_mm_counter_fast',['../memory_8c.html#ab5c21a873bcf84066b6d9b303dc7503a',1,'memory.c']]],
+  ['define_5fasan_5fload_5fstore',['DEFINE_ASAN_LOAD_STORE',['../kasan_8c.html#ac25202c98108a222659f1343642b782e',1,'kasan.c']]],
+  ['define_5fasan_5freport_5fload',['DEFINE_ASAN_REPORT_LOAD',['../report_8c.html#a43402c0e99829591e64f16548c3d3572',1,'report.c']]],
+  ['define_5fasan_5freport_5fstore',['DEFINE_ASAN_REPORT_STORE',['../report_8c.html#a44ea653a77f42109161662cbf95f263f',1,'report.c']]],
+  ['define_5fasan_5fset_5fshadow',['DEFINE_ASAN_SET_SHADOW',['../kasan_8c.html#a02ddd1f1f2f955faa65d4c11bbaf6375',1,'kasan.c']]],
+  ['dirty',['dirty',['../memory-failure_8c.html#aed77bbed337f46f2d45f496761c9fe23',1,'memory-failure.c']]],
+  ['dirty_5fpoll_5fthresh',['DIRTY_POLL_THRESH',['../page-writeback_8c.html#a3b77fee425fe500f98edd9cbdd1aca6a',1,'page-writeback.c']]],
+  ['disable_5fbranch_5fprofiling',['DISABLE_BRANCH_PROFILING',['../kasan_8c.html#a56541f4e0cb639d25b7e5d743f3b7665',1,'kasan.c']]],
+  ['disable_5fhigher_5forder_5fdebug',['disable_higher_order_debug',['../slub_8c.html#a4b2100ac3a3ecc2342e869973a6cdaa4',1,'slub.c']]],
+  ['do_5fnuma',['DO_NUMA',['../ksm_8c.html#ac51a687f9323521f4366a30466a0deed',1,'ksm.c']]],
+  ['do_5fswap_5faccount',['do_swap_account',['../memcontrol_8c.html#aa180ce89322f98529481c9af8b802ecd',1,'memcontrol.c']]],
+  ['drain_5falien_5fcache',['drain_alien_cache',['../slab_8c.html#aebe5cf82b2de4c7bd2e7f611b0be476c',1,'slab.c']]],
+  ['dump_5fstack',['DUMP_STACK',['../hetero_8c.html#a5a877acc41d9a8b290b0210bcc45e54f',1,'hetero.c']]]
+];

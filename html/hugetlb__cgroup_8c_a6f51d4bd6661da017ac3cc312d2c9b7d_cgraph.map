@@ -1,0 +1,6 @@
+<map id="hugetlb_cgroup_move_parent" name="hugetlb_cgroup_move_parent">
+<area shape="rect" id="node2" href="$hugetlb__cgroup_8c.html#a6c318b04a5286d3905b7f95bbce992a7" title="parent_hugetlb_cgroup" alt="" coords="203,5,356,32"/>
+<area shape="rect" id="node4" href="$page__counter_8c.html#ab33b7be230312ca8dc73040893ef1d46" title="page_counter_charge" alt="" coords="206,56,353,83"/>
+<area shape="rect" id="node5" href="$page__counter_8c.html#a8d1660de964ae6d862d66b8efaf11bc7" title="page_counter_cancel" alt="" coords="207,107,352,133"/>
+<area shape="rect" id="node3" href="$hugetlb__cgroup_8c.html#aaefefb58871d1de451919757a55be94a" title="hugetlb_cgroup_from_css" alt="" coords="404,5,575,32"/>
+</map>

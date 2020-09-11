@@ -1,0 +1,15 @@
+<map id="memcg_check_events" name="memcg_check_events">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#abc857e5a2293c981167eec55f69f5cd8" title="mem_cgroup_event_ratelimit" alt="" coords="207,5,396,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a26d1e6bcc043468e8ec50fb5b98356d5" title="mem_cgroup_threshold" alt="" coords="223,56,380,83"/>
+<area shape="rect" id="node9" href="$memcontrol_8c.html#a789b1954957a6e441c1d5962129ac980" title="mem_cgroup_update_tree" alt="" coords="215,183,387,209"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#aca1d33d6dd5415dbc3e701c2ae5ed5b8" title="__mem_cgroup_threshold" alt="" coords="453,5,623,32"/>
+<area shape="rect" id="node8" href="$memcontrol_8c.html#abf5f61cb1f1bac5685f48374083b1d2f" title="do_memsw_account" alt="" coords="467,56,609,83"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#aaadcf91d643f11a3e06b1aca11d3abba" title="mem_cgroup_usage" alt="" coords="680,5,819,32"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#a1d29e3a343ecea93fe5ec1b73703cdc8" title="mem_cgroup_is_root" alt="" coords="867,5,1009,32"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#aebb64c1ff4fb11e176f9f26d5d350124" title="DEFINE_IDA" alt="" coords="1057,5,1160,32"/>
+<area shape="rect" id="node10" href="$memcontrol_8c.html#aa1a4c7622c179788a3e89924c328f64f" title="soft_limit_tree_from_page" alt="" coords="452,107,624,133"/>
+<area shape="rect" id="node11" href="$memcontrol_8c.html#a47202e1c655c5e94af7604e85b125d4d" title="mem_cgroup_page_nodeinfo" alt="" coords="444,157,632,184"/>
+<area shape="rect" id="node12" href="$memcontrol_8c.html#a5b7f1bbe6752b130ea33ea2695bdc862" title="soft_limit_excess" alt="" coords="476,208,600,235"/>
+<area shape="rect" id="node13" href="$memcontrol_8c.html#a295c754ea0a2eb3e516c039976f6b75c" title="__mem_cgroup_remove\l_exceeded" alt="" coords="457,259,619,301"/>
+<area shape="rect" id="node14" href="$memcontrol_8c.html#ac5222ad8d2efd138f09f91960cfb8f18" title="__mem_cgroup_insert\l_exceeded" alt="" coords="463,325,613,366"/>
+</map>

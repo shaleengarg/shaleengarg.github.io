@@ -1,0 +1,10 @@
+<map id="is_vmalloc_or_module_addr" name="is_vmalloc_or_module_addr">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a4ab352c69d00167729ae2f262fd0200d" title="vmalloc_to_page" alt="" coords="236,81,356,108"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#af4f07edfaa217472bc249bbae951028c" title="vmalloc_to_pfn" alt="" coords="423,5,534,32"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#a2fe9ffaee3f885e3f62d7cab5e912f5f" title="aligned_vread" alt="" coords="427,56,530,83"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#aebecc7ed4f7d9757a713a00de56127eb" title="aligned_vwrite" alt="" coords="426,107,531,133"/>
+<area shape="rect" id="node8" href="$vmalloc_8c.html#ac3e3bf07056398cfb3c22ea46b1932eb" title="remap_vmalloc_range\l_partial" alt="" coords="404,158,553,199"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#a9000b890170a2f2744998a6375378048" title="vread" alt="" coords="649,56,703,83"/>
+<area shape="rect" id="node7" href="$vmalloc_8c.html#ab228e1009a562188d6c69396aea4deee" title="vwrite" alt="" coords="647,107,705,133"/>
+<area shape="rect" id="node9" href="$vmalloc_8c.html#a0cb5dbe0a4270c86c2eb4d40252a1be7" title="remap_vmalloc_range" alt="" coords="601,165,751,192"/>
+</map>

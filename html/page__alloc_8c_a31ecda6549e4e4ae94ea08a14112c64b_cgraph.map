@@ -1,0 +1,7 @@
+<map id="check_new_pages" name="check_new_pages">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a64c610358e79d63b1d12952ba337e073" title="check_new_page" alt="" coords="184,31,307,57"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a2198a7aec00a3766a0b33712f042a5a9" title="page_expected_state" alt="" coords="357,5,503,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a0acfe4bdfac3db9300eb32fd67a19615" title="check_new_page_bad" alt="" coords="355,56,505,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a8865c2650077e740844ac4383f6713ce" title="bad_page" alt="" coords="553,56,632,83"/>
+<area shape="rect" id="node6" href="$debug_8c.html#a9964bf1b226807ee36658d2f61c5dfdd" title="__dump_page" alt="" coords="680,56,783,83"/>
+</map>

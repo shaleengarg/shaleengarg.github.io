@@ -1,0 +1,6 @@
+<map id="kfree" name="kfree">
+<area shape="rect" id="node2" href="$slub_8c.html#aeea2844d24b9e1251f050e8a8ac33400" title="list_slab_objects" alt="" coords="122,5,241,32"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="104,56,259,83"/>
+<area shape="rect" id="node3" href="$slub_8c.html#ac3bac68bb93fa1ad33cde1d07ff794d3" title="free_partial" alt="" coords="307,5,393,32"/>
+<area shape="rect" id="node4" href="$slub_8c.html#ae4dc3b793efbd9fb28543a1e37d28625" title="__kmem_cache_shutdown" alt="" coords="441,5,619,32"/>
+</map>

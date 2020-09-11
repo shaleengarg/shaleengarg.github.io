@@ -1,0 +1,20 @@
+<map id="putback_movable_pages" name="putback_movable_pages">
+<area shape="rect" id="node2" href="$memory-failure_8c.html#ac6f94c6ca3b5dbb5d861a867bc830871" title="soft_offline_huge_page" alt="" coords="225,5,381,32"/>
+<area shape="rect" id="node10" href="$memory-failure_8c.html#aecada95210a9156a4b69586ef199fdf0" title="__soft_offline_page" alt="" coords="235,56,370,83"/>
+<area shape="rect" id="node11" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="468,136,565,163"/>
+<area shape="rect" id="node12" href="$mempolicy_8c.html#a73be6369928a60847ab01457364fb9df" title="do_get_mempolicy" alt="" coords="237,224,368,251"/>
+<area shape="rect" id="node15" href="$mempolicy_8c.html#aaf42c08b401a1c76f1038d364dba721e" title="do_mbind" alt="" coords="263,275,342,301"/>
+<area shape="rect" id="node18" href="$migrate_8c.html#a58c7b230fb6d8c7a22c5e85ce77bfdee" title="migrate_hetero_single_page" alt="" coords="843,300,1027,327"/>
+<area shape="rect" id="node19" href="$page__alloc_8c.html#ab79f1010c13d73bc4360e6caa20aabf5" title="is_pageblock_removable\l_nolock" alt="" coords="220,158,385,199"/>
+<area shape="rect" id="node3" href="$memory-failure_8c.html#a2ca359770c31af559fa45f5a12e6679d" title="soft_offline_in_use_page" alt="" coords="433,31,600,57"/>
+<area shape="rect" id="node4" href="$memory-failure_8c.html#a5d5ed10ea90232402f08961d534e7795" title="soft_offline_page" alt="" coords="661,31,782,57"/>
+<area shape="rect" id="node5" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="874,5,995,32"/>
+<area shape="rect" id="node8" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="845,56,1024,83"/>
+<area shape="rect" id="node6" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="1091,5,1193,32"/>
+<area shape="rect" id="node7" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1257,5,1404,32"/>
+<area shape="rect" id="node9" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="1075,56,1209,83"/>
+<area shape="rect" id="node13" href="$mempolicy_8c.html#a23e2136a9bb87ef1f772691dcaca1bdd" title="kernel_get_mempolicy" alt="" coords="441,224,593,251"/>
+<area shape="rect" id="node14" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="648,224,795,251"/>
+<area shape="rect" id="node16" href="$mempolicy_8c.html#a50a4a41434ad3edbd95d6267b4e6d6aa" title="kernel_mbind" alt="" coords="467,275,566,301"/>
+<area shape="rect" id="node17" href="$mempolicy_8c.html#a2a7b4e9b054f340a69ecd0dddb758746" title="SYSCALL_DEFINE6" alt="" coords="648,275,795,301"/>
+</map>

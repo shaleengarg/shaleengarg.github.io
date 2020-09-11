@@ -1,0 +1,9 @@
+<map id="memmap_init_zone" name="memmap_init_zone">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a1aec4ae02d0f8fd27ea81647bbc23062" title="early_pfn_in_nid" alt="" coords="221,5,337,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a663e00f0eb85708a400b3a5253eabe9d" title="update_defer_init" alt="" coords="218,56,339,83"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a3ba5f9160b844c03b768d8d0f39e0cfb" title="__init_single_page" alt="" coords="214,107,343,133"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#accfc45f8ce3f6887a5427a17f60b0a93" title="set_pageblock_migratetype" alt="" coords="188,157,369,184"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a99ef38f9738c10c606ee5643726a735d" title="init_reserved_page" alt="" coords="432,56,563,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a97005e3a532f423cd0a2008e6374c23f" title="early_page_uninitialised" alt="" coords="417,107,577,133"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="456,157,539,184"/>
+</map>

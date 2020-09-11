@@ -1,0 +1,5 @@
+<map id="free_vmap_area" name="free_vmap_area">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#abcd38466a15736ef95cd327fccda3f8b" title="new_vmap_block" alt="" coords="168,5,291,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a317a8dffaf5bb41472a0ecc1824ffee4" title="vb_alloc" alt="" coords="339,5,409,32"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#aaadbe09393f9ccb3f003dd459d7b66c1" title="vm_map_ram" alt="" coords="457,5,559,32"/>
+</map>

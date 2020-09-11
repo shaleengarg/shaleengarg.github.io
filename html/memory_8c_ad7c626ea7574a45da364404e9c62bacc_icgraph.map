@@ -1,0 +1,8 @@
+<map id="insert_page" name="insert_page">
+<area shape="rect" id="node2" href="$memory_8c.html#a787ca1af867a32071901fa89126f6979" title="vm_insert_page" alt="" coords="153,17,267,43"/>
+<area shape="rect" id="node5" href="$memory_8c.html#a423f56b638cbbe845241987b9aa60ba0" title="__vm_insert_mixed" alt="" coords="143,71,277,98"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#ac3e3bf07056398cfb3c22ea46b1932eb" title="remap_vmalloc_range\l_partial" alt="" coords="338,5,487,47"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#a0cb5dbe0a4270c86c2eb4d40252a1be7" title="remap_vmalloc_range" alt="" coords="548,13,697,39"/>
+<area shape="rect" id="node6" href="$memory_8c.html#a86db3a4c8645bcccc041e81a164458a1" title="vm_insert_mixed" alt="" coords="352,71,473,98"/>
+<area shape="rect" id="node7" href="$memory_8c.html#aedfc5b9612dee0a24fddb16d6cd0ac4e" title="vm_insert_mixed_mkwrite" alt="" coords="325,122,500,149"/>
+</map>

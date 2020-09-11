@@ -1,0 +1,8 @@
+<map id="remap_pfn_range" name="remap_pfn_range">
+<area shape="rect" id="node2" href="$internal_8h.html#a14fd7dd436897cb6244afc74019b28e7" title="is_cow_mapping" alt="" coords="186,5,305,32"/>
+<area shape="rect" id="node3" href="$memory_8c.html#ab47d723994cba60a98c0943a0d336532" title="remap_p4d_range" alt="" coords="183,56,308,83"/>
+<area shape="rect" id="node7" href="$memory_8c.html#a19f105545199346af91dc6363582c227" title="EXPORT_SYMBOL" alt="" coords="176,107,315,133"/>
+<area shape="rect" id="node4" href="$memory_8c.html#ad4f8de8dfdc6ceb8d3dcff80ae258593" title="remap_pud_range" alt="" coords="363,56,488,83"/>
+<area shape="rect" id="node5" href="$memory_8c.html#a065ca0f116a7213ad7eb47d4b7822a89" title="remap_pmd_range" alt="" coords="536,56,665,83"/>
+<area shape="rect" id="node6" href="$memory_8c.html#af1546e5ee5d2b86346765a5feca951e3" title="remap_pte_range" alt="" coords="713,56,836,83"/>
+</map>

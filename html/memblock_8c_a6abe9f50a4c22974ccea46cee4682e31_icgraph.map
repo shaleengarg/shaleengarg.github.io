@@ -1,0 +1,9 @@
+<map id="memblock_setclr_flag" name="memblock_setclr_flag">
+<area shape="rect" id="node2" href="$memblock_8c.html#ad345ab8fa493803a9d403e2490aa3c15" title="memblock_mark_hotplug" alt="" coords="203,5,369,32"/>
+<area shape="rect" id="node3" href="$memblock_8c.html#aaa5b4bc61aea18a9d03c1e48cd1113f0" title="memblock_clear_hotplug" alt="" coords="203,56,369,83"/>
+<area shape="rect" id="node6" href="$memblock_8c.html#a9fdf24e2cc82f5b83ebc1a8b97ff7138" title="memblock_mark_mirror" alt="" coords="207,107,365,133"/>
+<area shape="rect" id="node7" href="$memblock_8c.html#aa0fbfddb49ddad2b9dbb72aa55dbbc17" title="memblock_mark_nomap" alt="" coords="204,157,368,184"/>
+<area shape="rect" id="node8" href="$memblock_8c.html#a1a7dba6648a8938bf4adc9a8851faf3e" title="memblock_clear_nomap" alt="" coords="205,208,367,235"/>
+<area shape="rect" id="node4" href="$nobootmem_8c.html#a5a883e2e78d877fc31b6f5146f0780ec" title="free_low_memory_core\l_early" alt="" coords="417,49,575,90"/>
+<area shape="rect" id="node5" href="$nobootmem_8c.html#a557a3a8d13b137fcf3b5111066b48355" title="free_all_bootmem" alt="" coords="623,56,748,83"/>
+</map>

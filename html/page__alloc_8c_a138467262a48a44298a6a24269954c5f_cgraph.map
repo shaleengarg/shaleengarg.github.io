@@ -1,0 +1,6 @@
+<map id="pageset_set_high_and_batch" name="pageset_set_high_and_batch">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#aefe6b568d76a910741156c39d3d53263" title="pageset_set_high" alt="" coords="209,5,333,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#ab86b4592ebc1f1714c236eec2a103f94" title="pageset_set_batch" alt="" coords="205,56,337,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a92dea67167d5eec2e98f44df46b0be97" title="zone_batchsize" alt="" coords="215,107,328,133"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a8df35c1133abbde797798ca7cc3a06f2" title="pageset_update" alt="" coords="385,31,500,57"/>
+</map>

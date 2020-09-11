@@ -1,0 +1,8 @@
+<map id="percpu_pagelist_fraction_sysctl_handler" name="percpu_pagelist_fraction_sysctl_handler">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a138467262a48a44298a6a24269954c5f" title="pageset_set_high_and\l_batch" alt="" coords="216,49,368,90"/>
+<area shape="rect" id="node7" href="$failslab_8c.html#a6ab423839c5aecba29af4a42328e5842" title="__setup" alt="" coords="258,115,326,141"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#aefe6b568d76a910741156c39d3d53263" title="pageset_set_high" alt="" coords="420,5,544,32"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#ab86b4592ebc1f1714c236eec2a103f94" title="pageset_set_batch" alt="" coords="416,56,548,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a92dea67167d5eec2e98f44df46b0be97" title="zone_batchsize" alt="" coords="425,107,539,133"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a8df35c1133abbde797798ca7cc3a06f2" title="pageset_update" alt="" coords="596,31,711,57"/>
+</map>

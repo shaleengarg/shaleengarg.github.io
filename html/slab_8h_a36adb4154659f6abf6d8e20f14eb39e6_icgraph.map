@@ -1,0 +1,6 @@
+<map id="__kmem_cache_free_bulk" name="__kmem_cache_free_bulk">
+<area shape="rect" id="node2" href="$slab_8c.html#a94dd0935d21a8a28392069b75365d4c2" title="kmem_cache_alloc_bulk" alt="" coords="235,5,400,32"/>
+<area shape="rect" id="node3" href="$slab__common_8c.html#a3e13d397dab4957d0b50ff1ca117bec7" title="__kmem_cache_alloc_bulk" alt="" coords="228,56,407,83"/>
+<area shape="rect" id="node5" href="$slob_8c.html#ad71879dc5a858fc6743c68d038db566e" title="kmem_cache_free_bulk" alt="" coords="237,107,397,133"/>
+<area shape="rect" id="node4" href="$slob_8c.html#a94dd0935d21a8a28392069b75365d4c2" title="kmem_cache_alloc_bulk" alt="" coords="455,56,620,83"/>
+</map>

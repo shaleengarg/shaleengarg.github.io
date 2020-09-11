@@ -1,0 +1,6 @@
+<map id="commit_charge" name="commit_charge">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a58c0d249a30790f5467892d88a4d2a5e" title="lock_page_lru" alt="" coords="171,5,273,32"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a71dc39dacd6722c621fae0ab577ea4b6" title="unlock_page_lru" alt="" coords="164,56,280,83"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#ac336a298421ab4d2e24700ed0dfee8ab" title="mem_cgroup_page_lruvec" alt="" coords="328,31,503,57"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a47202e1c655c5e94af7604e85b125d4d" title="mem_cgroup_page_nodeinfo" alt="" coords="551,31,739,57"/>
+</map>

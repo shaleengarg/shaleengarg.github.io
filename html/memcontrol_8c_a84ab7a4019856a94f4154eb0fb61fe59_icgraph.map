@@ -1,0 +1,5 @@
+<map id="memcg_wb_domain_init" name="memcg_wb_domain_init">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a0de4ac1bbe8bf7f0bf38ea23464322e9" title="mem_cgroup_oom_control\l_write" alt="" coords="216,5,391,47"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a0c97c56b6208773173fd3a7c75b5ee97" title="mem_cgroup_alloc" alt="" coords="238,71,369,98"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a144cd6a0ddaa009de8582af8dd3a90d1" title="mem_cgroup_css_alloc" alt="" coords="439,71,597,98"/>
+</map>

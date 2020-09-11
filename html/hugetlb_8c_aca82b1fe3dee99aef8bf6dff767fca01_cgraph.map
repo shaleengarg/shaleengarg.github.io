@@ -1,0 +1,4 @@
+<map id="follow_huge_pmd" name="follow_huge_pmd">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a02158c9b840bc15a1e19e443ba07c760" title="is_hugetlb_entry_migration" alt="" coords="176,5,353,32"/>
+<area shape="rect" id="node3" href="$migrate_8c.html#a00142ce6d43d8e1201cdc58b416180b3" title="__migration_entry_wait" alt="" coords="187,56,343,83"/>
+</map>

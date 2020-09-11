@@ -1,0 +1,23 @@
+<map id="workingset_update_node" name="workingset_update_node">
+<area shape="rect" id="node2" href="$truncate_8c.html#a8ac104807212b74ce949e2634bf24c17" title="__clear_shadow_entry" alt="" coords="220,155,372,181"/>
+<area shape="rect" id="node3" href="$truncate_8c.html#acfad73adf43d77367163b6a43f66906b" title="clear_shadow_entry" alt="" coords="422,123,561,149"/>
+<area shape="rect" id="node15" href="$truncate_8c.html#a6c92c269098c7e286c3f75f63fb8a992" title="truncate_exceptional\l_pvec_entries" alt="" coords="420,177,563,218"/>
+<area shape="rect" id="node4" href="$truncate_8c.html#a933111390393f499b763b75b4fb8494c" title="invalidate_exceptional\l_entry" alt="" coords="611,50,761,91"/>
+<area shape="rect" id="node11" href="$truncate_8c.html#ac2f0e8909e06792c78c8cfe78cb2acc1" title="invalidate_exceptional\l_entry2" alt="" coords="611,115,761,157"/>
+<area shape="rect" id="node5" href="$truncate_8c.html#a9970b944654dccb6e99dcfc93d03bce7" title="invalidate_mapping\l_pages" alt="" coords="825,49,958,90"/>
+<area shape="rect" id="node6" href="$fadvise_8c.html#ad5ab4980535b09466ccb30d7bcaaa3aa" title="ksys_fadvise64_64" alt="" coords="1036,5,1171,32"/>
+<area shape="rect" id="node9" href="$filemap_8c.html#afcc4a74ba046067e2df44e8a3875199c" title="__generic_file_write_iter" alt="" coords="1233,85,1396,112"/>
+<area shape="rect" id="node7" href="$fadvise_8c.html#aad516c4a4fb4807fc5f875c59934d426" title="SYSCALL_DEFINE4" alt="" coords="1241,5,1388,32"/>
+<area shape="rect" id="node8" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="1445,5,1591,32"/>
+<area shape="rect" id="node10" href="$filemap_8c.html#aa341d31526dcdf811c67b812a7c66a2f" title="generic_file_write_iter" alt="" coords="1444,85,1592,112"/>
+<area shape="rect" id="node12" href="$truncate_8c.html#a224a4da5442ab107e24144f7322d1d81" title="invalidate_inode_pages2\l_range" alt="" coords="809,115,973,157"/>
+<area shape="rect" id="node13" href="$filemap_8c.html#a7173fb7479e6703c2d76255049946272" title="generic_file_direct\l_write" alt="" coords="1040,107,1167,149"/>
+<area shape="rect" id="node14" href="$truncate_8c.html#ad1dbb2e32c184e634b74aa91312233b7" title="invalidate_inode_pages2" alt="" coords="1021,173,1185,200"/>
+<area shape="rect" id="node16" href="$truncate_8c.html#a2bda1fcb249c68dfe2c995d93277d8bc" title="truncate_inode_pages\l_range" alt="" coords="611,202,761,243"/>
+<area shape="rect" id="node17" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="812,181,971,208"/>
+<area shape="rect" id="node18" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="817,232,966,259"/>
+<area shape="rect" id="node22" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="822,283,961,325"/>
+<area shape="rect" id="node19" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="1029,225,1178,266"/>
+<area shape="rect" id="node20" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="1034,291,1173,317"/>
+<area shape="rect" id="node21" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="1255,291,1374,317"/>
+</map>

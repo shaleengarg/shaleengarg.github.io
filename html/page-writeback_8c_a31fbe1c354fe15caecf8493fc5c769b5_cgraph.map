@@ -1,0 +1,5 @@
+<map id="wb_update_dirty_ratelimit" name="wb_update_dirty_ratelimit">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#a25774c686d88e688ffc02ba030402452" title="dirty_freerun_ceiling" alt="" coords="224,5,363,32"/>
+<area shape="rect" id="node3" href="$page-writeback_8c.html#a9d54ef1ce1a8238a5381599623694d23" title="hard_dirty_limit" alt="" coords="238,56,349,83"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#ab205b3f7a7d55732540e4881bcd4350a" title="dtc_dom" alt="" coords="257,107,329,133"/>
+</map>

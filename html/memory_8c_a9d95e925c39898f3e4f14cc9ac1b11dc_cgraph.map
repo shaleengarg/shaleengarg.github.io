@@ -1,0 +1,5 @@
+<map id="wp_pfn_shared" name="wp_pfn_shared">
+<area shape="rect" id="node2" href="$memory_8c.html#aac666b04a51dd414ead165228d642f73" title="finish_mkwrite_fault" alt="" coords="164,5,303,32"/>
+<area shape="rect" id="node3" href="$memory_8c.html#a1524d7917f81e534e6007395ba57849a" title="wp_page_reuse" alt="" coords="351,31,464,57"/>
+<area shape="rect" id="node4" href="$pgtable-generic_8c.html#acdfb28f997180d76aadf9f7da2fdc190" title="ptep_set_access_flags" alt="" coords="512,31,668,57"/>
+</map>

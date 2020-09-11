@@ -1,0 +1,8 @@
+<map id="page_vma_mapped_walk" name="page_vma_mapped_walk">
+<area shape="rect" id="node2" href="$page__vma__mapped_8c.html#aadbd8f0a705caaa35f766b58d8241644" title="not_found" alt="" coords="225,5,303,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="223,56,305,83"/>
+<area shape="rect" id="node5" href="$page__vma__mapped_8c.html#a7f823b009605fdb2f6f9f3b7d9346347" title="check_pte" alt="" coords="223,107,305,133"/>
+<area shape="rect" id="node7" href="$page__vma__mapped_8c.html#a5172542ac4ce663bccec7af0e1806273" title="map_pte" alt="" coords="228,157,300,184"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="353,56,525,83"/>
+<area shape="rect" id="node6" href="$page__vma__mapped_8c.html#aeafc5d9dd49134df1f78850fa5ab23ec" title="pfn_in_hpage" alt="" coords="390,107,489,133"/>
+</map>

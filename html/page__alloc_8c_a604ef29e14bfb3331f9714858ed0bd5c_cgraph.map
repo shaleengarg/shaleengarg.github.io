@@ -1,0 +1,8 @@
+<map id="reserve_highatomic_pageblock" name="reserve_highatomic_pageblock">
+<area shape="rect" id="node2" href="$internal_8h.html#a48cc1f6b889a4423f9ea67afaf3e07f1" title="is_migrate_highatomic" alt="" coords="203,5,355,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#accfc45f8ce3f6887a5427a17f60b0a93" title="set_pageblock_migratetype" alt="" coords="188,56,369,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#af67b994c281b5b95f17df9a2b562878c" title="move_freepages_block" alt="" coords="201,107,357,133"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="435,56,518,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a333c46f34949ffc9430d826ef92d2638" title="move_freepages" alt="" coords="417,107,536,133"/>
+<area shape="rect" id="node7" href="$internal_8h.html#a1674ff815608c977b6231072833aa598" title="page_order" alt="" coords="584,107,671,133"/>
+</map>

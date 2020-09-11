@@ -1,0 +1,6 @@
+<map id="is_page_busy" name="is_page_busy">
+<area shape="rect" id="node2" href="$dmapool_8c.html#ad86d3e56e606d50c24c42026097dd323" title="dma_pool_destroy" alt="" coords="156,31,284,57"/>
+<area shape="rect" id="node3" href="$dmapool_8c.html#a51c0f8e0c0c3bc4f025b5fbc25c68b88" title="dmam_pool_release" alt="" coords="332,31,471,57"/>
+<area shape="rect" id="node4" href="$dmapool_8c.html#a40bcb265333a6cad51fa9dd88ef62bd5" title="dmam_pool_create" alt="" coords="522,5,654,32"/>
+<area shape="rect" id="node5" href="$dmapool_8c.html#a9b71c5232808ea9520769723678d8dc3" title="dmam_pool_destroy" alt="" coords="519,56,657,83"/>
+</map>

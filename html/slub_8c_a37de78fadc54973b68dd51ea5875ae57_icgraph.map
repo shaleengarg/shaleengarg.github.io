@@ -1,0 +1,11 @@
+<map id="init_kmem_cache_node" name="init_kmem_cache_node">
+<area shape="rect" id="node2" href="$slub_8c.html#ae76acc39ef92d4f0310fa6bdd9484021" title="early_kmem_cache_node\l_alloc" alt="" coords="212,5,383,47"/>
+<area shape="rect" id="node3" href="$slub_8c.html#af1a426aa140c913e6e3f288240862819" title="init_kmem_cache_nodes" alt="" coords="431,49,597,75"/>
+<area shape="rect" id="node6" href="$slub_8c.html#a1e62b49b0bbb0dd691d3be39efc5531a" title="slab_mem_going_online\l_callback" alt="" coords="217,123,378,164"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a8042a49a0533596273a211ef513871f3" title="kmem_cache_open" alt="" coords="654,49,789,75"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="845,49,1003,75"/>
+<area shape="rect" id="node7" href="$slub_8c.html#af04b112f6055304915a6e113dfd715b8" title="slab_memory_callback" alt="" coords="437,130,591,157"/>
+<area shape="rect" id="node8" href="$slab_8c.html#ab09e28feaf70f56a081bfb5ebf48bb1a" title="slab_offline_cpu" alt="" coords="663,103,779,130"/>
+<area shape="rect" id="node10" href="$slab_8c.html#ab96ff7a3b2629f59d8ea6fcc5b50d97a" title="kmem_cache_init_late" alt="" coords="645,154,797,181"/>
+<area shape="rect" id="node9" href="$slab_8c.html#af68b34311f3905aeeb3128a22d084453" title="cpucache_init" alt="" coords="873,103,975,130"/>
+</map>

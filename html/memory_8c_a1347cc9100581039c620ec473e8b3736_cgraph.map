@@ -1,0 +1,5 @@
+<map id="free_p4d_range" name="free_p4d_range">
+<area shape="rect" id="node2" href="$memory_8c.html#af30fb3324cc5efd4eebc08b25675bb44" title="free_pud_range" alt="" coords="164,5,275,32"/>
+<area shape="rect" id="node3" href="$memory_8c.html#af84fed2d6276de00ebcc252a0c8c03d2" title="free_pmd_range" alt="" coords="323,5,437,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#a20295cd49e9b4bff0ded8bd493510908" title="free_pte_range" alt="" coords="485,5,593,32"/>
+</map>

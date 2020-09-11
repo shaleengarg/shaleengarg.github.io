@@ -1,0 +1,8 @@
+<map id="handle_to_buddy" name="handle_to_buddy">
+<area shape="rect" id="node2" href="$z3fold_8c.html#ac2f8250f71cfe596b4a38d8b0ca14b0c" title="z3fold_free" alt="" coords="181,5,268,32"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#aeb16479c860b8962b1bc1eccef6b0374" title="z3fold_map" alt="" coords="180,56,269,83"/>
+<area shape="rect" id="node6" href="$z3fold_8c.html#afb4d49e4b4dea078a6efe5c7af3639d8" title="z3fold_unmap" alt="" coords="173,107,276,133"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#ac76ee30b90c8e4e22283e30be7fbf56b" title="z3fold_zpool_free" alt="" coords="333,5,457,32"/>
+<area shape="rect" id="node5" href="$z3fold_8c.html#a63b59c2f3a5328212ade13fb76dea165" title="z3fold_zpool_map" alt="" coords="331,56,458,83"/>
+<area shape="rect" id="node7" href="$z3fold_8c.html#a85bcacf13b21e01d2e7315f024692608" title="z3fold_zpool_unmap" alt="" coords="324,107,465,133"/>
+</map>

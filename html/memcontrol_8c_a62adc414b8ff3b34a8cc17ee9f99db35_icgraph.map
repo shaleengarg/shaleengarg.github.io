@@ -1,0 +1,7 @@
+<map id="memcg_sum_events" name="memcg_sum_events">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a959c14bbdc6fda0cd58eed51391397d0" title="tree_events" alt="" coords="254,5,345,32"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a2f8b9b3e6bb4c6b1d7ea6a1fa90370e1" title="memcg_stat_show" alt="" coords="233,56,365,83"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a93a141403665be7dfc5fa8ffcdfda5c3" title="mem_cgroup_oom_control_read" alt="" coords="196,107,403,133"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#a049fa542ec660ffdd9e00142a49e34b4" title="memory_events_show" alt="" coords="223,157,376,184"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a9be0c7bf9861692132ce9b64623aab26" title="memory_stat_show" alt="" coords="451,5,587,32"/>
+</map>

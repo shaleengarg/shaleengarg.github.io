@@ -1,0 +1,15 @@
+<map id="free_one_page" name="free_one_page">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a6d723c3b3a22a628c2f497bb37d43dd6" title="get_pfnblock_migratetype" alt="" coords="160,81,331,108"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a0132d2b120285cbc7339d459e27eb6b0" title="__free_one_page" alt="" coords="185,183,306,209"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#ac0df2a046048e741be6f862e1077ff65" title="__get_pfnblock_flags_mask" alt="" coords="379,31,563,57"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a19383722c6f07b5586f6db93cb8ecc30" title="get_pageblock_bitmap" alt="" coords="621,5,773,32"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#aba2efb179a834be3f78d1a480a5ab048" title="pfn_to_bitidx" alt="" coords="649,56,745,83"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="429,81,512,108"/>
+<area shape="rect" id="node8" href="$internal_8h.html#a99814532ded2bc9e9e998e5e83c8425d" title="__find_buddy_pfn" alt="" coords="409,132,533,159"/>
+<area shape="rect" id="node10" href="$page__alloc_8c.html#a6225eaad3ee34e28fbe85a651972e0a4" title="page_is_buddy" alt="" coords="416,183,525,209"/>
+<area shape="rect" id="node12" href="$page__alloc_8c.html#aace6c73b563a513aec47db2ed6c30a9b" title="clear_page_guard" alt="" coords="409,233,533,260"/>
+<area shape="rect" id="node13" href="$page__alloc_8c.html#a7e8cc7df33e968891fa6e954781ee20c" title="rmv_page_order" alt="" coords="413,284,528,311"/>
+<area shape="rect" id="node14" href="$page__alloc_8c.html#a10c15851616e8c1e425e75a4e1669387" title="set_page_order" alt="" coords="415,335,526,361"/>
+<area shape="rect" id="node9" href="$internal_8h.html#a4f47959b411219321126d371ab225cad" title="__pageblock_pfn_to_page" alt="" coords="611,132,784,159"/>
+<area shape="rect" id="node11" href="$internal_8h.html#a1674ff815608c977b6231072833aa598" title="page_order" alt="" coords="654,183,741,209"/>
+</map>

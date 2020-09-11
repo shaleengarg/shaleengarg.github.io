@@ -1,0 +1,10 @@
+<map id="__check_object_size" name="__check_object_size">
+<area shape="rect" id="node2" href="$usercopy_8c.html#aea41e9f700486aecf2281df453bd4632" title="check_bogus_address" alt="" coords="416,5,568,32"/>
+<area shape="rect" id="node3" href="$usercopy_8c.html#a8047bad994bb1360bea32eadcbeb2510" title="usercopy_abort" alt="" coords="616,81,727,108"/>
+<area shape="rect" id="node4" href="$usercopy_8c.html#a8315b340dc8a6826a010580c279b3254" title="check_heap_object" alt="" coords="215,107,350,133"/>
+<area shape="rect" id="node6" href="$usercopy_8c.html#a913ab4d29be671f4da5748a078af385a" title="check_stack_object" alt="" coords="213,157,352,184"/>
+<area shape="rect" id="node7" href="$usercopy_8c.html#aeabed57ca85a2c98cc8964aa4e398b84" title="check_kernel_text_object" alt="" coords="197,208,368,235"/>
+<area shape="rect" id="node9" href="$usercopy_8c.html#ab8ac28d9cf14dff8e03d9c9c8a4a555c" title="EXPORT_SYMBOL" alt="" coords="213,259,352,285"/>
+<area shape="rect" id="node5" href="$usercopy_8c.html#aae7405f1eaddcaecfbfdfa63c1275289" title="check_page_span" alt="" coords="429,107,555,133"/>
+<area shape="rect" id="node8" href="$usercopy_8c.html#a4289f6013e60965407c98a071f4ac3b8" title="overlaps" alt="" coords="457,208,527,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="__mcopy_atomic_hugetlb" name="__mcopy_atomic_hugetlb">
+<area shape="rect" id="node2" href="$userfaultfd_8c.html#a3c391c09c289f65c03fc74cdcd0ffaa3" title="mm_alloc_pmd" alt="" coords="224,5,335,32"/>
+<area shape="rect" id="node3" href="$userfaultfd_8c.html#ac12c5587eea48c86f8495fae75a25612" title="__mcopy_atomic" alt="" coords="383,31,504,57"/>
+<area shape="rect" id="node4" href="$userfaultfd_8c.html#aa6cbbe9fcfc54adb97bed881a4399e4c" title="mcopy_atomic" alt="" coords="552,5,659,32"/>
+<area shape="rect" id="node5" href="$userfaultfd_8c.html#a38bbab5dc8152683ccf6b7dab1f878de" title="mfill_zeropage" alt="" coords="552,56,659,83"/>
+</map>

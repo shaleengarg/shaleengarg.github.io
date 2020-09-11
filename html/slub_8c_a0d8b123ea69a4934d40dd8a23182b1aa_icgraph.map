@@ -1,0 +1,6 @@
+<map id="init_tid" name="init_tid">
+<area shape="rect" id="node2" href="$slub_8c.html#a3c250368e533033514018098f55e9c39" title="init_kmem_cache_cpus" alt="" coords="113,5,272,32"/>
+<area shape="rect" id="node3" href="$slub_8c.html#ae8c657387324b19e2010a91bde7ace93" title="alloc_kmem_cache_cpus" alt="" coords="320,5,489,32"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a8042a49a0533596273a211ef513871f3" title="kmem_cache_open" alt="" coords="537,5,672,32"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="720,5,877,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lruvec_init" name="lruvec_init">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#aa59ab24d40a16c5a006ae494244b59ca" title="alloc_mem_cgroup_per\l_node_info" alt="" coords="135,5,291,47"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a64e170fdacab5e117b4bccb29f90707a" title="free_area_init_core" alt="" coords="147,71,279,98"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a0c97c56b6208773173fd3a7c75b5ee97" title="mem_cgroup_alloc" alt="" coords="341,13,471,39"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a144cd6a0ddaa009de8582af8dd3a90d1" title="mem_cgroup_css_alloc" alt="" coords="521,13,680,39"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#aa2b3ef247802ed4677cb83ebc537ae52" title="free_area_init_node" alt="" coords="339,71,473,98"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="535,67,666,94"/>
+<area shape="rect" id="node11" href="$page__alloc_8c.html#a1d9cbc57aa0abd9bb35987a8f9093a99" title="free_area_init" alt="" coords="551,118,651,145"/>
+<area shape="rect" id="node8" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="749,42,862,69"/>
+<area shape="rect" id="node9" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="728,93,883,119"/>
+<area shape="rect" id="node10" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="931,93,1028,119"/>
+</map>

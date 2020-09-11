@@ -1,0 +1,9 @@
+<map id="page_swapcount" name="page_swapcount">
+<area shape="rect" id="node2" href="$swapfile_8c.html#ad4fe7577223db48583c10331f01ea948" title="_swap_info_get" alt="" coords="212,5,325,32"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#ad444e31fcdf659784694f3a03ae3fe8f" title="lock_cluster_or_swap_info" alt="" coords="181,56,357,83"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#acf3656c97473a964abea6fc7618889df" title="swap_count" alt="" coords="223,107,315,133"/>
+<area shape="rect" id="node7" href="$swapfile_8c.html#a55ec51c38de98a91581ac156083fbc5f" title="unlock_cluster_or_swap_info" alt="" coords="173,157,364,184"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#a5a8e589663203451105aa53cfeca5cc8" title="__swap_info_get" alt="" coords="412,5,532,32"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#addaa57bb3d866fa06a1ce1cb76a0700f" title="lock_cluster" alt="" coords="426,56,518,83"/>
+<area shape="rect" id="node8" href="$swapfile_8c.html#a0ff64ccc0f646c01d095914765dcb84e" title="unlock_cluster" alt="" coords="419,157,525,184"/>
+</map>

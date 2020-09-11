@@ -1,0 +1,9 @@
+<map id="shrink_vma" name="shrink_vma">
+<area shape="rect" id="node2" href="$nommu_8c.html#aa2133edad8b22dc1ac4a6574c781f0ed" title="delete_vma_from_mm" alt="" coords="143,5,293,32"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#a1e495bea7ba31a74937d6b616908acb3" title="add_vma_to_mm" alt="" coords="157,56,279,83"/>
+<area shape="rect" id="node5" href="$nommu_8c.html#a9d9437f4f23ea696d3e3e5e7d3e20878" title="delete_nommu_region" alt="" coords="143,107,293,133"/>
+<area shape="rect" id="node7" href="$nommu_8c.html#a8725abc6c91745951075a6d2c37b5983" title="add_nommu_region" alt="" coords="151,157,285,184"/>
+<area shape="rect" id="node8" href="$nommu_8c.html#ad02da7cd5f534c1e5fc97135dbe2af75" title="free_page_series" alt="" coords="157,208,279,235"/>
+<area shape="rect" id="node4" href="$internal_8h.html#a17b068c8175a9ac7cf19e0db2c070748" title="__vma_link_list" alt="" coords="369,56,481,83"/>
+<area shape="rect" id="node6" href="$nommu_8c.html#a75026fe6f5421c1cb623cc46ff8562ba" title="validate_nommu_regions" alt="" coords="341,132,508,159"/>
+</map>

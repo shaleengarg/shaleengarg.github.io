@@ -1,0 +1,8 @@
+<map id="balance_pgdat" name="balance_pgdat">
+<area shape="rect" id="node2" href="$vmscan_8c.html#a1c2142bf3f1cf9d6eceee43ee45e9f1a" title="kswapd" alt="" coords="160,81,227,108"/>
+<area shape="rect" id="node3" href="$vmscan_8c.html#a35481137d1d1f61cc1e00f8a0eb5436e" title="kswapd_run" alt="" coords="278,56,370,83"/>
+<area shape="rect" id="node7" href="$vmscan_8c.html#a6f26c44d8fe4e4c2b755c0fc5444f9fd" title="kswapd_stop" alt="" coords="275,107,373,133"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="421,5,596,32"/>
+<area shape="rect" id="node6" href="$vmscan_8c.html#ad60c359557ec9a6cd8a22ca04f5e817c" title="kswapd_init" alt="" coords="463,56,554,83"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="644,56,741,83"/>
+</map>

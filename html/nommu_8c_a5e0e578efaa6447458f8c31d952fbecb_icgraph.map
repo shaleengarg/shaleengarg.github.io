@@ -1,0 +1,6 @@
+<map id="vmap" name="vmap">
+<area shape="rect" id="node2" href="$mmap_8c.html#a11c845877178fd75e4e1d8b7951b687f" title="copy_vma" alt="" coords="108,31,191,57"/>
+<area shape="rect" id="node3" href="$mremap_8c.html#aa73038b5311eb758771caf47b8dfc45a" title="move_vma" alt="" coords="239,31,325,57"/>
+<area shape="rect" id="node4" href="$mremap_8c.html#a2a386a3e40f3b97b99e63f58a81b6a1f" title="mremap_to" alt="" coords="373,5,460,32"/>
+<area shape="rect" id="node5" href="$mremap_8c.html#ab3d71b0aaabf3564984045f1e4c3faf9" title="SYSCALL_DEFINE5" alt="" coords="508,31,655,57"/>
+</map>

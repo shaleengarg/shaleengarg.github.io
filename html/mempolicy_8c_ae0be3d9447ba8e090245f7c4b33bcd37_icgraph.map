@@ -1,0 +1,6 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a73be6369928a60847ab01457364fb9df" title="do_get_mempolicy" alt="" coords="196,5,327,32"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#a4fcac2f67850e039cf53f5e41773f20f" title="alloc_pages_current" alt="" coords="192,56,331,83"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a23e2136a9bb87ef1f772691dcaca1bdd" title="kernel_get_mempolicy" alt="" coords="379,5,531,32"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="579,5,725,32"/>
+</map>

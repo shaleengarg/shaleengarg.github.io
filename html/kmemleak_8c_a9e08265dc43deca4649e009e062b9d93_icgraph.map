@@ -1,0 +1,11 @@
+<map id="kmemleak_alloc_phys" name="kmemleak_alloc_phys">
+<area shape="rect" id="node2" href="$memblock_8c.html#ac7c453981c411cb5e5e15758045e03c7" title="memblock_alloc_range_nid" alt="" coords="204,31,383,57"/>
+<area shape="rect" id="node3" href="$memblock_8c.html#ada2324845ac67697d96314d89e289991" title="memblock_alloc_range" alt="" coords="441,5,595,32"/>
+<area shape="rect" id="node5" href="$memblock_8c.html#a210236fdd965ab1f9599ddd3077e5a9c" title="memblock_alloc_base_nid" alt="" coords="431,56,605,83"/>
+<area shape="rect" id="node4" href="$cma_8c.html#ab7b64bd3bbc02da60cb88caf5db1c8f1" title="cma_declare_contiguous" alt="" coords="653,5,820,32"/>
+<area shape="rect" id="node6" href="$memblock_8c.html#a49e1b58bfa74864476ca681e78e2ccc1" title="memblock_alloc_nid" alt="" coords="873,56,1013,83"/>
+<area shape="rect" id="node8" href="$memblock_8c.html#a0f2fd74b6601328f91b558e7c6561239" title="__memblock_alloc_base" alt="" coords="654,107,819,133"/>
+<area shape="rect" id="node7" href="$memblock_8c.html#a1f2eddd2f7386cfdf4844ca7ce889676" title="memblock_alloc_try_nid" alt="" coords="1067,56,1229,83"/>
+<area shape="rect" id="node9" href="$memblock_8c.html#ac8127f8f23528cd3cdf607afa63f28db" title="memblock_alloc_base" alt="" coords="868,107,1019,133"/>
+<area shape="rect" id="node10" href="$memblock_8c.html#a85e2d80263d7212d3c333171a6d7a104" title="memblock_alloc" alt="" coords="1090,107,1206,133"/>
+</map>

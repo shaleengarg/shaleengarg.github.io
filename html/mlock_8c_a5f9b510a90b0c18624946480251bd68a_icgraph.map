@@ -1,0 +1,8 @@
+<map id="can_do_mlock" name="can_do_mlock">
+<area shape="rect" id="node2" href="$mlock_8c.html#a8ab61d16d2fe100a26132926191e82ee" title="do_mlock" alt="" coords="194,56,273,83"/>
+<area shape="rect" id="node5" href="$mlock_8c.html#a95e9f2dc8e4f4fb910e364c6068f8a8d" title="SYSCALL_DEFINE1" alt="" coords="160,107,307,133"/>
+<area shape="rect" id="node7" href="$mmap_8c.html#a7c2706c91d5621e24c36deb9bec3728b" title="do_mmap" alt="" coords="194,157,273,184"/>
+<area shape="rect" id="node3" href="$mlock_8c.html#acdbc685290f098d5315a30649f2525f5" title="SYSCALL_DEFINE2" alt="" coords="355,5,501,32"/>
+<area shape="rect" id="node4" href="$mlock_8c.html#a3866d93960836c4c96d853541c73d387" title="SYSCALL_DEFINE3" alt="" coords="355,56,501,83"/>
+<area shape="rect" id="node6" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="355,107,501,133"/>
+</map>

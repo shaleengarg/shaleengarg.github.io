@@ -1,0 +1,6 @@
+<map id="unuse_vma" name="unuse_vma">
+<area shape="rect" id="node2" href="$swapfile_8c.html#a970442a07aae997f1a6cc9d714022330" title="unuse_mm" alt="" coords="143,31,229,57"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#ae10f213c9360b5774d0fb0bad0e06788" title="try_to_unuse" alt="" coords="277,31,375,57"/>
+<area shape="rect" id="node4" href="$frontswap_8c.html#a2ebc45616ea5d4637309b8cf3dc30235" title="frontswap_shrink" alt="" coords="435,5,557,32"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#ab77da03d81581d8413ec7a363eef8a56" title="SYSCALL_DEFINE1" alt="" coords="423,56,569,83"/>
+</map>

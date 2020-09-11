@@ -1,0 +1,10 @@
+<map id="init_currently_empty_zone" name="init_currently_empty_zone">
+<area shape="rect" id="node2" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="408,5,583,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a64e170fdacab5e117b4bccb29f90707a" title="free_area_init_core" alt="" coords="228,56,360,83"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1012,56,1109,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#aa2b3ef247802ed4677cb83ebc537ae52" title="free_area_init_node" alt="" coords="428,56,563,83"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="631,56,761,83"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#a1d9cbc57aa0abd9bb35987a8f9093a99" title="free_area_init" alt="" coords="646,107,746,133"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="830,56,943,83"/>
+<area shape="rect" id="node8" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="809,107,964,133"/>
+</map>

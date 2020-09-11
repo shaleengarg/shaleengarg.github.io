@@ -1,0 +1,9 @@
+<map id="cma_bitmap_pages_to_bits" name="cma_bitmap_pages_to_bits">
+<area shape="rect" id="node2" href="$cma_8c.html#ac1a73b0f4ff797692de6ec22bf06a3c8" title="cma_clear_bitmap" alt="" coords="235,56,363,83"/>
+<area shape="rect" id="node3" href="$cma_8c.html#ab69d6e5ae0dbd4321b69e22fd0304031" title="cma_alloc" alt="" coords="418,5,499,32"/>
+<area shape="rect" id="node6" href="$cma_8c.html#a1fe2e7b8691fbff9c469fad62651ae40" title="cma_release" alt="" coords="411,56,507,83"/>
+<area shape="rect" id="node4" href="$cma__debug_8c.html#a71fc82ab5881d595d195fd4c374880d9" title="cma_alloc_mem" alt="" coords="555,5,672,32"/>
+<area shape="rect" id="node5" href="$cma__debug_8c.html#a185b770046ccda478745c24dfa52bf19" title="cma_alloc_write" alt="" coords="720,5,836,32"/>
+<area shape="rect" id="node7" href="$cma__debug_8c.html#abcb18f119882eb0907a88f8a22cd466b" title="cma_free_mem" alt="" coords="557,56,669,83"/>
+<area shape="rect" id="node8" href="$cma__debug_8c.html#ab72af24b2cc6b4aad264b26f46409eb9" title="cma_free_write" alt="" coords="723,56,833,83"/>
+</map>

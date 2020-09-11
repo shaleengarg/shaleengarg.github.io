@@ -1,0 +1,8 @@
+<map id="show_free_areas" name="show_free_areas">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a2aae7a2dc1736d426f25e692f9871647" title="show_mem_node_skip" alt="" coords="178,5,333,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a11663f564acee1a7384f9d41d7f1caba" title="show_node" alt="" coords="211,56,299,83"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#afc76bf8806c560411af36e57a57388dd" title="show_migration_types" alt="" coords="179,107,331,133"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#a63a4eeb3f4f67b7bad7b2ac91f41d09b" title="hugetlb_show_meminfo" alt="" coords="176,157,335,184"/>
+<area shape="rect" id="node6" href="$swap__state_8c.html#a72b7402254f964fbd5e7693910d22106" title="show_swap_cache_info" alt="" coords="175,208,336,235"/>
+<area shape="rect" id="node7" href="$swap__state_8c.html#acde703224d3ea50e36c68ebcdfa48ce0" title="total_swapcache_pages" alt="" coords="384,208,547,235"/>
+</map>

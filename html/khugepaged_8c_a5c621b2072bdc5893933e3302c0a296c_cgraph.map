@@ -1,0 +1,10 @@
+<map id="khugepaged_prealloc_page" name="khugepaged_prealloc_page">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#aac95520532a3183c367189091e789351" title="khugepaged_alloc_hugepage" alt="" coords="232,59,421,85"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#afd53564b2229456651b2770e79494623" title="alloc_khugepaged_hugepage" alt="" coords="469,59,659,85"/>
+<area shape="rect" id="node6" href="$khugepaged_8c.html#ab75dbbe917b47e1961b8c7752a0eefdd" title="khugepaged_alloc_sleep" alt="" coords="959,5,1123,32"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#af045ba1d011943a0b5fcd728604ba3ff" title="alloc_hugepage_khugepaged\l_gfpmask" alt="" coords="707,106,896,147"/>
+<area shape="rect" id="node8" href="$huge__memory_8c.html#a226bb5de047e74b229a9efd41d10b7b3" title="prep_transhuge_page" alt="" coords="968,57,1115,84"/>
+<area shape="rect" id="node5" href="$khugepaged_8c.html#a1cd00a54ea5bf87a3275b1be931c09c7" title="khugepaged_find_target_node" alt="" coords="944,112,1139,139"/>
+<area shape="rect" id="node7" href="$khugepaged_8c.html#aaf485fadda37142c10f5ac472b9f267b" title="khugepaged_alloc_page" alt="" coords="961,163,1122,189"/>
+<area shape="rect" id="node9" href="$huge__memory_8c.html#a79975bdc1381d4ecde3b91ebf1e94f7c" title="page_deferred_list" alt="" coords="1187,57,1315,84"/>
+</map>

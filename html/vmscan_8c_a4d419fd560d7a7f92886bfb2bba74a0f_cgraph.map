@@ -1,0 +1,5 @@
+<map id="drop_slab_node" name="drop_slab_node">
+<area shape="rect" id="node2" href="$vmscan_8c.html#a298169209c4548c3ec17daef1d37e85f" title="shrink_slab" alt="" coords="184,5,272,32"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a691dc881cb068f156ceab87d90505686" title="mem_cgroup_iter" alt="" coords="167,56,289,83"/>
+<area shape="rect" id="node3" href="$vmscan_8c.html#ac0f45a58595c4d675428d144cf333622" title="do_shrink_slab" alt="" coords="337,5,447,32"/>
+</map>

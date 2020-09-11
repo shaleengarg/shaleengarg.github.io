@@ -1,0 +1,7 @@
+<map id="wait_on_page_bit_common" name="wait_on_page_bit_common">
+<area shape="rect" id="node2" href="$filemap_8c.html#a745e9103eca83a81d7e771e30d7d7eaa" title="wait_on_page_bit" alt="" coords="257,5,380,32"/>
+<area shape="rect" id="node3" href="$filemap_8c.html#a01d8394b241aeddcf475e0c5673170de" title="wait_on_page_bit_killable" alt="" coords="233,56,404,83"/>
+<area shape="rect" id="node4" href="$filemap_8c.html#aa3e18c4938a094f40b540743dd1dcd47" title="__lock_page" alt="" coords="271,107,366,133"/>
+<area shape="rect" id="node6" href="$filemap_8c.html#ac800e6ca1e472436de3bf67cca725da4" title="__lock_page_killable" alt="" coords="247,157,390,184"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a4d56b81ff911c1007be15c889accf568" title="__lock_page_or_retry" alt="" coords="452,132,599,159"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="split_vma" name="split_vma">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#aab5c8df898f861c0b72a304440956d98" title="mbind_range" alt="" coords="138,107,234,133"/>
+<area shape="rect" id="node8" href="$mlock_8c.html#a3b28cae81e15da9a6c672d9103cc776c" title="mlock_fixup" alt="" coords="140,183,232,209"/>
+<area shape="rect" id="node18" href="$mprotect_8c.html#abdfdcef3d2975b20fa597d19375e678e" title="mprotect_fixup" alt="" coords="132,259,240,285"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#aaf42c08b401a1c76f1038d364dba721e" title="do_mbind" alt="" coords="324,81,403,108"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a50a4a41434ad3edbd95d6267b4e6d6aa" title="kernel_mbind" alt="" coords="511,56,609,83"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#a2a7b4e9b054f340a69ecd0dddb758746" title="SYSCALL_DEFINE6" alt="" coords="681,5,828,32"/>
+<area shape="rect" id="node7" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="681,56,828,83"/>
+<area shape="rect" id="node6" href="$migrate_8c.html#a58c7b230fb6d8c7a22c5e85ce77bfdee" title="migrate_hetero_single_page" alt="" coords="876,5,1060,32"/>
+<area shape="rect" id="node9" href="$mlock_8c.html#a45591d961471582774eae8035822a326" title="apply_vma_lock_flags" alt="" coords="288,157,439,184"/>
+<area shape="rect" id="node14" href="$mlock_8c.html#a497caa08146c2d37eef2e9fe4b8fd29f" title="apply_mlockall_flags" alt="" coords="292,208,435,235"/>
+<area shape="rect" id="node10" href="$mlock_8c.html#a8ab61d16d2fe100a26132926191e82ee" title="do_mlock" alt="" coords="521,107,599,133"/>
+<area shape="rect" id="node13" href="$mlock_8c.html#ab5a2cccde01b9dec2b8594a24a521cc3" title="SYSCALL_DEFINE2" alt="" coords="487,157,633,184"/>
+<area shape="rect" id="node11" href="$mlock_8c.html#acdbc685290f098d5315a30649f2525f5" title="SYSCALL_DEFINE2" alt="" coords="681,107,828,133"/>
+<area shape="rect" id="node12" href="$mlock_8c.html#a3866d93960836c4c96d853541c73d387" title="SYSCALL_DEFINE3" alt="" coords="681,157,828,184"/>
+<area shape="rect" id="node15" href="$mlock_8c.html#a95e9f2dc8e4f4fb910e364c6068f8a8d" title="SYSCALL_DEFINE1" alt="" coords="487,208,633,235"/>
+<area shape="rect" id="node17" href="$mlock_8c.html#a890b1d87c318cdee4c3a3afc07da24f3" title="SYSCALL_DEFINE0" alt="" coords="487,259,633,285"/>
+<area shape="rect" id="node16" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="681,259,828,285"/>
+<area shape="rect" id="node19" href="$mprotect_8c.html#a7cb90434ff7de866624116a1b4bbb840" title="do_mprotect_pkey" alt="" coords="299,284,428,311"/>
+</map>

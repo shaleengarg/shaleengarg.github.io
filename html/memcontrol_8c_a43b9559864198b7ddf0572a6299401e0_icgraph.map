@@ -1,0 +1,5 @@
+<map id="__mem_cgroup_usage_register_event" name="__mem_cgroup_usage_register_event">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#acc618b42efb95e5481789b03bc34467c" title="mem_cgroup_usage_register\l_event" alt="" coords="207,5,396,47"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a3693b409e4a8b3b713efab51f51de6fb" title="memsw_cgroup_usage\l_register_event" alt="" coords="223,71,379,112"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a2905ef3b9838a2ae576d02a7673f2c50" title="memcg_write_event_control" alt="" coords="444,46,629,73"/>
+</map>

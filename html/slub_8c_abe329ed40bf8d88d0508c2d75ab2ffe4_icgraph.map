@@ -1,0 +1,4 @@
+<map id="memcg_propagate_slab_attrs" name="memcg_propagate_slab_attrs">
+<area shape="rect" id="node2" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="213,5,371,32"/>
+<area shape="rect" id="node3" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="215,56,369,83"/>
+</map>

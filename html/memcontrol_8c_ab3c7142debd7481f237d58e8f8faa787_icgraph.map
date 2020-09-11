@@ -1,0 +1,6 @@
+<map id="memcg_wb_domain_size_changed" name="memcg_wb_domain_size_changed">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a0de4ac1bbe8bf7f0bf38ea23464322e9" title="mem_cgroup_oom_control\l_write" alt="" coords="223,5,397,47"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a7de0beac3da2fdff490f380d6d291f4a" title="mem_cgroup_css_reset" alt="" coords="229,71,391,98"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a09035f36b67862fa496556af113239cc" title="memory_high_write" alt="" coords="243,122,377,149"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#abeeaabf61986adcafdbbb54ad0e2f20d" title="memory_max_write" alt="" coords="242,173,378,199"/>
+</map>

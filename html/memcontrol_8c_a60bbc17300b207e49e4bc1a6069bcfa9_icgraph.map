@@ -1,0 +1,6 @@
+<map id="reclaim_high" name="reclaim_high">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a60f50c965b9b6fce15b5aedc938f02d7" title="high_work_func" alt="" coords="194,5,307,32"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#aaf6e598f8e96d118e03711ef20f32490" title="mem_cgroup_handle_over_high" alt="" coords="148,56,353,83"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a0c97c56b6208773173fd3a7c75b5ee97" title="mem_cgroup_alloc" alt="" coords="401,5,532,32"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a144cd6a0ddaa009de8582af8dd3a90d1" title="mem_cgroup_css_alloc" alt="" coords="580,5,739,32"/>
+</map>

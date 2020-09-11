@@ -1,0 +1,6 @@
+<map id="__cmpxchg_double_slab" name="__cmpxchg_double_slab">
+<area shape="rect" id="node2" href="$slub_8c.html#a855805d44bf056487bdae8557af97f25" title="slab_lock" alt="" coords="261,5,339,32"/>
+<area shape="rect" id="node3" href="$slub_8c.html#aeae0c2b2b462960ca2a6ff6989bb2699" title="set_page_slub_counters" alt="" coords="219,56,381,83"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a0d74ddb1f42616f1d0641e4f7b6ac7fe" title="slab_unlock" alt="" coords="255,107,345,133"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a1d52440ec65fe67a7ce93cfe4bed3fb7" title="stat" alt="" coords="278,157,322,184"/>
+</map>

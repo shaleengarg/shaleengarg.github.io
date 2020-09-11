@@ -1,0 +1,7 @@
+<map id="take_rmap_locks" name="take_rmap_locks">
+<area shape="rect" id="node2" href="$mremap_8c.html#aa39761302fc549282d288112162c0807" title="move_ptes" alt="" coords="175,5,261,32"/>
+<area shape="rect" id="node3" href="$mremap_8c.html#aa12aaca460bc64ba4d3e34a87e42a70f" title="move_page_tables" alt="" coords="309,31,440,57"/>
+<area shape="rect" id="node4" href="$mremap_8c.html#aa73038b5311eb758771caf47b8dfc45a" title="move_vma" alt="" coords="488,31,575,57"/>
+<area shape="rect" id="node5" href="$mremap_8c.html#a2a386a3e40f3b97b99e63f58a81b6a1f" title="mremap_to" alt="" coords="623,5,709,32"/>
+<area shape="rect" id="node6" href="$mremap_8c.html#ab3d71b0aaabf3564984045f1e4c3faf9" title="SYSCALL_DEFINE5" alt="" coords="757,31,904,57"/>
+</map>

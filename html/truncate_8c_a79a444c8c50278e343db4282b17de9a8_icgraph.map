@@ -1,0 +1,11 @@
+<map id="truncate_cleanup_page" name="truncate_cleanup_page">
+<area shape="rect" id="node2" href="$truncate_8c.html#a3fb1d50447ec75b56010088a80f0cc5f" title="truncate_inode_page" alt="" coords="209,13,352,40"/>
+<area shape="rect" id="node4" href="$truncate_8c.html#a2bda1fcb249c68dfe2c995d93277d8bc" title="truncate_inode_pages\l_range" alt="" coords="417,57,566,98"/>
+<area shape="rect" id="node3" href="$truncate_8c.html#a0675b6211dbef665689993ef391bff98" title="generic_error_remove_page" alt="" coords="400,5,583,32"/>
+<area shape="rect" id="node5" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="631,13,789,40"/>
+<area shape="rect" id="node6" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="635,64,785,91"/>
+<area shape="rect" id="node10" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="641,115,779,157"/>
+<area shape="rect" id="node7" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="837,27,987,69"/>
+<area shape="rect" id="node8" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="843,93,981,120"/>
+<area shape="rect" id="node9" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="1035,93,1153,120"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="mminit_dprintk" name="mminit_dprintk">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a27a5ac390249be689250ac28940b94ce" title="init_currently_empty_zone" alt="" coords="572,31,747,57"/>
+<area shape="rect" id="node11" href="$sparse_8c.html#a89854182802cdee86773c3c220c31f1b" title="mminit_validate_memmodel\l_limits" alt="" coords="160,70,344,111"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="975,5,1149,32"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a64e170fdacab5e117b4bccb29f90707a" title="free_area_init_core" alt="" coords="795,56,927,83"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1579,56,1676,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#aa2b3ef247802ed4677cb83ebc537ae52" title="free_area_init_node" alt="" coords="995,56,1129,83"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="1197,56,1328,83"/>
+<area shape="rect" id="node10" href="$page__alloc_8c.html#a1d9cbc57aa0abd9bb35987a8f9093a99" title="free_area_init" alt="" coords="1213,107,1313,133"/>
+<area shape="rect" id="node8" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="1397,56,1510,83"/>
+<area shape="rect" id="node9" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="1376,107,1531,133"/>
+<area shape="rect" id="node12" href="$bootmem_8c.html#ad680209c59ddf0c4d2d2094bcc192371" title="init_bootmem_core" alt="" coords="392,120,524,147"/>
+<area shape="rect" id="node15" href="$sparse_8c.html#ac7e26c77a3b71e5805d79fd17f0081ec" title="memory_present" alt="" coords="399,69,517,96"/>
+<area shape="rect" id="node13" href="$bootmem_8c.html#a4061146130ca3afabb74e77a14f3c23d" title="init_bootmem_node" alt="" coords="592,107,727,133"/>
+<area shape="rect" id="node14" href="$bootmem_8c.html#a09eb46be616cf4e2bdb9fcf5d975d6e6" title="init_bootmem" alt="" coords="609,157,709,184"/>
+</map>

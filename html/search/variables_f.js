@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['obj_5fidx',['obj_idx',['../structzs__compact__control.html#af14dc6081a00d300a38b55b91ac522c6',1,'zs_compact_control']]],
+  ['object_5fcache',['object_cache',['../kmemleak_8c.html#a86085662a5963fc06eb151ca84ff4b89',1,'kmemleak.c']]],
+  ['object_5flist',['object_list',['../structkmemleak__object.html#acf5e81258b76f708fed04b2a2a698ea2',1,'kmemleak_object']]],
+  ['object_5ftree_5froot',['object_tree_root',['../kmemleak_8c.html#ac6a6dba0f30cdafbf285003a12107bb2',1,'kmemleak.c']]],
+  ['objects_5fper_5fslab',['objects_per_slab',['../structslabinfo.html#a3fb204070a765c682c52305a444c17bb',1,'slabinfo']]],
+  ['objs',['objs',['../structzs__size__stat.html#a64980e1135f3252f5cf8d144040c19ff',1,'zs_size_stat']]],
+  ['objs_5fper_5fzspage',['objs_per_zspage',['../structsize__class.html#ad4c332d057feda0618b9cccf4fd21956',1,'size_class']]],
+  ['offset',['offset',['../structdma__page.html#a3cccf3ffe073bc75898a589f675eb28a',1,'dma_page::offset()'],['../structzswap__entry.html#a37660aa9d2fb76b5ae11af9c1c6a6672',1,'zswap_entry::offset()']]],
+  ['oldchecksum',['oldchecksum',['../structrmap__item.html#ac8ae40a4581f6819889a7f9b4dc50312',1,'rmap_item']]],
+  ['one_5fstable_5ftree',['one_stable_tree',['../ksm_8c.html#a77ec61656d2c4b0e50391de35d0161c7',1,'ksm.c']]],
+  ['one_5funstable_5ftree',['one_unstable_tree',['../ksm_8c.html#a9f6576fb2bffd798692b9ed1360c6f74',1,'ksm.c']]],
+  ['online_5fpage_5fcallback',['online_page_callback',['../memory__hotplug_8c.html#a690e350f8c847569a8f9bb54c91cee3e',1,'memory_hotplug.c']]],
+  ['oom_5fvictims',['oom_victims',['../oom__kill_8c.html#ae9a0cfe68fed5e7f783a4c5beae4748a',1,'oom_kill.c']]],
+  ['op_5ftype',['op_type',['../structearly__log.html#a749f7ed40d800dadc1fff9dbb4f4e2f0',1,'early_log']]],
+  ['ops',['ops',['../structz3fold__pool.html#ac392ad68b741b4ba7147f1b17dee1ff2',1,'z3fold_pool::ops()'],['../structzbud__pool.html#a19d77743dd03e8e136731d409172a48f',1,'zbud_pool::ops()'],['../structzpool.html#a25e4e478b37ffc2bf578520015f772fb',1,'zpool::ops()']]],
+  ['order',['order',['../structpage__owner.html#ab9ce7ac9111bf66b9d844b6691113729',1,'page_owner::order()'],['../structscan__control.html#a1255a2e2e2e36c690571c0b5d3412d3c',1,'scan_control::order()']]],
+  ['order_5fper_5fbit',['order_per_bit',['../structcma.html#ab10ccb797b113a21646b0c9f54fb8780',1,'cma']]]
+];

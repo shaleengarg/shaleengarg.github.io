@@ -1,0 +1,15 @@
+<map id="test_clear_page_writeback" name="test_clear_page_writeback">
+<area shape="rect" id="node2" href="$util_8c.html#a62aeea79aa4d8a67e97a59093031a31b" title="page_mapping" alt="" coords="265,5,371,32"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a19792cf283d3ee97fa54d6c29c668581" title="lock_page_memcg" alt="" coords="253,56,383,83"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#ac336a298421ab4d2e24700ed0dfee8ab" title="mem_cgroup_page_lruvec" alt="" coords="231,107,405,133"/>
+<area shape="rect" id="node8" href="$page-writeback_8c.html#a7645183139530e9697e4844bf82fed14" title="__wb_writeout_inc" alt="" coords="253,157,383,184"/>
+<area shape="rect" id="node12" href="$page-writeback_8c.html#a4bdfeabeaecd7c5ff2f3f13e39077e61" title="mapping_tagged" alt="" coords="259,208,377,235"/>
+<area shape="rect" id="node14" href="$memcontrol_8c.html#a3209996914d968842c625f1039911abe" title="__unlock_page_memcg" alt="" coords="239,259,397,285"/>
+<area shape="rect" id="node3" href="$util_8c.html#a512c1d72bf755e9b5eda83c17b40530b" title="EXPORT_SYMBOL" alt="" coords="478,5,617,32"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#ab6c819618baad48d5f53fa854a4865f1" title="EXPORT_SYMBOL" alt="" coords="478,56,617,83"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#a47202e1c655c5e94af7604e85b125d4d" title="mem_cgroup_page_nodeinfo" alt="" coords="453,107,641,133"/>
+<area shape="rect" id="node9" href="$page-writeback_8c.html#a60a0b496d5f0a474af13c271aa5f6f44" title="wb_domain_writeout_inc" alt="" coords="465,157,630,184"/>
+<area shape="rect" id="node11" href="$page-writeback_8c.html#a5b1301507cfb3612d6eef1c4400234d0" title="wb_memcg_completions" alt="" coords="464,208,631,235"/>
+<area shape="rect" id="node10" href="$page-writeback_8c.html#a8b79df855ec335d6657ba209fc8dcd0a" title="wp_next_time" alt="" coords="689,157,792,184"/>
+<area shape="rect" id="node13" href="$page-writeback_8c.html#a55b4d264ed10fb5cce372dbced949b62" title="EXPORT_SYMBOL" alt="" coords="478,259,617,285"/>
+</map>

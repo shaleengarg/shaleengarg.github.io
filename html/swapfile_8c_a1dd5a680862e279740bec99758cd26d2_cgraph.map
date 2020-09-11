@@ -1,0 +1,13 @@
+<map id="inc_cluster_info_page" name="inc_cluster_info_page">
+<area shape="rect" id="node2" href="$swapfile_8c.html#ac04d542ce23ef6268008dc93b41d5f8a" title="cluster_is_free" alt="" coords="211,5,317,32"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#ac3be8330c2e7d941af2f8a70031f90fc" title="alloc_cluster" alt="" coords="217,56,311,83"/>
+<area shape="rect" id="node11" href="$swapfile_8c.html#a414c8080948b35d085414c9c5b003818" title="cluster_count" alt="" coords="214,107,314,133"/>
+<area shape="rect" id="node12" href="$swapfile_8c.html#a0f18718ae539edb3c4a019fe023e7c2d" title="cluster_set_count" alt="" coords="201,157,327,184"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#a3015d66e52f6278f0f3dc56bc7907fce" title="cluster_list_first" alt="" coords="394,5,509,32"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#ad6c7cd6ec3cc21d591daaf0e34651d2c" title="cluster_list_del_first" alt="" coords="382,56,521,83"/>
+<area shape="rect" id="node10" href="$swapfile_8c.html#a7370e18e32a4fd3973bd2eaac61dbc31" title="cluster_set_count_flag" alt="" coords="375,132,528,159"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#afc8338ae544221f1a8e0ebbf71e2dda9" title="cluster_next" alt="" coords="603,5,696,32"/>
+<area shape="rect" id="node7" href="$swapfile_8c.html#afbab8ddd89b3752f8442d37ec4e4b17b" title="cluster_set_null" alt="" coords="593,56,706,83"/>
+<area shape="rect" id="node8" href="$swapfile_8c.html#aa673b37ff062b4da4cdecc4e203947b3" title="cluster_set_next_flag" alt="" coords="576,107,723,133"/>
+<area shape="rect" id="node9" href="$vmalloc_8c.html#a9660010f117c9300228305106799967c" title="f" alt="" coords="771,132,809,159"/>
+</map>

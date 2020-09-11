@@ -1,0 +1,5 @@
+<map id="next_node_allowed" name="next_node_allowed">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a2ef5df2f500ce101a51693eaeda7d28c" title="get_valid_node_allowed" alt="" coords="187,53,347,79"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a68f303218d2ab22e831c852dad29b49e" title="hstate_next_node_to\l_alloc" alt="" coords="409,5,552,47"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a823383f385f7d71953fbcdc072356f33" title="hstate_next_node_to_free" alt="" coords="395,82,567,109"/>
+</map>

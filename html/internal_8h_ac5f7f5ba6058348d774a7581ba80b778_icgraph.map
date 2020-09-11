@@ -1,0 +1,19 @@
+<map id="mm_find_pmd" name="mm_find_pmd">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#a2e879f784df4aae7cb01f9ea5aa03160" title="__collapse_huge_page\l_swapin" alt="" coords="157,5,312,47"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#a77a6922623a91665a2624b3cbcf7cd11" title="collapse_huge_page" alt="" coords="371,71,511,98"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#aff1d054b68627df593fd2fb8018425b1" title="khugepaged_scan_pmd" alt="" coords="588,109,747,135"/>
+<area shape="rect" id="node10" href="$khugepaged_8c.html#adf3d5ee6d0358d3636bd4cc8a1b497db" title="collect_mm_slot" alt="" coords="609,159,726,186"/>
+<area shape="rect" id="node11" href="$ksm_8c.html#ad01769498ddd4a2c4e575186a6b742d9" title="replace_page" alt="" coords="185,223,284,250"/>
+<area shape="rect" id="node5" href="$khugepaged_8c.html#af80aa48b041037d9f64ca05b2a8eeed0" title="khugepaged_scan_mm_slot" alt="" coords="813,109,997,135"/>
+<area shape="rect" id="node6" href="$khugepaged_8c.html#ae46b498792188915a54d9aeea6b5c7ed" title="khugepaged_do_scan" alt="" coords="1048,109,1196,135"/>
+<area shape="rect" id="node7" href="$khugepaged_8c.html#a88f8dc6c3e40b89406aadeb56c179afd" title="khugepaged" alt="" coords="1252,134,1344,161"/>
+<area shape="rect" id="node8" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="1397,134,1555,161"/>
+<area shape="rect" id="node9" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="1603,134,1705,161"/>
+<area shape="rect" id="node12" href="$ksm_8c.html#a50730286ca72403647dd31bc31ca21d1" title="try_to_merge_one_page" alt="" coords="360,249,521,275"/>
+<area shape="rect" id="node13" href="$ksm_8c.html#adc00f9c13dd54b850a34abc66fa3fdec" title="try_to_merge_with_ksm_page" alt="" coords="569,249,765,275"/>
+<area shape="rect" id="node15" href="$ksm_8c.html#ac337e38b1861d432e6f414e2cace8d06" title="cmp_and_merge_page" alt="" coords="1045,261,1199,287"/>
+<area shape="rect" id="node14" href="$ksm_8c.html#ab5fda24e31f5d7bf3282d7114d97009e" title="try_to_merge_two_pages" alt="" coords="821,210,989,237"/>
+<area shape="rect" id="node16" href="$ksm_8c.html#a1ed21e33043bf219405159a1e84fade3" title="ksm_do_scan" alt="" coords="1247,261,1349,287"/>
+<area shape="rect" id="node17" href="$ksm_8c.html#ae965bf95f492cafd5ae0690af364f6b5" title="ksm_scan_thread" alt="" coords="1413,261,1539,287"/>
+<area shape="rect" id="node18" href="$ksm_8c.html#a03e68ad3af9ed57a02bcd0407a5b5ef5" title="ksm_init" alt="" coords="1619,261,1689,287"/>
+</map>

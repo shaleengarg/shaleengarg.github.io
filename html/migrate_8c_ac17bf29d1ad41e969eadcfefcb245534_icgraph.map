@@ -1,0 +1,4 @@
+<map id="change_vmap_struct" name="change_vmap_struct">
+<area shape="rect" id="node2" href="$migrate_8c.html#af755070a131892bdddcc09a0046fe65e" title="unmap_and_move_vmap_page" alt="" coords="196,5,399,32"/>
+<area shape="rect" id="node3" href="$migrate_8c.html#a2194267f50f186bc2effd20daa800cb1" title="migrate_vmalloc_pages" alt="" coords="447,5,605,32"/>
+</map>

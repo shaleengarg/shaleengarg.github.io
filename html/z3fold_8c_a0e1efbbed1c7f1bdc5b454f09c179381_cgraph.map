@@ -1,0 +1,11 @@
+<map id="exit_z3fold" name="exit_z3fold">
+<area shape="rect" id="node2" href="$zpool_8c.html#a58f4e4851dd20ade105f4bddb18899cc" title="zpool_unregister_driver" alt="" coords="365,12,521,39"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#afd46c745040d8106f8c99b61a6a6876e" title="module_init" alt="" coords="184,50,272,76"/>
+<area shape="rect" id="node5" href="$z3fold_8c.html#a9893259f32bc2bce64b184006057402d" title="init_z3fold" alt="" coords="187,100,269,127"/>
+<area shape="rect" id="node7" href="$z3fold_8c.html#a901f1d6cbb41a1d07043f80900ee78be" title="module_exit" alt="" coords="182,151,274,178"/>
+<area shape="rect" id="node8" href="$z3fold_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="156,202,300,228"/>
+<area shape="rect" id="node9" href="$z3fold_8c.html#a265b8327bad6ca7a8d88093fc81793b2" title="MODULE_AUTHOR" alt="" coords="157,252,299,279"/>
+<area shape="rect" id="node10" href="$z3fold_8c.html#aef399232742d0acaf34441f022ef9ea0" title="MODULE_DESCRIPTION" alt="" coords="139,303,317,330"/>
+<area shape="rect" id="node3" href="$zpool_8c.html#a446bb8e4a1a6fc5d089ad5ce3e4409e0" title="EXPORT_SYMBOL" alt="" coords="569,50,708,76"/>
+<area shape="rect" id="node6" href="$zpool_8c.html#a3402f9403ae4ae9ad653a264adf5c9bc" title="zpool_register_driver" alt="" coords="372,75,515,102"/>
+</map>

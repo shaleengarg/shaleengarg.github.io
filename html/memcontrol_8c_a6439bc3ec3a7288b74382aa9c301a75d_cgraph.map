@@ -1,0 +1,5 @@
+<map id="mem_cgroup_remove_from_trees" name="mem_cgroup_remove_from_trees">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a7fca430ae8981716ef0eb03b870847e5" title="soft_limit_tree_node" alt="" coords="269,5,408,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#ac14c5e9e6b1fc8721bc191dde893f1bc" title="mem_cgroup_remove_exceeded" alt="" coords="233,56,444,83"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a295c754ea0a2eb3e516c039976f6b75c" title="__mem_cgroup_remove\l_exceeded" alt="" coords="492,49,653,90"/>
+</map>

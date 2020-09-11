@@ -1,0 +1,9 @@
+<map id="page_idle_clear_pte_refs_one" name="page_idle_clear_pte_refs_one">
+<area shape="rect" id="node2" href="$page__vma__mapped_8c.html#a7920297539689e2b60c174229af10627" title="page_vma_mapped_walk" alt="" coords="191,81,360,108"/>
+<area shape="rect" id="node3" href="$page__vma__mapped_8c.html#aadbd8f0a705caaa35f766b58d8241644" title="not_found" alt="" coords="410,5,489,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="408,56,491,83"/>
+<area shape="rect" id="node6" href="$page__vma__mapped_8c.html#a7f823b009605fdb2f6f9f3b7d9346347" title="check_pte" alt="" coords="408,107,491,133"/>
+<area shape="rect" id="node8" href="$page__vma__mapped_8c.html#a5172542ac4ce663bccec7af0e1806273" title="map_pte" alt="" coords="413,157,485,184"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="539,56,711,83"/>
+<area shape="rect" id="node7" href="$page__vma__mapped_8c.html#aeafc5d9dd49134df1f78850fa5ab23ec" title="pfn_in_hpage" alt="" coords="575,107,674,133"/>
+</map>

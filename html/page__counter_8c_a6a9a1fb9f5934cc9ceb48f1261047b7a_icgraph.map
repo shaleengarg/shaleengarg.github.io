@@ -1,0 +1,15 @@
+<map id="page_counter_memparse" name="page_counter_memparse">
+<area shape="rect" id="node2" href="$hugetlb__cgroup_8c.html#a8713e51ca31c1fa64194137fb6bbde27" title="hugetlb_cgroup_write" alt="" coords="225,5,371,32"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#ad916f9bf2deddc6edb114f1c11c8e9f1" title="mem_cgroup_write" alt="" coords="232,56,364,83"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#ab0b5e1f69f2059ad51f0faf6c6e91509" title="mem_cgroup_init" alt="" coords="457,81,578,108"/>
+<area shape="rect" id="node8" href="$memcontrol_8c.html#a43b9559864198b7ddf0572a6299401e0" title="__mem_cgroup_usage\l_register_event" alt="" coords="221,158,375,199"/>
+<area shape="rect" id="node12" href="$memcontrol_8c.html#af45f029dac174e04980babae8d200cb4" title="memory_low_write" alt="" coords="233,224,363,251"/>
+<area shape="rect" id="node13" href="$memcontrol_8c.html#a09035f36b67862fa496556af113239cc" title="memory_high_write" alt="" coords="231,275,365,301"/>
+<area shape="rect" id="node14" href="$memcontrol_8c.html#abeeaabf61986adcafdbbb54ad0e2f20d" title="memory_max_write" alt="" coords="230,325,366,352"/>
+<area shape="rect" id="node3" href="$hugetlb__cgroup_8c.html#abe689edd53b7f55dfb8b28e7098faa87" title="__hugetlb_cgroup_file_init" alt="" coords="431,5,603,32"/>
+<area shape="rect" id="node4" href="$hugetlb__cgroup_8c.html#a24febee8d384ab138e27551ecbe74828" title="hugetlb_cgroup_file_init" alt="" coords="673,5,832,32"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#acfb1769d5d670c730cc54a49d828e3ed" title="hugetlb_init" alt="" coords="893,5,981,32"/>
+<area shape="rect" id="node9" href="$memcontrol_8c.html#acc618b42efb95e5481789b03bc34467c" title="mem_cgroup_usage_register\l_event" alt="" coords="423,133,612,174"/>
+<area shape="rect" id="node11" href="$memcontrol_8c.html#a3693b409e4a8b3b713efab51f51de6fb" title="memsw_cgroup_usage\l_register_event" alt="" coords="439,198,595,239"/>
+<area shape="rect" id="node10" href="$memcontrol_8c.html#a2905ef3b9838a2ae576d02a7673f2c50" title="memcg_write_event_control" alt="" coords="660,172,845,199"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="has_cpu_slab" name="has_cpu_slab">
+<area shape="rect" id="node2" href="$slub_8c.html#ad25863b0a2d6a1a20762d676d4b1da7e" title="flush_all" alt="" coords="156,56,227,83"/>
+<area shape="rect" id="node3" href="$slub_8c.html#ae4dc3b793efbd9fb28543a1e37d28625" title="__kmem_cache_shutdown" alt="" coords="275,5,452,32"/>
+<area shape="rect" id="node4" href="$slub_8c.html#ad7a6a20368bf72e80796c21c32e3b18b" title="__kmem_cache_shrink" alt="" coords="285,56,441,83"/>
+<area shape="rect" id="node10" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="286,107,441,133"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a43e2c5ac4bcf0f24a089acc40dc9e065" title="slab_mem_going_offline\l_callback" alt="" coords="500,49,663,90"/>
+<area shape="rect" id="node6" href="$slub_8c.html#af04b112f6055304915a6e113dfd715b8" title="slab_memory_callback" alt="" coords="711,56,865,83"/>
+<area shape="rect" id="node7" href="$slab_8c.html#ab09e28feaf70f56a081bfb5ebf48bb1a" title="slab_offline_cpu" alt="" coords="931,31,1047,57"/>
+<area shape="rect" id="node9" href="$slab_8c.html#ab96ff7a3b2629f59d8ea6fcc5b50d97a" title="kmem_cache_init_late" alt="" coords="913,81,1065,108"/>
+<area shape="rect" id="node8" href="$slab_8c.html#af68b34311f3905aeeb3128a22d084453" title="cpucache_init" alt="" coords="1113,31,1216,57"/>
+</map>

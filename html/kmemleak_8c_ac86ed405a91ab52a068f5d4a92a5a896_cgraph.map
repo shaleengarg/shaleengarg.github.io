@@ -1,0 +1,5 @@
+<map id="find_and_get_object" name="find_and_get_object">
+<area shape="rect" id="node2" href="$kmemleak_8c.html#a4d1c71de5b2fa4346235c41874c0dc80" title="lookup_object" alt="" coords="192,5,295,32"/>
+<area shape="rect" id="node4" href="$kmemleak_8c.html#a49419e49db7873aad5fe5f010e7df9bd" title="get_object" alt="" coords="202,56,285,83"/>
+<area shape="rect" id="node3" href="$kmemleak_8c.html#a3fc24ff0d373f335804725b4f9135d8a" title="dump_object_info" alt="" coords="343,5,467,32"/>
+</map>

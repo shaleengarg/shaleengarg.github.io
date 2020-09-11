@@ -1,0 +1,6 @@
+<map id="swap_range_free" name="swap_range_free">
+<area shape="rect" id="node2" href="$page__io_8c.html#a77d87629c0983924093cd47974131a82" title="swap_slot_free_notify" alt="" coords="175,5,324,32"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#a8644fe16717b5ed0ef75ef9adf76365d" title="add_to_avail_list" alt="" coords="190,56,309,83"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#a1a921ac0fe8990f9ad3384f44e0c00b2" title="page_swap_info" alt="" coords="372,5,488,32"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#aa6e37ef17929151f772cf113a0428ff2" title="swp_swap_info" alt="" coords="536,5,648,32"/>
+</map>

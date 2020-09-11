@@ -1,0 +1,9 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$dmapool_8c.html#a2d1058e8a79dc8b48110f0f56e090fef" title="dma_pool_create" alt="" coords="377,5,498,32"/>
+<area shape="rect" id="node3" href="$dmapool_8c.html#a40bcb265333a6cad51fa9dd88ef62bd5" title="dmam_pool_create" alt="" coords="558,56,690,83"/>
+<area shape="rect" id="node4" href="$dmapool_8c.html#ad86d3e56e606d50c24c42026097dd323" title="dma_pool_destroy" alt="" coords="192,107,320,133"/>
+<area shape="rect" id="node6" href="$dmapool_8c.html#a9b71c5232808ea9520769723678d8dc3" title="dmam_pool_destroy" alt="" coords="555,132,693,159"/>
+<area shape="rect" id="node7" href="$dmapool_8c.html#abbe78317c74a327488c2a29c2b9c3b70" title="dma_pool_alloc" alt="" coords="200,208,312,235"/>
+<area shape="rect" id="node8" href="$dmapool_8c.html#a982551494f659f563bf2feb838a8ffcd" title="dma_pool_free" alt="" coords="203,259,309,285"/>
+<area shape="rect" id="node5" href="$dmapool_8c.html#a51c0f8e0c0c3bc4f025b5fbc25c68b88" title="dmam_pool_release" alt="" coords="368,107,507,133"/>
+</map>

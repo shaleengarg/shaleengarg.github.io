@@ -1,0 +1,16 @@
+<map id="pcpu_unmap_pages" name="pcpu_unmap_pages">
+<area shape="rect" id="node2" href="$percpu-vm_8c.html#a78b9126ee05da7c18d141d7eed50da47" title="pcpu_chunk_page" alt="" coords="205,5,331,32"/>
+<area shape="rect" id="node5" href="$percpu_8c.html#aebcfd993e0f787c38e8f2a143f2228f6" title="pcpu_chunk_addr" alt="" coords="401,56,525,83"/>
+<area shape="rect" id="node7" href="$percpu_8c.html#a8724ce5d90e103c100d4d7d899fe5819" title="pcpu_page_idx" alt="" coords="213,107,323,133"/>
+<area shape="rect" id="node8" href="$percpu-vm_8c.html#abf841db424d4d27dd3487527e3dfbdaa" title="__pcpu_unmap_pages" alt="" coords="192,157,344,184"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#a2026a3785dcedb456f1eebaf21b710da" title="vmalloc_to_page" alt="" coords="403,5,523,32"/>
+<area shape="rect" id="node4" href="$nommu_8c.html#a4a9cd50228ffd2df64691ed725b89b9c" title="EXPORT_SYMBOL" alt="" coords="599,5,738,32"/>
+<area shape="rect" id="node6" href="$percpu_8c.html#adb3342a9bc1c2a74928e85d764ed997e" title="pcpu_unit_page_offset" alt="" coords="592,56,745,83"/>
+<area shape="rect" id="node9" href="$vmalloc_8c.html#a6283d2c65fdcb7b5639321994df10eac" title="unmap_kernel_range\l_noflush" alt="" coords="392,150,535,191"/>
+<area shape="rect" id="node10" href="$vmalloc_8c.html#a1ce1a92eef395a23312aca5a937bcc38" title="vunmap_page_range" alt="" coords="597,132,740,159"/>
+<area shape="rect" id="node15" href="$vmalloc_8c.html#a6e80d5faeec8b99b496c60df43393a2b" title="EXPORT_SYMBOL_GPL" alt="" coords="583,183,755,209"/>
+<area shape="rect" id="node11" href="$vmalloc_8c.html#a5b747c1b6660e956a93d790fb0fd5e0a" title="vunmap_p4d_range" alt="" coords="803,132,937,159"/>
+<area shape="rect" id="node12" href="$vmalloc_8c.html#abeecc6c56221ed4dd883469a4d71ac32" title="vunmap_pud_range" alt="" coords="985,132,1120,159"/>
+<area shape="rect" id="node13" href="$vmalloc_8c.html#ad18852b000b81c87afe718fdc16d4648" title="vunmap_pmd_range" alt="" coords="1168,132,1307,159"/>
+<area shape="rect" id="node14" href="$vmalloc_8c.html#ab7660eb425f59b80d018944655b02cc1" title="vunmap_pte_range" alt="" coords="1355,132,1487,159"/>
+</map>

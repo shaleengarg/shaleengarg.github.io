@@ -1,0 +1,11 @@
+<map id="kobj_to_hstate" name="kobj_to_hstate">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#ae05186ff0a5ff3934c68250ac296aa57" title="nr_hugepages_show_common" alt="" coords="169,5,367,32"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#a974545bfb99c460743ad700d19194ce9" title="nr_hugepages_store\l_common" alt="" coords="199,57,337,98"/>
+<area shape="rect" id="node6" href="$hugetlb_8c.html#a0135ba75f3406d53203beaaa6e941e1c" title="nr_overcommit_hugepages_show" alt="" coords="160,123,376,149"/>
+<area shape="rect" id="node7" href="$hugetlb_8c.html#a4a0e927d04c16e17e5b3f95d50468a8a" title="nr_overcommit_hugepages\l_store" alt="" coords="179,174,357,215"/>
+<area shape="rect" id="node8" href="$hugetlb_8c.html#a3365d72691cbe32d043011c612e4f317" title="free_hugepages_show" alt="" coords="192,240,344,267"/>
+<area shape="rect" id="node9" href="$hugetlb_8c.html#a829bd583b7ec072ed733a828c15d4cdc" title="resv_hugepages_show" alt="" coords="191,291,345,317"/>
+<area shape="rect" id="node10" href="$hugetlb_8c.html#af7df84d6ad6695496841f557ce55db2e" title="surplus_hugepages_show" alt="" coords="182,341,354,368"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#adb5ce792e697831a1a8fbb09f35b686e" title="nr_hugepages_show" alt="" coords="424,5,565,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a96dac5a8057b2d33ac726cd058a50b10" title="nr_hugepages_store" alt="" coords="425,60,564,87"/>
+</map>

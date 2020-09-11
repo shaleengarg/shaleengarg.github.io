@@ -1,0 +1,7 @@
+<map id="do_migrate_pages" name="do_migrate_pages">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a73be6369928a60847ab01457364fb9df" title="do_get_mempolicy" alt="" coords="191,5,321,32"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#a89e7902fcb65d393df71e2a673b6bb78" title="kernel_migrate_pages" alt="" coords="181,56,331,83"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a23e2136a9bb87ef1f772691dcaca1bdd" title="kernel_get_mempolicy" alt="" coords="379,5,531,32"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="579,31,725,57"/>
+<area shape="rect" id="node6" href="$mempolicy_8c.html#a3c8cdac5c4c3c8b98363e2347c18d06d" title="SYSCALL_DEFINE4" alt="" coords="381,107,528,133"/>
+</map>

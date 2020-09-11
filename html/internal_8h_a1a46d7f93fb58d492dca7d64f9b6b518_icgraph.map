@@ -1,0 +1,8 @@
+<map id="__isolate_free_page" name="__isolate_free_page">
+<area shape="rect" id="node2" href="$internal_8h.html#a35a803eb1c7dc5fd3d79783160683a8b" title="pageblock_pfn_to_page" alt="" coords="200,5,359,32"/>
+<area shape="rect" id="node3" href="$page__isolation_8c.html#a93e16b7821655f283eaf81e20a0ef87e" title="unset_migratetype_isolate" alt="" coords="192,56,367,83"/>
+<area shape="rect" id="node4" href="$page__isolation_8c.html#addf98fc1111bf33f875f50935b470667" title="start_isolate_page\l_range" alt="" coords="435,19,563,61"/>
+<area shape="rect" id="node7" href="$page__isolation_8c.html#a473561a8dc0cd62543de7273baf03808" title="undo_isolate_page_range" alt="" coords="415,85,584,112"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="845,56,943,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#ab79f1010c13d73bc4360e6caa20aabf5" title="is_pageblock_removable\l_nolock" alt="" coords="632,49,797,90"/>
+</map>

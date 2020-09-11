@@ -1,0 +1,7 @@
+<map id="mm_take_all_locks" name="mm_take_all_locks">
+<area shape="rect" id="node2" href="$mmap_8c.html#abd461dd16a0ace91bd31ec81b13a44a1" title="vm_lock_mapping" alt="" coords="194,5,321,32"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#a1815976f50f3cb8731410539e2854fc0" title="vm_lock_anon_vma" alt="" coords="188,56,327,83"/>
+<area shape="rect" id="node4" href="$mmap_8c.html#a3d6536f0f1f17be2f44bbad731956f46" title="mm_drop_all_locks" alt="" coords="190,107,325,133"/>
+<area shape="rect" id="node5" href="$mmap_8c.html#ac6c1d10265a34f040e95a684e2c49052" title="vm_unlock_anon_vma" alt="" coords="375,81,527,108"/>
+<area shape="rect" id="node6" href="$mmap_8c.html#af3394cec4ee1dc5b2817e038d6b371cf" title="vm_unlock_mapping" alt="" coords="380,132,521,159"/>
+</map>

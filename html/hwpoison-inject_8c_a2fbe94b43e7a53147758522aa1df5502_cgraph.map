@@ -1,0 +1,6 @@
+<map id="pfn_inject_init" name="pfn_inject_init">
+<area shape="rect" id="node2" href="$hwpoison-inject_8c.html#a4dc20bf0837349986731a84a6ce7f233" title="pfn_inject_exit" alt="" coords="175,5,281,32"/>
+<area shape="rect" id="node3" href="$hwpoison-inject_8c.html#a3cd70aad5b70607d8504068ab3c13e31" title="module_init" alt="" coords="184,56,272,83"/>
+<area shape="rect" id="node4" href="$hwpoison-inject_8c.html#a8c4afe980679fd0bfce2c36e6f57d118" title="module_exit" alt="" coords="182,107,274,133"/>
+<area shape="rect" id="node5" href="$hwpoison-inject_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="156,157,300,184"/>
+</map>

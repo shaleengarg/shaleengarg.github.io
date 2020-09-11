@@ -1,0 +1,10 @@
+<map id="pcpu_chunk_nr_blocks" name="pcpu_chunk_nr_blocks">
+<area shape="rect" id="node2" href="$percpu_8c.html#a657607252de433a1f31610bc3fbe8782" title="pcpu_next_md_free_region" alt="" coords="208,5,387,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#a588696fffeef5e64ed9cf7d45d5cbbb8" title="pcpu_next_fit_region" alt="" coords="226,56,369,83"/>
+<area shape="rect" id="node4" href="$percpu_8c.html#a927c1005a96186b2fe88d09c1280fe50" title="pcpu_init_md_blocks" alt="" coords="225,157,369,184"/>
+<area shape="rect" id="node5" href="$percpu_8c.html#abe367ea8a92fffc66dfe68f0b838040a" title="pcpu_alloc_first_chunk" alt="" coords="435,132,589,159"/>
+<area shape="rect" id="node8" href="$percpu_8c.html#ad76b31bb445ff12f1be107f2625d63f2" title="pcpu_alloc_chunk" alt="" coords="449,195,575,221"/>
+<area shape="rect" id="node6" href="$percpu_8c.html#ae7b649bde1d0b13612e9140f87647105" title="pcpu_setup_first_chunk" alt="" coords="637,132,797,159"/>
+<area shape="rect" id="node7" href="$percpu_8c.html#ac8b82138ec0a2b741025f4448ceded55" title="setup_per_cpu_areas" alt="" coords="845,132,992,159"/>
+<area shape="rect" id="node9" href="$percpu-km_8c.html#af2d4018ee15e77231909a22f3c65c0b4" title="pcpu_create_chunk" alt="" coords="650,195,785,221"/>
+</map>

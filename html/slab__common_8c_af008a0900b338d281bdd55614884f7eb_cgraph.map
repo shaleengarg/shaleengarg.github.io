@@ -1,0 +1,6 @@
+<map id="find_mergeable" name="find_mergeable">
+<area shape="rect" id="node2" href="$slab__common_8c.html#abef0043d12cbaa6c241347abd6afee9e" title="calculate_alignment" alt="" coords="164,5,301,32"/>
+<area shape="rect" id="node3" href="$slab_8c.html#abcd2b5370edca05174d4ba6c1fce4cb0" title="kmem_cache_flags" alt="" coords="165,56,300,83"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#aa5fa72b16a62d6be10572da0d755f15d" title="slab_unmergeable" alt="" coords="169,107,296,133"/>
+<area shape="rect" id="node5" href="$slab_8h.html#ab3c8abcf0e7bbf580e6f4214ca5f8429" title="is_root_cache" alt="" coords="349,107,452,133"/>
+</map>

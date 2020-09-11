@@ -1,0 +1,4 @@
+<map id="nr_overcommit_hugepages_store" name="nr_overcommit_hugepages_store">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a2d85d72f081c37d9c6c0754015a6f1a2" title="kobj_to_hstate" alt="" coords="232,13,339,39"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#aaf88b533620bd87fc7df69646fa9230c" title="kobj_to_node_hstate" alt="" coords="387,13,529,39"/>
+</map>

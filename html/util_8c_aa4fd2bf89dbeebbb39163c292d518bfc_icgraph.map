@@ -1,0 +1,15 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$util_8c.html#a5a3d8f8c9cf6cf4c0a6d4eb55f0cc4a5" title="__get_user_pages_fast" alt="" coords="228,31,385,57"/>
+<area shape="rect" id="node7" href="$util_8c.html#a5d47d925b383652a91d6809106e710e6" title="get_user_pages_fast" alt="" coords="235,81,378,108"/>
+<area shape="rect" id="node13" href="$util_8c.html#aa5271ccff3d83bfd9f25e47fef3da531" title="__page_mapcount" alt="" coords="243,132,371,159"/>
+<area shape="rect" id="node14" href="$util_8c.html#a424f33d18a7658b15139d32cf3cf7cd2" title="vm_memory_committed" alt="" coords="225,183,388,209"/>
+<area shape="rect" id="node3" href="$gup_8c.html#aa39f9a436282c044ac8dc82b03c71b72" title="__mm_populate" alt="" coords="458,31,573,57"/>
+<area shape="rect" id="node4" href="$mlock_8c.html#a8ab61d16d2fe100a26132926191e82ee" title="do_mlock" alt="" coords="676,31,755,57"/>
+<area shape="rect" id="node5" href="$mlock_8c.html#acdbc685290f098d5315a30649f2525f5" title="SYSCALL_DEFINE2" alt="" coords="836,5,983,32"/>
+<area shape="rect" id="node6" href="$mlock_8c.html#a3866d93960836c4c96d853541c73d387" title="SYSCALL_DEFINE3" alt="" coords="836,56,983,83"/>
+<area shape="rect" id="node8" href="$gup__benchmark_8c.html#aa42a0e1c865ca7636c31387ad0e964c8" title="__gup_benchmark_ioctl" alt="" coords="436,81,595,108"/>
+<area shape="rect" id="node10" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="455,132,576,159"/>
+<area shape="rect" id="node9" href="$gup__benchmark_8c.html#a3cabd6c3c6c592a77c6af930d870316f" title="gup_benchmark_ioctl" alt="" coords="643,81,788,108"/>
+<area shape="rect" id="node11" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="664,132,767,159"/>
+<area shape="rect" id="node12" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="836,132,983,159"/>
+</map>

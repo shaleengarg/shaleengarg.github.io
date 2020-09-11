@@ -1,0 +1,18 @@
+<map id="swp_swapcount" name="swp_swapcount">
+<area shape="rect" id="node2" href="$swapfile_8c.html#ad4fe7577223db48583c10331f01ea948" title="_swap_info_get" alt="" coords="643,196,756,223"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#ad444e31fcdf659784694f3a03ae3fe8f" title="lock_cluster_or_swap_info" alt="" coords="611,95,787,121"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#addaa57bb3d866fa06a1ce1cb76a0700f" title="lock_cluster" alt="" coords="883,69,975,96"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#acf3656c97473a964abea6fc7618889df" title="swap_count" alt="" coords="653,348,745,375"/>
+<area shape="rect" id="node7" href="$nommu_8c.html#a2026a3785dcedb456f1eebaf21b710da" title="vmalloc_to_page" alt="" coords="186,196,306,223"/>
+<area shape="rect" id="node9" href="$swapfile_8c.html#a55ec51c38de98a91581ac156083fbc5f" title="unlock_cluster_or_swap_info" alt="" coords="604,297,795,324"/>
+<area shape="rect" id="node10" href="$swapfile_8c.html#a0ff64ccc0f646c01d095914765dcb84e" title="unlock_cluster" alt="" coords="875,373,982,400"/>
+<area shape="rect" id="node11" href="$swapfile_8c.html#a214174837146eabfa95c0ddd645699df" title="cluster_is_huge" alt="" coords="189,399,303,425"/>
+<area shape="rect" id="node12" href="$swapfile_8c.html#a7e3dd8060684f0252ebb68ffa2419022" title="page_swapcount" alt="" coords="403,247,523,273"/>
+<area shape="rect" id="node13" href="$swapfile_8c.html#a1f21cc4372582bdac86e0dd1ad986c47" title="page_trans_huge_map\l_swapcount" alt="" coords="169,501,323,542"/>
+<area shape="rect" id="node14" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="658,576,741,603"/>
+<area shape="rect" id="node17" href="$huge__memory_8c.html#a153ae6a21ead9dab47baab70a92af395" title="total_mapcount" alt="" coords="408,652,519,679"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#a5a8e589663203451105aa53cfeca5cc8" title="__swap_info_get" alt="" coords="869,196,989,223"/>
+<area shape="rect" id="node8" href="$nommu_8c.html#a4a9cd50228ffd2df64691ed725b89b9c" title="EXPORT_SYMBOL" alt="" coords="394,196,533,223"/>
+<area shape="rect" id="node16" href="$huge__memory_8c.html#abef76edc548be706c3c0d32b3fd8f7b2" title="page_trans_huge_mapcount" alt="" coords="371,551,556,577"/>
+<area shape="rect" id="node15" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="843,576,1015,603"/>
+</map>

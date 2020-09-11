@@ -1,0 +1,8 @@
+<map id="page_writeback_cpu_online" name="page_writeback_cpu_online">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#af8e4f23a542f0e8c654efee884368de0" title="writeback_set_ratelimit" alt="" coords="195,31,351,57"/>
+<area shape="rect" id="node3" href="$page-writeback_8c.html#a3fd02f03d7de5936a7206d643b000995" title="global_dirty_limits" alt="" coords="399,31,525,57"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#a2a613b88a61be50875fb8b4ae3d8c84f" title="global_dirtyable_memory" alt="" coords="573,5,740,32"/>
+<area shape="rect" id="node6" href="$page-writeback_8c.html#a8c71aa750ecaf21372e56df1df17d1f7" title="domain_dirty_limits" alt="" coords="589,56,724,83"/>
+<area shape="rect" id="node5" href="$page-writeback_8c.html#a588d5f3e8c768daf6e66c5c9177a88b8" title="highmem_dirtyable_memory" alt="" coords="788,5,973,32"/>
+<area shape="rect" id="node7" href="$page-writeback_8c.html#a5cc8e1c1f35e3686f08f44c5f77c1d2c" title="mdtc_gdtc" alt="" coords="839,56,922,83"/>
+</map>

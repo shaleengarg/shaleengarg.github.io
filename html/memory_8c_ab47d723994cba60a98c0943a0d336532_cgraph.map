@@ -1,0 +1,5 @@
+<map id="remap_p4d_range" name="remap_p4d_range">
+<area shape="rect" id="node2" href="$memory_8c.html#ad4f8de8dfdc6ceb8d3dcff80ae258593" title="remap_pud_range" alt="" coords="179,5,304,32"/>
+<area shape="rect" id="node3" href="$memory_8c.html#a065ca0f116a7213ad7eb47d4b7822a89" title="remap_pmd_range" alt="" coords="352,5,481,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#af1546e5ee5d2b86346765a5feca951e3" title="remap_pte_range" alt="" coords="529,5,652,32"/>
+</map>

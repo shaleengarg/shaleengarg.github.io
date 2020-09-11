@@ -1,0 +1,6 @@
+<map id="move_ptes" name="move_ptes">
+<area shape="rect" id="node2" href="$mremap_8c.html#a2845ed3372530ef8839659446416857b" title="take_rmap_locks" alt="" coords="167,5,289,32"/>
+<area shape="rect" id="node3" href="$internal_8h.html#a79ea355c8f124ab577615782d0962e3b" title="flush_tlb_batched_pending" alt="" coords="140,56,316,83"/>
+<area shape="rect" id="node4" href="$mremap_8c.html#a1ca572612452a106c29c332054bbd8fe" title="move_soft_dirty_pte" alt="" coords="158,107,298,133"/>
+<area shape="rect" id="node5" href="$mremap_8c.html#abccfd747d6ee99a273604f920548032b" title="drop_rmap_locks" alt="" coords="167,157,289,184"/>
+</map>

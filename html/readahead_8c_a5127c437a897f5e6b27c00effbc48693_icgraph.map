@@ -1,0 +1,8 @@
+<map id="count_history_pages" name="count_history_pages">
+<area shape="rect" id="node2" href="$readahead_8c.html#a7ce55e0ecd5b8918421a18c44f5435bf" title="try_context_readahead" alt="" coords="196,31,351,57"/>
+<area shape="rect" id="node3" href="$readahead_8c.html#a1d54fc82b593998f1aaf345a4956a565" title="ondemand_readahead" alt="" coords="399,31,548,57"/>
+<area shape="rect" id="node4" href="$readahead_8c.html#a738379e2b73ff7c904d2c36703b9df34" title="page_cache_sync_readahead" alt="" coords="599,5,794,32"/>
+<area shape="rect" id="node7" href="$readahead_8c.html#ab48a672f1972f7d691d684a671aac6db" title="page_cache_async_readahead" alt="" coords="596,56,797,83"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a966b2cbe8bdc43898de3423aa66cd51e" title="generic_file_buffered_read" alt="" coords="845,31,1020,57"/>
+<area shape="rect" id="node6" href="$filemap_8c.html#a88d1a4fce0aed097aba7483349d37a92" title="generic_file_read_iter" alt="" coords="1068,31,1213,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pcpu_destroy_chunk" name="pcpu_destroy_chunk">
+<area shape="rect" id="node2" href="$percpu_8c.html#a5712dabdf4ccd3db89ee3ed3ef0152f6" title="pcpu_chunk_depopulated" alt="" coords="196,5,365,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#aaf035f3b29924b6928b59dafd68082e0" title="pcpu_balance_workfn" alt="" coords="413,31,561,57"/>
+</map>

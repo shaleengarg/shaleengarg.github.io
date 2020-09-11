@@ -1,0 +1,5 @@
+<map id="zbud_free" name="zbud_free">
+<area shape="rect" id="node2" href="$zbud_8c.html#a4a3e324b16819c8f0dde1e1c02e2a1da" title="handle_to_zbud_header" alt="" coords="132,5,291,32"/>
+<area shape="rect" id="node3" href="$zbud_8c.html#a082b965a56fb1fbb7befce278b9515d3" title="free_zbud_page" alt="" coords="154,56,269,83"/>
+<area shape="rect" id="node4" href="$zbud_8c.html#a2889e57b1df36034f53a2db4dceff6ea" title="num_free_chunks" alt="" coords="149,107,274,133"/>
+</map>

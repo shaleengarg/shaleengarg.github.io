@@ -1,0 +1,8 @@
+<map id="zpool_register_driver" name="zpool_register_driver">
+<area shape="rect" id="node2" href="$z3fold_8c.html#a9893259f32bc2bce64b184006057402d" title="init_z3fold" alt="" coords="196,5,277,32"/>
+<area shape="rect" id="node4" href="$zbud_8c.html#ad4513b518969f659b0b28cf4a75a9fb6" title="init_zbud" alt="" coords="199,56,274,83"/>
+<area shape="rect" id="node6" href="$zsmalloc_8c.html#a5056cd93540db381550770ede1967fb1" title="zs_init" alt="" coords="207,107,267,133"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#a0e1efbbed1c7f1bdc5b454f09c179381" title="exit_z3fold" alt="" coords="325,5,411,32"/>
+<area shape="rect" id="node5" href="$zbud_8c.html#a7418bfc5b24b97838625e214dedfde98" title="exit_zbud" alt="" coords="329,56,407,83"/>
+<area shape="rect" id="node7" href="$zsmalloc_8c.html#ac50ce1f665189c6ccfe985ebaf292198" title="zs_exit" alt="" coords="336,107,400,133"/>
+</map>

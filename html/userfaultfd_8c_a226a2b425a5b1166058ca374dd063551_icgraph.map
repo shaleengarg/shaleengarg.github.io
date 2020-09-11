@@ -1,0 +1,5 @@
+<map id="mfill_atomic_pte" name="mfill_atomic_pte">
+<area shape="rect" id="node2" href="$userfaultfd_8c.html#ac12c5587eea48c86f8495fae75a25612" title="__mcopy_atomic" alt="" coords="171,31,292,57"/>
+<area shape="rect" id="node3" href="$userfaultfd_8c.html#aa6cbbe9fcfc54adb97bed881a4399e4c" title="mcopy_atomic" alt="" coords="340,5,447,32"/>
+<area shape="rect" id="node4" href="$userfaultfd_8c.html#a38bbab5dc8152683ccf6b7dab1f878de" title="mfill_zeropage" alt="" coords="340,56,447,83"/>
+</map>

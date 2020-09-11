@@ -1,0 +1,7 @@
+<map id="check_usemap_section_nr" name="check_usemap_section_nr">
+<area shape="rect" id="node2" href="$sparse_8c.html#ac6d7445d62408637962bb1a3230b26c7" title="usemap_size" alt="" coords="231,13,329,40"/>
+<area shape="rect" id="node5" href="$sparse_8c.html#a88cd8e0415a78afdc6cbc05f35fbed37" title="sparse_early_usemaps\l_alloc_node" alt="" coords="387,57,543,98"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="377,5,552,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="600,5,697,32"/>
+<area shape="rect" id="node6" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="606,64,691,91"/>
+</map>

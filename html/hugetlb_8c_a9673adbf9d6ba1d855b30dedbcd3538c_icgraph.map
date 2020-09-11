@@ -1,0 +1,6 @@
+<map id="alloc_huge_page_nodemask" name="alloc_huge_page_nodemask">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#ae1b9d772a008d37039840a15b698f54f" title="alloc_huge_page_vma" alt="" coords="240,5,391,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a73be6369928a60847ab01457364fb9df" title="do_get_mempolicy" alt="" coords="439,5,569,32"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a23e2136a9bb87ef1f772691dcaca1bdd" title="kernel_get_mempolicy" alt="" coords="617,5,769,32"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="817,5,964,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="zswap_entry_put" name="zswap_entry_put">
+<area shape="rect" id="node2" href="$zswap_8c.html#aab94f901877d8afbbd802a4442e96319" title="zswap_writeback_entry" alt="" coords="206,5,365,32"/>
+<area shape="rect" id="node3" href="$zswap_8c.html#adbb3bee0bf419977aec37f0cb18c210a" title="zswap_frontswap_store" alt="" coords="205,56,365,83"/>
+<area shape="rect" id="node4" href="$zswap_8c.html#a6f3a13b321b038aa468046db29098695" title="zswap_frontswap_load" alt="" coords="208,107,363,133"/>
+<area shape="rect" id="node5" href="$zswap_8c.html#a1e6e22b8904fc182cff3d94764e98c88" title="zswap_frontswap_invalidate_page" alt="" coords="175,157,396,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mpol_misplaced" name="mpol_misplaced">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a3675dcdc5139b4c34611f4c4ed6764ea" title="get_vma_policy" alt="" coords="169,31,283,57"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#a7a9b91d03ae8971c06a6c5fa4e99c9e0" title="offset_il_node" alt="" coords="175,81,277,108"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a611df78237e9f47aeba831385ea14f50" title="__get_vma_policy" alt="" coords="331,5,457,32"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a1de364187246d0562cbe31fbdd7cb65c" title="get_task_policy" alt="" coords="337,56,451,83"/>
+</map>

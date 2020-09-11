@@ -1,0 +1,8 @@
+<map id="vma_wants_writenotify" name="vma_wants_writenotify">
+<area shape="rect" id="node2" href="$mmap_8c.html#a808bc0911bd3c8fc0458657f3b679d76" title="vma_set_page_prot" alt="" coords="209,5,345,32"/>
+<area shape="rect" id="node5" href="$mprotect_8c.html#abdfdcef3d2975b20fa597d19375e678e" title="mprotect_fixup" alt="" coords="393,56,501,83"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#a8ae5dadcb1725a0e8a7bf09b21e066ce" title="mmap_region" alt="" coords="397,5,497,32"/>
+<area shape="rect" id="node4" href="$mmap_8c.html#a7c2706c91d5621e24c36deb9bec3728b" title="do_mmap" alt="" coords="575,5,653,32"/>
+<area shape="rect" id="node6" href="$mprotect_8c.html#a7cb90434ff7de866624116a1b4bbb840" title="do_mprotect_pkey" alt="" coords="549,56,679,83"/>
+<area shape="rect" id="node7" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="727,56,873,83"/>
+</map>

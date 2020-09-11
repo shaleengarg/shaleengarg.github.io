@@ -1,0 +1,5 @@
+<map id="release_z3fold_page_locked_list" name="release_z3fold_page_locked_list">
+<area shape="rect" id="node2" href="$z3fold_8c.html#ae3f9426e34aafad75abfa02e62ccdc64" title="z3fold_page_trylock" alt="" coords="203,5,341,32"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#a9fa43d6c21d85bd1c0e66afb8072fc2a" title="__release_z3fold_page" alt="" coords="195,56,349,83"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#a4b0842e44cfa140e6a098f2e6383e861" title="z3fold_page_unlock" alt="" coords="397,56,535,83"/>
+</map>

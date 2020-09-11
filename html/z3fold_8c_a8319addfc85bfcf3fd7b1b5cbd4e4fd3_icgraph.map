@@ -1,0 +1,8 @@
+<map id="do_compact_page" name="do_compact_page">
+<area shape="rect" id="node2" href="$z3fold_8c.html#ae84a7c2a512628eaa94a33796ddfbab6" title="compact_page_work" alt="" coords="181,5,324,32"/>
+<area shape="rect" id="node6" href="$z3fold_8c.html#ac2f8250f71cfe596b4a38d8b0ca14b0c" title="z3fold_free" alt="" coords="209,56,296,83"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#aafe4cbe529510dda2e20e589732cb004" title="init_z3fold_page" alt="" coords="376,5,492,32"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#a6bfd5b9d7f06ec0901f51eff312a2f74" title="z3fold_alloc" alt="" coords="544,5,635,32"/>
+<area shape="rect" id="node5" href="$z3fold_8c.html#a4440851997f95eca3436ebff63d5daf2" title="z3fold_zpool_malloc" alt="" coords="683,5,823,32"/>
+<area shape="rect" id="node7" href="$z3fold_8c.html#ac76ee30b90c8e4e22283e30be7fbf56b" title="z3fold_zpool_free" alt="" coords="372,56,496,83"/>
+</map>

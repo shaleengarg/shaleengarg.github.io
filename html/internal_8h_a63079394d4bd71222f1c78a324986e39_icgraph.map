@@ -1,0 +1,11 @@
+<map id="set_pageblock_order" name="set_pageblock_order">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a984f66703d66d8060df9176c9fd8f271" title="setup_usemap" alt="" coords="196,31,303,57"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a64e170fdacab5e117b4bccb29f90707a" title="free_area_init_core" alt="" coords="351,56,483,83"/>
+<area shape="rect" id="node10" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="207,132,292,159"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#aa2b3ef247802ed4677cb83ebc537ae52" title="free_area_init_node" alt="" coords="531,56,665,83"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="713,31,844,57"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#a1d9cbc57aa0abd9bb35987a8f9093a99" title="free_area_init" alt="" coords="729,81,829,108"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="913,5,1026,32"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="892,56,1047,83"/>
+<area shape="rect" id="node8" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1095,56,1192,83"/>
+</map>

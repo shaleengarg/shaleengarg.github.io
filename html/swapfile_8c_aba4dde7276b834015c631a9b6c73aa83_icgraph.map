@@ -1,0 +1,6 @@
+<map id="add_swap_extent" name="add_swap_extent">
+<area shape="rect" id="node2" href="$page__io_8c.html#a5ba266d79de42d4a009f7be31d804536" title="generic_swapfile_activate" alt="" coords="177,5,349,32"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#aa0b0308e7d450fdd31dec12fd3d1de7d" title="setup_swap_extents" alt="" coords="397,31,540,57"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#a585237958e2b57fbb3632ff01dce4efa" title="setup_swap_map_and\l_extents" alt="" coords="588,23,740,65"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#a39cc03becaac7ce86a320def3658ff8f" title="SYSCALL_DEFINE2" alt="" coords="788,31,935,57"/>
+</map>

@@ -1,0 +1,27 @@
+var structscan__control =
+[
+    [ "compaction_ready", "structscan__control.html#a004cbba23109b3a9d251a861788984ca", null ],
+    [ "congested", "structscan__control.html#a98690b674270b51d1555b3af902be885", null ],
+    [ "dirty", "structscan__control.html#a86a1d67e4d8f9e3627b9151a5e8fe414", null ],
+    [ "file_taken", "structscan__control.html#a03f061d554fc4642fb13e54fed9cf321", null ],
+    [ "gfp_mask", "structscan__control.html#ad1d4eb4d4232536a431bd7fd1b3cb9d2", null ],
+    [ "hibernation_mode", "structscan__control.html#a0025eb218a891f08adea42bfb5ba397d", null ],
+    [ "immediate", "structscan__control.html#a1c568a34288414503df66639d033ac3e", null ],
+    [ "may_swap", "structscan__control.html#a4dcdd33a9e4662b3046e6dbaf340217c", null ],
+    [ "may_unmap", "structscan__control.html#ab05235c22c000ea7066a026015117c3c", null ],
+    [ "may_writepage", "structscan__control.html#a019962f6ab782a647a4b8f91e157298e", null ],
+    [ "memcg_low_reclaim", "structscan__control.html#a2ef1178731ffe8a94d195e635be01c28", null ],
+    [ "memcg_low_skipped", "structscan__control.html#a113874640aae6038cf080afe1a4ed251", null ],
+    [ "nodemask", "structscan__control.html#a644fe3e28d7fef0c3d4a11b393dbe2fc", null ],
+    [ "nr", "structscan__control.html#adaccbd64f82e69266ee7b6e811188fa8", null ],
+    [ "nr_reclaimed", "structscan__control.html#a754906ab34bc23da56578697bab04e73", null ],
+    [ "nr_scanned", "structscan__control.html#ad9daeaa2a22ac3bfeaa621faea000e5f", null ],
+    [ "nr_to_reclaim", "structscan__control.html#a5984c5b5a0c09217276d19e3be42a51c", null ],
+    [ "order", "structscan__control.html#a1255a2e2e2e36c690571c0b5d3412d3c", null ],
+    [ "priority", "structscan__control.html#a36de7630b75f10504a207061ad957746", null ],
+    [ "reclaim_idx", "structscan__control.html#abd075680da05edfd6d2c03f4b2f2f829", null ],
+    [ "taken", "structscan__control.html#a70d25f7fa387a0c69c5efa04a2cc75ac", null ],
+    [ "target_mem_cgroup", "structscan__control.html#a0d8d06846bbce1de8faab510fba3da27", null ],
+    [ "unqueued_dirty", "structscan__control.html#aa2beab2059f5f513465b35eabbd79583", null ],
+    [ "writeback", "structscan__control.html#abe160d0640791299b6f6441b373cc428", null ]
+];

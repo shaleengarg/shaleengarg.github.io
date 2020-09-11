@@ -1,0 +1,10 @@
+<map id="free_pages_prezeroed" name="free_pages_prezeroed">
+<area shape="rect" id="node2" href="$page__poison_8c.html#a34654f60d9de21d716cd1ad9195d40dd" title="page_poisoning_enabled" alt="" coords="204,5,368,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a6e8858ed506f12ba0c1f03177ab673f9" title="check_pcp_refill" alt="" coords="228,56,344,83"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a64c610358e79d63b1d12952ba337e073" title="check_new_page" alt="" coords="416,81,539,108"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#ab5c3f5c01535c08241862afb5bdafde0" title="check_new_pcp" alt="" coords="228,157,344,184"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a2198a7aec00a3766a0b33712f042a5a9" title="page_expected_state" alt="" coords="589,56,735,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a0acfe4bdfac3db9300eb32fd67a19615" title="check_new_page_bad" alt="" coords="587,107,737,133"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a8865c2650077e740844ac4383f6713ce" title="bad_page" alt="" coords="785,107,864,133"/>
+<area shape="rect" id="node8" href="$debug_8c.html#a9964bf1b226807ee36658d2f61c5dfdd" title="__dump_page" alt="" coords="912,107,1015,133"/>
+</map>

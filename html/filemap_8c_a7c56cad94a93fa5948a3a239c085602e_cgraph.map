@@ -1,0 +1,6 @@
+<map id="unlock_page" name="unlock_page">
+<area shape="rect" id="node2" href="$filemap_8c.html#a09dd6ad3845bd285620d1c7de196d263" title="clear_bit_unlock_is\l_negative_byte" alt="" coords="151,5,284,47"/>
+<area shape="rect" id="node3" href="$filemap_8c.html#a6e8111d76b87dd86ff4f0f53e2d87469" title="wake_up_page_bit" alt="" coords="152,71,283,98"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a44ac116b460b92ab7fe29579b5f39e96" title="EXPORT_SYMBOL" alt="" coords="148,122,287,149"/>
+<area shape="rect" id="node4" href="$filemap_8c.html#a8d7c07ee694e87d718f95019f60630bc" title="page_waitqueue" alt="" coords="335,71,451,98"/>
+</map>

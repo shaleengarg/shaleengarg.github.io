@@ -1,0 +1,7 @@
+<map id="chain_prune" name="chain_prune">
+<area shape="rect" id="node2" href="$ksm_8c.html#a3d5e615524da2ea4f7920cdbc4ace2bc" title="stable_tree_search" alt="" coords="145,5,277,32"/>
+<area shape="rect" id="node3" href="$ksm_8c.html#ac337e38b1861d432e6f414e2cace8d06" title="cmp_and_merge_page" alt="" coords="325,5,479,32"/>
+<area shape="rect" id="node4" href="$ksm_8c.html#a1ed21e33043bf219405159a1e84fade3" title="ksm_do_scan" alt="" coords="527,5,629,32"/>
+<area shape="rect" id="node5" href="$ksm_8c.html#ae965bf95f492cafd5ae0690af364f6b5" title="ksm_scan_thread" alt="" coords="677,5,803,32"/>
+<area shape="rect" id="node6" href="$ksm_8c.html#a03e68ad3af9ed57a02bcd0407a5b5ef5" title="ksm_init" alt="" coords="851,5,921,32"/>
+</map>

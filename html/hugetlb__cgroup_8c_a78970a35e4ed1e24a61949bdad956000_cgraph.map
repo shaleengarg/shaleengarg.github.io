@@ -1,0 +1,6 @@
+<map id="hugetlb_cgroup_charge_cgroup" name="hugetlb_cgroup_charge_cgroup">
+<area shape="rect" id="node2" href="$hugetlb__cgroup_8c.html#ae258853b1dc1dce153fe22f857ac7c41" title="hugetlb_cgroup_from_task" alt="" coords="209,5,384,32"/>
+<area shape="rect" id="node4" href="$page__counter_8c.html#a9e38feb04d9f65d77180c8ade9f35dd4" title="page_counter_try_charge" alt="" coords="213,56,381,83"/>
+<area shape="rect" id="node3" href="$hugetlb__cgroup_8c.html#aaefefb58871d1de451919757a55be94a" title="hugetlb_cgroup_from_css" alt="" coords="432,5,603,32"/>
+<area shape="rect" id="node5" href="$page__counter_8c.html#a8d1660de964ae6d862d66b8efaf11bc7" title="page_counter_cancel" alt="" coords="445,56,590,83"/>
+</map>

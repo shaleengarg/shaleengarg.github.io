@@ -1,0 +1,7 @@
+<map id="sp_free" name="sp_free">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#afff96ae8292666e73b58fa61f8bcb1fd" title="sp_delete" alt="" coords="119,56,197,83"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a926a5425a21732e64c23033110c96ce4" title="mpol_set_shared_policy" alt="" coords="460,56,623,83"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#af9fbdc086022e999a80184b4f5a16de1" title="shared_policy_replace" alt="" coords="253,5,404,32"/>
+<area shape="rect" id="node6" href="$mempolicy_8c.html#a716a5b450139eb61e879e4043b17e0ac" title="mpol_free_shared_policy" alt="" coords="245,56,412,83"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#acd0d10b3744b5b2574ccdc1ee212ce0e" title="mpol_shared_policy_init" alt="" coords="671,56,832,83"/>
+</map>

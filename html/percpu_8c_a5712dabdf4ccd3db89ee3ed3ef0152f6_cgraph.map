@@ -1,0 +1,8 @@
+<map id="pcpu_chunk_depopulated" name="pcpu_chunk_depopulated">
+<area shape="rect" id="node2" href="$percpu_8c.html#a1c5fd0c2a70dafe67b24b153d64860f6" title="pcpu_populate_chunk" alt="" coords="230,5,378,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#a731e2e6a9723b3a487a1ae7b9a66a9e9" title="pcpu_depopulate_chunk" alt="" coords="223,56,385,83"/>
+<area shape="rect" id="node4" href="$percpu_8c.html#af2d4018ee15e77231909a22f3c65c0b4" title="pcpu_create_chunk" alt="" coords="237,107,371,133"/>
+<area shape="rect" id="node5" href="$percpu_8c.html#a3e28c7ccc97523bb85ccd8eb4c3d9c99" title="pcpu_destroy_chunk" alt="" coords="233,157,375,184"/>
+<area shape="rect" id="node6" href="$percpu_8c.html#ab516cc30a47135958218559c5b10a5d0" title="pcpu_addr_to_page" alt="" coords="237,208,371,235"/>
+<area shape="rect" id="node7" href="$percpu_8c.html#a4b2783dbafa74b34be3a41b311ba2a40" title="pcpu_verify_alloc_info" alt="" coords="229,259,379,285"/>
+</map>

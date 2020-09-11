@@ -1,0 +1,8 @@
+<map id="mem_cgroup_cancel_charge" name="mem_cgroup_cancel_charge">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#aa9d0da735fd94ba0e41a877e733a7914" title="cancel_charge" alt="" coords="241,56,348,83"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a1d29e3a343ecea93fe5ec1b73703cdc8" title="mem_cgroup_is_root" alt="" coords="405,5,547,32"/>
+<area shape="rect" id="node5" href="$page__counter_8c.html#af42e32e2d8e8dbc58e8e0a6b5a71f3ea" title="page_counter_uncharge" alt="" coords="396,56,556,83"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#abf5f61cb1f1bac5685f48374083b1d2f" title="do_memsw_account" alt="" coords="405,107,547,133"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#aebb64c1ff4fb11e176f9f26d5d350124" title="DEFINE_IDA" alt="" coords="625,5,728,32"/>
+<area shape="rect" id="node6" href="$page__counter_8c.html#a8d1660de964ae6d862d66b8efaf11bc7" title="page_counter_cancel" alt="" coords="604,56,749,83"/>
+</map>

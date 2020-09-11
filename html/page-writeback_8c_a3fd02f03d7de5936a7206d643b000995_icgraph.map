@@ -1,0 +1,10 @@
+<map id="global_dirty_limits" name="global_dirty_limits">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#af8e4f23a542f0e8c654efee884368de0" title="writeback_set_ratelimit" alt="" coords="180,107,336,133"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="384,5,559,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="627,31,724,57"/>
+<area shape="rect" id="node5" href="$page-writeback_8c.html#aceb42094e4e299ad29621bd8b7f06258" title="dirty_ratio_handler" alt="" coords="407,107,535,133"/>
+<area shape="rect" id="node6" href="$page-writeback_8c.html#a1fc1e1e256d875accce7a72349c294d1" title="dirty_bytes_handler" alt="" coords="404,157,539,184"/>
+<area shape="rect" id="node7" href="$page-writeback_8c.html#a560f8f03c26178d579703a9a58c865bd" title="page_writeback_cpu\l_online" alt="" coords="401,209,542,250"/>
+<area shape="rect" id="node8" href="$page-writeback_8c.html#a5020387c1cd40d7b75bee4d99102e540" title="page_writeback_init" alt="" coords="607,216,744,243"/>
+<area shape="rect" id="node9" href="$filemap_8c.html#a6deb943195064ed16ef8ea8b529876ac" title="pagecache_init" alt="" coords="792,216,901,243"/>
+</map>

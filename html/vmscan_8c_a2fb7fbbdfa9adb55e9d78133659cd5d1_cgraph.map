@@ -1,0 +1,5 @@
+<map id="get_scan_count" name="get_scan_count">
+<area shape="rect" id="node2" href="$vmscan_8c.html#a0c41cb2995dc701378a428384649bbc5" title="global_reclaim" alt="" coords="183,5,288,32"/>
+<area shape="rect" id="node3" href="$vmscan_8c.html#a02819e71d28f1c6390a8ead9d56df5c3" title="inactive_list_is_low" alt="" coords="168,56,303,83"/>
+<area shape="rect" id="node4" href="$vmscan_8c.html#ac6e47212df68d81fb9d150ac0ad0c8c3" title="lruvec_lru_size" alt="" coords="351,81,460,108"/>
+</map>

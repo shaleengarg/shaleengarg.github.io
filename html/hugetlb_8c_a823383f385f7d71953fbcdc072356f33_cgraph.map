@@ -1,0 +1,4 @@
+<map id="hstate_next_node_to_free" name="hstate_next_node_to_free">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a2ef5df2f500ce101a51693eaeda7d28c" title="get_valid_node_allowed" alt="" coords="225,5,385,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a2ffac02c89089fbc91c295cb8d1f64e0" title="next_node_allowed" alt="" coords="433,31,567,57"/>
+</map>

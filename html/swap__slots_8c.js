@@ -1,0 +1,26 @@
+var swap__slots_8c =
+[
+    [ "SLOTS_CACHE", "swap__slots_8c.html#a1b7f8357afabb5ec77751465660a2b4e", null ],
+    [ "SLOTS_CACHE_RET", "swap__slots_8c.html#aa44b4d53c3ad41a67bb077ba9879fba2", null ],
+    [ "use_swap_slot_cache", "swap__slots_8c.html#afc9d78a83c2522d187cad6c5415eb256", null ],
+    [ "__drain_swap_slots_cache", "swap__slots_8c.html#a65d900aa2898a1d81275d4fcc6113e6f", null ],
+    [ "__reenable_swap_slots_cache", "swap__slots_8c.html#a5250cd9aaaba321b89940765f7b4ed03", null ],
+    [ "alloc_swap_slot_cache", "swap__slots_8c.html#a69135c8a83424cfa0545a741e36efe58", null ],
+    [ "check_cache_active", "swap__slots_8c.html#a555e4c4a144ed693bf4ed0f70bf1c1aa", null ],
+    [ "deactivate_swap_slots_cache", "swap__slots_8c.html#a58d1e54dfcf861878d991ec304be4580", null ],
+    [ "DEFINE_MUTEX", "swap__slots_8c.html#ab5f299194fa216217c5f3ca0af9b811d", null ],
+    [ "DEFINE_MUTEX", "swap__slots_8c.html#a131bb988bc14369bd174df232ccbf93e", null ],
+    [ "DEFINE_PER_CPU", "swap__slots_8c.html#a0f1a252de3985624281f93c55680c3ee", null ],
+    [ "disable_swap_slots_cache_lock", "swap__slots_8c.html#a9b3698d3f1fa87e10d3f5fdeb6f1b9e7", null ],
+    [ "drain_slots_cache_cpu", "swap__slots_8c.html#a2e95f23b95245ae6864a176fa70ec21e", null ],
+    [ "enable_swap_slots_cache", "swap__slots_8c.html#a1a80c7f12841acce73fd77cc9ff2b3a6", null ],
+    [ "free_slot_cache", "swap__slots_8c.html#a5f23eac7fb6740dd08eb39d06b5491bf", null ],
+    [ "free_swap_slot", "swap__slots_8c.html#ad0e4d3b79884ba4b3ea2afc83e8d7eb8", null ],
+    [ "get_swap_page", "swap__slots_8c.html#a6fa87d000465aa6d9f514dedb78c9b70", null ],
+    [ "reactivate_swap_slots_cache", "swap__slots_8c.html#a6a2cad463269c51bfdb76e028236281c", null ],
+    [ "reenable_swap_slots_cache_unlock", "swap__slots_8c.html#addff365110ab8585099d28fcf52bc24f", null ],
+    [ "refill_swap_slots_cache", "swap__slots_8c.html#a261a0d65ddd3476168b3a3487796ea68", null ],
+    [ "swap_slot_cache_active", "swap__slots_8c.html#adaad9d8c1d9f59751d3633bf6b63c8dc", null ],
+    [ "swap_slot_cache_enabled", "swap__slots_8c.html#add92398ad24e2b0f8801cc13f1797cd9", null ],
+    [ "swap_slot_cache_initialized", "swap__slots_8c.html#a65948d6097be85308d64761cfaf3ea42", null ]
+];

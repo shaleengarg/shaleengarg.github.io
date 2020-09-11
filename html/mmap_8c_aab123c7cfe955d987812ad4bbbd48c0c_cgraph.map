@@ -1,0 +1,7 @@
+<map id="__insert_vm_struct" name="__insert_vm_struct">
+<area shape="rect" id="node2" href="$mmap_8c.html#a1e0098593a8e91980495b680c7baffbf" title="find_vma_links" alt="" coords="187,5,296,32"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#adc2b1b3f24209bfc0ea556f0e3ecaad3" title="__vma_link" alt="" coords="197,56,285,83"/>
+<area shape="rect" id="node4" href="$internal_8h.html#a17b068c8175a9ac7cf19e0db2c070748" title="__vma_link_list" alt="" coords="344,31,456,57"/>
+<area shape="rect" id="node5" href="$mmap_8c.html#a9f523aacf36190bcc739d55f6521ef7f" title="__vma_link_rb" alt="" coords="347,81,453,108"/>
+<area shape="rect" id="node6" href="$mmap_8c.html#a6cd1a1df7bcc118784aadb078082b7da" title="vma_rb_insert" alt="" coords="504,81,608,108"/>
+</map>

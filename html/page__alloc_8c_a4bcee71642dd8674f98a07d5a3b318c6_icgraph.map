@@ -1,0 +1,4 @@
+<map id="reserve_bootmem_region" name="reserve_bootmem_region">
+<area shape="rect" id="node2" href="$nobootmem_8c.html#a5a883e2e78d877fc31b6f5146f0780ec" title="free_low_memory_core\l_early" alt="" coords="221,5,379,47"/>
+<area shape="rect" id="node3" href="$nobootmem_8c.html#a557a3a8d13b137fcf3b5111066b48355" title="free_all_bootmem" alt="" coords="427,13,552,39"/>
+</map>

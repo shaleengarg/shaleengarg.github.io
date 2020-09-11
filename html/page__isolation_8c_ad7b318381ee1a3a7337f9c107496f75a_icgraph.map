@@ -1,0 +1,5 @@
+<map id="__test_page_isolated_in_pageblock" name="__test_page_isolated_in_pageblock">
+<area shape="rect" id="node2" href="$page__isolation_8c.html#a2fe1cf0dc8d7b3c13c4d5a2482e028d1" title="test_pages_isolated" alt="" coords="199,13,337,39"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="599,13,696,39"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#ab79f1010c13d73bc4360e6caa20aabf5" title="is_pageblock_removable\l_nolock" alt="" coords="385,35,551,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="isolate_zspage" name="isolate_zspage">
+<area shape="rect" id="node2" href="$zsmalloc_8c.html#ab32cf70d004c22cc1cee3206afd20abe" title="is_zspage_isolated" alt="" coords="325,5,459,32"/>
+<area shape="rect" id="node3" href="$zsmalloc_8c.html#a716e80983f6f31b89a598f2d2d51ad93" title="remove_zspage" alt="" coords="163,56,277,83"/>
+<area shape="rect" id="node4" href="$zsmalloc_8c.html#abebf53e2f70ef14bb0df4b0a147609d1" title="zs_stat_dec" alt="" coords="345,56,439,83"/>
+</map>

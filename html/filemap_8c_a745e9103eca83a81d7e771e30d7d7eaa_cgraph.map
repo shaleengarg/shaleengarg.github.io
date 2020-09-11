@@ -1,0 +1,6 @@
+<map id="wait_on_page_bit" name="wait_on_page_bit">
+<area shape="rect" id="node2" href="$filemap_8c.html#a8d7c07ee694e87d718f95019f60630bc" title="page_waitqueue" alt="" coords="208,5,324,32"/>
+<area shape="rect" id="node3" href="$filemap_8c.html#afa201442c8a256c2d29171d4fe21ee49" title="wait_on_page_bit_common" alt="" coords="176,56,356,83"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a44ac116b460b92ab7fe29579b5f39e96" title="EXPORT_SYMBOL" alt="" coords="197,107,335,133"/>
+<area shape="rect" id="node4" href="$filemap_8c.html#adb60d2d8889dde3f9ee52a45974139d9" title="wake_page_function" alt="" coords="404,56,545,83"/>
+</map>

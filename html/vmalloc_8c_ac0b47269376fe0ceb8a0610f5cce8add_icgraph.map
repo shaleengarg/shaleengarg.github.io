@@ -1,0 +1,4 @@
+<map id="vm_area_register_early" name="vm_area_register_early">
+<area shape="rect" id="node2" href="$percpu_8c.html#ae7b649bde1d0b13612e9140f87647105" title="pcpu_setup_first_chunk" alt="" coords="211,5,371,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#ac8b82138ec0a2b741025f4448ceded55" title="setup_per_cpu_areas" alt="" coords="419,5,565,32"/>
+</map>

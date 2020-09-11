@@ -1,0 +1,6 @@
+<map id="mem_hotplug_begin" name="mem_hotplug_begin">
+<area shape="rect" id="node2" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="207,5,320,32"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="383,81,537,108"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a2ba4b128e79929cea26c751ac8ae7a09" title="walk_memory_range" alt="" coords="192,107,335,133"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="585,81,683,108"/>
+</map>

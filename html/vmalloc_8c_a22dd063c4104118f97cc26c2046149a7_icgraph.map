@@ -1,0 +1,5 @@
+<map id="__vmalloc_node_flags" name="__vmalloc_node_flags">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a5e7539e7696efb631504a768037b6752" title="vmalloc" alt="" coords="220,5,287,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a43da4d84c5fb8f3e80b19fea127e018d" title="vzalloc" alt="" coords="222,56,285,83"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#ac1c04196c0d2df6a303b2cb2fb9af495" title="vzalloc_node" alt="" coords="204,107,303,133"/>
+</map>

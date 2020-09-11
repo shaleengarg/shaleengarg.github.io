@@ -1,0 +1,5 @@
+<map id="hugepage_madvise" name="hugepage_madvise">
+<area shape="rect" id="node2" href="$madvise_8c.html#ad29545dd87cfe2c0e186816034625c7e" title="madvise_behavior" alt="" coords="188,5,315,32"/>
+<area shape="rect" id="node3" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="363,5,465,32"/>
+<area shape="rect" id="node4" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="513,5,660,32"/>
+</map>

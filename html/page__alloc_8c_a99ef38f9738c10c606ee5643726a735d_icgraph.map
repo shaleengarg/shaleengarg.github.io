@@ -1,0 +1,10 @@
+<map id="init_reserved_page" name="init_reserved_page">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a3ba5f9160b844c03b768d8d0f39e0cfb" title="__init_single_page" alt="" coords="203,56,333,83"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a4bcee71642dd8674f98a07d5a3b318c6" title="reserve_bootmem_region" alt="" coords="184,111,352,137"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a9d9dd144dbea4aaa8298780ce17223d2" title="clear_zone_contiguous" alt="" coords="401,5,556,32"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#af412bbfd08b49bd3b913fdbc93512bf9" title="memmap_init_zone" alt="" coords="411,56,546,83"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="605,31,780,57"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="828,31,925,57"/>
+<area shape="rect" id="node8" href="$nobootmem_8c.html#a5a883e2e78d877fc31b6f5146f0780ec" title="free_low_memory_core\l_early" alt="" coords="400,107,557,149"/>
+<area shape="rect" id="node9" href="$nobootmem_8c.html#a557a3a8d13b137fcf3b5111066b48355" title="free_all_bootmem" alt="" coords="630,115,755,141"/>
+</map>

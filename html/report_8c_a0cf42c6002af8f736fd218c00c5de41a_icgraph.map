@@ -1,0 +1,4 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$report_8c.html#a34ec11062f40d81a8bde977fa153c643" title="kasan_save_enable_multi_shot" alt="" coords="225,5,429,32"/>
+<area shape="rect" id="node3" href="$report_8c.html#a81fcac46ed72a1e017593d32ca72df5d" title="kasan_restore_multi_shot" alt="" coords="242,56,413,83"/>
+</map>

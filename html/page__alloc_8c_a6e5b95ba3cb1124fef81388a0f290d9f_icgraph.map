@@ -1,0 +1,8 @@
+<map id="build_all_zonelists_init" name="build_all_zonelists_init">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a34f0403c01d7c4dfc9e39af19db883fd" title="build_all_zonelists" alt="" coords="205,56,333,83"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="381,5,556,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="807,56,904,83"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="403,107,534,133"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="625,107,738,133"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="604,157,759,184"/>
+</map>

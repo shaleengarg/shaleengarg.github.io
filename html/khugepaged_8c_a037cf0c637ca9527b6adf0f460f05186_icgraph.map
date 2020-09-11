@@ -1,0 +1,13 @@
+<map id="khugepaged_test_exit" name="khugepaged_test_exit">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#a1169cafe9f08f247f13ae27f1e2875d3" title="__khugepaged_enter" alt="" coords="218,21,361,47"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#a3be83ca80fd46625ea30f9345aafcca8" title="hugepage_vma_revalidate" alt="" coords="203,71,376,98"/>
+<area shape="rect" id="node7" href="$khugepaged_8c.html#af80aa48b041037d9f64ca05b2a8eeed0" title="khugepaged_scan_mm_slot" alt="" coords="1021,122,1205,149"/>
+<area shape="rect" id="node12" href="$khugepaged_8c.html#adf3d5ee6d0358d3636bd4cc8a1b497db" title="collect_mm_slot" alt="" coords="835,173,953,199"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#a2e879f784df4aae7cb01f9ea5aa03160" title="__collapse_huge_page\l_swapin" alt="" coords="424,5,579,47"/>
+<area shape="rect" id="node5" href="$khugepaged_8c.html#a77a6922623a91665a2624b3cbcf7cd11" title="collapse_huge_page" alt="" coords="627,71,767,98"/>
+<area shape="rect" id="node6" href="$khugepaged_8c.html#aff1d054b68627df593fd2fb8018425b1" title="khugepaged_scan_pmd" alt="" coords="815,71,973,98"/>
+<area shape="rect" id="node8" href="$khugepaged_8c.html#ae46b498792188915a54d9aeea6b5c7ed" title="khugepaged_do_scan" alt="" coords="1253,122,1401,149"/>
+<area shape="rect" id="node9" href="$khugepaged_8c.html#a88f8dc6c3e40b89406aadeb56c179afd" title="khugepaged" alt="" coords="1449,147,1541,174"/>
+<area shape="rect" id="node10" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="1589,147,1747,174"/>
+<area shape="rect" id="node11" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="1795,147,1897,174"/>
+</map>

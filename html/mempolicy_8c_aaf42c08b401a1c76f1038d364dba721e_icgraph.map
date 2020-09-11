@@ -1,0 +1,6 @@
+<map id="do_mbind" name="do_mbind">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a50a4a41434ad3edbd95d6267b4e6d6aa" title="kernel_mbind" alt="" coords="132,31,231,57"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a2a7b4e9b054f340a69ecd0dddb758746" title="SYSCALL_DEFINE6" alt="" coords="279,5,425,32"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="279,56,425,83"/>
+<area shape="rect" id="node4" href="$migrate_8c.html#a58c7b230fb6d8c7a22c5e85ce77bfdee" title="migrate_hetero_single_page" alt="" coords="473,5,657,32"/>
+</map>

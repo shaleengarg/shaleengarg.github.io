@@ -1,0 +1,6 @@
+<map id="sp_lookup" name="sp_lookup">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a095dbf2a55e40e0f196f1eecb91ec07f" title="mpol_shared_policy\l_lookup" alt="" coords="141,5,279,47"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#af9fbdc086022e999a80184b4f5a16de1" title="shared_policy_replace" alt="" coords="135,71,285,98"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a926a5425a21732e64c23033110c96ce4" title="mpol_set_shared_policy" alt="" coords="333,71,496,98"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#acd0d10b3744b5b2574ccdc1ee212ce0e" title="mpol_shared_policy_init" alt="" coords="544,71,705,98"/>
+</map>

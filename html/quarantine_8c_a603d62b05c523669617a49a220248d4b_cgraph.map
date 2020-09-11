@@ -1,0 +1,6 @@
+<map id="quarantine_put" name="quarantine_put">
+<area shape="rect" id="node2" href="$quarantine_8c.html#acd04074fc7838abca4658d51d45a37a7" title="qlist_put" alt="" coords="177,5,248,32"/>
+<area shape="rect" id="node4" href="$quarantine_8c.html#a3da88f9da1f9507fa2aa9f0140d3ca23" title="qlist_move_all" alt="" coords="160,56,265,83"/>
+<area shape="rect" id="node3" href="$quarantine_8c.html#a49b8ef45b73fe926fe4b9c99181b8665" title="qlist_empty" alt="" coords="313,5,403,32"/>
+<area shape="rect" id="node5" href="$quarantine_8c.html#a7996a74a388918d433f976b8fd7f4e94" title="qlist_init" alt="" coords="323,56,393,83"/>
+</map>

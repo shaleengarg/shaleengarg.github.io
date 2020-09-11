@@ -1,0 +1,7 @@
+<map id="mem_cgroup_update_tree" name="mem_cgroup_update_tree">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#aa1a4c7622c179788a3e89924c328f64f" title="soft_limit_tree_from_page" alt="" coords="233,5,405,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a47202e1c655c5e94af7604e85b125d4d" title="mem_cgroup_page_nodeinfo" alt="" coords="225,56,413,83"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a5b7f1bbe6752b130ea33ea2695bdc862" title="soft_limit_excess" alt="" coords="257,107,381,133"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a295c754ea0a2eb3e516c039976f6b75c" title="__mem_cgroup_remove\l_exceeded" alt="" coords="239,158,400,199"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#ac5222ad8d2efd138f09f91960cfb8f18" title="__mem_cgroup_insert\l_exceeded" alt="" coords="244,223,395,265"/>
+</map>

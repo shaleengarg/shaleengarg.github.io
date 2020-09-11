@@ -1,0 +1,7 @@
+<map id="kswapd" name="kswapd">
+<area shape="rect" id="node2" href="$vmscan_8c.html#a35481137d1d1f61cc1e00f8a0eb5436e" title="kswapd_run" alt="" coords="123,56,215,83"/>
+<area shape="rect" id="node6" href="$vmscan_8c.html#a6f26c44d8fe4e4c2b755c0fc5444f9fd" title="kswapd_stop" alt="" coords="120,107,219,133"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="267,5,441,32"/>
+<area shape="rect" id="node5" href="$vmscan_8c.html#ad60c359557ec9a6cd8a22ca04f5e817c" title="kswapd_init" alt="" coords="309,56,399,83"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="489,56,587,83"/>
+</map>

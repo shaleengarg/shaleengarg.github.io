@@ -1,0 +1,6 @@
+<map id="memblock_addrs_overlap" name="memblock_addrs_overlap">
+<area shape="rect" id="node2" href="$memblock_8c.html#a559e8b32916e20084e7c621d85522bef" title="memblock_overlaps_region" alt="" coords="224,31,404,57"/>
+<area shape="rect" id="node3" href="$memblock_8c.html#abaf8834e7aa241bd066ffa78f1b3c170" title="memblock_is_region\l_reserved" alt="" coords="452,23,593,65"/>
+<area shape="rect" id="node4" href="$cma_8c.html#a5ccbf330662756d587dfe604278dd9c7" title="cma_init_reserved_mem" alt="" coords="641,5,805,32"/>
+<area shape="rect" id="node5" href="$cma_8c.html#ab7b64bd3bbc02da60cb88caf5db1c8f1" title="cma_declare_contiguous" alt="" coords="853,31,1020,57"/>
+</map>

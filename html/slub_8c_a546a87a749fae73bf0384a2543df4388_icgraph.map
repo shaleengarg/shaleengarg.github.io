@@ -1,0 +1,5 @@
+<map id="calculate_sizes" name="calculate_sizes">
+<area shape="rect" id="node2" href="$slub_8c.html#a8042a49a0533596273a211ef513871f3" title="kmem_cache_open" alt="" coords="175,5,310,32"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="165,56,320,83"/>
+<area shape="rect" id="node3" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="368,5,525,32"/>
+</map>

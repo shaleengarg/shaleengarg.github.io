@@ -1,0 +1,8 @@
+<map id="move_hugetlb_state" name="move_hugetlb_state">
+<area shape="rect" id="node2" href="$hugetlb__cgroup_8c.html#a6c375437b0577f914ec8250fd5b1f2d4" title="hugetlb_cgroup_migrate" alt="" coords="200,5,360,32"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#a041b9e60fbe9aeb0296d5281a3a110a1" title="PageHugeTemporary" alt="" coords="207,56,353,83"/>
+<area shape="rect" id="node6" href="$hugetlb_8c.html#aef5de4ae8a6e9ba253ea84d6e913bc7a" title="SetPageHugeTemporary" alt="" coords="197,107,363,133"/>
+<area shape="rect" id="node7" href="$hugetlb_8c.html#afa7a2e9825bd72281e21618eb50228d9" title="ClearPageHugeTemporary" alt="" coords="192,157,368,184"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="416,31,499,57"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="547,31,719,57"/>
+</map>

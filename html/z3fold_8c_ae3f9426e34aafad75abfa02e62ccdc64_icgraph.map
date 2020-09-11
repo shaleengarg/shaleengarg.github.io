@@ -1,0 +1,13 @@
+<map id="z3fold_page_trylock" name="z3fold_page_trylock">
+<area shape="rect" id="node2" href="$z3fold_8c.html#aa252139902f99685fd84a428f5e238b1" title="release_z3fold_page\l_locked" alt="" coords="192,165,333,206"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#a8319addfc85bfcf3fd7b1b5cbd4e4fd3" title="do_compact_page" alt="" coords="388,114,516,140"/>
+<area shape="rect" id="node6" href="$z3fold_8c.html#a6bfd5b9d7f06ec0901f51eff312a2f74" title="z3fold_alloc" alt="" coords="933,114,1024,140"/>
+<area shape="rect" id="node10" href="$z3fold_8c.html#a48908cc86221eebae65da5a110fad272" title="z3fold_reclaim_page" alt="" coords="381,227,523,254"/>
+<area shape="rect" id="node12" href="$z3fold_8c.html#aaafce9c2ee6d5705293e262103befaa8" title="release_z3fold_page\l_locked_list" alt="" coords="192,48,333,89"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#ae84a7c2a512628eaa94a33796ddfbab6" title="compact_page_work" alt="" coords="571,114,713,140"/>
+<area shape="rect" id="node8" href="$z3fold_8c.html#ac2f8250f71cfe596b4a38d8b0ca14b0c" title="z3fold_free" alt="" coords="599,60,685,87"/>
+<area shape="rect" id="node5" href="$z3fold_8c.html#aafe4cbe529510dda2e20e589732cb004" title="init_z3fold_page" alt="" coords="765,114,881,140"/>
+<area shape="rect" id="node7" href="$z3fold_8c.html#a4440851997f95eca3436ebff63d5daf2" title="z3fold_zpool_malloc" alt="" coords="1072,114,1212,140"/>
+<area shape="rect" id="node9" href="$z3fold_8c.html#ac76ee30b90c8e4e22283e30be7fbf56b" title="z3fold_zpool_free" alt="" coords="761,60,885,87"/>
+<area shape="rect" id="node11" href="$z3fold_8c.html#a8c49f586f86b146cd729ef14079b63b7" title="z3fold_zpool_shrink" alt="" coords="573,227,711,254"/>
+</map>

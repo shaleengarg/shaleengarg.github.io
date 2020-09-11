@@ -1,0 +1,11 @@
+<map id="cma_bitmap_maxno" name="cma_bitmap_maxno">
+<area shape="rect" id="node2" href="$cma_8c.html#ae924b93e04936965e58f1c0d24b224e0" title="cma_activate_area" alt="" coords="204,5,336,32"/>
+<area shape="rect" id="node4" href="$cma_8c.html#ab69d6e5ae0dbd4321b69e22fd0304031" title="cma_alloc" alt="" coords="229,56,311,83"/>
+<area shape="rect" id="node7" href="$cma__debug_8c.html#a91cd823befe19531a12c861931a68b3a" title="cma_used_get" alt="" coords="217,107,323,133"/>
+<area shape="rect" id="node8" href="$cma__debug_8c.html#ae7fcf36b9017e9e2e29e682fafa3e096" title="cma_maxchunk_get" alt="" coords="201,157,339,184"/>
+<area shape="rect" id="node9" href="$cma__debug_8c.html#a1f1336fd97dc6b36678f221d00cc91d9" title="cma_debugfs_add_one" alt="" coords="192,208,348,235"/>
+<area shape="rect" id="node3" href="$cma_8c.html#aeb536241b21a6a891eb7e647eb5d5597" title="cma_init_reserved_areas" alt="" coords="396,5,563,32"/>
+<area shape="rect" id="node5" href="$cma__debug_8c.html#a71fc82ab5881d595d195fd4c374880d9" title="cma_alloc_mem" alt="" coords="421,56,538,83"/>
+<area shape="rect" id="node6" href="$cma__debug_8c.html#a185b770046ccda478745c24dfa52bf19" title="cma_alloc_write" alt="" coords="611,56,727,83"/>
+<area shape="rect" id="node10" href="$cma__debug_8c.html#a182b7329004a29480b0578567b8470c1" title="cma_debugfs_init" alt="" coords="417,208,541,235"/>
+</map>

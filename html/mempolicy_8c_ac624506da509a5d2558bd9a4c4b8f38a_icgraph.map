@@ -1,0 +1,4 @@
+<map id="check_numabalancing_enable" name="check_numabalancing_enable">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a716a5b450139eb61e879e4043b17e0ac" title="mpol_free_shared_policy" alt="" coords="204,5,371,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#ac1e09c2976739e94746e60c6b24efaa1" title="numa_policy_init" alt="" coords="228,56,347,83"/>
+</map>

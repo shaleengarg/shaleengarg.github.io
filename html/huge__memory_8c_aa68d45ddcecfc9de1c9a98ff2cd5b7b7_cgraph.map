@@ -1,0 +1,6 @@
+<map id="vmf_insert_pfn_pmd" name="vmf_insert_pfn_pmd">
+<area shape="rect" id="node2" href="$internal_8h.html#a14fd7dd436897cb6244afc74019b28e7" title="is_cow_mapping" alt="" coords="220,5,339,32"/>
+<area shape="rect" id="node3" href="$huge__memory_8c.html#a56afdeb9840119aae3b59e845c736b2b" title="insert_pfn_pmd" alt="" coords="224,56,335,83"/>
+<area shape="rect" id="node5" href="$huge__memory_8c.html#aa7ebe869b852c0d4d4549bd3a54616a3" title="EXPORT_SYMBOL_GPL" alt="" coords="193,107,365,133"/>
+<area shape="rect" id="node4" href="$huge__memory_8c.html#a99bd15512e1c2eb0ce5b63d0cee035a2" title="maybe_pmd_mkwrite" alt="" coords="413,56,560,83"/>
+</map>

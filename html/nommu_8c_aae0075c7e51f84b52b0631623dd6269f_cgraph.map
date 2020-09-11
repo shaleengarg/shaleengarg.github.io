@@ -1,0 +1,9 @@
+<map id="get_user_pages" name="get_user_pages">
+<area shape="rect" id="node2" href="$nommu_8c.html#a4b9aba3a2ef371f9a90c6534d0c515b3" title="__get_user_pages" alt="" coords="168,56,296,83"/>
+<area shape="rect" id="node8" href="$nommu_8c.html#a4a9cd50228ffd2df64691ed725b89b9c" title="EXPORT_SYMBOL" alt="" coords="467,107,605,133"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#aedbcdc6271c2ec9319a32f978c0cf113" title="find_vma" alt="" coords="344,56,419,83"/>
+<area shape="rect" id="node4" href="$vmacache_8c.html#aedd1f2d04eb7deb01bd553c3f36e955a" title="vmacache_find" alt="" coords="481,5,591,32"/>
+<area shape="rect" id="node7" href="$vmacache_8c.html#ab4a048fb77122f670f908d4e612892e6" title="vmacache_update" alt="" coords="653,56,781,83"/>
+<area shape="rect" id="node5" href="$vmacache_8c.html#a11318d28b13794c31e546ca81ada7a98" title="vmacache_valid" alt="" coords="659,5,775,32"/>
+<area shape="rect" id="node6" href="$vmacache_8c.html#a51e7629adfe7574876c2736eeab23314" title="vmacache_valid_mm" alt="" coords="829,31,975,57"/>
+</map>

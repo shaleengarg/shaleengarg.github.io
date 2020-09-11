@@ -1,0 +1,5 @@
+<map id="nr_hugepages_show" name="nr_hugepages_show">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#ae05186ff0a5ff3934c68250ac296aa57" title="nr_hugepages_show_common" alt="" coords="195,5,393,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a2d85d72f081c37d9c6c0754015a6f1a2" title="kobj_to_hstate" alt="" coords="441,5,548,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#aaf88b533620bd87fc7df69646fa9230c" title="kobj_to_node_hstate" alt="" coords="596,5,739,32"/>
+</map>

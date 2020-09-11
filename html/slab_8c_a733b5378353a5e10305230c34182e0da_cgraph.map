@@ -1,0 +1,5 @@
+<map id="slab_put_obj" name="slab_put_obj">
+<area shape="rect" id="node2" href="$slab_8c.html#a6f9495022093c3c98888a52fe2bc6498" title="obj_to_index" alt="" coords="148,5,243,32"/>
+<area shape="rect" id="node3" href="$slab_8c.html#a6ba4500ae58032f115ef393c07c856d4" title="get_free_obj" alt="" coords="149,56,242,83"/>
+<area shape="rect" id="node4" href="$slab_8c.html#a6f3d9aa82c318d3de7809140e68c83fa" title="set_free_obj" alt="" coords="149,107,242,133"/>
+</map>

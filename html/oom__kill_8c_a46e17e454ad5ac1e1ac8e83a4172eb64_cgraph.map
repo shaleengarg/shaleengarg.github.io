@@ -1,0 +1,10 @@
+<map id="oom_badness" name="oom_badness">
+<area shape="rect" id="node2" href="$oom__kill_8c.html#ad3213d7038a306a85746d3127438a1e8" title="oom_unkillable_task" alt="" coords="156,89,296,116"/>
+<area shape="rect" id="node4" href="$oom__kill_8c.html#a89f1ad319d18d0a15cdde72b7994537f" title="find_lock_task_mm" alt="" coords="567,115,702,141"/>
+<area shape="rect" id="node9" href="$interval__tree_8c.html#aada3edf08ec3e5e6f4a924b1c4fd7c30" title="if" alt="" coords="207,199,245,225"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a91522ffb9856827af762d6d2347ec97c" title="task_in_mem_cgroup" alt="" coords="346,31,493,57"/>
+<area shape="rect" id="node8" href="$oom__kill_8c.html#a4fcd46461e4dc2a754616fb5d7d11e8c" title="has_intersects_mems\l_allowed" alt="" coords="344,82,495,123"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a77f1689f28af86992231148e25a7ac50" title="get_mem_cgroup_from_mm" alt="" coords="543,5,727,32"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#a1b8c8e61fb22691c32b77b8f8c03fa5e" title="mem_cgroup_from_task" alt="" coords="775,31,937,57"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#ab6c819618baad48d5f53fa854a4865f1" title="EXPORT_SYMBOL" alt="" coords="985,31,1124,57"/>
+</map>

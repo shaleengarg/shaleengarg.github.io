@@ -1,0 +1,6 @@
+<map id="memblock_search" name="memblock_search">
+<area shape="rect" id="node2" href="$memblock_8c.html#a81d91c5345f1adc222f511b8989ff603" title="memblock_is_reserved" alt="" coords="196,5,352,32"/>
+<area shape="rect" id="node3" href="$memblock_8c.html#a9ebdcd66db37e24ea352f0539ad3afe7" title="memblock_is_memory" alt="" coords="197,56,351,83"/>
+<area shape="rect" id="node4" href="$memblock_8c.html#ac4526174ba9e663274e6137fd59bfb18" title="memblock_is_map_memory" alt="" coords="181,107,367,133"/>
+<area shape="rect" id="node5" href="$memblock_8c.html#acf01c623da844a5f9744cc5fbfb39758" title="memblock_is_region\l_memory" alt="" coords="203,158,345,199"/>
+</map>

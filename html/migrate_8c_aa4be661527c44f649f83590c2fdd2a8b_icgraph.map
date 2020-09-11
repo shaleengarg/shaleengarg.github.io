@@ -1,0 +1,32 @@
+<map id="migrate_page_states" name="migrate_page_states">
+<area shape="rect" id="node2" href="$migrate_8c.html#a980dda787556d2f5fe1a0cfa8a4d024e" title="migrate_page_copy" alt="" coords="196,102,331,129"/>
+<area shape="rect" id="node3" href="$migrate_8c.html#a75f7bc38a9d6e8b126713e0309bbe6c8" title="migrate_page" alt="" coords="418,185,518,212"/>
+<area shape="rect" id="node4" href="$migrate_8c.html#aaee097ef555c4c9244f51010a0ef1dee" title="hetero_migrate_page" alt="" coords="610,58,753,85"/>
+<area shape="rect" id="node31" href="$migrate_8c.html#ab056b40edc7239f38c9d5af068c5d0ef" title="hetero_migrate_page_copy" alt="" coords="379,33,557,60"/>
+<area shape="rect" id="node27" href="$migrate_8c.html#a58c7b230fb6d8c7a22c5e85ce77bfdee" title="migrate_hetero_single_page" alt="" coords="2264,261,2448,288"/>
+<area shape="rect" id="node5" href="$migrate_8c.html#aefea74f240234724d91cac99b617f3c6" title="fallback_migrate_page" alt="" coords="605,242,757,269"/>
+<area shape="rect" id="node6" href="$migrate_8c.html#aef2cf71a8a1912260c9013e6dd0e82d3" title="move_to_new_page" alt="" coords="805,356,944,382"/>
+<area shape="rect" id="node7" href="$migrate_8c.html#adeca8cb6eef62d8a63bf432c066d65f3" title="__unmap_and_move" alt="" coords="992,370,1135,397"/>
+<area shape="rect" id="node30" href="$migrate_8c.html#a1f37aae97005a0a22f128ae384f2a74a" title="unmap_and_move_huge_page" alt="" coords="1183,425,1381,452"/>
+<area shape="rect" id="node8" href="$migrate_8c.html#add34fa9ba32ac1b273df4c4096e422ff" title="unmap_and_move" alt="" coords="1218,374,1346,401"/>
+<area shape="rect" id="node9" href="$migrate_8c.html#a3fd923dd6a49fc0ae0676ec6df16eb87" title="migrate_onepage_hetero" alt="" coords="1429,374,1593,401"/>
+<area shape="rect" id="node10" href="$migrate_8c.html#a37e9ddea92b6941ebaf8fd39cf1f1e05" title="migrate_pages" alt="" coords="1458,425,1565,452"/>
+<area shape="rect" id="node29" href="$migrate_8c.html#a2194267f50f186bc2effd20daa800cb1" title="migrate_vmalloc_pages" alt="" coords="1432,476,1591,502"/>
+<area shape="rect" id="node11" href="$memory-failure_8c.html#ac6f94c6ca3b5dbb5d861a867bc830871" title="soft_offline_huge_page" alt="" coords="1646,606,1802,633"/>
+<area shape="rect" id="node19" href="$memory-failure_8c.html#aecada95210a9156a4b69586ef199fdf0" title="__soft_offline_page" alt="" coords="1657,657,1791,684"/>
+<area shape="rect" id="node20" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1889,425,1987,452"/>
+<area shape="rect" id="node21" href="$mempolicy_8c.html#a73be6369928a60847ab01457364fb9df" title="do_get_mempolicy" alt="" coords="1659,505,1789,532"/>
+<area shape="rect" id="node23" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="2069,490,2216,517"/>
+<area shape="rect" id="node24" href="$mempolicy_8c.html#aaf42c08b401a1c76f1038d364dba721e" title="do_mbind" alt="" coords="1685,556,1763,582"/>
+<area shape="rect" id="node28" href="$page__alloc_8c.html#ab79f1010c13d73bc4360e6caa20aabf5" title="is_pageblock_removable\l_nolock" alt="" coords="1641,388,1807,430"/>
+<area shape="rect" id="node12" href="$memory-failure_8c.html#a2ca359770c31af559fa45f5a12e6679d" title="soft_offline_in_use_page" alt="" coords="1855,657,2021,684"/>
+<area shape="rect" id="node13" href="$memory-failure_8c.html#a5d5ed10ea90232402f08961d534e7795" title="soft_offline_page" alt="" coords="2082,758,2203,785"/>
+<area shape="rect" id="node14" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="2295,784,2417,810"/>
+<area shape="rect" id="node17" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="2267,733,2445,760"/>
+<area shape="rect" id="node15" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="2512,784,2615,810"/>
+<area shape="rect" id="node16" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="2679,784,2825,810"/>
+<area shape="rect" id="node18" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="2496,733,2631,760"/>
+<area shape="rect" id="node22" href="$mempolicy_8c.html#a23e2136a9bb87ef1f772691dcaca1bdd" title="kernel_get_mempolicy" alt="" coords="1862,490,2014,517"/>
+<area shape="rect" id="node25" href="$mempolicy_8c.html#a50a4a41434ad3edbd95d6267b4e6d6aa" title="kernel_mbind" alt="" coords="1889,541,1987,568"/>
+<area shape="rect" id="node26" href="$mempolicy_8c.html#a2a7b4e9b054f340a69ecd0dddb758746" title="SYSCALL_DEFINE6" alt="" coords="2069,541,2216,568"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pcpu_alloc_alloc_info" name="pcpu_alloc_alloc_info">
+<area shape="rect" id="node2" href="$percpu_8c.html#ae7b649bde1d0b13612e9140f87647105" title="pcpu_setup_first_chunk" alt="" coords="200,5,360,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#ac8b82138ec0a2b741025f4448ceded55" title="setup_per_cpu_areas" alt="" coords="408,5,555,32"/>
+</map>

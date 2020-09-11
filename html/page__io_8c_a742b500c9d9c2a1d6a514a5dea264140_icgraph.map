@@ -1,0 +1,7 @@
+<map id="__swap_writepage" name="__swap_writepage">
+<area shape="rect" id="node2" href="$page__io_8c.html#aa2840c0b7dcab49a11e6cc38a2b99490" title="swap_writepage" alt="" coords="205,31,321,57"/>
+<area shape="rect" id="node6" href="$zswap_8c.html#aab94f901877d8afbbd802a4442e96319" title="zswap_writeback_entry" alt="" coords="184,81,343,108"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#ae10f213c9360b5774d0fb0bad0e06788" title="try_to_unuse" alt="" coords="391,31,488,57"/>
+<area shape="rect" id="node4" href="$frontswap_8c.html#a2ebc45616ea5d4637309b8cf3dc30235" title="frontswap_shrink" alt="" coords="549,5,670,32"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#ab77da03d81581d8413ec7a363eef8a56" title="SYSCALL_DEFINE1" alt="" coords="536,56,683,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mem_cgroup_move_charge_write" name="mem_cgroup_move_charge_write">
+<area shape="rect" id="node2" href="$slub_8c.html#a1d52440ec65fe67a7ce93cfe4bed3fb7" title="stat" alt="" coords="303,5,347,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a3aa8afa68cfba644b9e7397ac76e3dec" title="mem_cgroup_nr_lru_pages" alt="" coords="236,56,415,83"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#aff559ea3864c1a59770f056ca1c5ae68" title="mem_cgroup_node_nr\l_lru_pages" alt="" coords="463,74,613,115"/>
+</map>

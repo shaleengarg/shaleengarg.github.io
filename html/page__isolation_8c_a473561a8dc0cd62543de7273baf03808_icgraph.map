@@ -1,0 +1,4 @@
+<map id="undo_isolate_page_range" name="undo_isolate_page_range">
+<area shape="rect" id="node2" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="436,5,533,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#ab79f1010c13d73bc4360e6caa20aabf5" title="is_pageblock_removable\l_nolock" alt="" coords="223,27,388,69"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="module_init" name="module_init">
+<area shape="rect" id="node2" href="$cleancache_8c.html#aed692a0ae778c75ec2458c05d3926337" title="init_cleancache" alt="" coords="147,5,259,32"/>
+<area shape="rect" id="node3" href="$frontswap_8c.html#a0644cafad3bbb972df326adb79a5d99f" title="init_frontswap" alt="" coords="152,56,255,83"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#a3f8a38873a247d31ca25e15c8676dcc3" title="kmalloc_order" alt="" coords="152,107,255,133"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#aef11fbe09279a47f2b64adee7d75b1e0" title="free_vm_area" alt="" coords="153,157,254,184"/>
+<area shape="rect" id="node7" href="$vmstat_8c.html#a725d1ddc1df9e7fc64811e985d159ca3" title="init_mm_internals" alt="" coords="141,208,265,235"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#a32c634ebc64d8e8a018298ffcced3352" title="alloc_vm_area" alt="" coords="313,157,420,184"/>
+</map>

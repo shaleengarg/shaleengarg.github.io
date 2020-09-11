@@ -1,0 +1,6 @@
+<map id="reset_hpc_stats" name="reset_hpc_stats">
+<area shape="rect" id="node2" href="$hetero_8c.html#ad7db03b70e4bd5ea7d0fdace41efb8d5" title="init_hpc_stats" alt="" coords="190,5,293,32"/>
+<area shape="rect" id="node4" href="$hetero_8c.html#a88753d2a95ac673f070d17b96e3f6072" title="SYSCALL_DEFINE2" alt="" coords="168,56,315,83"/>
+<area shape="rect" id="node3" href="$hetero_8c.html#a8a99d22fd20b3ead115c5415fdb796f2" title="check_node_memsize" alt="" coords="363,5,515,32"/>
+<area shape="rect" id="node5" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="365,56,512,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cma_init_reserved_mem" name="cma_init_reserved_mem">
+<area shape="rect" id="node2" href="$memblock_8c.html#abaf8834e7aa241bd066ffa78f1b3c170" title="memblock_is_region\l_reserved" alt="" coords="217,23,359,65"/>
+<area shape="rect" id="node3" href="$memblock_8c.html#a16c79eb3953c5aac35c743397ec385d1" title="memblock_cap_size" alt="" coords="426,5,567,32"/>
+<area shape="rect" id="node4" href="$memblock_8c.html#a559e8b32916e20084e7c621d85522bef" title="memblock_overlaps_region" alt="" coords="407,56,587,83"/>
+<area shape="rect" id="node5" href="$memblock_8c.html#a79fd63fd2b95832617b0a04c2d0ac4b1" title="memblock_addrs_overlap" alt="" coords="635,56,805,83"/>
+</map>

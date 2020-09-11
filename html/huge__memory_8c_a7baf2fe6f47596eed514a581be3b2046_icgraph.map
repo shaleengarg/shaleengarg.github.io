@@ -1,0 +1,8 @@
+<map id="madvise_free_huge_pmd" name="madvise_free_huge_pmd">
+<area shape="rect" id="node2" href="$madvise_8c.html#abfc5d2edae0e494d8dfdb632aa23a0d1" title="madvise_free_pte_range" alt="" coords="220,5,384,32"/>
+<area shape="rect" id="node3" href="$madvise_8c.html#a4565490f2f48441df77287a8e80c9b2a" title="madvise_free_page_range" alt="" coords="432,5,607,32"/>
+<area shape="rect" id="node4" href="$madvise_8c.html#a61e8bc2ec1938de1b4f8080e1077ff0c" title="madvise_free_single_vma" alt="" coords="655,5,828,32"/>
+<area shape="rect" id="node5" href="$madvise_8c.html#ae50a3f70442c933e8824c1687944f103" title="madvise_dontneed_free" alt="" coords="876,5,1036,32"/>
+<area shape="rect" id="node6" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="1084,5,1187,32"/>
+<area shape="rect" id="node7" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1235,5,1381,32"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="invalidate_complete_page" name="invalidate_complete_page">
+<area shape="rect" id="node2" href="$truncate_8c.html#ae31860b704ae78ad308b440838e1ac79" title="invalidate_inode_page" alt="" coords="225,107,376,133"/>
+<area shape="rect" id="node3" href="$memory-failure_8c.html#acc2a520e087459355bacf2a00317b1c7" title="truncate_error_page" alt="" coords="424,56,561,83"/>
+<area shape="rect" id="node7" href="$memory-failure_8c.html#aecada95210a9156a4b69586ef199fdf0" title="__soft_offline_page" alt="" coords="425,107,560,133"/>
+<area shape="rect" id="node15" href="$truncate_8c.html#a9970b944654dccb6e99dcfc93d03bce7" title="invalidate_mapping\l_pages" alt="" coords="426,158,559,199"/>
+<area shape="rect" id="node4" href="$memory-failure_8c.html#adcaea0539c089822cd86007e7ede3e18" title="me_pagecache_clean" alt="" coords="619,5,767,32"/>
+<area shape="rect" id="node6" href="$memory-failure_8c.html#a93f15518e9a2b4d796fb97248a823af8" title="me_huge_page" alt="" coords="637,56,748,83"/>
+<area shape="rect" id="node5" href="$memory-failure_8c.html#af873f629eef6a993c18c3541ea727858" title="me_pagecache_dirty" alt="" coords="827,5,969,32"/>
+<area shape="rect" id="node8" href="$memory-failure_8c.html#a2ca359770c31af559fa45f5a12e6679d" title="soft_offline_in_use_page" alt="" coords="609,107,776,133"/>
+<area shape="rect" id="node9" href="$memory-failure_8c.html#a5d5ed10ea90232402f08961d534e7795" title="soft_offline_page" alt="" coords="837,107,959,133"/>
+<area shape="rect" id="node10" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="1049,59,1170,85"/>
+<area shape="rect" id="node13" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="1020,109,1199,136"/>
+<area shape="rect" id="node11" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="1263,59,1365,85"/>
+<area shape="rect" id="node12" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1429,59,1576,85"/>
+<area shape="rect" id="node14" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="1247,109,1381,136"/>
+<area shape="rect" id="node16" href="$fadvise_8c.html#ad5ab4980535b09466ccb30d7bcaaa3aa" title="ksys_fadvise64_64" alt="" coords="625,161,760,188"/>
+<area shape="rect" id="node19" href="$filemap_8c.html#afcc4a74ba046067e2df44e8a3875199c" title="__generic_file_write_iter" alt="" coords="611,212,774,239"/>
+<area shape="rect" id="node17" href="$fadvise_8c.html#aad516c4a4fb4807fc5f875c59934d426" title="SYSCALL_DEFINE4" alt="" coords="825,161,971,188"/>
+<area shape="rect" id="node18" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="1036,161,1183,188"/>
+<area shape="rect" id="node20" href="$filemap_8c.html#aa341d31526dcdf811c67b812a7c66a2f" title="generic_file_write_iter" alt="" coords="824,212,972,239"/>
+</map>

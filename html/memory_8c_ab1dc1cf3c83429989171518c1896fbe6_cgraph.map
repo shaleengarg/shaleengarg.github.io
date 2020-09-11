@@ -1,0 +1,8 @@
+<map id="do_numa_page" name="do_numa_page">
+<area shape="rect" id="node2" href="$memory_8c.html#a441ea7d7b416980adb2cfab2e85e2822" title="numa_migrate_prep" alt="" coords="164,56,300,83"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#af4ed684db5d968272b9253106e877b62" title="mpol_misplaced" alt="" coords="348,56,464,83"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a3675dcdc5139b4c34611f4c4ed6764ea" title="get_vma_policy" alt="" coords="512,31,625,57"/>
+<area shape="rect" id="node7" href="$mempolicy_8c.html#a7a9b91d03ae8971c06a6c5fa4e99c9e0" title="offset_il_node" alt="" coords="517,81,620,108"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#a611df78237e9f47aeba831385ea14f50" title="__get_vma_policy" alt="" coords="673,5,800,32"/>
+<area shape="rect" id="node6" href="$mempolicy_8c.html#a1de364187246d0562cbe31fbdd7cb65c" title="get_task_policy" alt="" coords="680,56,793,83"/>
+</map>

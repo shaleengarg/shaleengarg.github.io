@@ -1,0 +1,9 @@
+<map id="__wb_update_bandwidth" name="__wb_update_bandwidth">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#a7d8aa8cbec3c6269d6ad65916c76a7c0" title="domain_update_bandwidth" alt="" coords="224,22,400,49"/>
+<area shape="rect" id="node5" href="$page-writeback_8c.html#a31fbe1c354fe15caecf8493fc5c769b5" title="wb_update_dirty_ratelimit" alt="" coords="227,98,397,125"/>
+<area shape="rect" id="node8" href="$page-writeback_8c.html#a168bf2410f309cd9577185807485c13b" title="wb_update_write_bandwidth" alt="" coords="219,149,405,175"/>
+<area shape="rect" id="node3" href="$page-writeback_8c.html#ab205b3f7a7d55732540e4881bcd4350a" title="dtc_dom" alt="" coords="640,22,712,49"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#a240d0cab0e302cc638edc5796d1fe1dc" title="update_dirty_limit" alt="" coords="461,22,585,49"/>
+<area shape="rect" id="node6" href="$page-writeback_8c.html#a25774c686d88e688ffc02ba030402452" title="dirty_freerun_ceiling" alt="" coords="453,123,592,150"/>
+<area shape="rect" id="node7" href="$page-writeback_8c.html#a9d54ef1ce1a8238a5381599623694d23" title="hard_dirty_limit" alt="" coords="467,174,578,201"/>
+</map>

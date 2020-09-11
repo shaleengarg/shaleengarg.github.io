@@ -1,0 +1,6 @@
+<map id="copy_huge_page" name="copy_huge_page">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="207,5,290,32"/>
+<area shape="rect" id="node4" href="$migrate_8c.html#a248329b2bbc87033a75827888302d583" title="__copy_gigantic_page" alt="" coords="173,56,324,83"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="372,5,544,32"/>
+<area shape="rect" id="node5" href="$internal_8h.html#aa0705a0bde13ed521ef981e18bfeface" title="mem_map_next" alt="" coords="401,56,515,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="zpool_free" name="zpool_free">
+<area shape="rect" id="node2" href="$zswap_8c.html#a3f58930f783a2ec67903db07de46a89a" title="zswap_free_entry" alt="" coords="136,107,261,133"/>
+<area shape="rect" id="node3" href="$zswap_8c.html#a021db2c62ff3e7e311c9e5a32e39f8a0" title="zswap_entry_put" alt="" coords="358,81,479,108"/>
+<area shape="rect" id="node8" href="$zswap_8c.html#af8bf0199a486ac78efa8a23725c9dd51" title="zswap_frontswap_invalidate_area" alt="" coords="309,132,528,159"/>
+<area shape="rect" id="node4" href="$zswap_8c.html#aab94f901877d8afbbd802a4442e96319" title="zswap_writeback_entry" alt="" coords="607,5,766,32"/>
+<area shape="rect" id="node5" href="$zswap_8c.html#adbb3bee0bf419977aec37f0cb18c210a" title="zswap_frontswap_store" alt="" coords="607,56,767,83"/>
+<area shape="rect" id="node6" href="$zswap_8c.html#a6f3a13b321b038aa468046db29098695" title="zswap_frontswap_load" alt="" coords="609,107,764,133"/>
+<area shape="rect" id="node7" href="$zswap_8c.html#a1e6e22b8904fc182cff3d94764e98c88" title="zswap_frontswap_invalidate_page" alt="" coords="576,157,797,184"/>
+</map>

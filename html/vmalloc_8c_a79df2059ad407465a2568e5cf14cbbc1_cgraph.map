@@ -1,0 +1,4 @@
+<map id="try_purge_vmap_area_lazy" name="try_purge_vmap_area_lazy">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#ac3b5f6f8ce53b118d8b9c15ed84e7e6d" title="__purge_vmap_area_lazy" alt="" coords="232,5,403,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a23906a48a0d9c261b76afb3f57933ef2" title="__free_vmap_area" alt="" coords="451,5,580,32"/>
+</map>

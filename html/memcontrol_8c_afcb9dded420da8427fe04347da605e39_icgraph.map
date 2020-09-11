@@ -1,0 +1,5 @@
+<map id="memcg_offline_kmem" name="memcg_offline_kmem">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#abc28ac937a6cdb08dc82455a8f821c71" title="memcg_free_kmem" alt="" coords="219,5,356,32"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a54655ca3a47317bfc03036b1a9f2d641" title="mem_cgroup_css_offline" alt="" coords="204,56,371,83"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a502ec1716a33c3f8578fd77c13f6ee3d" title="mem_cgroup_css_free" alt="" coords="419,5,573,32"/>
+</map>

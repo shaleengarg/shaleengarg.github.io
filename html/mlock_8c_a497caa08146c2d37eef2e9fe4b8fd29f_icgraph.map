@@ -1,0 +1,5 @@
+<map id="apply_mlockall_flags" name="apply_mlockall_flags">
+<area shape="rect" id="node2" href="$mlock_8c.html#a95e9f2dc8e4f4fb910e364c6068f8a8d" title="SYSCALL_DEFINE1" alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node4" href="$mlock_8c.html#a890b1d87c318cdee4c3a3afc07da24f3" title="SYSCALL_DEFINE0" alt="" coords="196,56,343,83"/>
+<area shape="rect" id="node3" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="391,5,537,32"/>
+</map>

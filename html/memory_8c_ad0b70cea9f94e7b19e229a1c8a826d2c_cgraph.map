@@ -1,0 +1,6 @@
+<map id="vm_insert_pfn" name="vm_insert_pfn">
+<area shape="rect" id="node2" href="$memory_8c.html#a9e4c5a8e4d13ba6e0288b3a77a8d0bc6" title="vm_insert_pfn_prot" alt="" coords="157,56,291,83"/>
+<area shape="rect" id="node5" href="$memory_8c.html#a19f105545199346af91dc6363582c227" title="EXPORT_SYMBOL" alt="" coords="339,107,477,133"/>
+<area shape="rect" id="node3" href="$internal_8h.html#a14fd7dd436897cb6244afc74019b28e7" title="is_cow_mapping" alt="" coords="349,5,467,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#a8036adf1961bb9a06478e4fd2e991945" title="insert_pfn" alt="" coords="369,56,447,83"/>
+</map>

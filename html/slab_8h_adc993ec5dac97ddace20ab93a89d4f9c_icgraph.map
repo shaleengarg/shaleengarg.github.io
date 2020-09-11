@@ -1,0 +1,11 @@
+<map id="slab_init_memcg_params" name="slab_init_memcg_params">
+<area shape="rect" id="node2" href="$slab__common_8c.html#a3e13d397dab4957d0b50ff1ca117bec7" title="__kmem_cache_alloc_bulk" alt="" coords="224,12,403,39"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#a3adc109d906bbd3a554d9e7ecd21d4b4" title="create_boot_cache" alt="" coords="247,69,379,96"/>
+<area shape="rect" id="node9" href="$slub_8c.html#a568843d94b65d60f5146220fefa36371" title="bootstrap" alt="" coords="275,132,351,159"/>
+<area shape="rect" id="node3" href="$slob_8c.html#a94dd0935d21a8a28392069b75365d4c2" title="kmem_cache_alloc_bulk" alt="" coords="451,5,616,32"/>
+<area shape="rect" id="node5" href="$slab_8c.html#ae30738b69a6fc9386d3327f183901baa" title="kmem_cache_init" alt="" coords="1059,107,1183,133"/>
+<area shape="rect" id="node6" href="$slab__common_8c.html#a4f3e6b1528f11215215dedfc69719ca5" title="create_kmalloc_cache" alt="" coords="457,107,609,133"/>
+<area shape="rect" id="node7" href="$slab__common_8c.html#a7be750396b86f3cb20aa74621a4b596f" title="new_kmalloc_cache" alt="" coords="664,157,804,184"/>
+<area shape="rect" id="node8" href="$slab__common_8c.html#a3b6321ff113165ff662a0b20d1c22622" title="create_kmalloc_caches" alt="" coords="852,157,1011,184"/>
+<area shape="rect" id="node10" href="$slub_8c.html#ae30738b69a6fc9386d3327f183901baa" title="kmem_cache_init" alt="" coords="471,157,595,184"/>
+</map>

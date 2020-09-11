@@ -1,0 +1,4 @@
+<map id="calculate_node_totalpages" name="calculate_node_totalpages">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a9fc84809e30a2f49fd7719e751734ab7" title="zone_spanned_pages\l_in_node" alt="" coords="251,5,399,47"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a93e3dd562933f8fb263178558541659f" title="zone_absent_pages_in_node" alt="" coords="229,71,420,98"/>
+</map>

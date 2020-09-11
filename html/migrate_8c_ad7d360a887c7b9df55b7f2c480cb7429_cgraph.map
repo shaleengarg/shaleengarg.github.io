@@ -1,0 +1,9 @@
+<map id="isolate_movable_page" name="isolate_movable_page">
+<area shape="rect" id="node2" href="$util_8c.html#a62aeea79aa4d8a67e97a59093031a31b" title="page_mapping" alt="" coords="204,24,311,51"/>
+<area shape="rect" id="node4" href="$filemap_8c.html#a7c56cad94a93fa5948a3a239c085602e" title="unlock_page" alt="" coords="210,93,305,120"/>
+<area shape="rect" id="node3" href="$util_8c.html#a512c1d72bf755e9b5eda83c17b40530b" title="EXPORT_SYMBOL" alt="" coords="359,5,497,32"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a09dd6ad3845bd285620d1c7de196d263" title="clear_bit_unlock_is\l_negative_byte" alt="" coords="361,57,495,98"/>
+<area shape="rect" id="node6" href="$filemap_8c.html#a6e8111d76b87dd86ff4f0f53e2d87469" title="wake_up_page_bit" alt="" coords="363,123,493,149"/>
+<area shape="rect" id="node8" href="$filemap_8c.html#a44ac116b460b92ab7fe29579b5f39e96" title="EXPORT_SYMBOL" alt="" coords="359,173,497,200"/>
+<area shape="rect" id="node7" href="$filemap_8c.html#a8d7c07ee694e87d718f95019f60630bc" title="page_waitqueue" alt="" coords="545,123,661,149"/>
+</map>

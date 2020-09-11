@@ -1,0 +1,10 @@
+<map id="memory_present" name="memory_present">
+<area shape="rect" id="node2" href="$sparse_8c.html#a89854182802cdee86773c3c220c31f1b" title="mminit_validate_memmodel\l_limits" alt="" coords="172,5,356,47"/>
+<area shape="rect" id="node4" href="$sparse_8c.html#a549024037cf3037e6b39206a9eb2f3f8" title="sparse_index_init" alt="" coords="418,97,541,123"/>
+<area shape="rect" id="node6" href="$sparse_8c.html#a5d67f61e70c5554754d5678d78c7ddad" title="set_section_nid" alt="" coords="207,122,321,149"/>
+<area shape="rect" id="node8" href="$sparse_8c.html#a1a41497ae513b372d66fb6bb2b0ab40a" title="sparse_encode_early_nid" alt="" coords="179,173,349,199"/>
+<area shape="rect" id="node9" href="$sparse_8c.html#a0919137581aba0bba20060084172c4b2" title="section_mark_present" alt="" coords="404,210,555,237"/>
+<area shape="rect" id="node3" href="$internal_8h.html#a8c2a87a1fa41d7f409f57c94d48398f8" title="mminit_dprintk" alt="" coords="426,13,533,39"/>
+<area shape="rect" id="node5" href="$sparse_8c.html#a540ce77729d18a9b42680ab3ff99655d" title="__section_nr" alt="" coords="603,159,699,186"/>
+<area shape="rect" id="node7" href="$slab__common_8c.html#a940d5fcfd9b3dcf05bdc6b7488f01c33" title="slab_is_available" alt="" coords="419,147,540,174"/>
+</map>

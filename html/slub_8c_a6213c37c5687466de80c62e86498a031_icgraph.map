@@ -1,0 +1,6 @@
+<map id="calculate_order" name="calculate_order">
+<area shape="rect" id="node2" href="$slub_8c.html#a546a87a749fae73bf0384a2543df4388" title="calculate_sizes" alt="" coords="164,31,276,57"/>
+<area shape="rect" id="node3" href="$slub_8c.html#a8042a49a0533596273a211ef513871f3" title="kmem_cache_open" alt="" coords="334,5,469,32"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="324,56,479,83"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="527,5,684,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hugetlb_vm_op_open" name="hugetlb_vm_op_open">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a8e5acb031ffae56696eb4d10044f416e" title="vma_resv_map" alt="" coords="204,56,315,83"/>
+<area shape="rect" id="node6" href="$hugetlb_8c.html#a610c6a55fd98cd034e93db9dd1afad83" title="is_vma_resv_set" alt="" coords="199,5,320,32"/>
+<area shape="rect" id="node3" href="$interval__tree_8c.html#a3dc4f93f3175b6108af20b9fbd78c951" title="VM_BUG_ON_VMA" alt="" coords="373,56,514,83"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a97bb490bdf313a6643bdf0059239d070" title="inode_resv_map" alt="" coords="385,107,502,133"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#aabd416ad8a55f55b17f4d67fd1e34eb6" title="get_vma_private_data" alt="" coords="368,5,519,32"/>
+</map>

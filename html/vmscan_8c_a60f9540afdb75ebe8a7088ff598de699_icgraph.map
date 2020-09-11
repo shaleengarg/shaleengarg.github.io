@@ -1,0 +1,9 @@
+<map id="age_active_anon" name="age_active_anon">
+<area shape="rect" id="node2" href="$vmscan_8c.html#a196fa063af9bd48d105a6ea380473c4c" title="balance_pgdat" alt="" coords="173,81,280,108"/>
+<area shape="rect" id="node3" href="$vmscan_8c.html#a1c2142bf3f1cf9d6eceee43ee45e9f1a" title="kswapd" alt="" coords="328,81,395,108"/>
+<area shape="rect" id="node4" href="$vmscan_8c.html#a35481137d1d1f61cc1e00f8a0eb5436e" title="kswapd_run" alt="" coords="446,56,538,83"/>
+<area shape="rect" id="node8" href="$vmscan_8c.html#a6f26c44d8fe4e4c2b755c0fc5444f9fd" title="kswapd_stop" alt="" coords="443,107,541,133"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="589,5,764,32"/>
+<area shape="rect" id="node7" href="$vmscan_8c.html#ad60c359557ec9a6cd8a22ca04f5e817c" title="kswapd_init" alt="" coords="631,56,722,83"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="812,56,909,83"/>
+</map>

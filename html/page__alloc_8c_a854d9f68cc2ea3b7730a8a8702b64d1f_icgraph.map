@@ -1,0 +1,5 @@
+<map id="set_zone_contiguous" name="set_zone_contiguous">
+<area shape="rect" id="node2" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="199,5,373,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#acabf961b784c1a5d2cf8e46413a49814" title="page_alloc_init_late" alt="" coords="218,56,354,83"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="421,5,519,32"/>
+</map>

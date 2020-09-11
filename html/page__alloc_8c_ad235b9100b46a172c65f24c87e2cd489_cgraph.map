@@ -1,0 +1,20 @@
+<map id="free_pcppages_bulk" name="free_pcppages_bulk">
+<area shape="rect" id="node2" href="$backing-dev_8c.html#a06db5190b75a5cdc8ccc743c76a893b9" title="LIST_HEAD" alt="" coords="230,5,325,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#af6d6930c2a8703018e3a0d85f528f559" title="bulkfree_pcp_prepare" alt="" coords="204,56,351,83"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#ace21c20373b1e6a63e4805889e71f705" title="prefetch_buddy" alt="" coords="222,107,333,133"/>
+<area shape="rect" id="node12" href="$page__alloc_8c.html#a0afeff719a42c06026be4c207ce2700d" title="get_pcppage_migratetype" alt="" coords="192,157,363,184"/>
+<area shape="rect" id="node13" href="$page__alloc_8c.html#a0132d2b120285cbc7339d459e27eb6b0" title="__free_one_page" alt="" coords="217,208,338,235"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a25a1a9bd4f8dd5f5510dcaa0538d8fe5" title="free_pages_check" alt="" coords="411,56,539,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a2198a7aec00a3766a0b33712f042a5a9" title="page_expected_state" alt="" coords="600,5,747,32"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#ad15dda0923a9b0366309e880ba447f2a" title="free_pages_check_bad" alt="" coords="595,56,751,83"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a8865c2650077e740844ac4383f6713ce" title="bad_page" alt="" coords="808,56,887,83"/>
+<area shape="rect" id="node8" href="$debug_8c.html#a9964bf1b226807ee36658d2f61c5dfdd" title="__dump_page" alt="" coords="935,56,1037,83"/>
+<area shape="rect" id="node10" href="$internal_8h.html#a99814532ded2bc9e9e998e5e83c8425d" title="__find_buddy_pfn" alt="" coords="413,107,537,133"/>
+<area shape="rect" id="node11" href="$internal_8h.html#a4f47959b411219321126d371ab225cad" title="__pageblock_pfn_to_page" alt="" coords="587,107,760,133"/>
+<area shape="rect" id="node14" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="433,157,516,184"/>
+<area shape="rect" id="node15" href="$page__alloc_8c.html#a6225eaad3ee34e28fbe85a651972e0a4" title="page_is_buddy" alt="" coords="420,208,529,235"/>
+<area shape="rect" id="node17" href="$page__alloc_8c.html#aace6c73b563a513aec47db2ed6c30a9b" title="clear_page_guard" alt="" coords="413,259,537,285"/>
+<area shape="rect" id="node18" href="$page__alloc_8c.html#a7e8cc7df33e968891fa6e954781ee20c" title="rmv_page_order" alt="" coords="417,309,532,336"/>
+<area shape="rect" id="node19" href="$page__alloc_8c.html#a10c15851616e8c1e425e75a4e1669387" title="set_page_order" alt="" coords="419,360,530,387"/>
+<area shape="rect" id="node16" href="$internal_8h.html#a1674ff815608c977b6231072833aa598" title="page_order" alt="" coords="630,208,717,235"/>
+</map>

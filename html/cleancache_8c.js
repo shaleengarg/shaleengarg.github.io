@@ -1,0 +1,27 @@
+var cleancache_8c =
+[
+    [ "__cleancache_get_page", "cleancache_8c.html#a129684d2f40d8798ba41cabf33d0d702", null ],
+    [ "__cleancache_init_fs", "cleancache_8c.html#abf7f1ebde269dd8eddd11a6dd12b24d2", null ],
+    [ "__cleancache_init_shared_fs", "cleancache_8c.html#a2240b8d3ea711ec5d3364a4ca93e4fdb", null ],
+    [ "__cleancache_invalidate_fs", "cleancache_8c.html#a2825dfa20e7152e872cbee069f333365", null ],
+    [ "__cleancache_invalidate_inode", "cleancache_8c.html#a60e2901aa69d1b32223ef786012d7667", null ],
+    [ "__cleancache_invalidate_page", "cleancache_8c.html#aab83399afc4a402439d86106c715ecff", null ],
+    [ "__cleancache_put_page", "cleancache_8c.html#a0ef24e30b0fe6e24a99d04b735fa61bb", null ],
+    [ "cleancache_get_key", "cleancache_8c.html#a81b7038cf4a2719892e5ca7de543d82e", null ],
+    [ "cleancache_register_ops", "cleancache_8c.html#a7168012b9dc90fd9329cb25cc1d8feea", null ],
+    [ "cleancache_register_ops_sb", "cleancache_8c.html#a65deab52d77ac20d570e235a5b36a780", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#ad9197a036342324dfa26f39be24c8d67", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a4e90014cec5718aa85cbfc396b1739d3", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a9598fa75db65c7f6e911bad7eac176b6", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a978f57f9e89f667a1fe374b7b0b558ad", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a758e46b23a0b607bd852b594b176e2c5", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a6f41efec6a957bc73b262f4fe76ff869", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a71aa869eb1b2491f37c868038501177d", null ],
+    [ "EXPORT_SYMBOL", "cleancache_8c.html#a12f788cc873c923cae6279a5917e8d9e", null ],
+    [ "init_cleancache", "cleancache_8c.html#aed692a0ae778c75ec2458c05d3926337", null ],
+    [ "__read_mostly", "cleancache_8c.html#a50ec93ebb4981b0ec00dd61c0daaad6e", null ],
+    [ "cleancache_failed_gets", "cleancache_8c.html#adf081eef74160599c3f437a41119dad2", null ],
+    [ "cleancache_invalidates", "cleancache_8c.html#a6e66e993321fbeb07d8a2c8396f536c8", null ],
+    [ "cleancache_puts", "cleancache_8c.html#afbeeb0453fce431466a04008ffb85662", null ],
+    [ "cleancache_succ_gets", "cleancache_8c.html#aa4024e20c346856de7f27b24ee27dec3", null ]
+];

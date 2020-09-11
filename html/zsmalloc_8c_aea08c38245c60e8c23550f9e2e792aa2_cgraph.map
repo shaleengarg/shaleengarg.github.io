@@ -1,0 +1,8 @@
+<map id="obj_free" name="obj_free">
+<area shape="rect" id="node2" href="$zsmalloc_8c.html#a1f1a28613eab8ddb2b6f47d5a2b0c7b0" title="obj_to_location" alt="" coords="134,5,243,32"/>
+<area shape="rect" id="node3" href="$zsmalloc_8c.html#a58ee1e61d27cfdf3ee52197af96ed558" title="get_zspage" alt="" coords="144,56,233,83"/>
+<area shape="rect" id="node4" href="$zsmalloc_8c.html#a70ba9a7f90e3e25dc66429e1bb2e3cc2" title="get_freeobj" alt="" coords="145,107,232,133"/>
+<area shape="rect" id="node5" href="$zsmalloc_8c.html#a8be5d19525075e74e0c5531826870879" title="set_freeobj" alt="" coords="145,157,232,184"/>
+<area shape="rect" id="node6" href="$zsmalloc_8c.html#a748a14be3ae34afe73eb2c5e55fbff8f" title="mod_zspage_inuse" alt="" coords="121,208,256,235"/>
+<area shape="rect" id="node7" href="$zsmalloc_8c.html#abebf53e2f70ef14bb0df4b0a147609d1" title="zs_stat_dec" alt="" coords="142,259,235,285"/>
+</map>

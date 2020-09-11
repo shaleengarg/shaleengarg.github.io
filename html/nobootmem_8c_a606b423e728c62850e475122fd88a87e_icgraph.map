@@ -1,0 +1,14 @@
+<map id="__alloc_memory_core_early" name="__alloc_memory_core_early">
+<area shape="rect" id="node2" href="$nobootmem_8c.html#a8a10f85d6a8b16dbe5024a8003752b51" title="___alloc_bootmem_nopanic" alt="" coords="203,85,385,112"/>
+<area shape="rect" id="node8" href="$nobootmem_8c.html#a07b7846a6557ab9e6df84253722d0a0f" title="___alloc_bootmem_node\l_nopanic" alt="" coords="211,173,377,214"/>
+<area shape="rect" id="node3" href="$nobootmem_8c.html#a4b1050391171d69c798a479bb7e680d5" title="__alloc_bootmem_nopanic" alt="" coords="433,5,609,32"/>
+<area shape="rect" id="node4" href="$nobootmem_8c.html#a922068fb75049025a42c3164fd5ca76e" title="___alloc_bootmem" alt="" coords="456,56,587,83"/>
+<area shape="rect" id="node7" href="$nobootmem_8c.html#a16f951d8f5154993da471c6ed25805d4" title="__alloc_bootmem_low\l_nopanic" alt="" coords="446,107,597,149"/>
+<area shape="rect" id="node5" href="$nobootmem_8c.html#a32c88b54244f793401f7f4254c084a76" title="__alloc_bootmem" alt="" coords="689,31,813,57"/>
+<area shape="rect" id="node6" href="$nobootmem_8c.html#a78a1c807319b990fcfdbf80108f778cb" title="__alloc_bootmem_low" alt="" coords="675,81,826,108"/>
+<area shape="rect" id="node9" href="$nobootmem_8c.html#ae427f8b001a5960d57781a8bc78ad057" title="__alloc_bootmem_node\l_nopanic" alt="" coords="442,173,601,214"/>
+<area shape="rect" id="node10" href="$nobootmem_8c.html#a9c6a51b54eda3976781a536e3c42ab64" title="___alloc_bootmem_node" alt="" coords="438,239,605,265"/>
+<area shape="rect" id="node11" href="$nobootmem_8c.html#a8dd9754c03d060f54f5bc23b6d442b57" title="__alloc_bootmem_node" alt="" coords="671,213,830,240"/>
+<area shape="rect" id="node13" href="$nobootmem_8c.html#ad809ac86df5518a213d0bb5d7b769669" title="__alloc_bootmem_low_node" alt="" coords="657,264,844,291"/>
+<area shape="rect" id="node12" href="$nobootmem_8c.html#a1a816a94b6f44fc3ab4b957998c45912" title="__alloc_bootmem_node_high" alt="" coords="892,213,1083,240"/>
+</map>

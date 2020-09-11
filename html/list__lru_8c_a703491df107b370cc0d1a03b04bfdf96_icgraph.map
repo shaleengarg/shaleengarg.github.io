@@ -1,0 +1,29 @@
+<map id="list_lru_from_kmem" name="list_lru_from_kmem">
+<area shape="rect" id="node2" href="$list__lru_8c.html#af0e2c3f444042c3f590f24b0207f3c1a" title="list_lru_unregister" alt="" coords="189,89,313,116"/>
+<area shape="rect" id="node5" href="$list__lru_8c.html#afbc808e1900ecab502f89a62b46b8533" title="list_lru_add" alt="" coords="207,140,295,167"/>
+<area shape="rect" id="node28" href="$list__lru_8c.html#a9504dedba201b84d59afa1617495a406" title="list_lru_del" alt="" coords="209,191,293,217"/>
+<area shape="rect" id="node3" href="$list__lru_8c.html#add3b8dd1a4d641714f197bf67edefd52" title="list_lru_destroy" alt="" coords="389,89,500,116"/>
+<area shape="rect" id="node4" href="$workingset_8c.html#a439c5211f5016bec1588ef3697142237" title="workingset_init" alt="" coords="597,89,707,116"/>
+<area shape="rect" id="node6" href="$workingset_8c.html#ad5a62c422cb1618b66779a025b5a1a21" title="workingset_update_node" alt="" coords="361,165,528,192"/>
+<area shape="rect" id="node7" href="$truncate_8c.html#a8ac104807212b74ce949e2634bf24c17" title="__clear_shadow_entry" alt="" coords="576,165,728,192"/>
+<area shape="rect" id="node8" href="$truncate_8c.html#acfad73adf43d77367163b6a43f66906b" title="clear_shadow_entry" alt="" coords="778,121,917,148"/>
+<area shape="rect" id="node20" href="$truncate_8c.html#a6c92c269098c7e286c3f75f63fb8a992" title="truncate_exceptional\l_pvec_entries" alt="" coords="776,187,919,229"/>
+<area shape="rect" id="node9" href="$truncate_8c.html#a933111390393f499b763b75b4fb8494c" title="invalidate_exceptional\l_entry" alt="" coords="967,49,1117,90"/>
+<area shape="rect" id="node16" href="$truncate_8c.html#ac2f0e8909e06792c78c8cfe78cb2acc1" title="invalidate_exceptional\l_entry2" alt="" coords="967,114,1117,155"/>
+<area shape="rect" id="node10" href="$truncate_8c.html#a9970b944654dccb6e99dcfc93d03bce7" title="invalidate_mapping\l_pages" alt="" coords="1181,49,1314,90"/>
+<area shape="rect" id="node11" href="$fadvise_8c.html#ad5ab4980535b09466ccb30d7bcaaa3aa" title="ksys_fadvise64_64" alt="" coords="1392,5,1527,32"/>
+<area shape="rect" id="node14" href="$filemap_8c.html#afcc4a74ba046067e2df44e8a3875199c" title="__generic_file_write_iter" alt="" coords="1589,85,1752,112"/>
+<area shape="rect" id="node12" href="$fadvise_8c.html#aad516c4a4fb4807fc5f875c59934d426" title="SYSCALL_DEFINE4" alt="" coords="1597,5,1744,32"/>
+<area shape="rect" id="node13" href="$mprotect_8c.html#a7a309c750ff1e750bad910bbe9101775" title="SYSCALL_DEFINE3" alt="" coords="1801,5,1947,32"/>
+<area shape="rect" id="node15" href="$filemap_8c.html#aa341d31526dcdf811c67b812a7c66a2f" title="generic_file_write_iter" alt="" coords="1800,85,1948,112"/>
+<area shape="rect" id="node17" href="$truncate_8c.html#a224a4da5442ab107e24144f7322d1d81" title="invalidate_inode_pages2\l_range" alt="" coords="1165,114,1329,155"/>
+<area shape="rect" id="node18" href="$filemap_8c.html#a7173fb7479e6703c2d76255049946272" title="generic_file_direct\l_write" alt="" coords="1396,107,1523,149"/>
+<area shape="rect" id="node19" href="$truncate_8c.html#ad1dbb2e32c184e634b74aa91312233b7" title="invalidate_inode_pages2" alt="" coords="1377,173,1541,200"/>
+<area shape="rect" id="node21" href="$truncate_8c.html#a2bda1fcb249c68dfe2c995d93277d8bc" title="truncate_inode_pages\l_range" alt="" coords="967,202,1117,243"/>
+<area shape="rect" id="node22" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="1168,181,1327,208"/>
+<area shape="rect" id="node23" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="1173,232,1322,259"/>
+<area shape="rect" id="node27" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="1178,283,1317,325"/>
+<area shape="rect" id="node24" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="1385,225,1534,266"/>
+<area shape="rect" id="node25" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="1390,291,1529,317"/>
+<area shape="rect" id="node26" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="1611,291,1730,317"/>
+</map>

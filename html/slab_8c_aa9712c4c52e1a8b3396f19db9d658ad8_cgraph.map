@@ -1,0 +1,6 @@
+<map id="alloc_block" name="alloc_block">
+<area shape="rect" id="node2" href="$slab_8c.html#a45a4d77858bf4a0a8f35ed972031867f" title="slab_get_obj" alt="" coords="140,56,235,83"/>
+<area shape="rect" id="node3" href="$slab_8c.html#a44e112e2dfeab0773d17f1f4fc1518ec" title="index_to_obj" alt="" coords="305,5,400,32"/>
+<area shape="rect" id="node4" href="$slab_8c.html#a6ba4500ae58032f115ef393c07c856d4" title="get_free_obj" alt="" coords="306,56,399,83"/>
+<area shape="rect" id="node5" href="$slab_8c.html#a0f62d0a592fd9b3d86bffea94c1831bc" title="set_store_user_dirty" alt="" coords="283,107,423,133"/>
+</map>

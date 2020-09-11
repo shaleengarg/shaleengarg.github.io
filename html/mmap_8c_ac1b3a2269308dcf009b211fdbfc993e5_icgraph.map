@@ -1,0 +1,7 @@
+<map id="find_vma_prev" name="find_vma_prev">
+<area shape="rect" id="node2" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="172,5,319,32"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#a1b0435ae6268d2f60ba52bdb52b6658a" title="arch_get_unmapped_area" alt="" coords="160,56,331,83"/>
+<area shape="rect" id="node5" href="$mmap_8c.html#a20ce3a02135b3c31ebcb385e1be64777" title="arch_get_unmapped_area\l_topdown" alt="" coords="160,107,331,149"/>
+<area shape="rect" id="node6" href="$mmap_8c.html#aa9a1d492e029e527449d76fc2e1e4201" title="cmdline_parse_stack\l_guard_gap" alt="" coords="173,173,318,214"/>
+<area shape="rect" id="node4" href="$util_8c.html#aa8703d8026fab72a8eb9686dcda3db0f" title="vma_is_stack_for_current" alt="" coords="379,56,551,83"/>
+</map>

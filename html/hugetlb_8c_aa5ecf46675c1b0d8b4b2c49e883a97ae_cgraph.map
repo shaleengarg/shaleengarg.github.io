@@ -1,0 +1,15 @@
+<map id="gather_bootmem_prealloc" name="gather_bootmem_prealloc">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a38ae2a5e7598c7fa4c3ce5a387b342d9" title="prep_compound_huge_page" alt="" coords="224,107,408,133"/>
+<area shape="rect" id="node13" href="$hugetlb_8c.html#a64c36aa902cc92e29869cc0d5385b14f" title="prep_new_huge_page" alt="" coords="242,157,390,184"/>
+<area shape="rect" id="node14" href="$page__alloc_8c.html#a20033e7e3f430f747dc60be9480629c3" title="adjust_managed_page\l_count" alt="" coords="481,19,633,61"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#ad373a289b9b75b91a44d9b9558051fb9" title="prep_compound_gigantic_page" alt="" coords="456,208,657,235"/>
+<area shape="rect" id="node5" href="$internal_8h.html#a18b8c37907b9c663df998b25e1ec7f71" title="prep_compound_page" alt="" coords="482,107,631,133"/>
+<area shape="rect" id="node4" href="$internal_8h.html#aa0705a0bde13ed521ef981e18bfeface" title="mem_map_next" alt="" coords="717,259,832,285"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a64d1e974edaf4d3682553d5f72c9cd59" title="EXPORT_SYMBOL" alt="" coords="705,5,844,32"/>
+<area shape="rect" id="node7" href="$bootmem_8c.html#a6d699755e5e047df9a13a35b90554c70" title="early_param" alt="" coords="728,208,821,235"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#a6c918133c92b6b5bed2d0003c349d846" title="set_page_guard" alt="" coords="717,56,832,83"/>
+<area shape="rect" id="node9" href="$page__ext_8c.html#a6177a169f04ab74f9105c488e4637692" title="lookup_page_ext" alt="" coords="715,107,835,133"/>
+<area shape="rect" id="node12" href="$page__alloc_8c.html#aace6c73b563a513aec47db2ed6c30a9b" title="clear_page_guard" alt="" coords="713,157,837,184"/>
+<area shape="rect" id="node10" href="$page__ext_8c.html#aed652bf58356a3fd196481685f4bc1d4" title="get_entry" alt="" coords="892,107,968,133"/>
+<area shape="rect" id="node11" href="$page__ext_8c.html#afa0aa3c75e78eafd1b790b9a905ec984" title="get_entry_size" alt="" coords="1016,107,1123,133"/>
+</map>

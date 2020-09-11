@@ -1,0 +1,6 @@
+<map id="reserve_bootmem" name="reserve_bootmem">
+<area shape="rect" id="node2" href="$bootmem_8c.html#af24279eebe360d4b53172674d268e352" title="mark_bootmem" alt="" coords="180,31,292,57"/>
+<area shape="rect" id="node3" href="$bootmem_8c.html#aac2fcf61d760c4fc398b3a7eeff302ae" title="mark_bootmem_node" alt="" coords="340,31,487,57"/>
+<area shape="rect" id="node4" href="$bootmem_8c.html#ad6d29406f7c69c8e7e60a4b96a56a1d9" title="__reserve" alt="" coords="535,5,613,32"/>
+<area shape="rect" id="node5" href="$bootmem_8c.html#ad6631fc75c59850b6f637485172f2334" title="__free" alt="" coords="661,31,720,57"/>
+</map>

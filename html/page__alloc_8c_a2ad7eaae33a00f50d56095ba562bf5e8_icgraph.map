@@ -1,0 +1,8 @@
+<map id="nr_free_buffer_pages" name="nr_free_buffer_pages">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#a2bb249863bfe295bce12d53d8e643817" title="set_recommended_min\l_free_kbytes" alt="" coords="205,5,363,47"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#ad133711c635c337cd2f559361dbd59ab" title="init_per_zone_wmark_min" alt="" coords="197,71,371,98"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="427,13,585,39"/>
+<area shape="rect" id="node4" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="641,13,744,39"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="419,63,593,90"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="644,89,741,115"/>
+</map>

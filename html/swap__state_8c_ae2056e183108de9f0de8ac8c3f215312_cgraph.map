@@ -1,0 +1,5 @@
+<map id="swap_ra_info" name="swap_ra_info">
+<area shape="rect" id="node2" href="$swap__state_8c.html#a733acc0da8a57f60c70ada475976f67f" title="__swapin_nr_pages" alt="" coords="153,5,290,32"/>
+<area shape="rect" id="node4" href="$swap__state_8c.html#a67a9d2423e21320e9f1a38cdc3e9b394" title="swap_ra_clamp_pfn" alt="" coords="152,56,291,83"/>
+<area shape="rect" id="node3" href="$quicklist_8c.html#a5e6ceae98183d6d728f1ce03cc7f5265" title="max_pages" alt="" coords="339,5,428,32"/>
+</map>

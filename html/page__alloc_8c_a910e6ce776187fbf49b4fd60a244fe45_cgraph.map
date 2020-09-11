@@ -1,0 +1,4 @@
+<map id="set_pfnblock_flags_mask" name="set_pfnblock_flags_mask">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a19383722c6f07b5586f6db93cb8ecc30" title="get_pageblock_bitmap" alt="" coords="224,5,376,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#aba2efb179a834be3f78d1a480a5ab048" title="pfn_to_bitidx" alt="" coords="252,56,348,83"/>
+</map>

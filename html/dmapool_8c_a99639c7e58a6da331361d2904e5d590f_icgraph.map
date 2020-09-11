@@ -1,0 +1,6 @@
+<map id="pool_free_page" name="pool_free_page">
+<area shape="rect" id="node2" href="$dmapool_8c.html#ad86d3e56e606d50c24c42026097dd323" title="dma_pool_destroy" alt="" coords="164,31,292,57"/>
+<area shape="rect" id="node3" href="$dmapool_8c.html#a51c0f8e0c0c3bc4f025b5fbc25c68b88" title="dmam_pool_release" alt="" coords="340,31,479,57"/>
+<area shape="rect" id="node4" href="$dmapool_8c.html#a40bcb265333a6cad51fa9dd88ef62bd5" title="dmam_pool_create" alt="" coords="530,5,662,32"/>
+<area shape="rect" id="node5" href="$dmapool_8c.html#a9b71c5232808ea9520769723678d8dc3" title="dmam_pool_destroy" alt="" coords="527,56,665,83"/>
+</map>

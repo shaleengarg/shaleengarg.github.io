@@ -1,0 +1,10 @@
+<map id="__free_one_page" name="__free_one_page">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="195,5,278,32"/>
+<area shape="rect" id="node3" href="$internal_8h.html#a99814532ded2bc9e9e998e5e83c8425d" title="__find_buddy_pfn" alt="" coords="175,56,299,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a6225eaad3ee34e28fbe85a651972e0a4" title="page_is_buddy" alt="" coords="182,107,291,133"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#aace6c73b563a513aec47db2ed6c30a9b" title="clear_page_guard" alt="" coords="175,157,299,184"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#a7e8cc7df33e968891fa6e954781ee20c" title="rmv_page_order" alt="" coords="179,208,294,235"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#a10c15851616e8c1e425e75a4e1669387" title="set_page_order" alt="" coords="181,259,292,285"/>
+<area shape="rect" id="node4" href="$internal_8h.html#a4f47959b411219321126d371ab225cad" title="__pageblock_pfn_to_page" alt="" coords="347,56,520,83"/>
+<area shape="rect" id="node6" href="$internal_8h.html#a1674ff815608c977b6231072833aa598" title="page_order" alt="" coords="390,107,477,133"/>
+</map>

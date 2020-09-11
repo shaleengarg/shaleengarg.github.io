@@ -1,0 +1,6 @@
+<map id="compare_thresholds" name="compare_thresholds">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a43b9559864198b7ddf0572a6299401e0" title="__mem_cgroup_usage\l_register_event" alt="" coords="192,39,345,80"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#acc618b42efb95e5481789b03bc34467c" title="mem_cgroup_usage_register\l_event" alt="" coords="393,5,583,47"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a3693b409e4a8b3b713efab51f51de6fb" title="memsw_cgroup_usage\l_register_event" alt="" coords="410,71,566,112"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a2905ef3b9838a2ae576d02a7673f2c50" title="memcg_write_event_control" alt="" coords="631,46,816,73"/>
+</map>

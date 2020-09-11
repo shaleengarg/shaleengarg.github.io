@@ -1,0 +1,6 @@
+<map id="core_initcall" name="core_initcall">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a0e3c652c6cbe7c58b39f6f22ebec4d41" title="setup_per_zone_wmarks" alt="" coords="144,31,311,57"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a565c40d0c9b806ef7b9fdc0adb2f512c" title="DEFINE_SPINLOCK" alt="" coords="376,5,523,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a650a987fb1514635908b10ff54cc6d04" title="__setup_per_zone_wmarks" alt="" coords="359,56,540,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a2e317bfc4c3f37d95267e2907745743d" title="calculate_totalreserve\l_pages" alt="" coords="588,49,737,90"/>
+</map>

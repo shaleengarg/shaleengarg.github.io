@@ -1,0 +1,4 @@
+<map id="kernel_migrate_pages" name="kernel_migrate_pages">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#ad9deebb1616a5799729df2645b9199d5" title="get_nodes" alt="" coords="225,5,308,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a4fb3cf5c886ff5cd1789fdbdc81b7ea6" title="do_migrate_pages" alt="" coords="203,56,331,83"/>
+</map>

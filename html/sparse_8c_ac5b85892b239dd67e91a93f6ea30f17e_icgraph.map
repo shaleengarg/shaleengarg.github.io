@@ -1,0 +1,5 @@
+<map id="sparse_decode_mem_map" name="sparse_decode_mem_map">
+<area shape="rect" id="node2" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="232,5,407,32"/>
+<area shape="rect" id="node4" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="277,56,362,83"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="455,5,552,32"/>
+</map>

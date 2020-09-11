@@ -1,0 +1,12 @@
+<map id="scan_object" name="scan_object">
+<area shape="rect" id="node2" href="$kmemleak_8c.html#ae5a585e601418b593240276da2fe604a" title="scan_block" alt="" coords="145,132,233,159"/>
+<area shape="rect" id="node3" href="$kmemleak_8c.html#add8675686290d5124ec07c827f5a6ec8" title="scan_should_stop" alt="" coords="294,5,421,32"/>
+<area shape="rect" id="node4" href="$kasan_8c.html#a88859b8fe2395d376ae69f124f1235cd" title="kasan_disable_current" alt="" coords="281,56,433,83"/>
+<area shape="rect" id="node5" href="$kasan_8c.html#a381e9c4ae1310ba55286c94c5c99afbb" title="kasan_enable_current" alt="" coords="283,107,432,133"/>
+<area shape="rect" id="node6" href="$kmemleak_8c.html#a4d1c71de5b2fa4346235c41874c0dc80" title="lookup_object" alt="" coords="306,157,409,184"/>
+<area shape="rect" id="node8" href="$kmemleak_8c.html#ae76f12fa2d747a4a4f92177c6e520938" title="color_gray" alt="" coords="502,208,585,235"/>
+<area shape="rect" id="node9" href="$kmemleak_8c.html#a64c8d17abe35f1c5d27e4dd252b51ee4" title="update_refs" alt="" coords="312,259,403,285"/>
+<area shape="rect" id="node7" href="$kmemleak_8c.html#a3fc24ff0d373f335804725b4f9135d8a" title="dump_object_info" alt="" coords="481,157,605,184"/>
+<area shape="rect" id="node10" href="$kmemleak_8c.html#a729c7798704aac32c27148de6f133aa7" title="color_white" alt="" coords="499,259,587,285"/>
+<area shape="rect" id="node11" href="$kmemleak_8c.html#a49419e49db7873aad5fe5f010e7df9bd" title="get_object" alt="" coords="502,309,585,336"/>
+</map>

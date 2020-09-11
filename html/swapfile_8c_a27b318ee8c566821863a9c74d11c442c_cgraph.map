@@ -1,0 +1,11 @@
+<map id="swapcache_prepare" name="swapcache_prepare">
+<area shape="rect" id="node2" href="$swapfile_8c.html#a15fdb8b80446520b721829f69e6882c1" title="__swap_duplicate" alt="" coords="192,81,319,108"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#ad444e31fcdf659784694f3a03ae3fe8f" title="lock_cluster_or_swap_info" alt="" coords="374,5,550,32"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#acf3656c97473a964abea6fc7618889df" title="swap_count" alt="" coords="416,56,508,83"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#a140b91539c44d9032b5dc40b6314d62f" title="swap_count_continued" alt="" coords="385,107,539,133"/>
+<area shape="rect" id="node9" href="$swapfile_8c.html#a55ec51c38de98a91581ac156083fbc5f" title="unlock_cluster_or_swap_info" alt="" coords="367,157,557,184"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#addaa57bb3d866fa06a1ce1cb76a0700f" title="lock_cluster" alt="" coords="619,5,711,32"/>
+<area shape="rect" id="node7" href="$nommu_8c.html#a2026a3785dcedb456f1eebaf21b710da" title="vmalloc_to_page" alt="" coords="605,107,725,133"/>
+<area shape="rect" id="node8" href="$nommu_8c.html#a4a9cd50228ffd2df64691ed725b89b9c" title="EXPORT_SYMBOL" alt="" coords="773,107,912,133"/>
+<area shape="rect" id="node10" href="$swapfile_8c.html#a0ff64ccc0f646c01d095914765dcb84e" title="unlock_cluster" alt="" coords="612,157,719,184"/>
+</map>

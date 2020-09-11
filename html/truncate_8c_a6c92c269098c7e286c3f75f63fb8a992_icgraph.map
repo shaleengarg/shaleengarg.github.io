@@ -1,0 +1,9 @@
+<map id="truncate_exceptional_pvec_entries" name="truncate_exceptional_pvec_entries">
+<area shape="rect" id="node2" href="$truncate_8c.html#a2bda1fcb249c68dfe2c995d93277d8bc" title="truncate_inode_pages\l_range" alt="" coords="196,49,345,90"/>
+<area shape="rect" id="node3" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="393,5,552,32"/>
+<area shape="rect" id="node4" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="398,56,547,83"/>
+<area shape="rect" id="node8" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="403,107,542,149"/>
+<area shape="rect" id="node5" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="600,19,749,61"/>
+<area shape="rect" id="node6" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="605,85,744,112"/>
+<area shape="rect" id="node7" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="797,85,916,112"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="init_currently_empty_zone" name="init_currently_empty_zone">
+<area shape="rect" id="node2" href="$internal_8h.html#a8c2a87a1fa41d7f409f57c94d48398f8" title="mminit_dprintk" alt="" coords="721,5,827,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a0a2006e498f6d535288902c1e1f2bd7e" title="zone_init_free_lists" alt="" coords="256,68,391,95"/>
+<area shape="rect" id="node4" href="$sparse_8c.html#ac7e26c77a3b71e5805d79fd17f0081ec" title="memory_present" alt="" coords="264,119,383,145"/>
+<area shape="rect" id="node12" href="$page__alloc_8c.html#a9fc84809e30a2f49fd7719e751734ab7" title="zone_spanned_pages\l_in_node" alt="" coords="249,170,397,211"/>
+<area shape="rect" id="node13" href="$page__alloc_8c.html#a93e3dd562933f8fb263178558541659f" title="zone_absent_pages_in_node" alt="" coords="228,236,419,263"/>
+<area shape="rect" id="node5" href="$sparse_8c.html#a89854182802cdee86773c3c220c31f1b" title="mminit_validate_memmodel\l_limits" alt="" coords="467,27,651,69"/>
+<area shape="rect" id="node6" href="$sparse_8c.html#a549024037cf3037e6b39206a9eb2f3f8" title="sparse_index_init" alt="" coords="713,119,835,145"/>
+<area shape="rect" id="node8" href="$sparse_8c.html#a5d67f61e70c5554754d5678d78c7ddad" title="set_section_nid" alt="" coords="502,144,615,171"/>
+<area shape="rect" id="node10" href="$sparse_8c.html#a1a41497ae513b372d66fb6bb2b0ab40a" title="sparse_encode_early_nid" alt="" coords="474,195,643,221"/>
+<area shape="rect" id="node11" href="$sparse_8c.html#a0919137581aba0bba20060084172c4b2" title="section_mark_present" alt="" coords="699,232,849,259"/>
+<area shape="rect" id="node7" href="$sparse_8c.html#a540ce77729d18a9b42680ab3ff99655d" title="__section_nr" alt="" coords="897,181,993,208"/>
+<area shape="rect" id="node9" href="$slab__common_8c.html#a940d5fcfd9b3dcf05bdc6b7488f01c33" title="slab_is_available" alt="" coords="713,169,835,196"/>
+</map>

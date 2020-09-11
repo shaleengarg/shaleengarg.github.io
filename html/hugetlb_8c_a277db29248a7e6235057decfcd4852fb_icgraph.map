@@ -1,0 +1,5 @@
+<map id="hugetlb_hstate_alloc_pages" name="hugetlb_hstate_alloc_pages">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a50bb789d2c11f65577fc5c8b032a6432" title="hugetlb_init_hstates" alt="" coords="203,5,342,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#abf28a171cc827be0980e8dfcf8abec96" title="hugetlb_nrpages_setup" alt="" coords="195,56,351,83"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#acfb1769d5d670c730cc54a49d828e3ed" title="hugetlb_init" alt="" coords="399,5,487,32"/>
+</map>

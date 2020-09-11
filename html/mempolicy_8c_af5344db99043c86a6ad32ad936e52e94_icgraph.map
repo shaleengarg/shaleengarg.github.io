@@ -1,0 +1,5 @@
+<map id="policy_node" name="policy_node">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#adc035431c680e589fa9e7a54d7f57391" title="interleave_nid" alt="" coords="162,5,265,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a14d294159e91b7af61864e4a476cde8d" title="alloc_pages_vma" alt="" coords="331,31,453,57"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a4fcac2f67850e039cf53f5e41773f20f" title="alloc_pages_current" alt="" coords="144,107,283,133"/>
+</map>

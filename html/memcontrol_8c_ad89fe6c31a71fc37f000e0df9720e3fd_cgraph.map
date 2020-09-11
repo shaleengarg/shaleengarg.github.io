@@ -1,0 +1,12 @@
+<map id="mem_cgroup_soft_limit_reclaim" name="mem_cgroup_soft_limit_reclaim">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a7fca430ae8981716ef0eb03b870847e5" title="soft_limit_tree_node" alt="" coords="229,5,367,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a236f4fc3a6478167075d54d366a35200" title="mem_cgroup_largest\l_soft_limit_node" alt="" coords="227,107,369,149"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a8f6ee41501858d83952e377695b06934" title="__mem_cgroup_largest\l_soft_limit_node" alt="" coords="435,107,593,149"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a295c754ea0a2eb3e516c039976f6b75c" title="__mem_cgroup_remove\l_exceeded" alt="" coords="643,78,804,119"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#a5b7f1bbe6752b130ea33ea2695bdc862" title="soft_limit_excess" alt="" coords="661,173,785,200"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#a7b611cd6dc3e710b9e76f1b891ad392c" title="mem_cgroup_soft_reclaim" alt="" coords="211,224,385,251"/>
+<area shape="rect" id="node11" href="$memcontrol_8c.html#ac5222ad8d2efd138f09f91960cfb8f18" title="__mem_cgroup_insert\l_exceeded" alt="" coords="223,427,373,469"/>
+<area shape="rect" id="node8" href="$memcontrol_8c.html#a691dc881cb068f156ceab87d90505686" title="mem_cgroup_iter" alt="" coords="453,224,575,251"/>
+<area shape="rect" id="node9" href="$memcontrol_8c.html#a9d0260b0dca7b94839c41a75ce96e596" title="mem_cgroup_iter_break" alt="" coords="433,275,595,301"/>
+<area shape="rect" id="node10" href="$memcontrol_8c.html#a37668d01b606539eed5fb1405fd850d8" title="DEFINE_SPINLOCK" alt="" coords="441,325,587,352"/>
+</map>

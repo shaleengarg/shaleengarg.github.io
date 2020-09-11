@@ -1,0 +1,6 @@
+<map id="bdi_register" name="bdi_register">
+<area shape="rect" id="node2" href="$backing-dev_8c.html#a0570c66005b06dbca126115e8a09ef93" title="bdi_register_va" alt="" coords="143,56,253,83"/>
+<area shape="rect" id="node5" href="$backing-dev_8c.html#a610672a483cf1b14968d8bce1e6da481" title="EXPORT_SYMBOL" alt="" coords="301,107,440,133"/>
+<area shape="rect" id="node3" href="$backing-dev_8c.html#a18a18f2e0ecf18c10708d28d8a8eb17d" title="cgwb_bdi_register" alt="" coords="307,5,434,32"/>
+<area shape="rect" id="node4" href="$backing-dev_8c.html#a92ad27f23c59d0056c3f1a684cefc04d" title="bdi_debug_register" alt="" coords="305,56,436,83"/>
+</map>

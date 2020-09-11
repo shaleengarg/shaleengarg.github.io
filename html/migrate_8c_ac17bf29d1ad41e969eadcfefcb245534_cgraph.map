@@ -1,0 +1,4 @@
+<map id="change_vmap_struct" name="change_vmap_struct">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a30102d8b1f0428113e2fd2a25ea52d53" title="find_vmap_area" alt="" coords="196,5,311,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a511ecd8b67c533b38925fb07329b6df3" title="__find_vmap_area" alt="" coords="359,5,487,32"/>
+</map>

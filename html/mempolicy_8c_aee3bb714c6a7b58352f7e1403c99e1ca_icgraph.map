@@ -1,0 +1,5 @@
+<map id="apply_policy_zone" name="apply_policy_zone">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a12ca5258f077941f724327111a976e42" title="policy_nodemask" alt="" coords="183,31,305,57"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a14d294159e91b7af61864e4a476cde8d" title="alloc_pages_vma" alt="" coords="361,5,484,32"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a4fcac2f67850e039cf53f5e41773f20f" title="alloc_pages_current" alt="" coords="353,56,492,83"/>
+</map>

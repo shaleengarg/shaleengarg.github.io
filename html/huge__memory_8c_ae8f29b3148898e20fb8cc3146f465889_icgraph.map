@@ -1,0 +1,6 @@
+<map id="move_huge_pmd" name="move_huge_pmd">
+<area shape="rect" id="node2" href="$mremap_8c.html#aa12aaca460bc64ba4d3e34a87e42a70f" title="move_page_tables" alt="" coords="175,31,305,57"/>
+<area shape="rect" id="node3" href="$mremap_8c.html#aa73038b5311eb758771caf47b8dfc45a" title="move_vma" alt="" coords="353,31,440,57"/>
+<area shape="rect" id="node4" href="$mremap_8c.html#a2a386a3e40f3b97b99e63f58a81b6a1f" title="mremap_to" alt="" coords="488,5,575,32"/>
+<area shape="rect" id="node5" href="$mremap_8c.html#ab3d71b0aaabf3564984045f1e4c3faf9" title="SYSCALL_DEFINE5" alt="" coords="623,31,769,57"/>
+</map>

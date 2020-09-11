@@ -1,0 +1,8 @@
+<map id="truncate_inode_pages_range" name="truncate_inode_pages_range">
+<area shape="rect" id="node2" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="203,5,361,32"/>
+<area shape="rect" id="node3" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="207,56,357,83"/>
+<area shape="rect" id="node7" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="213,107,351,149"/>
+<area shape="rect" id="node4" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="409,19,559,61"/>
+<area shape="rect" id="node5" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="415,85,553,112"/>
+<area shape="rect" id="node6" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="607,85,725,112"/>
+</map>

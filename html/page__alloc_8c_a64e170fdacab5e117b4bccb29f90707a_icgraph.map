@@ -1,0 +1,8 @@
+<map id="free_area_init_core" name="free_area_init_core">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#aa2b3ef247802ed4677cb83ebc537ae52" title="free_area_init_node" alt="" coords="185,56,320,83"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="368,31,499,57"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a1d9cbc57aa0abd9bb35987a8f9093a99" title="free_area_init" alt="" coords="383,81,483,108"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="567,5,681,32"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="547,56,701,83"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="749,56,847,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="slob_alloc" name="slob_alloc">
+<area shape="rect" id="node2" href="$slob_8c.html#a1257365ecae6594c4f8e7d3f399e8e58" title="__do_kmalloc_node" alt="" coords="133,107,271,133"/>
+<area shape="rect" id="node7" href="$slob_8c.html#aca55f0d3b7ca4883cb0995a4b62b4227" title="slob_alloc_node" alt="" coords="145,157,259,184"/>
+<area shape="rect" id="node3" href="$slab_8c.html#a94dd0935d21a8a28392069b75365d4c2" title="kmem_cache_alloc_bulk" alt="" coords="319,5,484,32"/>
+<area shape="rect" id="node4" href="$slob_8c.html#aa8b9c5df0378f9197475eeab4367d93f" title="__kmalloc" alt="" coords="361,56,442,83"/>
+<area shape="rect" id="node5" href="$slob_8c.html#acb6cd90f62153291a07b988a207fe17e" title="__kmalloc_track_caller" alt="" coords="324,107,479,133"/>
+<area shape="rect" id="node6" href="$slob_8c.html#a46c9c43b8a376fe02077a5aff649d059" title="kmem_cache_alloc" alt="" coords="334,157,469,184"/>
+</map>

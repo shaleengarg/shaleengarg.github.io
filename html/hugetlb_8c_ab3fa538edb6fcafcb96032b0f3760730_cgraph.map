@@ -1,0 +1,10 @@
+<map id="dequeue_huge_page_vma" name="dequeue_huge_page_vma">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#afc88eddebceb4d0af0555d8c8faa3e61" title="vma_has_reserves" alt="" coords="265,31,397,57"/>
+<area shape="rect" id="node6" href="$hugetlb_8c.html#a1360995479342462e13e66da5d60b8b1" title="htlb_alloc_mask" alt="" coords="273,81,389,108"/>
+<area shape="rect" id="node7" href="$hugetlb_8c.html#af8143a754fa2fa0f56eb36b92bc534c6" title="dequeue_huge_page_nodemask" alt="" coords="227,132,435,159"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a610c6a55fd98cd034e93db9dd1afad83" title="is_vma_resv_set" alt="" coords="510,31,631,57"/>
+<area shape="rect" id="node4" href="$interval__tree_8c.html#a3dc4f93f3175b6108af20b9fbd78c951" title="VM_BUG_ON_VMA" alt="" coords="711,5,853,32"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#aabd416ad8a55f55b17f4d67fd1e34eb6" title="get_vma_private_data" alt="" coords="707,56,857,83"/>
+<area shape="rect" id="node8" href="$hugetlb_8c.html#aa15378e04d179b07e4292951598fd6cb" title="dequeue_huge_page_node\l_exact" alt="" coords="483,125,659,166"/>
+<area shape="rect" id="node9" href="$internal_8h.html#aaeb745323abb43a1fc01621ac0ea0a31" title="set_page_refcounted" alt="" coords="711,132,853,159"/>
+</map>

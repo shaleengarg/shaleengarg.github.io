@@ -1,0 +1,14 @@
+<map id="set_slob_page_free" name="set_slob_page_free">
+<area shape="rect" id="node2" href="$slob_8c.html#a72a3cd00c4f1d51e946954bca520e94b" title="slob_alloc" alt="" coords="188,157,268,184"/>
+<area shape="rect" id="node9" href="$slob_8c.html#a91f2190e66dbeac7248b56f4ae2aef8d" title="slob_free" alt="" coords="191,208,265,235"/>
+<area shape="rect" id="node3" href="$slob_8c.html#a1257365ecae6594c4f8e7d3f399e8e58" title="__do_kmalloc_node" alt="" coords="319,107,456,133"/>
+<area shape="rect" id="node8" href="$slob_8c.html#aca55f0d3b7ca4883cb0995a4b62b4227" title="slob_alloc_node" alt="" coords="330,157,445,184"/>
+<area shape="rect" id="node4" href="$slab_8c.html#a94dd0935d21a8a28392069b75365d4c2" title="kmem_cache_alloc_bulk" alt="" coords="507,5,672,32"/>
+<area shape="rect" id="node5" href="$slob_8c.html#aa8b9c5df0378f9197475eeab4367d93f" title="__kmalloc" alt="" coords="549,56,630,83"/>
+<area shape="rect" id="node6" href="$slob_8c.html#acb6cd90f62153291a07b988a207fe17e" title="__kmalloc_track_caller" alt="" coords="512,107,667,133"/>
+<area shape="rect" id="node7" href="$slob_8c.html#a46c9c43b8a376fe02077a5aff649d059" title="kmem_cache_alloc" alt="" coords="522,157,657,184"/>
+<area shape="rect" id="node10" href="$slob_8c.html#a84a79c6ba991de1f84ba92a5b9a4e8c8" title="kfree" alt="" coords="362,208,413,235"/>
+<area shape="rect" id="node11" href="$slob_8c.html#ac3a1acc0fce076c1f37dbbad1dde1d82" title="__kmem_cache_free" alt="" coords="316,259,459,285"/>
+<area shape="rect" id="node12" href="$slob_8c.html#ac55c19fb1b8768ffcae1c4dbded5d418" title="kmem_rcu_free" alt="" coords="533,208,645,235"/>
+<area shape="rect" id="node13" href="$slob_8c.html#a47eb124f61f16d8e4d7c9ae80413a999" title="kmem_cache_free" alt="" coords="720,233,849,260"/>
+</map>

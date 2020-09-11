@@ -1,0 +1,6 @@
+<map id="wb_position_ratio" name="wb_position_ratio">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#a25774c686d88e688ffc02ba030402452" title="dirty_freerun_ceiling" alt="" coords="176,5,315,32"/>
+<area shape="rect" id="node3" href="$page-writeback_8c.html#a9d54ef1ce1a8238a5381599623694d23" title="hard_dirty_limit" alt="" coords="190,56,301,83"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#ab205b3f7a7d55732540e4881bcd4350a" title="dtc_dom" alt="" coords="209,107,281,133"/>
+<area shape="rect" id="node5" href="$page-writeback_8c.html#a41b38fce64e07057cff1f6191a9cbd91" title="pos_ratio_polynom" alt="" coords="180,157,311,184"/>
+</map>

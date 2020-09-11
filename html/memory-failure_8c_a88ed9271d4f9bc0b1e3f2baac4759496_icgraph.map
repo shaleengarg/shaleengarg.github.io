@@ -1,0 +1,12 @@
+<map id="page_action" name="page_action">
+<area shape="rect" id="node2" href="$memory-failure_8c.html#a5ecb6228ba70a5bb9e30d583cc66a1ee" title="identify_page_state" alt="" coords="145,56,280,83"/>
+<area shape="rect" id="node3" href="$memory-failure_8c.html#a9915066e9f2a33207497c93037fec06b" title="memory_failure_hugetlb" alt="" coords="328,31,488,57"/>
+<area shape="rect" id="node4" href="$memory-failure_8c.html#a2601bce571ed122f848164f1d8a89304" title="memory_failure" alt="" coords="536,56,647,83"/>
+<area shape="rect" id="node5" href="$hwpoison-inject_8c.html#a2247fa3f9c5eb639a8e5b6e36cd3e2e5" title="hwpoison_inject" alt="" coords="727,5,841,32"/>
+<area shape="rect" id="node7" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="723,56,845,83"/>
+<area shape="rect" id="node10" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="695,107,873,133"/>
+<area shape="rect" id="node6" href="$hwpoison-inject_8c.html#abb0109b07f7d09bcdf3962d992fedba3" title="hwpoison_unpoison" alt="" coords="921,5,1057,32"/>
+<area shape="rect" id="node8" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="938,56,1041,83"/>
+<area shape="rect" id="node9" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1105,56,1252,83"/>
+<area shape="rect" id="node11" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="922,107,1057,133"/>
+</map>

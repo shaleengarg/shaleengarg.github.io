@@ -1,0 +1,6 @@
+<map id="get_freepointer_safe" name="get_freepointer_safe">
+<area shape="rect" id="node2" href="$slub_8c.html#a61d8717636396cba4247fe862f18f73d" title="get_freepointer" alt="" coords="203,5,311,32"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a484235b6d4b58fbf5dbbafc402d69be2" title="freelist_ptr" alt="" coords="553,31,636,57"/>
+<area shape="rect" id="node5" href="$maccess_8c.html#a1c3f418df7f5b6ae56217665bb4645fa" title="probe_kernel_read" alt="" coords="193,107,321,133"/>
+<area shape="rect" id="node3" href="$slub_8c.html#a534fc15f6ac13e9615ea581cf5b56c3e" title="freelist_dereference" alt="" coords="369,5,505,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="z3fold_zpool_map" name="z3fold_zpool_map">
+<area shape="rect" id="node2" href="$z3fold_8c.html#aeb16479c860b8962b1bc1eccef6b0374" title="z3fold_map" alt="" coords="180,52,269,79"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#add1819f07b2bb4e293dda22a3467e426" title="handle_to_z3fold_header" alt="" coords="503,27,669,53"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#ac46a6ef22f4889d9c7089db4a359ba54" title="z3fold_page_lock" alt="" coords="325,27,447,53"/>
+<area shape="rect" id="node5" href="$z3fold_8c.html#a99074fc0980108afa3587b6eb40ae083" title="handle_to_buddy" alt="" coords="326,77,446,104"/>
+<area shape="rect" id="node6" href="$z3fold_8c.html#a4b0842e44cfa140e6a098f2e6383e861" title="z3fold_page_unlock" alt="" coords="317,128,455,155"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="adjust_managed_page_count" name="adjust_managed_page_count">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#aa5ecf46675c1b0d8b4b2c49e883a97ae" title="gather_bootmem_prealloc" alt="" coords="207,5,378,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="205,56,380,83"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="428,81,525,108"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#acabf961b784c1a5d2cf8e46413a49814" title="page_alloc_init_late" alt="" coords="225,157,361,184"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#acfb1769d5d670c730cc54a49d828e3ed" title="hugetlb_init" alt="" coords="433,5,521,32"/>
+</map>

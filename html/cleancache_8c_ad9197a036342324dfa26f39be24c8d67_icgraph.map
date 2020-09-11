@@ -1,0 +1,11 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$cleancache_8c.html#a7168012b9dc90fd9329cb25cc1d8feea" title="cleancache_register_ops" alt="" coords="625,40,792,67"/>
+<area shape="rect" id="node3" href="$cleancache_8c.html#abf7f1ebde269dd8eddd11a6dd12b24d2" title="__cleancache_init_fs" alt="" coords="219,62,363,88"/>
+<area shape="rect" id="node5" href="$cleancache_8c.html#a2240b8d3ea711ec5d3364a4ca93e4fdb" title="__cleancache_init_shared_fs" alt="" coords="196,112,387,139"/>
+<area shape="rect" id="node6" href="$cleancache_8c.html#a129684d2f40d8798ba41cabf33d0d702" title="__cleancache_get_page" alt="" coords="210,163,373,190"/>
+<area shape="rect" id="node7" href="$cleancache_8c.html#a0ef24e30b0fe6e24a99d04b735fa61bb" title="__cleancache_put_page" alt="" coords="210,214,373,240"/>
+<area shape="rect" id="node8" href="$cleancache_8c.html#aab83399afc4a402439d86106c715ecff" title="__cleancache_invalidate_page" alt="" coords="192,264,391,291"/>
+<area shape="rect" id="node9" href="$cleancache_8c.html#a60e2901aa69d1b32223ef786012d7667" title="__cleancache_invalidate\l_inode" alt="" coords="209,316,373,357"/>
+<area shape="rect" id="node10" href="$cleancache_8c.html#a2825dfa20e7152e872cbee069f333365" title="__cleancache_invalidate_fs" alt="" coords="200,382,383,408"/>
+<area shape="rect" id="node4" href="$cleancache_8c.html#a65deab52d77ac20d570e235a5b36a780" title="cleancache_register\l_ops_sb" alt="" coords="439,62,577,104"/>
+</map>

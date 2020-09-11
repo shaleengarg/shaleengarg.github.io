@@ -1,0 +1,15 @@
+<map id="do_invalidatepage" name="do_invalidatepage">
+<area shape="rect" id="node2" href="$readahead_8c.html#add7a514c4eaa0cc49f270ec3c8d92a94" title="read_cache_pages_invalidate_page" alt="" coords="180,71,408,98"/>
+<area shape="rect" id="node5" href="$truncate_8c.html#a79a444c8c50278e343db4282b17de9a8" title="truncate_cleanup_page" alt="" coords="216,147,372,174"/>
+<area shape="rect" id="node8" href="$truncate_8c.html#a2bda1fcb249c68dfe2c995d93277d8bc" title="truncate_inode_pages\l_range" alt="" coords="714,169,863,211"/>
+<area shape="rect" id="node3" href="$readahead_8c.html#ac25b141362002fd21fb063cd2c9fe336" title="read_cache_pages_invalidate\l_pages" alt="" coords="456,5,649,47"/>
+<area shape="rect" id="node4" href="$readahead_8c.html#aab86b1a1f3b42fca17163c1342f7f331" title="read_cache_pages" alt="" coords="723,42,854,69"/>
+<area shape="rect" id="node6" href="$truncate_8c.html#a3fb1d50447ec75b56010088a80f0cc5f" title="truncate_inode_page" alt="" coords="481,122,624,149"/>
+<area shape="rect" id="node7" href="$truncate_8c.html#a0675b6211dbef665689993ef391bff98" title="generic_error_remove_page" alt="" coords="697,118,880,145"/>
+<area shape="rect" id="node9" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="928,126,1087,153"/>
+<area shape="rect" id="node10" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="933,177,1082,203"/>
+<area shape="rect" id="node14" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="938,228,1077,269"/>
+<area shape="rect" id="node11" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="1135,140,1284,181"/>
+<area shape="rect" id="node12" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="1140,206,1279,233"/>
+<area shape="rect" id="node13" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="1332,206,1451,233"/>
+</map>

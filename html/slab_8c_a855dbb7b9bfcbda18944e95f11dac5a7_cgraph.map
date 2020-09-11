@@ -1,0 +1,5 @@
+<map id="calculate_slab_order" name="calculate_slab_order">
+<area shape="rect" id="node2" href="$slab_8c.html#a476d2c51dabbdde2c5f8376d321c95c6" title="cache_estimate" alt="" coords="195,5,309,32"/>
+<area shape="rect" id="node3" href="$slab_8h.html#adec2cb270c31e9404f83effb93134594" title="kmalloc_slab" alt="" coords="203,56,301,83"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#a50429818168977c9415231ec3d17af25" title="size_index_elem" alt="" coords="357,56,476,83"/>
+</map>

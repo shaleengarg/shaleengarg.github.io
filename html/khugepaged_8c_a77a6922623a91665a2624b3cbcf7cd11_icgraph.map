@@ -1,0 +1,8 @@
+<map id="collapse_huge_page" name="collapse_huge_page">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#aff1d054b68627df593fd2fb8018425b1" title="khugepaged_scan_pmd" alt="" coords="193,5,352,32"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#af80aa48b041037d9f64ca05b2a8eeed0" title="khugepaged_scan_mm_slot" alt="" coords="400,5,584,32"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#ae46b498792188915a54d9aeea6b5c7ed" title="khugepaged_do_scan" alt="" coords="632,5,780,32"/>
+<area shape="rect" id="node5" href="$khugepaged_8c.html#a88f8dc6c3e40b89406aadeb56c179afd" title="khugepaged" alt="" coords="828,5,920,32"/>
+<area shape="rect" id="node6" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="968,5,1125,32"/>
+<area shape="rect" id="node7" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="1173,5,1276,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cache_alloc_pfmemalloc" name="cache_alloc_pfmemalloc">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a3184c0ed7e67aae54e9af396cf059aa8" title="gfp_pfmemalloc_allowed" alt="" coords="219,5,384,32"/>
+<area shape="rect" id="node5" href="$slab_8c.html#ae6a030b1b9c2cac7dc9c7fb39b68a5a1" title="get_first_slab" alt="" coords="251,56,351,83"/>
+<area shape="rect" id="node7" href="$slab_8c.html#a45a4d77858bf4a0a8f35ed972031867f" title="slab_get_obj" alt="" coords="254,107,349,133"/>
+<area shape="rect" id="node11" href="$slab_8c.html#aaa66314953e483303d50a3ec3fc2d111" title="fixup_slab_list" alt="" coords="249,157,354,184"/>
+<area shape="rect" id="node12" href="$slab_8c.html#ae62ae0dce5397eb54ded8629ff85d6f1" title="fixup_objfreelist_debug" alt="" coords="224,208,379,235"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a89e75690040cc6c19c8efaf7f688f037" title="__gfp_pfmemalloc_flags" alt="" coords="432,5,595,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a6982b4f90a205181dfd3f7499d239774" title="oom_reserves_allowed" alt="" coords="643,5,797,32"/>
+<area shape="rect" id="node6" href="$slab_8c.html#a47565ccc078b80feeed595c2d8caedff" title="get_valid_first_slab" alt="" coords="446,56,581,83"/>
+<area shape="rect" id="node8" href="$slab_8c.html#a44e112e2dfeab0773d17f1f4fc1518ec" title="index_to_obj" alt="" coords="466,107,561,133"/>
+<area shape="rect" id="node9" href="$slab_8c.html#a6ba4500ae58032f115ef393c07c856d4" title="get_free_obj" alt="" coords="467,157,560,184"/>
+<area shape="rect" id="node10" href="$slab_8c.html#a0f62d0a592fd9b3d86bffea94c1831bc" title="set_store_user_dirty" alt="" coords="443,208,583,235"/>
+</map>

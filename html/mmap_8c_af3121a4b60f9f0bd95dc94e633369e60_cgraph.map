@@ -1,0 +1,9 @@
+<map id="insert_vm_struct" name="insert_vm_struct">
+<area shape="rect" id="node2" href="$mmap_8c.html#a1e0098593a8e91980495b680c7baffbf" title="find_vma_links" alt="" coords="172,5,281,32"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#a431f135803d9db2b77fb6736cc965f27" title="vma_link" alt="" coords="189,56,264,83"/>
+<area shape="rect" id="node4" href="$mmap_8c.html#adc2b1b3f24209bfc0ea556f0e3ecaad3" title="__vma_link" alt="" coords="341,31,429,57"/>
+<area shape="rect" id="node8" href="$mmap_8c.html#ab3a7efeb7fd8f9a353d3e2d370ad6703" title="__vma_link_file" alt="" coords="329,81,441,108"/>
+<area shape="rect" id="node5" href="$internal_8h.html#a17b068c8175a9ac7cf19e0db2c070748" title="__vma_link_list" alt="" coords="489,5,601,32"/>
+<area shape="rect" id="node6" href="$mmap_8c.html#a9f523aacf36190bcc739d55f6521ef7f" title="__vma_link_rb" alt="" coords="492,56,599,83"/>
+<area shape="rect" id="node7" href="$mmap_8c.html#a6cd1a1df7bcc118784aadb078082b7da" title="vma_rb_insert" alt="" coords="649,56,753,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="move_huge_pmd" name="move_huge_pmd">
+<area shape="rect" id="node2" href="$huge__memory_8c.html#a1c98c44560a0ff9529592219d69d61b3" title="__pmd_trans_huge_lock" alt="" coords="184,5,347,32"/>
+<area shape="rect" id="node3" href="$huge__memory_8c.html#a50f720dbc1706bbcc475105f7fecd64f" title="pmd_move_must_withdraw" alt="" coords="175,56,356,83"/>
+<area shape="rect" id="node4" href="$huge__memory_8c.html#adb53c5d94a8eca646d5e837d25bcf106" title="move_soft_dirty_pmd" alt="" coords="192,107,339,133"/>
+</map>

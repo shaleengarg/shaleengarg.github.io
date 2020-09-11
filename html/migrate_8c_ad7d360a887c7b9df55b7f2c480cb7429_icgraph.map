@@ -1,0 +1,11 @@
+<map id="isolate_movable_page" name="isolate_movable_page">
+<area shape="rect" id="node2" href="$memory-failure_8c.html#aecada95210a9156a4b69586ef199fdf0" title="__soft_offline_page" alt="" coords="204,31,339,57"/>
+<area shape="rect" id="node10" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="223,81,320,108"/>
+<area shape="rect" id="node3" href="$memory-failure_8c.html#a2ca359770c31af559fa45f5a12e6679d" title="soft_offline_in_use_page" alt="" coords="387,31,553,57"/>
+<area shape="rect" id="node4" href="$memory-failure_8c.html#a5d5ed10ea90232402f08961d534e7795" title="soft_offline_page" alt="" coords="601,31,723,57"/>
+<area shape="rect" id="node5" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="799,5,921,32"/>
+<area shape="rect" id="node8" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="771,56,949,83"/>
+<area shape="rect" id="node6" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="1013,5,1116,32"/>
+<area shape="rect" id="node7" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1180,5,1327,32"/>
+<area shape="rect" id="node9" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="997,56,1132,83"/>
+</map>

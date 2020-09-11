@@ -1,0 +1,14 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$frontswap_8c.html#aee768a37816982278e3c05a756abc21a" title="frontswap_register_ops" alt="" coords="220,5,377,32"/>
+<area shape="rect" id="node4" href="$frontswap_8c.html#ac311405f2cde9f8233e40cdef0224811" title="frontswap_writethrough" alt="" coords="220,56,377,83"/>
+<area shape="rect" id="node5" href="$frontswap_8c.html#ad91f942b2b6aecea9725adcdbe05b65c" title="frontswap_tmem_exclusive_gets" alt="" coords="192,107,405,133"/>
+<area shape="rect" id="node6" href="$frontswap_8c.html#ab0ea507a81a13e2aafea579b5767ce4b" title="__frontswap_init" alt="" coords="240,157,357,184"/>
+<area shape="rect" id="node7" href="$frontswap_8c.html#a49a06743b24edc8c092110ce766f2f64" title="__frontswap_test" alt="" coords="237,309,360,336"/>
+<area shape="rect" id="node8" href="$frontswap_8c.html#a549ccf8f67475c87b6bc8f7a7b41126b" title="__frontswap_store" alt="" coords="484,220,613,247"/>
+<area shape="rect" id="node9" href="$frontswap_8c.html#a73deec025052bc3d705477a6c137e200" title="__frontswap_load" alt="" coords="487,277,611,304"/>
+<area shape="rect" id="node10" href="$frontswap_8c.html#a00aad498417cc46b2cfee7bc33042952" title="__frontswap_invalidate_page" alt="" coords="453,353,644,380"/>
+<area shape="rect" id="node11" href="$frontswap_8c.html#a765b28bd72997ff54bdeb3520ee0935c" title="__frontswap_invalidate_area" alt="" coords="205,411,392,437"/>
+<area shape="rect" id="node12" href="$frontswap_8c.html#a2ebc45616ea5d4637309b8cf3dc30235" title="frontswap_shrink" alt="" coords="238,461,359,488"/>
+<area shape="rect" id="node13" href="$frontswap_8c.html#a3dc75beccd1f4fab5f598c4be16efa43" title="frontswap_curr_pages" alt="" coords="223,512,374,539"/>
+<area shape="rect" id="node3" href="$zswap_8c.html#a19b9f528ed5e6df9cb054c959d1dca11" title="init_zswap" alt="" coords="507,5,591,32"/>
+</map>

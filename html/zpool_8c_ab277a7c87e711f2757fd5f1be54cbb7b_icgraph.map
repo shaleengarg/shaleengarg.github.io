@@ -1,0 +1,8 @@
+<map id="zpool_create_pool" name="zpool_create_pool">
+<area shape="rect" id="node2" href="$zswap_8c.html#a5fd5329b938d0faee8a6a042b5f96865" title="zswap_pool_create" alt="" coords="180,42,315,69"/>
+<area shape="rect" id="node3" href="$zswap_8c.html#a22b1e76dd5f82476c48a0687cfb5fe7f" title="__zswap_pool_create\l_fallback" alt="" coords="363,5,511,47"/>
+<area shape="rect" id="node5" href="$zswap_8c.html#a1d40581200209331d03471119259d086" title="__zswap_param_set" alt="" coords="365,71,508,98"/>
+<area shape="rect" id="node4" href="$zswap_8c.html#a19b9f528ed5e6df9cb054c959d1dca11" title="init_zswap" alt="" coords="618,13,702,39"/>
+<area shape="rect" id="node6" href="$zswap_8c.html#a1dd5143e1330b880ec488cae423c76fd" title="zswap_compressor_param_set" alt="" coords="559,67,761,94"/>
+<area shape="rect" id="node7" href="$zswap_8c.html#a7a100b4982622bdc53e4283856090150" title="zswap_zpool_param_set" alt="" coords="577,118,743,145"/>
+</map>

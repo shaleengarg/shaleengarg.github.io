@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['bad_5ffile',['Bad_file',['../swapfile_8c.html#a798339d747dddc28531621fcf120b6d8',1,'swapfile.c']]],
+  ['bad_5foffset',['Bad_offset',['../swapfile_8c.html#af710b4cae3398ae23bf2106a8d795637',1,'swapfile.c']]],
+  ['base_5faddr',['base_addr',['../structpcpu__chunk.html#a7f85758b0f892bc7d6b6a8ba8654ba2f',1,'pcpu_chunk']]],
+  ['base_5fpfn',['base_pfn',['../structcma.html#adb93c15286bdcda7b976f057f03f0866',1,'cma']]],
+  ['batchcount',['batchcount',['../structarray__cache.html#ad1cdd6a0798450c4506461a24d20e9e7',1,'array_cache::batchcount()'],['../structslabinfo.html#af9c9d5324e807fc81903e7fe6b4880cf',1,'slabinfo::batchcount()']]],
+  ['bdi_5fclass',['bdi_class',['../backing-dev_8c.html#a659dab1c58eb6925068e36aae058bd65',1,'backing-dev.c']]],
+  ['bdi_5fdev_5fattrs',['bdi_dev_attrs',['../backing-dev_8c.html#a821f3dbc9f2c2b58e1dc04303894331b',1,'backing-dev.c']]],
+  ['bdi_5fmin_5fratio',['bdi_min_ratio',['../page-writeback_8c.html#a23a06c176aac9b412bc0568de4009f14',1,'page-writeback.c']]],
+  ['bdi_5fwq',['bdi_wq',['../backing-dev_8c.html#ac73c5131456242f624a3a235f745b24a',1,'backing-dev.c']]],
+  ['beg',['beg',['../structkasan__global.html#ab3c2a751b539bbea2d76045ddce208b8',1,'kasan_global']]],
+  ['bg_5fthresh',['bg_thresh',['../structdirty__throttle__control.html#a6dae5dcaa7fabade87bac27e846b190d',1,'dirty_throttle_control']]],
+  ['bit_5fnr',['bit_nr',['../structwait__page__key.html#ad7611abecc8e71b233f6766808218ebb',1,'wait_page_key::bit_nr()'],['../structwait__page__queue.html#a12ac939b31fdef4f1a1b39cd42ee2f48',1,'wait_page_queue::bit_nr()']]],
+  ['bitmap',['bitmap',['../structcma.html#a50cb77c530aabc659f3d5ca986eb3332',1,'cma']]],
+  ['block_5fdump',['block_dump',['../page-writeback_8c.html#ab2a8a6a7ef1a9995805455a1d6302fe6',1,'page-writeback.c']]],
+  ['bootmem_5fdebug',['bootmem_debug',['../bootmem_8c.html#ae41511a5d2471af99f120ebf0f325778',1,'bootmem.c']]],
+  ['bound_5fmap',['bound_map',['../structpcpu__chunk.html#aac6eaa24436aea4c34b7d15c68b129f6',1,'pcpu_chunk']]],
+  ['boundary',['boundary',['../structdma__pool.html#aea9c27ddbbb6fc6b2908e1aa6f8d99cd',1,'dma_pool']]],
+  ['buddied',['buddied',['../structzbud__pool.html#acaefd0dc131b2b70e4ad0a4b976f9b7c',1,'zbud_pool']]],
+  ['buddy',['buddy',['../structz3fold__header.html#a576b4a1eaa88deb4f7a87216dded88a8',1,'z3fold_header::buddy()'],['../structzbud__header.html#ad5299f530402b48d33bc015039d06066',1,'zbud_header::buddy()']]],
+  ['bytes',['bytes',['../structqlist__head.html#ad1acf537d96ec723ce0fbb7f56fa9c91',1,'qlist_head']]]
+];

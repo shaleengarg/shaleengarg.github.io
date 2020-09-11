@@ -1,0 +1,8 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$frame__vector_8c.html#a69fb3519ea6893b3e3dffc788956d3b7" title="get_vaddr_frames" alt="" coords="208,5,335,32"/>
+<area shape="rect" id="node3" href="$frame__vector_8c.html#a7ea7630a6814096bcc996ba803cdb805" title="put_vaddr_frames" alt="" coords="208,56,335,83"/>
+<area shape="rect" id="node4" href="$frame__vector_8c.html#acf770d4a7a8b4eeb780b1f4b9c3a0047" title="frame_vector_to_pages" alt="" coords="192,107,351,133"/>
+<area shape="rect" id="node5" href="$frame__vector_8c.html#a2f2800143b97f7da482bdc10ca7dc8be" title="frame_vector_to_pfns" alt="" coords="197,157,345,184"/>
+<area shape="rect" id="node6" href="$frame__vector_8c.html#adfe8b956bb8d41b936052056afc13fa9" title="frame_vector_create" alt="" coords="201,208,342,235"/>
+<area shape="rect" id="node7" href="$frame__vector_8c.html#a58f855b620320358f5561775fe9517d4" title="frame_vector_destroy" alt="" coords="197,259,345,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="240,5,399,32"/>
+<area shape="rect" id="node3" href="$shmem_8c.html#ac5776bb2515a59ac79d82d46541489ea" title="shmem_file_setup" alt="" coords="255,56,383,83"/>
+<area shape="rect" id="node4" href="$shmem_8c.html#a886c9b466ef5a607d9da7376dd2b4869" title="shmem_file_setup_with_mnt" alt="" coords="225,107,413,133"/>
+<area shape="rect" id="node5" href="$shmem_8c.html#a63b629f04bd524c18e7e5255c174959b" title="shmem_read_mapping\l_page_gfp" alt="" coords="243,158,396,199"/>
+</map>

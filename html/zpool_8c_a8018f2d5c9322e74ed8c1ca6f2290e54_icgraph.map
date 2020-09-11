@@ -1,0 +1,10 @@
+<map id="zpool_get_driver" name="zpool_get_driver">
+<area shape="rect" id="node2" href="$zpool_8c.html#a5d8f323c1c3230da431f64d1599a84c8" title="zpool_has_pool" alt="" coords="357,17,469,43"/>
+<area shape="rect" id="node8" href="$zpool_8c.html#ab277a7c87e711f2757fd5f1be54cbb7b" title="zpool_create_pool" alt="" coords="171,67,297,94"/>
+<area shape="rect" id="node3" href="$zswap_8c.html#a22b1e76dd5f82476c48a0687cfb5fe7f" title="__zswap_pool_create\l_fallback" alt="" coords="528,5,676,47"/>
+<area shape="rect" id="node5" href="$zswap_8c.html#a1d40581200209331d03471119259d086" title="__zswap_param_set" alt="" coords="531,71,673,98"/>
+<area shape="rect" id="node4" href="$zswap_8c.html#a19b9f528ed5e6df9cb054c959d1dca11" title="init_zswap" alt="" coords="783,13,867,39"/>
+<area shape="rect" id="node6" href="$zswap_8c.html#a1dd5143e1330b880ec488cae423c76fd" title="zswap_compressor_param_set" alt="" coords="724,118,927,145"/>
+<area shape="rect" id="node7" href="$zswap_8c.html#a7a100b4982622bdc53e4283856090150" title="zswap_zpool_param_set" alt="" coords="742,67,909,94"/>
+<area shape="rect" id="node9" href="$zswap_8c.html#a5fd5329b938d0faee8a6a042b5f96865" title="zswap_pool_create" alt="" coords="345,67,480,94"/>
+</map>

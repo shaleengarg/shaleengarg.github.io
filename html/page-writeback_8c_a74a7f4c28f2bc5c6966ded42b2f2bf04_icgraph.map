@@ -1,0 +1,6 @@
+<map id="writeout_period" name="writeout_period">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#a1a72dc2746a329be9a87b6e7b13535ac" title="wb_domain_init" alt="" coords="164,42,276,69"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a0de4ac1bbe8bf7f0bf38ea23464322e9" title="mem_cgroup_oom_control\l_write" alt="" coords="324,5,499,47"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#a5020387c1cd40d7b75bee4d99102e540" title="page_writeback_init" alt="" coords="343,71,480,98"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a6deb943195064ed16ef8ea8b529876ac" title="pagecache_init" alt="" coords="547,71,656,98"/>
+</map>

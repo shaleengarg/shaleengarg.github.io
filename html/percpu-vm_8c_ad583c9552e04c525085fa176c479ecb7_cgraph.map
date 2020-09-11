@@ -1,0 +1,22 @@
+<map id="pcpu_map_pages" name="pcpu_map_pages">
+<area shape="rect" id="node2" href="$percpu-vm_8c.html#ab44995a27b66a2609f47fb5fa8116651" title="__pcpu_map_pages" alt="" coords="184,5,323,32"/>
+<area shape="rect" id="node9" href="$percpu_8c.html#aebcfd993e0f787c38e8f2a143f2228f6" title="pcpu_chunk_addr" alt="" coords="404,125,528,152"/>
+<area shape="rect" id="node11" href="$percpu_8c.html#a8724ce5d90e103c100d4d7d899fe5819" title="pcpu_page_idx" alt="" coords="199,107,308,133"/>
+<area shape="rect" id="node12" href="$percpu_8c.html#a20d8248fe3a2d762ec081f587b9d030d" title="pcpu_set_page_chunk" alt="" coords="177,157,329,184"/>
+<area shape="rect" id="node13" href="$percpu-vm_8c.html#abf841db424d4d27dd3487527e3dfbdaa" title="__pcpu_unmap_pages" alt="" coords="177,275,329,301"/>
+<area shape="rect" id="node21" href="$percpu-vm_8c.html#a040a228853a80e2813f85238921b2e48" title="pcpu_post_unmap_tlb\l_flush" alt="" coords="179,209,328,250"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a0d8be258b024a504a65d675727a4b7eb" title="map_kernel_range_noflush" alt="" coords="377,5,555,32"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#a51acf5f4ada6fdc98778807b64b1c95c" title="vmap_page_range_noflush" alt="" coords="603,5,780,32"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#a23b8392f591f6f8bc6ba81ac66627132" title="vmap_p4d_range" alt="" coords="835,5,956,32"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#a420e401d8bd6c0bd611ac8cf16644aa6" title="vmap_pud_range" alt="" coords="1017,5,1139,32"/>
+<area shape="rect" id="node7" href="$vmalloc_8c.html#a153b349596c60e9ace447c9e31ec5ec8" title="vmap_pmd_range" alt="" coords="1200,5,1325,32"/>
+<area shape="rect" id="node8" href="$vmalloc_8c.html#a7f9694539864ad64890fdd55e240368b" title="vmap_pte_range" alt="" coords="1387,5,1505,32"/>
+<area shape="rect" id="node10" href="$percpu_8c.html#adb3342a9bc1c2a74928e85d764ed997e" title="pcpu_unit_page_offset" alt="" coords="615,125,768,152"/>
+<area shape="rect" id="node14" href="$vmalloc_8c.html#a6283d2c65fdcb7b5639321994df10eac" title="unmap_kernel_range\l_noflush" alt="" coords="395,267,537,309"/>
+<area shape="rect" id="node15" href="$vmalloc_8c.html#a1ce1a92eef395a23312aca5a937bcc38" title="vunmap_page_range" alt="" coords="620,245,763,272"/>
+<area shape="rect" id="node20" href="$vmalloc_8c.html#a6e80d5faeec8b99b496c60df43393a2b" title="EXPORT_SYMBOL_GPL" alt="" coords="605,296,777,323"/>
+<area shape="rect" id="node16" href="$vmalloc_8c.html#a5b747c1b6660e956a93d790fb0fd5e0a" title="vunmap_p4d_range" alt="" coords="828,245,963,272"/>
+<area shape="rect" id="node17" href="$vmalloc_8c.html#abeecc6c56221ed4dd883469a4d71ac32" title="vunmap_pud_range" alt="" coords="1011,245,1145,272"/>
+<area shape="rect" id="node18" href="$vmalloc_8c.html#ad18852b000b81c87afe718fdc16d4648" title="vunmap_pmd_range" alt="" coords="1193,245,1332,272"/>
+<area shape="rect" id="node19" href="$vmalloc_8c.html#ab7660eb425f59b80d018944655b02cc1" title="vunmap_pte_range" alt="" coords="1380,245,1512,272"/>
+</map>

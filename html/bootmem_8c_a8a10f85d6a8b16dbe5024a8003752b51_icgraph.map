@@ -1,0 +1,7 @@
+<map id="___alloc_bootmem_nopanic" name="___alloc_bootmem_nopanic">
+<area shape="rect" id="node2" href="$bootmem_8c.html#a4b1050391171d69c798a479bb7e680d5" title="__alloc_bootmem_nopanic" alt="" coords="236,5,412,32"/>
+<area shape="rect" id="node3" href="$bootmem_8c.html#a922068fb75049025a42c3164fd5ca76e" title="___alloc_bootmem" alt="" coords="259,56,389,83"/>
+<area shape="rect" id="node6" href="$bootmem_8c.html#a16f951d8f5154993da471c6ed25805d4" title="__alloc_bootmem_low\l_nopanic" alt="" coords="249,107,399,149"/>
+<area shape="rect" id="node4" href="$bootmem_8c.html#a32c88b54244f793401f7f4254c084a76" title="__alloc_bootmem" alt="" coords="473,31,597,57"/>
+<area shape="rect" id="node5" href="$bootmem_8c.html#a78a1c807319b990fcfdbf80108f778cb" title="__alloc_bootmem_low" alt="" coords="460,81,611,108"/>
+</map>

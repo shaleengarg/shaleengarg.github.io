@@ -1,0 +1,5 @@
+<map id="mem_fmt" name="mem_fmt">
+<area shape="rect" id="node2" href="$hugetlb__cgroup_8c.html#abe689edd53b7f55dfb8b28e7098faa87" title="__hugetlb_cgroup_file_init" alt="" coords="131,5,303,32"/>
+<area shape="rect" id="node3" href="$hugetlb__cgroup_8c.html#a24febee8d384ab138e27551ecbe74828" title="hugetlb_cgroup_file_init" alt="" coords="351,5,509,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#acfb1769d5d670c730cc54a49d828e3ed" title="hugetlb_init" alt="" coords="557,5,645,32"/>
+</map>

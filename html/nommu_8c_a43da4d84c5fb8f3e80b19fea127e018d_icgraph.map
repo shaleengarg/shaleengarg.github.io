@@ -1,0 +1,6 @@
+<map id="vzalloc" name="vzalloc">
+<area shape="rect" id="node2" href="$nommu_8c.html#ac1c04196c0d2df6a303b2cb2fb9af495" title="vzalloc_node" alt="" coords="142,5,241,32"/>
+<area shape="rect" id="node4" href="$swap__cgroup_8c.html#ab76a958b36ade0e692403f3b8e2b4688" title="swap_cgroup_swapon" alt="" coords="116,56,267,83"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#a39cc03becaac7ce86a320def3658ff8f" title="SYSCALL_DEFINE2" alt="" coords="318,81,465,108"/>
+<area shape="rect" id="node3" href="$page__ext_8c.html#a54193fd2141285fb96df576c2c9cd214" title="page_ext_init_flatmem" alt="" coords="315,5,468,32"/>
+</map>

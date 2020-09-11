@@ -1,0 +1,7 @@
+<map id="get_next_ra_size" name="get_next_ra_size">
+<area shape="rect" id="node2" href="$readahead_8c.html#a1d54fc82b593998f1aaf345a4956a565" title="ondemand_readahead" alt="" coords="175,31,324,57"/>
+<area shape="rect" id="node3" href="$readahead_8c.html#a738379e2b73ff7c904d2c36703b9df34" title="page_cache_sync_readahead" alt="" coords="375,5,570,32"/>
+<area shape="rect" id="node6" href="$readahead_8c.html#ab48a672f1972f7d691d684a671aac6db" title="page_cache_async_readahead" alt="" coords="372,56,573,83"/>
+<area shape="rect" id="node4" href="$filemap_8c.html#a966b2cbe8bdc43898de3423aa66cd51e" title="generic_file_buffered_read" alt="" coords="621,31,796,57"/>
+<area shape="rect" id="node5" href="$filemap_8c.html#a88d1a4fce0aed097aba7483349d37a92" title="generic_file_read_iter" alt="" coords="844,31,989,57"/>
+</map>

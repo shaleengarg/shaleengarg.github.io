@@ -1,0 +1,5 @@
+<map id="mpol_rebind_policy" name="mpol_rebind_policy">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#ad7fb4a22b0831fa3ef00a9bd234d5f5a" title="mpol_rebind_task" alt="" coords="187,5,311,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a236d6739ad64fbc71707acfdd78f47ba" title="mpol_rebind_mm" alt="" coords="188,56,309,83"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a6fc5d3239919f21d7f7b6ac1274454ae" title="__mpol_dup" alt="" coords="203,107,295,133"/>
+</map>

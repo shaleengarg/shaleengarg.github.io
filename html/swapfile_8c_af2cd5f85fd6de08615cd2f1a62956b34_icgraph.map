@@ -1,0 +1,7 @@
+<map id="swap_node" name="swap_node">
+<area shape="rect" id="node2" href="$swapfile_8c.html#afa42f13047736fd6078e5e7dc2e0118d" title="_enable_swap_info" alt="" coords="141,31,275,57"/>
+<area shape="rect" id="node3" href="$swapfile_8c.html#a5b8ced957c2ffc0b50b1386b69c3ba56" title="enable_swap_info" alt="" coords="325,5,451,32"/>
+<area shape="rect" id="node5" href="$swapfile_8c.html#ac97726f4d3616cf3062edc718d9bd802" title="reinsert_swap_info" alt="" coords="323,56,453,83"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#a39cc03becaac7ce86a320def3658ff8f" title="SYSCALL_DEFINE2" alt="" coords="501,5,648,32"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#ab77da03d81581d8413ec7a363eef8a56" title="SYSCALL_DEFINE1" alt="" coords="501,56,648,83"/>
+</map>

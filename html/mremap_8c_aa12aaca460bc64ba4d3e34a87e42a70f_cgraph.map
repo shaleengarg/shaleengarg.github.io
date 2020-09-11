@@ -1,0 +1,13 @@
+<map id="move_page_tables" name="move_page_tables">
+<area shape="rect" id="node2" href="$mremap_8c.html#aa1c5996df9e8874d0ca3af6db74fa023" title="get_old_pmd" alt="" coords="197,5,293,32"/>
+<area shape="rect" id="node3" href="$mremap_8c.html#ade800873cde53fc19e10a1bdae24b952" title="alloc_new_pmd" alt="" coords="189,56,301,83"/>
+<area shape="rect" id="node4" href="$mremap_8c.html#a2845ed3372530ef8839659446416857b" title="take_rmap_locks" alt="" coords="383,107,505,133"/>
+<area shape="rect" id="node5" href="$huge__memory_8c.html#ae8f29b3148898e20fb8cc3146f465889" title="move_huge_pmd" alt="" coords="184,335,305,361"/>
+<area shape="rect" id="node9" href="$mremap_8c.html#abccfd747d6ee99a273604f920548032b" title="drop_rmap_locks" alt="" coords="383,157,505,184"/>
+<area shape="rect" id="node10" href="$mremap_8c.html#aa39761302fc549282d288112162c0807" title="move_ptes" alt="" coords="201,208,288,235"/>
+<area shape="rect" id="node6" href="$huge__memory_8c.html#a1c98c44560a0ff9529592219d69d61b3" title="__pmd_trans_huge_lock" alt="" coords="363,309,525,336"/>
+<area shape="rect" id="node7" href="$huge__memory_8c.html#a50f720dbc1706bbcc475105f7fecd64f" title="pmd_move_must_withdraw" alt="" coords="353,360,535,387"/>
+<area shape="rect" id="node8" href="$huge__memory_8c.html#adb53c5d94a8eca646d5e837d25bcf106" title="move_soft_dirty_pmd" alt="" coords="371,411,517,437"/>
+<area shape="rect" id="node11" href="$internal_8h.html#a79ea355c8f124ab577615782d0962e3b" title="flush_tlb_batched_pending" alt="" coords="356,259,532,285"/>
+<area shape="rect" id="node12" href="$mremap_8c.html#a1ca572612452a106c29c332054bbd8fe" title="move_soft_dirty_pte" alt="" coords="374,208,514,235"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="check_node_memsize" name="check_node_memsize">
+<area shape="rect" id="node2" href="$hetero_8c.html#ad7db03b70e4bd5ea7d0fdace41efb8d5" title="init_hpc_stats" alt="" coords="223,56,326,83"/>
+<area shape="rect" id="node9" href="$hetero_8c.html#a90b642bd18d7c89f8fabeb4e4066e3eb" title="sys_mem_interval_diff" alt="" coords="392,107,545,133"/>
+<area shape="rect" id="node12" href="$backing-dev_8c.html#a610672a483cf1b14968d8bce1e6da481" title="EXPORT_SYMBOL" alt="" coords="205,157,344,184"/>
+<area shape="rect" id="node3" href="$hetero_8c.html#abbb2b8a37c08c509b51ffcb9d40912ed" title="reset_hpc_stats" alt="" coords="411,56,526,83"/>
+<area shape="rect" id="node4" href="$hetero_8c.html#a5ab953b1c24ec54294ea985cc95ed1a1" title="sys_mem_init" alt="" coords="417,5,520,32"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a929f7eac41d31a0bc653a4f52a3499c0" title="si_meminfo" alt="" coords="630,5,719,32"/>
+<area shape="rect" id="node7" href="$swapfile_8c.html#adc6d07a71dc8fb1295a87f077a28899b" title="si_swapinfo" alt="" coords="629,56,720,83"/>
+<area shape="rect" id="node8" href="$swap__state_8c.html#acde703224d3ea50e36c68ebcdfa48ce0" title="total_swapcache_pages" alt="" coords="593,107,756,133"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a64d1e974edaf4d3682553d5f72c9cd59" title="EXPORT_SYMBOL" alt="" coords="821,5,959,32"/>
+<area shape="rect" id="node10" href="$page__alloc_8c.html#a5d57c79f6f5c4a8b45b6f9f0a3c2e1f5" title="si_mem_available" alt="" coords="611,157,738,184"/>
+<area shape="rect" id="node11" href="$page__alloc_8c.html#a65c5e5a988f68356f2ea192477ea3ade" title="EXPORT_SYMBOL_GPL" alt="" coords="804,157,976,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="shrink_vma" name="shrink_vma">
+<area shape="rect" id="node2" href="$nommu_8c.html#ab456ad95e95752f41c86e4028782c3ce" title="do_munmap" alt="" coords="143,5,236,32"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#a5570f4107ce03672f51166a52268c585" title="vm_munmap" alt="" coords="284,5,381,32"/>
+<area shape="rect" id="node4" href="$nommu_8c.html#a2e2e0c73f70d33c7abc8f32600d909c3" title="SYSCALL_DEFINE2" alt="" coords="429,5,576,32"/>
+</map>

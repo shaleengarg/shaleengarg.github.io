@@ -1,0 +1,6 @@
+<map id="si_swapinfo" name="si_swapinfo">
+<area shape="rect" id="node2" href="$hetero_8c.html#a5ab953b1c24ec54294ea985cc95ed1a1" title="sys_mem_init" alt="" coords="144,5,247,32"/>
+<area shape="rect" id="node5" href="$hetero_8c.html#a90b642bd18d7c89f8fabeb4e4066e3eb" title="sys_mem_interval_diff" alt="" coords="295,56,448,83"/>
+<area shape="rect" id="node3" href="$hetero_8c.html#ad7db03b70e4bd5ea7d0fdace41efb8d5" title="init_hpc_stats" alt="" coords="320,5,423,32"/>
+<area shape="rect" id="node4" href="$hetero_8c.html#a8a99d22fd20b3ead115c5415fdb796f2" title="check_node_memsize" alt="" coords="496,31,648,57"/>
+</map>

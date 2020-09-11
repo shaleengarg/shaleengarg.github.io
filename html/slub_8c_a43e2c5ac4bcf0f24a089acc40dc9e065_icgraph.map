@@ -1,0 +1,6 @@
+<map id="slab_mem_going_offline_callback" name="slab_mem_going_offline_callback">
+<area shape="rect" id="node2" href="$slub_8c.html#af04b112f6055304915a6e113dfd715b8" title="slab_memory_callback" alt="" coords="216,31,371,57"/>
+<area shape="rect" id="node3" href="$slab_8c.html#ab09e28feaf70f56a081bfb5ebf48bb1a" title="slab_offline_cpu" alt="" coords="437,5,553,32"/>
+<area shape="rect" id="node5" href="$slab_8c.html#ab96ff7a3b2629f59d8ea6fcc5b50d97a" title="kmem_cache_init_late" alt="" coords="419,56,571,83"/>
+<area shape="rect" id="node4" href="$slab_8c.html#af68b34311f3905aeeb3128a22d084453" title="cpucache_init" alt="" coords="619,5,721,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="calculate_totalreserve_pages" name="calculate_totalreserve_pages">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#afd647065b8c0eb683619a1ed890c5ab2" title="setup_per_zone_lowmem\l_reserve" alt="" coords="208,99,379,141"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a650a987fb1514635908b10ff54cc6d04" title="__setup_per_zone_wmarks" alt="" coords="203,165,384,192"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#ad133711c635c337cd2f559361dbd59ab" title="init_per_zone_wmark_min" alt="" coords="647,48,820,75"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a1c8105ecd99d6bbe13179df1502f79e1" title="lowmem_reserve_ratio\l_sysctl_handler" alt="" coords="439,99,592,141"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="868,5,1043,32"/>
+<area shape="rect" id="node5" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1093,31,1191,57"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#a0e3c652c6cbe7c58b39f6f22ebec4d41" title="setup_per_zone_wmarks" alt="" coords="432,165,599,192"/>
+<area shape="rect" id="node9" href="$khugepaged_8c.html#a2bb249863bfe295bce12d53d8e643817" title="set_recommended_min\l_free_kbytes" alt="" coords="655,99,812,141"/>
+<area shape="rect" id="node12" href="$page__alloc_8c.html#aa1549f06468272c014cc7c0f753a469b" title="core_initcall" alt="" coords="688,165,779,192"/>
+<area shape="rect" id="node13" href="$page__alloc_8c.html#a38ad5ddcaae200793660651f6cb6d22c" title="watermark_scale_factor\l_sysctl_handler" alt="" coords="653,217,814,258"/>
+<area shape="rect" id="node10" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="877,107,1034,133"/>
+<area shape="rect" id="node11" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="1091,107,1193,133"/>
+</map>

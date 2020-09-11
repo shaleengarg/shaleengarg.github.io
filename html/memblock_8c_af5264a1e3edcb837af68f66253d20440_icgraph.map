@@ -1,0 +1,10 @@
+<map id="memblock_virt_alloc_try_nid_nopanic" name="memblock_virt_alloc_try_nid_nopanic">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#aba48ee686bcda05ccce63f1caf2e2884" title="__alloc_bootmem_huge_page" alt="" coords="195,5,389,32"/>
+<area shape="rect" id="node3" href="$page__ext_8c.html#a09c7aaf96d2dd3325bf1729e45598bdd" title="alloc_node_page_ext" alt="" coords="220,56,364,83"/>
+<area shape="rect" id="node5" href="$sparse_8c.html#ac6d7445d62408637962bb1a3230b26c7" title="usemap_size" alt="" coords="243,107,341,133"/>
+<area shape="rect" id="node4" href="$page__ext_8c.html#a54193fd2141285fb96df576c2c9cd214" title="page_ext_init_flatmem" alt="" coords="448,56,601,83"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="437,107,612,133"/>
+<area shape="rect" id="node8" href="$sparse_8c.html#a88cd8e0415a78afdc6cbc05f35fbed37" title="sparse_early_usemaps\l_alloc_node" alt="" coords="447,158,603,199"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="660,107,757,133"/>
+<area shape="rect" id="node9" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="666,165,751,192"/>
+</map>

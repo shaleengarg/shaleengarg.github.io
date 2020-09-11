@@ -1,0 +1,5 @@
+<map id="vma_has_reserves" name="vma_has_reserves">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a610c6a55fd98cd034e93db9dd1afad83" title="is_vma_resv_set" alt="" coords="185,31,307,57"/>
+<area shape="rect" id="node3" href="$interval__tree_8c.html#a3dc4f93f3175b6108af20b9fbd78c951" title="VM_BUG_ON_VMA" alt="" coords="359,5,501,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#aabd416ad8a55f55b17f4d67fd1e34eb6" title="get_vma_private_data" alt="" coords="355,56,505,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="delete_nommu_region" name="delete_nommu_region">
+<area shape="rect" id="node2" href="$nommu_8c.html#a90b6143eacb1ab551c455f62b1492e08" title="__put_nommu_region" alt="" coords="203,5,349,32"/>
+<area shape="rect" id="node9" href="$nommu_8c.html#a4cf37e7064bdf2c1ee2400a10f959154" title="split_vma" alt="" coords="424,56,503,83"/>
+<area shape="rect" id="node10" href="$nommu_8c.html#aaa6e18adbc303746878da293598bfe08" title="shrink_vma" alt="" coords="577,107,667,133"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#ab292e456fff9ab602d69305604c7229d" title="put_nommu_region" alt="" coords="397,5,529,32"/>
+<area shape="rect" id="node4" href="$nommu_8c.html#a8e325efadd581aff839ad26e88d1623e" title="delete_vma" alt="" coords="577,5,667,32"/>
+<area shape="rect" id="node5" href="$nommu_8c.html#ab456ad95e95752f41c86e4028782c3ce" title="do_munmap" alt="" coords="715,56,808,83"/>
+<area shape="rect" id="node8" href="$nommu_8c.html#aa9967b87c200148af7903d44100d59e0" title="exit_mmap" alt="" coords="718,5,805,32"/>
+<area shape="rect" id="node6" href="$nommu_8c.html#a5570f4107ce03672f51166a52268c585" title="vm_munmap" alt="" coords="856,56,953,83"/>
+<area shape="rect" id="node7" href="$nommu_8c.html#a2e2e0c73f70d33c7abc8f32600d909c3" title="SYSCALL_DEFINE2" alt="" coords="1001,56,1148,83"/>
+</map>

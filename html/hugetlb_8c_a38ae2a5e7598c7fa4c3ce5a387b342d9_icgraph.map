@@ -1,0 +1,4 @@
+<map id="prep_compound_huge_page" name="prep_compound_huge_page">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#aa5ecf46675c1b0d8b4b2c49e883a97ae" title="gather_bootmem_prealloc" alt="" coords="237,5,408,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#acfb1769d5d670c730cc54a49d828e3ed" title="hugetlb_init" alt="" coords="456,5,544,32"/>
+</map>

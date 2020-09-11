@@ -1,0 +1,5 @@
+<map id="node_dirty_limit" name="node_dirty_limit">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#ac3ee1dd0c76f287cccd68be1e345eb2f" title="node_dirtyable_memory" alt="" coords="170,5,330,32"/>
+<area shape="rect" id="node3" href="$page-writeback_8c.html#a2a613b88a61be50875fb8b4ae3d8c84f" title="global_dirtyable_memory" alt="" coords="167,56,333,83"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#a588d5f3e8c768daf6e66c5c9177a88b8" title="highmem_dirtyable_memory" alt="" coords="381,56,567,83"/>
+</map>

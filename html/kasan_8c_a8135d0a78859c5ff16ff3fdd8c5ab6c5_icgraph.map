@@ -1,0 +1,5 @@
+<map id="kasan_krealloc" name="kasan_krealloc">
+<area shape="rect" id="node2" href="$slab__common_8c.html#a6cb2c01b479577f371329644eb69fe92" title="__do_krealloc" alt="" coords="163,31,265,57"/>
+<area shape="rect" id="node3" href="$slab__common_8c.html#ac6bc190c66b2574e643e997173acc1ac" title="__krealloc" alt="" coords="313,5,395,32"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#a3425dd9f7173bae6d05dd1ce49cb07aa" title="krealloc" alt="" coords="321,56,387,83"/>
+</map>

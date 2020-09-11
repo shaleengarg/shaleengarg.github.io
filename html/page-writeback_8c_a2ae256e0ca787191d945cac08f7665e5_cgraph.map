@@ -1,0 +1,12 @@
+<map id="wb_over_bg_thresh" name="wb_over_bg_thresh">
+<area shape="rect" id="node2" href="$page-writeback_8c.html#aa5d8abe02e9785e8ec1230c005817ca0" title="mdtc_valid" alt="" coords="229,5,314,32"/>
+<area shape="rect" id="node3" href="$page-writeback_8c.html#a2a613b88a61be50875fb8b4ae3d8c84f" title="global_dirtyable_memory" alt="" coords="188,56,355,83"/>
+<area shape="rect" id="node5" href="$page-writeback_8c.html#a8c71aa750ecaf21372e56df1df17d1f7" title="domain_dirty_limits" alt="" coords="204,107,339,133"/>
+<area shape="rect" id="node7" href="$page-writeback_8c.html#a678c03b59184e8d7d9d127241517b67e" title="wb_calc_thresh" alt="" coords="215,208,328,235"/>
+<area shape="rect" id="node11" href="$page-writeback_8c.html#a844af9968ee35a1a9406abb12bc333ab" title="mdtc_calc_avail" alt="" coords="213,157,329,184"/>
+<area shape="rect" id="node4" href="$page-writeback_8c.html#a588d5f3e8c768daf6e66c5c9177a88b8" title="highmem_dirtyable_memory" alt="" coords="403,56,588,83"/>
+<area shape="rect" id="node6" href="$page-writeback_8c.html#a5cc8e1c1f35e3686f08f44c5f77c1d2c" title="mdtc_gdtc" alt="" coords="454,132,537,159"/>
+<area shape="rect" id="node8" href="$page-writeback_8c.html#a9eb1160206d2dcfa50046142c8f5e2f3" title="__wb_calc_thresh" alt="" coords="432,208,559,235"/>
+<area shape="rect" id="node9" href="$page-writeback_8c.html#ab205b3f7a7d55732540e4881bcd4350a" title="dtc_dom" alt="" coords="665,183,737,209"/>
+<area shape="rect" id="node10" href="$page-writeback_8c.html#a034125f2a8a2ce8033c22da1b1c3dda3" title="wb_min_max_ratio" alt="" coords="636,233,767,260"/>
+</map>

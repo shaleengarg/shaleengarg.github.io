@@ -1,0 +1,6 @@
+<map id="khugepaged_wait_event" name="khugepaged_wait_event">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#ab753b04d64732472c94271bc70c76e60" title="khugepaged_wait_work" alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#a88f8dc6c3e40b89406aadeb56c179afd" title="khugepaged" alt="" coords="423,5,515,32"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="563,5,720,32"/>
+<area shape="rect" id="node5" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="768,5,871,32"/>
+</map>

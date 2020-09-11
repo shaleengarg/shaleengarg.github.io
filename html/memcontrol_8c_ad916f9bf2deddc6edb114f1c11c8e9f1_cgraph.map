@@ -1,0 +1,10 @@
+<map id="mem_cgroup_write" name="mem_cgroup_write">
+<area shape="rect" id="node2" href="$page__counter_8c.html#a6a9a1fb9f5934cc9ceb48f1261047b7a" title="page_counter_memparse" alt="" coords="194,5,362,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a1d29e3a343ecea93fe5ec1b73703cdc8" title="mem_cgroup_is_root" alt="" coords="207,56,349,83"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a74866e366a338172ec5d0b90647e4202" title="mem_cgroup_resize_limit" alt="" coords="193,208,363,235"/>
+<area shape="rect" id="node8" href="$memcontrol_8c.html#aa65c61e08d3665da27044665c2326123" title="memcg_update_kmem_limit" alt="" coords="185,107,371,133"/>
+<area shape="rect" id="node9" href="$memcontrol_8c.html#a867fc7016441e23aa85c4e30c370da9e" title="memcg_update_tcp_limit" alt="" coords="195,157,361,184"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#aebb64c1ff4fb11e176f9f26d5d350124" title="DEFINE_IDA" alt="" coords="441,56,543,83"/>
+<area shape="rect" id="node6" href="$page__counter_8c.html#afa3eac7899f0a117ded66ed9d7decca9" title="page_counter_limit" alt="" coords="427,157,557,184"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#a32d1974279fcb34192ae1c343bd37e26" title="memcg_oom_recover" alt="" coords="419,208,565,235"/>
+</map>

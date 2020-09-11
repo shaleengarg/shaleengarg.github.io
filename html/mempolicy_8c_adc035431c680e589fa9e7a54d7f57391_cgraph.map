@@ -1,0 +1,8 @@
+<map id="interleave_nid" name="interleave_nid">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a7a9b91d03ae8971c06a6c5fa4e99c9e0" title="offset_il_node" alt="" coords="165,5,267,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a1429d9df181b8e0c2e29dfe6a241b2b7" title="interleave_nodes" alt="" coords="156,56,276,83"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#a3675dcdc5139b4c34611f4c4ed6764ea" title="get_vma_policy" alt="" coords="159,107,273,133"/>
+<area shape="rect" id="node7" href="$mempolicy_8c.html#af5344db99043c86a6ad32ad936e52e94" title="policy_node" alt="" coords="171,157,261,184"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#a611df78237e9f47aeba831385ea14f50" title="__get_vma_policy" alt="" coords="324,81,451,108"/>
+<area shape="rect" id="node6" href="$mempolicy_8c.html#a1de364187246d0562cbe31fbdd7cb65c" title="get_task_policy" alt="" coords="331,132,444,159"/>
+</map>

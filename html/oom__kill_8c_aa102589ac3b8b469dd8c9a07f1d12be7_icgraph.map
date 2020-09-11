@@ -1,0 +1,4 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$oom__kill_8c.html#a2aead0e1e9e533753e3ce1833078d482" title="register_oom_notifier" alt="" coords="233,5,375,32"/>
+<area shape="rect" id="node3" href="$oom__kill_8c.html#ae00ee46e52e5e22872a1c9e1e50ce21a" title="unregister_oom_notifier" alt="" coords="225,56,383,83"/>
+</map>

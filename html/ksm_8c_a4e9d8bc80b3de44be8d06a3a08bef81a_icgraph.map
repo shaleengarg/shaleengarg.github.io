@@ -1,0 +1,21 @@
+<map id="ksm_test_exit" name="ksm_test_exit">
+<area shape="rect" id="node2" href="$ksm_8c.html#a01de2267c7d4203e82b476473a30dbcb" title="find_mergeable_vma" alt="" coords="173,125,316,151"/>
+<area shape="rect" id="node12" href="$ksm_8c.html#ab218605a14cc5798eccf07efec6974e4" title="unmerge_ksm_pages" alt="" coords="171,327,318,354"/>
+<area shape="rect" id="node20" href="$ksm_8c.html#a771ebf46b1bf36edf4af998fbd48ecbb" title="scan_get_next_rmap_item" alt="" coords="157,277,332,303"/>
+<area shape="rect" id="node3" href="$ksm_8c.html#af1b0a277e04902e47d43253b3445f24d" title="break_cow" alt="" coords="435,125,521,151"/>
+<area shape="rect" id="node5" href="$ksm_8c.html#ac337e38b1861d432e6f414e2cace8d06" title="cmp_and_merge_page" alt="" coords="840,150,993,177"/>
+<area shape="rect" id="node9" href="$ksm_8c.html#a80721d02241c78791021652a36639849" title="get_mergeable_page" alt="" coords="407,70,549,97"/>
+<area shape="rect" id="node11" href="$ksm_8c.html#adc00f9c13dd54b850a34abc66fa3fdec" title="try_to_merge_with_ksm_page" alt="" coords="380,175,576,202"/>
+<area shape="rect" id="node4" href="$ksm_8c.html#ab5fda24e31f5d7bf3282d7114d97009e" title="try_to_merge_two_pages" alt="" coords="624,175,792,202"/>
+<area shape="rect" id="node6" href="$ksm_8c.html#a1ed21e33043bf219405159a1e84fade3" title="ksm_do_scan" alt="" coords="1063,214,1166,241"/>
+<area shape="rect" id="node7" href="$ksm_8c.html#ae965bf95f492cafd5ae0690af364f6b5" title="ksm_scan_thread" alt="" coords="1236,214,1361,241"/>
+<area shape="rect" id="node8" href="$ksm_8c.html#a03e68ad3af9ed57a02bcd0407a5b5ef5" title="ksm_init" alt="" coords="1409,214,1480,241"/>
+<area shape="rect" id="node10" href="$ksm_8c.html#a14b3148c2e19153cf9aca75f17a63fa2" title="unstable_tree_search\l_insert" alt="" coords="635,59,781,100"/>
+<area shape="rect" id="node13" href="$ksm_8c.html#a73bcef64636fd0bc2a109e03cc1c7c52" title="ksm_madvise" alt="" coords="427,327,529,354"/>
+<area shape="rect" id="node14" href="$madvise_8c.html#ad29545dd87cfe2c0e186816034625c7e" title="madvise_behavior" alt="" coords="645,327,771,354"/>
+<area shape="rect" id="node17" href="$mremap_8c.html#aa73038b5311eb758771caf47b8dfc45a" title="move_vma" alt="" coords="665,378,751,405"/>
+<area shape="rect" id="node15" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="865,327,968,354"/>
+<area shape="rect" id="node16" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1041,327,1188,354"/>
+<area shape="rect" id="node18" href="$mremap_8c.html#a2a386a3e40f3b97b99e63f58a81b6a1f" title="mremap_to" alt="" coords="873,429,960,455"/>
+<area shape="rect" id="node19" href="$mremap_8c.html#ab3d71b0aaabf3564984045f1e4c3faf9" title="SYSCALL_DEFINE5" alt="" coords="1041,403,1188,430"/>
+</map>

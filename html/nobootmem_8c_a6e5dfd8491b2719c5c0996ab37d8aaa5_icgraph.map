@@ -1,0 +1,5 @@
+<map id="__free_pages_memory" name="__free_pages_memory">
+<area shape="rect" id="node2" href="$nobootmem_8c.html#abd3033101aae8d6ca2b7ac6664b8fa61" title="__free_memory_core" alt="" coords="208,13,352,39"/>
+<area shape="rect" id="node3" href="$nobootmem_8c.html#a5a883e2e78d877fc31b6f5146f0780ec" title="free_low_memory_core\l_early" alt="" coords="400,5,557,47"/>
+<area shape="rect" id="node4" href="$nobootmem_8c.html#a557a3a8d13b137fcf3b5111066b48355" title="free_all_bootmem" alt="" coords="605,13,731,39"/>
+</map>

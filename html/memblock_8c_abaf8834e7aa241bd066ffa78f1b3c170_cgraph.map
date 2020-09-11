@@ -1,0 +1,5 @@
+<map id="memblock_is_region_reserved" name="memblock_is_region_reserved">
+<area shape="rect" id="node2" href="$memblock_8c.html#a16c79eb3953c5aac35c743397ec385d1" title="memblock_cap_size" alt="" coords="214,5,355,32"/>
+<area shape="rect" id="node3" href="$memblock_8c.html#a559e8b32916e20084e7c621d85522bef" title="memblock_overlaps_region" alt="" coords="195,56,375,83"/>
+<area shape="rect" id="node4" href="$memblock_8c.html#a79fd63fd2b95832617b0a04c2d0ac4b1" title="memblock_addrs_overlap" alt="" coords="423,56,593,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="calculate_sizes" name="calculate_sizes">
+<area shape="rect" id="node2" href="$kasan_8c.html#a76bcabeffe3bc2f12f5ae0760e4c1aba" title="kasan_cache_create" alt="" coords="165,17,308,44"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a6213c37c5687466de80c62e86498a031" title="calculate_order" alt="" coords="181,93,292,120"/>
+<area shape="rect" id="node7" href="$slub_8c.html#a2ec1d0153440f0a55c70abd655813ea6" title="oo_make" alt="" coords="377,157,452,184"/>
+<area shape="rect" id="node8" href="$slub_8c.html#a716ae0146191dfef09f1c8ddf415f88f" title="oo_objects" alt="" coords="194,195,279,221"/>
+<area shape="rect" id="node3" href="$kasan_8c.html#aa1a1aa8f162eeb362a1a9a13a25800b3" title="optimal_redzone" alt="" coords="356,5,473,32"/>
+<area shape="rect" id="node5" href="$slub_8c.html#aa0c51163bcc1e368fdca150c22e7551e" title="order_objects" alt="" coords="521,107,621,133"/>
+<area shape="rect" id="node6" href="$slub_8c.html#a40f34d4c1faa3c94db9f276d1f9421b7" title="slab_order" alt="" coords="373,107,456,133"/>
+</map>

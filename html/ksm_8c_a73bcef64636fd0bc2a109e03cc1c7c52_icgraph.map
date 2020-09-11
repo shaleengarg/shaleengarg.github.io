@@ -1,0 +1,8 @@
+<map id="ksm_madvise" name="ksm_madvise">
+<area shape="rect" id="node2" href="$madvise_8c.html#ad29545dd87cfe2c0e186816034625c7e" title="madvise_behavior" alt="" coords="156,5,283,32"/>
+<area shape="rect" id="node5" href="$mremap_8c.html#aa73038b5311eb758771caf47b8dfc45a" title="move_vma" alt="" coords="176,56,263,83"/>
+<area shape="rect" id="node3" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="331,5,433,32"/>
+<area shape="rect" id="node4" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="481,5,628,32"/>
+<area shape="rect" id="node6" href="$mremap_8c.html#a2a386a3e40f3b97b99e63f58a81b6a1f" title="mremap_to" alt="" coords="339,56,425,83"/>
+<area shape="rect" id="node7" href="$mremap_8c.html#ab3d71b0aaabf3564984045f1e4c3faf9" title="SYSCALL_DEFINE5" alt="" coords="481,81,628,108"/>
+</map>

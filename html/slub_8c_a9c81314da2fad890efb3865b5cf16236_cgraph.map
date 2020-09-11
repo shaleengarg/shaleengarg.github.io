@@ -1,0 +1,5 @@
+<map id="pfmemalloc_match" name="pfmemalloc_match">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a3184c0ed7e67aae54e9af396cf059aa8" title="gfp_pfmemalloc_allowed" alt="" coords="185,5,351,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a89e75690040cc6c19c8efaf7f688f037" title="__gfp_pfmemalloc_flags" alt="" coords="399,5,561,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a6982b4f90a205181dfd3f7499d239774" title="oom_reserves_allowed" alt="" coords="609,5,764,32"/>
+</map>

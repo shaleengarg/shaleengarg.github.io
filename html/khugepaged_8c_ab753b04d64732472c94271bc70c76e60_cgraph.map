@@ -1,0 +1,5 @@
+<map id="khugepaged_wait_work" name="khugepaged_wait_work">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#ad8157b249e69519bf4bac1d26e277e65" title="khugepaged_has_work" alt="" coords="229,5,384,32"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#a9205077feb9d221a2d767eb6b24fad30" title="khugepaged_should_wakeup" alt="" coords="212,56,401,83"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#a15b2d205ac438ec4037b69746b1c9425" title="khugepaged_wait_event" alt="" coords="225,107,388,133"/>
+</map>

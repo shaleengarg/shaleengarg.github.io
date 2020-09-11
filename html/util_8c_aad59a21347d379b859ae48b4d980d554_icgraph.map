@@ -1,0 +1,12 @@
+<map id="memdup_user_nul" name="memdup_user_nul">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#ac61a441fde25112fcd04dcedd4672f57" title="build_zonerefs_node" alt="" coords="181,56,323,83"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#adbebf3aa8f185319177ca1006766eee8" title="build_zonelists" alt="" coords="371,56,479,83"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#ad122ee9562eef553e7c5cf5ef252816d" title="__build_all_zonelists" alt="" coords="527,56,669,83"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a6e5b95ba3cb1124fef81388a0f290d9f" title="build_all_zonelists_init" alt="" coords="717,31,869,57"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a34f0403c01d7c4dfc9e39af19db883fd" title="build_all_zonelists" alt="" coords="917,56,1045,83"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="1093,5,1268,32"/>
+<area shape="rect" id="node8" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1519,56,1616,83"/>
+<area shape="rect" id="node9" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="1115,107,1246,133"/>
+<area shape="rect" id="node10" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="1337,107,1450,133"/>
+<area shape="rect" id="node11" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="1316,157,1471,184"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="drain_all_pages" name="drain_all_pages">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#aa648a230191e95ebcf997438f9716ff9" title="drain_local_pages_wq" alt="" coords="165,107,316,133"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a21fb337e42adb123b4035e1f51799851" title="drain_local_pages" alt="" coords="364,107,491,133"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#aa8ed8b2d5095236d32d388fc5c452af1" title="drain_pages_zone" alt="" coords="679,107,805,133"/>
+<area shape="rect" id="node24" href="$page__alloc_8c.html#ab53343e939dd874fbcb92e74f3fea07e" title="drain_pages" alt="" coords="539,132,631,159"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#ad235b9100b46a172c65f24c87e2cd489" title="free_pcppages_bulk" alt="" coords="853,107,992,133"/>
+<area shape="rect" id="node6" href="$backing-dev_8c.html#a06db5190b75a5cdc8ccc743c76a893b9" title="LIST_HEAD" alt="" coords="1078,5,1173,32"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#af6d6930c2a8703018e3a0d85f528f559" title="bulkfree_pcp_prepare" alt="" coords="1052,56,1199,83"/>
+<area shape="rect" id="node13" href="$page__alloc_8c.html#ace21c20373b1e6a63e4805889e71f705" title="prefetch_buddy" alt="" coords="1070,107,1181,133"/>
+<area shape="rect" id="node16" href="$page__alloc_8c.html#a0afeff719a42c06026be4c207ce2700d" title="get_pcppage_migratetype" alt="" coords="1040,157,1211,184"/>
+<area shape="rect" id="node17" href="$page__alloc_8c.html#a0132d2b120285cbc7339d459e27eb6b0" title="__free_one_page" alt="" coords="1065,208,1186,235"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#a25a1a9bd4f8dd5f5510dcaa0538d8fe5" title="free_pages_check" alt="" coords="1259,56,1387,83"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#a2198a7aec00a3766a0b33712f042a5a9" title="page_expected_state" alt="" coords="1448,5,1595,32"/>
+<area shape="rect" id="node10" href="$page__alloc_8c.html#ad15dda0923a9b0366309e880ba447f2a" title="free_pages_check_bad" alt="" coords="1443,56,1599,83"/>
+<area shape="rect" id="node11" href="$page__alloc_8c.html#a8865c2650077e740844ac4383f6713ce" title="bad_page" alt="" coords="1656,56,1735,83"/>
+<area shape="rect" id="node12" href="$debug_8c.html#a9964bf1b226807ee36658d2f61c5dfdd" title="__dump_page" alt="" coords="1783,56,1885,83"/>
+<area shape="rect" id="node14" href="$internal_8h.html#a99814532ded2bc9e9e998e5e83c8425d" title="__find_buddy_pfn" alt="" coords="1261,107,1385,133"/>
+<area shape="rect" id="node15" href="$internal_8h.html#a4f47959b411219321126d371ab225cad" title="__pageblock_pfn_to_page" alt="" coords="1435,107,1608,133"/>
+<area shape="rect" id="node18" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="1281,157,1364,184"/>
+<area shape="rect" id="node19" href="$page__alloc_8c.html#a6225eaad3ee34e28fbe85a651972e0a4" title="page_is_buddy" alt="" coords="1268,208,1377,235"/>
+<area shape="rect" id="node21" href="$page__alloc_8c.html#aace6c73b563a513aec47db2ed6c30a9b" title="clear_page_guard" alt="" coords="1261,259,1385,285"/>
+<area shape="rect" id="node22" href="$page__alloc_8c.html#a7e8cc7df33e968891fa6e954781ee20c" title="rmv_page_order" alt="" coords="1265,309,1380,336"/>
+<area shape="rect" id="node23" href="$page__alloc_8c.html#a10c15851616e8c1e425e75a4e1669387" title="set_page_order" alt="" coords="1267,360,1378,387"/>
+<area shape="rect" id="node20" href="$internal_8h.html#a1674ff815608c977b6231072833aa598" title="page_order" alt="" coords="1478,208,1565,235"/>
+</map>

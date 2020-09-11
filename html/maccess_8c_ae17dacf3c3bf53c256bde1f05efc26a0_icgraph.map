@@ -1,0 +1,5 @@
+<map id="probe_kernel_write" name="probe_kernel_write">
+<area shape="rect" id="node2" href="$maccess_8c.html#af05056fbebacd7e8a28a5b23a9e129e3" title="__probe_kernel_read" alt="" coords="185,5,328,32"/>
+<area shape="rect" id="node3" href="$maccess_8c.html#ab7c4b4be7d1fc1ef4843dc173f296868" title="__probe_kernel_write" alt="" coords="184,56,329,83"/>
+<area shape="rect" id="node4" href="$rodata__test_8c.html#abe382598ab1401ae6fb8b2c60c7f14cb" title="rodata_test" alt="" coords="213,107,300,133"/>
+</map>

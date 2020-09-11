@@ -1,0 +1,7 @@
+<map id="find_vm_area" name="find_vm_area">
+<area shape="rect" id="node2" href="$kasan_8c.html#ae6db9be1a4ae607d27359a71ac3ac52c" title="kasan_module_alloc" alt="" coords="158,5,298,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a913fae521cd79a630eae59a8a484b55f" title="vmalloc_user" alt="" coords="179,56,277,83"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#ae2014fd8a09920eded0a575fc8c04d35" title="vmalloc_32_user" alt="" coords="168,107,288,133"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#ac3e3bf07056398cfb3c22ea46b1932eb" title="remap_vmalloc_range\l_partial" alt="" coords="153,158,303,199"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#a0cb5dbe0a4270c86c2eb4d40252a1be7" title="remap_vmalloc_range" alt="" coords="351,165,500,192"/>
+</map>

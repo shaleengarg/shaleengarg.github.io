@@ -1,0 +1,8 @@
+<map id="init_hpc_stats" name="init_hpc_stats">
+<area shape="rect" id="node2" href="$hetero_8c.html#abbb2b8a37c08c509b51ffcb9d40912ed" title="reset_hpc_stats" alt="" coords="156,5,271,32"/>
+<area shape="rect" id="node3" href="$hetero_8c.html#a5ab953b1c24ec54294ea985cc95ed1a1" title="sys_mem_init" alt="" coords="162,56,265,83"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a929f7eac41d31a0bc653a4f52a3499c0" title="si_meminfo" alt="" coords="355,5,445,32"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#adc6d07a71dc8fb1295a87f077a28899b" title="si_swapinfo" alt="" coords="355,56,445,83"/>
+<area shape="rect" id="node7" href="$swap__state_8c.html#acde703224d3ea50e36c68ebcdfa48ce0" title="total_swapcache_pages" alt="" coords="319,107,481,133"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a64d1e974edaf4d3682553d5f72c9cd59" title="EXPORT_SYMBOL" alt="" coords="529,5,668,32"/>
+</map>

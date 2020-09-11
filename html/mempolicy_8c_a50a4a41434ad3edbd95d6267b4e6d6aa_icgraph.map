@@ -1,0 +1,5 @@
+<map id="kernel_mbind" name="kernel_mbind">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a2a7b4e9b054f340a69ecd0dddb758746" title="SYSCALL_DEFINE6" alt="" coords="152,5,299,32"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="152,56,299,83"/>
+<area shape="rect" id="node3" href="$migrate_8c.html#a58c7b230fb6d8c7a22c5e85ce77bfdee" title="migrate_hetero_single_page" alt="" coords="347,5,531,32"/>
+</map>

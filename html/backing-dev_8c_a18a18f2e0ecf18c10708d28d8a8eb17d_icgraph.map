@@ -1,0 +1,14 @@
+<map id="cgwb_bdi_register" name="cgwb_bdi_register">
+<area shape="rect" id="node2" href="$backing-dev_8c.html#af5808f9f021dfbb361abb55a5999c6f1" title="wb_exit" alt="" coords="202,107,269,133"/>
+<area shape="rect" id="node11" href="$backing-dev_8c.html#a0570c66005b06dbca126115e8a09ef93" title="bdi_register_va" alt="" coords="180,183,291,209"/>
+<area shape="rect" id="node3" href="$backing-dev_8c.html#a7f82fbc43ceb517e0fd590c32301735e" title="release_bdi" alt="" coords="339,5,427,32"/>
+<area shape="rect" id="node4" href="$backing-dev_8c.html#aa9d8f34127a1924e98d11248a071dded" title="bdi_put" alt="" coords="509,56,573,83"/>
+<area shape="rect" id="node5" href="$backing-dev_8c.html#a0cbb5fc7694d7d44a1f1051ab6c4c586" title="wb_init" alt="" coords="655,107,717,133"/>
+<area shape="rect" id="node6" href="$backing-dev_8c.html#acf24c7256caf0fb1e0caf846c4270de0" title="cgwb_bdi_init" alt="" coords="765,132,867,159"/>
+<area shape="rect" id="node7" href="$backing-dev_8c.html#a5d8043d7826a29d57360640b8636cdfd" title="bdi_init" alt="" coords="915,132,977,159"/>
+<area shape="rect" id="node8" href="$backing-dev_8c.html#a45745d64778e21cdaef75fd7d13a2ebc" title="bdi_class_init" alt="" coords="1029,81,1131,108"/>
+<area shape="rect" id="node9" href="$backing-dev_8c.html#a7e5f0f4731ed7f3891a7d10bff0725c5" title="default_bdi_init" alt="" coords="1025,132,1135,159"/>
+<area shape="rect" id="node10" href="$backing-dev_8c.html#a46b389f1156291c050fde5b58d1d332e" title="bdi_alloc_node" alt="" coords="1026,183,1134,209"/>
+<area shape="rect" id="node12" href="$backing-dev_8c.html#a317a1515d32dbd9f10cb30713e1e755e" title="bdi_register" alt="" coords="339,208,428,235"/>
+<area shape="rect" id="node13" href="$backing-dev_8c.html#ad24a266558ce1a45ff130914efd4ee75" title="bdi_register_owner" alt="" coords="476,208,607,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="get_nodes" name="get_nodes">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a50a4a41434ad3edbd95d6267b4e6d6aa" title="kernel_mbind" alt="" coords="163,31,261,57"/>
+<area shape="rect" id="node6" href="$mempolicy_8c.html#adcfc4b1ff9eea7d3ae17af5e57fbde2c" title="kernel_set_mempolicy" alt="" coords="136,81,288,108"/>
+<area shape="rect" id="node8" href="$mempolicy_8c.html#a89e7902fcb65d393df71e2a673b6bb78" title="kernel_migrate_pages" alt="" coords="137,132,287,159"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a2a7b4e9b054f340a69ecd0dddb758746" title="SYSCALL_DEFINE6" alt="" coords="336,5,483,32"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#ae446daea9637981fb87a4577e9f342fe" title="SYSCALL_DEFINE5" alt="" coords="336,56,483,83"/>
+<area shape="rect" id="node4" href="$migrate_8c.html#a58c7b230fb6d8c7a22c5e85ce77bfdee" title="migrate_hetero_single_page" alt="" coords="531,5,715,32"/>
+<area shape="rect" id="node7" href="$mempolicy_8c.html#a6b890158518d7d0e0f561bc6a3f4d171" title="SYSCALL_DEFINE3" alt="" coords="336,107,483,133"/>
+<area shape="rect" id="node9" href="$mempolicy_8c.html#a3c8cdac5c4c3c8b98363e2347c18d06d" title="SYSCALL_DEFINE4" alt="" coords="336,157,483,184"/>
+</map>

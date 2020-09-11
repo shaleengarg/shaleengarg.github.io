@@ -1,0 +1,8 @@
+<map id="make_alloc_exact" name="make_alloc_exact">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#ac456983d3e3b43bc0a2a9c5615622211" title="alloc_pages_exact" alt="" coords="192,56,323,83"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#a30ab162eca034e3f195bb2e334a208ac" title="alloc_pages_exact_nid" alt="" coords="180,107,335,133"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#a7841343f47902232c08e85b17fc546b7" title="do_mmap_private" alt="" coords="405,5,530,32"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a44ef213c98d68b120b8c2bc2b63268fc" title="alloc_large_system_hash" alt="" coords="383,56,552,83"/>
+<area shape="rect" id="node4" href="$nommu_8c.html#a7c2706c91d5621e24c36deb9bec3728b" title="do_mmap" alt="" coords="600,5,679,32"/>
+<area shape="rect" id="node7" href="$page__ext_8c.html#a54193fd2141285fb96df576c2c9cd214" title="page_ext_init_flatmem" alt="" coords="391,107,544,133"/>
+</map>

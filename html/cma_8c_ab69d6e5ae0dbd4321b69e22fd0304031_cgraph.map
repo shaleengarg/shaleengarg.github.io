@@ -1,0 +1,8 @@
+<map id="cma_alloc" name="cma_alloc">
+<area shape="rect" id="node2" href="$cma_8c.html#acacbaf2002d23b129e8873ba1d32effe" title="cma_bitmap_aligned_mask" alt="" coords="135,5,315,32"/>
+<area shape="rect" id="node3" href="$cma_8c.html#af82b4a81d0eeeb8acbc7dfcbeac07446" title="cma_bitmap_aligned\l_offset" alt="" coords="154,57,295,98"/>
+<area shape="rect" id="node4" href="$cma_8h.html#aa54b54c8f2d1eeebb2eb5638dbc1a372" title="cma_bitmap_maxno" alt="" coords="155,123,294,149"/>
+<area shape="rect" id="node5" href="$cma_8c.html#a3e1d256c76bc2ce98bb8e17f28446aee" title="cma_bitmap_pages_to_bits" alt="" coords="363,199,544,225"/>
+<area shape="rect" id="node6" href="$cma_8c.html#ac1a73b0f4ff797692de6ec22bf06a3c8" title="cma_clear_bitmap" alt="" coords="161,224,289,251"/>
+<area shape="rect" id="node7" href="$cma_8c.html#aaf9a433b1f1cdd2306aa512d19b270fd" title="cma_debug_show_areas" alt="" coords="141,275,308,301"/>
+</map>

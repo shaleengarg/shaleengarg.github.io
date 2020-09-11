@@ -1,0 +1,12 @@
+<map id="memcg_kmem_uncharge" name="memcg_kmem_uncharge">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a1d29e3a343ecea93fe5ec1b73703cdc8" title="mem_cgroup_is_root" alt="" coords="237,5,380,32"/>
+<area shape="rect" id="node4" href="$page__counter_8c.html#af42e32e2d8e8dbc58e8e0a6b5a71f3ea" title="page_counter_uncharge" alt="" coords="229,56,389,83"/>
+<area shape="rect" id="node6" href="$memcontrol_8c.html#abf5f61cb1f1bac5685f48374083b1d2f" title="do_memsw_account" alt="" coords="237,107,380,133"/>
+<area shape="rect" id="node7" href="$memcontrol_8c.html#ae13caaf1734944ae6121d205a32d7da4" title="mem_cgroup_move_swap\l_account" alt="" coords="221,158,396,199"/>
+<area shape="rect" id="node9" href="$swap__cgroup_8c.html#a28cb8718e8f584b15093df72563c014f" title="swap_cgroup_cmpxchg" alt="" coords="229,224,388,251"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#aebb64c1ff4fb11e176f9f26d5d350124" title="DEFINE_IDA" alt="" coords="465,5,568,32"/>
+<area shape="rect" id="node5" href="$page__counter_8c.html#a8d1660de964ae6d862d66b8efaf11bc7" title="page_counter_cancel" alt="" coords="444,56,589,83"/>
+<area shape="rect" id="node8" href="$memcontrol_8c.html#ac0d5661ffc559c47fdb3f3402efc5fa5" title="DEFINE_MUTEX" alt="" coords="453,165,580,192"/>
+<area shape="rect" id="node10" href="$swap__cgroup_8c.html#a67cb229600ff474aa7a43ef836da02b7" title="lookup_swap_cgroup" alt="" coords="445,224,589,251"/>
+<area shape="rect" id="node11" href="$swap__cgroup_8c.html#ab69c993965a92050d198ae442535483e" title="__lookup_swap_cgroup" alt="" coords="637,224,796,251"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="setup_per_zone_lowmem_reserve" name="setup_per_zone_lowmem_reserve">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#ad133711c635c337cd2f559361dbd59ab" title="init_per_zone_wmark_min" alt="" coords="224,31,397,57"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#a1c8105ecd99d6bbe13179df1502f79e1" title="lowmem_reserve_ratio\l_sysctl_handler" alt="" coords="234,82,387,123"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="445,5,620,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="668,31,765,57"/>
+</map>

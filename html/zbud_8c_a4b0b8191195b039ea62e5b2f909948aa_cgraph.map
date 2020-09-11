@@ -1,0 +1,6 @@
+<map id="zbud_alloc" name="zbud_alloc">
+<area shape="rect" id="node2" href="$zbud_8c.html#a6ea9ceb4114613b24e23d22eedfa6285" title="size_to_chunks" alt="" coords="143,5,257,32"/>
+<area shape="rect" id="node3" href="$zbud_8c.html#ad315f57d5f3f2edf748b369957b4b9a0" title="init_zbud_page" alt="" coords="145,56,255,83"/>
+<area shape="rect" id="node4" href="$zbud_8c.html#a2889e57b1df36034f53a2db4dceff6ea" title="num_free_chunks" alt="" coords="137,107,263,133"/>
+<area shape="rect" id="node5" href="$zbud_8c.html#a622bad1e7737e602a3ec6593c8e7b33f" title="encode_handle" alt="" coords="145,157,255,184"/>
+</map>

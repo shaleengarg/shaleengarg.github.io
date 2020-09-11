@@ -1,0 +1,30 @@
+<map id="kmemleak_scan_area" name="kmemleak_scan_area">
+<area shape="rect" id="node2" href="$kmemleak_8c.html#a08c1fb6e76862e6cbf17f8457dab8d76" title="kmemleak_init" alt="" coords="209,152,316,179"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a5dc8a50cc2dd0f1753c78f2413788ce8" title="alloc_vmap_area" alt="" coords="203,203,323,229"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#abcd38466a15736ef95cd327fccda3f8b" title="new_vmap_block" alt="" coords="383,101,505,128"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#aaadbe09393f9ccb3f003dd459d7b66c1" title="vm_map_ram" alt="" coords="787,108,889,135"/>
+<area shape="rect" id="node7" href="$vmalloc_8c.html#aa4133a1daa46e44f33ec5940149223f3" title="__get_vm_area_node" alt="" coords="371,279,517,305"/>
+<area shape="rect" id="node17" href="$vmalloc_8c.html#a404877f32c5654d4e72ea37b15dba6de" title="__vmalloc_area_node" alt="" coords="957,477,1105,504"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#a317a8dffaf5bb41472a0ecc1824ffee4" title="vb_alloc" alt="" coords="607,101,678,128"/>
+<area shape="rect" id="node8" href="$vmalloc_8c.html#a0b331f354fa9a75be949c00ce3280956" title="__get_vm_area" alt="" coords="587,355,698,381"/>
+<area shape="rect" id="node9" href="$vmalloc_8c.html#aa237be4c0480412a4545ddcc2c141248" title="__get_vm_area_caller" alt="" coords="568,405,717,432"/>
+<area shape="rect" id="node10" href="$vmalloc_8c.html#a1c08a9f634da6f059618ac6619f04ba1" title="get_vm_area" alt="" coords="594,203,691,229"/>
+<area shape="rect" id="node11" href="$vmalloc_8c.html#a96e3a5da95f742f9fe12652a6d0c2986" title="get_vm_area_caller" alt="" coords="575,253,710,280"/>
+<area shape="rect" id="node14" href="$vmalloc_8c.html#a429cf1f60124c4677ca9df62a1b79675" title="__vmalloc_node_range" alt="" coords="565,304,720,331"/>
+<area shape="rect" id="node12" href="$vmalloc_8c.html#a5e0e578efaa6447458f8c31d952fbecb" title="vmap" alt="" coords="1004,5,1059,32"/>
+<area shape="rect" id="node13" href="$vmalloc_8c.html#a32c634ebc64d8e8a018298ffcced3352" title="alloc_vm_area" alt="" coords="785,165,891,192"/>
+<area shape="rect" id="node15" href="$kasan_8c.html#ae6db9be1a4ae607d27359a71ac3ac52c" title="kasan_module_alloc" alt="" coords="768,317,908,344"/>
+<area shape="rect" id="node16" href="$vmalloc_8c.html#a15b370e29eddd65501171cc79c20a287" title="__vmalloc_node" alt="" coords="780,267,896,293"/>
+<area shape="rect" id="node18" href="$vmalloc_8c.html#a91090bb178e20a73cb34f1d4c7ef0718" title="__vmalloc" alt="" coords="991,157,1072,184"/>
+<area shape="rect" id="node19" href="$vmalloc_8c.html#a22dd063c4104118f97cc26c2046149a7" title="__vmalloc_node_flags" alt="" coords="956,208,1107,235"/>
+<area shape="rect" id="node23" href="$vmalloc_8c.html#a175661910e41ac7b1181da0bb62dda04" title="__vmalloc_node_flags\l_caller" alt="" coords="956,259,1107,301"/>
+<area shape="rect" id="node25" href="$vmalloc_8c.html#a913fae521cd79a630eae59a8a484b55f" title="vmalloc_user" alt="" coords="982,325,1081,352"/>
+<area shape="rect" id="node26" href="$vmalloc_8c.html#ac92b1b77dcb4669edd69cb44cbd7871c" title="vmalloc_node" alt="" coords="980,376,1083,403"/>
+<area shape="rect" id="node27" href="$vmalloc_8c.html#a00d239c25af91f891be0650808d4e13a" title="vmalloc_exec" alt="" coords="980,427,1083,453"/>
+<area shape="rect" id="node28" href="$vmalloc_8c.html#ab13f9a0005487cfe0758bf85e071c9cb" title="vmalloc_32" alt="" coords="987,56,1075,83"/>
+<area shape="rect" id="node29" href="$vmalloc_8c.html#ae2014fd8a09920eded0a575fc8c04d35" title="vmalloc_32_user" alt="" coords="971,107,1091,133"/>
+<area shape="rect" id="node20" href="$vmalloc_8c.html#a5e7539e7696efb631504a768037b6752" title="vmalloc" alt="" coords="1176,187,1243,213"/>
+<area shape="rect" id="node21" href="$vmalloc_8c.html#a43da4d84c5fb8f3e80b19fea127e018d" title="vzalloc" alt="" coords="1178,237,1241,264"/>
+<area shape="rect" id="node22" href="$vmalloc_8c.html#ac1c04196c0d2df6a303b2cb2fb9af495" title="vzalloc_node" alt="" coords="1160,136,1259,163"/>
+<area shape="rect" id="node24" href="$util_8c.html#a8a86b4efab936dd9e838214b7aedaffa" title="kvmalloc_node" alt="" coords="1155,288,1264,315"/>
+</map>

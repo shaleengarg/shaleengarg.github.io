@@ -1,0 +1,4 @@
+<map id="constrained_alloc" name="constrained_alloc">
+<area shape="rect" id="node2" href="$oom__kill_8c.html#a6e3502acb34f83d33a9524f88c0fef6c" title="is_memcg_oom" alt="" coords="195,5,310,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a8cb1347818c0dd4bb393b6761ffe3b08" title="mem_cgroup_get_limit" alt="" coords="176,56,329,83"/>
+</map>

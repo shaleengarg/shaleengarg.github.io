@@ -1,0 +1,11 @@
+<map id="exit_zbud" name="exit_zbud">
+<area shape="rect" id="node2" href="$zpool_8c.html#a58f4e4851dd20ade105f4bddb18899cc" title="zpool_unregister_driver" alt="" coords="359,13,515,40"/>
+<area shape="rect" id="node4" href="$zbud_8c.html#a04330098bc509a45f195da9a30cb8239" title="module_init" alt="" coords="177,50,265,77"/>
+<area shape="rect" id="node5" href="$zbud_8c.html#ad4513b518969f659b0b28cf4a75a9fb6" title="init_zbud" alt="" coords="184,101,259,128"/>
+<area shape="rect" id="node7" href="$zbud_8c.html#ab1aa33e4ed82262c36e0477527828859" title="module_exit" alt="" coords="175,152,267,178"/>
+<area shape="rect" id="node8" href="$zbud_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="149,202,293,229"/>
+<area shape="rect" id="node9" href="$zbud_8c.html#a5c6cc6ef57dcc4585b16553e6d9a0227" title="MODULE_AUTHOR" alt="" coords="150,253,293,280"/>
+<area shape="rect" id="node10" href="$zbud_8c.html#afba3ac4edaef802ec032e1f8e47ebf53" title="MODULE_DESCRIPTION" alt="" coords="132,304,311,330"/>
+<area shape="rect" id="node3" href="$zpool_8c.html#a446bb8e4a1a6fc5d089ad5ce3e4409e0" title="EXPORT_SYMBOL" alt="" coords="563,50,701,77"/>
+<area shape="rect" id="node6" href="$zpool_8c.html#a3402f9403ae4ae9ad653a264adf5c9bc" title="zpool_register_driver" alt="" coords="365,76,508,102"/>
+</map>

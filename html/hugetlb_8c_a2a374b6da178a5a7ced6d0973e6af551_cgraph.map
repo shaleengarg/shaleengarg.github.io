@@ -1,0 +1,5 @@
+<map id="hugetlb_change_protection" name="hugetlb_change_protection">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#acdada910fcc8193754393e89159f2f12" title="huge_pmd_unshare" alt="" coords="260,5,395,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a1845fced468b2d80d481e481a3fb31d3" title="is_hugetlb_entry_hwpoisoned" alt="" coords="231,56,424,83"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a02158c9b840bc15a1e19e443ba07c760" title="is_hugetlb_entry_migration" alt="" coords="239,107,416,133"/>
+</map>

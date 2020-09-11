@@ -1,0 +1,9 @@
+<map id="mark_page_lazyfree" name="mark_page_lazyfree">
+<area shape="rect" id="node2" href="$huge__memory_8c.html#a7baf2fe6f47596eed514a581be3b2046" title="madvise_free_huge_pmd" alt="" coords="192,5,359,32"/>
+<area shape="rect" id="node3" href="$madvise_8c.html#abfc5d2edae0e494d8dfdb632aa23a0d1" title="madvise_free_pte_range" alt="" coords="407,31,571,57"/>
+<area shape="rect" id="node4" href="$madvise_8c.html#a4565490f2f48441df77287a8e80c9b2a" title="madvise_free_page_range" alt="" coords="619,31,793,57"/>
+<area shape="rect" id="node5" href="$madvise_8c.html#a61e8bc2ec1938de1b4f8080e1077ff0c" title="madvise_free_single_vma" alt="" coords="841,31,1015,57"/>
+<area shape="rect" id="node6" href="$madvise_8c.html#ae50a3f70442c933e8824c1687944f103" title="madvise_dontneed_free" alt="" coords="1063,31,1223,57"/>
+<area shape="rect" id="node7" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="1271,31,1373,57"/>
+<area shape="rect" id="node8" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1421,31,1568,57"/>
+</map>

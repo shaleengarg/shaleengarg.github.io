@@ -1,0 +1,8 @@
+<map id="bootmap_bytes" name="bootmap_bytes">
+<area shape="rect" id="node2" href="$bootmem_8c.html#a1e646def1257c426f19b38acdfd641b6" title="bootmem_bootmap_pages" alt="" coords="164,5,339,32"/>
+<area shape="rect" id="node5" href="$bootmem_8c.html#ad680209c59ddf0c4d2d2094bcc192371" title="init_bootmem_core" alt="" coords="185,56,317,83"/>
+<area shape="rect" id="node3" href="$bootmem_8c.html#a20c86f89b773e1c952a9e810cdbb32ab" title="free_all_bootmem_core" alt="" coords="387,5,544,32"/>
+<area shape="rect" id="node4" href="$bootmem_8c.html#a557a3a8d13b137fcf3b5111066b48355" title="free_all_bootmem" alt="" coords="592,5,717,32"/>
+<area shape="rect" id="node6" href="$bootmem_8c.html#a4061146130ca3afabb74e77a14f3c23d" title="init_bootmem_node" alt="" coords="398,56,533,83"/>
+<area shape="rect" id="node7" href="$bootmem_8c.html#a09eb46be616cf4e2bdb9fcf5d975d6e6" title="init_bootmem" alt="" coords="415,107,515,133"/>
+</map>

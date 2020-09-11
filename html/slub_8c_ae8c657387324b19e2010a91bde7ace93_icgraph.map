@@ -1,0 +1,4 @@
+<map id="alloc_kmem_cache_cpus" name="alloc_kmem_cache_cpus">
+<area shape="rect" id="node2" href="$slub_8c.html#a8042a49a0533596273a211ef513871f3" title="kmem_cache_open" alt="" coords="223,5,357,32"/>
+<area shape="rect" id="node3" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="405,5,563,32"/>
+</map>

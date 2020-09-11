@@ -1,0 +1,6 @@
+<map id="encode_handle" name="encode_handle">
+<area shape="rect" id="node2" href="$z3fold_8c.html#a6bfd5b9d7f06ec0901f51eff312a2f74" title="z3fold_alloc" alt="" coords="188,5,279,32"/>
+<area shape="rect" id="node4" href="$z3fold_8c.html#a48908cc86221eebae65da5a110fad272" title="z3fold_reclaim_page" alt="" coords="163,56,304,83"/>
+<area shape="rect" id="node3" href="$z3fold_8c.html#a4440851997f95eca3436ebff63d5daf2" title="z3fold_zpool_malloc" alt="" coords="352,5,492,32"/>
+<area shape="rect" id="node5" href="$z3fold_8c.html#a8c49f586f86b146cd729ef14079b63b7" title="z3fold_zpool_shrink" alt="" coords="353,56,491,83"/>
+</map>

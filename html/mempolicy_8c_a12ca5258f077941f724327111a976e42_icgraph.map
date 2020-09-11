@@ -1,0 +1,4 @@
+<map id="policy_nodemask" name="policy_nodemask">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a14d294159e91b7af61864e4a476cde8d" title="alloc_pages_vma" alt="" coords="184,5,307,32"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a4fcac2f67850e039cf53f5e41773f20f" title="alloc_pages_current" alt="" coords="176,56,315,83"/>
+</map>

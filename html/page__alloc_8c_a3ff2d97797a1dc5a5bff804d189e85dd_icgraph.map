@@ -1,0 +1,6 @@
+<map id="has_unmovable_pages" name="has_unmovable_pages">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#ab79f1010c13d73bc4360e6caa20aabf5" title="is_pageblock_removable\l_nolock" alt="" coords="592,5,757,47"/>
+<area shape="rect" id="node4" href="$page__isolation_8c.html#a0a88e93b527791684fccd87dce77b4ff" title="set_migratetype_isolate" alt="" coords="208,67,368,94"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="805,42,903,69"/>
+<area shape="rect" id="node5" href="$page__isolation_8c.html#addf98fc1111bf33f875f50935b470667" title="start_isolate_page\l_range" alt="" coords="416,64,544,105"/>
+</map>

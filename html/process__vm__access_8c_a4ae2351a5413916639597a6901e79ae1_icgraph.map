@@ -1,0 +1,5 @@
+<map id="process_vm_rw_core" name="process_vm_rw_core">
+<area shape="rect" id="node2" href="$process__vm__access_8c.html#af9aefaaf0452aa9933d99c5ec7b50748" title="process_vm_rw" alt="" coords="216,5,331,32"/>
+<area shape="rect" id="node4" href="$process__vm__access_8c.html#abe1bd5c7c7d6269cbb1eb7c186042e69" title="SYSCALL_DEFINE6" alt="" coords="200,56,347,83"/>
+<area shape="rect" id="node3" href="$process__vm__access_8c.html#a63438c29344e2af8ed9b19d2272eab12" title="SYSCALL_DEFINE6" alt="" coords="395,5,541,32"/>
+</map>

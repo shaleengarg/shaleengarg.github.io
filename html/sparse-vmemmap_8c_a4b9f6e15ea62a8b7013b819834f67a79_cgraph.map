@@ -1,0 +1,4 @@
+<map id="altmap_alloc_block_buf" name="altmap_alloc_block_buf">
+<area shape="rect" id="node2" href="$sparse-vmemmap_8c.html#a442250b354c45d412ef5167ec1654ed1" title="vmem_altmap_next_pfn" alt="" coords="212,5,373,32"/>
+<area shape="rect" id="node3" href="$sparse-vmemmap_8c.html#a6169102ad3becb19496206c08478d1f0" title="vmem_altmap_nr_free" alt="" coords="217,56,368,83"/>
+</map>

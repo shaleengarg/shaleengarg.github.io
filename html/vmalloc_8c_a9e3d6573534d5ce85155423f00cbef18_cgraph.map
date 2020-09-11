@@ -1,0 +1,13 @@
+<map id="free_unmap_vmap_area" name="free_unmap_vmap_area">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a78969ccb9098761bdcaba2f348871cdb" title="unmap_vmap_area" alt="" coords="231,5,363,32"/>
+<area shape="rect" id="node8" href="$vmalloc_8c.html#a44af7af3f712b5c084b5c4f77861f5c5" title="free_vmap_area_noflush" alt="" coords="215,56,379,83"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a1ce1a92eef395a23312aca5a937bcc38" title="vunmap_page_range" alt="" coords="445,5,587,32"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#a5b747c1b6660e956a93d790fb0fd5e0a" title="vunmap_p4d_range" alt="" coords="671,5,806,32"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#abeecc6c56221ed4dd883469a4d71ac32" title="vunmap_pud_range" alt="" coords="872,5,1007,32"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#ad18852b000b81c87afe718fdc16d4648" title="vunmap_pmd_range" alt="" coords="1055,5,1193,32"/>
+<area shape="rect" id="node7" href="$vmalloc_8c.html#ab7660eb425f59b80d018944655b02cc1" title="vunmap_pte_range" alt="" coords="1241,5,1373,32"/>
+<area shape="rect" id="node9" href="$vmalloc_8c.html#a328f274945d45272f29c4972acd4de81" title="lazy_max_pages" alt="" coords="456,56,576,83"/>
+<area shape="rect" id="node10" href="$vmalloc_8c.html#a79df2059ad407465a2568e5cf14cbbc1" title="try_purge_vmap_area_lazy" alt="" coords="427,107,605,133"/>
+<area shape="rect" id="node11" href="$vmalloc_8c.html#ac3b5f6f8ce53b118d8b9c15ed84e7e6d" title="__purge_vmap_area_lazy" alt="" coords="653,107,824,133"/>
+<area shape="rect" id="node12" href="$vmalloc_8c.html#a23906a48a0d9c261b76afb3f57933ef2" title="__free_vmap_area" alt="" coords="875,107,1004,133"/>
+</map>

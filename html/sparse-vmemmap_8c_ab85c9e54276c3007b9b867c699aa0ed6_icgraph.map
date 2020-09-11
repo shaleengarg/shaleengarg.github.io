@@ -1,0 +1,4 @@
+<map id="vmemmap_alloc_block_buf" name="vmemmap_alloc_block_buf">
+<area shape="rect" id="node2" href="$sparse-vmemmap_8c.html#ad49d00152c0aca08a81690c060c1e69c" title="vmemmap_pte_populate" alt="" coords="233,5,397,32"/>
+<area shape="rect" id="node3" href="$sparse-vmemmap_8c.html#a87dd1a94f678b72da74f482d75e33be5" title="vmemmap_populate_basepages" alt="" coords="445,5,655,32"/>
+</map>

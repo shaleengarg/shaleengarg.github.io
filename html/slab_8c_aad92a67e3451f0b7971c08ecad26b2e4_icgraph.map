@@ -1,0 +1,7 @@
+<map id="ksize" name="ksize">
+<area shape="rect" id="node2" href="$nommu_8c.html#afe59a36d11d35ff9c659916857e92dbe" title="kobjsize" alt="" coords="123,5,193,32"/>
+<area shape="rect" id="node3" href="$slab__common_8c.html#a6cb2c01b479577f371329644eb69fe92" title="__do_krealloc" alt="" coords="107,56,209,83"/>
+<area shape="rect" id="node6" href="$slab__common_8c.html#a3e55c82a5c71fd043025b7bccf861f84" title="kzfree" alt="" coords="129,107,187,133"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#ac6bc190c66b2574e643e997173acc1ac" title="__krealloc" alt="" coords="257,31,339,57"/>
+<area shape="rect" id="node5" href="$slab__common_8c.html#a3425dd9f7173bae6d05dd1ce49cb07aa" title="krealloc" alt="" coords="265,81,331,108"/>
+</map>

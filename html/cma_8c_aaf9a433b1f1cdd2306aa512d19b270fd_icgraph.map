@@ -1,0 +1,6 @@
+<map id="cma_debug_show_areas" name="cma_debug_show_areas">
+<area shape="rect" id="node2" href="$cma_8c.html#ab7b64bd3bbc02da60cb88caf5db1c8f1" title="cma_declare_contiguous" alt="" coords="220,5,387,32"/>
+<area shape="rect" id="node3" href="$cma_8c.html#ab69d6e5ae0dbd4321b69e22fd0304031" title="cma_alloc" alt="" coords="263,56,344,83"/>
+<area shape="rect" id="node4" href="$cma__debug_8c.html#a71fc82ab5881d595d195fd4c374880d9" title="cma_alloc_mem" alt="" coords="435,56,552,83"/>
+<area shape="rect" id="node5" href="$cma__debug_8c.html#a185b770046ccda478745c24dfa52bf19" title="cma_alloc_write" alt="" coords="600,56,716,83"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="unmap_mapping_range_tree" name="unmap_mapping_range_tree">
+<area shape="rect" id="node2" href="$memory_8c.html#afb3cdfd244b83569cc07806d0f3420da" title="unmap_mapping_pages" alt="" coords="239,136,397,163"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#adf3d5ee6d0358d3636bd4cc8a1b497db" title="collect_mm_slot" alt="" coords="469,56,586,83"/>
+<area shape="rect" id="node9" href="$memory_8c.html#acdab5131c868494117512298740bcc4b" title="unmap_mapping_range" alt="" coords="903,107,1059,133"/>
+<area shape="rect" id="node13" href="$truncate_8c.html#a79a444c8c50278e343db4282b17de9a8" title="truncate_cleanup_page" alt="" coords="449,161,605,188"/>
+<area shape="rect" id="node20" href="$truncate_8c.html#a224a4da5442ab107e24144f7322d1d81" title="invalidate_inode_pages2\l_range" alt="" coords="445,266,609,307"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#af80aa48b041037d9f64ca05b2a8eeed0" title="khugepaged_scan_mm_slot" alt="" coords="657,5,841,32"/>
+<area shape="rect" id="node6" href="$khugepaged_8c.html#a88f8dc6c3e40b89406aadeb56c179afd" title="khugepaged" alt="" coords="1153,27,1245,53"/>
+<area shape="rect" id="node5" href="$khugepaged_8c.html#ae46b498792188915a54d9aeea6b5c7ed" title="khugepaged_do_scan" alt="" coords="907,5,1055,32"/>
+<area shape="rect" id="node7" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="1327,27,1484,53"/>
+<area shape="rect" id="node8" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="1540,27,1643,53"/>
+<area shape="rect" id="node10" href="$truncate_8c.html#ae32098cc8c6358541ed50ff2a4468d6e" title="truncate_pagecache" alt="" coords="1336,132,1475,159"/>
+<area shape="rect" id="node12" href="$truncate_8c.html#aefacc21bb93cb2225f09063ddbc10647" title="truncate_pagecache\l_range" alt="" coords="1130,129,1269,170"/>
+<area shape="rect" id="node11" href="$truncate_8c.html#ac5876dfb2cc540e49c58ab1be7455275" title="truncate_setsize" alt="" coords="1532,132,1651,159"/>
+<area shape="rect" id="node14" href="$truncate_8c.html#a3fb1d50447ec75b56010088a80f0cc5f" title="truncate_inode_page" alt="" coords="678,161,821,188"/>
+<area shape="rect" id="node16" href="$truncate_8c.html#a2bda1fcb249c68dfe2c995d93277d8bc" title="truncate_inode_pages\l_range" alt="" coords="906,209,1055,250"/>
+<area shape="rect" id="node15" href="$truncate_8c.html#a0675b6211dbef665689993ef391bff98" title="generic_error_remove_page" alt="" coords="889,157,1072,184"/>
+<area shape="rect" id="node17" href="$shmem_8c.html#a7af4bf2ecedac8269e73e968973b6684" title="shmem_truncate_range" alt="" coords="1120,195,1279,221"/>
+<area shape="rect" id="node18" href="$truncate_8c.html#adccecbaab0550d992f959ce8488802a1" title="truncate_inode_pages" alt="" coords="1125,245,1274,272"/>
+<area shape="rect" id="node19" href="$truncate_8c.html#a97c3d1a2e505053eca3ab574b2ed6c2b" title="truncate_inode_pages\l_final" alt="" coords="1331,238,1480,279"/>
+<area shape="rect" id="node21" href="$filemap_8c.html#a7173fb7479e6703c2d76255049946272" title="generic_file_direct\l_write" alt="" coords="686,266,813,307"/>
+<area shape="rect" id="node24" href="$truncate_8c.html#ad1dbb2e32c184e634b74aa91312233b7" title="invalidate_inode_pages2" alt="" coords="667,332,831,359"/>
+<area shape="rect" id="node22" href="$filemap_8c.html#afcc4a74ba046067e2df44e8a3875199c" title="__generic_file_write_iter" alt="" coords="899,275,1062,301"/>
+<area shape="rect" id="node23" href="$filemap_8c.html#aa341d31526dcdf811c67b812a7c66a2f" title="generic_file_write_iter" alt="" coords="1125,296,1273,323"/>
+</map>

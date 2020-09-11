@@ -1,0 +1,5 @@
+<map id="create_boot_cache" name="create_boot_cache">
+<area shape="rect" id="node2" href="$slab__common_8c.html#abef0043d12cbaa6c241347abd6afee9e" title="calculate_alignment" alt="" coords="202,5,339,32"/>
+<area shape="rect" id="node3" href="$slab_8h.html#adc993ec5dac97ddace20ab93a89d4f9c" title="slab_init_memcg_params" alt="" coords="185,56,356,83"/>
+<area shape="rect" id="node4" href="$slab_8c.html#a104f8a638e64eba834c9b05c3eda4de5" title="__kmem_cache_create" alt="" coords="192,107,349,133"/>
+</map>

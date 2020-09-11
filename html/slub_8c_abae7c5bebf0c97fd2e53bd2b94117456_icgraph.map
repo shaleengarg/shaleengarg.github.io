@@ -1,0 +1,23 @@
+<map id="slab_index" name="slab_index">
+<area shape="rect" id="node2" href="$slub_8c.html#a2bf470a5c420289f1f6d4545860a1906" title="cmpxchg_double_slab" alt="" coords="137,93,288,120"/>
+<area shape="rect" id="node19" href="$slub_8c.html#aeea2844d24b9e1251f050e8a8ac33400" title="list_slab_objects" alt="" coords="978,25,1097,52"/>
+<area shape="rect" id="node22" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="960,81,1115,108"/>
+<area shape="rect" id="node3" href="$slub_8c.html#ad1cc666d2ebe79fea1056bc428f1ee74" title="__slab_free" alt="" coords="336,119,425,145"/>
+<area shape="rect" id="node4" href="$slub_8c.html#a9eb06e4dbdc11dc0263b9751563b06c1" title="do_slab_free" alt="" coords="473,119,569,145"/>
+<area shape="rect" id="node5" href="$slub_8c.html#a4b28cc8b3a27cf165dcea0ebfaf00b55" title="slab_free" alt="" coords="617,119,692,145"/>
+<area shape="rect" id="node6" href="$slub_8c.html#a810d496c52cf11dd651bb4777292e8f4" title="kmem_cache_free" alt="" coords="755,195,885,221"/>
+<area shape="rect" id="node17" href="$slub_8c.html#ad71879dc5a858fc6743c68d038db566e" title="kmem_cache_free_bulk" alt="" coords="740,144,900,171"/>
+<area shape="rect" id="node18" href="$slub_8c.html#a8d9b84040f2957bf143976c2d0fa37f7" title="kfree" alt="" coords="795,93,845,120"/>
+<area shape="rect" id="node7" href="$slub_8c.html#aa11761dd2a018ef8b8bbd942159ef21a" title="free_kmem_cache_nodes" alt="" coords="952,167,1123,193"/>
+<area shape="rect" id="node12" href="$slub_8c.html#ad250429e510e18a7955432a16fb18b48" title="slab_mem_offline_callback" alt="" coords="948,231,1127,257"/>
+<area shape="rect" id="node8" href="$slub_8c.html#ac9a7fcfc8462dc44e7aea459a4921648" title="__kmem_cache_release" alt="" coords="1177,205,1339,232"/>
+<area shape="rect" id="node10" href="$slub_8c.html#af1a426aa140c913e6e3f288240862819" title="init_kmem_cache_nodes" alt="" coords="1175,155,1341,181"/>
+<area shape="rect" id="node11" href="$slub_8c.html#a8042a49a0533596273a211ef513871f3" title="kmem_cache_open" alt="" coords="1411,155,1545,181"/>
+<area shape="rect" id="node9" href="$slub_8c.html#a253c5b9f46eb8e929b12eb1f0fd98ad7" title="__kmem_cache_create" alt="" coords="1615,180,1772,207"/>
+<area shape="rect" id="node13" href="$slub_8c.html#af04b112f6055304915a6e113dfd715b8" title="slab_memory_callback" alt="" coords="1181,256,1335,283"/>
+<area shape="rect" id="node14" href="$slab_8c.html#ab09e28feaf70f56a081bfb5ebf48bb1a" title="slab_offline_cpu" alt="" coords="1420,307,1536,333"/>
+<area shape="rect" id="node16" href="$slab_8c.html#ab96ff7a3b2629f59d8ea6fcc5b50d97a" title="kmem_cache_init_late" alt="" coords="1402,256,1554,283"/>
+<area shape="rect" id="node15" href="$slab_8c.html#af68b34311f3905aeeb3128a22d084453" title="cpucache_init" alt="" coords="1642,307,1745,333"/>
+<area shape="rect" id="node20" href="$slub_8c.html#ac3bac68bb93fa1ad33cde1d07ff794d3" title="free_partial" alt="" coords="1215,25,1301,52"/>
+<area shape="rect" id="node21" href="$slub_8c.html#ae4dc3b793efbd9fb28543a1e37d28625" title="__kmem_cache_shutdown" alt="" coords="1389,25,1567,52"/>
+</map>

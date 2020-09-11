@@ -1,0 +1,7 @@
+<map id="free_block" name="free_block">
+<area shape="rect" id="node2" href="$slab_8h.html#afe261ca1029ab42c9c703d4ed0adc8da" title="get_node" alt="" coords="146,5,221,32"/>
+<area shape="rect" id="node3" href="$slab_8c.html#a733b5378353a5e10305230c34182e0da" title="slab_put_obj" alt="" coords="136,56,231,83"/>
+<area shape="rect" id="node4" href="$slab_8c.html#a6f9495022093c3c98888a52fe2bc6498" title="obj_to_index" alt="" coords="279,5,373,32"/>
+<area shape="rect" id="node5" href="$slab_8c.html#a6ba4500ae58032f115ef393c07c856d4" title="get_free_obj" alt="" coords="279,56,373,83"/>
+<area shape="rect" id="node6" href="$slab_8c.html#a6f3d9aa82c318d3de7809140e68c83fa" title="set_free_obj" alt="" coords="279,107,373,133"/>
+</map>

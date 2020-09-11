@@ -1,0 +1,7 @@
+<map id="soft_offline_page" name="soft_offline_page">
+<area shape="rect" id="node2" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="203,5,325,32"/>
+<area shape="rect" id="node5" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="175,56,353,83"/>
+<area shape="rect" id="node3" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="417,5,520,32"/>
+<area shape="rect" id="node4" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="584,5,731,32"/>
+<area shape="rect" id="node6" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="401,56,536,83"/>
+</map>

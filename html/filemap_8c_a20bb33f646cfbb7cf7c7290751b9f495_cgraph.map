@@ -1,0 +1,12 @@
+<map id="__delete_from_page_cache" name="__delete_from_page_cache">
+<area shape="rect" id="node2" href="$filemap_8c.html#a4c0b33dccf2b646923a7a5b72efc7645" title="unaccount_page_cache_page" alt="" coords="192,85,387,112"/>
+<area shape="rect" id="node11" href="$filemap_8c.html#a54f4db297121a8add62ed67f26cfb904" title="page_cache_tree_delete" alt="" coords="208,9,371,36"/>
+<area shape="rect" id="node3" href="$util_8c.html#a50fab1cec74721413aaac7a0014479a4" title="page_mapped" alt="" coords="461,136,563,162"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="665,85,748,112"/>
+<area shape="rect" id="node7" href="$debug_8c.html#ada492eebbcb4d84055f11c3e0d95f647" title="dump_page" alt="" coords="467,186,557,213"/>
+<area shape="rect" id="node10" href="$page-writeback_8c.html#a29eb9804ca6f0d1c8778aa0463f08805" title="account_page_cleaned" alt="" coords="435,34,589,61"/>
+<area shape="rect" id="node6" href="$util_8c.html#a512c1d72bf755e9b5eda83c17b40530b" title="EXPORT_SYMBOL" alt="" coords="637,136,776,162"/>
+<area shape="rect" id="node5" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="824,85,996,112"/>
+<area shape="rect" id="node8" href="$debug_8c.html#a9964bf1b226807ee36658d2f61c5dfdd" title="__dump_page" alt="" coords="655,186,758,213"/>
+<area shape="rect" id="node9" href="$debug_8c.html#a9824e3822cff92f78a202fa85f9fedff" title="EXPORT_SYMBOL" alt="" coords="637,237,776,264"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="vma_resv_map" name="vma_resv_map">
+<area shape="rect" id="node2" href="$interval__tree_8c.html#a3dc4f93f3175b6108af20b9fbd78c951" title="VM_BUG_ON_VMA" alt="" coords="169,5,310,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#a97bb490bdf313a6643bdf0059239d070" title="inode_resv_map" alt="" coords="181,56,298,83"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#aabd416ad8a55f55b17f4d67fd1e34eb6" title="get_vma_private_data" alt="" coords="164,107,315,133"/>
+</map>

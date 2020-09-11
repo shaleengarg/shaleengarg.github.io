@@ -1,0 +1,16 @@
+<map id="drop_slab_node" name="drop_slab_node">
+<area shape="rect" id="node2" href="$memory-failure_8c.html#aed9b9addd6da9105cb51682fc8c4f22f" title="shake_page" alt="" coords="167,109,259,136"/>
+<area shape="rect" id="node15" href="$vmscan_8c.html#aba908994beab5eb92f1ecdf33a7a4176" title="drop_slab" alt="" coords="173,160,252,187"/>
+<area shape="rect" id="node3" href="$hwpoison-inject_8c.html#a2247fa3f9c5eb639a8e5b6e36cd3e2e5" title="hwpoison_inject" alt="" coords="936,8,1051,35"/>
+<area shape="rect" id="node5" href="$memory-failure_8c.html#a5bb3e2d68fd2d8d9b54125f62ae49de7" title="hwpoison_user_mappings" alt="" coords="307,84,479,111"/>
+<area shape="rect" id="node7" href="$memory-failure_8c.html#a2601bce571ed122f848164f1d8a89304" title="memory_failure" alt="" coords="740,84,851,111"/>
+<area shape="rect" id="node13" href="$memory-failure_8c.html#a761dbdfc7793bc54b68316b99a93fbbf" title="get_any_page" alt="" coords="341,185,444,212"/>
+<area shape="rect" id="node4" href="$hwpoison-inject_8c.html#abb0109b07f7d09bcdf3962d992fedba3" title="hwpoison_unpoison" alt="" coords="1131,8,1267,35"/>
+<area shape="rect" id="node6" href="$memory-failure_8c.html#a9915066e9f2a33207497c93037fec06b" title="memory_failure_hugetlb" alt="" coords="527,33,687,60"/>
+<area shape="rect" id="node8" href="$madvise_8c.html#abfe2263974f022fd4ecd178c897b7738" title="madvise_remove" alt="" coords="933,135,1054,161"/>
+<area shape="rect" id="node11" href="$memory-failure_8c.html#ad22af86c6582765622fbe6a5aa33a95d" title="memory_failure_work_func" alt="" coords="904,84,1083,111"/>
+<area shape="rect" id="node9" href="$madvise_8c.html#a86563f3707cae312c627355fc87b3e37" title="madvise_vma" alt="" coords="1147,135,1250,161"/>
+<area shape="rect" id="node10" href="$madvise_8c.html#a6e2ff54e5691a5d6caef588710c0f706" title="SYSCALL_DEFINE3" alt="" coords="1315,135,1461,161"/>
+<area shape="rect" id="node12" href="$memory-failure_8c.html#a93c93545ab47e73ac0edfe742bb4ab81" title="memory_failure_init" alt="" coords="1131,84,1266,111"/>
+<area shape="rect" id="node14" href="$memory-failure_8c.html#a5d5ed10ea90232402f08961d534e7795" title="soft_offline_page" alt="" coords="735,135,856,161"/>
+</map>

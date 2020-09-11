@@ -1,0 +1,7 @@
+<map id="vmap_debug_free_range" name="vmap_debug_free_range">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a1ce1a92eef395a23312aca5a937bcc38" title="vunmap_page_range" alt="" coords="217,5,360,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a5b747c1b6660e956a93d790fb0fd5e0a" title="vunmap_p4d_range" alt="" coords="408,5,543,32"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#abeecc6c56221ed4dd883469a4d71ac32" title="vunmap_pud_range" alt="" coords="591,5,725,32"/>
+<area shape="rect" id="node5" href="$vmalloc_8c.html#ad18852b000b81c87afe718fdc16d4648" title="vunmap_pmd_range" alt="" coords="773,5,912,32"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#ab7660eb425f59b80d018944655b02cc1" title="vunmap_pte_range" alt="" coords="960,5,1092,32"/>
+</map>

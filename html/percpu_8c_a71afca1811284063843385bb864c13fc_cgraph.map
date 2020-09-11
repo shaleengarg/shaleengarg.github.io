@@ -1,0 +1,4 @@
+<map id="pcpu_chunk_slot" name="pcpu_chunk_slot">
+<area shape="rect" id="node2" href="$percpu_8c.html#a20e2ada4f6048f93071db8c1b4d09bbf" title="pcpu_size_to_slot" alt="" coords="173,5,300,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#ae7494ad64ab37aba1e79e186f66f3027" title="__pcpu_size_to_slot" alt="" coords="348,5,489,32"/>
+</map>

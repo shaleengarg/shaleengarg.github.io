@@ -1,0 +1,7 @@
+<map id="slob_page_alloc" name="slob_page_alloc">
+<area shape="rect" id="node2" href="$slob_8c.html#a181c2d9e96e044a6b5102c77fc703cda" title="slob_next" alt="" coords="361,84,440,111"/>
+<area shape="rect" id="node3" href="$slob_8c.html#a37d0e45e7909d4563bb7dc069d90d534" title="slob_units" alt="" coords="200,33,281,60"/>
+<area shape="rect" id="node4" href="$slob_8c.html#a79c78fc1bac427b36930498ad1c2d2ed" title="set_slob" alt="" coords="205,84,276,111"/>
+<area shape="rect" id="node5" href="$slob_8c.html#afdbf8aeed2cbcce76cd9c6847cd8efd6" title="clear_slob_page_free" alt="" coords="168,135,313,161"/>
+<area shape="rect" id="node6" href="$slob_8c.html#acbcb2bbcf1f9b116b1096c15fafd6774" title="slob_last" alt="" coords="203,185,278,212"/>
+</map>

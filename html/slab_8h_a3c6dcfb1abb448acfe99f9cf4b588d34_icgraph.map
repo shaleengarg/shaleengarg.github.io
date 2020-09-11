@@ -1,0 +1,5 @@
+<map id="slab_ksize" name="slab_ksize">
+<area shape="rect" id="node2" href="$slub_8c.html#abfd66e320fec23b046de54de73b3e75e" title="__kmalloc" alt="" coords="137,5,219,32"/>
+<area shape="rect" id="node3" href="$slub_8c.html#afc8dc4d447e2fcaf0835cf292ed1a52d" title="__ksize" alt="" coords="145,56,211,83"/>
+<area shape="rect" id="node4" href="$slub_8c.html#ab0e93546abb17cfe2d83bab459a3f6b0" title="ksize" alt="" coords="267,56,320,83"/>
+</map>

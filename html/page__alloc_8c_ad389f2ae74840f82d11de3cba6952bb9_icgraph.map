@@ -1,0 +1,5 @@
+<map id="DEFINE_STATIC_KEY_TRUE" name="DEFINE_STATIC_KEY_TRUE">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a9d9dd144dbea4aaa8298780ce17223d2" title="clear_zone_contiguous" alt="" coords="259,5,413,32"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="461,5,636,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="684,5,781,32"/>
+</map>

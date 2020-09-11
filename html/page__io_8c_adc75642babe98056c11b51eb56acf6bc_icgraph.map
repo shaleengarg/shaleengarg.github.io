@@ -1,0 +1,8 @@
+<map id="count_swpout_vm_event" name="count_swpout_vm_event">
+<area shape="rect" id="node2" href="$page__io_8c.html#a742b500c9d9c2a1d6a514a5dea264140" title="__swap_writepage" alt="" coords="220,56,351,83"/>
+<area shape="rect" id="node3" href="$page__io_8c.html#aa2840c0b7dcab49a11e6cc38a2b99490" title="swap_writepage" alt="" coords="420,31,536,57"/>
+<area shape="rect" id="node7" href="$zswap_8c.html#aab94f901877d8afbbd802a4442e96319" title="zswap_writeback_entry" alt="" coords="399,81,557,108"/>
+<area shape="rect" id="node4" href="$swapfile_8c.html#ae10f213c9360b5774d0fb0bad0e06788" title="try_to_unuse" alt="" coords="605,31,703,57"/>
+<area shape="rect" id="node5" href="$frontswap_8c.html#a2ebc45616ea5d4637309b8cf3dc30235" title="frontswap_shrink" alt="" coords="763,5,885,32"/>
+<area shape="rect" id="node6" href="$swapfile_8c.html#ab77da03d81581d8413ec7a363eef8a56" title="SYSCALL_DEFINE1" alt="" coords="751,56,897,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="memblock_virt_alloc_try_nid" name="memblock_virt_alloc_try_nid">
+<area shape="rect" id="node2" href="$kasan__init_8c.html#ad314632035509ee50715fd9f99e8730d" title="early_alloc" alt="" coords="245,107,329,133"/>
+<area shape="rect" id="node7" href="$sparse_8c.html#a4a13dc8e5cee42ee899c2a30083d8a86" title="sparse_mem_map_populate" alt="" coords="195,237,380,264"/>
+<area shape="rect" id="node3" href="$kasan__init_8c.html#a45363bfed4874233fd64717fd207c18c" title="zero_pmd_populate" alt="" coords="474,5,609,32"/>
+<area shape="rect" id="node4" href="$kasan__init_8c.html#afe2e0e4b88c60457939c155012b70e03" title="zero_pud_populate" alt="" coords="703,56,833,83"/>
+<area shape="rect" id="node5" href="$kasan__init_8c.html#a7502d0d55821f5875dc47e32f6476ae4" title="zero_p4d_populate" alt="" coords="881,107,1012,133"/>
+<area shape="rect" id="node6" href="$kasan__init_8c.html#a6c29a0b927cd766772f401ba68db9730" title="kasan_populate_zero\l_shadow" alt="" coords="1060,125,1205,166"/>
+<area shape="rect" id="node8" href="$sparse_8c.html#a38f19b6f39db1df1a2d31c8d49898907" title="sparse_mem_maps_populate_node" alt="" coords="428,208,655,235"/>
+<area shape="rect" id="node9" href="$sparse_8c.html#a5b39e883e5959cdc268365eea457aaab" title="sparse_early_mem_map\l_alloc" alt="" coords="459,259,623,301"/>
+<area shape="rect" id="node10" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="725,296,811,323"/>
+</map>

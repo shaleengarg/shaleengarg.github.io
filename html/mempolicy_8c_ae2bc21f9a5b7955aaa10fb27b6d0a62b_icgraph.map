@@ -1,0 +1,6 @@
+<map id="sp_node_init" name="sp_node_init">
+<area shape="rect" id="node2" href="$mempolicy_8c.html#a0f4015726739c9131a815e141b034b98" title="sp_alloc" alt="" coords="188,5,259,32"/>
+<area shape="rect" id="node5" href="$mempolicy_8c.html#af9fbdc086022e999a80184b4f5a16de1" title="shared_policy_replace" alt="" coords="148,56,299,83"/>
+<area shape="rect" id="node3" href="$mempolicy_8c.html#a926a5425a21732e64c23033110c96ce4" title="mpol_set_shared_policy" alt="" coords="347,31,509,57"/>
+<area shape="rect" id="node4" href="$mempolicy_8c.html#acd0d10b3744b5b2574ccdc1ee212ce0e" title="mpol_shared_policy_init" alt="" coords="557,31,719,57"/>
+</map>

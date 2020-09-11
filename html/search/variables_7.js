@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['g_5fbuffdel',['g_buffdel',['../hetero_8c.html#a57bf7238b2c525c03082c3d9cb6b5dae',1,'hetero.c']]],
+  ['g_5fbuffhits',['g_buffhits',['../hetero_8c.html#a8025acf8579a4479d7c233377b3e0448',1,'hetero.c']]],
+  ['g_5fbuffmiss',['g_buffmiss',['../hetero_8c.html#a3a94c7f1ad2e6ee6eb6659c1c3f2142f',1,'hetero.c']]],
+  ['g_5fcachedel',['g_cachedel',['../hetero_8c.html#ab206692340cebe6820bfaa1539af1705',1,'hetero.c']]],
+  ['g_5fcachehits',['g_cachehits',['../hetero_8c.html#aa1a5b7b62a596dba6b2552333f492afb',1,'hetero.c']]],
+  ['g_5fcachemiss',['g_cachemiss',['../hetero_8c.html#ab1cb31a2e17a1f2eff5ac2d6843b0dd7',1,'hetero.c']]],
+  ['g_5fmigrate_5ffreq',['g_migrate_freq',['../hetero_8c.html#a1a5769dbaaf4c2e81a213cae9a5dafdc',1,'hetero.c']]],
+  ['g_5fmigrated',['g_migrated',['../hetero_8c.html#a1f0d77e1b54bde8253de641f048f27a3',1,'hetero.c']]],
+  ['generic_5ffile_5fvm_5fops',['generic_file_vm_ops',['../nommu_8c.html#ae43c5010066d6b0394606f2126218c79',1,'nommu.c']]],
+  ['gfp_5fmask',['gfp_mask',['../structpage__owner.html#af43d9eac09e4563cd3967559100de826',1,'page_owner::gfp_mask()'],['../structscan__control.html#ad1d4eb4d4232536a431bd7fd1b3cb9d2',1,'scan_control::gfp_mask()']]],
+  ['gfpflag_5fnames',['gfpflag_names',['../debug_8c.html#afbfb0979351207e62dda22b8c88c6f5b',1,'gfpflag_names():&#160;debug.c'],['../internal_8h.html#afbfb0979351207e62dda22b8c88c6f5b',1,'gfpflag_names():&#160;debug.c']]],
+  ['global_5fflag',['global_flag',['../filemap_8c.html#a12a103c0459932c46e8bda548def552b',1,'global_flag():&#160;hetero.c'],['../hetero_8c.html#a12a103c0459932c46e8bda548def552b',1,'global_flag():&#160;hetero.c'],['../mempolicy_8c.html#a12a103c0459932c46e8bda548def552b',1,'global_flag():&#160;hetero.c'],['../page__alloc_8c.html#a12a103c0459932c46e8bda548def552b',1,'global_flag():&#160;hetero.c']]],
+  ['global_5fquarantine',['global_quarantine',['../quarantine_8c.html#ae00c20a12c67ae880b010dc74c96d8d8',1,'quarantine.c']]],
+  ['global_5fwb_5fdomain',['global_wb_domain',['../page-writeback_8c.html#a37e9e0c148dd8c366ffda97dc0c5eb22',1,'page-writeback.c']]],
+  ['gray_5flist',['gray_list',['../structkmemleak__object.html#a51156fb9c0c4d52fd3ab6292ca064d77',1,'kmemleak_object']]],
+  ['gup_5fbenchmark_5ffops',['gup_benchmark_fops',['../gup__benchmark_8c.html#ad9f0102ff7c759bf731cb4ac8c5a7cbd',1,'gup_benchmark.c']]]
+];

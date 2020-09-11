@@ -1,0 +1,7 @@
+<map id="DEFINE_SIMPLE_ATTRIBUTE" name="DEFINE_SIMPLE_ATTRIBUTE">
+<area shape="rect" id="node2" href="$cma__debug_8c.html#a120b9ddd1e8b19b12963a26d6ed2c543" title="cma_debugfs_get" alt="" coords="271,5,396,32"/>
+<area shape="rect" id="node3" href="$cma__debug_8c.html#ae7fcf36b9017e9e2e29e682fafa3e096" title="cma_maxchunk_get" alt="" coords="264,56,403,83"/>
+<area shape="rect" id="node4" href="$cma__debug_8c.html#ab72af24b2cc6b4aad264b26f46409eb9" title="cma_free_write" alt="" coords="278,107,389,133"/>
+<area shape="rect" id="node5" href="$cma__debug_8c.html#a185b770046ccda478745c24dfa52bf19" title="cma_alloc_write" alt="" coords="275,157,391,184"/>
+<area shape="rect" id="node6" href="$huge__memory_8c.html#a9428d0d1e308eaab2b806028eb61931a" title="deferred_split_scan" alt="" coords="266,208,401,235"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="nr_free_zone_pages" name="nr_free_zone_pages">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a2ad7eaae33a00f50d56095ba562bf5e8" title="nr_free_buffer_pages" alt="" coords="207,71,351,98"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#afa3592ddc6f731bfb7c8bacbd443444c" title="nr_free_pagecache_pages" alt="" coords="192,147,367,174"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#a2bb249863bfe295bce12d53d8e643817" title="set_recommended_min\l_free_kbytes" alt="" coords="423,5,580,47"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#ad133711c635c337cd2f559361dbd59ab" title="init_per_zone_wmark_min" alt="" coords="415,71,588,98"/>
+<area shape="rect" id="node4" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="645,13,802,39"/>
+<area shape="rect" id="node5" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="885,13,987,39"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="636,122,811,149"/>
+<area shape="rect" id="node8" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1061,173,1159,199"/>
+<area shape="rect" id="node10" href="$page__alloc_8c.html#a34f0403c01d7c4dfc9e39af19db883fd" title="build_all_zonelists" alt="" coords="437,173,565,199"/>
+<area shape="rect" id="node11" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="658,223,789,250"/>
+<area shape="rect" id="node12" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="879,223,993,250"/>
+<area shape="rect" id="node13" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="859,274,1013,301"/>
+</map>

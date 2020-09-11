@@ -1,0 +1,5 @@
+<map id="reserve_mem_notifier" name="reserve_mem_notifier">
+<area shape="rect" id="node2" href="$mmap_8c.html#ac2f59ceec4966444e4819dc741b20dcd" title="init_user_reserve" alt="" coords="205,5,326,32"/>
+<area shape="rect" id="node4" href="$mmap_8c.html#a03d0bf5e72e2c605f196cc52d83abf4f" title="init_admin_reserve" alt="" coords="200,56,331,83"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#adfdacfe6c66c135dbac0fbefc846f294" title="subsys_initcall" alt="" coords="379,31,487,57"/>
+</map>

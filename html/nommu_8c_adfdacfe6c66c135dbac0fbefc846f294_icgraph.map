@@ -1,0 +1,4 @@
+<map id="subsys_initcall" name="subsys_initcall">
+<area shape="rect" id="node2" href="$nommu_8c.html#a4f85ec8cb76e5912008d04f4e25fa1a2" title="init_user_reserve" alt="" coords="166,5,287,32"/>
+<area shape="rect" id="node3" href="$nommu_8c.html#a4ea838fdc95cf2bf77b47e25fa62b777" title="init_admin_reserve" alt="" coords="161,56,292,83"/>
+</map>

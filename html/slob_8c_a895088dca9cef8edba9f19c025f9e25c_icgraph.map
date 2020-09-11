@@ -1,0 +1,9 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$slob_8c.html#aa8b9c5df0378f9197475eeab4367d93f" title="__kmalloc" alt="" coords="234,5,315,32"/>
+<area shape="rect" id="node3" href="$slob_8c.html#a84a79c6ba991de1f84ba92a5b9a4e8c8" title="kfree" alt="" coords="249,56,300,83"/>
+<area shape="rect" id="node4" href="$slob_8c.html#a5ee94f1282b1f7955546d12a32946a96" title="ksize" alt="" coords="248,107,301,133"/>
+<area shape="rect" id="node5" href="$slob_8c.html#a46c9c43b8a376fe02077a5aff649d059" title="kmem_cache_alloc" alt="" coords="207,157,342,184"/>
+<area shape="rect" id="node6" href="$slob_8c.html#a47eb124f61f16d8e4d7c9ae80413a999" title="kmem_cache_free" alt="" coords="210,208,339,235"/>
+<area shape="rect" id="node7" href="$slob_8c.html#ad71879dc5a858fc6743c68d038db566e" title="kmem_cache_free_bulk" alt="" coords="195,259,355,285"/>
+<area shape="rect" id="node8" href="$slob_8c.html#a94dd0935d21a8a28392069b75365d4c2" title="kmem_cache_alloc_bulk" alt="" coords="192,309,357,336"/>
+</map>

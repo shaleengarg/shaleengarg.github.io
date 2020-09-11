@@ -1,0 +1,8 @@
+<map id="__isolate_free_page" name="__isolate_free_page">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#af2386e5c734a5749edb7042eb886b26a" title="zone_watermark_ok" alt="" coords="213,5,352,32"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a7e8cc7df33e968891fa6e954781ee20c" title="rmv_page_order" alt="" coords="225,56,340,83"/>
+<area shape="rect" id="node5" href="$internal_8h.html#a48cc1f6b889a4423f9ea67afaf3e07f1" title="is_migrate_highatomic" alt="" coords="207,107,359,133"/>
+<area shape="rect" id="node6" href="$page__alloc_8c.html#accfc45f8ce3f6887a5427a17f60b0a93" title="set_pageblock_migratetype" alt="" coords="192,157,373,184"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#aeae45c3d82113e4c9083371ad0345c5f" title="__zone_watermark_ok" alt="" coords="421,5,575,32"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#ad665c516bbed60b536bb120d4fe221bd" title="bad_range" alt="" coords="457,157,539,184"/>
+</map>

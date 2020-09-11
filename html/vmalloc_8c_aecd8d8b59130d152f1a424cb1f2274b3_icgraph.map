@@ -1,0 +1,36 @@
+<map id="remove_vm_area" name="remove_vm_area">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#aa2b2525f3cfcad7fd2ef686667e59f74" title="__vunmap" alt="" coords="185,233,268,260"/>
+<area shape="rect" id="node11" href="$vmalloc_8c.html#a404877f32c5654d4e72ea37b15dba6de" title="__vmalloc_area_node" alt="" coords="1752,233,1900,260"/>
+<area shape="rect" id="node34" href="$vmalloc_8c.html#aef11fbe09279a47f2b64adee7d75b1e0" title="free_vm_area" alt="" coords="176,360,277,387"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#ad39f5ebe16b9ca4b5cbea7e87c1dc399" title="free_work" alt="" coords="339,208,418,235"/>
+<area shape="rect" id="node32" href="$vmalloc_8c.html#a2aeead9450a5b920c65bea908edead23" title="vfree" alt="" coords="821,259,872,285"/>
+<area shape="rect" id="node33" href="$vmalloc_8c.html#af115207536ac97045f67feba98e766d5" title="vunmap" alt="" coords="665,31,733,57"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#ab07c7ebcaaf28eac4ad5dcd65ea93853" title="vmalloc_init" alt="" coords="493,208,584,235"/>
+<area shape="rect" id="node5" href="$zsmalloc_8c.html#aee08ba749f59d269d7267cb3d5318a97" title="putback_zspage" alt="" coords="480,157,597,184"/>
+<area shape="rect" id="node6" href="$zsmalloc_8c.html#a10f541bf3d7279ae5e43f6961e8f357a" title="__zs_compact" alt="" coords="645,107,752,133"/>
+<area shape="rect" id="node31" href="$zsmalloc_8c.html#ac50ce1f665189c6ccfe985ebaf292198" title="zs_exit" alt="" coords="1615,208,1679,235"/>
+<area shape="rect" id="node7" href="$zsmalloc_8c.html#a179a42df0e56320cc600f8c2f310d5d3" title="zs_compact" alt="" coords="800,56,893,83"/>
+<area shape="rect" id="node8" href="$zsmalloc_8c.html#aa6cc919a5653fea6468ee5925abf5d34" title="zs_shrinker_scan" alt="" coords="941,56,1065,83"/>
+<area shape="rect" id="node9" href="$zsmalloc_8c.html#a93bff9dc0eac88f4d78efaeb3df92421" title="zs_register_shrinker" alt="" coords="1113,56,1252,83"/>
+<area shape="rect" id="node10" href="$zsmalloc_8c.html#a17972af265b44f55f7bfd888b01057a1" title="zs_create_pool" alt="" coords="1300,56,1411,83"/>
+<area shape="rect" id="node28" href="$zsmalloc_8c.html#a87efe187c73a1aef85da1068ce07988d" title="record_obj" alt="" coords="1459,157,1541,184"/>
+<area shape="rect" id="node12" href="$vmalloc_8c.html#a429cf1f60124c4677ca9df62a1b79675" title="__vmalloc_node_range" alt="" coords="1948,259,2103,285"/>
+<area shape="rect" id="node13" href="$kasan_8c.html#ae6db9be1a4ae607d27359a71ac3ac52c" title="kasan_module_alloc" alt="" coords="2151,259,2291,285"/>
+<area shape="rect" id="node14" href="$vmalloc_8c.html#a15b370e29eddd65501171cc79c20a287" title="__vmalloc_node" alt="" coords="2163,208,2279,235"/>
+<area shape="rect" id="node15" href="$vmalloc_8c.html#a5e0e578efaa6447458f8c31d952fbecb" title="vmap" alt="" coords="2387,5,2441,32"/>
+<area shape="rect" id="node16" href="$vmalloc_8c.html#a91090bb178e20a73cb34f1d4c7ef0718" title="__vmalloc" alt="" coords="2373,157,2455,184"/>
+<area shape="rect" id="node17" href="$vmalloc_8c.html#a22dd063c4104118f97cc26c2046149a7" title="__vmalloc_node_flags" alt="" coords="2339,208,2489,235"/>
+<area shape="rect" id="node21" href="$vmalloc_8c.html#a175661910e41ac7b1181da0bb62dda04" title="__vmalloc_node_flags\l_caller" alt="" coords="2339,259,2489,301"/>
+<area shape="rect" id="node23" href="$vmalloc_8c.html#a913fae521cd79a630eae59a8a484b55f" title="vmalloc_user" alt="" coords="2365,325,2463,352"/>
+<area shape="rect" id="node24" href="$vmalloc_8c.html#ac92b1b77dcb4669edd69cb44cbd7871c" title="vmalloc_node" alt="" coords="2363,376,2465,403"/>
+<area shape="rect" id="node25" href="$vmalloc_8c.html#a00d239c25af91f891be0650808d4e13a" title="vmalloc_exec" alt="" coords="2363,427,2465,453"/>
+<area shape="rect" id="node26" href="$vmalloc_8c.html#ab13f9a0005487cfe0758bf85e071c9cb" title="vmalloc_32" alt="" coords="2370,56,2458,83"/>
+<area shape="rect" id="node27" href="$vmalloc_8c.html#ae2014fd8a09920eded0a575fc8c04d35" title="vmalloc_32_user" alt="" coords="2354,107,2474,133"/>
+<area shape="rect" id="node18" href="$vmalloc_8c.html#a5e7539e7696efb631504a768037b6752" title="vmalloc" alt="" coords="2559,136,2625,163"/>
+<area shape="rect" id="node19" href="$vmalloc_8c.html#a43da4d84c5fb8f3e80b19fea127e018d" title="vzalloc" alt="" coords="2561,187,2623,213"/>
+<area shape="rect" id="node20" href="$vmalloc_8c.html#ac1c04196c0d2df6a303b2cb2fb9af495" title="vzalloc_node" alt="" coords="2543,237,2641,264"/>
+<area shape="rect" id="node22" href="$util_8c.html#a8a86b4efab936dd9e838214b7aedaffa" title="kvmalloc_node" alt="" coords="2537,288,2647,315"/>
+<area shape="rect" id="node29" href="$zsmalloc_8c.html#a62d66dd3ef99c0d74025295c067c8e9c" title="zs_malloc" alt="" coords="1606,157,1687,184"/>
+<area shape="rect" id="node30" href="$zsmalloc_8c.html#a25b97dc10fc0834b948e6bbaaca97137" title="migrate_zspage" alt="" coords="1589,107,1704,133"/>
+<area shape="rect" id="node35" href="$vmalloc_8c.html#a32c634ebc64d8e8a018298ffcced3352" title="alloc_vm_area" alt="" coords="325,360,432,387"/>
+</map>

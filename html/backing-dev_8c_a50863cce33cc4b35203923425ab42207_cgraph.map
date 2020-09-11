@@ -1,0 +1,7 @@
+<map id="bdi_unregister" name="bdi_unregister">
+<area shape="rect" id="node2" href="$backing-dev_8c.html#abcb01be2128c777e0163a97b8c0b8c1e" title="bdi_remove_from_list" alt="" coords="156,5,303,32"/>
+<area shape="rect" id="node3" href="$backing-dev_8c.html#af1dac087bc1205dce2225ac90d095314" title="wb_shutdown" alt="" coords="178,56,281,83"/>
+<area shape="rect" id="node5" href="$backing-dev_8c.html#a825fd070a9a06402e3ce479e3b4b86cd" title="cgwb_bdi_unregister" alt="" coords="159,107,300,133"/>
+<area shape="rect" id="node6" href="$backing-dev_8c.html#a28912c385dd62b49059c45e04dc1c2a4" title="bdi_debug_unregister" alt="" coords="157,157,302,184"/>
+<area shape="rect" id="node4" href="$backing-dev_8c.html#a0bd7941160a71647ea5cb0b9fe9c5b19" title="cgwb_remove_from_bdi_list" alt="" coords="351,56,535,83"/>
+</map>

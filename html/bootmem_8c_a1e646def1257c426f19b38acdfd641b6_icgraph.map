@@ -1,0 +1,4 @@
+<map id="bootmem_bootmap_pages" name="bootmem_bootmap_pages">
+<area shape="rect" id="node2" href="$bootmem_8c.html#a20c86f89b773e1c952a9e810cdbb32ab" title="free_all_bootmem_core" alt="" coords="228,5,385,32"/>
+<area shape="rect" id="node3" href="$bootmem_8c.html#a557a3a8d13b137fcf3b5111066b48355" title="free_all_bootmem" alt="" coords="433,5,559,32"/>
+</map>

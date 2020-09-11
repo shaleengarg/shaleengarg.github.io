@@ -1,0 +1,32 @@
+<map id="memblock_virt_alloc_internal" name="memblock_virt_alloc_internal">
+<area shape="rect" id="node2" href="$memblock_8c.html#a6f2383fb8e45bcda3f204118f6a039a1" title="memblock_virt_alloc\l_try_nid_raw" alt="" coords="195,231,336,273"/>
+<area shape="rect" id="node15" href="$memblock_8c.html#af5264a1e3edcb837af68f66253d20440" title="memblock_virt_alloc\l_try_nid_nopanic" alt="" coords="195,297,336,338"/>
+<area shape="rect" id="node24" href="$memblock_8c.html#a56deef72b1574bfd8587bcda709db9bc" title="memblock_virt_alloc\l_try_nid" alt="" coords="195,394,336,435"/>
+<area shape="rect" id="node3" href="$sparse-vmemmap_8c.html#a47f520140d2f259484057bdfe8ab0388" title="__earlyonly_bootmem\l_alloc" alt="" coords="407,125,556,166"/>
+<area shape="rect" id="node14" href="$sparse_8c.html#a38f19b6f39db1df1a2d31c8d49898907" title="sparse_mem_maps_populate_node" alt="" coords="627,351,853,377"/>
+<area shape="rect" id="node4" href="$sparse-vmemmap_8c.html#a4342b1e28293e6816850bff62f46a943" title="vmemmap_alloc_block" alt="" coords="663,81,817,108"/>
+<area shape="rect" id="node13" href="$sparse-vmemmap_8c.html#a38f19b6f39db1df1a2d31c8d49898907" title="sparse_mem_maps_populate_node" alt="" coords="627,132,853,159"/>
+<area shape="rect" id="node5" href="$sparse-vmemmap_8c.html#ab85c9e54276c3007b9b867c699aa0ed6" title="vmemmap_alloc_block_buf" alt="" coords="905,31,1085,57"/>
+<area shape="rect" id="node8" href="$sparse-vmemmap_8c.html#a05f568a0f214b539c57edfb02b9d9156" title="vmemmap_alloc_block_zero" alt="" coords="901,107,1088,133"/>
+<area shape="rect" id="node6" href="$sparse-vmemmap_8c.html#ad49d00152c0aca08a81690c060c1e69c" title="vmemmap_pte_populate" alt="" coords="1139,5,1303,32"/>
+<area shape="rect" id="node7" href="$sparse-vmemmap_8c.html#a87dd1a94f678b72da74f482d75e33be5" title="vmemmap_populate_basepages" alt="" coords="1355,107,1564,133"/>
+<area shape="rect" id="node9" href="$sparse-vmemmap_8c.html#a95ada59c2a64645485afdffae7fcf6a6" title="vmemmap_pmd_populate" alt="" coords="1136,56,1307,83"/>
+<area shape="rect" id="node10" href="$sparse-vmemmap_8c.html#a3e9d32ca02b8001ca8cfb3a00ad8abc9" title="vmemmap_pud_populate" alt="" coords="1138,107,1305,133"/>
+<area shape="rect" id="node11" href="$sparse-vmemmap_8c.html#aa73b6028c05a02efe924039a347573d1" title="vmemmap_p4d_populate" alt="" coords="1138,157,1305,184"/>
+<area shape="rect" id="node12" href="$sparse-vmemmap_8c.html#abf004a4d1b1ee370192196c0aa8f450c" title="vmemmap_pgd_populate" alt="" coords="1138,208,1305,235"/>
+<area shape="rect" id="node16" href="$hugetlb_8c.html#aba48ee686bcda05ccce63f1caf2e2884" title="__alloc_bootmem_huge_page" alt="" coords="384,296,579,323"/>
+<area shape="rect" id="node17" href="$page__ext_8c.html#a09c7aaf96d2dd3325bf1729e45598bdd" title="alloc_node_page_ext" alt="" coords="409,347,553,373"/>
+<area shape="rect" id="node19" href="$sparse_8c.html#ac6d7445d62408637962bb1a3230b26c7" title="usemap_size" alt="" coords="432,195,531,221"/>
+<area shape="rect" id="node18" href="$page__ext_8c.html#a54193fd2141285fb96df576c2c9cd214" title="page_ext_init_flatmem" alt="" coords="663,300,817,327"/>
+<area shape="rect" id="node20" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="653,183,827,209"/>
+<area shape="rect" id="node22" href="$sparse_8c.html#a88cd8e0415a78afdc6cbc05f35fbed37" title="sparse_early_usemaps\l_alloc_node" alt="" coords="662,234,818,275"/>
+<area shape="rect" id="node21" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="946,183,1043,209"/>
+<area shape="rect" id="node23" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="952,401,1037,428"/>
+<area shape="rect" id="node25" href="$kasan__init_8c.html#ad314632035509ee50715fd9f99e8730d" title="early_alloc" alt="" coords="439,569,523,596"/>
+<area shape="rect" id="node30" href="$sparse_8c.html#a4a13dc8e5cee42ee899c2a30083d8a86" title="sparse_mem_map_populate" alt="" coords="389,401,574,428"/>
+<area shape="rect" id="node26" href="$kasan__init_8c.html#a45363bfed4874233fd64717fd207c18c" title="zero_pmd_populate" alt="" coords="673,519,807,545"/>
+<area shape="rect" id="node27" href="$kasan__init_8c.html#afe2e0e4b88c60457939c155012b70e03" title="zero_pud_populate" alt="" coords="929,569,1060,596"/>
+<area shape="rect" id="node28" href="$kasan__init_8c.html#a7502d0d55821f5875dc47e32f6476ae4" title="zero_p4d_populate" alt="" coords="1156,620,1287,647"/>
+<area shape="rect" id="node29" href="$kasan__init_8c.html#a6c29a0b927cd766772f401ba68db9730" title="kasan_populate_zero\l_shadow" alt="" coords="1387,638,1532,679"/>
+<area shape="rect" id="node31" href="$sparse_8c.html#a5b39e883e5959cdc268365eea457aaab" title="sparse_early_mem_map\l_alloc" alt="" coords="658,453,822,494"/>
+</map>

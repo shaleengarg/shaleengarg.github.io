@@ -1,0 +1,10 @@
+<map id="pcpu_block_update_hint_free" name="pcpu_block_update_hint_free">
+<area shape="rect" id="node2" href="$percpu_8c.html#ae508d1060484cd57cafeb7dd34760f42" title="pcpu_off_to_block_index" alt="" coords="244,5,411,32"/>
+<area shape="rect" id="node3" href="$percpu_8c.html#aa9b3005a2fea9e0994f21aceb1cabef9" title="pcpu_off_to_block_off" alt="" coords="252,56,403,83"/>
+<area shape="rect" id="node4" href="$percpu_8c.html#aadd8aed569a4c7e36ce49ea77b2d430e" title="pcpu_index_alloc_map" alt="" coords="250,107,405,133"/>
+<area shape="rect" id="node5" href="$percpu_8c.html#a931a53a033a4a4099798aa10235761e9" title="pcpu_block_update" alt="" coords="260,157,395,184"/>
+<area shape="rect" id="node6" href="$percpu_8c.html#af076c72e4f43d64a26b998d6c0440b12" title="pcpu_chunk_refresh_hint" alt="" coords="244,259,411,285"/>
+<area shape="rect" id="node7" href="$percpu_8c.html#a0c86388800b0d4b99c2d870006ce1dd7" title="pcpu_chunk_update" alt="" coords="462,208,601,235"/>
+<area shape="rect" id="node9" href="$percpu_8c.html#af9eb05e5bc871a20f24b6822da3fd635" title="pcpu_block_off_to_off" alt="" coords="252,309,403,336"/>
+<area shape="rect" id="node8" href="$percpu_8c.html#a7086cefbd089bf2e1e57e16be92cef55" title="pcpu_cnt_pop_pages" alt="" coords="459,259,604,285"/>
+</map>

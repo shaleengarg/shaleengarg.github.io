@@ -1,0 +1,7 @@
+<map id="apply_to_pte_range" name="apply_to_pte_range">
+<area shape="rect" id="node2" href="$memory_8c.html#add2a135130ea4427482eb300c9ebd5f6" title="apply_to_pmd_range" alt="" coords="188,5,331,32"/>
+<area shape="rect" id="node3" href="$memory_8c.html#af7c199286369860b2282c990a4fd3563" title="apply_to_pud_range" alt="" coords="379,5,517,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#a928e6171b81983fdd94e58498c847934" title="apply_to_p4d_range" alt="" coords="565,5,704,32"/>
+<area shape="rect" id="node5" href="$memory_8c.html#a73882225d54e4b0916f6fe69136c0ca9" title="apply_to_page_range" alt="" coords="752,5,897,32"/>
+<area shape="rect" id="node6" href="$vmalloc_8c.html#a32c634ebc64d8e8a018298ffcced3352" title="alloc_vm_area" alt="" coords="945,5,1052,32"/>
+</map>

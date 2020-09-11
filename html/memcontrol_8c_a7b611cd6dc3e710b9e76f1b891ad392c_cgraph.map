@@ -1,0 +1,6 @@
+<map id="mem_cgroup_soft_reclaim" name="mem_cgroup_soft_reclaim">
+<area shape="rect" id="node2" href="$memcontrol_8c.html#a5b7f1bbe6752b130ea33ea2695bdc862" title="soft_limit_excess" alt="" coords="247,5,371,32"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#a691dc881cb068f156ceab87d90505686" title="mem_cgroup_iter" alt="" coords="247,56,370,83"/>
+<area shape="rect" id="node4" href="$memcontrol_8c.html#a9d0260b0dca7b94839c41a75ce96e596" title="mem_cgroup_iter_break" alt="" coords="228,107,389,133"/>
+<area shape="rect" id="node5" href="$memcontrol_8c.html#a37668d01b606539eed5fb1405fd850d8" title="DEFINE_SPINLOCK" alt="" coords="235,157,382,184"/>
+</map>

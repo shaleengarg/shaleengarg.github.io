@@ -1,0 +1,5 @@
+<map id="update_defer_init" name="update_defer_init">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#af412bbfd08b49bd3b913fdbc93512bf9" title="memmap_init_zone" alt="" coords="175,5,309,32"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="357,5,532,32"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="580,5,677,32"/>
+</map>

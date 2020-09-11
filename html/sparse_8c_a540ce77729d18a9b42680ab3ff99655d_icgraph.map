@@ -1,0 +1,16 @@
+<map id="__section_nr" name="__section_nr">
+<area shape="rect" id="node2" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="899,5,1073,32"/>
+<area shape="rect" id="node4" href="$sparse_8c.html#a549024037cf3037e6b39206a9eb2f3f8" title="sparse_index_init" alt="" coords="163,100,286,127"/>
+<area shape="rect" id="node14" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="362,151,447,177"/>
+<area shape="rect" id="node15" href="$sparse_8c.html#a0919137581aba0bba20060084172c4b2" title="section_mark_present" alt="" coords="149,201,300,228"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="1685,56,1783,83"/>
+<area shape="rect" id="node5" href="$sparse_8c.html#a5d67f61e70c5554754d5678d78c7ddad" title="set_section_nid" alt="" coords="348,49,461,76"/>
+<area shape="rect" id="node6" href="$sparse_8c.html#ac7e26c77a3b71e5805d79fd17f0081ec" title="memory_present" alt="" coords="509,97,628,124"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a27a5ac390249be689250ac28940b94ce" title="init_currently_empty_zone" alt="" coords="676,72,851,99"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#a64e170fdacab5e117b4bccb29f90707a" title="free_area_init_core" alt="" coords="920,72,1052,99"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#aa2b3ef247802ed4677cb83ebc537ae52" title="free_area_init_node" alt="" coords="1121,72,1256,99"/>
+<area shape="rect" id="node10" href="$memory__hotplug_8c.html#a604b0b375cd22ec0110a284d6e9ce64e" title="hotadd_new_pgdat" alt="" coords="1304,68,1435,95"/>
+<area shape="rect" id="node13" href="$page__alloc_8c.html#a1d9cbc57aa0abd9bb35987a8f9093a99" title="free_area_init" alt="" coords="1319,119,1419,145"/>
+<area shape="rect" id="node11" href="$memory__hotplug_8c.html#a35f63e3405cec4f2f713d0d3eb7305be" title="try_online_node" alt="" coords="1503,56,1617,83"/>
+<area shape="rect" id="node12" href="$memory__hotplug_8c.html#ad4d62e0e6c15f064a29d522004d85cc4" title="add_memory_resource" alt="" coords="1483,107,1637,133"/>
+</map>

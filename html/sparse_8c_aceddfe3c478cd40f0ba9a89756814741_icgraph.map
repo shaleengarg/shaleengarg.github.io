@@ -1,0 +1,9 @@
+<map id="sparse_early_nid" name="sparse_early_nid">
+<area shape="rect" id="node2" href="$sparse_8c.html#ac6d7445d62408637962bb1a3230b26c7" title="usemap_size" alt="" coords="219,64,318,91"/>
+<area shape="rect" id="node7" href="$sparse_8c.html#a5b39e883e5959cdc268365eea457aaab" title="sparse_early_mem_map\l_alloc" alt="" coords="417,122,581,163"/>
+<area shape="rect" id="node8" href="$sparse_8c.html#adb18cd42f2880b0e79cfbd2d9be97436" title="alloc_usemap_and_memmap" alt="" coords="173,184,364,211"/>
+<area shape="rect" id="node3" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="412,5,587,32"/>
+<area shape="rect" id="node5" href="$sparse_8c.html#a88cd8e0415a78afdc6cbc05f35fbed37" title="sparse_early_usemaps\l_alloc_node" alt="" coords="421,57,577,98"/>
+<area shape="rect" id="node4" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="635,5,732,32"/>
+<area shape="rect" id="node6" href="$sparse_8c.html#a386fbbce62b1deead6843942bd8ca76e" title="sparse_init" alt="" coords="641,129,726,156"/>
+</map>

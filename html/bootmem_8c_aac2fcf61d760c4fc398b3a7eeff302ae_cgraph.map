@@ -1,0 +1,4 @@
+<map id="mark_bootmem_node" name="mark_bootmem_node">
+<area shape="rect" id="node2" href="$bootmem_8c.html#ad6d29406f7c69c8e7e60a4b96a56a1d9" title="__reserve" alt="" coords="200,5,279,32"/>
+<area shape="rect" id="node3" href="$bootmem_8c.html#ad6631fc75c59850b6f637485172f2334" title="__free" alt="" coords="327,31,385,57"/>
+</map>

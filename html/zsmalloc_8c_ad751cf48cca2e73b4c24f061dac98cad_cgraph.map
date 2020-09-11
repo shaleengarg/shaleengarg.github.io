@@ -1,0 +1,8 @@
+<map id="zs_stat_get" name="zs_stat_get">
+<area shape="rect" id="node2" href="$zsmalloc_8c.html#a4b9d47d9128451baec196cd9d013605d" title="zs_stat_init" alt="" coords="201,5,290,32"/>
+<area shape="rect" id="node3" href="$zsmalloc_8c.html#a7487e971698d72fffbb3070fd01c7440" title="zs_stat_exit" alt="" coords="199,56,292,83"/>
+<area shape="rect" id="node4" href="$zsmalloc_8c.html#ae2a9c98069b92eb32bf061c96f74ec28" title="zs_can_compact" alt="" coords="185,107,306,133"/>
+<area shape="rect" id="node5" href="$percpu-stats_8c.html#a0baf7de89a25e4c159eb9f1a5f3dd8f7" title="DEFINE_SHOW_ATTRIBUTE" alt="" coords="144,157,347,184"/>
+<area shape="rect" id="node6" href="$zsmalloc_8c.html#a169bd41a2e790656f3572ac0d3f98e6f" title="zs_pool_stat_create" alt="" coords="176,208,315,235"/>
+<area shape="rect" id="node7" href="$zsmalloc_8c.html#a9311875e6296f9a27a2f33b1d2fbe2ed" title="zs_pool_stat_destroy" alt="" coords="172,259,319,285"/>
+</map>

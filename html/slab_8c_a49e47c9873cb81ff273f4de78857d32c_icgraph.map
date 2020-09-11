@@ -1,0 +1,4 @@
+<map id="get_slabinfo" name="get_slabinfo">
+<area shape="rect" id="node2" href="$slab__common_8c.html#a3f8a38873a247d31ca25e15c8676dcc3" title="kmalloc_order" alt="" coords="171,5,274,32"/>
+<area shape="rect" id="node3" href="$slub_8c.html#a996215f007f4adba570ace3edd1e4aa9" title="__kmalloc_track_caller" alt="" coords="145,56,300,83"/>
+</map>

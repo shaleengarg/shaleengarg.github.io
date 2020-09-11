@@ -1,0 +1,5 @@
+<map id="vm_mixed_ok" name="vm_mixed_ok">
+<area shape="rect" id="node2" href="$memory_8c.html#a423f56b638cbbe845241987b9aa60ba0" title="__vm_insert_mixed" alt="" coords="156,31,291,57"/>
+<area shape="rect" id="node3" href="$memory_8c.html#a86db3a4c8645bcccc041e81a164458a1" title="vm_insert_mixed" alt="" coords="365,5,487,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#aedfc5b9612dee0a24fddb16d6cd0ac4e" title="vm_insert_mixed_mkwrite" alt="" coords="339,56,513,83"/>
+</map>

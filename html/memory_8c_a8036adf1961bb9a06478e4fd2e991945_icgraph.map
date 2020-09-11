@@ -1,0 +1,7 @@
+<map id="insert_pfn" name="insert_pfn">
+<area shape="rect" id="node2" href="$memory_8c.html#a9e4c5a8e4d13ba6e0288b3a77a8d0bc6" title="vm_insert_pfn_prot" alt="" coords="133,5,266,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#a423f56b638cbbe845241987b9aa60ba0" title="__vm_insert_mixed" alt="" coords="132,56,267,83"/>
+<area shape="rect" id="node3" href="$memory_8c.html#ad0b70cea9f94e7b19e229a1c8a826d2c" title="vm_insert_pfn" alt="" coords="350,5,454,32"/>
+<area shape="rect" id="node5" href="$memory_8c.html#a86db3a4c8645bcccc041e81a164458a1" title="vm_insert_mixed" alt="" coords="341,56,463,83"/>
+<area shape="rect" id="node6" href="$memory_8c.html#aedfc5b9612dee0a24fddb16d6cd0ac4e" title="vm_insert_mixed_mkwrite" alt="" coords="315,107,489,133"/>
+</map>

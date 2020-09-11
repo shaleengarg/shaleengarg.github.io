@@ -1,0 +1,8 @@
+<map id="alloc_pages_exact" name="alloc_pages_exact">
+<area shape="rect" id="node2" href="$page__alloc_8c.html#a44d62a64a9769a942b419e3d4530c74b" title="__get_free_pages" alt="" coords="185,5,310,32"/>
+<area shape="rect" id="node3" href="$page__alloc_8c.html#a64d1e974edaf4d3682553d5f72c9cd59" title="EXPORT_SYMBOL" alt="" coords="359,31,497,57"/>
+<area shape="rect" id="node4" href="$page__alloc_8c.html#a679252a9d2ffc973b0134a3eddabd90e" title="make_alloc_exact" alt="" coords="184,107,311,133"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#abd23d9d1d47d00b0433cad037f8d4972" title="split_page" alt="" coords="387,107,469,133"/>
+<area shape="rect" id="node6" href="$internal_8h.html#aaeb745323abb43a1fc01621ac0ea0a31" title="set_page_refcounted" alt="" coords="560,81,703,108"/>
+<area shape="rect" id="node7" href="$page__alloc_8c.html#a65c5e5a988f68356f2ea192477ea3ade" title="EXPORT_SYMBOL_GPL" alt="" coords="545,132,717,159"/>
+</map>

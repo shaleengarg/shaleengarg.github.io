@@ -1,0 +1,6 @@
+<map id="work_to_vmpressure" name="work_to_vmpressure">
+<area shape="rect" id="node2" href="$vmpressure_8c.html#a07ee52d679163ccf993f8acee6a51d12" title="vmpressure" alt="" coords="196,31,287,57"/>
+<area shape="rect" id="node3" href="$memcontrol_8c.html#aad89124c74383e9da7e1ed48bebaa665" title="memcg_to_vmpressure" alt="" coords="335,5,493,32"/>
+<area shape="rect" id="node4" href="$vmpressure_8c.html#adb47cc6f14e7926b0315878b25d4369a" title="vmpressure_calc_level" alt="" coords="337,56,491,83"/>
+<area shape="rect" id="node5" href="$vmpressure_8c.html#abaf48790d76aff587fff696669de2772" title="vmpressure_level" alt="" coords="541,56,665,83"/>
+</map>

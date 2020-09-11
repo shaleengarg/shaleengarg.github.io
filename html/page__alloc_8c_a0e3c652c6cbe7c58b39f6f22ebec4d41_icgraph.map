@@ -1,0 +1,10 @@
+<map id="setup_per_zone_wmarks" name="setup_per_zone_wmarks">
+<area shape="rect" id="node2" href="$khugepaged_8c.html#a2bb249863bfe295bce12d53d8e643817" title="set_recommended_min\l_free_kbytes" alt="" coords="228,5,385,47"/>
+<area shape="rect" id="node5" href="$page__alloc_8c.html#ad133711c635c337cd2f559361dbd59ab" title="init_per_zone_wmark_min" alt="" coords="220,71,393,98"/>
+<area shape="rect" id="node8" href="$page__alloc_8c.html#aa1549f06468272c014cc7c0f753a469b" title="core_initcall" alt="" coords="261,122,352,149"/>
+<area shape="rect" id="node9" href="$page__alloc_8c.html#a38ad5ddcaae200793660651f6cb6d22c" title="watermark_scale_factor\l_sysctl_handler" alt="" coords="226,173,387,215"/>
+<area shape="rect" id="node3" href="$khugepaged_8c.html#abb45a88e416a6aa6c13e7dd71ae6f138" title="start_stop_khugepaged" alt="" coords="450,13,607,39"/>
+<area shape="rect" id="node4" href="$huge__memory_8c.html#ae1136b0e84e3c47e22fceffcbae9a34f" title="hugepage_init" alt="" coords="664,13,767,39"/>
+<area shape="rect" id="node6" href="$memory__hotplug_8c.html#ab5f31ea8396ae65122263fd69878a199" title="release_memory_resource" alt="" coords="441,67,616,94"/>
+<area shape="rect" id="node7" href="$memory__hotplug_8c.html#a76498e0db90d5714b13618891acbb561" title="add_memory" alt="" coords="667,93,764,119"/>
+</map>

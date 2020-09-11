@@ -1,0 +1,4 @@
+<map id="get_vm_area_caller" name="get_vm_area_caller">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a5e0e578efaa6447458f8c31d952fbecb" title="vmap" alt="" coords="214,5,269,32"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#a32c634ebc64d8e8a018298ffcced3352" title="alloc_vm_area" alt="" coords="188,56,295,83"/>
+</map>

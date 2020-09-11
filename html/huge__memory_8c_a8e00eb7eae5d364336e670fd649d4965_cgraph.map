@@ -1,0 +1,5 @@
+<map id="can_split_huge_page" name="can_split_huge_page">
+<area shape="rect" id="node2" href="$huge__memory_8c.html#a153ae6a21ead9dab47baab70a92af395" title="total_mapcount" alt="" coords="197,5,308,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#ae902859beabc80612b29ff8e0d3a1169" title="PageHuge" alt="" coords="356,5,439,32"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a48f2549647e95da89eefd8338c35cb0e" title="EXPORT_SYMBOL_GPL" alt="" coords="487,5,659,32"/>
+</map>

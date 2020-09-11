@@ -1,0 +1,7 @@
+<map id="vma_set_page_prot" name="vma_set_page_prot">
+<area shape="rect" id="node2" href="$mmap_8c.html#a35dd51941f88cad56146c86c2c917489" title="vm_pgprot_modify" alt="" coords="393,31,523,57"/>
+<area shape="rect" id="node6" href="$mmap_8c.html#aaa3bb932a96c7a8239729a14f1ca7646" title="vma_wants_writenotify" alt="" coords="189,56,345,83"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#ae53310e1d402d1b80f6d2b6c05546d7b" title="vm_get_page_prot" alt="" coords="571,31,700,57"/>
+<area shape="rect" id="node4" href="$mmap_8c.html#a3ddbe153f1a03ea29372e4a0c71599ac" title="arch_filter_pgprot" alt="" coords="756,5,879,32"/>
+<area shape="rect" id="node5" href="$mmap_8c.html#a28a1850da76d6c47af5f78224f34f32e" title="EXPORT_SYMBOL" alt="" coords="748,56,887,83"/>
+</map>

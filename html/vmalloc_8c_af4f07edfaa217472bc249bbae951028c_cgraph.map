@@ -1,0 +1,5 @@
+<map id="vmalloc_to_pfn" name="vmalloc_to_pfn">
+<area shape="rect" id="node2" href="$vmalloc_8c.html#a4ab352c69d00167729ae2f262fd0200d" title="vmalloc_to_page" alt="" coords="164,5,284,32"/>
+<area shape="rect" id="node4" href="$vmalloc_8c.html#a6e84caff1853975ff5227cca65416925" title="EXPORT_SYMBOL" alt="" coords="354,56,493,83"/>
+<area shape="rect" id="node3" href="$vmalloc_8c.html#ad8d1140e5d3b0e178828da01e85dda93" title="is_vmalloc_or_module_addr" alt="" coords="332,5,515,32"/>
+</map>

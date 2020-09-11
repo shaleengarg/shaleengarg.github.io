@@ -1,0 +1,5 @@
+<map id="create_kmalloc_cache" name="create_kmalloc_cache">
+<area shape="rect" id="node2" href="$slab_8c.html#ae30738b69a6fc9386d3327f183901baa" title="kmem_cache_init" alt="" coords="600,5,724,32"/>
+<area shape="rect" id="node3" href="$slab__common_8c.html#a7be750396b86f3cb20aa74621a4b596f" title="new_kmalloc_cache" alt="" coords="205,31,345,57"/>
+<area shape="rect" id="node4" href="$slab__common_8c.html#a3b6321ff113165ff662a0b20d1c22622" title="create_kmalloc_caches" alt="" coords="393,31,552,57"/>
+</map>

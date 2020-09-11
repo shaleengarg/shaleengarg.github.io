@@ -1,0 +1,14 @@
+<map id="init_page_owner" name="init_page_owner">
+<area shape="rect" id="node2" href="$page__owner_8c.html#a52cbc0edd178acb317c734fcbab34261" title="register_dummy_stack" alt="" coords="169,5,324,32"/>
+<area shape="rect" id="node4" href="$page__owner_8c.html#ad0250814f55ee5b3d4814f7ccccaca0c" title="register_failure_stack" alt="" coords="173,56,320,83"/>
+<area shape="rect" id="node5" href="$page__owner_8c.html#a25f7611d861ad723c4217dca416d5f66" title="register_early_stack" alt="" coords="177,107,316,133"/>
+<area shape="rect" id="node6" href="$page__owner_8c.html#aee3967253fb5c17c453c5bcca3d88f24" title="init_early_allocated\l_pages" alt="" coords="180,158,313,199"/>
+<area shape="rect" id="node3" href="$page__owner_8c.html#a5ef40d68f0a9872dc1d8dad0af3716a3" title="create_dummy_stack" alt="" coords="372,56,519,83"/>
+<area shape="rect" id="node7" href="$page__owner_8c.html#a48311880f87f26f7931c06ebfcd8a78f" title="init_zones_in_node" alt="" coords="379,165,512,192"/>
+<area shape="rect" id="node8" href="$page__owner_8c.html#a2acd9517aa93266ed6d44d6fb686ad51" title="init_pages_in_zone" alt="" coords="567,165,700,192"/>
+<area shape="rect" id="node9" href="$page__ext_8c.html#a6177a169f04ab74f9105c488e4637692" title="lookup_page_ext" alt="" coords="776,140,896,167"/>
+<area shape="rect" id="node12" href="$page__owner_8c.html#aec86fab011c7010dd8eb863a80062e59" title="__set_page_owner_handle" alt="" coords="748,191,924,217"/>
+<area shape="rect" id="node10" href="$page__ext_8c.html#aed652bf58356a3fd196481685f4bc1d4" title="get_entry" alt="" coords="993,140,1069,167"/>
+<area shape="rect" id="node11" href="$page__ext_8c.html#afa0aa3c75e78eafd1b790b9a905ec984" title="get_entry_size" alt="" coords="1137,140,1244,167"/>
+<area shape="rect" id="node13" href="$page__owner_8c.html#ab1a985c11fe289f336d01bc8d05015d9" title="get_page_owner" alt="" coords="972,191,1089,217"/>
+</map>

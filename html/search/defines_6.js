@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['flush_5fhugetlb_5ftlb_5frange',['flush_hugetlb_tlb_range',['../hugetlb_8c.html#a6e741281e5e8862f1b22ab1b633d6f80',1,'hugetlb.c']]],
+  ['flushing_5fcached_5fcharge',['FLUSHING_CACHED_CHARGE',['../memcontrol_8c.html#a3c28366e6c07d9110b5096ca72b73e2b',1,'memcontrol.c']]],
+  ['for_5feach_5ffrontswap_5fops',['for_each_frontswap_ops',['../frontswap_8c.html#ad87a9b5d3d34b7d8910c72e9f62cb7b1',1,'frontswap.c']]],
+  ['for_5feach_5fkmem_5fcache_5fnode',['for_each_kmem_cache_node',['../slab_8h.html#aa1a90f5e37d38adf2f66ed7d319b7fdf',1,'slab.h']]],
+  ['for_5feach_5fmem_5fcgroup',['for_each_mem_cgroup',['../memcontrol_8c.html#a5ca22bbcefa01d1da5747d18802337a2',1,'memcontrol.c']]],
+  ['for_5feach_5fmem_5fcgroup_5ftree',['for_each_mem_cgroup_tree',['../memcontrol_8c.html#a04b823d6bf0d89c9ae3ef5dde0fd8647',1,'memcontrol.c']]],
+  ['for_5feach_5fmemcg_5fcache',['for_each_memcg_cache',['../slab_8h.html#ab7e888617f45fa77357357a8a59486c5',1,'slab.h']]],
+  ['for_5feach_5fnode_5fmask_5fto_5falloc',['for_each_node_mask_to_alloc',['../hugetlb_8c.html#a640bb6b1f4d4e00daa76010d767622cd',1,'hugetlb.c']]],
+  ['for_5feach_5fnode_5fmask_5fto_5ffree',['for_each_node_mask_to_free',['../hugetlb_8c.html#a7bdcc1dfd7ee917f7c7ad3c9c2f523e4',1,'hugetlb.c']]],
+  ['for_5feach_5fobject',['for_each_object',['../slub_8c.html#a46cfaca21aca0a21eb22cb86c88e0340',1,'slub.c']]],
+  ['for_5feach_5fobject_5fidx',['for_each_object_idx',['../slub_8c.html#a8561710aa4a83291bfe455d174759e01',1,'slub.c']]],
+  ['for_5feach_5fpresent_5fsection_5fnr',['for_each_present_section_nr',['../sparse_8c.html#a0ac657fc0cbfab4a44a7eedccb6ccdd4',1,'sparse.c']]],
+  ['for_5feach_5funbuddied_5flist',['for_each_unbuddied_list',['../z3fold_8c.html#a4ed45c8f72ac3cceaa7ed3bc8c0c7bc8',1,'for_each_unbuddied_list():&#160;z3fold.c'],['../zbud_8c.html#a4ed45c8f72ac3cceaa7ed3bc8c0c7bc8',1,'for_each_unbuddied_list():&#160;zbud.c']]],
+  ['forced_5fdebug',['FORCED_DEBUG',['../slab_8c.html#a6c6343e9c275f168afed6fb8276718e9',1,'slab.c']]],
+  ['fraction_5fof_5fnode_5fmem',['FRACTION_OF_NODE_MEM',['../quicklist_8c.html#a93c772a7e5bb7b4fa0165fb217eac8f6',1,'quicklist.c']]],
+  ['freelist_5fbyte_5findex',['FREELIST_BYTE_INDEX',['../slab_8c.html#abf60d5d47808a71b36a2d698508b3850',1,'slab.c']]],
+  ['freqcheck',['FREQCHECK',['../hetero_8c.html#a4da18067e33836bcc0a597b50b1fe0c9',1,'hetero.c']]],
+  ['fullness_5fbits',['FULLNESS_BITS',['../zsmalloc_8c.html#a5e7c7b8ce55f263b5404fb811f8c9125',1,'zsmalloc.c']]]
+];

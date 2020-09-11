@@ -1,0 +1,8 @@
+<map id="remove_element" name="remove_element">
+<area shape="rect" id="node2" href="$mempool_8c.html#ac40e30790f106f89ae7b3c8516a9fd3a" title="mempool_destroy" alt="" coords="172,5,297,32"/>
+<area shape="rect" id="node5" href="$mempool_8c.html#aecd15e925f9313b0de65880ea0179a03" title="mempool_resize" alt="" coords="176,56,293,83"/>
+<area shape="rect" id="node6" href="$mempool_8c.html#aa95a82cc0f5e14fd62818487b139fd85" title="mempool_alloc" alt="" coords="180,107,289,133"/>
+<area shape="rect" id="node7" href="$mempool_8c.html#a91f3a618909353ee778baf7e2a2b4eb4" title="mempool_kfree" alt="" coords="179,157,290,184"/>
+<area shape="rect" id="node3" href="$mempool_8c.html#a8619a59cf2fab55f2a5b0ad6be94bab9" title="mempool_create_node" alt="" coords="345,5,499,32"/>
+<area shape="rect" id="node4" href="$mempool_8c.html#a2755de9ff9451b1589e0c1a0e9159539" title="mempool_create" alt="" coords="547,5,665,32"/>
+</map>

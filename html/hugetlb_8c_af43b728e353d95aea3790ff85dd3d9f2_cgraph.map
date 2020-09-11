@@ -1,0 +1,5 @@
+<map id="hugetlb_sysfs_init" name="hugetlb_sysfs_init">
+<area shape="rect" id="node2" href="$hugetlb_8c.html#a1fa394ce3abfa0f1a127108c4d13af30" title="hugetlb_sysfs_add_hstate" alt="" coords="180,5,355,32"/>
+<area shape="rect" id="node3" href="$hugetlb_8c.html#aaf88b533620bd87fc7df69646fa9230c" title="kobj_to_node_hstate" alt="" coords="196,56,339,83"/>
+<area shape="rect" id="node4" href="$hugetlb_8c.html#a6969a1a24af4ab354f59ab271c2be4c1" title="hugetlb_register_all\l_nodes" alt="" coords="200,107,335,149"/>
+</map>
