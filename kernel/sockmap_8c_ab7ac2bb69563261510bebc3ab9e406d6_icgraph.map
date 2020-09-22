@@ -1,0 +1,7 @@
+<map id="smap_list_remove" name="smap_list_remove">
+<area shape="rect" id="node2" href="$sockmap_8c.html#a167216d7e0007420e56914762dbb7ca9" title="sock_map_free" alt="" coords="220,5,331,32"/>
+<area shape="rect" id="node3" href="$sockmap_8c.html#a407c83984fe3a65f12fdca9c0fa2f20a" title="sock_map_delete_elem" alt="" coords="196,56,355,83"/>
+<area shape="rect" id="node4" href="$sockmap_8c.html#a57308ddf5a78f22d647cd9aa7f18b088" title="sock_map_ctx_update_elem" alt="" coords="181,107,369,133"/>
+<area shape="rect" id="node5" href="$sockmap_8c.html#a7000682ff177d0193dd519124247222a" title="sock_map_update_elem" alt="" coords="417,81,580,108"/>
+<area shape="rect" id="node6" href="$sockmap_8c.html#af5dec87a04d3a1af52c942692bb83d93" title="BPF_CALL_4" alt="" coords="447,132,550,159"/>
+</map>

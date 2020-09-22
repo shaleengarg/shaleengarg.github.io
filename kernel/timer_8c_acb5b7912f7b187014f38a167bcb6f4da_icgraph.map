@@ -1,0 +1,24 @@
+<map id="usleep_range" name="usleep_range">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#abaa46f57608417cd0a8469f37600629b" title="trace_rb_cpu_prepare" alt="" coords="152,31,299,57"/>
+<area shape="rect" id="node5" href="$test-ww__mutex_8c.html#a9e21e375d10ca7ee6b3ec961f1776e29" title="dummy_load" alt="" coords="177,107,273,133"/>
+<area shape="rect" id="node12" href="$process_8c.html#aaec2271007b76ec6d622c6599f2f5688" title="try_to_freeze_tasks" alt="" coords="157,208,294,235"/>
+<area shape="rect" id="node3" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="354,5,490,32"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="563,5,673,32"/>
+<area shape="rect" id="node6" href="$test-ww__mutex_8c.html#ad9a1b044777d3b6fdc5e5e73633f159e" title="stress_inorder_work" alt="" coords="353,56,491,83"/>
+<area shape="rect" id="node10" href="$test-ww__mutex_8c.html#a53c5cb97d3548ab60a2b53bd8943c01f" title="stress_reorder_work" alt="" coords="352,107,492,133"/>
+<area shape="rect" id="node11" href="$test-ww__mutex_8c.html#a0f42d252c5b666092004233b95ee539e" title="stress_one_work" alt="" coords="361,157,483,184"/>
+<area shape="rect" id="node7" href="$test-ww__mutex_8c.html#a2ecaf1bea711282d9871d6676cbe69e8" title="stress" alt="" coords="589,107,647,133"/>
+<area shape="rect" id="node8" href="$test-ww__mutex_8c.html#acbb4d1a260bf50280c4e48edc5b86cd1" title="test_ww_mutex_init" alt="" coords="739,107,877,133"/>
+<area shape="rect" id="node9" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="927,107,1070,133"/>
+<area shape="rect" id="node13" href="$process_8c.html#a67e192ce4669be06c016ffb27162b08a" title="freeze_processes" alt="" coords="555,208,681,235"/>
+<area shape="rect" id="node22" href="$process_8c.html#a09b5c160e78ca44e5cd1a4cdc336be7d" title="freeze_kernel_threads" alt="" coords="347,259,497,285"/>
+<area shape="rect" id="node14" href="$kexec__core_8c.html#a8b2894d501fa534e16e85ecaccf08fe8" title="kernel_kexec" alt="" coords="759,208,857,235"/>
+<area shape="rect" id="node16" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="771,259,845,285"/>
+<area shape="rect" id="node19" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="747,157,869,184"/>
+<area shape="rect" id="node21" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="755,309,861,336"/>
+<area shape="rect" id="node15" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="925,208,1072,235"/>
+<area shape="rect" id="node17" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="943,259,1054,285"/>
+<area shape="rect" id="node18" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="955,309,1042,336"/>
+<area shape="rect" id="node20" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="948,157,1049,184"/>
+<area shape="rect" id="node23" href="$hibernate_8c.html#a4a5f6e9ba06b24c86f2d8c7a414febf5" title="hibernation_snapshot" alt="" coords="545,259,691,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="perf_trace_event_perm" name="perf_trace_event_perm">
+<area shape="rect" id="node2" href="$trace_8h.html#aacfbf3bab2b502fa3ab2543521deecc0" title="ftrace_event_is_function" alt="" coords="208,56,372,83"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a71cc1aa430951caf9800adea9474e5b4" title="event_function" alt="" coords="420,56,527,83"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a016404701c7dff22ac290a9636735059" title="__get_cpu_context" alt="" coords="575,5,707,32"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#a8d54fa9817846cc0aa81d9b1505901ed" title="perf_ctx_lock" alt="" coords="591,56,691,83"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#a54640ea8c3e933143110953c87e23990" title="perf_ctx_unlock" alt="" coords="583,107,698,133"/>
+</map>

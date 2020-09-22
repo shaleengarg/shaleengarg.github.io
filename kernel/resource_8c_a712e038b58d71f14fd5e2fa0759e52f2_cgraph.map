@@ -1,0 +1,7 @@
+<map id="__reserve_region_with_split" name="__reserve_region_with_split">
+<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="244,5,303,32"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a4e2e8351816932d26ad8436aa87a2735" title="alloc_resource" alt="" coords="220,56,327,83"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a207b5bb40f2abdfdeb54af5b3516e9ee" title="__request_resource" alt="" coords="205,107,341,133"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a15e5e3084adfa80907de7451b6d4ba0b" title="free_resource" alt="" coords="223,157,324,184"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="389,157,440,184"/>
+</map>

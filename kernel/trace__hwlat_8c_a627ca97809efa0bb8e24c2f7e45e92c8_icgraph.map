@@ -1,0 +1,4 @@
+<map id="start_kthread" name="start_kthread">
+<area shape="rect" id="node2" href="$trace__hwlat_8c.html#a793a45bd96de4312cfd5bf5261098eba" title="hwlat_tracer_start" alt="" coords="152,5,279,32"/>
+<area shape="rect" id="node3" href="$trace__hwlat_8c.html#a3da5c34a5abe8f1be6ed150a701eb53d" title="hwlat_tracer_init" alt="" coords="327,5,444,32"/>
+</map>

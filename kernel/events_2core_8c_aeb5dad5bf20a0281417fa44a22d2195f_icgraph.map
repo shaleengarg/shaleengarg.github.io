@@ -1,0 +1,22 @@
+<map id="__perf_event_enable" name="__perf_event_enable">
+<area shape="rect" id="node2" href="$events_2core_8c.html#ad988848673cba9ca49fe692ee1448aeb" title="_perf_event_enable" alt="" coords="196,289,331,316"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a6af46609bc92fa324168b00baeee05c9" title="perf_event_enable" alt="" coords="413,97,541,124"/>
+<area shape="rect" id="node13" href="$events_2core_8c.html#a7e4cd77a2460431af327744262297174" title="_perf_event_refresh" alt="" coords="408,239,545,265"/>
+<area shape="rect" id="node15" href="$events_2core_8c.html#a1df503a5593ea72b7257454ac3315340" title="_perf_ioctl" alt="" coords="889,289,971,316"/>
+<area shape="rect" id="node18" href="$events_2core_8c.html#aad2cc5bc5ef5101ba5583d3661d23d8a" title="perf_event_modify_breakpoint" alt="" coords="379,340,575,367"/>
+<area shape="rect" id="node20" href="$events_2core_8c.html#a8e075eebe84c4176a4a45dabdfaae51a" title="perf_event_task_enable" alt="" coords="397,391,557,417"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#acf1e749c54ab6132bcae68373ad2f2ef" title="modify_user_hw_breakpoint" alt="" coords="623,5,807,32"/>
+<area shape="rect" id="node5" href="$watchdog__hld_8c.html#a02647f45e4ca5b61d7128a27903e97eb" title="hardlockup_detector\l_perf_enable" alt="" coords="645,57,784,98"/>
+<area shape="rect" id="node12" href="$watchdog__hld_8c.html#ab56ad5707cf6919eaf4a4318e0f508ff" title="hardlockup_detector\l_perf_restart" alt="" coords="645,122,784,163"/>
+<area shape="rect" id="node6" href="$watchdog_8c.html#adb36825a0436ebdf9f1b4109dfeb6658" title="watchdog_nmi_enable" alt="" coords="855,64,1005,91"/>
+<area shape="rect" id="node7" href="$watchdog_8c.html#a650371cd2c58385d9fe1a2a807f8007b" title="lockup_detector_update\l_enable" alt="" coords="1053,57,1213,98"/>
+<area shape="rect" id="node8" href="$watchdog_8c.html#a476f5b8a8c40024c55da33b06d6df460" title="lockup_detector_reconfigure" alt="" coords="1261,64,1447,91"/>
+<area shape="rect" id="node9" href="$watchdog_8c.html#aeaa55bf82b4a14cb00aa53d52696011f" title="lockup_detector_setup" alt="" coords="1495,13,1648,40"/>
+<area shape="rect" id="node11" href="$watchdog_8c.html#a877b175a1729e78764622286fa85893b" title="lockup_detector_soft\l_poweroff" alt="" coords="1500,65,1643,106"/>
+<area shape="rect" id="node10" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="1696,13,1835,40"/>
+<area shape="rect" id="node14" href="$events_2core_8c.html#aff28a5b9ee03cae189cc4d68b0d41c5a" title="perf_event_refresh" alt="" coords="649,188,780,215"/>
+<area shape="rect" id="node16" href="$events_2core_8c.html#add3d5e75d18f158f3354b761711aa429" title="perf_ioctl" alt="" coords="1096,289,1171,316"/>
+<area shape="rect" id="node17" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="1309,289,1399,316"/>
+<area shape="rect" id="node19" href="$events_2core_8c.html#a1b27d676686e74e20fb23624c68d312b" title="perf_event_modify_attr" alt="" coords="637,340,792,367"/>
+<area shape="rect" id="node21" href="$sys_8c.html#a5ca25d9ab2fe7976ab7f6c3688006177" title="SYSCALL_DEFINE5" alt="" coords="641,391,788,417"/>
+</map>

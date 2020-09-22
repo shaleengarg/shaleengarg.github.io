@@ -1,0 +1,14 @@
+<map id="__reset_stat_session" name="__reset_stat_session">
+<area shape="rect" id="node2" href="$trace__stat_8c.html#a48194eb2aec9dc1b0142feaf58a47f5b" title="reset_stat_session" alt="" coords="200,56,332,83"/>
+<area shape="rect" id="node5" href="$trace__stat_8c.html#a335e8c16024259905f33421061715fe1" title="destroy_session" alt="" coords="207,107,325,133"/>
+<area shape="rect" id="node13" href="$trace__stat_8c.html#ae28624523fc8f287fae7d04bca79a59c" title="stat_seq_init" alt="" coords="218,5,314,32"/>
+<area shape="rect" id="node3" href="$trace__stat_8c.html#ad55e733034a43e08519418758f5d29cf" title="tracing_stat_open" alt="" coords="391,5,517,32"/>
+<area shape="rect" id="node4" href="$trace__stat_8c.html#ab4f97a2e3d3b416f03f06a0f8c1411e6" title="tracing_stat_release" alt="" coords="385,56,523,83"/>
+<area shape="rect" id="node6" href="$trace__stat_8h.html#a7496ac537461bee976c308a2466d6fd4" title="register_stat_tracer" alt="" coords="387,107,521,133"/>
+<area shape="rect" id="node12" href="$trace__stat_8h.html#ab3c8e0dad0a5c9501c949805b64836a0" title="unregister_stat_tracer" alt="" coords="380,157,528,184"/>
+<area shape="rect" id="node7" href="$ftrace_8c.html#a226123ea8706a108ea504c6a19359848" title="ftrace_update_pid_func" alt="" coords="576,77,733,104"/>
+<area shape="rect" id="node11" href="$trace__branch_8c.html#ae8aab8e841ac8a5467137eb40ab20331" title="init_annotated_branch\l_stats" alt="" coords="580,129,729,170"/>
+<area shape="rect" id="node8" href="$ftrace_8c.html#a73e1b54e11af21980334921b2887f19a" title="ftrace_pid_reset" alt="" coords="781,52,896,79"/>
+<area shape="rect" id="node10" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="781,103,896,129"/>
+<area shape="rect" id="node9" href="$ftrace_8c.html#a6ee78376b5ade9167c82ce71dfef009d" title="ftrace_pid_open" alt="" coords="944,52,1059,79"/>
+</map>

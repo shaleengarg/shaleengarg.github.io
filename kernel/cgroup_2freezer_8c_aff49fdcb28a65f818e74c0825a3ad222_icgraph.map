@@ -1,0 +1,5 @@
+<map id="unfreeze_cgroup" name="unfreeze_cgroup">
+<area shape="rect" id="node2" href="$cgroup_2freezer_8c.html#a5a87cc2acffc9d1e9d2b5fa21d11ed47" title="freezer_apply_state" alt="" coords="172,5,308,32"/>
+<area shape="rect" id="node3" href="$cgroup_2freezer_8c.html#a4cd3ee45df10cfe1a30cce7d6dcc757a" title="freezer_change_state" alt="" coords="356,5,503,32"/>
+<area shape="rect" id="node4" href="$cgroup_2freezer_8c.html#ad8b49cc5ce42d1902ae50e5500fce186" title="freezer_write" alt="" coords="551,5,648,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="auditd_reset" name="auditd_reset">
+<area shape="rect" id="node2" href="$audit_8c.html#afa11379528cdf6dc9448eca65748895f" title="auditd_send_unicast_skb" alt="" coords="147,5,316,32"/>
+<area shape="rect" id="node4" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="511,31,641,57"/>
+<area shape="rect" id="node7" href="$audit_8c.html#ab59a410d3b356365c49e6afc4cabb1c2" title="kauditd_thread" alt="" coords="178,107,285,133"/>
+<area shape="rect" id="node3" href="$audit_8c.html#a2368069b90a37965603677c362c85e9c" title="audit_replace" alt="" coords="364,5,463,32"/>
+<area shape="rect" id="node5" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="689,31,788,57"/>
+<area shape="rect" id="node6" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="836,31,935,57"/>
+<area shape="rect" id="node8" href="$audit_8c.html#afdae136a8f14b27996d1407dcf408167" title="audit_init" alt="" coords="376,107,451,133"/>
+</map>

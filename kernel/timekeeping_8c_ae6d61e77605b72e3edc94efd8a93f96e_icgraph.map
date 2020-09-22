@@ -1,0 +1,14 @@
+<map id="__ktime_get_real_seconds" name="__ktime_get_real_seconds">
+<area shape="rect" id="node2" href="$kdb__main_8c.html#ab6793a14eed2b49cd8ca14ed611dc3e1" title="kdb_summary" alt="" coords="246,44,350,71"/>
+<area shape="rect" id="node7" href="$ntp_8c.html#a8bfd5b24b9fa3427503077e96c48deef" title="ntp_update_offset" alt="" coords="235,95,361,121"/>
+<area shape="rect" id="node13" href="$ntp_8c.html#ad1a2054d420548d236df71a278be7ed8" title="process_adj_status" alt="" coords="231,145,365,172"/>
+<area shape="rect" id="node3" href="$kdb__main_8c.html#a82f19667b636b718a79c5093712471ca" title="kdb_inittab" alt="" coords="456,44,541,71"/>
+<area shape="rect" id="node4" href="$kdb__main_8c.html#abb66e4c055d6fb33d84d0c987aa2bea7" title="kdb_init" alt="" coords="652,44,719,71"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#ade36f6b46ae3e0b2d7447d89807eaf76" title="dbg_late_init" alt="" coords="793,5,887,32"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#ab5bc93e2007bd36c10d39d5cb0d05659" title="opt_kgdb_wait" alt="" coords="787,56,893,83"/>
+<area shape="rect" id="node8" href="$ntp_8c.html#a41f6aeb249e31abcc998c9d68212ea81" title="process_adjtimex_modes" alt="" coords="413,120,584,147"/>
+<area shape="rect" id="node9" href="$ntp__internal_8h.html#ad56abc9cf097bf3f876dfc1d2d0e8f7b" title="__do_adjtimex" alt="" coords="632,120,739,147"/>
+<area shape="rect" id="node10" href="$timekeeping_8c.html#aeac6292e6e98b3014762f02ead219314" title="do_adjtimex" alt="" coords="794,120,886,147"/>
+<area shape="rect" id="node11" href="$posix-timers_8c.html#ae73e9ab91f618d9af4e3a19be6b03fb1" title="posix_clock_realtime_adj" alt="" coords="941,95,1109,121"/>
+<area shape="rect" id="node12" href="$time_8c.html#a0d6064dc892c30d7e0cb978277b0a47c" title="SYSCALL_DEFINE1" alt="" coords="952,145,1099,172"/>
+</map>

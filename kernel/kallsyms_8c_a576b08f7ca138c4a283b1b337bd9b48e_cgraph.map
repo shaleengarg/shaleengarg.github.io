@@ -1,0 +1,13 @@
+<map id="s_start" name="s_start">
+<area shape="rect" id="node2" href="$kallsyms_8c.html#a22b48a610041e061b2eb94390aa7de9d" title="update_iter" alt="" coords="116,157,203,184"/>
+<area shape="rect" id="node3" href="$kallsyms_8c.html#a49d9bf209ea24f3f4e142314ee77c229" title="update_iter_mod" alt="" coords="255,81,374,108"/>
+<area shape="rect" id="node7" href="$kallsyms_8c.html#af6d1f09ad451fb3b492873b241e06f31" title="reset_iter" alt="" coords="277,157,353,184"/>
+<area shape="rect" id="node9" href="$kallsyms_8c.html#a4d5ff078021b80aaa1b2eec920291d36" title="get_ksymbol_core" alt="" coords="251,233,379,260"/>
+<area shape="rect" id="node4" href="$kallsyms_8c.html#ac097847e127da9bdb059950e861e7257" title="get_ksymbol_bpf" alt="" coords="456,5,577,32"/>
+<area shape="rect" id="node5" href="$kallsyms_8c.html#a9c07526b1954994fb75b86beff7fe337" title="get_ksymbol_ftrace_mod" alt="" coords="433,56,601,83"/>
+<area shape="rect" id="node6" href="$kallsyms_8c.html#ade87f9c5fe47576ddefafb413b07928b" title="get_ksymbol_mod" alt="" coords="453,107,581,133"/>
+<area shape="rect" id="node8" href="$kallsyms_8c.html#a28a5689a227a1efdd304554bff9701f8" title="get_symbol_offset" alt="" coords="452,157,581,184"/>
+<area shape="rect" id="node10" href="$kallsyms_8c.html#acaa3448bbd3f1b781989f7ad5a93b14c" title="kallsyms_sym_address" alt="" coords="437,208,596,235"/>
+<area shape="rect" id="node11" href="$kallsyms_8c.html#ab015e6a8a4edef54f50bb6933862aa65" title="kallsyms_get_symbol_type" alt="" coords="427,259,607,285"/>
+<area shape="rect" id="node12" href="$kallsyms_8c.html#af4a2f59e76f1304525543e014949e9f5" title="kallsyms_expand_symbol" alt="" coords="431,309,603,336"/>
+</map>

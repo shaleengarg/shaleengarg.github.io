@@ -1,0 +1,6 @@
+<map id="rb_free_cpu_buffer" name="rb_free_cpu_buffer">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a6b300f38d62deeb689a3956372f07a4a" title="free_buffer_page" alt="" coords="210,5,329,32"/>
+<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="441,31,491,57"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#abe7941c2268f6402a3253adbf4fe71eb" title="rb_head_page_deactivate" alt="" coords="184,107,355,133"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#a3b641f2c05a4bafbe5eb5622bf674169" title="rb_list_head_clear" alt="" coords="403,107,529,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="update_stats_wait_end" name="update_stats_wait_end">
+<area shape="rect" id="node2" href="$fair_8c.html#ae137ad9b5eac6a331b26635da4f22d78" title="update_stats_dequeue" alt="" coords="209,56,363,83"/>
+<area shape="rect" id="node8" href="$fair_8c.html#acba24f064c64a17cc5260e7954ddcf93" title="set_next_entity" alt="" coords="578,107,689,133"/>
+<area shape="rect" id="node3" href="$fair_8c.html#ad5bad21d7edfb344b07c9bf97a2c1607" title="dequeue_entity" alt="" coords="411,56,521,83"/>
+<area shape="rect" id="node4" href="$fair_8c.html#af0207be4c69b8f41f2cdd6a8fdb05e9a" title="entity_tick" alt="" coords="592,5,675,32"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="569,56,697,83"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="763,5,863,32"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="928,81,1057,108"/>
+<area shape="rect" id="node9" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="745,107,880,133"/>
+<area shape="rect" id="node10" href="$fair_8c.html#ad45f0fa08ee0ebd82518f49f52c1fcdb" title="set_curr_task_fair" alt="" coords="749,157,876,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="requeue_futex" name="requeue_futex">
+<area shape="rect" id="node2" href="$futex_8c.html#a2e284629c01aa481f73f411ec2aae93b" title="hb_waiters_dec" alt="" coords="167,5,281,32"/>
+<area shape="rect" id="node3" href="$futex_8c.html#a0c895faeb81a2bab5f46c30dc719a749" title="hb_waiters_inc" alt="" coords="169,56,279,83"/>
+<area shape="rect" id="node4" href="$futex_8c.html#a81eaf77f5f61c7197e91dd8106eadc0b" title="get_futex_key_refs" alt="" coords="157,107,291,133"/>
+<area shape="rect" id="node5" href="$futex_8c.html#ac94eb7b90b92e54fcd3195b7e9c1f150" title="futex_get_mm" alt="" coords="339,107,444,133"/>
+</map>

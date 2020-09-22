@@ -1,0 +1,5 @@
+<map id="event_function_local" name="event_function_local">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a016404701c7dff22ac290a9636735059" title="__get_cpu_context" alt="" coords="195,5,327,32"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a8d54fa9817846cc0aa81d9b1505901ed" title="perf_ctx_lock" alt="" coords="211,56,311,83"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a54640ea8c3e933143110953c87e23990" title="perf_ctx_unlock" alt="" coords="203,107,318,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="tracepoint_remove_func" name="tracepoint_remove_func">
+<area shape="rect" id="node2" href="$tracepoint_8c.html#a35d5681f0905c395db5924d07f565e5f" title="func_remove" alt="" coords="221,56,319,83"/>
+<area shape="rect" id="node5" href="$tracepoint_8c.html#a2e97fd515f38f8813c52348cff21ae6b" title="release_probes" alt="" coords="215,107,325,133"/>
+<area shape="rect" id="node3" href="$tracepoint_8c.html#a634e14743286794e26ab0026ef7a52ee" title="debug_print_probes" alt="" coords="375,5,510,32"/>
+<area shape="rect" id="node4" href="$tracepoint_8c.html#a62ead6bdcedf52e7b1f2a2b37cc15802" title="allocate_probes" alt="" coords="386,56,499,83"/>
+<area shape="rect" id="node6" href="$tiny_8c.html#a134315452e4d3d70420ecbe6e1ca4563" title="call_rcu_sched" alt="" coords="388,107,497,133"/>
+<area shape="rect" id="node11" href="$tracepoint_8c.html#aec3ed07c703aca56c2fbb5fc84fcdd82" title="rcu_free_old_probes" alt="" coords="373,157,512,184"/>
+<area shape="rect" id="node7" href="$tiny_8c.html#a3f3a7fdc422d607bf946dcc18bcb36f1" title="__call_rcu" alt="" coords="605,56,687,83"/>
+<area shape="rect" id="node10" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="560,107,732,133"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="780,31,939,57"/>
+<area shape="rect" id="node9" href="$rcu_8h.html#a9d4675b6ba4bd98d586f92991cf4964b" title="resched_cpu" alt="" coords="811,81,907,108"/>
+<area shape="rect" id="node12" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="621,157,671,184"/>
+</map>

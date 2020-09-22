@@ -1,0 +1,11 @@
+<map id="reqd_free_pages" name="reqd_free_pages">
+<area shape="rect" id="node2" href="$swap_8c.html#ab373aed188d5480f0f17b1d4e7ee85b5" title="get_swap_writer" alt="" coords="175,5,292,32"/>
+<area shape="rect" id="node8" href="$swap_8c.html#a30f0e85d76a59a6074f2759b1d5a1152" title="swap_write_page" alt="" coords="172,81,295,108"/>
+<area shape="rect" id="node10" href="$swap_8c.html#acddbb0763ada5b0c2283fdd223c2a4cb" title="save_image_lzo" alt="" coords="343,132,459,159"/>
+<area shape="rect" id="node3" href="$swap_8c.html#a98062ebed0f1d6fb365900bf752f3259" title="swsusp_write" alt="" coords="507,56,609,83"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="657,56,732,83"/>
+<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="798,5,909,32"/>
+<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="810,56,897,83"/>
+<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="780,107,927,133"/>
+<area shape="rect" id="node9" href="$swap_8c.html#ab794c91f3dff20a0aefd3efdc1bc50f8" title="save_image" alt="" coords="355,81,447,108"/>
+</map>

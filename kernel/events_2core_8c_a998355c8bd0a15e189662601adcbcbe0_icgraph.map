@@ -1,0 +1,11 @@
+<map id="perf_event_disable" name="perf_event_disable">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#acf1e749c54ab6132bcae68373ad2f2ef" title="modify_user_hw_breakpoint" alt="" coords="184,5,368,32"/>
+<area shape="rect" id="node3" href="$watchdog__hld_8c.html#a222475c4f6dde3e2e395a8df2fe37cd0" title="hardlockup_detector\l_perf_disable" alt="" coords="207,57,345,98"/>
+<area shape="rect" id="node10" href="$watchdog__hld_8c.html#ab9c6518b8256d8ea0554ec3b04312acc" title="hardlockup_detector\l_perf_stop" alt="" coords="207,122,345,163"/>
+<area shape="rect" id="node4" href="$watchdog_8c.html#aa5980f4dd6f756d7606cc51587c066ed" title="watchdog_nmi_disable" alt="" coords="416,64,571,91"/>
+<area shape="rect" id="node5" href="$watchdog_8c.html#a650371cd2c58385d9fe1a2a807f8007b" title="lockup_detector_update\l_enable" alt="" coords="619,57,779,98"/>
+<area shape="rect" id="node6" href="$watchdog_8c.html#a476f5b8a8c40024c55da33b06d6df460" title="lockup_detector_reconfigure" alt="" coords="827,64,1012,91"/>
+<area shape="rect" id="node7" href="$watchdog_8c.html#aeaa55bf82b4a14cb00aa53d52696011f" title="lockup_detector_setup" alt="" coords="1060,13,1213,40"/>
+<area shape="rect" id="node9" href="$watchdog_8c.html#a877b175a1729e78764622286fa85893b" title="lockup_detector_soft\l_poweroff" alt="" coords="1065,65,1208,106"/>
+<area shape="rect" id="node8" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="1261,13,1400,40"/>
+</map>

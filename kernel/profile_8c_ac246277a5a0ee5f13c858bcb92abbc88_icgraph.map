@@ -1,0 +1,30 @@
+<map id="profile_tick" name="profile_tick">
+<area shape="rect" id="node2" href="$tick-common_8c.html#a151b7843fbaed1c0f2d9c8a6718523b7" title="tick_periodic" alt="" coords="161,80,255,107"/>
+<area shape="rect" id="node26" href="$tick-sched_8h.html#a4d94f74c66389b34bef2317debfbf148" title="tick_get_tick_sched" alt="" coords="139,155,277,181"/>
+<area shape="rect" id="node3" href="$tick-common_8c.html#a9fd2a74bc40da940ccaf8e99967483cb" title="tick_handle_periodic" alt="" coords="325,80,465,107"/>
+<area shape="rect" id="node4" href="$tick-broadcast_8c.html#a90777fc4ca02feaa22ea2700c516ef27" title="tick_device_uses_broadcast" alt="" coords="1101,5,1288,32"/>
+<area shape="rect" id="node19" href="$tick-broadcast_8c.html#a5b23fd77f563c81b77e8ea4e0476913e" title="tick_set_periodic_handler" alt="" coords="513,85,683,112"/>
+<area shape="rect" id="node5" href="$tick-common_8c.html#ac467a5291e1b2745b95a0b6cf9544631" title="tick_setup_device" alt="" coords="1351,36,1478,63"/>
+<area shape="rect" id="node6" href="$tick-common_8c.html#ab46d0234af650f8b9a48dcf3b25e4dcc" title="tick_install_replacement" alt="" coords="1541,32,1704,59"/>
+<area shape="rect" id="node14" href="$tick-common_8c.html#a67de7e83c2b8118d36470b7a803c16a6" title="tick_check_new_device" alt="" coords="1542,99,1703,125"/>
+<area shape="rect" id="node7" href="$clockevents_8c.html#a812775026014693770410c2002899d0e" title="clockevents_replace" alt="" coords="1752,29,1893,56"/>
+<area shape="rect" id="node8" href="$clockevents_8c.html#acfe08c074d83b1d8c5abe75a42841020" title="__clockevents_unbind" alt="" coords="1941,28,2092,55"/>
+<area shape="rect" id="node9" href="$clockevents_8c.html#ab2777ed3dc0382c46c13e0e6b65fa2d2" title="clockevents_unbind" alt="" coords="2140,25,2277,52"/>
+<area shape="rect" id="node10" href="$clockevents_8c.html#adbc76d559f2a076cd4a9ca6e22d322c8" title="clockevents_unbind\l_device" alt="" coords="2328,18,2465,59"/>
+<area shape="rect" id="node11" href="$clockevents_8c.html#a50d6f518c2c62113bcc50b06c4384d61" title="clockevents_resume" alt="" coords="2325,121,2468,148"/>
+<area shape="rect" id="node12" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="2516,157,2659,184"/>
+<area shape="rect" id="node13" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="2707,183,2800,209"/>
+<area shape="rect" id="node15" href="$clockevents_8c.html#af91e203332a6f81319b8197926965009" title="clockevents_notify\l_released" alt="" coords="1757,85,1888,126"/>
+<area shape="rect" id="node16" href="$clockevents_8c.html#a07e80b5285554af7e9841981ab9ecdf6" title="clockevents_register\l_device" alt="" coords="1945,105,2088,146"/>
+<area shape="rect" id="node17" href="$clockevents_8c.html#a80310c1aad7057bdf67052607ecd5e34" title="clockevents_config\l_and_register" alt="" coords="2141,77,2276,118"/>
+<area shape="rect" id="node18" href="$tick-broadcast-hrtimer_8c.html#aa60a0cc0d7d9bf81c348facf26257b50" title="tick_setup_hrtimer\l_broadcast" alt="" coords="2144,142,2273,183"/>
+<area shape="rect" id="node20" href="$tick-common_8c.html#a3a7ff3c7b46713caf8d80760c0c11c7a" title="tick_setup_periodic" alt="" coords="731,132,865,159"/>
+<area shape="rect" id="node21" href="$tick-broadcast_8c.html#a50626870b7216a74727c4c6787c2e1de" title="tick_broadcast_start\l_periodic" alt="" coords="913,125,1053,166"/>
+<area shape="rect" id="node23" href="$tick-broadcast_8c.html#a8519b3520b37ce008af0ab09e9c90ecc" title="tick_broadcast_control" alt="" coords="1118,208,1271,235"/>
+<area shape="rect" id="node25" href="$tick-common_8c.html#a144c7be316733a6b8ecd506e3bbabbc7" title="tick_resume_local" alt="" coords="2524,259,2651,285"/>
+<area shape="rect" id="node22" href="$tick-broadcast_8c.html#a32d45eb6b0d80960de8b801a6abaf9c0" title="tick_install_broadcast\l_device" alt="" coords="1341,97,1489,138"/>
+<area shape="rect" id="node24" href="$tick-broadcast_8c.html#aa55972eafe903b598dafa056ec59c6d3" title="tick_resume_broadcast" alt="" coords="1336,187,1493,213"/>
+<area shape="rect" id="node27" href="$timer__list_8c.html#ae3b16f62c811b3d105d07c8673373591" title="print_cpu" alt="" coords="358,155,433,181"/>
+<area shape="rect" id="node28" href="$timer__list_8c.html#ad22eefccd7d3d00e02c66025de353ed3" title="timer_list_show" alt="" coords="541,148,655,175"/>
+<area shape="rect" id="node29" href="$timer__list_8c.html#a858bdbff0f102e6b60fbb33222e0ed64" title="sysrq_timer_list_show" alt="" coords="522,199,674,225"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="__bpf_lru_list_rotate" name="__bpf_lru_list_rotate">
+<area shape="rect" id="node2" href="$bpf__lru__list_8c.html#aaa5a7e43e5a35906f65ce8ed19d2b73e" title="bpf_lru_list_inactive_low" alt="" coords="192,5,356,32"/>
+<area shape="rect" id="node3" href="$bpf__lru__list_8c.html#a7ef5f180bae0adb62961ca1123f735f2" title="__bpf_lru_list_rotate\l_active" alt="" coords="205,122,343,163"/>
+<area shape="rect" id="node8" href="$bpf__lru__list_8c.html#a2f4e886e74978c8e0a233ad62ffdf5ae" title="__bpf_lru_list_rotate\l_inactive" alt="" coords="205,57,343,98"/>
+<area shape="rect" id="node4" href="$bpf__lru__list_8c.html#a193428a2cfe6fd59a9b6ec3cd1ea7c56" title="bpf_lru_node_is_ref" alt="" coords="411,68,546,95"/>
+<area shape="rect" id="node5" href="$bpf__lru__list_8c.html#a48d0354a7b53d3a5620d7d634450177e" title="__bpf_lru_node_move" alt="" coords="404,123,553,149"/>
+<area shape="rect" id="node6" href="$bpf__lru__list_8c.html#ad87c1c764e7febca9c12f89bb3ee8a0f" title="bpf_lru_list_count_dec" alt="" coords="601,97,753,124"/>
+<area shape="rect" id="node7" href="$bpf__lru__list_8c.html#ad174eaf526df484345ff3793a39228c1" title="bpf_lru_list_count_inc" alt="" coords="603,148,751,175"/>
+</map>

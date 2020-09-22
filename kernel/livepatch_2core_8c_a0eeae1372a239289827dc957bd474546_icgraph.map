@@ -1,0 +1,6 @@
+<map id="klp_free_objects_limited" name="klp_free_objects_limited">
+<area shape="rect" id="node2" href="$livepatch_2core_8c.html#aa7d8d5a59fbf9f2bd691db2f5820dbce" title="klp_free_patch" alt="" coords="216,5,323,32"/>
+<area shape="rect" id="node4" href="$livepatch_2core_8c.html#a848513ac3f9e50a8b74e83054d547342" title="klp_init_patch" alt="" coords="218,56,321,83"/>
+<area shape="rect" id="node3" href="$livepatch_2core_8c.html#a31229f317355d5b7e72b0e180eff4f0b" title="klp_unregister_patch" alt="" coords="371,5,513,32"/>
+<area shape="rect" id="node5" href="$livepatch_2core_8c.html#a31706e906563b4da3f3dc3b13cc87100" title="klp_register_patch" alt="" coords="378,56,506,83"/>
+</map>

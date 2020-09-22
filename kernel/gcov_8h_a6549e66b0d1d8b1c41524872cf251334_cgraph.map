@@ -1,0 +1,6 @@
+<map id="gcov_info_dup" name="gcov_info_dup">
+<area shape="rect" id="node2" href="$gcc__3__4_8c.html#a843019acb26eb8f7fbc7915b49d5ea03" title="num_counter_active" alt="" coords="160,5,299,32"/>
+<area shape="rect" id="node4" href="$gcc__3__4_8c.html#ad188efbd74d19530cc38e1327259e94e" title="get_fn_size" alt="" coords="185,56,274,83"/>
+<area shape="rect" id="node5" href="$gcc__3__4_8c.html#a594a9447f992576020d6a1b6ee503601" title="gcov_info_free" alt="" coords="176,107,283,133"/>
+<area shape="rect" id="node3" href="$gcc__3__4_8c.html#a1d0aaada06fd15c797ad899dcd6c13fa" title="counter_active" alt="" coords="347,5,453,32"/>
+</map>

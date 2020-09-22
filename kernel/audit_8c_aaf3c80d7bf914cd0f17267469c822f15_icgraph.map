@@ -1,0 +1,6 @@
+<map id="audit_copy_fcaps" name="audit_copy_fcaps">
+<area shape="rect" id="node2" href="$audit_8h.html#aba4436eb85e43464172e47a096383f1f" title="audit_copy_inode" alt="" coords="177,31,300,57"/>
+<area shape="rect" id="node3" href="$auditsc_8c.html#a313f6003cc71a89aa9bee8e774539e25" title="__audit_inode" alt="" coords="365,5,467,32"/>
+<area shape="rect" id="node5" href="$auditsc_8c.html#ac7a3df5b846360040e471ba122688494" title="__audit_inode_child" alt="" coords="348,56,484,83"/>
+<area shape="rect" id="node4" href="$auditsc_8c.html#aaa1eec78e4bbb1f377b52655b5670210" title="__audit_file" alt="" coords="532,5,620,32"/>
+</map>

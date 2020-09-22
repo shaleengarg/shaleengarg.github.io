@@ -1,0 +1,6 @@
+<map id="rb_alloc_aux" name="rb_alloc_aux">
+<area shape="rect" id="node2" href="$events_2ring__buffer_8c.html#ae5fbab81d2af07b7b3bafc43aff9abab" title="rb_alloc_aux_page" alt="" coords="148,5,279,32"/>
+<area shape="rect" id="node3" href="$events_2ring__buffer_8c.html#a82bebda87f7b8eed5bacbe00933104da" title="__rb_free_aux" alt="" coords="161,56,265,83"/>
+<area shape="rect" id="node4" href="$events_2ring__buffer_8c.html#a9666dc449a7bf3b8fdca6df692ef1e61" title="rb_free_aux_page" alt="" coords="327,31,452,57"/>
+<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="364,81,415,108"/>
+</map>

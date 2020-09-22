@@ -1,0 +1,10 @@
+<map id="freeze_processes" name="freeze_processes">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#a8b2894d501fa534e16e85ecaccf08fe8" title="kernel_kexec" alt="" coords="191,5,289,32"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="203,56,277,83"/>
+<area shape="rect" id="node7" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="179,107,301,133"/>
+<area shape="rect" id="node9" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="187,157,293,184"/>
+<area shape="rect" id="node3" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="349,5,496,32"/>
+<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="367,56,478,83"/>
+<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="379,107,466,133"/>
+<area shape="rect" id="node8" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="372,157,473,184"/>
+</map>

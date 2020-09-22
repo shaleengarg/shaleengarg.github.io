@@ -1,0 +1,9 @@
+<map id="wakeup_gran" name="wakeup_gran">
+<area shape="rect" id="node2" href="$fair_8c.html#ac768a1ff3948b7848f18dae558e937ee" title="wakeup_preempt_entity" alt="" coords="152,56,312,83"/>
+<area shape="rect" id="node3" href="$fair_8c.html#acba24f064c64a17cc5260e7954ddcf93" title="set_next_entity" alt="" coords="363,56,474,83"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a52f2cd4ff8ca8d36490689c23d74a7d7" title="pick_next_entity" alt="" coords="360,5,477,32"/>
+<area shape="rect" id="node8" href="$fair_8c.html#a97ad111c53f833d3bbc1495d089dad94" title="check_preempt_wakeup" alt="" coords="525,107,688,133"/>
+<area shape="rect" id="node4" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="539,5,674,32"/>
+<area shape="rect" id="node6" href="$fair_8c.html#ad45f0fa08ee0ebd82518f49f52c1fcdb" title="set_curr_task_fair" alt="" coords="543,56,670,83"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="736,56,865,83"/>
+</map>

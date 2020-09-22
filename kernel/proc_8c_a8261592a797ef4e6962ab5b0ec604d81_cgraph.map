@@ -1,0 +1,7 @@
+<map id="irq_spurious_proc_open" name="irq_spurious_proc_open">
+<area shape="rect" id="node2" href="$proc_8c.html#ac7ccb59ad8b74fab4e266d232d1ebdb1" title="irq_spurious_proc_show" alt="" coords="212,31,375,57"/>
+<area shape="rect" id="node3" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="437,5,526,32"/>
+<area shape="rect" id="node5" href="$time_8c.html#aa0ba3fcfe2740fce398e09f7a1f87edf" title="jiffies_to_msecs" alt="" coords="423,56,540,83"/>
+<area shape="rect" id="node4" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="588,5,727,32"/>
+<area shape="rect" id="node6" href="$time_8c.html#af5a6150711c1a70088b8e6557154551c" title="EXPORT_SYMBOL" alt="" coords="588,56,727,83"/>
+</map>

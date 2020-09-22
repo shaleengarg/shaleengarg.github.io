@@ -1,0 +1,7 @@
+<map id="release_task_stack" name="release_task_stack">
+<area shape="rect" id="node2" href="$fork_8c.html#a43c699888a0ddb1e72291de12319da81" title="account_kernel_stack" alt="" coords="188,5,337,32"/>
+<area shape="rect" id="node3" href="$fork_8c.html#aff27deb836379cc444ce0396980ff125" title="arch_release_thread\l_stack" alt="" coords="193,57,332,98"/>
+<area shape="rect" id="node5" href="$fork_8c.html#a67905f5ef233556d2c86f2a8e6631632" title="free_thread_stack" alt="" coords="199,123,326,149"/>
+<area shape="rect" id="node4" href="$fork_8c.html#a24246e92abf265d77773fbbb5e7398b4" title="DEFINE_PER_CPU" alt="" coords="397,64,540,91"/>
+<area shape="rect" id="node6" href="$fork_8c.html#af6cfb7eb180186c0e462e5c919103caf" title="alloc_thread_stack_node" alt="" coords="385,123,552,149"/>
+</map>

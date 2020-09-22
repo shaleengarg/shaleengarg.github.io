@@ -1,0 +1,11 @@
+<map id="audit_init_watch" name="audit_init_watch">
+<area shape="rect" id="node2" href="$audit__watch_8c.html#a500cd202b5f0b474d64cdd998b77d1ce" title="audit_to_watch" alt="" coords="177,9,288,36"/>
+<area shape="rect" id="node8" href="$audit__watch_8c.html#a64a29e0927aa2425ce001ab0327ef7d4" title="audit_dupe_watch" alt="" coords="169,60,296,87"/>
+<area shape="rect" id="node3" href="$auditfilter_8c.html#ab64c4c18ab5ec07645863dae5c33f6f9" title="audit_data_to_entry" alt="" coords="345,8,481,35"/>
+<area shape="rect" id="node4" href="$auditfilter_8c.html#a7c4f608d26b4d1832cb1e5b9253bb7c0" title="audit_rule_change" alt="" coords="536,5,663,32"/>
+<area shape="rect" id="node5" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="716,5,847,32"/>
+<area shape="rect" id="node6" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="895,5,993,32"/>
+<area shape="rect" id="node7" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="1041,5,1140,32"/>
+<area shape="rect" id="node9" href="$audit__watch_8c.html#a99616cc680b98c887f8b8965b75fbe60" title="audit_update_watch" alt="" coords="344,60,483,87"/>
+<area shape="rect" id="node10" href="$audit__watch_8c.html#aed90bb4f76a3158bc6eece755cdadfd4" title="audit_watch_handle\l_event" alt="" coords="531,57,668,98"/>
+</map>

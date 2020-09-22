@@ -1,0 +1,4 @@
+<map id="ftrace_dump_buf" name="ftrace_dump_buf">
+<area shape="rect" id="node2" href="$trace__kdb_8c.html#a6925c373a7f804adfc439a30c6674d21" title="kdb_ftdump" alt="" coords="172,5,263,32"/>
+<area shape="rect" id="node3" href="$trace__kdb_8c.html#ac7200f17eb21b98d463ac123fb9af8a6" title="kdb_ftrace_register" alt="" coords="311,5,444,32"/>
+</map>

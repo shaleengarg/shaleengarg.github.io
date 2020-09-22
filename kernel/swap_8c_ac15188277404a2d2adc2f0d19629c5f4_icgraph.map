@@ -1,0 +1,8 @@
+<map id="swsusp_check" name="swsusp_check">
+<area shape="rect" id="node2" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="187,69,261,96"/>
+<area shape="rect" id="node6" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="163,132,285,159"/>
+<area shape="rect" id="node3" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="351,5,462,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="363,56,450,83"/>
+<area shape="rect" id="node5" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="333,107,480,133"/>
+<area shape="rect" id="node7" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="356,157,457,184"/>
+</map>

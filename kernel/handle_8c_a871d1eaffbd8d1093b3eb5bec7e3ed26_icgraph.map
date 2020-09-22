@@ -1,0 +1,29 @@
+<map id="handle_bad_irq" name="handle_bad_irq">
+<area shape="rect" id="node2" href="$chip_8c.html#a55690d4ee224680cd666c35bceeeb988" title="__irq_do_set_handler" alt="" coords="481,135,627,161"/>
+<area shape="rect" id="node15" href="$irqdesc_8c.html#af6bb8b3104a724d1516a6bb5aa0c7e2a" title="desc_set_defaults" alt="" coords="163,185,291,212"/>
+<area shape="rect" id="node3" href="$chip_8c.html#a4149fcd968ae03bf3dd1ee87082f8ab7" title="__irq_set_handler" alt="" coords="694,81,818,108"/>
+<area shape="rect" id="node14" href="$chip_8c.html#ac9ea2161b53d9bd9d96d6982533f71c0" title="irq_set_chained_handler\l_and_data" alt="" coords="675,133,837,174"/>
+<area shape="rect" id="node4" href="$chip_8c.html#ae929b4d7b2b0eafef41cd9b5e730d0da" title="irq_set_chip_and_handler_name" alt="" coords="885,132,1093,159"/>
+<area shape="rect" id="node8" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="1355,233,1517,260"/>
+<area shape="rect" id="node13" href="$msi_8c.html#a59aeac9c865c81eca9afdc137174225c" title="get_cached_msi_msg" alt="" coords="915,31,1064,57"/>
+<area shape="rect" id="node5" href="$irqdomain_8c.html#ac1822ac99d95b50aa90fff9a49fd39ee" title="irq_domain_set_info" alt="" coords="1155,31,1293,57"/>
+<area shape="rect" id="node6" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="1362,5,1510,32"/>
+<area shape="rect" id="node7" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="1355,56,1517,83"/>
+<area shape="rect" id="node9" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="1579,385,1686,412"/>
+<area shape="rect" id="node10" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="1565,233,1700,260"/>
+<area shape="rect" id="node11" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="1748,233,1932,260"/>
+<area shape="rect" id="node12" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="1980,233,2133,260"/>
+<area shape="rect" id="node16" href="$irqdesc_8c.html#a138afa72d5bf2285fedc8d351484cead" title="early_irq_init" alt="" coords="339,185,433,212"/>
+<area shape="rect" id="node17" href="$irqdesc_8c.html#a8c48fa17ba11d8f4bbffa2fa0c477661" title="free_desc" alt="" coords="347,236,425,263"/>
+<area shape="rect" id="node18" href="$irqdesc_8c.html#ab1f6f201723058aa069fe4293a85b0e8" title="irq_mark_irq" alt="" coords="507,231,601,257"/>
+<area shape="rect" id="node24" href="$irqdesc_8c.html#a3a0ef1e69b122a40ec774a66d1df8489" title="irq_free_descs" alt="" coords="703,360,809,387"/>
+<area shape="rect" id="node19" href="$chip_8c.html#af7ed4834509ee09b8cd32189d8a19511" title="irq_set_chip" alt="" coords="710,209,802,236"/>
+<area shape="rect" id="node20" href="$generic-chip_8c.html#abd0fd31c25d95df4b133a55750e4ab4b" title="irq_remove_generic_chip" alt="" coords="906,284,1073,311"/>
+<area shape="rect" id="node22" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="1180,183,1268,209"/>
+<area shape="rect" id="node21" href="$devres_8c.html#a5fc99d8751dd9c3077992b4ac4ae697f" title="__devm_irq_alloc_descs" alt="" coords="1141,335,1307,361"/>
+<area shape="rect" id="node23" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="1373,360,1499,387"/>
+<area shape="rect" id="node25" href="$devres_8c.html#a7cc252da69c63b60785f1d53edcc1b2b" title="devm_irq_desc_release" alt="" coords="910,335,1069,361"/>
+<area shape="rect" id="node26" href="$irq__sim_8c.html#a4b1a111be98b8e29fc21e616035f4e87" title="irq_sim_fini" alt="" coords="945,436,1033,463"/>
+<area shape="rect" id="node28" href="$irqdesc_8c.html#a4cef81ef01d590f278391a18d2e54c65" title="__irq_alloc_descs" alt="" coords="926,385,1053,412"/>
+<area shape="rect" id="node27" href="$irq__sim_8c.html#adbde3c31ad1e79b50672b7005d557383" title="devm_irq_sim_release" alt="" coords="1148,436,1300,463"/>
+</map>

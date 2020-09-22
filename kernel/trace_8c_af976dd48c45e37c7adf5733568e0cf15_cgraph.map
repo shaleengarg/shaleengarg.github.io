@@ -1,0 +1,12 @@
+<map id="ftrace_exports" name="ftrace_exports">
+<area shape="rect" id="node2" href="$trace_8c.html#a697d035cb483d0b014b2a76ce3f081b6" title="trace_process_export" alt="" coords="159,107,305,133"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a6c3143f01fc48711199aac1b379fdfdd" title="ring_buffer_event_data" alt="" coords="381,31,536,57"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a3564a2fb8ca5858406e3935c4effee30" title="ring_buffer_event_length" alt="" coords="377,81,541,108"/>
+<area shape="rect" id="node10" href="$trace_8c.html#a8fed4f3f3fe12bb7de17cb5c46f7db23" title="DEFINE_MUTEX" alt="" coords="395,132,522,159"/>
+<area shape="rect" id="node11" href="$trace_8c.html#a46e9742cad70e6c959092a4cbe62f582" title="DEFINE_STATIC_KEY_FALSE" alt="" coords="353,183,564,209"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a4211dc313e1b000b36c63bc2ade02e9a" title="rb_event_data" alt="" coords="646,5,750,32"/>
+<area shape="rect" id="node5" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="612,56,784,83"/>
+<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#a894c56341812a9b48b248f554ecb5f12" title="rb_event_length" alt="" coords="641,107,755,133"/>
+<area shape="rect" id="node8" href="$trace_2ring__buffer_8c.html#a017236c041f52d8269128ef0c6c166a0" title="rb_null_event" alt="" coords="856,81,955,108"/>
+<area shape="rect" id="node9" href="$trace_2ring__buffer_8c.html#a7c53d15723d9f4db584e42e340252b11" title="rb_event_data_length" alt="" coords="832,132,979,159"/>
+</map>

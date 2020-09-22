@@ -1,0 +1,7 @@
+<map id="ptrace_access_vm" name="ptrace_access_vm">
+<area shape="rect" id="node2" href="$ptrace_8c.html#a40518cc0f6fd111bc3d18036cd7787ae" title="ptrace_readdata" alt="" coords="211,5,326,32"/>
+<area shape="rect" id="node3" href="$ptrace_8c.html#a0acf2c7ceaf0d3aa42771bdb8031f4b9" title="ptrace_writedata" alt="" coords="209,56,328,83"/>
+<area shape="rect" id="node4" href="$ptrace_8c.html#a08d79c2e0c814d6c46b7cc5a0d67ceb2" title="generic_ptrace_peekdata" alt="" coords="185,107,352,133"/>
+<area shape="rect" id="node6" href="$ptrace_8c.html#aad4d3340d6dfdbb390ffee3d05054442" title="generic_ptrace_pokedata" alt="" coords="556,107,723,133"/>
+<area shape="rect" id="node5" href="$ptrace_8c.html#a997fa2d54d41aefc751e7f2881be3d89" title="ptrace_request" alt="" coords="400,107,508,133"/>
+</map>

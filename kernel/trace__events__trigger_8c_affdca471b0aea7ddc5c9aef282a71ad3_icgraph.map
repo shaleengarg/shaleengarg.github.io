@@ -1,0 +1,4 @@
+<map id="trigger_process_regex" name="trigger_process_regex">
+<area shape="rect" id="node2" href="$trace__events__trigger_8c.html#a312e7a2211a110b9d8a11b5bb75aa454" title="event_trigger_regex\l_write" alt="" coords="204,5,340,47"/>
+<area shape="rect" id="node3" href="$trace__events__trigger_8c.html#aac5b984e75539d2d3abb28d855515fef" title="event_trigger_write" alt="" coords="388,13,520,39"/>
+</map>

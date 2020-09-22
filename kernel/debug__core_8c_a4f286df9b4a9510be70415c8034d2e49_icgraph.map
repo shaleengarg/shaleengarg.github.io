@@ -1,0 +1,11 @@
+<map id="dbg_remove_all_break" name="dbg_remove_all_break">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a37f98359903a3944046d8840ab0b3b86" title="kgdb_reenter_check" alt="" coords="427,5,565,32"/>
+<area shape="rect" id="node4" href="$gdbstub_8c.html#aac4f0f3381fb8c6b6f0eca58bf93b01a" title="gdb_cmd_status" alt="" coords="233,55,351,81"/>
+<area shape="rect" id="node9" href="$gdbstub_8c.html#a3a65c105c8dcbf72d22f702a1ecbbaee" title="gdb_cmd_detachkill" alt="" coords="223,105,361,132"/>
+<area shape="rect" id="node10" href="$gdbstub_8c.html#aedb0a9c52d0e3275f7b8820b941b1ad4" title="gdb_cmd_exception_pass" alt="" coords="205,156,379,183"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="776,9,935,36"/>
+<area shape="rect" id="node5" href="$gdbstub_8c.html#a63e2b239e99914ca4fa28d6f5b73e341" title="gdb_serial_stub" alt="" coords="439,104,553,131"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="613,79,728,105"/>
+<area shape="rect" id="node7" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="792,67,919,93"/>
+<area shape="rect" id="node8" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="801,117,909,144"/>
+</map>

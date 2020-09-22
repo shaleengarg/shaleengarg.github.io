@@ -1,0 +1,6 @@
+<map id="arch_kexec_walk_mem" name="arch_kexec_walk_mem">
+<area shape="rect" id="node2" href="$kexec__file_8c.html#ab3f8594b14d3d4cac22df76027c5b30a" title="kexec_locate_mem_hole" alt="" coords="212,13,379,39"/>
+<area shape="rect" id="node3" href="$kexec__file_8c.html#a6bb3c971f7ff0ea3f2b660ac26753ab6" title="kexec_add_buffer" alt="" coords="427,13,552,39"/>
+<area shape="rect" id="node4" href="$kexec__file_8c.html#a6d620e41ca9f482c68524286d6c16127" title="kexec_calculate_store\l_digests" alt="" coords="600,5,752,47"/>
+<area shape="rect" id="node5" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="800,13,947,39"/>
+</map>

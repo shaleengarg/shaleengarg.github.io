@@ -1,0 +1,4 @@
+<map id="irq_fixup_move_pending" name="irq_fixup_move_pending">
+<area shape="rect" id="node2" href="$cpuhotplug_8c.html#a08294ada607a9785af731024ee167b8b" title="migrate_one_irq" alt="" coords="216,13,331,39"/>
+<area shape="rect" id="node3" href="$cpuhotplug_8c.html#a7501ad0cb275fef2085a19f4abcef66a" title="irq_migrate_all_off\l_this_cpu" alt="" coords="379,5,507,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ntp_init" name="ntp_init">
+<area shape="rect" id="node2" href="$ntp_8c.html#ac3926844a111057bfd1f1ab6efb4984d" title="ntp_clear" alt="" coords="117,31,192,57"/>
+<area shape="rect" id="node3" href="$ntp_8c.html#a280c5d7090fc2243316f39e6f3b4a3c7" title="ntp_update_frequency" alt="" coords="240,5,391,32"/>
+<area shape="rect" id="node4" href="$ntp_8c.html#aa7feb092537f25ddf6170ecd047a1417" title="pps_clear" alt="" coords="276,56,355,83"/>
+</map>

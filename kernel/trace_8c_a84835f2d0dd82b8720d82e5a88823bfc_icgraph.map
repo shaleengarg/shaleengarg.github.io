@@ -1,0 +1,8 @@
+<map id="allocate_trace_buffers" name="allocate_trace_buffers">
+<area shape="rect" id="node2" href="$trace_8c.html#aab5bf5e697f269913648fca36d43efa5" title="instance_mkdir" alt="" coords="217,5,327,32"/>
+<area shape="rect" id="node6" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="204,56,340,83"/>
+<area shape="rect" id="node3" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="388,5,545,32"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="593,5,720,32"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="768,5,891,32"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="411,56,522,83"/>
+</map>

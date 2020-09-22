@@ -1,0 +1,7 @@
+<map id="prealloc_elems_and_freelist" name="prealloc_elems_and_freelist">
+<area shape="rect" id="node2" href="$syscall_8c.html#aa9a98dc6226242e16dfcfe6b0f63d9a7" title="bpf_map_area_alloc" alt="" coords="197,5,336,32"/>
+<area shape="rect" id="node3" href="$percpu__freelist_8c.html#a6b0bd1449d69d350f5a3e48e754df1a4" title="pcpu_freelist_init" alt="" coords="207,56,327,83"/>
+<area shape="rect" id="node4" href="$percpu__freelist_8c.html#a97ed3ee5e5faea1bd5006784a6127947" title="pcpu_freelist_populate" alt="" coords="191,107,343,133"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#a217e321839f1c834e23d6d7eb1e09721" title="bpf_map_area_free" alt="" coords="200,157,333,184"/>
+<area shape="rect" id="node5" href="$percpu__freelist_8c.html#a4adfa4fa763c8dcbfec9ea1e884321f1" title="__pcpu_freelist_push" alt="" coords="391,107,536,133"/>
+</map>

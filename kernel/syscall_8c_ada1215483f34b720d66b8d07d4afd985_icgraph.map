@@ -1,0 +1,8 @@
+<map id="bpf_prog_new_fd" name="bpf_prog_new_fd">
+<area shape="rect" id="node2" href="$inode_8c.html#a7d69088de36328d41e54bb3904cd9831" title="bpf_obj_get_user" alt="" coords="191,5,312,32"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="376,56,479,83"/>
+<area shape="rect" id="node7" href="$syscall_8c.html#a7cccd9b7b4c51618255d19391073843c" title="bpf_prog_get_fd_by_id" alt="" coords="175,107,328,133"/>
+<area shape="rect" id="node3" href="$syscall_8c.html#a5d55317fe82c5b25f98b5e8c9c44a584" title="bpf_obj_get" alt="" coords="383,5,472,32"/>
+<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="527,56,673,83"/>
+<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="721,56,868,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="lockup_detector_reconfigure" name="lockup_detector_reconfigure">
+<area shape="rect" id="node2" href="$watchdog_8c.html#a650371cd2c58385d9fe1a2a807f8007b" title="lockup_detector_update\l_enable" alt="" coords="440,5,600,47"/>
+<area shape="rect" id="node3" href="$watchdog_8c.html#aeaa55bf82b4a14cb00aa53d52696011f" title="lockup_detector_setup" alt="" coords="239,75,392,102"/>
+<area shape="rect" id="node5" href="$watchdog_8c.html#a877b175a1729e78764622286fa85893b" title="lockup_detector_soft\l_poweroff" alt="" coords="244,127,387,168"/>
+<area shape="rect" id="node4" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="451,75,589,102"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ktime_get_raw" name="ktime_get_raw">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#ac8e7722e039bd1c55952d0d928051f25" title="timekeeping_get_ns" alt="" coords="177,49,315,76"/>
+<area shape="rect" id="node9" href="$timekeeping_8c.html#aee4e2486a9ceea0035b6cf5eb4806263" title="EXPORT_SYMBOL_GPL" alt="" coords="160,100,332,127"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#a1400024371a97972c5cbe39991c11491" title="timekeeping_get_delta" alt="" coords="387,19,539,45"/>
+<area shape="rect" id="node7" href="$timekeeping_8c.html#aff7af75dc9ba3c32be38314b82446b2b" title="timekeeping_delta_to_ns" alt="" coords="380,81,547,108"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html#a0a2d3da1a9add2c004e9ff39fe235e53" title="tk_clock_read" alt="" coords="609,5,711,32"/>
+<area shape="rect" id="node6" href="$timekeeping__internal_8h.html#a08e2db14d41b71d8625270fee4d5525b" title="clocksource_delta" alt="" coords="800,56,927,83"/>
+<area shape="rect" id="node5" href="$timekeeping_8c.html#a293d6c276a243bdb47aaccb0a9905b71" title="timekeeping_check_update" alt="" coords="773,5,953,32"/>
+<area shape="rect" id="node8" href="$timekeeping_8c.html#ae94aa5f77858790eb72de2789909b0dd" title="arch_gettimeoffset" alt="" coords="595,107,725,133"/>
+</map>

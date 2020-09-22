@@ -1,0 +1,6 @@
+<map id="put_clock_desc" name="put_clock_desc">
+<area shape="rect" id="node2" href="$posix-clock_8c.html#a4a688acf062526c87567ab5d81936d82" title="pc_clock_adjtime" alt="" coords="167,5,290,32"/>
+<area shape="rect" id="node3" href="$posix-clock_8c.html#a5b15da47e88b617a17b4580537888872" title="pc_clock_gettime" alt="" coords="167,56,291,83"/>
+<area shape="rect" id="node4" href="$posix-clock_8c.html#a12b96c5bc704aa4436a3882d12afd72c" title="pc_clock_getres" alt="" coords="170,107,287,133"/>
+<area shape="rect" id="node5" href="$posix-clock_8c.html#ae5222abe528bf5df7aabf6116d63de80" title="pc_clock_settime" alt="" coords="167,157,291,184"/>
+</map>

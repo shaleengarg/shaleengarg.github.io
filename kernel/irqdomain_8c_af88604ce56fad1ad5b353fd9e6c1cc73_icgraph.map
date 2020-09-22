@@ -1,0 +1,14 @@
+<map id="irq_domain_get_irq_data" name="irq_domain_get_irq_data">
+<area shape="rect" id="node2" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="223,5,371,32"/>
+<area shape="rect" id="node3" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="216,56,379,83"/>
+<area shape="rect" id="node4" href="$irqdomain_8c.html#a54662f580ce4268f857839228f57be26" title="irq_find_mapping" alt="" coords="237,107,357,133"/>
+<area shape="rect" id="node11" href="$msi_8c.html#a59aeac9c865c81eca9afdc137174225c" title="get_cached_msi_msg" alt="" coords="427,157,576,184"/>
+<area shape="rect" id="node12" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="217,208,378,235"/>
+<area shape="rect" id="node5" href="$generic-chip_8c.html#a6e989acb4424a3d6d489bbf76e68d506" title="irq_gc_get_irq_data" alt="" coords="434,5,569,32"/>
+<area shape="rect" id="node7" href="$irqdesc_8c.html#ae4060800199d47f87e496bbf95303a89" title="generic_handle_irq" alt="" coords="436,56,567,83"/>
+<area shape="rect" id="node8" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="434,208,569,235"/>
+<area shape="rect" id="node9" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="624,157,808,184"/>
+<area shape="rect" id="node6" href="$generic-chip_8c.html#a57aafefa1555cc6fed64d51a97aa8a13" title="irq_gc_shutdown" alt="" coords="656,5,776,32"/>
+<area shape="rect" id="node10" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="856,157,1009,184"/>
+<area shape="rect" id="node13" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="448,259,555,285"/>
+</map>

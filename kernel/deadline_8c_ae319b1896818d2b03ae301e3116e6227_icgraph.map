@@ -1,0 +1,7 @@
+<map id="update_curr_dl" name="update_curr_dl">
+<area shape="rect" id="node2" href="$deadline_8c.html#a24b72ab9da294356922d9e6198b5261f" title="dequeue_task_dl" alt="" coords="163,5,283,32"/>
+<area shape="rect" id="node3" href="$deadline_8c.html#a45a4c398598b163ff686a78b72f9a9e5" title="yield_task_dl" alt="" coords="174,56,273,83"/>
+<area shape="rect" id="node4" href="$deadline_8c.html#a27c3169c41807cb90c939755e284cd64" title="pick_next_task_dl" alt="" coords="160,107,287,133"/>
+<area shape="rect" id="node5" href="$deadline_8c.html#a260242091bdb9de3db3219d7fdfa14e0" title="put_prev_task_dl" alt="" coords="163,157,284,184"/>
+<area shape="rect" id="node6" href="$deadline_8c.html#a20c82651411468baa4a2b196f82cac77" title="task_tick_dl" alt="" coords="177,208,269,235"/>
+</map>

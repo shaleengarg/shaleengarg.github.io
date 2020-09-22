@@ -1,0 +1,9 @@
+<map id="update_stats_enqueue_sleeper" name="update_stats_enqueue_sleeper">
+<area shape="rect" id="node2" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="217,5,282,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#ad3626499c2477c1305ef65fbf49caa50" title="rq_clock" alt="" coords="214,56,285,83"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="224,107,275,133"/>
+<area shape="rect" id="node6" href="$profile_8c.html#a90e1aafe3434d7a96fea8dde23437a57" title="profile_hits" alt="" coords="207,157,292,184"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="351,56,501,83"/>
+<area shape="rect" id="node7" href="$profile_8c.html#a08555a496ec7affb4212c044cf8fd1f8" title="do_profile_hits" alt="" coords="373,132,479,159"/>
+<area shape="rect" id="node8" href="$profile_8c.html#a5e327c00a60e9028892f7d80b0a6578c" title="EXPORT_SYMBOL_GPL" alt="" coords="340,183,512,209"/>
+</map>

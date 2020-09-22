@@ -1,0 +1,5 @@
+<map id="sugov_next_freq_shared" name="sugov_next_freq_shared">
+<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#aa8ae48ed24dab8c3fdc4aca255e98c3f" title="sugov_update_shared" alt="" coords="217,5,367,32"/>
+<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#ad14ac61599cac2bf2fc8e42dc04bc8cb" title="sugov_start" alt="" coords="415,5,505,32"/>
+<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="553,5,648,32"/>
+</map>

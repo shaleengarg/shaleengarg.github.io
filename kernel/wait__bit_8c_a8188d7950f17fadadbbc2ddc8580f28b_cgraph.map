@@ -1,0 +1,8 @@
+<map id="out_of_line_wait_on_bit_lock" name="out_of_line_wait_on_bit_lock">
+<area shape="rect" id="node2" href="$wait__bit_8c.html#a7fed39ee05b2808e852bc0ac5a342892" title="bit_waitqueue" alt="" coords="206,5,309,32"/>
+<area shape="rect" id="node3" href="$wait__bit_8c.html#a2e475fc5bdf1a96f6b442e6a83d58493" title="EXPORT_SYMBOL" alt="" coords="391,56,529,83"/>
+<area shape="rect" id="node4" href="$wait__bit_8c.html#a703ac09d970ae080631a82354d38e1d4" title="__wait_on_bit_lock" alt="" coords="191,107,324,133"/>
+<area shape="rect" id="node5" href="$wait_8c.html#af408fb5dfca56af35065ca39bf3e0450" title="prepare_to_wait_exclusive" alt="" coords="372,107,548,133"/>
+<area shape="rect" id="node7" href="$wait_8c.html#a1b580f4dc9fb3d0240691f5819f645a0" title="finish_wait" alt="" coords="418,157,502,184"/>
+<area shape="rect" id="node6" href="$wait_8c.html#abbc7aad2df524f453d116100cff65114" title="EXPORT_SYMBOL" alt="" coords="596,132,735,159"/>
+</map>

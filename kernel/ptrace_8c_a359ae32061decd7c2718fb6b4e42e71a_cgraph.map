@@ -1,0 +1,4 @@
+<map id="ptrace_peek_siginfo" name="ptrace_peek_siginfo">
+<area shape="rect" id="node2" href="$signal_8c.html#a4c4581d1be950d9e15e1d8cbaa28926b" title="copy_siginfo_to_user" alt="" coords="192,5,337,32"/>
+<area shape="rect" id="node3" href="$signal_8c.html#ac194166e0a3abe624c808c2756a64710" title="siginfo_layout" alt="" coords="385,5,488,32"/>
+</map>

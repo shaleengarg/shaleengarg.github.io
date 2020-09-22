@@ -1,0 +1,13 @@
+<map id="update_stack_depth" name="update_stack_depth">
+<area shape="rect" id="node2" href="$verifier_8c.html#a59257cfeb26bb666dc3e7d92204906c4" title="check_mem_access" alt="" coords="628,56,771,83"/>
+<area shape="rect" id="node10" href="$verifier_8c.html#aaeeddd58229552119a83485570a3784a" title="check_stack_boundary" alt="" coords="192,107,348,133"/>
+<area shape="rect" id="node3" href="$verifier_8c.html#a4730dff83393079b71bf938af669b59b" title="check_xadd" alt="" coords="836,5,928,32"/>
+<area shape="rect" id="node4" href="$verifier_8c.html#a54874e8dfa3e9dca5a751350665baca6" title="do_check" alt="" coords="993,56,1072,83"/>
+<area shape="rect" id="node9" href="$verifier_8c.html#ae5af484c694d8da18fe89aeda1218fcc" title="check_helper_call" alt="" coords="819,107,945,133"/>
+<area shape="rect" id="node5" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="1120,56,1203,83"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="1251,56,1353,83"/>
+<area shape="rect" id="node7" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="1401,56,1548,83"/>
+<area shape="rect" id="node8" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1596,56,1743,83"/>
+<area shape="rect" id="node11" href="$verifier_8c.html#a6cbd2b55a0f9a70a69e3da43404e4dd4" title="check_helper_mem_access" alt="" coords="396,107,580,133"/>
+<area shape="rect" id="node12" href="$verifier_8c.html#a103f8e0022a661f2f66208a6079e2cdb" title="check_func_arg" alt="" coords="642,107,757,133"/>
+</map>

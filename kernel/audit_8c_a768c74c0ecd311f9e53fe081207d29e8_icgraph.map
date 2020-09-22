@@ -1,0 +1,6 @@
+<map id="audit_log_feature_change" name="audit_log_feature_change">
+<area shape="rect" id="node2" href="$audit_8c.html#a042019475b20e2a4e0bed8777c613bbb" title="audit_set_feature" alt="" coords="224,5,347,32"/>
+<area shape="rect" id="node3" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="395,5,525,32"/>
+<area shape="rect" id="node4" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="573,5,672,32"/>
+<area shape="rect" id="node5" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="720,5,819,32"/>
+</map>

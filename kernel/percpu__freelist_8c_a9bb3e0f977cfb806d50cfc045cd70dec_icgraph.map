@@ -1,0 +1,15 @@
+<map id="pcpu_freelist_pop" name="pcpu_freelist_pop">
+<area shape="rect" id="node2" href="$hashtab_8c.html#aaa70e1914d2b0165b30d7f928cf04f36" title="alloc_extra_elems" alt="" coords="177,5,304,32"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#a03402f5f7a3b2722bb9804b08a5e7c19" title="alloc_htab_elem" alt="" coords="183,56,299,83"/>
+<area shape="rect" id="node14" href="$stackmap_8c.html#ac245996cc7e120867ea30a425d3bcfa4" title="BPF_CALL_3" alt="" coords="189,107,292,133"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#a88744462667e8a451f9382ddc329a9ce" title="htab_map_alloc" alt="" coords="405,5,519,32"/>
+<area shape="rect" id="node4" href="$hashtab_8c.html#a9f58cb1ebdd3514bfaef27291e47d9fe" title="htab_of_map_alloc" alt="" coords="658,5,789,32"/>
+<area shape="rect" id="node6" href="$hashtab_8c.html#a8c684ebfb52f23158291546ee4274155" title="htab_map_update_elem" alt="" coords="382,56,542,83"/>
+<area shape="rect" id="node11" href="$hashtab_8c.html#a0fb0c85fc97ad879ebaf23f85287c1ef" title="__htab_percpu_map_update_elem" alt="" coords="352,107,572,133"/>
+<area shape="rect" id="node7" href="$hashtab_8c.html#ade820cab321f9602753a8238eb0f3e2b" title="bpf_fd_htab_map_update_elem" alt="" coords="622,56,825,83"/>
+<area shape="rect" id="node8" href="$syscall_8c.html#a06b7c30c4fb19ef9e8571c577b00a5e4" title="map_update_elem" alt="" coords="875,107,1003,133"/>
+<area shape="rect" id="node9" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="1051,107,1197,133"/>
+<area shape="rect" id="node10" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1245,107,1392,133"/>
+<area shape="rect" id="node12" href="$hashtab_8c.html#a10de14686413f335f3be3e6c63dae8d1" title="htab_percpu_map_update_elem" alt="" coords="620,107,827,133"/>
+<area shape="rect" id="node13" href="$hashtab_8c.html#a5950bb703b608763862a71d64020cf5f" title="bpf_percpu_hash_update" alt="" coords="640,157,807,184"/>
+</map>

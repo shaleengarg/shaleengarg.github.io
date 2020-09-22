@@ -1,0 +1,8 @@
+<map id="audit_log_cap" name="audit_log_cap">
+<area shape="rect" id="node2" href="$audit_8c.html#a71f2133343eb0cfcdbc34a643eadbb5b" title="audit_log_fcaps" alt="" coords="156,5,269,32"/>
+<area shape="rect" id="node4" href="$auditsc_8c.html#a8c3c6d33cfd0a7daf39bf849893790ae" title="audit_log_exit" alt="" coords="479,56,581,83"/>
+<area shape="rect" id="node7" href="$auditsc_8c.html#ac9e80b6cc11b6f708e885eb96c3f79bb" title="show_special" alt="" coords="323,107,425,133"/>
+<area shape="rect" id="node3" href="$audit_8h.html#abf5fded878f92671f409e52977158ba5" title="audit_log_name" alt="" coords="317,5,431,32"/>
+<area shape="rect" id="node5" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="653,31,746,57"/>
+<area shape="rect" id="node6" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="629,81,769,108"/>
+</map>

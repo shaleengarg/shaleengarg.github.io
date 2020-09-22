@@ -1,0 +1,5 @@
+<map id="hibernate" name="hibernate">
+<area shape="rect" id="node2" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="146,5,257,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="158,56,245,83"/>
+<area shape="rect" id="node4" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="128,107,275,133"/>
+</map>

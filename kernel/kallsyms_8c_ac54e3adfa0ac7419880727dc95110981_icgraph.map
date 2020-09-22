@@ -1,0 +1,13 @@
+<map id="kallsyms_lookup_size_offset" name="kallsyms_lookup_size_offset">
+<area shape="rect" id="node2" href="$livepatch_2core_8c.html#a4424d691d1a69248142b2fdfebdbd3ca" title="klp_init_object_loaded" alt="" coords="206,31,357,57"/>
+<area shape="rect" id="node10" href="$kprobes_8c.html#a640d41362a4069d7d899885c5285dc32" title="arch_deref_entry_point" alt="" coords="204,81,359,108"/>
+<area shape="rect" id="node11" href="$kprobes_8c.html#a3e9b5e2fe15fc8fe4f73aea75e81bedf" title="populate_kprobe_blacklist" alt="" coords="407,119,579,145"/>
+<area shape="rect" id="node3" href="$livepatch_2core_8c.html#a59976b383d33992d4abd2bec2b7fb7fa" title="klp_init_object" alt="" coords="440,5,545,32"/>
+<area shape="rect" id="node6" href="$livepatch_2core_8c.html#a791a2a3f4a5720428cad8ff7b73d6221" title="klp_module_coming" alt="" coords="424,56,561,83"/>
+<area shape="rect" id="node4" href="$livepatch_2core_8c.html#a848513ac3f9e50a8b74e83054d547342" title="klp_init_patch" alt="" coords="657,5,759,32"/>
+<area shape="rect" id="node5" href="$livepatch_2core_8c.html#a31706e906563b4da3f3dc3b13cc87100" title="klp_register_patch" alt="" coords="837,5,965,32"/>
+<area shape="rect" id="node7" href="$module_8c.html#a0bb8529c27e0a03ab783f505ef4a3b99" title="prepare_coming_module" alt="" coords="627,56,789,83"/>
+<area shape="rect" id="node8" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="854,56,949,83"/>
+<area shape="rect" id="node9" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="1013,56,1160,83"/>
+<area shape="rect" id="node12" href="$kprobes_8c.html#acc06dfb4d93c2cc31c06cc54cae57cda" title="init_kprobes" alt="" coords="662,119,754,145"/>
+</map>

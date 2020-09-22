@@ -1,0 +1,6 @@
+<map id="tracing_stop" name="tracing_stop">
+<area shape="rect" id="node2" href="$trace_8c.html#a5bc5dd4c92203f66658529db9aa99ec2" title="tracing_stop_tr" alt="" coords="169,5,277,32"/>
+<area shape="rect" id="node5" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="147,56,299,83"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a955709da6716f7735bbf08d6aa04e2ce" title="__tracing_open" alt="" coords="347,5,457,32"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a030b6d3f3dc1522b50e3b9314e60d79f" title="tracing_open" alt="" coords="505,5,601,32"/>
+</map>

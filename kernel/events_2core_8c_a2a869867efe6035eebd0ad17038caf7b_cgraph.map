@@ -1,0 +1,12 @@
+<map id="perf_event_stop" name="perf_event_stop">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a915ab0434a35ddcff372b43899d5d2e2" title="cpu_function_call" alt="" coords="171,107,294,133"/>
+<area shape="rect" id="node11" href="$events_2core_8c.html#a59186202631c47a91b093fdf1c16ae1c" title="__perf_event_stop" alt="" coords="168,157,297,184"/>
+<area shape="rect" id="node3" href="$smp_8c.html#a01d34c6f7f3677880f1b4709c1c0922c" title="smp_call_function_single" alt="" coords="345,81,513,108"/>
+<area shape="rect" id="node10" href="$events_2core_8c.html#a5df4eb0949772fdfcdb81dd2da932caa" title="remote_function" alt="" coords="372,132,487,159"/>
+<area shape="rect" id="node4" href="$smp_8c.html#a07fe381d7220ef19d10b1f9e9dec6d3b" title="csd_lock" alt="" coords="594,5,669,32"/>
+<area shape="rect" id="node5" href="$smp_8c.html#adc0b37584c38e274914d6bb29dcc8352" title="csd_lock_wait" alt="" coords="749,31,855,57"/>
+<area shape="rect" id="node6" href="$smp_8c.html#aa69f18122d129e59f68470e2f5fb13bc" title="generic_exec_single" alt="" coords="561,107,701,133"/>
+<area shape="rect" id="node9" href="$smp_8c.html#a46efd20a5f2da3a54284b1865f38bc99" title="EXPORT_SYMBOL" alt="" coords="562,157,701,184"/>
+<area shape="rect" id="node7" href="$smp_8c.html#acc2a6f51b309df6076b999062198b635" title="csd_unlock" alt="" coords="758,107,846,133"/>
+<area shape="rect" id="node8" href="$smp_8c.html#ae008b86306eb95ab2673910ad547192d" title="DEFINE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="903,99,1109,141"/>
+</map>

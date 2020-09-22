@@ -1,0 +1,6 @@
+<map id="osq_lock" name="osq_lock">
+<area shape="rect" id="node2" href="$osq__lock_8c.html#abc3f44247a4a5ea8de77c1b2be155975" title="encode_cpu" alt="" coords="283,52,375,78"/>
+<area shape="rect" id="node3" href="$osq__lock_8c.html#a7b6dfd97531f53675e6360130b1e8e05" title="decode_cpu" alt="" coords="135,26,227,53"/>
+<area shape="rect" id="node4" href="$osq__lock_8c.html#a784499cbee436fd5a1c1b146b8115075" title="node_cpu" alt="" coords="142,77,221,104"/>
+<area shape="rect" id="node5" href="$osq__lock_8c.html#a55e4703c967ae844433f823a522d600f" title="osq_wait_next" alt="" coords="128,128,235,154"/>
+</map>

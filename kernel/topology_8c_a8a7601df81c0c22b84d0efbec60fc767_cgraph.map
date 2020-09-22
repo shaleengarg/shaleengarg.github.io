@@ -1,0 +1,11 @@
+<map id="alloc_rootdomain" name="alloc_rootdomain">
+<area shape="rect" id="node2" href="$topology_8c.html#ae8bc95ca593ca62eeaaffd49f94fc695" title="init_rootdomain" alt="" coords="173,157,284,184"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="521,208,571,235"/>
+<area shape="rect" id="node3" href="$deadline_8c.html#adf24efa19f97676c230da5efd6d67411" title="init_dl_bw" alt="" coords="345,56,425,83"/>
+<area shape="rect" id="node7" href="$cpudeadline_8c.html#ad61a9cda2a372dbc0b14b082f5d96152" title="cpudl_init" alt="" coords="346,107,423,133"/>
+<area shape="rect" id="node9" href="$cpupri_8c.html#a4bc90c3f287468b6d0e455e7a0173405" title="cpupri_init" alt="" coords="344,157,425,184"/>
+<area shape="rect" id="node10" href="$cpudeadline_8c.html#ace9a2255347ddba44cdbb061fb8b6309" title="cpudl_cleanup" alt="" coords="332,208,437,235"/>
+<area shape="rect" id="node4" href="$sched_8h.html#abbb05e19ab2ae357d78cf204c331d75e" title="global_rt_runtime" alt="" coords="485,5,607,32"/>
+<area shape="rect" id="node5" href="$sched_2core_8c.html#a15ed1bc07adbe7affb9019b52156b9ad" title="to_ratio" alt="" coords="513,56,579,83"/>
+<area shape="rect" id="node6" href="$sched_8h.html#aacf5032d4046bc4665f44c2513bb62af" title="global_rt_period" alt="" coords="489,107,603,133"/>
+</map>

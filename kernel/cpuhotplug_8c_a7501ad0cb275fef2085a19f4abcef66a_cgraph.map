@@ -1,0 +1,25 @@
+<map id="irq_migrate_all_off_this_cpu" name="irq_migrate_all_off_this_cpu">
+<area shape="rect" id="node2" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="194,69,283,96"/>
+<area shape="rect" id="node4" href="$cpuhotplug_8c.html#a08294ada607a9785af731024ee167b8b" title="migrate_one_irq" alt="" coords="181,183,296,209"/>
+<area shape="rect" id="node3" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="370,5,509,32"/>
+<area shape="rect" id="node5" href="$internals_8h.html#a653e7886dfab820bd504d3337bc9941e" title="irq_can_move_pcntxt" alt="" coords="366,107,513,133"/>
+<area shape="rect" id="node6" href="$cpuhotplug_8c.html#a6a946fb6fc89a95d28a1d7432b9b7cac" title="irq_needs_fixup" alt="" coords="383,157,496,184"/>
+<area shape="rect" id="node7" href="$migration_8c.html#a61aab8c08d9b28f7192ad7333ff0bff8" title="irq_fixup_move_pending" alt="" coords="358,208,521,235"/>
+<area shape="rect" id="node9" href="$internals_8h.html#a988935db61dcc4c581f2e0a60bfcb002" title="irq_desc_get_pending_mask" alt="" coords="346,259,533,285"/>
+<area shape="rect" id="node10" href="$internals_8h.html#ad6cf3c253bca2ba6d580df7c05bcccd1" title="irqd_set_managed_shutdown" alt="" coords="344,309,535,336"/>
+<area shape="rect" id="node11" href="$chip_8c.html#a18f6a78a9317913563e805f72970e449" title="irq_shutdown" alt="" coords="390,360,489,387"/>
+<area shape="rect" id="node24" href="$internals_8h.html#a645f439e613cfecfb41a8585b30b8e1f" title="irq_do_set_affinity" alt="" coords="375,56,503,83"/>
+<area shape="rect" id="node8" href="$internals_8h.html#a1173c00685998a46190284635e85970a" title="irqd_clr_move_pending" alt="" coords="592,179,747,205"/>
+<area shape="rect" id="node12" href="$internals_8h.html#a408d5a786fa5e0a674f4385abb5fe24b" title="irq_state_set_disabled" alt="" coords="820,309,972,336"/>
+<area shape="rect" id="node14" href="$internals_8h.html#aacc952157d4a58b881c0654754187ea2" title="irq_state_set_masked" alt="" coords="1036,385,1187,412"/>
+<area shape="rect" id="node15" href="$chip_8c.html#a042216b1339d87a5318d8acd4b437e40" title="__irq_disable" alt="" coords="620,360,719,387"/>
+<area shape="rect" id="node17" href="$chip_8c.html#a30056e662a594ceffcd5bbac551bd742" title="irq_state_clr_started" alt="" coords="599,512,739,539"/>
+<area shape="rect" id="node19" href="$internals_8h.html#a680cabcba8a194364f5793b97457fc8c" title="irq_domain_deactivate_irq" alt="" coords="583,229,756,256"/>
+<area shape="rect" id="node13" href="$internals_8h.html#aac862a1ae8de71b6ed2e9f9a92b49233" title="irqd_set" alt="" coords="1235,360,1303,387"/>
+<area shape="rect" id="node16" href="$chip_8c.html#af966354d0da58415966fdd6ddc3cab16" title="mask_irq" alt="" coords="859,411,933,437"/>
+<area shape="rect" id="node18" href="$internals_8h.html#aa9e387b4c059b69ac7afbe5b2f5375cb" title="irqd_clear" alt="" coords="857,512,935,539"/>
+<area shape="rect" id="node20" href="$internals_8h.html#a353a2bdb0e742f2f18125ef62896d308" title="irq_add_debugfs_entry" alt="" coords="819,141,973,168"/>
+<area shape="rect" id="node21" href="$internals_8h.html#a2eaeb9e12ce0b53221b8beb37b795af6" title="irq_remove_debugfs\l_entry" alt="" coords="827,193,965,234"/>
+<area shape="rect" id="node22" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="871,259,921,285"/>
+<area shape="rect" id="node23" href="$internals_8h.html#aa2b8b9b80ce4670b5f2246b41df80b98" title="irq_debugfs_copy_devname" alt="" coords="804,91,988,117"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="irq_settings_can_request" name="irq_settings_can_request">
+<area shape="rect" id="node2" href="$manage_8c.html#a618a2cd55b7bcb2425d125aeea38d483" title="can_request_irq" alt="" coords="236,5,351,32"/>
+<area shape="rect" id="node3" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="222,56,365,83"/>
+<area shape="rect" id="node7" href="$manage_8c.html#a88b25a1a89eee2cf026de584301ac767" title="__request_percpu_irq" alt="" coords="220,107,367,133"/>
+<area shape="rect" id="node4" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="415,31,597,57"/>
+<area shape="rect" id="node5" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="424,81,588,108"/>
+<area shape="rect" id="node6" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="645,81,848,108"/>
+</map>

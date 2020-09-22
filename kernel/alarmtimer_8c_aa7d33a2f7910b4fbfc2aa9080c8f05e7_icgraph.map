@@ -1,0 +1,11 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$alarmtimer_8c.html#a52e476f488d3b0466e1bd56d99f04db4" title="alarm_expires_remaining" alt="" coords="225,5,392,32"/>
+<area shape="rect" id="node3" href="$alarmtimer_8c.html#a3a27e8597645654377050706c549cc00" title="alarm_init" alt="" coords="469,56,547,83"/>
+<area shape="rect" id="node4" href="$alarmtimer_8c.html#af1ba12909a0451f65d5707a3c1fa6385" title="alarm_forward_now" alt="" coords="624,208,759,235"/>
+<area shape="rect" id="node5" href="$alarmtimer_8c.html#a74c6882ee1d69b3071b7daad39158728" title="alarm_start" alt="" coords="265,157,352,184"/>
+<area shape="rect" id="node6" href="$alarmtimer_8c.html#a87bf26ecc9dfc1d9ec025dfda5054d15" title="alarm_start_relative" alt="" coords="440,208,576,235"/>
+<area shape="rect" id="node7" href="$alarmtimer_8c.html#acf440b07be7bfa22f656a2dc2bbdc6aa" title="alarm_restart" alt="" coords="259,259,358,285"/>
+<area shape="rect" id="node8" href="$alarmtimer_8c.html#aaf547599aabf95fb99ca474eaa0f36ec" title="alarm_try_to_cancel" alt="" coords="239,309,378,336"/>
+<area shape="rect" id="node9" href="$alarmtimer_8c.html#a006495b284ae959d39c9516d67ebe40b" title="alarm_cancel" alt="" coords="459,309,557,336"/>
+<area shape="rect" id="node10" href="$alarmtimer_8c.html#af2cfc4db4d12f32132c3c67ffa7da031" title="alarm_forward" alt="" coords="456,385,560,412"/>
+</map>

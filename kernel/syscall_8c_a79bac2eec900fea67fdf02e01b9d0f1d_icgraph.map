@@ -1,0 +1,16 @@
+<map id="bpf_map_inc" name="bpf_map_inc">
+<area shape="rect" id="node2" href="$inode_8c.html#a486bd1646a8c8de3603d0c74a89f44da" title="bpf_any_get" alt="" coords="181,5,275,32"/>
+<area shape="rect" id="node8" href="$map__in__map_8h.html#a65347e50fe3237b47fc529a6c22309d5" title="bpf_map_fd_get_ptr" alt="" coords="159,56,297,83"/>
+<area shape="rect" id="node9" href="$syscall_8c.html#a61b173b8e4137ab88b75d2d09125519a" title="bpf_map_get_with_uref" alt="" coords="149,107,307,133"/>
+<area shape="rect" id="node13" href="$verifier_8c.html#a13581908e3296ead41c84cd94b384375" title="replace_map_fd_with\l_map_ptr" alt="" coords="355,150,500,191"/>
+<area shape="rect" id="node3" href="$inode_8c.html#adb377826a833a62fc5694ff0e896af75" title="bpf_obj_do_get" alt="" coords="372,16,483,43"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a7d69088de36328d41e54bb3904cd9831" title="bpf_obj_get_user" alt="" coords="548,37,669,64"/>
+<area shape="rect" id="node5" href="$syscall_8c.html#a5d55317fe82c5b25f98b5e8c9c44a584" title="bpf_obj_get" alt="" coords="724,43,813,69"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="868,99,1015,125"/>
+<area shape="rect" id="node7" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1063,99,1209,125"/>
+<area shape="rect" id="node10" href="$inode_8c.html#a00d76255453e241525bd89f8071e25ae" title="bpf_fd_probe_obj" alt="" coords="367,99,488,125"/>
+<area shape="rect" id="node11" href="$inode_8c.html#a1aa5a97bf15bfc89422a0b482edfdd09" title="bpf_obj_pin_user" alt="" coords="549,99,669,125"/>
+<area shape="rect" id="node12" href="$syscall_8c.html#af9d9e17676ec051855620622a9e16b40" title="bpf_obj_pin" alt="" coords="725,99,813,125"/>
+<area shape="rect" id="node14" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="567,155,650,181"/>
+<area shape="rect" id="node15" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="717,151,820,177"/>
+</map>

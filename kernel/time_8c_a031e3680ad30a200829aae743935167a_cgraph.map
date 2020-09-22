@@ -1,0 +1,5 @@
+<map id="timeval_to_jiffies" name="timeval_to_jiffies">
+<area shape="rect" id="node2" href="$time_8c.html#a0c013736dea05a5e06ef38139fddaa67" title="__timespec_to_jiffies" alt="" coords="173,5,319,32"/>
+<area shape="rect" id="node4" href="$time_8c.html#af5a6150711c1a70088b8e6557154551c" title="EXPORT_SYMBOL" alt="" coords="177,56,315,83"/>
+<area shape="rect" id="node3" href="$time_8c.html#a17caf2f4e513e1020d34c892283dceef" title="__timespec64_to_jiffies" alt="" coords="367,5,525,32"/>
+</map>

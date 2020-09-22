@@ -1,0 +1,7 @@
+<map id="tick_check_preferred" name="tick_check_preferred">
+<area shape="rect" id="node2" href="$tick-oneshot_8c.html#a2c24e95ddea8a53a8e711d91d319a1bb" title="tick_oneshot_mode_active" alt="" coords="196,46,373,73"/>
+<area shape="rect" id="node3" href="$tick-oneshot_8c.html#aed7da07e27a0f2cb71b05d17fa0e5508" title="tick_switch_to_oneshot" alt="" coords="421,46,580,73"/>
+<area shape="rect" id="node4" href="$clockevents_8c.html#af738190c7422701a938cb919749ea505" title="clockevents_switch\l_state" alt="" coords="635,5,773,47"/>
+<area shape="rect" id="node6" href="$tick-internal_8h.html#a1ca6c31e5b2f5fac9f213dfee7e3a782" title="tick_broadcast_switch\l_to_oneshot" alt="" coords="628,71,780,112"/>
+<area shape="rect" id="node5" href="$clockevents_8c.html#a32b5546cace9e0f7617029fdd8abbbc1" title="__clockevents_switch\l_state" alt="" coords="828,5,979,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="get_perf_callchain" name="get_perf_callchain">
+<area shape="rect" id="node2" href="$callchain_8c.html#a06d882e37961a83450b9237c4ecfc2f9" title="get_callchain_entry" alt="" coords="185,35,319,61"/>
+<area shape="rect" id="node6" href="$callchain_8c.html#a4c9205174bfad57a65eb915c2845f4c7" title="perf_callchain_kernel" alt="" coords="180,85,324,112"/>
+<area shape="rect" id="node7" href="$callchain_8c.html#a56323dc4a1e0d7314859b13e13d6d366" title="perf_callchain_user" alt="" coords="185,136,319,163"/>
+<area shape="rect" id="node8" href="$callchain_8c.html#a61b861c9919827f97a1e74726e609f66" title="put_callchain_entry" alt="" coords="185,187,319,213"/>
+<area shape="rect" id="node3" href="$events_2internal_8h.html#af56e1ce8b5b148cdc3689d06ad1659cf" title="get_recursion_context" alt="" coords="372,5,523,32"/>
+<area shape="rect" id="node4" href="$callchain_8c.html#af9eba5cc45bc78e2dcbae7a4e2ae655e" title="perf_callchain_entry\l__sizeof" alt="" coords="378,57,517,98"/>
+<area shape="rect" id="node5" href="$callchain_8c.html#a427c0e8295ef30b35226bf81ba758a23" title="DEFINE_PER_CPU" alt="" coords="571,64,713,91"/>
+<area shape="rect" id="node9" href="$events_2internal_8h.html#a69955bb1efbfaed9f1752f5b4314ee69" title="put_recursion_context" alt="" coords="372,187,523,213"/>
+<area shape="rect" id="node10" href="$events_2internal_8h.html#a69ae3edfa313be7837b9da08319e3cd9" title="arch_perf_have_user\l_stack_dump" alt="" coords="571,179,713,221"/>
+</map>

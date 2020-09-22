@@ -1,0 +1,30 @@
+<map id="event_trigger_unlock_commit" name="event_trigger_unlock_commit">
+<area shape="rect" id="node2" href="$trace_8c.html#aba34c8323118c9053648694bef1eb5f0" title="trace_event_buffer\l_commit" alt="" coords="202,13,333,55"/>
+<area shape="rect" id="node7" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="210,94,325,121"/>
+<area shape="rect" id="node9" href="$trace__syscalls_8c.html#aaba6c420816ef456f8f8869def6718af" title="ftrace_syscall_enter" alt="" coords="198,174,337,201"/>
+<area shape="rect" id="node13" href="$trace__syscalls_8c.html#a3d6b272c06d6d516b801e2853e798e79" title="ftrace_syscall_exit" alt="" coords="202,239,333,266"/>
+<area shape="rect" id="node17" href="$trace__uprobe_8c.html#a9a319f26d868bcd842cd0b3a396918f3" title="__uprobe_trace_func" alt="" coords="196,341,339,367"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#ae9276b2d6d4c41de1612d864673c6b9c" title="trace_event_raw_event\l_synth" alt="" coords="393,5,550,47"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a3fc2c7cf54f6db0948a4943913be3d4d" title="register_synth_event" alt="" coords="607,13,750,39"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="801,13,937,39"/>
+<area shape="rect" id="node6" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="1000,13,1135,39"/>
+<area shape="rect" id="node8" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="434,71,509,98"/>
+<area shape="rect" id="node10" href="$trace__syscalls_8c.html#a0824cd41ef8fe593404ace6ce8fecca0" title="reg_event_syscall_enter" alt="" coords="390,122,553,149"/>
+<area shape="rect" id="node12" href="$trace__syscalls_8c.html#a3951b0a241bc013648de4fe19727caaf" title="unreg_event_syscall\l_enter" alt="" coords="401,173,542,215"/>
+<area shape="rect" id="node11" href="$trace__syscalls_8c.html#a5dd04d47a3b5f3cc07f5fc8b1711affc" title="syscall_enter_register" alt="" coords="604,151,753,178"/>
+<area shape="rect" id="node14" href="$trace__syscalls_8c.html#a0d90889236da8a9c4db7ec3ea9bd7f4a" title="reg_event_syscall_exit" alt="" coords="394,239,549,266"/>
+<area shape="rect" id="node16" href="$trace__syscalls_8c.html#a81a103f84f243c4e4b3230fdb4d4e1a3" title="unreg_event_syscall_exit" alt="" coords="387,290,556,317"/>
+<area shape="rect" id="node15" href="$trace__syscalls_8c.html#ad35b4c6334fe3d3ba2cabfc2a7282e95" title="syscall_exit_register" alt="" coords="608,265,749,291"/>
+<area shape="rect" id="node18" href="$trace__uprobe_8c.html#ad44787675337f249bad3014081652964" title="uprobe_trace_func" alt="" coords="407,341,536,367"/>
+<area shape="rect" id="node28" href="$trace__uprobe_8c.html#a9f3f90ab865c96cc3f5e57faeb1351c5" title="uretprobe_trace_func" alt="" coords="399,391,543,418"/>
+<area shape="rect" id="node19" href="$trace__uprobe_8c.html#abafedb9acadc69954159d61dd6e16a63" title="uprobe_dispatcher" alt="" coords="615,341,743,367"/>
+<area shape="rect" id="node20" href="$trace__uprobe_8c.html#a461f6c850602e703a566614b3ef25c8b" title="alloc_trace_uprobe" alt="" coords="804,366,935,393"/>
+<area shape="rect" id="node21" href="$trace__uprobe_8c.html#a9396ee67b5f3b017d2412803a8aee9f3" title="create_trace_uprobe" alt="" coords="1601,403,1741,430"/>
+<area shape="rect" id="node23" href="$trace__uprobe_8c.html#a2abd11922b7fa543ce1646c1fb2e73e2" title="unregister_uprobe_event" alt="" coords="985,417,1149,443"/>
+<area shape="rect" id="node22" href="$trace__uprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="1789,403,1885,430"/>
+<area shape="rect" id="node24" href="$trace__uprobe_8c.html#aec4f6878535c62064a0f6e1cde652a01" title="unregister_trace_uprobe" alt="" coords="1197,429,1359,455"/>
+<area shape="rect" id="node25" href="$trace__uprobe_8c.html#accdab93c824cac0be5d8b0bdcb442d8e" title="register_trace_uprobe" alt="" coords="1407,454,1553,481"/>
+<area shape="rect" id="node26" href="$trace__uprobe_8c.html#a10e05a9109cd628a88b476e1665ef8bb" title="cleanup_all_probes" alt="" coords="1413,505,1547,531"/>
+<area shape="rect" id="node27" href="$trace__uprobe_8c.html#a0b803b054f33ee5788b32468f61ca42f" title="probes_open" alt="" coords="1623,505,1719,531"/>
+<area shape="rect" id="node29" href="$trace__uprobe_8c.html#a9302243d8279a7c14a2903e5e09cbd3c" title="uretprobe_dispatcher" alt="" coords="607,391,750,418"/>
+</map>

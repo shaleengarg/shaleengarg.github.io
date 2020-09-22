@@ -1,0 +1,4 @@
+<map id="cond_unmask_eoi_irq" name="cond_unmask_eoi_irq">
+<area shape="rect" id="node2" href="$chip_8c.html#a5ad800f75bdcb43de57cdee838d66eda" title="handle_fasteoi_irq" alt="" coords="201,5,328,32"/>
+<area shape="rect" id="node3" href="$chip_8c.html#a00647ddd8467fe1985f03d1592ef1d40" title="irq_cpu_offline" alt="" coords="211,56,318,83"/>
+</map>

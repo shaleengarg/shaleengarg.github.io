@@ -1,0 +1,9 @@
+<map id="nohibernate_setup" name="nohibernate_setup">
+<area shape="rect" id="node2" href="$hibernate_8c.html#ac5cb8077110225c29ca785b408689489" title="__setup" alt="" coords="219,5,287,32"/>
+<area shape="rect" id="node3" href="$hibernate_8c.html#abe733af09de4ec7b5d571e8cb0d7f5d3" title="noresume_setup" alt="" coords="194,56,313,83"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#a605a01ad2b1a81d72eeae2baa2e077a2" title="resume_offset_setup" alt="" coords="181,107,325,133"/>
+<area shape="rect" id="node5" href="$hibernate_8c.html#a3c265fbc14ba6e7517c3b57d9ed2bb6a" title="resume_setup" alt="" coords="201,157,305,184"/>
+<area shape="rect" id="node6" href="$hibernate_8c.html#ab2f6ce6b960321c44bd33eecb9a9fe62" title="hibernate_setup" alt="" coords="196,208,311,235"/>
+<area shape="rect" id="node7" href="$hibernate_8c.html#a7a657927d634cedfa64fa40fdbd69817" title="resumewait_setup" alt="" coords="189,259,317,285"/>
+<area shape="rect" id="node8" href="$hibernate_8c.html#a71a79563cfe504e1158abf819b3e74c0" title="resumedelay_setup" alt="" coords="186,309,321,336"/>
+</map>

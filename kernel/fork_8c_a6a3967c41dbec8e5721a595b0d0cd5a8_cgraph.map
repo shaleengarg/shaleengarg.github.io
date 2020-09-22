@@ -1,0 +1,5 @@
+<map id="mm_init" name="mm_init">
+<area shape="rect" id="node2" href="$fork_8c.html#ab29ee7470c4dd7614441e7577295d65e" title="mm_init_aio" alt="" coords="154,5,246,32"/>
+<area shape="rect" id="node3" href="$fork_8c.html#af6fa05adabba488422c52190e38ac49a" title="mm_init_owner" alt="" coords="145,56,255,83"/>
+<area shape="rect" id="node4" href="$fork_8c.html#a9dbd05a19c74bbedc386df10188c7e10" title="mm_init_uprobes_state" alt="" coords="121,107,279,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="timekeeping_get_ns" name="timekeeping_get_ns">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#a1400024371a97972c5cbe39991c11491" title="timekeeping_get_delta" alt="" coords="199,19,351,45"/>
+<area shape="rect" id="node6" href="$timekeeping_8c.html#aff7af75dc9ba3c32be38314b82446b2b" title="timekeeping_delta_to_ns" alt="" coords="192,81,359,108"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#a0a2d3da1a9add2c004e9ff39fe235e53" title="tk_clock_read" alt="" coords="421,5,523,32"/>
+<area shape="rect" id="node5" href="$timekeeping__internal_8h.html#a08e2db14d41b71d8625270fee4d5525b" title="clocksource_delta" alt="" coords="612,56,739,83"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html#a293d6c276a243bdb47aaccb0a9905b71" title="timekeeping_check_update" alt="" coords="585,5,765,32"/>
+<area shape="rect" id="node7" href="$timekeeping_8c.html#ae94aa5f77858790eb72de2789909b0dd" title="arch_gettimeoffset" alt="" coords="407,107,537,133"/>
+</map>

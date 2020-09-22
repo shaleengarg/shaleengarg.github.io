@@ -1,0 +1,6 @@
+<map id="gdb_serial_stub" name="gdb_serial_stub">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="167,56,281,83"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="329,5,488,32"/>
+<area shape="rect" id="node4" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="345,56,472,83"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="355,107,463,133"/>
+</map>

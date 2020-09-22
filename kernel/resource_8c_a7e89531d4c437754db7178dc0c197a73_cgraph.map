@@ -1,0 +1,8 @@
+<map id="devm_request_resource" name="devm_request_resource">
+<area shape="rect" id="node2" href="$resource_8c.html#a1deaf24c5661c582f7a822836fcc4ab6" title="devm_resource_release" alt="" coords="220,5,380,32"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a9673883ea136cf575ab0dbb3af2a450d" title="EXPORT_SYMBOL" alt="" coords="617,56,756,83"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a5bdb8b7758a355132a8d5f895f6a4b5c" title="request_resource_conflict" alt="" coords="215,107,385,133"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a62ebb50d98501ae1708df41d555322b8" title="release_resource" alt="" coords="441,5,562,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a800ee479f001237e22ea7663baae8cba" title="__release_resource" alt="" coords="619,5,754,32"/>
+<area shape="rect" id="node7" href="$resource_8c.html#a207b5bb40f2abdfdeb54af5b3516e9ee" title="__request_resource" alt="" coords="433,107,569,133"/>
+</map>

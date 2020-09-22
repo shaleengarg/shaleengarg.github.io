@@ -1,0 +1,6 @@
+<map id="_rcu_barrier" name="_rcu_barrier">
+<area shape="rect" id="node2" href="$tree_8c.html#af33d144e8b085271ed31bda7e9f47fb4" title="rcu_barrier_bh" alt="" coords="167,5,271,32"/>
+<area shape="rect" id="node3" href="$tree_8c.html#ad0895f3ce8d74ef2de3a8bafa2ed1baa" title="rcu_barrier_sched" alt="" coords="156,56,281,83"/>
+<area shape="rect" id="node4" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="144,107,293,149"/>
+<area shape="rect" id="node5" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="341,115,491,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="snapshot_additional_pages" name="snapshot_additional_pages">
+<area shape="rect" id="node2" href="$snapshot_8c.html#aae8c45efc8e955491d94b38e9030e1d8" title="saveable_highmem_page" alt="" coords="195,5,365,32"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a6a7b0c69dd139840b769e1fc38699523" title="swsusp_page_is_forbidden" alt="" coords="191,56,369,83"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html#aa41fcddae66e65d526ea3cedbba6821f" title="swsusp_page_is_free" alt="" coords="206,107,354,133"/>
+<area shape="rect" id="node7" href="$power_8h.html#a562eb4445276b1aafd68f99b99798684" title="count_highmem_pages" alt="" coords="202,157,358,184"/>
+<area shape="rect" id="node4" href="$snapshot_8c.html#a026d4de692ba84e27571def4f442e908" title="memory_bm_test_bit" alt="" coords="417,81,561,108"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="609,81,752,108"/>
+</map>

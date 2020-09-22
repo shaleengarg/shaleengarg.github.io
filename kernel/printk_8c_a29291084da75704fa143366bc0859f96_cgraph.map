@@ -1,0 +1,5 @@
+<map id="console_suspend_disable" name="console_suspend_disable">
+<area shape="rect" id="node2" href="$printk_8c.html#a86b3eb0330387f475416f41aeec95fb6" title="__setup" alt="" coords="275,5,343,32"/>
+<area shape="rect" id="node3" href="$printk_8c.html#ac81eb5859886dad286f95e6b9bd689b2" title="module_param_named" alt="" coords="233,56,386,83"/>
+<area shape="rect" id="node4" href="$printk_8c.html#ac25f6395cbf3e6bddb5b55c9761fb79a" title="MODULE_PARM_DESC" alt="" coords="224,107,395,133"/>
+</map>

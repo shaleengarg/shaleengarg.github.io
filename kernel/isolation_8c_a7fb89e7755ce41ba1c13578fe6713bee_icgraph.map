@@ -1,0 +1,6 @@
+<map id="housekeeping_any_cpu" name="housekeeping_any_cpu">
+<area shape="rect" id="node2" href="$sched_8h.html#a9d4675b6ba4bd98d586f92991cf4964b" title="resched_cpu" alt="" coords="212,5,308,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a3dfd2827294a8ff68e72ad79ec229379" title="idle_get_state" alt="" coords="356,5,459,32"/>
+<area shape="rect" id="node4" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="507,5,635,32"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="683,5,812,32"/>
+</map>

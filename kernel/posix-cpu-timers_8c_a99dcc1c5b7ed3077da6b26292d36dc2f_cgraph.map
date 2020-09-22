@@ -1,0 +1,5 @@
+<map id="fastpath_timer_check" name="fastpath_timer_check">
+<area shape="rect" id="node2" href="$posix-cpu-timers_8c.html#a4ca08d525ecffdd7cfea428f7c149318" title="task_cputime_zero" alt="" coords="215,5,347,32"/>
+<area shape="rect" id="node3" href="$posix-cpu-timers_8c.html#a0b5f49341113373b98ab36755af19060" title="task_cputime_expired" alt="" coords="207,56,356,83"/>
+<area shape="rect" id="node4" href="$posix-cpu-timers_8c.html#a466a7ded396dadc3143c56d9c49e6f33" title="sample_cputime_atomic" alt="" coords="200,107,363,133"/>
+</map>

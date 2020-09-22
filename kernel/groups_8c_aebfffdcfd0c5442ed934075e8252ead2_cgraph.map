@@ -1,0 +1,12 @@
+<map id="set_current_groups" name="set_current_groups">
+<area shape="rect" id="node2" href="$cred_8c.html#aae17c6a2e03b98739c06f01fc324148b" title="prepare_creds" alt="" coords="187,68,291,95"/>
+<area shape="rect" id="node7" href="$groups_8c.html#aebd31c8a980511363ecacff4854ae241" title="set_groups" alt="" coords="195,245,282,272"/>
+<area shape="rect" id="node8" href="$groups_8c.html#a296caf4de47730bc9061432c0175753d" title="EXPORT_SYMBOL" alt="" coords="343,245,481,272"/>
+<area shape="rect" id="node9" href="$cred_8c.html#a5fa73ef22873164a105b62f7e56f2f0c" title="commit_creds" alt="" coords="360,157,464,184"/>
+<area shape="rect" id="node3" href="$cred_8c.html#ac95c30bfb1ac0cde3e088c2b1a4966fe" title="set_cred_subscribers" alt="" coords="339,5,485,32"/>
+<area shape="rect" id="node4" href="$cred_8c.html#ad290f71432e80bcea2b8f59edf356ab7" title="abort_creds" alt="" coords="367,107,457,133"/>
+<area shape="rect" id="node6" href="$cred_8c.html#aa3db4889c8ed414e4b1a22732cb7aacf" title="EXPORT_SYMBOL" alt="" coords="541,56,679,83"/>
+<area shape="rect" id="node5" href="$cred_8c.html#ac0f6d775e0a6862c6e15d2cd63ec880c" title="read_cred_subscribers" alt="" coords="533,107,687,133"/>
+<area shape="rect" id="node10" href="$cred_8c.html#a05d98f28ff77e1618ec8152a9f35325a" title="cred_cap_issubset" alt="" coords="545,157,675,184"/>
+<area shape="rect" id="node11" href="$cred_8c.html#acab5f1f563b97061ade28a4c2c78ff68" title="alter_cred_subscribers" alt="" coords="533,208,687,235"/>
+</map>

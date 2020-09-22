@@ -1,0 +1,9 @@
+<map id="rcu_init" name="rcu_init">
+<area shape="rect" id="node2" href="$softirq_8c.html#abff61b2e7d492ad14fbf7913c8475b91" title="open_softirq" alt="" coords="148,5,241,32"/>
+<area shape="rect" id="node3" href="$tiny_8c.html#a99eaa3852b610c9581318ffaf4903ad6" title="rcu_process_callbacks" alt="" coords="117,56,272,83"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#a0a9f24405dba8b30ebf81f517de18464" title="rcu_early_boot_tests" alt="" coords="123,107,266,133"/>
+<area shape="rect" id="node4" href="$tiny_8c.html#aa4e74f7a6a7d5e0cd69479aa42508912" title="__rcu_process_callbacks" alt="" coords="320,56,489,83"/>
+<area shape="rect" id="node5" href="$rcu_8h.html#a690f10e462cb94f720919737886cea7f" title="debug_rcu_head_unqueue" alt="" coords="537,31,711,57"/>
+<area shape="rect" id="node7" href="$rcu_8h.html#acedeb4bfd2c6d183342b2405407089a9" title="__rcu_reclaim" alt="" coords="573,81,675,108"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="759,56,809,83"/>
+</map>

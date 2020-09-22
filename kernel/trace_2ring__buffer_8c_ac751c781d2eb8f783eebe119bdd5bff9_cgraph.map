@@ -1,0 +1,6 @@
+<map id="rb_add_time_stamp" name="rb_add_time_stamp">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#afb28ae6857ec69bfc47848da5f129278" title="rb_event_index" alt="" coords="381,5,492,32"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a7b0be6e3a7ffd7819d0e4804ff4ddb60" title="rb_event_is_commit" alt="" coords="189,56,328,83"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#aaa4d1398d87e0328c4615f8f24bdefd5" title="rb_commit_index" alt="" coords="376,56,497,83"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#a70c93092840a2dd3e110fe2ab5ce0c43" title="rb_page_commit" alt="" coords="545,56,664,83"/>
+</map>

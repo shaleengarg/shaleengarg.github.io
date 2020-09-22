@@ -1,0 +1,5 @@
+<map id="__compat_get_timespec" name="__compat_get_timespec">
+<area shape="rect" id="node2" href="$compat_8c.html#acc788cec360a07645795d8dbf5648d1b" title="compat_get_timespec" alt="" coords="217,31,368,57"/>
+<area shape="rect" id="node3" href="$futex__compat_8c.html#aabadd3f3b88d3a0c59caf1cc1362c0f8" title="COMPAT_SYSCALL_DEFINE6" alt="" coords="416,5,627,32"/>
+<area shape="rect" id="node4" href="$signal_8c.html#aa1a78538d7f93eb25fee6fbef501af10" title="SYSCALL_DEFINE4" alt="" coords="448,56,595,83"/>
+</map>

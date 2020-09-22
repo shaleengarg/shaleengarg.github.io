@@ -1,0 +1,4 @@
+<map id="cpu_map_kthread_run" name="cpu_map_kthread_run">
+<area shape="rect" id="node2" href="$cpumap_8c.html#aeeabca4a778cfc84b9a1cdb712af378e" title="__cpu_map_entry_alloc" alt="" coords="204,5,363,32"/>
+<area shape="rect" id="node3" href="$cpumap_8c.html#a1b4c0bb928c7c5e0a250eb116047fbc8" title="cpu_map_update_elem" alt="" coords="411,5,567,32"/>
+</map>

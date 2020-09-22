@@ -1,0 +1,6 @@
+<map id="pv_hybrid_queued_unfair_trylock" name="pv_hybrid_queued_unfair_trylock">
+<area shape="rect" id="node2" href="$qspinlock__stat_8h.html#a6b870315712855e7fd5d3245a24b34bd" title="qstat_inc" alt="" coords="257,5,331,32"/>
+<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#abb4a15cec366e7cc8d34cbe0ba25cfd9" title="set_pending" alt="" coords="248,56,340,83"/>
+<area shape="rect" id="node4" href="$qspinlock__paravirt_8h.html#ab84f7c90949d153ee1389e592b0d5c97" title="clear_pending" alt="" coords="243,107,345,133"/>
+<area shape="rect" id="node5" href="$qspinlock__paravirt_8h.html#aab55e44eeebb48bfb073d9db52ea20b2" title="trylock_clear_pending" alt="" coords="220,157,368,184"/>
+</map>

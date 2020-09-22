@@ -1,0 +1,15 @@
+<map id="ns_to_timespec64" name="ns_to_timespec64">
+<area shape="rect" id="node2" href="$posix-cpu-timers_8c.html#a637566f3c66e85d2a028719a13b05541" title="posix_cpu_clock_get_task" alt="" coords="181,56,357,83"/>
+<area shape="rect" id="node6" href="$posix-cpu-timers_8c.html#aa55206ae9df5e90a853a0889a60478f5" title="posix_cpu_timer_set" alt="" coords="198,107,341,133"/>
+<area shape="rect" id="node10" href="$posix-cpu-timers_8c.html#a000d2e4c5e44406901aea80562eb856e" title="posix_cpu_nsleep_restart" alt="" coords="597,157,768,184"/>
+<area shape="rect" id="node11" href="$posix-cpu-timers_8c.html#afe5ab0c7640b5ccf7415341e388af8e2" title="posix_cpu_timer_get" alt="" coords="198,208,341,235"/>
+<area shape="rect" id="node12" href="$time_8c.html#a74c24850d13b470d7c61efb35f4b80fc" title="ns_to_kernel_old_timeval" alt="" coords="185,259,354,285"/>
+<area shape="rect" id="node13" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="198,309,341,336"/>
+<area shape="rect" id="node3" href="$posix-cpu-timers_8c.html#a18df9cb38c96a4ebcb1e89121fd8830d" title="posix_cpu_clock_get" alt="" coords="405,56,549,83"/>
+<area shape="rect" id="node4" href="$posix-cpu-timers_8c.html#af94a3b5acb9ece58c340f561990ce9a5" title="process_cpu_clock_get" alt="" coords="603,5,762,32"/>
+<area shape="rect" id="node5" href="$posix-cpu-timers_8c.html#a5998b2b240b845148402eeacfacba506" title="thread_cpu_clock_get" alt="" coords="608,56,757,83"/>
+<area shape="rect" id="node7" href="$posix-cpu-timers_8c.html#aed6b63c19bfbdb3da5a11cbba0cdaea8" title="do_cpu_nanosleep" alt="" coords="412,107,543,133"/>
+<area shape="rect" id="node8" href="$posix-cpu-timers_8c.html#a2dccba2ff1821f1314606dcf16c2958d" title="posix_cpu_nsleep" alt="" coords="816,132,943,159"/>
+<area shape="rect" id="node9" href="$posix-cpu-timers_8c.html#ab6d9b8725204495259f0f5d55f190e37" title="process_cpu_nsleep" alt="" coords="991,132,1132,159"/>
+<area shape="rect" id="node14" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="431,309,524,336"/>
+</map>

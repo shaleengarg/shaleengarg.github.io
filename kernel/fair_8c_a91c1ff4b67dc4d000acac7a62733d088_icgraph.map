@@ -1,0 +1,13 @@
+<map id="entity_before" name="entity_before">
+<area shape="rect" id="node2" href="$fair_8c.html#a7ea2a36bc841bb21bf3593a4bc5cf599" title="__enqueue_entity" alt="" coords="151,107,275,133"/>
+<area shape="rect" id="node11" href="$fair_8c.html#a52f2cd4ff8ca8d36490689c23d74a7d7" title="pick_next_entity" alt="" coords="323,157,440,184"/>
+<area shape="rect" id="node12" href="$fair_8c.html#ace1c319c3a03cb1d891185577ec9d924" title="task_fork_fair" alt="" coords="162,208,263,235"/>
+<area shape="rect" id="node3" href="$fair_8c.html#a1fbc2ca2f25ce8fcf7a8ee1df0f5d5aa" title="enqueue_entity" alt="" coords="326,56,437,83"/>
+<area shape="rect" id="node8" href="$fair_8c.html#a150fb5b288e43a97e88be723c785f5b1" title="put_prev_entity" alt="" coords="326,107,437,133"/>
+<area shape="rect" id="node4" href="$fair_8c.html#af0207be4c69b8f41f2cdd6a8fdb05e9a" title="entity_tick" alt="" coords="514,56,597,83"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a082df406a0b1ac9938079d004e33b155" title="enqueue_task_fair" alt="" coords="671,5,799,32"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="685,56,785,83"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="848,107,977,133"/>
+<area shape="rect" id="node9" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="488,157,623,184"/>
+<area shape="rect" id="node10" href="$fair_8c.html#ac1627ef01117f37adf1248f5ebcdd453" title="put_prev_task_fair" alt="" coords="671,107,800,133"/>
+</map>

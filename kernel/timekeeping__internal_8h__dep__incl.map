@@ -1,0 +1,6 @@
+<map id="time/timekeeping_internal.h" name="time/timekeeping_internal.h">
+<area shape="rect" id="node2" href="$clocksource_8c.html" title="time/clocksource.c" alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$ntp_8c.html" title="time/ntp.c" alt="" coords="162,80,242,107"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html" title="time/timekeeping.c" alt="" coords="267,80,399,107"/>
+<area shape="rect" id="node5" href="$timekeeping__debug_8c.html" title="time/timekeeping_debug.c" alt="" coords="423,80,597,107"/>
+</map>

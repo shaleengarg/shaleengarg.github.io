@@ -1,0 +1,17 @@
+<map id="free_start_sg" name="free_start_sg">
+<area shape="rect" id="node2" href="$sockmap_8c.html#a541962d869c4201b1bbe27da2220dc73" title="bpf_tcp_init" alt="" coords="956,91,1045,117"/>
+<area shape="rect" id="node3" href="$sockmap_8c.html#a87b8552f5349ec763f531198c9216c1e" title="bpf_tcp_release" alt="" coords="152,48,267,75"/>
+<area shape="rect" id="node4" href="$sockmap_8c.html#ae3d83307dc6b0afc57b1a6f7ca127bbe" title="bpf_tcp_close" alt="" coords="158,99,261,125"/>
+<area shape="rect" id="node7" href="$sockmap_8c.html#a6633305919726f7008880ff62725d535" title="bpf_tcp_ingress" alt="" coords="152,149,267,176"/>
+<area shape="rect" id="node9" href="$sockmap_8c.html#a6ccb2c720c2b61309b63c3a883c692b5" title="bpf_exec_tx_verdict" alt="" coords="534,141,673,168"/>
+<area shape="rect" id="node12" href="$sockmap_8c.html#afb1b97d88ba2c4e5ff4b8e090c80d3ed" title="smap_gc_work" alt="" coords="154,251,265,277"/>
+<area shape="rect" id="node5" href="$sockmap_8c.html#a4b8a2aa4a5ea33912c8e964e661ac85f" title="bpf_tcp_ulp_register" alt="" coords="319,83,457,109"/>
+<area shape="rect" id="node6" href="$sockmap_8c.html#a7d20f1edaaddd70afc9e9cd29054f84e" title="sock_map_alloc" alt="" coords="545,83,661,109"/>
+<area shape="rect" id="node8" href="$sockmap_8c.html#a5895e317d6bcf8dd0dc141403fef44b8" title="bpf_tcp_sendmsg_do\l_redirect" alt="" coords="315,134,461,175"/>
+<area shape="rect" id="node10" href="$sockmap_8c.html#a11401b0dcb797e30e6eef5644f1300f4" title="bpf_tcp_sendmsg" alt="" coords="764,91,889,117"/>
+<area shape="rect" id="node11" href="$sockmap_8c.html#a32e104c031da0cc79a86dc373d8bee61" title="bpf_tcp_sendpage" alt="" coords="763,141,891,168"/>
+<area shape="rect" id="node13" href="$sockmap_8c.html#a3260cc425d3fdde43ef81a7d189b5cae" title="smap_init_psock" alt="" coords="328,251,448,277"/>
+<area shape="rect" id="node14" href="$sockmap_8c.html#a57308ddf5a78f22d647cd9aa7f18b088" title="sock_map_ctx_update_elem" alt="" coords="509,251,697,277"/>
+<area shape="rect" id="node15" href="$sockmap_8c.html#a7000682ff177d0193dd519124247222a" title="sock_map_update_elem" alt="" coords="745,225,908,252"/>
+<area shape="rect" id="node16" href="$sockmap_8c.html#af5dec87a04d3a1af52c942692bb83d93" title="BPF_CALL_4" alt="" coords="775,276,878,303"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="perf_event_output" name="perf_event_output">
+<area shape="rect" id="node2" href="$bpf__trace_8c.html#a67c6e5d0ab872119217346c7f2ea690b" title="__bpf_perf_event_output" alt="" coords="180,31,345,57"/>
+<area shape="rect" id="node3" href="$bpf__trace_8c.html#a23772677be2e3d38edf9b0f32f8ce39c" title="BPF_CALL_5" alt="" coords="403,5,506,32"/>
+<area shape="rect" id="node4" href="$bpf__trace_8c.html#a505787298ae7123c4afb5c145bba6ba5" title="bpf_event_output" alt="" coords="393,56,516,83"/>
+</map>

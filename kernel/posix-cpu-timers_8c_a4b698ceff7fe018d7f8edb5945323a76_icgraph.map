@@ -1,0 +1,4 @@
+<map id="posix_cpu_clock_getres" name="posix_cpu_clock_getres">
+<area shape="rect" id="node2" href="$posix-cpu-timers_8c.html#aa1438f268d51c15a6857df8f655c8791" title="process_cpu_clock_getres" alt="" coords="216,5,393,32"/>
+<area shape="rect" id="node3" href="$posix-cpu-timers_8c.html#afa8fdae256aee62538d063effaedda2c" title="thread_cpu_clock_getres" alt="" coords="221,56,388,83"/>
+</map>

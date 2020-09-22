@@ -1,0 +1,10 @@
+<map id="trace_do_benchmark" name="trace_do_benchmark">
+<area shape="rect" id="node2" href="$trace_8c.html#ab66b1dd4be2fc3fa5b3678f173599349" title="tracing_is_on" alt="" coords="208,63,307,90"/>
+<area shape="rect" id="node6" href="$trace__clock_8c.html#a77c1a0a8d484effff61cfb744e5303f8" title="trace_clock_local" alt="" coords="196,114,319,141"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a115c17e03c39af6ddae1357d8e004022" title="tracer_tracing_is_on" alt="" coords="383,13,522,39"/>
+<area shape="rect" id="node5" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="367,63,539,90"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a8961597a814843f08c653e583518ff2a" title="ring_buffer_record\l_is_on" alt="" coords="609,5,736,47"/>
+<area shape="rect" id="node7" href="$clock_8c.html#a3b85a3e64d36aaa79e7ba455dfa0bba8" title="sched_clock" alt="" coords="405,114,500,141"/>
+<area shape="rect" id="node9" href="$trace__clock_8c.html#a8803ca4d8dce02764e38b26a025e319e" title="EXPORT_SYMBOL_GPL" alt="" coords="367,165,539,191"/>
+<area shape="rect" id="node8" href="$clock_8c.html#a7a11d6a1449352626d6dd8139d817ae5" title="EXPORT_SYMBOL_GPL" alt="" coords="587,114,759,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="syscall_enter_define_fields" name="syscall_enter_define_fields">
+<area shape="rect" id="node2" href="$trace__event__perf_8c.html#aa00221618f81a88eca234499f9dc334e" title="typeof" alt="" coords="227,5,286,32"/>
+<area shape="rect" id="node3" href="$trace__events_8c.html#ad41cc6a1c4eb7da089cf48442ce72c5a" title="trace_define_field" alt="" coords="195,56,319,83"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#a9455957b46a6644cb42ed4dd4785122e" title="trace_get_fields" alt="" coords="395,5,510,32"/>
+<area shape="rect" id="node5" href="$trace__events_8c.html#ab650490c136f9b1cab9deadd43892ca0" title="__trace_define_field" alt="" coords="383,56,522,83"/>
+<area shape="rect" id="node7" href="$trace__events_8c.html#a475239523f7fb9b4d476ae10e50d7bb3" title="EXPORT_SYMBOL_GPL" alt="" coords="367,107,539,133"/>
+<area shape="rect" id="node6" href="$trace_8h.html#adad4bd5f45e063dfb0887767622e97cf" title="filter_assign_type" alt="" coords="587,56,711,83"/>
+</map>

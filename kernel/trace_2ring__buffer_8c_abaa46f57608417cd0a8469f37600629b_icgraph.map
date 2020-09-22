@@ -1,0 +1,4 @@
+<map id="trace_rb_cpu_prepare" name="trace_rb_cpu_prepare">
+<area shape="rect" id="node2" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="200,5,336,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="384,5,495,32"/>
+</map>

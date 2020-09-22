@@ -1,0 +1,11 @@
+<map id="function_trace_call" name="function_trace_call">
+<area shape="rect" id="node2" href="$trace__functions_8c.html#ad191e467719605265215e8e80c81a655" title="allocate_ftrace_ops" alt="" coords="184,31,319,57"/>
+<area shape="rect" id="node9" href="$trace__functions_8c.html#a12d6bb869ef516a029eaef88cb4c2eae" title="function_trace_init" alt="" coords="187,81,315,108"/>
+<area shape="rect" id="node10" href="$trace__functions_8c.html#a4456235eedaaf177a1af9bd70dfbcf0b" title="func_set_flag" alt="" coords="201,132,301,159"/>
+<area shape="rect" id="node3" href="$trace__functions_8c.html#aa895c4bbe02e2e2ff243da9f435ca33f" title="ftrace_create_function\l_files" alt="" coords="367,23,517,65"/>
+<area shape="rect" id="node4" href="$trace_8c.html#ad9e0e60469fdc54991aa7e6b6fec32ef" title="init_tracer_tracefs" alt="" coords="565,31,692,57"/>
+<area shape="rect" id="node5" href="$trace_8c.html#aab5bf5e697f269913648fca36d43efa5" title="instance_mkdir" alt="" coords="740,5,851,32"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="1104,31,1231,57"/>
+<area shape="rect" id="node6" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="899,5,1056,32"/>
+<area shape="rect" id="node8" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="1279,31,1401,57"/>
+</map>

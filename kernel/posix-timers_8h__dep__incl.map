@@ -1,0 +1,6 @@
+<map id="time/posix&#45;timers.h" name="time/posix&#45;timers.h">
+<area shape="rect" id="node2" href="$alarmtimer_8c.html" title="time/alarmtimer.c" alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$posix-clock_8c.html" title="time/posix&#45;clock.c" alt="" coords="152,80,280,107"/>
+<area shape="rect" id="node4" href="$posix-cpu-timers_8c.html" title="time/posix&#45;cpu&#45;timers.c" alt="" coords="305,80,463,107"/>
+<area shape="rect" id="node5" href="$posix-timers_8c.html" title="time/posix&#45;timers.c" alt="" coords="488,80,621,107"/>
+</map>

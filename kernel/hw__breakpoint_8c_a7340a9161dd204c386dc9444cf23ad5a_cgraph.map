@@ -1,0 +1,15 @@
+<map id="__modify_bp_slot" name="__modify_bp_slot">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a966a972d3978983397a86abfef1fc628" title="__release_bp_slot" alt="" coords="178,338,305,364"/>
+<area shape="rect" id="node11" href="$hw__breakpoint_8c.html#aac5ae210ef9f0f2fd99b6e8035a65d64" title="__reserve_bp_slot" alt="" coords="177,262,305,288"/>
+<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#aac77e2406e1a7e54b2d328a75ded8c41" title="find_slot_idx" alt="" coords="927,388,1021,415"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#a3fbc23ab84492d7ea37aa966c28ddc4f" title="hw_breakpoint_weight" alt="" coords="899,287,1049,314"/>
+<area shape="rect" id="node5" href="$hw__breakpoint_8c.html#a60b78850d5bbe934cdd21490662609b0" title="toggle_bp_slot" alt="" coords="371,236,478,263"/>
+<area shape="rect" id="node6" href="$hw__breakpoint_8c.html#a4f3b953db42ae2157e9d9eb835429b7c" title="cpumask_of_bp" alt="" coords="559,135,674,162"/>
+<area shape="rect" id="node7" href="$hw__breakpoint_8c.html#a11b1ff32a6e3ebf2821e690384beb04b" title="get_bp_info" alt="" coords="749,110,839,136"/>
+<area shape="rect" id="node9" href="$hw__breakpoint_8c.html#a9249805a68ded75ec070605d2529af1c" title="toggle_bp_task_slot" alt="" coords="547,236,686,263"/>
+<area shape="rect" id="node8" href="$hw__breakpoint_8c.html#a61dd0f0cf69f770bafa2ff2dd30d6ce5" title="LIST_HEAD" alt="" coords="927,110,1021,136"/>
+<area shape="rect" id="node10" href="$hw__breakpoint_8c.html#a26cbe2b06b8203d8453163a25e56e3ae" title="task_bp_pinned" alt="" coords="737,236,851,263"/>
+<area shape="rect" id="node12" href="$hw__breakpoint_8c.html#a4d3dc99f47347615b6d14ff709643388" title="fetch_bp_busy_slots" alt="" coords="353,84,496,111"/>
+<area shape="rect" id="node14" href="$hw__breakpoint_8c.html#a1b0bf6d843295fe556a0279bad2dff99" title="fetch_this_slot" alt="" coords="371,186,478,212"/>
+<area shape="rect" id="node13" href="$hw__breakpoint_8c.html#ad8bee075a6cc071dda4e6f640d49b663" title="max_task_bp_pinned" alt="" coords="544,34,689,60"/>
+</map>

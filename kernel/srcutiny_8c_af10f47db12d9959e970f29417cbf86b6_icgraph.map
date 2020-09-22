@@ -1,0 +1,4 @@
+<map id="cleanup_srcu_struct" name="cleanup_srcu_struct">
+<area shape="rect" id="node2" href="$rcuperf_8c.html#a4d344195468c592b3eaa8dd577865871" title="srcu_sync_perf_cleanup" alt="" coords="192,5,355,32"/>
+<area shape="rect" id="node3" href="$rcutorture_8c.html#a831258f3df15c77779f7011555823152" title="srcu_torture_cleanup" alt="" coords="202,56,345,83"/>
+</map>

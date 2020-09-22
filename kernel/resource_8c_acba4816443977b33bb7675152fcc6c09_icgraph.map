@@ -1,0 +1,7 @@
+<map id="__adjust_resource" name="__adjust_resource">
+<area shape="rect" id="node2" href="$resource_8c.html#a7e07c9170948a2adcfe6640c2ec9eb92" title="adjust_resource" alt="" coords="184,5,299,32"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a26cade886fc6c37e6052c2fbbccc6a69" title="__release_region" alt="" coords="181,56,301,83"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a1a49e96b9a7bb8b02facedba5d06bdd7" title="devm_region_release" alt="" coords="349,31,495,57"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a91d52fe29b63024d9bc8e7806da6ace3" title="__devm_release_region" alt="" coords="543,81,702,108"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a0ef8fcffd097fad4848b42712d33c1c2" title="__devm_request_region" alt="" coords="543,31,703,57"/>
+</map>

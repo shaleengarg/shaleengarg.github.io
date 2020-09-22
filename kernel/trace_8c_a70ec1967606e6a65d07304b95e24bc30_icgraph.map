@@ -1,0 +1,9 @@
+<map id="tracing_get_cpu" name="tracing_get_cpu">
+<area shape="rect" id="node2" href="$trace_8c.html#a955709da6716f7735bbf08d6aa04e2ce" title="__tracing_open" alt="" coords="184,5,295,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a030b6d3f3dc1522b50e3b9314e60d79f" title="tracing_open" alt="" coords="359,31,455,57"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a58f7bea25f023a98d9f8b70cf34f58ed" title="tracing_open_pipe" alt="" coords="176,107,303,133"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a9cf0db852ebe2417ddad37f0c4581593" title="tracing_entries_read" alt="" coords="170,157,309,184"/>
+<area shape="rect" id="node6" href="$trace_8c.html#aeaba71542f5af59a28a76ba6e309ed6e" title="tracing_entries_write" alt="" coords="168,208,311,235"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a2f515e89058ea09b39b837513dacdbc9" title="tracing_buffers_open" alt="" coords="168,259,311,285"/>
+<area shape="rect" id="node8" href="$trace_8c.html#ad42eb372d61984cf0079883305840d3a" title="tracing_stats_read" alt="" coords="175,309,304,336"/>
+</map>

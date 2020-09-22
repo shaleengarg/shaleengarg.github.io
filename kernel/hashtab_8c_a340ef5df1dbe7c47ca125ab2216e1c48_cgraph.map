@@ -1,0 +1,11 @@
+<map id="free_htab_elem" name="free_htab_elem">
+<area shape="rect" id="node2" href="$hashtab_8c.html#a1e42f06b8f81bb63163b26de7bdbb88e" title="fd_htab_map_get_ptr" alt="" coords="164,5,308,32"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#adec6eb15f7861a40533be54a5c7c9a2c" title="htab_is_prealloc" alt="" coords="178,56,294,83"/>
+<area shape="rect" id="node4" href="$percpu__freelist_8c.html#a687f96d07b6335dfbf4b05430dde31a8" title="pcpu_freelist_push" alt="" coords="171,107,301,133"/>
+<area shape="rect" id="node6" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="203,157,269,184"/>
+<area shape="rect" id="node7" href="$hashtab_8c.html#a4173a59a3eee2a29816eaf5919e13e52" title="htab_elem_free_rcu" alt="" coords="168,208,304,235"/>
+<area shape="rect" id="node5" href="$percpu__freelist_8c.html#a4adfa4fa763c8dcbfec9ea1e884321f1" title="__pcpu_freelist_push" alt="" coords="356,107,501,133"/>
+<area shape="rect" id="node8" href="$hashtab_8c.html#a615e8cc5004a61c264b9e72d6185b137" title="htab_elem_free" alt="" coords="373,208,484,235"/>
+<area shape="rect" id="node9" href="$hashtab_8c.html#a6ced7e4e83b6e4969c5bd334860f0b91" title="htab_elem_get_ptr" alt="" coords="549,183,679,209"/>
+<area shape="rect" id="node10" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="589,233,639,260"/>
+</map>

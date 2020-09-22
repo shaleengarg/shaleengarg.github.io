@@ -1,0 +1,6 @@
+<map id="create_trace_options_dir" name="create_trace_options_dir">
+<area shape="rect" id="node2" href="$trace_8c.html#a5bd48c48c6a5ee57de0e8c9be9784896" title="trace_options_init\l_dentry" alt="" coords="401,5,525,47"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a473feda63acc7bb3e77c60f40e37fdc7" title="create_trace_option\l_core_file" alt="" coords="217,64,353,105"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a01305608b6569f54977640accaa0f009" title="tracing_get_dentry" alt="" coords="573,13,703,39"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a4fd54a9a5f973fbdaa2015576d35959f" title="trace_create_file" alt="" coords="404,71,523,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="deprecated_sysctl_warning" name="deprecated_sysctl_warning">
+<area shape="rect" id="node2" href="$sysctl__binary_8c.html#a4d8dfb4e67365b113fc469700db2a413" title="warn_on_bintable" alt="" coords="233,5,356,32"/>
+<area shape="rect" id="node3" href="$sysctl__binary_8c.html#abda5f1de1ebf766df5657ac76843d17e" title="do_sysctl" alt="" coords="404,5,483,32"/>
+<area shape="rect" id="node4" href="$sysctl__binary_8c.html#afa0396c33ef1ad048f1ffd81a98c5f97" title="SYSCALL_DEFINE1" alt="" coords="531,5,677,32"/>
+</map>

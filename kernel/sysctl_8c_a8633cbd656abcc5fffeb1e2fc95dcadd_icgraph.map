@@ -1,0 +1,6 @@
+<map id="proc_doulongvec_minmax" name="proc_doulongvec_minmax">
+<area shape="rect" id="node2" href="$sched_2debug_8c.html#a7b94f98a16e045d95c5df3fd7214f884" title="sched_init_debug" alt="" coords="272,5,395,32"/>
+<area shape="rect" id="node3" href="$hung__task_8c.html#a34d353b449462d39740a32729953e4b8" title="proc_dohung_task_timeout_secs" alt="" coords="227,56,440,83"/>
+<area shape="rect" id="node4" href="$sysctl_8c.html#a9d2d6beeb8fa85a7af3c25e208fc8f53" title="proc_doulongvec_ms\l_jiffies_minmax" alt="" coords="261,107,406,149"/>
+<area shape="rect" id="node5" href="$umh_8c.html#accbd28059cff56ae6be53deb66af43f2" title="proc_cap_handler" alt="" coords="271,173,395,200"/>
+</map>

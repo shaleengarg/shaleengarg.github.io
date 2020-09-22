@@ -1,0 +1,4 @@
+<map id="torture_onoff_init" name="torture_onoff_init">
+<area shape="rect" id="node2" href="$locktorture_8c.html#ac32d3efe01d9b4321e0b50aadaa3a322" title="lock_torture_init" alt="" coords="172,5,287,32"/>
+<area shape="rect" id="node3" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="175,56,283,83"/>
+</map>

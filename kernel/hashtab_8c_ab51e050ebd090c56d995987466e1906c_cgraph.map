@@ -1,0 +1,6 @@
+<map id="htab_free_elems" name="htab_free_elems">
+<area shape="rect" id="node2" href="$hashtab_8c.html#a2512692fb825306d17aa200cf22afde9" title="htab_is_percpu" alt="" coords="183,5,294,32"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#a6ced7e4e83b6e4969c5bd334860f0b91" title="htab_elem_get_ptr" alt="" coords="174,56,303,83"/>
+<area shape="rect" id="node4" href="$hashtab_8c.html#a202a7e20d77dd6baf6aa308017e8135b" title="get_htab_elem" alt="" coords="185,107,292,133"/>
+<area shape="rect" id="node5" href="$syscall_8c.html#a217e321839f1c834e23d6d7eb1e09721" title="bpf_map_area_free" alt="" coords="172,157,305,184"/>
+</map>

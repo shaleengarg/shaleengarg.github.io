@@ -1,0 +1,14 @@
+<map id="complete_signal" name="complete_signal">
+<area shape="rect" id="node2" href="$signal_8c.html#aee177a466c7ed1847616e0df7a3e7df2" title="wants_signal" alt="" coords="206,31,305,57"/>
+<area shape="rect" id="node4" href="$signal_8c.html#a68287ad6860a9cde582fd48c640ae9d7" title="task_clear_jobctl_pending" alt="" coords="169,81,341,108"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a5aa3e33ce99530bf0b727bbb49a3330c" title="task_curr" alt="" coords="438,31,514,57"/>
+<area shape="rect" id="node5" href="$signal_8c.html#ac20fae18feeae2e11f4a4e06a809c763" title="task_clear_jobctl_trapping" alt="" coords="389,81,563,108"/>
+<area shape="rect" id="node6" href="$wait__bit_8c.html#a836285f3a75a94d7d69a19c60d65df29" title="wake_up_bit" alt="" coords="611,81,705,108"/>
+<area shape="rect" id="node7" href="$wait__bit_8c.html#ac133c05ccf87a80c547fbcff39cc39b3" title="__wake_up_bit" alt="" coords="753,31,863,57"/>
+<area shape="rect" id="node12" href="$wait__bit_8c.html#a2e475fc5bdf1a96f6b442e6a83d58493" title="EXPORT_SYMBOL" alt="" coords="911,81,1049,108"/>
+<area shape="rect" id="node13" href="$wait__bit_8c.html#a7fed39ee05b2808e852bc0ac5a342892" title="bit_waitqueue" alt="" coords="757,132,859,159"/>
+<area shape="rect" id="node8" href="$wait_8c.html#a493de08f33a897bcaf3903e8c598a9a1" title="__wake_up" alt="" coords="936,31,1024,57"/>
+<area shape="rect" id="node9" href="$wait_8c.html#addfc41f62f5234f23b3f88f2dc911c4f" title="__wake_up_common_lock" alt="" coords="1097,5,1273,32"/>
+<area shape="rect" id="node11" href="$wait_8c.html#abbc7aad2df524f453d116100cff65114" title="EXPORT_SYMBOL" alt="" coords="1116,56,1255,83"/>
+<area shape="rect" id="node10" href="$wait_8c.html#a4e77507431b7266b711a1c31069b96a7" title="__wake_up_common" alt="" coords="1321,5,1467,32"/>
+</map>

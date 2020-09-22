@@ -1,0 +1,5 @@
+<map id="cpu_map_enqueue" name="cpu_map_enqueue">
+<area shape="rect" id="node2" href="$cpumap_8c.html#a739d46eff5818423ad8ec9ac6f4d00f4" title="convert_to_xdp_pkt" alt="" coords="184,5,320,32"/>
+<area shape="rect" id="node3" href="$cpumap_8c.html#ad74cd38e308072ddc4f75dc2ddf33c93" title="bq_enqueue" alt="" coords="206,56,298,83"/>
+<area shape="rect" id="node4" href="$cpumap_8c.html#a7c750f27dfe767b0a02044d0e752c312" title="bq_flush_to_queue" alt="" coords="368,56,499,83"/>
+</map>

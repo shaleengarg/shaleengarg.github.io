@@ -1,0 +1,12 @@
+<map id="srcu_reschedule" name="srcu_reschedule">
+<area shape="rect" id="node2" href="$rcu_8h.html#ad7557447333dad75794957c613762a9a" title="rcu_seq_state" alt="" coords="567,80,671,107"/>
+<area shape="rect" id="node3" href="$srcutree_8c.html#a08c7b8cfa18c52bd16a796bbac3da48a" title="srcu_gp_start" alt="" coords="171,156,272,183"/>
+<area shape="rect" id="node4" href="$rcu__segcblist_8c.html#a3085f880b6e7390f671581cfc7ba5458" title="rcu_segcblist_advance" alt="" coords="326,232,481,259"/>
+<area shape="rect" id="node7" href="$rcu_8h.html#ab586734903d20087a914b1aacde27892" title="rcu_seq_current" alt="" coords="346,333,461,360"/>
+<area shape="rect" id="node8" href="$rcu__segcblist_8c.html#a06cbd963699dbf1c5977b27613c9ed0a" title="rcu_segcblist_accelerate" alt="" coords="320,283,487,309"/>
+<area shape="rect" id="node9" href="$rcu_8h.html#a6268e4d0324bafbeda2edfe9b465ffb9" title="rcu_seq_snap" alt="" coords="352,29,455,56"/>
+<area shape="rect" id="node10" href="$rcu_8h.html#a22df200ed8140e09c462c1de38826b98" title="rcu_seq_start" alt="" coords="353,181,454,208"/>
+<area shape="rect" id="node11" href="$srcutree_8c.html#a6fb43aee9da1a0d569d73a75ebd5907d" title="DEFINE_PER_CPU" alt="" coords="332,131,475,157"/>
+<area shape="rect" id="node5" href="$rcu__segcblist_8h.html#a3f67d704ce82d9355b7f2a935291a110" title="rcu_segcblist_is_enabled" alt="" coords="535,232,703,259"/>
+<area shape="rect" id="node6" href="$rcu__segcblist_8h.html#aaada450cd7c3e4181ab3e6b0e3709c56" title="rcu_segcblist_restempty" alt="" coords="537,283,701,309"/>
+</map>

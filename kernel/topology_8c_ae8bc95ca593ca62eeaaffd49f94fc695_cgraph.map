@@ -1,0 +1,10 @@
+<map id="init_rootdomain" name="init_rootdomain">
+<area shape="rect" id="node2" href="$deadline_8c.html#adf24efa19f97676c230da5efd6d67411" title="init_dl_bw" alt="" coords="177,56,257,83"/>
+<area shape="rect" id="node6" href="$cpudeadline_8c.html#ad61a9cda2a372dbc0b14b082f5d96152" title="cpudl_init" alt="" coords="178,107,255,133"/>
+<area shape="rect" id="node8" href="$cpupri_8c.html#a4bc90c3f287468b6d0e455e7a0173405" title="cpupri_init" alt="" coords="176,157,257,184"/>
+<area shape="rect" id="node9" href="$cpudeadline_8c.html#ace9a2255347ddba44cdbb061fb8b6309" title="cpudl_cleanup" alt="" coords="164,208,269,235"/>
+<area shape="rect" id="node3" href="$sched_8h.html#abbb05e19ab2ae357d78cf204c331d75e" title="global_rt_runtime" alt="" coords="317,5,439,32"/>
+<area shape="rect" id="node4" href="$sched_2core_8c.html#a15ed1bc07adbe7affb9019b52156b9ad" title="to_ratio" alt="" coords="345,56,411,83"/>
+<area shape="rect" id="node5" href="$sched_8h.html#aacf5032d4046bc4665f44c2513bb62af" title="global_rt_period" alt="" coords="321,107,435,133"/>
+<area shape="rect" id="node7" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="353,183,403,209"/>
+</map>

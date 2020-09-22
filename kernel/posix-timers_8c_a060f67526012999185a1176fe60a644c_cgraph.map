@@ -1,0 +1,5 @@
+<map id="posix_get_realtime_coarse" name="posix_get_realtime_coarse">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#a6214e953811af9b0fac3e2d92e0cdcc9" title="current_kernel_time64" alt="" coords="184,31,335,57"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#aaf22e8830ac4adcfe067ed75633b5321" title="tk_xtime" alt="" coords="416,5,488,32"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="383,56,521,83"/>
+</map>

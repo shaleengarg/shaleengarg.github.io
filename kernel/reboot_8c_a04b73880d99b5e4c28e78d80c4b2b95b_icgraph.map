@@ -1,0 +1,15 @@
+<map id="unregister_reboot_notifier" name="unregister_reboot_notifier">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a08ec67e5396fd6cd21f5b99b096d5ced" title="kgdb_unregister_callbacks" alt="" coords="221,17,397,43"/>
+<area shape="rect" id="node4" href="$reboot_8c.html#a9c9410649300d1220a83c0b355e6fdde" title="devm_unregister_reboot\l_notifier" alt="" coords="229,71,390,112"/>
+<area shape="rect" id="node6" href="$torture_8c.html#a26f22dc4cb969050aba1b90b28f66254" title="torture_shutdown_cleanup" alt="" coords="222,137,397,163"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#a4f802f44277e020ec8789e3a80e800cb" title="kgdb_unregister_io\l_module" alt="" coords="455,5,585,47"/>
+<area shape="rect" id="node5" href="$reboot_8c.html#a02d428024c4144d0effeeaad7f1e9ebe" title="devm_register_reboot\l_notifier" alt="" coords="447,71,593,112"/>
+<area shape="rect" id="node7" href="$torture_8c.html#a273d1ba7c0310751031c7c9ef33b35c9" title="torture_cleanup_begin" alt="" coords="445,137,595,163"/>
+<area shape="rect" id="node8" href="$locktorture_8c.html#a95208aa73b762c187ac8376910775b6c" title="lock_torture_cleanup" alt="" coords="643,61,785,87"/>
+<area shape="rect" id="node10" href="$rcuperf_8c.html#af518e9eedb88d442e2921faf35b051e7" title="rcu_perf_cleanup" alt="" coords="653,137,775,163"/>
+<area shape="rect" id="node13" href="$rcutorture_8c.html#af2171d1567207e8f950db3ab617c319a" title="rcu_torture_cleanup" alt="" coords="646,187,782,214"/>
+<area shape="rect" id="node9" href="$locktorture_8c.html#ac32d3efe01d9b4321e0b50aadaa3a322" title="lock_torture_init" alt="" coords="842,47,957,74"/>
+<area shape="rect" id="node11" href="$rcuperf_8c.html#a1fa66afae98b48e0901be627638a8b62" title="rcu_perf_shutdown" alt="" coords="833,98,965,125"/>
+<area shape="rect" id="node12" href="$rcuperf_8c.html#a27e8263fd39e03e707e3aa9f02b27b99" title="rcu_perf_init" alt="" coords="1013,123,1107,150"/>
+<area shape="rect" id="node14" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="845,199,953,226"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tick_suspend_broadcast" name="tick_suspend_broadcast">
+<area shape="rect" id="node2" href="$tick-common_8c.html#acc00bb3c1c32631dccc9003d980c1280" title="tick_suspend" alt="" coords="216,5,315,32"/>
+<area shape="rect" id="node3" href="$timekeeping_8h.html#a3e9bf6d21d4ea30b2c84485e031ae940" title="timekeeping_suspend" alt="" coords="363,5,511,32"/>
+<area shape="rect" id="node4" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="559,5,652,32"/>
+<area shape="rect" id="node5" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="700,5,843,32"/>
+</map>

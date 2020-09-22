@@ -1,0 +1,5 @@
+<map id="audit_filter_syscall" name="audit_filter_syscall">
+<area shape="rect" id="node2" href="$auditsc_8c.html#a9e300a7505382f8f3769fb8e31bc36dc" title="audit_take_context" alt="" coords="184,31,316,57"/>
+<area shape="rect" id="node3" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="387,5,481,32"/>
+<area shape="rect" id="node4" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="364,56,504,83"/>
+</map>

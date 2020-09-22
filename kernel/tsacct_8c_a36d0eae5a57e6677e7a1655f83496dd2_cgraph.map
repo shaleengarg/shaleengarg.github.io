@@ -1,0 +1,20 @@
+<map id="bacct_add_tsk" name="bacct_add_tsk">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#ade03c0c596c0f8106fde0fb5893995d9" title="get_seconds" alt="" coords="178,31,274,57"/>
+<area shape="rect" id="node4" href="$user__namespace_8c.html#a01e197eea0bab1f6e3f0ce595a3f247f" title="from_kuid_munged" alt="" coords="160,157,292,184"/>
+<area shape="rect" id="node11" href="$user__namespace_8c.html#a29878d4fd4945f5200042f907d262e40" title="from_kgid_munged" alt="" coords="160,107,292,133"/>
+<area shape="rect" id="node13" href="$fork_8c.html#abfcceb8a7f8172a12c21ec1775229902" title="get_task_mm" alt="" coords="175,208,277,235"/>
+<area shape="rect" id="node15" href="$fork_8c.html#a7d409769a59a57a0f85069f2a6cbd131" title="mmput" alt="" coords="195,259,257,285"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="357,5,495,32"/>
+<area shape="rect" id="node5" href="$user__namespace_8c.html#a72d61d45f2f1852631f63a1b0760d055" title="from_kuid" alt="" coords="387,157,465,184"/>
+<area shape="rect" id="node10" href="$user__namespace_8c.html#aa28361506fe28b7e6e6c2755f55bbdcf" title="EXPORT_SYMBOL" alt="" coords="560,132,699,159"/>
+<area shape="rect" id="node6" href="$user__namespace_8c.html#a5474c6bc02ec3fe33a3b407655e62dea" title="map_id_up" alt="" coords="587,69,672,96"/>
+<area shape="rect" id="node7" href="$user__namespace_8c.html#a27cc58bcc56ae8129f73eb342768e9fb" title="map_id_up_base" alt="" coords="747,95,867,121"/>
+<area shape="rect" id="node8" href="$user__namespace_8c.html#a57d3e3667143fc700d12a0f45b16dab1" title="map_id_up_max" alt="" coords="748,44,865,71"/>
+<area shape="rect" id="node9" href="$user__namespace_8c.html#a3038287ccc3cba73670ea096da303f11" title="cmp_map_id" alt="" coords="915,44,1011,71"/>
+<area shape="rect" id="node12" href="$user__namespace_8c.html#adb8a67e82389b9a957e172efb5faabf4" title="from_kgid" alt="" coords="387,56,465,83"/>
+<area shape="rect" id="node14" href="$fork_8c.html#a558df52dd4c6dbd786c6d37ef9466167" title="EXPORT_SYMBOL_GPL" alt="" coords="340,259,512,285"/>
+<area shape="rect" id="node16" href="$fork_8c.html#a16f09a9c02fb36f773e71985af31a4ca" title="__mmput" alt="" coords="388,309,464,336"/>
+<area shape="rect" id="node17" href="$uprobes_8c.html#a27ca50c26518a02d5c42a41088d812a3" title="uprobe_clear_state" alt="" coords="563,284,695,311"/>
+<area shape="rect" id="node19" href="$fork_8c.html#a6df3271aebfce1c8f28d8f69ee10c052" title="set_mm_exe_file" alt="" coords="569,335,690,361"/>
+<area shape="rect" id="node18" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="781,284,832,311"/>
+</map>

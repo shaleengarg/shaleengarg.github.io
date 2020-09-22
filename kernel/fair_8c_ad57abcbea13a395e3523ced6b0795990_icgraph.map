@@ -1,0 +1,8 @@
+<map id="hrtick_start_fair" name="hrtick_start_fair">
+<area shape="rect" id="node2" href="$fair_8c.html#ad8c0bc8fa27802ecf6d4453fea45a093" title="unthrottle_offline\l_cfs_rqs" alt="" coords="165,41,284,82"/>
+<area shape="rect" id="node7" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="332,107,467,133"/>
+<area shape="rect" id="node3" href="$fair_8c.html#af0207be4c69b8f41f2cdd6a8fdb05e9a" title="entity_tick" alt="" coords="358,5,441,32"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a86ac17127919c059011154d69a5d0bc9" title="yield_to_task_fair" alt="" coords="515,56,639,83"/>
+<area shape="rect" id="node4" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="527,5,627,32"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="687,56,816,83"/>
+</map>

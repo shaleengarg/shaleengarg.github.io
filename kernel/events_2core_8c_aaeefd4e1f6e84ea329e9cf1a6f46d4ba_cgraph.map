@@ -1,0 +1,5 @@
+<map id="calc_timer_values" name="calc_timer_values">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="210,5,293,32"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="180,56,323,83"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="371,56,521,83"/>
+</map>

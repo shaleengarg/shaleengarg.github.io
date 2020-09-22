@@ -1,0 +1,4 @@
+<map id="put_compat_itimerspec64" name="put_compat_itimerspec64">
+<area shape="rect" id="node2" href="$posix-timers_8c.html#a0faa224591804c91de907f268b1e5e17" title="SYSCALL_DEFINE2" alt="" coords="224,5,371,32"/>
+<area shape="rect" id="node3" href="$posix-timers_8c.html#a50ba77098752b64712aaad7471f8d917" title="SYSCALL_DEFINE4" alt="" coords="224,56,371,83"/>
+</map>

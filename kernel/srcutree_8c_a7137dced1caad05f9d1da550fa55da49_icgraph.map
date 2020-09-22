@@ -1,0 +1,4 @@
+<map id="srcu_barrier" name="srcu_barrier">
+<area shape="rect" id="node2" href="$rcuperf_8c.html#afbe08252f52239458b4a76c6607865a0" title="srcu_rcu_barrier" alt="" coords="154,5,269,32"/>
+<area shape="rect" id="node3" href="$rcutorture_8c.html#a36310b45e7a130f89b82aeb3701e0360" title="srcu_torture_barrier" alt="" coords="144,56,279,83"/>
+</map>

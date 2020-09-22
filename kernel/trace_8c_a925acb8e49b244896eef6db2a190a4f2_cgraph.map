@@ -1,0 +1,10 @@
+<map id="free_trace_buffers" name="free_trace_buffers">
+<area shape="rect" id="node2" href="$trace_8c.html#af663b6e560aa0bf22d1fa67198af174f" title="free_trace_buffer" alt="" coords="180,157,300,184"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#ad76c7c7a5759d258ccf8dee16dac2e52" title="ring_buffer_free" alt="" coords="348,157,460,184"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#abdcc4dfcb1927f035c0585253bbf46e0" title="rb_free_cpu_buffer" alt="" coords="529,81,659,108"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="985,107,1035,133"/>
+<area shape="rect" id="node9" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="508,208,680,235"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#a6b300f38d62deeb689a3956372f07a4a" title="free_buffer_page" alt="" coords="754,56,873,83"/>
+<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#abe7941c2268f6402a3253adbf4fe71eb" title="rb_head_page_deactivate" alt="" coords="728,5,899,32"/>
+<area shape="rect" id="node8" href="$trace_2ring__buffer_8c.html#a3b641f2c05a4bafbe5eb5622bf674169" title="rb_list_head_clear" alt="" coords="947,5,1073,32"/>
+</map>

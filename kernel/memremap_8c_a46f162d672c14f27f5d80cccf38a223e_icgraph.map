@@ -1,0 +1,5 @@
+<map id="memunmap" name="memunmap">
+<area shape="rect" id="node2" href="$memremap_8c.html#aea00c63a98dda85624723ed70df9bb52" title="devm_memremap_release" alt="" coords="144,31,319,57"/>
+<area shape="rect" id="node3" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="368,5,495,32"/>
+<area shape="rect" id="node4" href="$memremap_8c.html#a78f1a850302e4394b1721d629e6468f6" title="devm_memunmap" alt="" coords="367,56,496,83"/>
+</map>

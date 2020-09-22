@@ -1,0 +1,5 @@
+<map id="s2idle_loop" name="s2idle_loop">
+<area shape="rect" id="node2" href="$suspend_8c.html#a98baaff00dc181edb2829e314140d2e4" title="s2idle_enter" alt="" coords="140,5,232,32"/>
+<area shape="rect" id="node3" href="$smp_8c.html#a6106bfc464becf7c4ea9654b04089a97" title="wake_up_all_idle_cpus" alt="" coords="280,5,436,32"/>
+<area shape="rect" id="node4" href="$smp_8c.html#aa01efbf21d94ae76294a553e805a3e48" title="EXPORT_SYMBOL_GPL" alt="" coords="484,5,656,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="schedule_idle" name="schedule_idle">
+<area shape="rect" id="node2" href="$idle_8c.html#a890be3d604d0199e50ca2f2a76bd5f61" title="do_idle" alt="" coords="175,56,237,83"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a3dfd2827294a8ff68e72ad79ec229379" title="idle_get_state" alt="" coords="155,107,257,133"/>
+<area shape="rect" id="node3" href="$idle_8c.html#a11c39327cf4ee3454919418a6d5cc68a" title="play_idle" alt="" coords="333,5,406,32"/>
+<area shape="rect" id="node4" href="$idle_8c.html#aadea56844f6dc7ded8372dca84e1641c" title="cpu_startup_entry" alt="" coords="306,56,433,83"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="305,107,433,133"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="481,107,611,133"/>
+</map>

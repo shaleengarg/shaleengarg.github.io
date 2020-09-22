@@ -1,0 +1,4 @@
+<map id="update_cpumasks_hier" name="update_cpumasks_hier">
+<area shape="rect" id="node2" href="$cpuset_8c.html#a351e015960494db6bf2c2b56c9320239" title="update_cpumask" alt="" coords="209,5,331,32"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="379,5,532,32"/>
+</map>

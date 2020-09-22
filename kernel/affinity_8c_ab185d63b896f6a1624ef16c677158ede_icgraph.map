@@ -1,0 +1,4 @@
+<map id="get_nodes_in_cpumask" name="get_nodes_in_cpumask">
+<area shape="rect" id="node2" href="$affinity_8c.html#a848f9d5be94d53486449862e1765bc37" title="irq_build_affinity\l_masks" alt="" coords="212,5,328,47"/>
+<area shape="rect" id="node3" href="$affinity_8c.html#a0eeca14a407bc1b5ddcc3103cb33c15f" title="irq_create_affinity\l_masks" alt="" coords="376,5,501,47"/>
+</map>

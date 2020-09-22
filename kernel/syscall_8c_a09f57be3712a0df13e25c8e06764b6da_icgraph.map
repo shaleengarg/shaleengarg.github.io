@@ -1,0 +1,5 @@
+<map id="bpf_stackmap_copy" name="bpf_stackmap_copy">
+<area shape="rect" id="node2" href="$syscall_8c.html#ade0fffb83d01c27a676b07ef5e51b6bc" title="map_lookup_elem" alt="" coords="192,5,319,32"/>
+<area shape="rect" id="node3" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="367,5,513,32"/>
+<area shape="rect" id="node4" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="561,5,708,32"/>
+</map>

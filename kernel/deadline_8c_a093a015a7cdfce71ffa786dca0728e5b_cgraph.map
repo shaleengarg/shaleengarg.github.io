@@ -1,0 +1,5 @@
+<map id="sub_rq_bw" name="sub_rq_bw">
+<area shape="rect" id="node2" href="$sched_8h.html#a5ee44d204ca9aa5cfddd5f92d25527d2" title="dl_entity_is_special" alt="" coords="139,5,275,32"/>
+<area shape="rect" id="node3" href="$deadline_8c.html#ac641b75ab83c784f63930440fbf1d7db" title="__sub_rq_bw" alt="" coords="157,56,256,83"/>
+<area shape="rect" id="node4" href="$deadline_8c.html#a8903a071089b3099e0dfb821d9a5bba9" title="rq_of_dl_rq" alt="" coords="323,56,409,83"/>
+</map>

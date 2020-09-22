@@ -1,0 +1,4 @@
+<map id="sched_rt_do_global" name="sched_rt_do_global">
+<area shape="rect" id="node2" href="$sched_8h.html#abbb05e19ab2ae357d78cf204c331d75e" title="global_rt_runtime" alt="" coords="188,5,309,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#aacf5032d4046bc4665f44c2513bb62af" title="global_rt_period" alt="" coords="192,56,305,83"/>
+</map>

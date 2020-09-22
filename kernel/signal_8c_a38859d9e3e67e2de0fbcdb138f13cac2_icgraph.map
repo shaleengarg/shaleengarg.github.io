@@ -1,0 +1,5 @@
+<map id="ptrace_do_notify" name="ptrace_do_notify">
+<area shape="rect" id="node2" href="$signal_8c.html#a0ffbd1024fcfecb02b5bdecf985a0301" title="ptrace_notify" alt="" coords="175,5,272,32"/>
+<area shape="rect" id="node3" href="$signal_8c.html#a08984cc375d0e294bcf8180f8ed3dbad" title="do_jobctl_trap" alt="" coords="172,56,275,83"/>
+<area shape="rect" id="node4" href="$signal_8c.html#a547a534624a6ca37d2f8f1ce9fbea98c" title="get_signal" alt="" coords="323,56,404,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="tick_shutdown_broadcast_oneshot" name="tick_shutdown_broadcast_oneshot">
+<area shape="rect" id="node2" href="$clockevents_8c.html#a50d6f518c2c62113bcc50b06c4384d61" title="clockevents_resume" alt="" coords="224,5,367,32"/>
+<area shape="rect" id="node5" href="$tick-broadcast_8c.html#aa55972eafe903b598dafa056ec59c6d3" title="tick_resume_broadcast" alt="" coords="415,56,572,83"/>
+<area shape="rect" id="node6" href="$tick-internal_8h.html#a5c99cf1df91294e523b62ce7ebfb3ffe" title="tick_check_oneshot\l_change" alt="" coords="226,107,365,149"/>
+<area shape="rect" id="node3" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="422,5,565,32"/>
+<area shape="rect" id="node4" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="620,5,713,32"/>
+<area shape="rect" id="node7" href="$tick-internal_8h.html#a9438dbe642ad99572659fcb008966274" title="tick_resume" alt="" coords="447,115,540,141"/>
+</map>

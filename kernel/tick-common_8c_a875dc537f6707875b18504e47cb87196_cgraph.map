@@ -1,0 +1,6 @@
+<map id="tick_is_oneshot_available" name="tick_is_oneshot_available">
+<area shape="rect" id="node2" href="$tick-internal_8h.html#a98cdc0e72a622a5c95f0422322ce181c" title="tick_broadcast_oneshot\l_available" alt="" coords="224,23,384,65"/>
+<area shape="rect" id="node3" href="$tick-internal_8h.html#a3d84d604e07039796c76e8471e894ab2" title="tick_oneshot_possible" alt="" coords="432,5,583,32"/>
+<area shape="rect" id="node4" href="$tick-internal_8h.html#a475cf7ed9650fd1b49938c208f8b2d03" title="tick_nohz_init" alt="" coords="456,56,559,83"/>
+<area shape="rect" id="node5" href="$tick-internal_8h.html#ac780868a10b67b6eca20c2b544ca6e9f" title="timers_update_nohz" alt="" coords="631,56,769,83"/>
+</map>

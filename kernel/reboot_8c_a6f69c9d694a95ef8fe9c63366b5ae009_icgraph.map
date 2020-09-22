@@ -1,0 +1,6 @@
+<map id="run_cmd" name="run_cmd">
+<area shape="rect" id="node2" href="$reboot_8c.html#a15b48bcad8e92852cfb177e55c21be69" title="__orderly_reboot" alt="" coords="132,5,251,32"/>
+<area shape="rect" id="node4" href="$reboot_8c.html#a82da65767e62ddb589cd08aa287a9a01" title="__orderly_poweroff" alt="" coords="125,56,257,83"/>
+<area shape="rect" id="node3" href="$reboot_8c.html#ace7b2f6ce4e55c1e8c881d8a6d9ec800" title="reboot_work_func" alt="" coords="312,5,437,32"/>
+<area shape="rect" id="node5" href="$reboot_8c.html#a46179de6a08df58269367eed3e8bc428" title="poweroff_work_func" alt="" coords="305,56,444,83"/>
+</map>

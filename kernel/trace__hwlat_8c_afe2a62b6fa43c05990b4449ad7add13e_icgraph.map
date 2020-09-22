@@ -1,0 +1,6 @@
+<map id="move_to_next_cpu" name="move_to_next_cpu">
+<area shape="rect" id="node2" href="$trace__hwlat_8c.html#a76131d3cbf6c53ff05e9a48d76bac240" title="kthread_fn" alt="" coords="185,5,268,32"/>
+<area shape="rect" id="node3" href="$trace__hwlat_8c.html#a627ca97809efa0bb8e24c2f7e45e92c8" title="start_kthread" alt="" coords="316,5,415,32"/>
+<area shape="rect" id="node4" href="$trace__hwlat_8c.html#a793a45bd96de4312cfd5bf5261098eba" title="hwlat_tracer_start" alt="" coords="463,5,589,32"/>
+<area shape="rect" id="node5" href="$trace__hwlat_8c.html#a3da5c34a5abe8f1be6ed150a701eb53d" title="hwlat_tracer_init" alt="" coords="637,5,755,32"/>
+</map>

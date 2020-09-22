@@ -1,0 +1,4 @@
+<map id="rcuwait_wake_up" name="rcuwait_wake_up">
+<area shape="rect" id="node2" href="$percpu-rwsem_8c.html#a663319e17ffc750b83047bfd2306f772" title="__percpu_up_read" alt="" coords="176,5,304,32"/>
+<area shape="rect" id="node3" href="$percpu-rwsem_8c.html#a99e21c15c21704d33e5362e89e2966a0" title="__percpu_down_read" alt="" coords="352,5,497,32"/>
+</map>

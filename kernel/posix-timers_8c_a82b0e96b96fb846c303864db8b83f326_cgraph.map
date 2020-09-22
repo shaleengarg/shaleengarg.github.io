@@ -1,0 +1,7 @@
+<map id="posix_get_monotonic_coarse" name="posix_get_monotonic_coarse">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#a24fa6a20f6c4dee3675ecc7235633a19" title="get_monotonic_coarse64" alt="" coords="199,56,365,83"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#aaf22e8830ac4adcfe067ed75633b5321" title="tk_xtime" alt="" coords="469,5,541,32"/>
+<area shape="rect" id="node4" href="$time_8c.html#a16035048329aee9a6fe027aafc9c96b1" title="set_normalized_timespec64" alt="" coords="413,56,597,83"/>
+<area shape="rect" id="node6" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="436,107,575,133"/>
+<area shape="rect" id="node5" href="$time_8c.html#af5a6150711c1a70088b8e6557154551c" title="EXPORT_SYMBOL" alt="" coords="645,56,784,83"/>
+</map>

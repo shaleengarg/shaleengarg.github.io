@@ -1,0 +1,6 @@
+<map id="tick_check_new_device" name="tick_check_new_device">
+<area shape="rect" id="node2" href="$clockevents_8c.html#af91e203332a6f81319b8197926965009" title="clockevents_notify\l_released" alt="" coords="215,9,345,51"/>
+<area shape="rect" id="node3" href="$clockevents_8c.html#a07e80b5285554af7e9841981ab9ecdf6" title="clockevents_register\l_device" alt="" coords="393,39,536,80"/>
+<area shape="rect" id="node4" href="$clockevents_8c.html#a80310c1aad7057bdf67052607ecd5e34" title="clockevents_config\l_and_register" alt="" coords="584,5,719,47"/>
+<area shape="rect" id="node5" href="$tick-broadcast-hrtimer_8c.html#aa60a0cc0d7d9bf81c348facf26257b50" title="tick_setup_hrtimer\l_broadcast" alt="" coords="587,71,716,112"/>
+</map>

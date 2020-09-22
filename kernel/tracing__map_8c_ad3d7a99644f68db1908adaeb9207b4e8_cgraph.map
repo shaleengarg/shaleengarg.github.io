@@ -1,0 +1,6 @@
+<map id="sort_secondary" name="sort_secondary">
+<area shape="rect" id="node2" href="$tracing__map_8c.html#a3f892e1e74ccd6af01424b95d99f562f" title="is_key" alt="" coords="197,5,257,32"/>
+<area shape="rect" id="node3" href="$tracing__map_8c.html#a6ac365c4c002691662b9bc9d6c2f1743" title="cmp_entries_key" alt="" coords="166,56,287,83"/>
+<area shape="rect" id="node4" href="$tracing__map_8c.html#ad66dcacaf81e524da4682094ccd241c2" title="cmp_entries_sum" alt="" coords="164,107,289,133"/>
+<area shape="rect" id="node5" href="$tracing__map_8c.html#a9eb29ff54c3476c1b512ed7776eb044c" title="set_sort_key" alt="" coords="178,157,275,184"/>
+</map>

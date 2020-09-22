@@ -1,0 +1,5 @@
+<map id="do_sigaltstack" name="do_sigaltstack">
+<area shape="rect" id="node2" href="$signal_8c.html#ad651395d4c6ee269c17f9787cf804ce1" title="SYSCALL_DEFINE2" alt="" coords="160,5,307,32"/>
+<area shape="rect" id="node3" href="$signal_8c.html#af8afbc0748837af4844396f410c47e2d" title="restore_altstack" alt="" coords="176,56,291,83"/>
+<area shape="rect" id="node4" href="$signal_8c.html#a8d5b7193b742fee945652d2b125f7e21" title="__save_altstack" alt="" coords="175,107,292,133"/>
+</map>

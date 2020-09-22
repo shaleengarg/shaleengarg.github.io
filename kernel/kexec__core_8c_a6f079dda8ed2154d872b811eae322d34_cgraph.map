@@ -1,0 +1,10 @@
+<map id="kimage_crash_copy_vmcoreinfo" name="kimage_crash_copy_vmcoreinfo">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#aae1e64597264feba43408e9ecfb297e6" title="kimage_alloc_control\l_pages" alt="" coords="276,90,420,131"/>
+<area shape="rect" id="node9" href="$crash__core_8c.html#aa0fb0f2bf061568113fdaf9cb1b5c0fa" title="crash_update_vmcoreinfo\l_safecopy" alt="" coords="263,155,433,197"/>
+<area shape="rect" id="node3" href="$kexec__core_8c.html#a320377d265558b60e64e6407ca1fe0b8" title="kimage_alloc_normal\l_control_pages" alt="" coords="481,57,625,98"/>
+<area shape="rect" id="node8" href="$kexec__core_8c.html#a2e3a235b5e1a7e5319eb525b0f01197e" title="kimage_alloc_crash\l_control_pages" alt="" coords="485,122,622,163"/>
+<area shape="rect" id="node4" href="$kexec__core_8c.html#a48d2082629f8b55877bedf9704b5d830" title="kimage_alloc_pages" alt="" coords="679,5,819,32"/>
+<area shape="rect" id="node5" href="$kexec__core_8c.html#aca269cf68860bafdb51ae138bc3fa705" title="kimage_is_destination\l_range" alt="" coords="674,57,825,98"/>
+<area shape="rect" id="node6" href="$kexec__core_8c.html#a1249aea7a04a3476850067af7190fd20" title="kimage_free_page_list" alt="" coords="673,123,825,149"/>
+<area shape="rect" id="node7" href="$kexec__core_8c.html#a1ea084e75448abf76f7796bf8b462f32" title="kimage_free_pages" alt="" coords="873,123,1008,149"/>
+</map>

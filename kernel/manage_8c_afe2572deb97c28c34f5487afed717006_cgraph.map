@@ -1,0 +1,13 @@
+<map id="disable_percpu_irq" name="disable_percpu_irq">
+<area shape="rect" id="node2" href="$internals_8h.html#aad04d8e61cef3ac8e5e332afb4fcce0f" title="irq_get_desc_lock" alt="" coords="207,65,333,92"/>
+<area shape="rect" id="node8" href="$chip_8c.html#a4ef4eef3d7225eadfc0546c929f06728" title="irq_percpu_disable" alt="" coords="205,117,335,144"/>
+<area shape="rect" id="node9" href="$internals_8h.html#aae668e45e92f3e939cda927523f068cb" title="irq_put_desc_unlock" alt="" coords="199,168,341,195"/>
+<area shape="rect" id="node12" href="$manage_8c.html#aecd381c79beb59c16eecb010d119c3b5" title="EXPORT_SYMBOL_GPL" alt="" coords="184,219,356,245"/>
+<area shape="rect" id="node3" href="$internals_8h.html#afcefacc8203d38a13036812180e8398f" title="__irq_get_desc_lock" alt="" coords="411,65,552,92"/>
+<area shape="rect" id="node4" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="639,5,729,32"/>
+<area shape="rect" id="node6" href="$settings_8h.html#a3976cd46dec5479d26950dd2d2382c46" title="irq_settings_is_per\l_cpu_devid" alt="" coords="619,57,749,98"/>
+<area shape="rect" id="node7" href="$internals_8h.html#accc9b8d349de5c1bc63cea5b414ad0bd" title="chip_bus_lock" alt="" coords="631,123,737,149"/>
+<area shape="rect" id="node5" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="809,5,948,32"/>
+<area shape="rect" id="node10" href="$internals_8h.html#aaccbcdf8f4f9f591d4b37914dc359e01" title="__irq_put_desc_unlock" alt="" coords="404,169,559,196"/>
+<area shape="rect" id="node11" href="$internals_8h.html#a79bd6b0f90f4e79ee0581b35f5813676" title="chip_bus_sync_unlock" alt="" coords="607,173,761,200"/>
+</map>

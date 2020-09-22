@@ -1,0 +1,7 @@
+<map id="wakelock_lookup_add" name="wakelock_lookup_add">
+<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="264,5,323,32"/>
+<area shape="rect" id="node3" href="$wakelock_8c.html#aadec4eaf6aae34acd7862c453ae76e3d" title="wakelocks_limit_exceeded" alt="" coords="204,56,383,83"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="268,107,319,133"/>
+<area shape="rect" id="node5" href="$wakelock_8c.html#a1ed2148ce6c2187259a39f4ea2c3f209" title="wakelocks_lru_add" alt="" coords="227,157,360,184"/>
+<area shape="rect" id="node6" href="$wakelock_8c.html#ad13128fa65657e340140e59821d2af84" title="increment_wakelocks\l_number" alt="" coords="219,209,367,250"/>
+</map>

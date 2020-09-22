@@ -1,0 +1,8 @@
+<map id="smap_init_sock" name="smap_init_sock">
+<area shape="rect" id="node2" href="$sockmap_8c.html#a486275e94c7d737f47ae1c85d4a1e388" title="smap_read_sock_strparser" alt="" coords="169,31,347,57"/>
+<area shape="rect" id="node6" href="$sockmap_8c.html#a7db9cf45fd7d2166f5801a4c8f960582" title="smap_parse_func_strparser" alt="" coords="167,81,349,108"/>
+<area shape="rect" id="node7" href="$sockmap_8c.html#a0b63d46738e257c4b42f55fb8fdcee60" title="smap_read_sock_done" alt="" coords="180,132,336,159"/>
+<area shape="rect" id="node3" href="$sockmap_8c.html#a8608174256c10f30e880ead248cca6d1" title="smap_do_verdict" alt="" coords="397,31,519,57"/>
+<area shape="rect" id="node4" href="$sockmap_8c.html#aa262ddd1c62725bf1624e936b7253548" title="smap_verdict_func" alt="" coords="567,5,699,32"/>
+<area shape="rect" id="node5" href="$sockmap_8c.html#ae6a1f0b940695319e384ac5a72c1966c" title="smap_psock_sk" alt="" coords="574,56,691,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="arch_memremap_can_ram_remap" name="arch_memremap_can_ram_remap">
+<area shape="rect" id="node2" href="$memremap_8c.html#a548bdebcb53e6ffe905e236089b3f471" title="try_ram_remap" alt="" coords="229,13,339,39"/>
+<area shape="rect" id="node3" href="$memremap_8c.html#a850fdc63b7722264a5a2bcba44c44115" title="memremap" alt="" coords="387,13,473,39"/>
+<area shape="rect" id="node4" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="521,13,648,39"/>
+</map>

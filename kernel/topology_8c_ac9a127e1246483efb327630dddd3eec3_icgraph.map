@@ -1,0 +1,18 @@
+<map id="sd_degenerate" name="sd_degenerate">
+<area shape="rect" id="node2" href="$topology_8c.html#ae735252332ae6e8d3374407820edd913" title="sd_parent_degenerate" alt="" coords="160,56,311,83"/>
+<area shape="rect" id="node3" href="$topology_8c.html#a65c2956a5ea7733a8804d2403c609b26" title="cpu_attach_domain" alt="" coords="359,81,493,108"/>
+<area shape="rect" id="node4" href="$topology_8c.html#ae7acf582576d6adca1619a00a8348fa9" title="build_sched_domains" alt="" coords="551,56,698,83"/>
+<area shape="rect" id="node17" href="$topology_8c.html#abc1f5ac1e46405cc3d198f647a3ee281" title="detach_destroy_domains" alt="" coords="541,107,708,133"/>
+<area shape="rect" id="node5" href="$topology_8c.html#a55fb0cb73fdd86329d4ac0d7df1a377b" title="sched_init_domains" alt="" coords="771,56,908,83"/>
+<area shape="rect" id="node9" href="$topology_8c.html#a00c15da7ff0db62818faada719b28212" title="partition_sched_domains" alt="" coords="756,107,923,133"/>
+<area shape="rect" id="node6" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="995,56,1062,83"/>
+<area shape="rect" id="node7" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="1158,5,1239,32"/>
+<area shape="rect" id="node8" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="1163,56,1234,83"/>
+<area shape="rect" id="node10" href="$cpuset_8c.html#aa103ac56507045b8f59529d1b7113529" title="validate_change" alt="" coords="971,132,1087,159"/>
+<area shape="rect" id="node11" href="$cpuset_8c.html#a351e015960494db6bf2c2b56c9320239" title="update_cpumask" alt="" coords="1138,107,1259,133"/>
+<area shape="rect" id="node13" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="1135,157,1263,184"/>
+<area shape="rect" id="node14" href="$cpuset_8c.html#acb225579e687c077cd067982b5fc2d7e" title="update_flag" alt="" coords="1154,208,1243,235"/>
+<area shape="rect" id="node12" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="1311,119,1464,145"/>
+<area shape="rect" id="node15" href="$cpuset_8c.html#a99d5620782fa1af581db371b16dd9f99" title="cpuset_write_u64" alt="" coords="1325,195,1449,221"/>
+<area shape="rect" id="node16" href="$cpuset_8c.html#ad2ebbb81b7610ba8719949c94014da14" title="cpuset_css_offline" alt="" coords="1322,245,1453,272"/>
+</map>

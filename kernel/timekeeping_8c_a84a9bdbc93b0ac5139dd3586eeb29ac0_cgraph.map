@@ -1,0 +1,7 @@
+<map id="do_timer" name="do_timer">
+<area shape="rect" id="node2" href="$loadavg_8c.html#a112efccdad2061743a46f12f5983823d" title="calc_global_load" alt="" coords="125,56,244,83"/>
+<area shape="rect" id="node3" href="$loadavg_8c.html#a2e1c6b302391269fc12bcaf533f3e997" title="calc_load_nohz_fold" alt="" coords="421,5,561,32"/>
+<area shape="rect" id="node4" href="$loadavg_8c.html#aa3ac7ebe75dba81f735dc45a5988d821" title="calc_load" alt="" coords="292,56,369,83"/>
+<area shape="rect" id="node6" href="$loadavg_8c.html#acbc657b286ff4d4d3ebd5bb03b33b9f6" title="calc_global_nohz" alt="" coords="429,107,552,133"/>
+<area shape="rect" id="node5" href="$loadavg_8c.html#a88d33d646675640e646af33f4a2b194f" title="calc_load_fold_active" alt="" coords="417,56,564,83"/>
+</map>

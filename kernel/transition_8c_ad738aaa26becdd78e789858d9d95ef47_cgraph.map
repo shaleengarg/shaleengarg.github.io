@@ -1,0 +1,13 @@
+<map id="klp_try_switch_task" name="klp_try_switch_task">
+<area shape="rect" id="node2" href="$sched_2core_8c.html#a34cf43550f8e619f1fadb49fc6cc7c3b" title="task_rq_lock" alt="" coords="204,56,300,83"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a4d8107ffb184373be5ea69f3f6ceae0b" title="task_running" alt="" coords="204,111,300,137"/>
+<area shape="rect" id="node7" href="$transition_8c.html#af3cc3e11bb0f0a1a84cd70fd1edaeb9b" title="klp_check_stack" alt="" coords="192,165,312,192"/>
+<area shape="rect" id="node11" href="$sched_8h.html#a1ad0ef11280af09b828af3abf6e71375" title="task_rq_unlock" alt="" coords="197,245,307,272"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="363,5,509,32"/>
+<area shape="rect" id="node4" href="$sched_8h.html#af4a0b63032f83e581cd267b1f1b7d63b" title="rq_pin_lock" alt="" coords="392,56,480,83"/>
+<area shape="rect" id="node6" href="$sched_8h.html#ae2682e9f23911c407731e5b1fc60b3c7" title="task_current" alt="" coords="389,107,483,133"/>
+<area shape="rect" id="node8" href="$stacktrace_8c.html#ab3974964b6fd7c290347f5592e9bf462" title="save_stack_trace_tsk\l_reliable" alt="" coords="361,158,511,199"/>
+<area shape="rect" id="node9" href="$transition_8c.html#af4c1562d9d37ac73f2246595fba0c3db" title="klp_check_stack_func" alt="" coords="360,224,512,251"/>
+<area shape="rect" id="node10" href="$patch_8c.html#a08b76f500195191eb6f4ab2bc81bc62c" title="klp_find_ops" alt="" coords="560,224,655,251"/>
+<area shape="rect" id="node12" href="$sched_8h.html#ab63d84bb32f86248805f84ba22c6ab8a" title="rq_unpin_lock" alt="" coords="385,275,487,301"/>
+</map>

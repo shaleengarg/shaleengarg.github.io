@@ -1,0 +1,4 @@
+<map id="irq_create_mapping" name="irq_create_mapping">
+<area shape="rect" id="node2" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="188,5,372,32"/>
+<area shape="rect" id="node3" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="420,5,573,32"/>
+</map>

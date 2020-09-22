@@ -1,0 +1,9 @@
+<map id="sched_init_granularity" name="sched_init_granularity">
+<area shape="rect" id="node2" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="393,43,460,69"/>
+<area shape="rect" id="node5" href="$sched_2core_8c.html#acf74276999591b2160289728ee76ba90" title="sched_init_smp" alt="" coords="201,68,315,95"/>
+<area shape="rect" id="node6" href="$sched_8h.html#a3dfd2827294a8ff68e72ad79ec229379" title="idle_get_state" alt="" coords="207,119,309,145"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="563,5,644,32"/>
+<area shape="rect" id="node4" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="568,56,639,83"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="363,119,491,145"/>
+<area shape="rect" id="node8" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="539,119,668,145"/>
+</map>

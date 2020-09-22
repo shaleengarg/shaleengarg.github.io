@@ -1,0 +1,10 @@
+<map id="buffer_ftrace_now" name="buffer_ftrace_now">
+<area shape="rect" id="node2" href="$trace__clock_8c.html#a77c1a0a8d484effff61cfb744e5303f8" title="trace_clock_local" alt="" coords="198,56,321,83"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a350a2c526277f83e4d609c2edaa19cc1" title="ring_buffer_time_stamp" alt="" coords="180,107,339,133"/>
+<area shape="rect" id="node9" href="$trace_2ring__buffer_8c.html#a904719c71d3606e7c4595124e6b13691" title="ring_buffer_normalize\l_time_stamp" alt="" coords="186,158,333,199"/>
+<area shape="rect" id="node3" href="$clock_8c.html#a3b85a3e64d36aaa79e7ba455dfa0bba8" title="sched_clock" alt="" coords="425,5,520,32"/>
+<area shape="rect" id="node5" href="$trace__clock_8c.html#a8803ca4d8dce02764e38b26a025e319e" title="EXPORT_SYMBOL_GPL" alt="" coords="387,56,559,83"/>
+<area shape="rect" id="node4" href="$clock_8c.html#a7a11d6a1449352626d6dd8139d817ae5" title="EXPORT_SYMBOL_GPL" alt="" coords="607,5,779,32"/>
+<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#abf19b0e42b93db593ea154f51632f285" title="rb_time_stamp" alt="" coords="419,107,527,133"/>
+<area shape="rect" id="node8" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="387,161,559,188"/>
+</map>

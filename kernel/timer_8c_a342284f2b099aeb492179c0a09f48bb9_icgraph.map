@@ -1,0 +1,33 @@
+<map id="round_jiffies_common" name="round_jiffies_common">
+<area shape="rect" id="node2" href="$timer_8c.html#a4e1acfc7d4aeb2e17804c752b334f769" title="__round_jiffies" alt="" coords="227,187,333,213"/>
+<area shape="rect" id="node3" href="$timer_8c.html#ac0d8e7c31bc88cbd53b3cf8d9afb39fa" title="__round_jiffies_relative" alt="" coords="203,237,357,264"/>
+<area shape="rect" id="node27" href="$timer_8c.html#a77c94ba5ba4b35ffb9504219e9b88477" title="round_jiffies" alt="" coords="234,288,326,315"/>
+<area shape="rect" id="node29" href="$timer_8c.html#aabe1018c51943579ffd08cd6c528d58e" title="__round_jiffies_up" alt="" coords="217,339,343,365"/>
+<area shape="rect" id="node30" href="$timer_8c.html#afb76f13f5acda52545861239aec62539" title="__round_jiffies_up\l_relative" alt="" coords="217,390,343,431"/>
+<area shape="rect" id="node32" href="$timer_8c.html#a4008885cc703cead04c2c16a15bf1809" title="round_jiffies_up" alt="" coords="223,456,337,483"/>
+<area shape="rect" id="node4" href="$timer_8c.html#ab6ba1f3fa2ef3e0e9abc66249b4b6866" title="round_jiffies_relative" alt="" coords="419,233,560,260"/>
+<area shape="rect" id="node5" href="$transition_8h.html#a85f110ba9a9179e3f24a0027df4f8272" title="klp_try_complete_transition" alt="" coords="621,132,803,159"/>
+<area shape="rect" id="node12" href="$torture_8c.html#a746b6c385d938e38367ff18152cf923a" title="stutter_wait" alt="" coords="667,360,757,387"/>
+<area shape="rect" id="node6" href="$livepatch_2core_8c.html#afa4ba4374cd55e2a6f5a0b417cab253d" title="__klp_disable_patch" alt="" coords="857,56,997,83"/>
+<area shape="rect" id="node9" href="$livepatch_2core_8c.html#a89fefc97aca0568f384baae43db23f55" title="__klp_enable_patch" alt="" coords="858,107,995,133"/>
+<area shape="rect" id="node11" href="$transition_8c.html#ab325a49c08fb2978a145ded9d61fe712" title="klp_transition_work_fn" alt="" coords="851,157,1003,184"/>
+<area shape="rect" id="node7" href="$livepatch_2core_8c.html#a2d6c762fd7f186cf5539447a6e2f9224" title="klp_disable_patch" alt="" coords="1063,5,1189,32"/>
+<area shape="rect" id="node8" href="$livepatch_2core_8c.html#ab708918d65fd21b2d7c8274f91b64c74" title="enabled_store" alt="" coords="1075,56,1177,83"/>
+<area shape="rect" id="node10" href="$livepatch_2core_8c.html#a6e4dd37156b76670c171c2997c39589e" title="klp_enable_patch" alt="" coords="1065,107,1187,133"/>
+<area shape="rect" id="node13" href="$locktorture_8c.html#a766d11e2ed83aaaaf7a431c3052aad58" title="lock_torture_writer" alt="" coords="862,259,991,285"/>
+<area shape="rect" id="node16" href="$locktorture_8c.html#a4d177b615211707402f605115919aa20" title="lock_torture_reader" alt="" coords="860,208,993,235"/>
+<area shape="rect" id="node17" href="$rcutorture_8c.html#acdb32ca290f5e26618e0c0a910d1af9d" title="rcu_torture_boost" alt="" coords="865,621,988,648"/>
+<area shape="rect" id="node21" href="$rcutorture_8c.html#af98b61f93144367bd479e0d3fe629099" title="rcu_torture_cbflood" alt="" coords="860,360,993,387"/>
+<area shape="rect" id="node23" href="$rcutorture_8c.html#ad7d954a16ec5592e13ef71d90ec72d99" title="rcu_torture_fqs" alt="" coords="872,411,981,437"/>
+<area shape="rect" id="node24" href="$rcutorture_8c.html#a7db13d6ac2621989846342f68502f6e4" title="rcu_torture_writer" alt="" coords="865,309,988,336"/>
+<area shape="rect" id="node25" href="$rcutorture_8c.html#a129160f0796961e2d883177d6813b607" title="rcu_torture_fakewriter" alt="" coords="853,461,1001,488"/>
+<area shape="rect" id="node26" href="$rcutorture_8c.html#a0d3374064e25a9bc2fa01e3e4d74a499" title="rcu_torture_reader" alt="" coords="863,512,990,539"/>
+<area shape="rect" id="node14" href="$locktorture_8c.html#a95208aa73b762c187ac8376910775b6c" title="lock_torture_cleanup" alt="" coords="1055,208,1197,235"/>
+<area shape="rect" id="node15" href="$locktorture_8c.html#ac32d3efe01d9b4321e0b50aadaa3a322" title="lock_torture_init" alt="" coords="1249,208,1364,235"/>
+<area shape="rect" id="node18" href="$rcutorture_8c.html#a70f161cfe7f0c01372249db69e58ef6c" title="rcutorture_booster\l_cleanup" alt="" coords="1063,614,1189,655"/>
+<area shape="rect" id="node20" href="$rcutorture_8c.html#a71dba688182240875ef5ddbf143158b2" title="rcutorture_booster_init" alt="" coords="1051,680,1201,707"/>
+<area shape="rect" id="node19" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="1253,487,1361,513"/>
+<area shape="rect" id="node22" href="$rcutorture_8c.html#af2171d1567207e8f950db3ab617c319a" title="rcu_torture_cleanup" alt="" coords="1058,461,1194,488"/>
+<area shape="rect" id="node28" href="$tree__plugin_8h.html#ad891ad54702ef83370eda5e5359a530c" title="rcu_idle_count_callbacks\l_posted" alt="" coords="405,285,573,326"/>
+<area shape="rect" id="node31" href="$timer_8c.html#aaa346fec6efb9ae52ebc544f542b8888" title="round_jiffies_up_relative" alt="" coords="408,397,571,424"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cpuacct_charge" name="cpuacct_charge">
+<area shape="rect" id="node2" href="$cpuacct_8c.html#a98ee5581a5c80b55cf0c8292337b9d5e" title="task_ca" alt="" coords="173,5,241,32"/>
+<area shape="rect" id="node4" href="$cpuacct_8c.html#ab836003f50336c657d4ad7e60d86a31c" title="parent_ca" alt="" coords="168,56,247,83"/>
+<area shape="rect" id="node3" href="$cpuacct_8c.html#a5afd160e74c00bb160b197d6f9dd6f0f" title="css_ca" alt="" coords="334,5,398,32"/>
+<area shape="rect" id="node5" href="$cpuacct_8c.html#af549f145276c221d59a09f6680d4b074" title="DEFINE_PER_CPU" alt="" coords="295,56,437,83"/>
+</map>

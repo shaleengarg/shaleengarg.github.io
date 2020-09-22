@@ -1,0 +1,4 @@
+<map id="perf_event_wakeup" name="perf_event_wakeup">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a77534857b58ae968892fd653db437a70" title="ring_buffer_wakeup" alt="" coords="188,5,323,32"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#ad07005bd12e3ce4763da2f4db365901d" title="perf_event_fasync" alt="" coords="191,56,320,83"/>
+</map>

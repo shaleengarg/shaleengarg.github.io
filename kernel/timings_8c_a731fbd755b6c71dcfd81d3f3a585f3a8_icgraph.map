@@ -1,0 +1,7 @@
+<map id="irq_timings_alloc" name="irq_timings_alloc">
+<area shape="rect" id="node2" href="$internals_8h.html#a22beb7f32bcd2acd3151122908298b6b" title="irq_pm_remove_action" alt="" coords="172,31,325,57"/>
+<area shape="rect" id="node3" href="$internals_8h.html#a6b2f7d69a77fa9fbf21fbe15ecd79ed6" title="irq_desc_is_chained" alt="" coords="373,31,513,57"/>
+<area shape="rect" id="node4" href="$pm_8c.html#a391df03db1485b944149824ddbf93fdb" title="suspend_device_irq" alt="" coords="561,5,699,32"/>
+<area shape="rect" id="node6" href="$proc_8c.html#a7ec2f5f133407333cf5e6ad40e8f1588" title="init_irq_proc" alt="" coords="584,56,676,83"/>
+<area shape="rect" id="node5" href="$pm_8c.html#a0c327e13fc051112d2fc49f774624f4d" title="suspend_device_irqs" alt="" coords="747,5,891,32"/>
+</map>

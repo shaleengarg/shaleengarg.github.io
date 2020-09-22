@@ -1,0 +1,7 @@
+<map id="ring_buffer_time_stamp_abs" name="ring_buffer_time_stamp_abs">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a49f95cac5a2360e8b2cc00c6ce82c373" title="rb_reset_cpu" alt="" coords="240,31,337,57"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#abe7941c2268f6402a3253adbf4fe71eb" title="rb_head_page_deactivate" alt="" coords="385,5,556,32"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#aa735126d0b47083cc588695a5c190595" title="rb_head_page_activate" alt="" coords="393,56,549,83"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a3b641f2c05a4bafbe5eb5622bf674169" title="rb_list_head_clear" alt="" coords="608,5,735,32"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#acd80c1e2df12a1d7ec5f2a4bc0faec7b" title="rb_set_list_to_head" alt="" coords="604,56,739,83"/>
+</map>

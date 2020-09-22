@@ -1,0 +1,9 @@
+<map id="perf_aux_output_skip" name="perf_aux_output_skip">
+<area shape="rect" id="node2" href="$events_2ring__buffer_8c.html#a79d85e4d6802f7a95a0088c36d3633c9" title="rb_need_aux_wakeup" alt="" coords="212,5,360,32"/>
+<area shape="rect" id="node3" href="$events_2ring__buffer_8c.html#a81464e0c7f82394f4ddaab739ef96a0d" title="perf_output_wakeup" alt="" coords="217,56,355,83"/>
+<area shape="rect" id="node8" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="200,107,372,133"/>
+<area shape="rect" id="node4" href="$irq__work_8c.html#a97c61c328b0408e4957486ac57d1a03b" title="irq_work_queue" alt="" coords="420,56,533,83"/>
+<area shape="rect" id="node5" href="$irq__work_8c.html#a15ad44b1e004fbd3998be557220fac4e" title="irq_work_claim" alt="" coords="613,5,722,32"/>
+<area shape="rect" id="node6" href="$irq__work_8c.html#afdd50f70c4dae7339fd991caae188573" title="arch_irq_work_raise" alt="" coords="598,56,737,83"/>
+<area shape="rect" id="node7" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="581,107,753,133"/>
+</map>

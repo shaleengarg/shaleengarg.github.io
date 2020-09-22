@@ -1,0 +1,12 @@
+<map id="onmax_parse" name="onmax_parse">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#ad932dfffdc05e590e406a8bb10737748" title="parse_actions" alt="" coords="153,64,256,91"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a6796e90fbbe0d42ef5d0ea3591b91275" title="create_hist_data" alt="" coords="304,64,423,91"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#ac60415a642ea12b1d9bfc3e0b79b3752" title="event_hist_trigger_func" alt="" coords="471,64,628,91"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a8efce09167d580057a7c1b7ff0f35a63" title="create_field_var_hist" alt="" coords="676,5,819,32"/>
+<area shape="rect" id="node9" href="$trace__events__hist_8c.html#a828ec233d48bc47a2f7256c62ed801cc" title="unregister_field_var\l_hists" alt="" coords="680,57,815,98"/>
+<area shape="rect" id="node6" href="$trace__events__hist_8c.html#a8e050d597091ec9bd25bf1bad64f7df7" title="onmatch_create_field_var" alt="" coords="867,5,1037,32"/>
+<area shape="rect" id="node7" href="$trace__events__hist_8c.html#ac040dfab5ef343c740c41724917b2ae0" title="onmatch_create" alt="" coords="1091,5,1205,32"/>
+<area shape="rect" id="node8" href="$trace__events__hist_8c.html#aff5d68c584931885064b13ce22c68a53" title="create_actions" alt="" coords="1259,64,1365,91"/>
+<area shape="rect" id="node10" href="$trace__events__hist_8c.html#a4d4c9a77202a88cdef573c4a4793b3c9" title="event_hist_trigger_free" alt="" coords="875,64,1029,91"/>
+<area shape="rect" id="node11" href="$trace__events__hist_8c.html#ab28d29014086ade13a7161afacfaca6b" title="event_hist_trigger\l_named_free" alt="" coords="1085,57,1211,98"/>
+</map>

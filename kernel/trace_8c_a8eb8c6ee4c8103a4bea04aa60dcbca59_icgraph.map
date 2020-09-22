@@ -1,0 +1,11 @@
+<map id="__setup" name="__setup">
+<area shape="rect" id="node2" href="$trace_8c.html#a9d5b18ee7fa56b8f13e3b6b07d8ade86" title="set_cmdline_ftrace" alt="" coords="143,5,275,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a85506e0d6134050450edf76b27f9402d" title="set_ftrace_dump_on_oops" alt="" coords="121,56,296,83"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a35804a5113a4a584fd89bb152e8e4809" title="stop_trace_on_warning" alt="" coords="131,107,287,133"/>
+<area shape="rect" id="node5" href="$trace_8c.html#adeef76a5c7335dd34ac31b0ac0e81981" title="boot_alloc_snapshot" alt="" coords="138,157,279,184"/>
+<area shape="rect" id="node6" href="$trace_8c.html#a0b6a911308d9cecae1050e23d480c52d" title="set_trace_boot_options" alt="" coords="130,208,287,235"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a79f1540b1f139d4071f0f08cd4c44eb2" title="set_trace_boot_clock" alt="" coords="135,259,282,285"/>
+<area shape="rect" id="node8" href="$trace_8c.html#aeaf9abd19325796084dd4aef2dfa488a" title="set_tracepoint_printk" alt="" coords="137,309,280,336"/>
+<area shape="rect" id="node9" href="$trace_8c.html#a8b3eec8d618450b940e1a6d9a77a06f6" title="set_buf_size" alt="" coords="161,360,257,387"/>
+<area shape="rect" id="node10" href="$trace_8c.html#a176d960b0ce1a7ce056765c7b200348d" title="set_tracing_thresh" alt="" coords="144,411,273,437"/>
+</map>

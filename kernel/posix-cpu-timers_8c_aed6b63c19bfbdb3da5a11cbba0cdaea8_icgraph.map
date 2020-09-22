@@ -1,0 +1,5 @@
+<map id="do_cpu_nanosleep" name="do_cpu_nanosleep">
+<area shape="rect" id="node2" href="$posix-cpu-timers_8c.html#a2dccba2ff1821f1314606dcf16c2958d" title="posix_cpu_nsleep" alt="" coords="403,5,529,32"/>
+<area shape="rect" id="node4" href="$posix-cpu-timers_8c.html#a000d2e4c5e44406901aea80562eb856e" title="posix_cpu_nsleep_restart" alt="" coords="184,31,355,57"/>
+<area shape="rect" id="node3" href="$posix-cpu-timers_8c.html#ab6d9b8725204495259f0f5d55f190e37" title="process_cpu_nsleep" alt="" coords="577,5,719,32"/>
+</map>

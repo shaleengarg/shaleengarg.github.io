@@ -1,0 +1,4 @@
+<map id="irq_setup_forced_threading" name="irq_setup_forced_threading">
+<area shape="rect" id="node2" href="$manage_8c.html#a846539e306eb50364d183933f3d09b76" title="irq_default_primary\l_handler" alt="" coords="239,5,371,47"/>
+<area shape="rect" id="node3" href="$manage_8c.html#a8b860c29fea4fa51d602bc99e4725476" title="irq_forced_secondary\l_handler" alt="" coords="232,71,379,112"/>
+</map>

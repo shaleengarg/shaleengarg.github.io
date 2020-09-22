@@ -1,0 +1,9 @@
+<map id="add_tracer_options" name="add_tracer_options">
+<area shape="rect" id="node2" href="$trace_8c.html#ad235d7cbec16a51dd0387f0af50bf3b7" title="create_trace_option\l_files" alt="" coords="185,49,321,90"/>
+<area shape="rect" id="node3" href="$trace_8c.html#ac393b1387a2742080108213bd460b875" title="trace_ok_for_array" alt="" coords="384,5,515,32"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="424,56,475,83"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a64a5db7238016d5a6432adc5ab9255ec" title="create_trace_option_file" alt="" coords="369,107,529,133"/>
+<area shape="rect" id="node6" href="$trace_8c.html#a5bd48c48c6a5ee57de0e8c9be9784896" title="trace_options_init\l_dentry" alt="" coords="577,70,701,111"/>
+<area shape="rect" id="node8" href="$trace_8c.html#a4fd54a9a5f973fbdaa2015576d35959f" title="trace_create_file" alt="" coords="580,136,699,163"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a01305608b6569f54977640accaa0f009" title="tracing_get_dentry" alt="" coords="749,77,879,104"/>
+</map>

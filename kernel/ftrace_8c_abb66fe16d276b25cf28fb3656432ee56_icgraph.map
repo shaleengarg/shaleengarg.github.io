@@ -1,0 +1,7 @@
+<map id="ftrace_pids_enabled" name="ftrace_pids_enabled">
+<area shape="rect" id="node2" href="$ftrace_8c.html#aeec7c0749e38341195a6399036520f2b" title="__register_ftrace_function" alt="" coords="192,5,364,32"/>
+<area shape="rect" id="node3" href="$ftrace_8c.html#a226123ea8706a108ea504c6a19359848" title="ftrace_update_pid_func" alt="" coords="199,56,357,83"/>
+<area shape="rect" id="node4" href="$ftrace_8c.html#a73e1b54e11af21980334921b2887f19a" title="ftrace_pid_reset" alt="" coords="412,31,527,57"/>
+<area shape="rect" id="node6" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="412,81,527,108"/>
+<area shape="rect" id="node5" href="$ftrace_8c.html#a6ee78376b5ade9167c82ce71dfef009d" title="ftrace_pid_open" alt="" coords="575,31,689,57"/>
+</map>

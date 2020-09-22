@@ -1,0 +1,7 @@
+<map id="rcu_init_percpu_data" name="rcu_init_percpu_data">
+<area shape="rect" id="node2" href="$tree_8c.html#a2c0ed2b8ad2f70c4f2b041ad288aaf44" title="rcu_get_root" alt="" coords="231,5,326,32"/>
+<area shape="rect" id="node3" href="$rcu__segcblist_8h.html#ab15fdbc6d5fc4da314eee8571b12a778" title="rcu_segcblist_empty" alt="" coords="207,56,350,83"/>
+<area shape="rect" id="node4" href="$tree_8h.html#a84d7ed0e67d07814c63f8071ca8930f5" title="init_nocb_callback_list" alt="" coords="202,107,355,133"/>
+<area shape="rect" id="node5" href="$rcu__segcblist_8c.html#a74207ca18571a7c9f443e5d1ff87dc0b" title="rcu_segcblist_init" alt="" coords="217,157,340,184"/>
+<area shape="rect" id="node6" href="$tree_8c.html#abbca781a2d43501af5c882165f1529bb" title="rcu_dynticks_eqs_online" alt="" coords="196,208,361,235"/>
+</map>

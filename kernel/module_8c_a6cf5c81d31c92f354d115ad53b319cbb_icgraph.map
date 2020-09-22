@@ -1,0 +1,5 @@
+<map id="mod_tree_remove_init" name="mod_tree_remove_init">
+<area shape="rect" id="node2" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="204,5,313,32"/>
+<area shape="rect" id="node3" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="361,5,456,32"/>
+<area shape="rect" id="node4" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="504,5,651,32"/>
+</map>

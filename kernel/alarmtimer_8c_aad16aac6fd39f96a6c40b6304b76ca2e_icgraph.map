@@ -1,0 +1,8 @@
+<map id="alarmtimer_dequeue" name="alarmtimer_dequeue">
+<area shape="rect" id="node2" href="$alarmtimer_8c.html#a8663e553c8ae89b292744ecb879b15c6" title="alarmtimer_fired" alt="" coords="192,56,307,83"/>
+<area shape="rect" id="node6" href="$alarmtimer_8c.html#aaf547599aabf95fb99ca474eaa0f36ec" title="alarm_try_to_cancel" alt="" coords="355,107,493,133"/>
+<area shape="rect" id="node3" href="$alarmtimer_8c.html#a18be78d57c1283d481066dec71775efd" title="__alarm_init" alt="" coords="378,56,470,83"/>
+<area shape="rect" id="node4" href="$alarmtimer_8c.html#a3a27e8597645654377050706c549cc00" title="alarm_init" alt="" coords="551,5,630,32"/>
+<area shape="rect" id="node5" href="$alarmtimer_8c.html#af1ba12909a0451f65d5707a3c1fa6385" title="alarm_forward_now" alt="" coords="688,81,823,108"/>
+<area shape="rect" id="node7" href="$alarmtimer_8c.html#a006495b284ae959d39c9516d67ebe40b" title="alarm_cancel" alt="" coords="541,157,640,184"/>
+</map>

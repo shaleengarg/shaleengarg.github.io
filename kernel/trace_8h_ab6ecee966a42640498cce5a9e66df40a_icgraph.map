@@ -1,0 +1,6 @@
+<map id="trace_run_command" name="trace_run_command">
+<area shape="rect" id="node2" href="$trace_8h.html#a43640863af2542bb0a71723f19614893" title="trace_parse_run_command" alt="" coords="193,31,372,57"/>
+<area shape="rect" id="node5" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="222,81,343,108"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="420,5,555,32"/>
+<area shape="rect" id="node4" href="$trace__kprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="439,56,535,83"/>
+</map>

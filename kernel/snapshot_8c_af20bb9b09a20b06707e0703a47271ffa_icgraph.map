@@ -1,0 +1,15 @@
+<map id="mark_unsafe_pages" name="mark_unsafe_pages">
+<area shape="rect" id="node2" href="$snapshot_8c.html#a23516b73aa5ac7464b6544ccf72ab90a" title="prepare_image" alt="" coords="192,157,299,184"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#ad1a0c7e1a915138a60c64c6602ab197e" title="snapshot_write_next" alt="" coords="347,157,489,184"/>
+<area shape="rect" id="node4" href="$swap_8c.html#a3b9ab69adfc2b5179eb3aac89a1f1242" title="load_image" alt="" coords="549,81,637,108"/>
+<area shape="rect" id="node5" href="$swap_8c.html#a306da9222bd2af1c4794de78bf56a86f" title="swsusp_read" alt="" coords="697,132,796,159"/>
+<area shape="rect" id="node13" href="$swap_8c.html#ad6346d9056ff3c5f356713d8c4dcf89e" title="load_image_lzo" alt="" coords="537,183,649,209"/>
+<area shape="rect" id="node14" href="$power_2user_8c.html#a7d24e5c04b5bf3957ad5c9bdb5f110c1" title="snapshot_write" alt="" coords="538,233,649,260"/>
+<area shape="rect" id="node6" href="$hibernate_8c.html#a722f301afe3b6b84462e22b9e6c18a09" title="load_image_and_restore" alt="" coords="844,132,1007,159"/>
+<area shape="rect" id="node7" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="1079,81,1153,108"/>
+<area shape="rect" id="node11" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="1055,157,1177,184"/>
+<area shape="rect" id="node8" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="1243,5,1354,32"/>
+<area shape="rect" id="node9" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="1255,56,1342,83"/>
+<area shape="rect" id="node10" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="1225,107,1372,133"/>
+<area shape="rect" id="node12" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="1248,157,1349,184"/>
+</map>

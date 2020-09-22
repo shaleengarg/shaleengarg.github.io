@@ -1,0 +1,4 @@
+<map id="rt_mutex_proxy_unlock" name="rt_mutex_proxy_unlock">
+<area shape="rect" id="node2" href="$rtmutex_8c.html#a3f6106eb071d0b712c828faab093c446" title="rt_mutex_set_owner" alt="" coords="211,5,351,32"/>
+<area shape="rect" id="node3" href="$rtmutex__common_8h.html#a92d7fcacb1adf1ae2212694b3a343c8d" title="rt_mutex_has_waiters" alt="" coords="399,5,549,32"/>
+</map>

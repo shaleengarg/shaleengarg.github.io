@@ -1,0 +1,17 @@
+<map id="perf_output_sample" name="perf_output_sample">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a071134ebe1c964b1bb6afa8502a605a0" title="perf_output_read" alt="" coords="214,56,333,83"/>
+<area shape="rect" id="node11" href="$events_2internal_8h.html#a3b327131c360a2d354d9a671c54513f4" title="__output_custom" alt="" coords="212,107,335,133"/>
+<area shape="rect" id="node12" href="$events_2ring__buffer_8c.html#a8e3ff29abf4522cec5b35cecefed5e13" title="perf_output_copy" alt="" coords="212,157,335,184"/>
+<area shape="rect" id="node13" href="$events_2core_8c.html#a654ee682c2448f32bbf19abda621616b" title="perf_output_sample_regs" alt="" coords="189,208,357,235"/>
+<area shape="rect" id="node15" href="$events_2core_8c.html#a7d3ae7e82a3642a3defafb7c39b74708" title="perf_output_sample\l_ustack" alt="" coords="205,259,341,301"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#aaeefd4e1f6e84ea329e9cf1a6f46d4ba" title="calc_timer_values" alt="" coords="421,107,548,133"/>
+<area shape="rect" id="node7" href="$events_2core_8c.html#a3414240b6ebd644af846cefc7adf513b" title="perf_output_read_group" alt="" coords="405,56,564,83"/>
+<area shape="rect" id="node10" href="$events_2core_8c.html#ac5273044942a0f511df488d9976cf2ad" title="perf_output_read_one" alt="" coords="411,5,558,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="642,107,725,133"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="612,157,755,184"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="803,157,953,184"/>
+<area shape="rect" id="node8" href="$events_2core_8c.html#a2195d728331062f5a2630f2169428f6c" title="perf_event_count" alt="" coords="622,5,745,32"/>
+<area shape="rect" id="node9" href="$events_2core_8c.html#a0850826244c78c94f3fe9c5a322f8e13" title="primary_event_id" alt="" coords="623,56,744,83"/>
+<area shape="rect" id="node14" href="$cpu_8c.html#ae308db3792cfc69abee27211a1965b5b" title="DECLARE_BITMAP" alt="" coords="413,208,556,235"/>
+<area shape="rect" id="node16" href="$events_2ring__buffer_8c.html#abcde20c9de50b55d306aeeacbdb37e1f" title="perf_output_skip" alt="" coords="425,267,544,293"/>
+</map>

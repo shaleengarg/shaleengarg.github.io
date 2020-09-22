@@ -1,0 +1,6 @@
+<map id="get_monotonic_coarse64" name="get_monotonic_coarse64">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#aaf22e8830ac4adcfe067ed75633b5321" title="tk_xtime" alt="" coords="276,5,348,32"/>
+<area shape="rect" id="node3" href="$time_8c.html#a16035048329aee9a6fe027aafc9c96b1" title="set_normalized_timespec64" alt="" coords="220,56,404,83"/>
+<area shape="rect" id="node5" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="243,107,381,133"/>
+<area shape="rect" id="node4" href="$time_8c.html#af5a6150711c1a70088b8e6557154551c" title="EXPORT_SYMBOL" alt="" coords="452,56,591,83"/>
+</map>

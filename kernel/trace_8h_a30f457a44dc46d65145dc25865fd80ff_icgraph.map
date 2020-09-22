@@ -1,0 +1,19 @@
+<map id="event_trigger_unlock_commit_regs" name="event_trigger_unlock_commit_regs">
+<area shape="rect" id="node2" href="$trace__kprobe_8c.html#a4df41ccd6ffcb40eafc7994f30348cd6" title="__kprobe_trace_func" alt="" coords="204,245,347,272"/>
+<area shape="rect" id="node16" href="$trace__kprobe_8c.html#adae800012b032d48883fd62346545ee3" title="__kretprobe_trace_func" alt="" coords="196,195,355,221"/>
+<area shape="rect" id="node3" href="$trace__kprobe_8c.html#a78ec667b8688b2c3516e7518a2aafdce" title="kprobe_trace_func" alt="" coords="410,245,539,272"/>
+<area shape="rect" id="node4" href="$trace__kprobe_8c.html#a4f9c975920a07b3f8051af9176375afc" title="kprobe_dispatcher" alt="" coords="602,245,730,272"/>
+<area shape="rect" id="node5" href="$trace__kprobe_8c.html#accf986b1f036614ff027dfa0dca9dbd3" title="trace_kprobe_error\l_injectable" alt="" coords="1191,158,1322,199"/>
+<area shape="rect" id="node7" href="$trace__kprobe_8c.html#a63e822ba283bedd9d428c0a171ae442e" title="alloc_trace_kprobe" alt="" coords="785,220,916,247"/>
+<area shape="rect" id="node6" href="$bpf__trace_8c.html#af3e0f8777812e1b5ef674f68bc36a21b" title="perf_event_attach_bpf_prog" alt="" coords="1385,165,1568,192"/>
+<area shape="rect" id="node8" href="$trace__kprobe_8c.html#a6b2dabc3e155d818df239f14ee87325f" title="create_trace_kprobe" alt="" coords="1616,107,1756,133"/>
+<area shape="rect" id="node11" href="$trace__kprobe_8c.html#a6e934ebd9fd617ee888cb1cb0a27947b" title="unregister_kprobe_event" alt="" coords="964,111,1128,137"/>
+<area shape="rect" id="node9" href="$trace__kprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="1817,107,1913,133"/>
+<area shape="rect" id="node10" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="1804,56,1925,83"/>
+<area shape="rect" id="node12" href="$trace__kprobe_8c.html#ad5b8a0c984ae065477315f4adf436331" title="unregister_trace_kprobe" alt="" coords="1176,56,1337,83"/>
+<area shape="rect" id="node13" href="$trace__kprobe_8c.html#a70e0b81a532a44776c1c1005c209dcc0" title="register_trace_kprobe" alt="" coords="1403,107,1550,133"/>
+<area shape="rect" id="node14" href="$trace__kprobe_8c.html#a1611b674a75cdfc2c8111958443dcae1" title="release_all_trace_kprobes" alt="" coords="1390,5,1563,32"/>
+<area shape="rect" id="node15" href="$trace__kprobe_8c.html#a0b803b054f33ee5788b32468f61ca42f" title="probes_open" alt="" coords="1638,5,1734,32"/>
+<area shape="rect" id="node17" href="$trace__kprobe_8c.html#a43e5c9ca503a5a97a04e43c4d92c617a" title="kretprobe_trace_func" alt="" coords="403,195,547,221"/>
+<area shape="rect" id="node18" href="$trace__kprobe_8c.html#ae585d8d65ea78b1922f4a0d9ba85349b" title="kretprobe_dispatcher" alt="" coords="595,195,737,221"/>
+</map>

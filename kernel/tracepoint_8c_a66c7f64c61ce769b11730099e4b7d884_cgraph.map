@@ -1,0 +1,4 @@
+<map id="func_add" name="func_add">
+<area shape="rect" id="node2" href="$tracepoint_8c.html#a634e14743286794e26ab0026ef7a52ee" title="debug_print_probes" alt="" coords="128,5,263,32"/>
+<area shape="rect" id="node3" href="$tracepoint_8c.html#a62ead6bdcedf52e7b1f2a2b37cc15802" title="allocate_probes" alt="" coords="139,56,252,83"/>
+</map>

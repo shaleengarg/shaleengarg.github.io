@@ -1,0 +1,5 @@
+<map id="copy_user_segment_list" name="copy_user_segment_list">
+<area shape="rect" id="node2" href="$kexec_8c.html#a5189eadbeba1a3312545cd9846302fb2" title="kimage_alloc_init" alt="" coords="216,5,339,32"/>
+<area shape="rect" id="node3" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="387,5,496,32"/>
+<area shape="rect" id="node4" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="544,5,691,32"/>
+</map>

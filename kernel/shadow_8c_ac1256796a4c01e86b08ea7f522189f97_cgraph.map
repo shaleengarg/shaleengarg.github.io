@@ -1,0 +1,7 @@
+<map id="klp_shadow_alloc" name="klp_shadow_alloc">
+<area shape="rect" id="node2" href="$shadow_8c.html#a0598f6e3ab99d91f5049d45e6c9a1aae" title="__klp_shadow_get_or\l_alloc" alt="" coords="179,41,327,82"/>
+<area shape="rect" id="node5" href="$shadow_8c.html#a206541323dd79649a218f2688b99b46b" title="EXPORT_SYMBOL_GPL" alt="" coords="539,81,711,108"/>
+<area shape="rect" id="node3" href="$shadow_8c.html#adfc750717e2b5fee208630760f4b37de" title="klp_shadow_get" alt="" coords="375,5,491,32"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="407,56,458,83"/>
+<area shape="rect" id="node4" href="$shadow_8c.html#ac80c10af1622b9a5840b2675192bb492" title="klp_shadow_match" alt="" coords="557,5,692,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="tracing_on" name="tracing_on">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="152,56,267,83"/>
+<area shape="rect" id="node6" href="$trace__events__trigger_8c.html#a280e8fb3a6c53d2db01d558759da1d1d" title="traceon_trigger" alt="" coords="155,107,263,133"/>
+<area shape="rect" id="node7" href="$trace__events__trigger_8c.html#a2f7a95833e77e0fed0ac308b610b993f" title="traceon_count_trigger" alt="" coords="136,157,283,184"/>
+<area shape="rect" id="node8" href="$trace__selftest_8c.html#ad895c85e12da2a5f712581390a8973bb" title="trace_test_buffer" alt="" coords="149,208,269,235"/>
+<area shape="rect" id="node9" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="334,233,486,260"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="331,5,489,32"/>
+<area shape="rect" id="node4" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="347,56,473,83"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="356,107,464,133"/>
+</map>

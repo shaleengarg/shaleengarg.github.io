@@ -1,0 +1,8 @@
+<map id="cmp_entries_key" name="cmp_entries_key">
+<area shape="rect" id="node2" href="$tracing__map_8c.html#ad3d7a99644f68db1908adaeb9207b4e8" title="sort_secondary" alt="" coords="175,5,285,32"/>
+<area shape="rect" id="node3" href="$tracing__map_8h.html#a7d0e52e1c506613566e8cf586436cc7e" title="tracing_map_sort_entries" alt="" coords="333,31,501,57"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#abe96785022cb96d27cb7b1b186d86470" title="print_entries" alt="" coords="549,31,643,57"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a8916111f1319a0828b2c7218c9269c65" title="hist_trigger_show" alt="" coords="691,31,815,57"/>
+<area shape="rect" id="node6" href="$trace__events__hist_8c.html#a6eed712a1739fcd4719f2879cb4f151c" title="hist_show" alt="" coords="863,31,944,57"/>
+<area shape="rect" id="node7" href="$trace__events__hist_8c.html#aae25d3eecd900fcb80ff7c234c0dddd3" title="event_hist_open" alt="" coords="992,31,1109,57"/>
+</map>

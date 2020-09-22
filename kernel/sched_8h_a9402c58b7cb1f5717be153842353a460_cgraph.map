@@ -1,0 +1,6 @@
+<map id="sched_dl_global_validate" name="sched_dl_global_validate">
+<area shape="rect" id="node2" href="$sched_8h.html#abbb05e19ab2ae357d78cf204c331d75e" title="global_rt_runtime" alt="" coords="220,5,341,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#aacf5032d4046bc4665f44c2513bb62af" title="global_rt_period" alt="" coords="224,56,337,83"/>
+<area shape="rect" id="node4" href="$sched_2core_8c.html#a15ed1bc07adbe7affb9019b52156b9ad" title="to_ratio" alt="" coords="248,107,313,133"/>
+<area shape="rect" id="node5" href="$deadline_8c.html#a3098115dfde264a0968f5675e386203b" title="dl_bw_of" alt="" coords="243,157,318,184"/>
+</map>

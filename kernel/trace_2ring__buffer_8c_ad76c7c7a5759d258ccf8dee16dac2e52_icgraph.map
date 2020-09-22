@@ -1,0 +1,16 @@
+<map id="ring_buffer_free" name="ring_buffer_free">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#abaa46f57608417cd0a8469f37600629b" title="trace_rb_cpu_prepare" alt="" coords="410,5,557,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="623,56,759,83"/>
+<area shape="rect" id="node5" href="$ring__buffer__benchmark_8c.html#acc8211c2538f3635cbcc98ed7fb9323b" title="ring_buffer_benchmark_init" alt="" coords="165,107,344,133"/>
+<area shape="rect" id="node6" href="$ring__buffer__benchmark_8c.html#a9137344d7927ced5d56e53036fbbdcb8" title="ring_buffer_benchmark_exit" alt="" coords="392,132,575,159"/>
+<area shape="rect" id="node7" href="$trace_8c.html#ac188b71dfedf2e4ce7fccb3ede604c4a" title="allocate_trace_buffer" alt="" coords="183,208,326,235"/>
+<area shape="rect" id="node8" href="$trace_8c.html#a84835f2d0dd82b8720d82e5a88823bfc" title="allocate_trace_buffers" alt="" coords="408,220,559,247"/>
+<area shape="rect" id="node13" href="$trace_8c.html#af663b6e560aa0bf22d1fa67198af174f" title="free_trace_buffer" alt="" coords="195,309,315,336"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="830,56,941,83"/>
+<area shape="rect" id="node9" href="$trace_8c.html#aab5bf5e697f269913648fca36d43efa5" title="instance_mkdir" alt="" coords="635,245,746,272"/>
+<area shape="rect" id="node10" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="807,271,964,297"/>
+<area shape="rect" id="node11" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="1012,271,1139,297"/>
+<area shape="rect" id="node12" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="1187,271,1309,297"/>
+<area shape="rect" id="node14" href="$trace_8c.html#a925acb8e49b244896eef6db2a190a4f2" title="free_trace_buffers" alt="" coords="420,296,547,323"/>
+<area shape="rect" id="node15" href="$trace_8c.html#a0d5784f307722b27ec3af8524ecdc005" title="instance_rmdir" alt="" coords="637,296,744,323"/>
+</map>

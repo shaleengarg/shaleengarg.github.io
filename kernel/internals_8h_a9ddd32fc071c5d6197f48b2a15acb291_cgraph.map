@@ -1,0 +1,4 @@
+<map id="unmask_irq" name="unmask_irq">
+<area shape="rect" id="node2" href="$chip_8c.html#a1efc3244326f032fd68015c07d8b9527" title="irq_state_clr_masked" alt="" coords="143,5,289,32"/>
+<area shape="rect" id="node3" href="$internals_8h.html#aa9e387b4c059b69ac7afbe5b2f5375cb" title="irqd_clear" alt="" coords="337,5,416,32"/>
+</map>

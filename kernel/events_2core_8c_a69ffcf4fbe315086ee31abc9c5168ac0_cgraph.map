@@ -1,0 +1,16 @@
+<map id="perf_swevent_add" name="perf_swevent_add">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a8da8be8cb31580dd26738c65787e4726" title="perf_swevent_set_period" alt="" coords="193,44,359,71"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#adae047612c634c64575a5b4baf21fa4c" title="find_swevent_head" alt="" coords="209,95,343,121"/>
+<area shape="rect" id="node7" href="$events_2core_8c.html#a8006c625e799937614bf52896d4ba4b6" title="perf_event_update_userpage" alt="" coords="181,183,371,209"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a5fa3c75d8be90cda99e61f9a7c80bcca" title="__find_swevent_head" alt="" coords="436,56,584,83"/>
+<area shape="rect" id="node5" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="695,5,746,32"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#aaf1e908e26ff7fa0d5bcb1faeb8796a2" title="swevent_hash" alt="" coords="667,56,774,83"/>
+<area shape="rect" id="node8" href="$events_2core_8c.html#aaeefd4e1f6e84ea329e9cf1a6f46d4ba" title="calc_timer_values" alt="" coords="447,107,573,133"/>
+<area shape="rect" id="node12" href="$events_2core_8c.html#a324eea2f18a2d1a4c752dd5323311ac3" title="perf_event_index" alt="" coords="449,157,571,184"/>
+<area shape="rect" id="node13" href="$events_2core_8c.html#a2195d728331062f5a2630f2169428f6c" title="perf_event_count" alt="" coords="449,208,571,235"/>
+<area shape="rect" id="node14" href="$events_2core_8c.html#ab724d31cff45c9dcb819bc2bd3338137" title="arch_perf_update_userpage" alt="" coords="419,259,601,285"/>
+<area shape="rect" id="node15" href="$bpf_2core_8c.html#a873375a123a9cdec2363428e9c58d0e4" title="EXPORT_SYMBOL_GPL" alt="" coords="424,309,596,336"/>
+<area shape="rect" id="node9" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="679,107,762,133"/>
+<area shape="rect" id="node10" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="649,157,792,184"/>
+<area shape="rect" id="node11" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="840,157,991,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="copy_verifier_state" name="copy_verifier_state">
+<area shape="rect" id="node2" href="$verifier_8c.html#a115d84347b9bed84e6c6245adc20e3ed" title="pop_stack" alt="" coords="185,107,268,133"/>
+<area shape="rect" id="node3" href="$verifier_8c.html#afdeef5f7e5a43f1d053dc747c79b9d1c" title="push_stack" alt="" coords="328,56,417,83"/>
+<area shape="rect" id="node10" href="$verifier_8c.html#afe77b0d444a94784f6d829d168ac4024" title="is_state_visited" alt="" coords="316,5,429,32"/>
+<area shape="rect" id="node5" href="$verifier_8c.html#a54874e8dfa3e9dca5a751350665baca6" title="do_check" alt="" coords="667,81,745,108"/>
+<area shape="rect" id="node6" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="793,132,876,159"/>
+<area shape="rect" id="node4" href="$verifier_8c.html#a29b995241fa2869be6fefc8a091d7628" title="check_cond_jmp_op" alt="" coords="477,56,619,83"/>
+<area shape="rect" id="node7" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="924,132,1027,159"/>
+<area shape="rect" id="node8" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="1075,132,1221,159"/>
+<area shape="rect" id="node9" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1269,132,1416,159"/>
+</map>

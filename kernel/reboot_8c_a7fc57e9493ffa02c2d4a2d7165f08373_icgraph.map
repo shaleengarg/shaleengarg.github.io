@@ -1,0 +1,11 @@
+<map id="kernel_restart" name="kernel_restart">
+<area shape="rect" id="node2" href="$hibernate_8c.html#a3d5e4166008e00824dc4c924d948be8a" title="power_down" alt="" coords="167,56,261,83"/>
+<area shape="rect" id="node6" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="495,107,641,133"/>
+<area shape="rect" id="node7" href="$reboot_8c.html#a934db068a8e2d277630be6ace3df5b16" title="deferred_cad" alt="" coords="165,157,263,184"/>
+<area shape="rect" id="node9" href="$reboot_8c.html#a15b48bcad8e92852cfb177e55c21be69" title="__orderly_reboot" alt="" coords="155,208,273,235"/>
+<area shape="rect" id="node3" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="347,56,421,83"/>
+<area shape="rect" id="node4" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="513,5,623,32"/>
+<area shape="rect" id="node5" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="525,56,611,83"/>
+<area shape="rect" id="node8" href="$reboot_8c.html#a5b7fc4a542941a02663f70a0cfe5f2bf" title="ctrl_alt_del" alt="" coords="341,157,427,184"/>
+<area shape="rect" id="node10" href="$reboot_8c.html#ace7b2f6ce4e55c1e8c881d8a6d9ec800" title="reboot_work_func" alt="" coords="321,208,447,235"/>
+</map>

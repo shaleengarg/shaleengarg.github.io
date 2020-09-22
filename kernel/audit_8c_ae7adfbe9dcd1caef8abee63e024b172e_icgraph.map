@@ -1,0 +1,14 @@
+<map id="audit_put_tty" name="audit_put_tty">
+<area shape="rect" id="node2" href="$audit_8c.html#a88432bceb08f41f64b515dbb1f97b7e8" title="audit_log_task_info" alt="" coords="159,69,293,96"/>
+<area shape="rect" id="node12" href="$auditsc_8c.html#ae6afde6eb5763dbb7760fb1b996a7426" title="audit_log_set_loginuid" alt="" coords="151,132,301,159"/>
+<area shape="rect" id="node3" href="$audit_8c.html#a768c74c0ecd311f9e53fe081207d29e8" title="audit_log_feature_change" alt="" coords="349,5,520,32"/>
+<area shape="rect" id="node8" href="$audit_8c.html#aa6db6725db470a7ba0b69dcb2ef3af70" title="audit_log_link_denied" alt="" coords="361,56,508,83"/>
+<area shape="rect" id="node9" href="$auditsc_8c.html#a8c3c6d33cfd0a7daf39bf849893790ae" title="audit_log_exit" alt="" coords="383,107,486,133"/>
+<area shape="rect" id="node4" href="$audit_8c.html#a042019475b20e2a4e0bed8777c613bbb" title="audit_set_feature" alt="" coords="577,5,699,32"/>
+<area shape="rect" id="node5" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="756,5,887,32"/>
+<area shape="rect" id="node6" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="935,5,1033,32"/>
+<area shape="rect" id="node7" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="1081,5,1180,32"/>
+<area shape="rect" id="node10" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="591,81,685,108"/>
+<area shape="rect" id="node11" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="568,132,708,159"/>
+<area shape="rect" id="node13" href="$auditsc_8c.html#ac6cbe20e6ba08b7c486962e0b447ae53" title="audit_set_loginuid" alt="" coords="371,157,498,184"/>
+</map>

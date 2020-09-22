@@ -1,0 +1,6 @@
+<map id="clockid_to_kclock" name="clockid_to_kclock">
+<area shape="rect" id="node2" href="$posix-timers_8c.html#a46ce42325bfed95f4409bd66b55ab827" title="do_timer_create" alt="" coords="196,5,311,32"/>
+<area shape="rect" id="node4" href="$posix-timers_8c.html#aa7bf41e54c7cefb445636521e74577fa" title="SYSCALL_DEFINE2" alt="" coords="180,56,327,83"/>
+<area shape="rect" id="node5" href="$posix-timers_8c.html#a332f0e065b691c8807fe30e753f7bb97" title="SYSCALL_DEFINE4" alt="" coords="180,107,327,133"/>
+<area shape="rect" id="node3" href="$posix-timers_8c.html#ab346870568958fd710ff0d0a584d9c80" title="SYSCALL_DEFINE3" alt="" coords="375,5,521,32"/>
+</map>

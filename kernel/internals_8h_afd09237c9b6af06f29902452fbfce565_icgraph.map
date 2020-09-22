@@ -1,0 +1,32 @@
+<map id="__irq_wake_thread" name="__irq_wake_thread">
+<area shape="rect" id="node2" href="$internals_8h.html#a08f521e66761251b3f8afe661bce105e" title="__handle_irq_event\l_percpu" alt="" coords="187,305,322,346"/>
+<area shape="rect" id="node20" href="$manage_8c.html#a2f8b6125f3a5777bfe4a7f7d50f07da6" title="irq_wake_secondary" alt="" coords="184,381,325,408"/>
+<area shape="rect" id="node31" href="$manage_8c.html#aa2a4686b636c677ab4de6a4d14f0c508" title="irq_wake_thread" alt="" coords="196,432,313,459"/>
+<area shape="rect" id="node3" href="$chip_8c.html#a640d54b34a2be4efc7d11f56a17f9c11" title="handle_untracked_irq" alt="" coords="384,261,529,288"/>
+<area shape="rect" id="node4" href="$internals_8h.html#a26df9dbbad50fed7ef6bcf00d8f47a28" title="handle_irq_event_percpu" alt="" coords="373,312,540,339"/>
+<area shape="rect" id="node5" href="$chip_8c.html#a1c06c355efc5424683ee7398c834ffa1" title="handle_percpu_irq" alt="" coords="588,157,715,184"/>
+<area shape="rect" id="node6" href="$internals_8h.html#a94664932c0897ebcf2563753e89020d8" title="handle_irq_event" alt="" coords="591,208,711,235"/>
+<area shape="rect" id="node7" href="$chip_8c.html#a6fc2c414a75f20ef3353e1c9d8c75479" title="handle_simple_irq" alt="" coords="763,31,889,57"/>
+<area shape="rect" id="node11" href="$chip_8c.html#a36239c70447a7675ae17dba9e17e8b94" title="handle_level_irq" alt="" coords="769,81,883,108"/>
+<area shape="rect" id="node12" href="$chip_8c.html#a5ad800f75bdcb43de57cdee838d66eda" title="handle_fasteoi_irq" alt="" coords="763,132,889,159"/>
+<area shape="rect" id="node13" href="$chip_8c.html#a59094f8786961797870d59a703b950d1" title="handle_edge_irq" alt="" coords="768,183,884,209"/>
+<area shape="rect" id="node14" href="$chip_8c.html#a00647ddd8467fe1985f03d1592ef1d40" title="irq_cpu_offline" alt="" coords="773,233,879,260"/>
+<area shape="rect" id="node15" href="$spurious_8c.html#af50ee6082173d0afd17a181c8463d956" title="try_one_irq" alt="" coords="783,284,869,311"/>
+<area shape="rect" id="node8" href="$irq__sim_8c.html#a0150cd9c72d3f3b3c597f025b29dbf58" title="irq_sim_handle_irq" alt="" coords="945,5,1076,32"/>
+<area shape="rect" id="node9" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="1179,31,1267,57"/>
+<area shape="rect" id="node10" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="1401,31,1527,57"/>
+<area shape="rect" id="node16" href="$spurious_8c.html#a1a2d3ea0375dcbb9dc19e7f980967706" title="misrouted_irq" alt="" coords="961,233,1061,260"/>
+<area shape="rect" id="node19" href="$spurious_8c.html#a21e8f8a8512c905cb6c6a478b7d1786f" title="poll_spurious_irqs" alt="" coords="947,284,1074,311"/>
+<area shape="rect" id="node17" href="$spurious_8c.html#a2a9ab3f60db6b27e62d60b4ee1411217" title="note_interrupt" alt="" coords="1173,284,1274,311"/>
+<area shape="rect" id="node18" href="$chip_8c.html#a71facf201040ea02f0ffe5914e10ef1c" title="handle_nested_irq" alt="" coords="1401,284,1527,311"/>
+<area shape="rect" id="node21" href="$manage_8c.html#a19e1c77d1e41b908278af1baf56770a1" title="irq_thread" alt="" coords="417,387,496,413"/>
+<area shape="rect" id="node22" href="$manage_8c.html#a6664274a40c8806ad174e18f8a1dd227" title="setup_irq_thread" alt="" coords="592,408,711,435"/>
+<area shape="rect" id="node23" href="$manage_8c.html#a36839ae75526c330ef512d5ad7b50927" title="__setup_irq" alt="" coords="781,436,871,463"/>
+<area shape="rect" id="node24" href="$manage_8c.html#a351fb2278f3a57bd1c8e7167ad8ae4be" title="setup_irq" alt="" coords="973,385,1048,412"/>
+<area shape="rect" id="node25" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="939,436,1082,463"/>
+<area shape="rect" id="node29" href="$manage_8c.html#a7719179dc22c7e3f24c46dcdcbf6c391" title="setup_percpu_irq" alt="" coords="950,487,1071,513"/>
+<area shape="rect" id="node30" href="$manage_8c.html#a88b25a1a89eee2cf026de584301ac767" title="__request_percpu_irq" alt="" coords="937,537,1084,564"/>
+<area shape="rect" id="node26" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="1132,411,1315,437"/>
+<area shape="rect" id="node27" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="1141,461,1305,488"/>
+<area shape="rect" id="node28" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="1363,461,1565,488"/>
+</map>

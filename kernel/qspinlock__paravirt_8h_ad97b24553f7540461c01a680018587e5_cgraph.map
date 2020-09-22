@@ -1,0 +1,9 @@
+<map id="pv_wait_head_or_lock" name="pv_wait_head_or_lock">
+<area shape="rect" id="node2" href="$qspinlock__stat_8h.html#a6b870315712855e7fd5d3245a24b34bd" title="qstat_inc" alt="" coords="241,5,315,32"/>
+<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#abb4a15cec366e7cc8d34cbe0ba25cfd9" title="set_pending" alt="" coords="232,56,324,83"/>
+<area shape="rect" id="node4" href="$qspinlock__paravirt_8h.html#aab55e44eeebb48bfb073d9db52ea20b2" title="trylock_clear_pending" alt="" coords="204,107,352,133"/>
+<area shape="rect" id="node5" href="$qspinlock__paravirt_8h.html#ab84f7c90949d153ee1389e592b0d5c97" title="clear_pending" alt="" coords="227,157,329,184"/>
+<area shape="rect" id="node6" href="$qspinlock__paravirt_8h.html#a51e423eee11b2b909b9a2e81113f1758" title="pv_hash" alt="" coords="243,208,313,235"/>
+<area shape="rect" id="node7" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="414,183,465,209"/>
+<area shape="rect" id="node8" href="$qspinlock__stat_8h.html#abb2374852684378d140d4c5cc850e021" title="qstat_hop" alt="" coords="400,233,479,260"/>
+</map>

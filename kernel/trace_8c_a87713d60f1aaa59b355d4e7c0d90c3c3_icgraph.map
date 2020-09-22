@@ -1,0 +1,8 @@
+<map id="trace_get_user" name="trace_get_user">
+<area shape="rect" id="node2" href="$trace_8h.html#a496f3d98cc059d9e719d8a4fdd2f87f2" title="trace_pid_write" alt="" coords="504,31,615,57"/>
+<area shape="rect" id="node5" href="$trace_8h.html#a5f9dd8f06d16d15286ba28335ba7d9d3" title="trace_parser_clear" alt="" coords="161,81,291,108"/>
+<area shape="rect" id="node7" href="$trace__events_8c.html#a95b5237adc98d57a58fc0f9dfd1c6bc7" title="ftrace_event_write" alt="" coords="495,107,624,133"/>
+<area shape="rect" id="node3" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="691,5,806,32"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#a28db7b9181098514cdbb3677657e83cc" title="ftrace_event_pid_write" alt="" coords="672,56,825,83"/>
+<area shape="rect" id="node6" href="$trace_8h.html#a87713d60f1aaa59b355d4e7c0d90c3c3" title="trace_get_user" alt="" coords="339,81,447,108"/>
+</map>

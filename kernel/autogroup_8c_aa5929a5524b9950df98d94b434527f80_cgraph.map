@@ -1,0 +1,6 @@
+<map id="autogroup_create" name="autogroup_create">
+<area shape="rect" id="node2" href="$sched_8h.html#a119abd5a3bc0b027936606e2b7cae16c" title="task_group" alt="" coords="203,5,289,32"/>
+<area shape="rect" id="node3" href="$rt_8c.html#a86e57e00011321714168160a0a045194" title="free_rt_sched_group" alt="" coords="176,56,316,83"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="221,107,271,133"/>
+<area shape="rect" id="node5" href="$autogroup_8c.html#a5c6d2a0c92d64f17125388232a8b4045" title="autogroup_kref_get" alt="" coords="179,157,313,184"/>
+</map>

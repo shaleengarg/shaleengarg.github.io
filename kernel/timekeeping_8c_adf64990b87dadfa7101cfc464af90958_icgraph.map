@@ -1,0 +1,11 @@
+<map id="change_clocksource" name="change_clocksource">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#a1bb907c5d578582cb426dd7c9be8e7c4" title="timekeeping_notify" alt="" coords="195,71,325,98"/>
+<area shape="rect" id="node3" href="$clocksource_8c.html#a9eedf91b7fc7a7f1ee01a0f43f744fb4" title="__clocksource_select" alt="" coords="373,71,521,98"/>
+<area shape="rect" id="node4" href="$clocksource_8c.html#a903f465c635267c71c60ea86b7c2db80" title="clocksource_select" alt="" coords="569,97,704,123"/>
+<area shape="rect" id="node5" href="$clocksource_8c.html#aac7b69c19b2f0a9080c511e3b2480af7" title="clocksource_select\l_fallback" alt="" coords="773,5,907,47"/>
+<area shape="rect" id="node7" href="$clocksource_8c.html#a7a81346cc8e3f8cfc92062b146b284ab" title="clocksource_unregister" alt="" coords="1161,46,1317,73"/>
+<area shape="rect" id="node8" href="$clocksource_8c.html#afbb301bdf668ed84f0726b53af1e0c73" title="clocksource_done_booting" alt="" coords="752,122,928,149"/>
+<area shape="rect" id="node9" href="$clocksource_8c.html#ad9a3f8f64b9f4dafa66028e8312286c4" title="__clocksource_register\l_scale" alt="" coords="762,173,918,215"/>
+<area shape="rect" id="node10" href="$clocksource_8c.html#a00c50a2a2213662d55386b03573c745a" title="clocksource_change\l_rating" alt="" coords="769,239,911,280"/>
+<area shape="rect" id="node6" href="$clocksource_8c.html#a2e4cd588c46e331a7e972d6829d56334" title="clocksource_unbind" alt="" coords="976,17,1113,43"/>
+</map>

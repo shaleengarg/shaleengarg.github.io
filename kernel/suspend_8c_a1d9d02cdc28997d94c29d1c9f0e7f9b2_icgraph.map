@@ -1,0 +1,6 @@
+<map id="pm_suspend" name="pm_suspend">
+<area shape="rect" id="node2" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="151,5,262,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="163,56,250,83"/>
+<area shape="rect" id="node4" href="$suspend__test_8c.html#ae9e9ccfc09bc9bfe4d93dd2d06e9667e" title="test_wakealarm" alt="" coords="149,107,264,133"/>
+<area shape="rect" id="node5" href="$suspend__test_8c.html#ad3bf8de9b6f0844cf2a3ef591c4e45e6" title="test_suspend" alt="" coords="312,107,412,133"/>
+</map>

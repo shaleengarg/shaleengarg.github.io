@@ -1,0 +1,4 @@
+<map id="rb_event_length" name="rb_event_length">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a017236c041f52d8269128ef0c6c166a0" title="rb_null_event" alt="" coords="192,5,291,32"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a7c53d15723d9f4db584e42e340252b11" title="rb_event_data_length" alt="" coords="168,56,315,83"/>
+</map>

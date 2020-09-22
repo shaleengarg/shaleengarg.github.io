@@ -1,0 +1,16 @@
+<map id="rcu_exp_wait_wake" name="rcu_exp_wait_wake">
+<area shape="rect" id="node2" href="$tree__exp_8h.html#acc247c7ea97937a7216c05eccf8baed7" title="rcu_exp_sel_wait_wake" alt="" coords="191,56,352,83"/>
+<area shape="rect" id="node3" href="$tree__exp_8h.html#af5a452d254cefe7e567b888c2c94729b" title="wait_rcu_exp_gp" alt="" coords="400,31,520,57"/>
+<area shape="rect" id="node4" href="$tree__exp_8h.html#add5fc50af9ff8164e2fcb8f7c48739ac" title="_synchronize_rcu_expedited" alt="" coords="568,56,755,83"/>
+<area shape="rect" id="node5" href="$tree__exp_8h.html#ab6a15656165643c75ae5d19a0b31a640" title="synchronize_sched_expedited" alt="" coords="803,56,1000,83"/>
+<area shape="rect" id="node6" href="$tree_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="1071,5,1205,32"/>
+<area shape="rect" id="node8" href="$tree__exp_8h.html#a083fbbb282ef5a0d32d2f99d74372dc8" title="synchronize_rcu_expedited" alt="" coords="1048,56,1228,83"/>
+<area shape="rect" id="node11" href="$update_8c.html#ac7aa191f9e1255f5d79776dd06eff0c0" title="rcu_test_sync_prims" alt="" coords="1289,107,1432,133"/>
+<area shape="rect" id="node7" href="$tree_8c.html#a524b4bee99ca93bf8c386565656b9cae" title="cond_synchronize_sched" alt="" coords="1276,5,1445,32"/>
+<area shape="rect" id="node9" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="1952,125,2101,166"/>
+<area shape="rect" id="node10" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="2149,132,2299,159"/>
+<area shape="rect" id="node12" href="$tree_8c.html#a2d94d7fb01eb30d5e09e70206c70921f" title="rcu_scheduler_starting" alt="" coords="1507,107,1661,133"/>
+<area shape="rect" id="node13" href="$update_8c.html#a16f8595371f03d18374c15f9ae361fc4" title="rcu_set_runtime_mode" alt="" coords="1507,157,1661,184"/>
+<area shape="rect" id="node14" href="$update_8c.html#a1aa5ca78e9cb2e6de0e9a6aa2a93ee80" title="rcu_tasks_bootup_oddness" alt="" coords="1493,208,1675,235"/>
+<area shape="rect" id="node15" href="$update_8c.html#adf672e6570ad00e3070c7b1aa77c35dd" title="rcupdate_announce_bootup\l_oddness" alt="" coords="1723,154,1904,195"/>
+</map>

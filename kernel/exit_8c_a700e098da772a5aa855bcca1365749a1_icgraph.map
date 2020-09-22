@@ -1,0 +1,10 @@
+<map id="task_rcu_dereference" name="task_rcu_dereference">
+<area shape="rect" id="node2" href="$fair_8c.html#a6292e63b4b3125dd249bcb32347f88ee" title="update_stats_curr_start" alt="" coords="216,31,375,57"/>
+<area shape="rect" id="node7" href="$membarrier_8c.html#ab76b7ccba81586c70697e68a819a5bae" title="membarrier_global_expedited" alt="" coords="200,81,391,108"/>
+<area shape="rect" id="node9" href="$membarrier_8c.html#ad1a9798e7667619d8904515c1d75f52e" title="membarrier_private\l_expedited" alt="" coords="229,133,362,174"/>
+<area shape="rect" id="node3" href="$fair_8c.html#acba24f064c64a17cc5260e7954ddcf93" title="set_next_entity" alt="" coords="457,31,567,57"/>
+<area shape="rect" id="node4" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="633,5,768,32"/>
+<area shape="rect" id="node6" href="$fair_8c.html#ad45f0fa08ee0ebd82518f49f52c1fcdb" title="set_curr_task_fair" alt="" coords="637,56,764,83"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="816,31,945,57"/>
+<area shape="rect" id="node8" href="$membarrier_8c.html#ab092ac45a0784eed97530120015aed33" title="SYSCALL_DEFINE2" alt="" coords="439,111,585,137"/>
+</map>

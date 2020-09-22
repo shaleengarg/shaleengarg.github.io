@@ -1,0 +1,12 @@
+<map id="__trace_remove_event_dirs" name="__trace_remove_event_dirs">
+<area shape="rect" id="node2" href="$trace__events_8c.html#a51835935109abf55e6eef9c333a656c6" title="remove_event_file_dir" alt="" coords="236,107,385,133"/>
+<area shape="rect" id="node3" href="$trace__events_8c.html#afc980db22789552fa260589b0d209478" title="remove_subsystem" alt="" coords="433,81,569,108"/>
+<area shape="rect" id="node9" href="$trace_8h.html#abb762631f350cf94c7abe255009e9cf6" title="free_event_filter" alt="" coords="444,132,559,159"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#abddd71d25a5904aef5540fb11a597a54" title="__put_system_dir" alt="" coords="617,81,743,108"/>
+<area shape="rect" id="node5" href="$trace__events_8c.html#afba5122ebcff877b49d7405c1ea30212" title="system_refcount" alt="" coords="957,5,1075,32"/>
+<area shape="rect" id="node6" href="$trace__events_8c.html#a297430a67d1356760f399b12aea571b9" title="__put_system" alt="" coords="791,56,895,83"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="991,132,1041,159"/>
+<area shape="rect" id="node7" href="$trace__events_8c.html#abc4cde4ca208f84c5ae269355c9dc86b" title="system_refcount_dec" alt="" coords="943,56,1089,83"/>
+<area shape="rect" id="node10" href="$trace__events__filter_8c.html#a49353803697a04fbf1720b9c3343e550" title="__free_filter" alt="" coords="635,157,725,184"/>
+<area shape="rect" id="node11" href="$trace__events__filter_8c.html#a58d54c795dcfdb2fdf747e645a027efb" title="free_prog" alt="" coords="805,208,881,235"/>
+</map>

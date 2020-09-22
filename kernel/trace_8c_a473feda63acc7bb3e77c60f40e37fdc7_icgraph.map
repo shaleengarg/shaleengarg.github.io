@@ -1,0 +1,8 @@
+<map id="create_trace_option_core_file" name="create_trace_option_core_file">
+<area shape="rect" id="node2" href="$trace_8c.html#ab12ef528f0af810a3f42f04a4d95a01a" title="create_trace_options_dir" alt="" coords="189,31,353,57"/>
+<area shape="rect" id="node3" href="$trace_8c.html#ad9e0e60469fdc54991aa7e6b6fec32ef" title="init_tracer_tracefs" alt="" coords="401,31,528,57"/>
+<area shape="rect" id="node4" href="$trace_8c.html#aab5bf5e697f269913648fca36d43efa5" title="instance_mkdir" alt="" coords="576,5,687,32"/>
+<area shape="rect" id="node6" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="940,31,1067,57"/>
+<area shape="rect" id="node5" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="735,5,892,32"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="1115,31,1237,57"/>
+</map>

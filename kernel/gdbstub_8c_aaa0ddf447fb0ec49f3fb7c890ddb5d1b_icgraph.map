@@ -1,0 +1,15 @@
+<map id="kgdb_hex2long" name="kgdb_hex2long">
+<area shape="rect" id="node2" href="$gdbstub_8c.html#a5256153f136ff992bd015a5bdcb56140" title="write_mem_msg" alt="" coords="163,56,281,83"/>
+<area shape="rect" id="node3" href="$gdbstub_8c.html#a93d00965fa0d8dc15b438ff8df951a7d" title="gdb_cmd_memwrite" alt="" coords="329,5,468,32"/>
+<area shape="rect" id="node10" href="$gdbstub_8c.html#a7b448c811c6664333dbc5a483d6e40b9" title="gdb_cmd_memread" alt="" coords="331,107,467,133"/>
+<area shape="rect" id="node11" href="$gdbstub_8c.html#adb8e58efe49872efbea4f124a862f2fc" title="gdb_cmd_query" alt="" coords="341,157,456,184"/>
+<area shape="rect" id="node12" href="$gdbstub_8c.html#a0cc9c5fa653a4b09a634f8fa9c7f8f2a" title="gdb_cmd_task" alt="" coords="169,208,275,235"/>
+<area shape="rect" id="node13" href="$gdbstub_8c.html#a0451614a6e4e416f4184bfd668faae2a" title="gdb_cmd_thread" alt="" coords="163,259,281,285"/>
+<area shape="rect" id="node14" href="$gdbstub_8c.html#a48597388998504287e720a728df63f2b" title="gdb_cmd_break" alt="" coords="165,309,279,336"/>
+<area shape="rect" id="node9" href="$gdbstub_8c.html#a98e758a6e1fb3dfe1633c01f2183b061" title="gdb_cmd_binwrite" alt="" coords="335,56,462,83"/>
+<area shape="rect" id="node4" href="$gdbstub_8c.html#a63e2b239e99914ca4fa28d6f5b73e341" title="gdb_serial_stub" alt="" coords="516,157,629,184"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="677,157,792,184"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="840,107,999,133"/>
+<area shape="rect" id="node7" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="856,157,983,184"/>
+<area shape="rect" id="node8" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="865,208,973,235"/>
+</map>

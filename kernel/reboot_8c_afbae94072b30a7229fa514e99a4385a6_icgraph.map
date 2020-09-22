@@ -1,0 +1,17 @@
+<map id="DEFINE_MUTEX" name="DEFINE_MUTEX">
+<area shape="rect" id="node2" href="$reboot_8c.html#aa083eeea2f3b2a73989e56f5333abd26" title="kernel_power_off" alt="" coords="180,183,301,209"/>
+<area shape="rect" id="node3" href="$hibernate_8c.html#a3d5e4166008e00824dc4c924d948be8a" title="power_down" alt="" coords="368,56,463,83"/>
+<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="724,107,871,133"/>
+<area shape="rect" id="node8" href="$poweroff_8c.html#a3faa9ccc0305cb6113dd594c1fab59b4" title="do_poweroff" alt="" coords="369,157,462,184"/>
+<area shape="rect" id="node9" href="$rcuperf_8c.html#a1fa66afae98b48e0901be627638a8b62" title="rcu_perf_shutdown" alt="" coords="349,208,481,235"/>
+<area shape="rect" id="node11" href="$reboot_8c.html#a82da65767e62ddb589cd08aa287a9a01" title="__orderly_poweroff" alt="" coords="349,259,481,285"/>
+<area shape="rect" id="node13" href="$torture_8c.html#ad2b273165eaaf717b503dbbd2f88f42a" title="torture_shutdown" alt="" coords="354,309,477,336"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="565,56,640,83"/>
+<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="742,5,853,32"/>
+<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="754,56,841,83"/>
+<area shape="rect" id="node10" href="$rcuperf_8c.html#a27e8263fd39e03e707e3aa9f02b27b99" title="rcu_perf_init" alt="" coords="556,208,649,235"/>
+<area shape="rect" id="node12" href="$reboot_8c.html#a46179de6a08df58269367eed3e8bc428" title="poweroff_work_func" alt="" coords="533,259,672,285"/>
+<area shape="rect" id="node14" href="$torture_8c.html#a6de4868e461489313a3100887ac581fe" title="torture_shutdown_init" alt="" coords="529,309,676,336"/>
+<area shape="rect" id="node15" href="$locktorture_8c.html#ac32d3efe01d9b4321e0b50aadaa3a322" title="lock_torture_init" alt="" coords="740,284,855,311"/>
+<area shape="rect" id="node16" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="743,335,851,361"/>
+</map>

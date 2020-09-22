@@ -1,0 +1,24 @@
+<map id="panic_on_rcu_stall" name="panic_on_rcu_stall">
+<area shape="rect" id="node2" href="$tree_8c.html#ae5d045d4a52d6c1c8aee0ee1a0282f35" title="print_other_cpu_stall" alt="" coords="227,5,369,32"/>
+<area shape="rect" id="node7" href="$tree_8c.html#af1bc8d60eb35d281a7cf7e0ba0dd2d67" title="print_cpu_stall" alt="" coords="245,56,351,83"/>
+<area shape="rect" id="node8" href="$tree__exp_8h.html#ac462808fa515f492a6f9931f336ca285" title="synchronize_sched_expedited_wait" alt="" coords="184,107,412,133"/>
+<area shape="rect" id="node3" href="$tree_8c.html#abf1f7c18be3efa901f0b54aa59dfaec4" title="check_cpu_stall" alt="" coords="471,31,587,57"/>
+<area shape="rect" id="node4" href="$tree_8c.html#a3ae3007c424810a739f44cf56112bdd9" title="__rcu_pending" alt="" coords="673,31,779,57"/>
+<area shape="rect" id="node5" href="$tree_8c.html#a08afed920085c59f1cef0d73a787e038" title="rcu_pending" alt="" coords="869,31,961,57"/>
+<area shape="rect" id="node6" href="$tree_8c.html#ab7a1ec9a68d811c584765a19456f0fc8" title="rcu_check_callbacks" alt="" coords="1044,31,1188,57"/>
+<area shape="rect" id="node9" href="$tree__exp_8h.html#afd8017a3ecaea6783ce231e6cdb21403" title="rcu_exp_wait_wake" alt="" coords="460,107,597,133"/>
+<area shape="rect" id="node10" href="$tree__exp_8h.html#acc247c7ea97937a7216c05eccf8baed7" title="rcu_exp_sel_wait_wake" alt="" coords="645,107,807,133"/>
+<area shape="rect" id="node11" href="$tree__exp_8h.html#af5a452d254cefe7e567b888c2c94729b" title="wait_rcu_exp_gp" alt="" coords="855,81,975,108"/>
+<area shape="rect" id="node12" href="$tree__exp_8h.html#add5fc50af9ff8164e2fcb8f7c48739ac" title="_synchronize_rcu_expedited" alt="" coords="1023,107,1209,133"/>
+<area shape="rect" id="node13" href="$tree__exp_8h.html#ab6a15656165643c75ae5d19a0b31a640" title="synchronize_sched_expedited" alt="" coords="1257,107,1455,133"/>
+<area shape="rect" id="node14" href="$tree_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="1525,56,1660,83"/>
+<area shape="rect" id="node16" href="$tree__exp_8h.html#a083fbbb282ef5a0d32d2f99d74372dc8" title="synchronize_rcu_expedited" alt="" coords="1503,107,1683,133"/>
+<area shape="rect" id="node19" href="$update_8c.html#ac7aa191f9e1255f5d79776dd06eff0c0" title="rcu_test_sync_prims" alt="" coords="1744,157,1887,184"/>
+<area shape="rect" id="node15" href="$tree_8c.html#a524b4bee99ca93bf8c386565656b9cae" title="cond_synchronize_sched" alt="" coords="1731,56,1900,83"/>
+<area shape="rect" id="node17" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="2407,175,2556,217"/>
+<area shape="rect" id="node18" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="2604,183,2753,209"/>
+<area shape="rect" id="node20" href="$tree_8c.html#a2d94d7fb01eb30d5e09e70206c70921f" title="rcu_scheduler_starting" alt="" coords="1962,157,2115,184"/>
+<area shape="rect" id="node21" href="$update_8c.html#a16f8595371f03d18374c15f9ae361fc4" title="rcu_set_runtime_mode" alt="" coords="1961,208,2116,235"/>
+<area shape="rect" id="node22" href="$update_8c.html#a1aa5ca78e9cb2e6de0e9a6aa2a93ee80" title="rcu_tasks_bootup_oddness" alt="" coords="1948,259,2129,285"/>
+<area shape="rect" id="node23" href="$update_8c.html#adf672e6570ad00e3070c7b1aa77c35dd" title="rcupdate_announce_bootup\l_oddness" alt="" coords="2177,205,2359,246"/>
+</map>

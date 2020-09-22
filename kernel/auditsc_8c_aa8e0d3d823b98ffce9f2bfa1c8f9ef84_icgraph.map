@@ -1,0 +1,6 @@
+<map id="audit_log_execve_info" name="audit_log_execve_info">
+<area shape="rect" id="node2" href="$auditsc_8c.html#ac9e80b6cc11b6f708e885eb96c3f79bb" title="show_special" alt="" coords="204,31,305,57"/>
+<area shape="rect" id="node3" href="$auditsc_8c.html#a8c3c6d33cfd0a7daf39bf849893790ae" title="audit_log_exit" alt="" coords="353,31,456,57"/>
+<area shape="rect" id="node4" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="527,5,621,32"/>
+<area shape="rect" id="node5" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="504,56,644,83"/>
+</map>

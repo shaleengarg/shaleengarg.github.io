@@ -1,0 +1,10 @@
+<map id="pm_autosleep_unlock" name="pm_autosleep_unlock">
+<area shape="rect" id="node2" href="$power_8h.html#aa0b2edc50939dd7aff5345e76af5b4c3" title="suspend_thaw_processes" alt="" coords="201,56,375,83"/>
+<area shape="rect" id="node3" href="$suspend_8c.html#ad7ff3501302946e8dff6da29d1c6610e" title="suspend_finish" alt="" coords="423,56,532,83"/>
+<area shape="rect" id="node4" href="$suspend_8c.html#aff34286305debe108d3dea2eca736783" title="enter_state" alt="" coords="580,56,667,83"/>
+<area shape="rect" id="node5" href="$suspend_8c.html#a1d9d02cdc28997d94c29d1c9f0e7f9b2" title="pm_suspend" alt="" coords="715,56,811,83"/>
+<area shape="rect" id="node6" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="861,5,971,32"/>
+<area shape="rect" id="node7" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="873,56,959,83"/>
+<area shape="rect" id="node8" href="$suspend__test_8c.html#ae9e9ccfc09bc9bfe4d93dd2d06e9667e" title="test_wakealarm" alt="" coords="859,107,973,133"/>
+<area shape="rect" id="node9" href="$suspend__test_8c.html#ad3bf8de9b6f0844cf2a3ef591c4e45e6" title="test_suspend" alt="" coords="1021,107,1121,133"/>
+</map>

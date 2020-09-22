@@ -1,0 +1,9 @@
+<map id="alloc_resource" name="alloc_resource">
+<area shape="rect" id="node2" href="$resource_8c.html#a712e038b58d71f14fd5e2fa0759e52f2" title="__reserve_region_with\l_split" alt="" coords="160,5,312,47"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a42973b87aebed6668a99f802512fd4c2" title="__request_region" alt="" coords="372,71,493,98"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a26cade886fc6c37e6052c2fbbccc6a69" title="__release_region" alt="" coords="176,122,296,149"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a96d97512b298028228f9c587b832f02c" title="reserve_region_with\l_split" alt="" coords="363,5,502,47"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a0ef8fcffd097fad4848b42712d33c1c2" title="__devm_request_region" alt="" coords="553,85,713,111"/>
+<area shape="rect" id="node7" href="$resource_8c.html#a1a49e96b9a7bb8b02facedba5d06bdd7" title="devm_region_release" alt="" coords="360,122,505,149"/>
+<area shape="rect" id="node8" href="$resource_8c.html#a91d52fe29b63024d9bc8e7806da6ace3" title="__devm_release_region" alt="" coords="554,147,713,174"/>
+</map>

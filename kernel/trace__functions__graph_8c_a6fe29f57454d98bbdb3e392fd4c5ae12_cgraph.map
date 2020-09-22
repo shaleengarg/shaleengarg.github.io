@@ -1,0 +1,20 @@
+<map id="print_graph_prologue" name="print_graph_prologue">
+<area shape="rect" id="node2" href="$trace__functions__graph_8c.html#a6be94d16e7ffddfd03b51e9f4f78e837" title="verif_pid" alt="" coords="214,169,285,195"/>
+<area shape="rect" id="node3" href="$trace__seq_8c.html#aaeef7e33e9c24b1f462ee539545435c8" title="trace_seq_puts" alt="" coords="785,111,896,138"/>
+<area shape="rect" id="node6" href="$trace__functions__graph_8c.html#a32b10f068f42ea4133646583e86cd114" title="print_graph_cpu" alt="" coords="367,162,481,189"/>
+<area shape="rect" id="node8" href="$trace__functions__graph_8c.html#a5f3605ff53ecc466645090d67eca69a8" title="print_graph_proc" alt="" coords="365,358,483,385"/>
+<area shape="rect" id="node13" href="$trace__functions__graph_8c.html#a4d03519ebec0ac09d71cb7916ef34133" title="print_graph_irq" alt="" coords="196,307,303,334"/>
+<area shape="rect" id="node14" href="$trace__functions__graph_8c.html#a4f18cd6908dfcd10a4b34a5975b5508f" title="print_graph_abs_time" alt="" coords="351,409,497,435"/>
+<area shape="rect" id="node15" href="$trace__functions__graph_8c.html#aa9c6ac0af92de7529f688af43e3000fb" title="print_graph_lat_fmt" alt="" coords="357,618,491,645"/>
+<area shape="rect" id="node4" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="989,289,1106,315"/>
+<area shape="rect" id="node5" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="961,339,1133,366"/>
+<area shape="rect" id="node7" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="783,314,898,341"/>
+<area shape="rect" id="node9" href="$trace_8c.html#ad7b0840718193bf703dace71e9538ee6" title="trace_find_cmdline" alt="" coords="567,669,698,695"/>
+<area shape="rect" id="node12" href="$trace__seq_8c.html#adb64913da7b9a02254c4f51959c29cc9" title="trace_seq_putc" alt="" coords="785,466,896,493"/>
+<area shape="rect" id="node10" href="$trace_8c.html#a0af6452f2dbafa95e6fa9d9dc7cdeb7e" title="__trace_find_cmdline" alt="" coords="768,669,913,695"/>
+<area shape="rect" id="node11" href="$trace_8c.html#aad9dced1b3e1ba1c688b020f74cc1988" title="get_saved_cmdlines" alt="" coords="977,669,1118,695"/>
+<area shape="rect" id="node17" href="$trace__functions__graph_8c.html#aa76727f17dcd7ae1ce456633d83315bd" title="print_graph_duration" alt="" coords="355,263,493,290"/>
+<area shape="rect" id="node16" href="$trace__output_8c.html#ab12128b111207bf618898828cc2d2917" title="trace_print_lat_fmt" alt="" coords="567,466,698,493"/>
+<area shape="rect" id="node18" href="$trace_8h.html#a719335abb77ddd8606d8a3ad1155711d" title="trace_find_mark" alt="" coords="575,314,690,341"/>
+<area shape="rect" id="node19" href="$trace__functions__graph_8c.html#a32fd3c0e5523bf6d3743735de430c744" title="trace_print_graph_duration" alt="" coords="545,213,720,239"/>
+</map>

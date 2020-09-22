@@ -1,0 +1,5 @@
+<map id="module_deallocate" name="module_deallocate">
+<area shape="rect" id="node2" href="$module_8c.html#a35321f60108378b4b7f3600a36d8c253" title="percpu_modfree" alt="" coords="210,5,325,32"/>
+<area shape="rect" id="node3" href="$module_8c.html#a4c5ba2b2eb8db477915b032693c4d197" title="module_arch_freeing_init" alt="" coords="184,56,351,83"/>
+<area shape="rect" id="node4" href="$module_8c.html#a6547f6cd5ed604059a3ae3ae3af9a27f" title="module_memfree" alt="" coords="206,107,329,133"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="cfs_rq_util_change" name="cfs_rq_util_change">
+<area shape="rect" id="node2" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="462,14,513,41"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a08f1e046d3a427e23e73e2e4d38e3439" title="cpufreq_update_util" alt="" coords="202,116,337,142"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a107cefb3234075af0c4e3acd9e3b45fe" title="arch_scale_freq_capacity" alt="" coords="184,217,355,244"/>
+<area shape="rect" id="node10" href="$sched_8h.html#af848ce48d81d2d5b1fe6f350612675db" title="arch_scale_cpu_capacity" alt="" coords="403,141,572,168"/>
+<area shape="rect" id="node12" href="$sched_8h.html#a52a385d1b568bca5878a1b12aa8bd84a" title="cpu_of" alt="" coords="457,293,518,320"/>
+<area shape="rect" id="node15" href="$fair_8c.html#ad0e3f04a596f37a1895c2293111f70e0" title="update_tg_load_avg" alt="" coords="200,318,339,345"/>
+<area shape="rect" id="node16" href="$fair_8c.html#ac1f39ad08fc77b38a73137759be65300" title="group_cfs_rq" alt="" coords="221,369,318,396"/>
+<area shape="rect" id="node17" href="$fair_8c.html#a3acf6f07f72d7c2d6cfb7d257c5f6fc8" title="cfs_rq_of" alt="" coords="231,420,307,446"/>
+<area shape="rect" id="node19" href="$fair_8c.html#aecbd8fa04b63e25bbdf57683eaea8f37" title="update_cfs_rq_load_avg" alt="" coords="188,470,351,497"/>
+<area shape="rect" id="node20" href="$fair_8c.html#a9ef55ecf3963af1bb46bc2e4b8fd47e9" title="attach_entity_load_avg" alt="" coords="191,521,347,548"/>
+<area shape="rect" id="node21" href="$fair_8c.html#a1f9567c5c4bef47797319786371a0084" title="enqueue_load_avg" alt="" coords="204,572,335,598"/>
+<area shape="rect" id="node22" href="$fair_8c.html#a5ac373c487640aa317ecf039999df64f" title="detach_entity_load_avg" alt="" coords="190,622,349,649"/>
+<area shape="rect" id="node23" href="$fair_8c.html#ab4f4a097b33d3112be9db9265c3168b6" title="dequeue_load_avg" alt="" coords="204,673,335,700"/>
+<area shape="rect" id="node24" href="$fair_8c.html#a63f9d1c51fbcdcb5a0977065886c41d6" title="update_load_avg" alt="" coords="209,724,329,750"/>
+<area shape="rect" id="node25" href="$fair_8c.html#ada530056ae2b3ecfbf34c931eeb4ed55" title="cfs_rq_clock_task" alt="" coords="205,65,333,92"/>
+<area shape="rect" id="node28" href="$fair_8c.html#a552694e48f309c15a0c1ebcd59dc778a" title="remove_entity_load_avg" alt="" coords="188,774,351,801"/>
+<area shape="rect" id="node29" href="$fair_8c.html#ab4c1e6f15b93acb76d785622e6de8727" title="idle_balance" alt="" coords="222,825,317,852"/>
+<area shape="rect" id="node30" href="$fair_8c.html#a9622799f687cef630b9b24bb9562739c" title="util_est_enqueue" alt="" coords="209,876,329,902"/>
+<area shape="rect" id="node31" href="$fair_8c.html#a9a03199bd5ba4c65893a975a1eac172a" title="util_est_dequeue" alt="" coords="209,926,329,953"/>
+<area shape="rect" id="node5" href="$sched_8h.html#afc47f5b68c32f6a4736b5cefad8c400d" title="sched_avg_update" alt="" coords="422,242,553,269"/>
+<area shape="rect" id="node11" href="$sched_8h.html#a74d7519505b8b282d3e126d6d372ddca" title="sched_rt_avg_update" alt="" coords="414,192,561,218"/>
+<area shape="rect" id="node6" href="$sched_8h.html#ad09c80471801640ba24bba2c4c555d60" title="__task_rq_lock" alt="" coords="639,192,750,218"/>
+<area shape="rect" id="node9" href="$sched_8h.html#a34cf43550f8e619f1fadb49fc6cc7c3b" title="task_rq_lock" alt="" coords="647,242,743,269"/>
+<area shape="rect" id="node7" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="855,242,1001,269"/>
+<area shape="rect" id="node8" href="$sched_8h.html#af4a0b63032f83e581cd267b1f1b7d63b" title="rq_pin_lock" alt="" coords="884,192,972,218"/>
+<area shape="rect" id="node13" href="$sched_8h.html#af09c7b3a31f6c63144f80490d68819dc" title="update_idle_core" alt="" coords="635,297,755,324"/>
+<area shape="rect" id="node14" href="$sched_8h.html#a08e907cf06ec6b1552e65bc9c12eb887" title="DECLARE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="817,294,1039,335"/>
+<area shape="rect" id="node18" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="455,420,520,446"/>
+<area shape="rect" id="node26" href="$sched_8h.html#a3dd6fd120793d8fc2081feb8cb010032" title="rq_clock_task" alt="" coords="436,65,539,92"/>
+<area shape="rect" id="node27" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="620,65,769,92"/>
+</map>

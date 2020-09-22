@@ -1,0 +1,5 @@
+<map id="__release_region" name="__release_region">
+<area shape="rect" id="node2" href="$resource_8c.html#a1a49e96b9a7bb8b02facedba5d06bdd7" title="devm_region_release" alt="" coords="173,5,319,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a91d52fe29b63024d9bc8e7806da6ace3" title="__devm_release_region" alt="" coords="367,56,526,83"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a0ef8fcffd097fad4848b42712d33c1c2" title="__devm_request_region" alt="" coords="367,5,527,32"/>
+</map>

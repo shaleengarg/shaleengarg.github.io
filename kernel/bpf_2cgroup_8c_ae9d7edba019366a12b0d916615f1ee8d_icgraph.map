@@ -1,0 +1,7 @@
+<map id="hierarchy_allows_attach" name="hierarchy_allows_attach">
+<area shape="rect" id="node2" href="$bpf_2cgroup_8c.html#a3d5c48f2e69004efe79af4c5dc7b8266" title="__cgroup_bpf_attach" alt="" coords="216,5,359,32"/>
+<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#a1668e4483a9b593748a472429f26ec6d" title="cgroup_get_from_fd" alt="" coords="407,5,544,32"/>
+<area shape="rect" id="node4" href="$syscall_8c.html#a6029fe32219d6ad5caa333fc62339017" title="bpf_raw_tracepoint_open" alt="" coords="592,5,759,32"/>
+<area shape="rect" id="node5" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="807,5,953,32"/>
+<area shape="rect" id="node6" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1001,5,1148,32"/>
+</map>

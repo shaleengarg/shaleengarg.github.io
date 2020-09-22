@@ -1,0 +1,6 @@
+<map id="swsusp_close" name="swsusp_close">
+<area shape="rect" id="node2" href="$swap_8c.html#a3c26e26a9a05202a0209b7a1220d69d6" title="hib_submit_io" alt="" coords="179,5,282,32"/>
+<area shape="rect" id="node4" href="$swap_8c.html#a7c543543a2e7dc1abd3f33932680f012" title="free_all_swap_pages" alt="" coords="159,56,303,83"/>
+<area shape="rect" id="node3" href="$swap_8c.html#aff53b517c7b50e8fb29991776b5ce283" title="hib_end_io" alt="" coords="351,5,435,32"/>
+<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="367,56,418,83"/>
+</map>

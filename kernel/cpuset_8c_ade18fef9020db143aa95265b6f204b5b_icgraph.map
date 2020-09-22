@@ -1,0 +1,5 @@
+<map id="remove_tasks_in_empty_cpuset" name="remove_tasks_in_empty_cpuset">
+<area shape="rect" id="node2" href="$cpuset_8c.html#ac6f5da7f78ed04d24b56616b2f6cd22d" title="hotplug_update_tasks\l_legacy" alt="" coords="217,5,367,47"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#a9e61badc6705506460418be7747beb0c" title="cpuset_hotplug_update\l_tasks" alt="" coords="415,5,571,47"/>
+<area shape="rect" id="node4" href="$cpuset_8c.html#a9e2a70f28dbc35ecd301c3a3332ed874" title="cpuset_hotplug_workfn" alt="" coords="619,13,775,39"/>
+</map>

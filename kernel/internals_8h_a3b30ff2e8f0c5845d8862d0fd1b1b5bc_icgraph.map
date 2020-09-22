@@ -1,0 +1,15 @@
+<map id="__enable_irq" name="__enable_irq">
+<area shape="rect" id="node2" href="$manage_8c.html#af3d41de47bd2efd73618186ca2f974bb" title="enable_irq" alt="" coords="152,44,233,71"/>
+<area shape="rect" id="node7" href="$manage_8c.html#a36839ae75526c330ef512d5ad7b50927" title="__setup_irq" alt="" coords="148,107,237,133"/>
+<area shape="rect" id="node11" href="$pm_8c.html#a72ec1b5fd151d4bf1cd1156b5dd08730" title="resume_irq" alt="" coords="149,183,236,209"/>
+<area shape="rect" id="node3" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="287,31,430,57"/>
+<area shape="rect" id="node4" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="480,5,663,32"/>
+<area shape="rect" id="node5" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="489,56,653,83"/>
+<area shape="rect" id="node6" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="711,56,913,83"/>
+<area shape="rect" id="node8" href="$manage_8c.html#a351fb2278f3a57bd1c8e7167ad8ae4be" title="setup_irq" alt="" coords="321,81,396,108"/>
+<area shape="rect" id="node9" href="$manage_8c.html#a7719179dc22c7e3f24c46dcdcbf6c391" title="setup_percpu_irq" alt="" coords="298,132,419,159"/>
+<area shape="rect" id="node10" href="$manage_8c.html#a88b25a1a89eee2cf026de584301ac767" title="__request_percpu_irq" alt="" coords="285,183,432,209"/>
+<area shape="rect" id="node12" href="$pm_8c.html#a13793123fd273a095fc25023d8a17997" title="resume_irqs" alt="" coords="312,233,405,260"/>
+<area shape="rect" id="node13" href="$pm_8c.html#ad59de8fc29c96a6a0b6b39d50aab670a" title="irq_pm_syscore_resume" alt="" coords="489,208,653,235"/>
+<area shape="rect" id="node14" href="$pm_8c.html#aad774818be1c7a3039e4f4ce7300ee4d" title="resume_device_irqs" alt="" coords="502,259,641,285"/>
+</map>

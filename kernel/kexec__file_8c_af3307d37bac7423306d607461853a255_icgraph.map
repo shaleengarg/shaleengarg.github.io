@@ -1,0 +1,5 @@
+<map id="arch_kexec_kernel_image_load" name="arch_kexec_kernel_image_load">
+<area shape="rect" id="node2" href="$kexec__file_8c.html#a4790667bc21faa973c2f3af720a8533b" title="kimage_file_prepare\l_segments" alt="" coords="257,5,396,47"/>
+<area shape="rect" id="node3" href="$kexec__file_8c.html#ac5abb95d8a56854dcfbe644ace797367" title="kimage_file_alloc_init" alt="" coords="444,13,591,39"/>
+<area shape="rect" id="node4" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="639,13,785,39"/>
+</map>

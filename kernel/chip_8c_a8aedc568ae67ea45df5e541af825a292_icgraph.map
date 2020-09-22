@@ -1,0 +1,11 @@
+<map id="irq_may_run" name="irq_may_run">
+<area shape="rect" id="node2" href="$chip_8c.html#a6fc2c414a75f20ef3353e1c9d8c75479" title="handle_simple_irq" alt="" coords="156,31,283,57"/>
+<area shape="rect" id="node6" href="$chip_8c.html#a640d54b34a2be4efc7d11f56a17f9c11" title="handle_untracked_irq" alt="" coords="147,81,292,108"/>
+<area shape="rect" id="node7" href="$chip_8c.html#a36239c70447a7675ae17dba9e17e8b94" title="handle_level_irq" alt="" coords="162,132,277,159"/>
+<area shape="rect" id="node8" href="$chip_8c.html#a5ad800f75bdcb43de57cdee838d66eda" title="handle_fasteoi_irq" alt="" coords="156,183,283,209"/>
+<area shape="rect" id="node9" href="$chip_8c.html#a59094f8786961797870d59a703b950d1" title="handle_edge_irq" alt="" coords="161,233,277,260"/>
+<area shape="rect" id="node10" href="$chip_8c.html#a00647ddd8467fe1985f03d1592ef1d40" title="irq_cpu_offline" alt="" coords="166,284,273,311"/>
+<area shape="rect" id="node3" href="$irq__sim_8c.html#a0150cd9c72d3f3b3c597f025b29dbf58" title="irq_sim_handle_irq" alt="" coords="340,5,471,32"/>
+<area shape="rect" id="node4" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="519,31,607,57"/>
+<area shape="rect" id="node5" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="655,31,781,57"/>
+</map>

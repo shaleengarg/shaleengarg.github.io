@@ -1,0 +1,5 @@
+<map id="ftrace_syscall_exit" name="ftrace_syscall_exit">
+<area shape="rect" id="node2" href="$trace__syscalls_8c.html#a0d90889236da8a9c4db7ec3ea9bd7f4a" title="reg_event_syscall_exit" alt="" coords="191,5,346,32"/>
+<area shape="rect" id="node4" href="$trace__syscalls_8c.html#a81a103f84f243c4e4b3230fdb4d4e1a3" title="unreg_event_syscall_exit" alt="" coords="184,56,353,83"/>
+<area shape="rect" id="node3" href="$trace__syscalls_8c.html#ad35b4c6334fe3d3ba2cabfc2a7282e95" title="syscall_exit_register" alt="" coords="401,31,543,57"/>
+</map>

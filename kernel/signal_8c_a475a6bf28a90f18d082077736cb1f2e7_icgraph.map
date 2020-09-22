@@ -1,0 +1,6 @@
+<map id="signal_wake_up_state" name="signal_wake_up_state">
+<area shape="rect" id="node2" href="$ptrace_8c.html#a8e298e6b923730020f50c03aaab51bc9" title="ptrace_attach" alt="" coords="204,31,305,57"/>
+<area shape="rect" id="node3" href="$ptrace_8c.html#ad625cbb8c3b73c6d7e359f100f978a2e" title="SYSCALL_DEFINE4" alt="" coords="363,5,510,32"/>
+<area shape="rect" id="node4" href="$ptrace_8c.html#aad4d3340d6dfdbb390ffee3d05054442" title="generic_ptrace_pokedata" alt="" coords="353,56,520,83"/>
+<area shape="rect" id="node5" href="$ptrace_8c.html#a997fa2d54d41aefc751e7f2881be3d89" title="ptrace_request" alt="" coords="568,56,676,83"/>
+</map>

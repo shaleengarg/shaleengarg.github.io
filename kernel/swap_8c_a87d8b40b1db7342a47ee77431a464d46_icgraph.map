@@ -1,0 +1,10 @@
+<map id="swap_reader_finish" name="swap_reader_finish">
+<area shape="rect" id="node2" href="$swap_8c.html#a306da9222bd2af1c4794de78bf56a86f" title="swsusp_read" alt="" coords="188,107,287,133"/>
+<area shape="rect" id="node3" href="$hibernate_8c.html#a722f301afe3b6b84462e22b9e6c18a09" title="load_image_and_restore" alt="" coords="335,107,497,133"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="569,69,644,96"/>
+<area shape="rect" id="node8" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="545,132,668,159"/>
+<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="734,5,845,32"/>
+<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="746,56,833,83"/>
+<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="716,107,863,133"/>
+<area shape="rect" id="node9" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="739,157,840,184"/>
+</map>

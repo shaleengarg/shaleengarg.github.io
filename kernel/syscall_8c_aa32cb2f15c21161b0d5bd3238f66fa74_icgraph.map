@@ -1,0 +1,6 @@
+<map id="bpf_insn_prepare_dump" name="bpf_insn_prepare_dump">
+<area shape="rect" id="node2" href="$syscall_8c.html#aff7925569a151eb91cdf2682cd228092" title="bpf_prog_get_info_by_fd" alt="" coords="213,5,377,32"/>
+<area shape="rect" id="node3" href="$syscall_8c.html#acd09df51338f079c9c368412d9af4ff4" title="bpf_obj_get_info_by_fd" alt="" coords="425,5,581,32"/>
+<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="629,5,776,32"/>
+<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="824,5,971,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="event_trigger_free" name="event_trigger_free">
+<area shape="rect" id="node2" href="$trace__events__trigger_8c.html#a44a160a438ebe99e0d48ec98576af4c6" title="trigger_data_free" alt="" coords="180,31,299,57"/>
+<area shape="rect" id="node3" href="$tiny_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="347,5,481,32"/>
+<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="389,56,439,83"/>
+<area shape="rect" id="node4" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="529,5,701,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="trace_kprobe_nhit" name="trace_kprobe_nhit">
+<area shape="rect" id="node2" href="$trace__kprobe_8c.html#abf6cff08bebc969d754ad04c5f0cace7" title="probes_profile_seq_show" alt="" coords="179,5,348,32"/>
+<area shape="rect" id="node3" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="203,56,324,83"/>
+</map>

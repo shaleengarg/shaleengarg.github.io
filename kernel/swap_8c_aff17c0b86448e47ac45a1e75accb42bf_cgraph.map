@@ -1,0 +1,6 @@
+<map id="get_swap_reader" name="get_swap_reader">
+<area shape="rect" id="node2" href="$swap_8c.html#a3a484174cf7940de582f39039c3818df" title="release_swap_reader" alt="" coords="175,5,320,32"/>
+<area shape="rect" id="node4" href="$swap_8c.html#a3c26e26a9a05202a0209b7a1220d69d6" title="hib_submit_io" alt="" coords="196,56,299,83"/>
+<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="385,5,435,32"/>
+<area shape="rect" id="node5" href="$swap_8c.html#aff53b517c7b50e8fb29991776b5ce283" title="hib_end_io" alt="" coords="368,56,452,83"/>
+</map>

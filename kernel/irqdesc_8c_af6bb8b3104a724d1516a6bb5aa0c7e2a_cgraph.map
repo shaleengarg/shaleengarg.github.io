@@ -1,0 +1,9 @@
+<map id="desc_set_defaults" name="desc_set_defaults">
+<area shape="rect" id="node2" href="$settings_8h.html#a2f6ab8c782b03e098e7e318bd9e39fdc" title="irq_settings_clr_and_set" alt="" coords="181,5,344,32"/>
+<area shape="rect" id="node3" href="$internals_8h.html#aac862a1ae8de71b6ed2e9f9a92b49233" title="irqd_set" alt="" coords="229,56,297,83"/>
+<area shape="rect" id="node4" href="$handle_8c.html#a871d1eaffbd8d1093b3eb5bec7e3ed26" title="handle_bad_irq" alt="" coords="208,107,317,133"/>
+<area shape="rect" id="node8" href="$irqdesc_8c.html#a889e76b30665591f2d67e0b278794325" title="desc_smp_init" alt="" coords="209,157,316,184"/>
+<area shape="rect" id="node5" href="$debug_8h.html#a4aa0028e33d26e914dd7a2542847267b" title="print_irq_desc" alt="" coords="427,56,529,83"/>
+<area shape="rect" id="node6" href="$internals_8h.html#ae2f0b90be469659f3e96700257c60abe" title="kstat_incr_irqs_this_cpu" alt="" coords="397,107,559,133"/>
+<area shape="rect" id="node7" href="$handle_8c.html#adaa52307fde493c2f95814b4400827db" title="EXPORT_SYMBOL_GPL" alt="" coords="392,157,564,184"/>
+</map>

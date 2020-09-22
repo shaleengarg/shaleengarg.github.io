@@ -1,0 +1,6 @@
+<map id="cpu_pm_register_notifier" name="cpu_pm_register_notifier">
+<area shape="rect" id="node2" href="$notifier_8c.html#ab4ef8f6827742ea1be5985b3290c9a7b" title="atomic_notifier_chain\l_register" alt="" coords="231,23,376,65"/>
+<area shape="rect" id="node5" href="$cpu__pm_8c.html#ac59ab5a88941ed6c3e66fdb9be176709" title="EXPORT_SYMBOL_GPL" alt="" coords="217,89,389,116"/>
+<area shape="rect" id="node3" href="$notifier_8c.html#aaa16ec631b1f8497fc650c05b4ef92e8" title="notifier_chain_register" alt="" coords="449,5,598,32"/>
+<area shape="rect" id="node4" href="$notifier_8c.html#a12fd5e1886d75a2b63004f78db868ce4" title="EXPORT_SYMBOL_GPL" alt="" coords="437,56,609,83"/>
+</map>

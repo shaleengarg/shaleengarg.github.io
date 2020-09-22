@@ -1,0 +1,5 @@
+<map id="set_skip_buddy" name="set_skip_buddy">
+<area shape="rect" id="node2" href="$fair_8c.html#a968f6d4c794f93def45484f1a683caa9" title="yield_task_fair" alt="" coords="167,31,273,57"/>
+<area shape="rect" id="node3" href="$fair_8c.html#a86ac17127919c059011154d69a5d0bc9" title="yield_to_task_fair" alt="" coords="321,5,445,32"/>
+<area shape="rect" id="node4" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="493,31,623,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="trace_print_graph_duration" name="trace_print_graph_duration">
+<area shape="rect" id="node2" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="228,5,343,32"/>
+<area shape="rect" id="node5" href="$trace__seq_8c.html#aaeef7e33e9c24b1f462ee539545435c8" title="trace_seq_puts" alt="" coords="230,56,341,83"/>
+<area shape="rect" id="node6" href="$trace__seq_8c.html#adb64913da7b9a02254c4f51959c29cc9" title="trace_seq_putc" alt="" coords="230,107,341,133"/>
+<area shape="rect" id="node3" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="418,31,535,57"/>
+<area shape="rect" id="node4" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="391,81,563,108"/>
+</map>

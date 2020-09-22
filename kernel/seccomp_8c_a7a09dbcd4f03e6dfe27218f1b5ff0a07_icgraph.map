@@ -1,0 +1,6 @@
+<map id="seccomp_get_action_avail" name="seccomp_get_action_avail">
+<area shape="rect" id="node2" href="$seccomp_8c.html#ab1e192c94d23ce8c4402f72b1a22641b" title="do_seccomp" alt="" coords="196,31,292,57"/>
+<area shape="rect" id="node3" href="$seccomp_8c.html#a9ee812f89837eb7547ee7e819d4121ad" title="SYSCALL_DEFINE3" alt="" coords="340,5,487,32"/>
+<area shape="rect" id="node4" href="$seccomp_8c.html#a3a0b85686ffc73edc19d8675f231b8ea" title="prctl_set_seccomp" alt="" coords="347,56,479,83"/>
+<area shape="rect" id="node5" href="$sys_8c.html#a5ca25d9ab2fe7976ab7f6c3688006177" title="SYSCALL_DEFINE5" alt="" coords="535,56,681,83"/>
+</map>

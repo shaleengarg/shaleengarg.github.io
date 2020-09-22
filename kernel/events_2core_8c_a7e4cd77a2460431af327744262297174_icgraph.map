@@ -1,0 +1,6 @@
+<map id="_perf_event_refresh" name="_perf_event_refresh">
+<area shape="rect" id="node2" href="$events_2core_8c.html#aff28a5b9ee03cae189cc4d68b0d41c5a" title="perf_event_refresh" alt="" coords="191,5,321,32"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a1df503a5593ea72b7257454ac3315340" title="_perf_ioctl" alt="" coords="215,56,297,83"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#add3d5e75d18f158f3354b761711aa429" title="perf_ioctl" alt="" coords="369,56,444,83"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="492,56,583,83"/>
+</map>

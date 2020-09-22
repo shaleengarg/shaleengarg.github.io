@@ -1,0 +1,4 @@
+<map id="ntp_update_offset" name="ntp_update_offset">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#ae6d61e77605b72e3edc94efd8a93f96e" title="__ktime_get_real_seconds" alt="" coords="180,5,357,32"/>
+<area shape="rect" id="node3" href="$ntp_8c.html#a4f2cc0d1e1288f932b779e1c73f96b02" title="ntp_update_offset_fll" alt="" coords="197,56,340,83"/>
+</map>

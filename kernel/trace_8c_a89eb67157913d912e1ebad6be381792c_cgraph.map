@@ -1,0 +1,5 @@
+<map id="tracing_cpumask_write" name="tracing_cpumask_write">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#ac09ad9a4132ccd84a1308ba632e5e143" title="ring_buffer_record\l_disable_cpu" alt="" coords="209,5,336,47"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a8af3bbc11da9d912cbf653f47625c0dc" title="ring_buffer_record\l_enable_cpu" alt="" coords="209,71,336,112"/>
+<area shape="rect" id="node3" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="384,46,556,73"/>
+</map>

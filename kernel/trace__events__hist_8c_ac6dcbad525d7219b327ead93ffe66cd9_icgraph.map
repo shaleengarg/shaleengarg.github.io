@@ -1,0 +1,11 @@
+<map id="synth_field_is_string" name="synth_field_is_string">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#aa60b769aa60096942c54ad33ee2fff01" title="synth_field_size" alt="" coords="195,5,311,32"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#ad06b2926587ba79175fb0fc552f4f827" title="parse_synth_field" alt="" coords="392,31,516,57"/>
+<area shape="rect" id="node6" href="$trace__events__hist_8c.html#af96f737c3dfe603904823ade207c910e" title="synth_field_fmt" alt="" coords="197,107,308,133"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="1012,69,1148,96"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="1196,69,1331,96"/>
+<area shape="rect" id="node7" href="$trace__events__hist_8c.html#aab55b51959550ffe0e2acfa8f628b411" title="print_synth_event" alt="" coords="391,81,517,108"/>
+<area shape="rect" id="node8" href="$trace__events__hist_8c.html#ae9cbd0198e4e83154fc636d1de449cd5" title="__set_synth_event_print_fmt" alt="" coords="359,132,549,159"/>
+<area shape="rect" id="node9" href="$trace__events__hist_8c.html#a9ae8941c2cd413201d5bcf93e50a3f34" title="set_synth_event_print_fmt" alt="" coords="597,107,773,133"/>
+<area shape="rect" id="node10" href="$trace__events__hist_8c.html#a3fc2c7cf54f6db0948a4943913be3d4d" title="register_synth_event" alt="" coords="821,95,964,121"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="swevent_hlist_deref" name="swevent_hlist_deref">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a3af330ae3849375abb260572e720ad4a" title="swevent_hlist_release" alt="" coords="193,5,343,32"/>
+<area shape="rect" id="node8" href="$events_2core_8c.html#a9b0f452798bdd67b893bf8eb4f1e0240" title="swevent_hlist_get_cpu" alt="" coords="392,56,547,83"/>
+<area shape="rect" id="node9" href="$events_2core_8c.html#afbffac4bf189d036be70a99026d6c316" title="perf_swevent_init_cpu" alt="" coords="192,107,344,133"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a5efffdee5391925313f2414ddb4d4b2f" title="swevent_hlist_put_cpu" alt="" coords="392,5,547,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a6a888256be03213c688c145d5d803e82" title="swevent_hlist_put" alt="" coords="610,5,737,32"/>
+<area shape="rect" id="node7" href="$events_2core_8c.html#a43d6265d9ffef7ab09627f7478e4db86" title="swevent_hlist_get" alt="" coords="610,56,737,83"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#a654fab885d8562c9eae84d0d0f124cc5" title="sw_perf_event_destroy" alt="" coords="800,5,957,32"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#a177b90422bd4ae48d769c7e5a89117b1" title="perf_swevent_init" alt="" coords="1022,5,1146,32"/>
+<area shape="rect" id="node10" href="$events_2core_8c.html#a9cf6a6a5cbbd64ca1356ee3672b7988e" title="perf_event_init_cpu" alt="" coords="402,107,537,133"/>
+<area shape="rect" id="node11" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="620,107,727,133"/>
+<area shape="rect" id="node12" href="$cpu_8c.html#aff470ba1693fa467d629dfee6debfbdb" title="cpuhp_invoke_callback" alt="" coords="595,157,752,184"/>
+<area shape="rect" id="node13" href="$cpu_8c.html#aec30be1efa17679b56bb0b0f688d7a00" title="cpuhp_issue_call" alt="" coords="817,157,940,184"/>
+<area shape="rect" id="node14" href="$cpu_8c.html#a863f7f1d6e44c52462c61c2ae7257655" title="cpuhp_rollback_install" alt="" coords="1009,107,1159,133"/>
+<area shape="rect" id="node15" href="$cpu_8c.html#ac728bc8938b0ab27dc7706f0766cfa01" title="__cpuhp_state_add_instance\l_cpuslocked" alt="" coords="1211,58,1401,99"/>
+<area shape="rect" id="node17" href="$cpu_8c.html#a47cdf75177b8832373757e441f0c060d" title="__cpuhp_setup_state\l_cpuslocked" alt="" coords="1233,141,1379,182"/>
+<area shape="rect" id="node19" href="$cpu_8c.html#ad46e9fe989763abd9f2213d3e3b836c4" title="__cpuhp_state_remove\l_instance" alt="" coords="1005,209,1163,250"/>
+<area shape="rect" id="node20" href="$cpu_8c.html#adf79c64e1f2c85c91ac95af9907304ad" title="__cpuhp_remove_state\l_cpuslocked" alt="" coords="1005,274,1163,315"/>
+<area shape="rect" id="node16" href="$cpu_8c.html#a38a7212d8a166644ff55e7908dd9e4dc" title="__cpuhp_state_add_instance" alt="" coords="1449,65,1640,92"/>
+<area shape="rect" id="node18" href="$cpu_8c.html#a0128e42d2993bf45b0b8f0876d1c9913" title="__cpuhp_setup_state" alt="" coords="1471,148,1618,175"/>
+<area shape="rect" id="node21" href="$cpu_8c.html#a6f379713b196b462de5d44254eca2828" title="__cpuhp_remove_state" alt="" coords="1227,281,1385,308"/>
+</map>

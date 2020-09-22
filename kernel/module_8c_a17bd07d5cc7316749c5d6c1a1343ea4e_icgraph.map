@@ -1,0 +1,8 @@
+<map id="copy_module_elf" name="copy_module_elf">
+<area shape="rect" id="node2" href="$module_8c.html#a61ee7b7bf0d4d0851fef9607cba884a3" title="module_disable_nx" alt="" coords="173,157,307,184"/>
+<area shape="rect" id="node6" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="848,107,943,133"/>
+<area shape="rect" id="node3" href="$module_8c.html#a409a882c19487843396d07b750799fe0" title="mod_sysfs_teardown" alt="" coords="355,107,501,133"/>
+<area shape="rect" id="node4" href="$module_8c.html#ada763ec5054818654d48980ebb255fe5" title="free_module" alt="" coords="549,56,643,83"/>
+<area shape="rect" id="node5" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="691,5,800,32"/>
+<area shape="rect" id="node7" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="991,107,1137,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="arch_scale_freq_capacity" name="arch_scale_freq_capacity">
+<area shape="rect" id="node2" href="$sched_8h.html#afc47f5b68c32f6a4736b5cefad8c400d" title="sched_avg_update" alt="" coords="243,31,374,57"/>
+<area shape="rect" id="node7" href="$sched_8h.html#af848ce48d81d2d5b1fe6f350612675db" title="arch_scale_cpu_capacity" alt="" coords="224,81,393,108"/>
+<area shape="rect" id="node8" href="$sched_8h.html#a74d7519505b8b282d3e126d6d372ddca" title="sched_rt_avg_update" alt="" coords="235,132,382,159"/>
+<area shape="rect" id="node9" href="$sched_8h.html#a52a385d1b568bca5878a1b12aa8bd84a" title="cpu_of" alt="" coords="278,183,339,209"/>
+<area shape="rect" id="node3" href="$sched_8h.html#ad09c80471801640ba24bba2c4c555d60" title="__task_rq_lock" alt="" coords="446,5,557,32"/>
+<area shape="rect" id="node6" href="$sched_8h.html#a34cf43550f8e619f1fadb49fc6cc7c3b" title="task_rq_lock" alt="" coords="453,56,549,83"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="647,56,793,83"/>
+<area shape="rect" id="node5" href="$sched_8h.html#af4a0b63032f83e581cd267b1f1b7d63b" title="rq_pin_lock" alt="" coords="676,5,764,32"/>
+<area shape="rect" id="node10" href="$sched_8h.html#af09c7b3a31f6c63144f80490d68819dc" title="update_idle_core" alt="" coords="441,183,561,209"/>
+<area shape="rect" id="node11" href="$sched_8h.html#a08e907cf06ec6b1552e65bc9c12eb887" title="DECLARE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="609,175,831,217"/>
+</map>

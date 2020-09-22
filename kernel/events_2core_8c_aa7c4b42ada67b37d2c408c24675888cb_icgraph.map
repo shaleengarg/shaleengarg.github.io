@@ -1,0 +1,4 @@
+<map id="perf_pmu_register" name="perf_pmu_register">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="359,5,465,32"/>
+<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#a12fb2cfb430a326c84b18b02aced6ed5" title="init_hw_breakpoint" alt="" coords="180,31,311,57"/>
+</map>

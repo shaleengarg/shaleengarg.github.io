@@ -1,0 +1,6 @@
+<map id="print_cpu" name="print_cpu">
+<area shape="rect" id="node2" href="$sched_2core_8c.html#ae6dc760f2ea514a6cc03c60cb88eae65" title="nr_running" alt="" coords="128,5,211,32"/>
+<area shape="rect" id="node3" href="$sched_2debug_8c.html#aad063bd7e0a87b3b6e176559527ff5a8" title="print_rq" alt="" coords="137,56,202,83"/>
+<area shape="rect" id="node4" href="$sched_2debug_8c.html#aa33a5e169cc20c886b7e9333709daae1" title="print_task" alt="" coords="259,56,337,83"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a119abd5a3bc0b027936606e2b7cae16c" title="task_group" alt="" coords="385,56,472,83"/>
+</map>

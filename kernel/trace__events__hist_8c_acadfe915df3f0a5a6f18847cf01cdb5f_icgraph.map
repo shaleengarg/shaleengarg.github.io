@@ -1,0 +1,5 @@
+<map id="alloc_synth_tracepoint" name="alloc_synth_tracepoint">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a3fc2c7cf54f6db0948a4943913be3d4d" title="register_synth_event" alt="" coords="205,5,348,32"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="396,5,532,32"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="580,5,715,32"/>
+</map>

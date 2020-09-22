@@ -1,0 +1,4 @@
+<map id="release_all_trace_kprobes" name="release_all_trace_kprobes">
+<area shape="rect" id="node2" href="$trace__kprobe_8c.html#a0b803b054f33ee5788b32468f61ca42f" title="probes_open" alt="" coords="239,5,335,32"/>
+<area shape="rect" id="node3" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="227,56,348,83"/>
+</map>

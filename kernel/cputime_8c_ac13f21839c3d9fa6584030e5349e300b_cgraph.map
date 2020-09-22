@@ -1,0 +1,11 @@
+<map id="account_other_time" name="account_other_time">
+<area shape="rect" id="node2" href="$cputime_8c.html#a001be809ba59469b4c56ef9352341072" title="steal_account_process_time" alt="" coords="189,5,377,32"/>
+<area shape="rect" id="node4" href="$cputime_8c.html#adc3e011252aeaa98e30c75a004fbaea1" title="irqtime_tick_accounted" alt="" coords="205,56,361,83"/>
+<area shape="rect" id="node5" href="$cputime_8c.html#a82f37c9bb3b9cc3d82c38cb4dd6ab7ea" title="read_sum_exec_runtime" alt="" coords="201,107,365,133"/>
+<area shape="rect" id="node3" href="$cputime_8c.html#a22da7fb49143e7667bbd08c00294d8bf" title="account_steal_time" alt="" coords="425,5,560,32"/>
+<area shape="rect" id="node6" href="$sched_2core_8c.html#a34cf43550f8e619f1fadb49fc6cc7c3b" title="task_rq_lock" alt="" coords="445,81,541,108"/>
+<area shape="rect" id="node9" href="$sched_8h.html#a1ad0ef11280af09b828af3abf6e71375" title="task_rq_unlock" alt="" coords="437,132,548,159"/>
+<area shape="rect" id="node7" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="608,31,755,57"/>
+<area shape="rect" id="node8" href="$sched_8h.html#af4a0b63032f83e581cd267b1f1b7d63b" title="rq_pin_lock" alt="" coords="637,81,725,108"/>
+<area shape="rect" id="node10" href="$sched_8h.html#ab63d84bb32f86248805f84ba22c6ab8a" title="rq_unpin_lock" alt="" coords="630,132,733,159"/>
+</map>

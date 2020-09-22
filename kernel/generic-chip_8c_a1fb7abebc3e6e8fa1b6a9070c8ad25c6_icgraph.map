@@ -1,0 +1,5 @@
+<map id="irq_init_generic_chip" name="irq_init_generic_chip">
+<area shape="rect" id="node2" href="$devres_8c.html#a5fc99d8751dd9c3077992b4ac4ae697f" title="__devm_irq_alloc_descs" alt="" coords="193,5,359,32"/>
+<area shape="rect" id="node3" href="$generic-chip_8c.html#a0877101c4c08321ec9f8c9f52dc69498" title="irq_alloc_generic_chip" alt="" coords="201,56,351,83"/>
+<area shape="rect" id="node4" href="$generic-chip_8c.html#aa4fb751f2f8007d349777ef19d4dfdd1" title="__irq_alloc_domain\l_generic_chips" alt="" coords="209,107,343,149"/>
+</map>
