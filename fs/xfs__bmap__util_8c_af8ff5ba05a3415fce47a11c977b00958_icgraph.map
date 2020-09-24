@@ -1,0 +1,11 @@
+<map id="xfs_bmap_count_tree" name="xfs_bmap_count_tree">
+<area shape="rect" id="node2" href="$xfs__bmap__util_8h.html#a09762858895a20340c5f390885bbe87b" title="xfs_bmap_count_blocks" alt="" coords="200,31,363,57"/>
+<area shape="rect" id="node3" href="$xfs_2scrub_2inode_8c.html#ad18acc6b3078f952184a567ac0d23a90" title="xfs_scrub_inode_xref_bmap" alt="" coords="411,5,596,32"/>
+<area shape="rect" id="node6" href="$xfs__bmap__util_8c.html#a3056c9b01c1c91d29962991bc7669003" title="xfs_swap_extent_forks" alt="" coords="425,56,582,83"/>
+<area shape="rect" id="node4" href="$xfs_2scrub_2inode_8c.html#ae3e8ca53b6af112a34d79f2d4381196f" title="xfs_scrub_inode_xref" alt="" coords="644,5,791,32"/>
+<area shape="rect" id="node5" href="$scrub_8h.html#a1c2e558e23846e8c4c329d1acfef11cf" title="xfs_scrub_inode" alt="" coords="840,5,957,32"/>
+<area shape="rect" id="node7" href="$xfs__bmap__util_8h.html#a91357eba110ba4c6b9359bae17a161c1" title="xfs_swap_extents" alt="" coords="653,56,781,83"/>
+<area shape="rect" id="node8" href="$xfs__ioctl_8h.html#af7b2620f768bbec04c2e4e0c3c3ac98e" title="xfs_ioc_swapext" alt="" coords="839,56,959,83"/>
+<area shape="rect" id="node9" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="1007,31,1101,57"/>
+<area shape="rect" id="node10" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="1149,56,1295,83"/>
+</map>

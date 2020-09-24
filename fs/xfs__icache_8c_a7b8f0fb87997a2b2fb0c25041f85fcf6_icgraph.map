@@ -1,0 +1,17 @@
+<map id="__xfs_icache_free_eofblocks" name="__xfs_icache_free_eofblocks">
+<area shape="rect" id="node2" href="$xfs__icache_8h.html#ac183c2311962b17e200ac3c60c4f5c8d" title="xfs_icache_free_eofblocks" alt="" coords="247,115,424,141"/>
+<area shape="rect" id="node12" href="$xfs__icache_8h.html#a479567ea11c1382a29e1117089f6291c" title="xfs_icache_free_cowblocks" alt="" coords="244,283,427,309"/>
+<area shape="rect" id="node3" href="$xfs__file_8c.html#aca1fd5d3dc58e3dbf6eefe9adfd3a16c" title="xfs_file_buffered_aio\l_write" alt="" coords="679,234,821,275"/>
+<area shape="rect" id="node5" href="$xfs__icache_8h.html#a979a4aa4a2d1925269495538eb932cad" title="xfs_eofblocks_worker" alt="" coords="477,56,627,83"/>
+<area shape="rect" id="node9" href="$xfs__icache_8h.html#a61db42202573f6b1b874e360f171532b" title="xfs_inode_free_quota\l_eofblocks" alt="" coords="479,107,625,149"/>
+<area shape="rect" id="node10" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="505,5,599,32"/>
+<area shape="rect" id="node4" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="871,241,995,268"/>
+<area shape="rect" id="node6" href="$xfs__super_8c.html#a1249cbd66b34902ffacdfec7b715708f" title="xfs_mount_alloc" alt="" coords="691,157,809,184"/>
+<area shape="rect" id="node7" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="874,157,991,184"/>
+<area shape="rect" id="node8" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="1043,157,1144,184"/>
+<area shape="rect" id="node11" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="677,5,823,32"/>
+<area shape="rect" id="node13" href="$xfs__icache_8h.html#ac91824108d98569606c48cfc0784442f" title="xfs_cowblocks_worker" alt="" coords="475,173,629,200"/>
+<area shape="rect" id="node14" href="$xfs__icache_8h.html#aecb3cd4f4ed9a19f70464ff405c9a5d8" title="xfs_inode_free_quota\l_cowblocks" alt="" coords="479,275,625,317"/>
+<area shape="rect" id="node15" href="$xfs__super_8c.html#aa8d3829d8a8b9f4a81e12b5d6d129a35" title="xfs_fs_remount" alt="" coords="496,392,608,419"/>
+<area shape="rect" id="node16" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="682,385,818,426"/>
+</map>

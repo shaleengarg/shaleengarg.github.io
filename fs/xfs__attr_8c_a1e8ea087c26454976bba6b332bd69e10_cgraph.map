@@ -1,0 +1,8 @@
+<map id="xfs_attr_calc_size" name="xfs_attr_calc_size">
+<area shape="rect" id="node2" href="$xfs__attr__leaf_8c.html#aa82c24005f30583584b7cb24092dd1c7" title="xfs_attr_leaf_newentsize" alt="" coords="181,111,348,138"/>
+<area shape="rect" id="node6" href="$xfs__attr__remote_8c.html#aa104eede971722e296b51c00de3c68b5" title="xfs_attr3_rmt_blocks" alt="" coords="193,166,337,193"/>
+<area shape="rect" id="node3" href="$xfs__da__format_8h.html#a8bee164b5dc20a90ab80f7ee6abfe777" title="xfs_attr_leaf_entsize\l_local" alt="" coords="403,5,545,47"/>
+<area shape="rect" id="node4" href="$xfs__da__format_8h.html#a6a09ad6f12933ae216e5e414b487149c" title="xfs_attr_leaf_entsize\l_local_max" alt="" coords="403,71,545,112"/>
+<area shape="rect" id="node5" href="$xfs__da__format_8h.html#ac5993ee22247ebc70987514d9a7e3371" title="xfs_attr_leaf_entsize\l_remote" alt="" coords="403,136,545,177"/>
+<area shape="rect" id="node7" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="396,202,552,229"/>
+</map>

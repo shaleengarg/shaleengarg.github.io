@@ -1,0 +1,7 @@
+<map id="xfs_dquot_buf_verify_crc" name="xfs_dquot_buf_verify_crc">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="221,5,377,32"/>
+<area shape="rect" id="node3" href="$xfs__dquot__buf_8c.html#a09c9601fa93d3c114c37cdb3b604f035" title="xfs_calc_dquots_per\l_chunk" alt="" coords="228,57,371,98"/>
+<area shape="rect" id="node4" href="$xfs__cksum_8h.html#afcf022c104056b33352bd8ad08ca42cd" title="xfs_verify_cksum" alt="" coords="237,123,362,149"/>
+<area shape="rect" id="node5" href="$xfs__cksum_8h.html#ab0182657171b8fe2c0de5601be4cdb04" title="xfs_start_cksum_safe" alt="" coords="425,97,576,124"/>
+<area shape="rect" id="node6" href="$xfs__cksum_8h.html#a91fa5d874829ed88cc8b1bf4f2331612" title="xfs_end_cksum" alt="" coords="443,148,558,175"/>
+</map>

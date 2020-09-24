@@ -1,0 +1,12 @@
+<map id="xfs_calc_icreate_resv_alloc" name="xfs_calc_icreate_resv_alloc">
+<area shape="rect" id="node2" href="$xfs__trans__resv_8c.html#a41212bc5429d58869bb004c2d1f39c2f" title="xfs_calc_buf_res" alt="" coords="628,56,749,83"/>
+<area shape="rect" id="node4" href="$xfs__trans__resv_8c.html#af5ec4d8558c8d120c3a865b0556bd2ae" title="xfs_calc_inode_chunk_res" alt="" coords="385,56,561,83"/>
+<area shape="rect" id="node9" href="$xfs__trans__resv_8c.html#a678d616a0da4138d7ddaf6e21cefc7aa" title="xfs_calc_inobt_res" alt="" coords="408,107,539,133"/>
+<area shape="rect" id="node10" href="$xfs__trans__resv_8c.html#af1e3e3f8e4f80f0f1dce96a42e286a8f" title="xfs_calc_finobt_res" alt="" coords="203,157,337,184"/>
+<area shape="rect" id="node3" href="$xfs__trans__resv_8c.html#a732d9a55149298762b7c4498090fc1de" title="xfs_buf_log_overhead" alt="" coords="831,56,980,83"/>
+<area shape="rect" id="node5" href="$xfs__trans__resv_8c.html#a0541beece6a80a12768ff0ab85f78b6d" title="xfs_allocfree_log_count" alt="" coords="609,107,768,133"/>
+<area shape="rect" id="node8" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="611,5,767,32"/>
+<area shape="rect" id="node6" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="816,157,995,184"/>
+<area shape="rect" id="node7" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="819,107,992,133"/>
+<area shape="rect" id="node11" href="$xfs__format_8h.html#a47b5db4f9dcd7c970d192bd7973ec2af" title="xfs_sb_version_hasfinobt" alt="" coords="388,157,559,184"/>
+</map>

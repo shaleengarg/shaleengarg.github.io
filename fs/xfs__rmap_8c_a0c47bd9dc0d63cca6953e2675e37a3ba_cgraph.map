@@ -1,0 +1,14 @@
+<map id="xfs_rmap_unmap_extent" name="xfs_rmap_unmap_extent">
+<area shape="rect" id="node2" href="$xfs__rmap_8c.html#aa619c2c35b0413caf87b157e3dbefab8" title="xfs_rmap_update_is\l_needed" alt="" coords="219,9,357,50"/>
+<area shape="rect" id="node4" href="$xfs__rmap_8c.html#a05f63255ca705b0611db14d9a8294710" title="__xfs_rmap_add" alt="" coords="229,96,347,123"/>
+<area shape="rect" id="node13" href="$xfs__inode_8h.html#a48b5745ca5e1cc018d395c5b815266d4" title="xfs_is_reflink_inode" alt="" coords="219,147,357,173"/>
+<area shape="rect" id="node3" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="405,5,584,32"/>
+<area shape="rect" id="node5" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="655,81,747,108"/>
+<area shape="rect" id="node10" href="$inode_8c.html#abe0d76959e4da14fa8aa24a78e0da45c" title="bmap" alt="" coords="467,157,522,184"/>
+<area shape="rect" id="node12" href="$xfs__defer_8c.html#a864a4cdc0ad79e081d86cb86054fa812" title="xfs_defer_add" alt="" coords="443,107,547,133"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="819,56,961,83"/>
+<area shape="rect" id="node7" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="1027,5,1119,32"/>
+<area shape="rect" id="node8" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="1009,107,1136,133"/>
+<area shape="rect" id="node9" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="1021,56,1124,83"/>
+<area shape="rect" id="node11" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="632,157,771,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="xfs_destroy_zones" name="xfs_destroy_zones">
+<area shape="rect" id="node2" href="$kmem_8h.html#af792ab97a0ae53f86f11199ec80483e6" title="kmem_zone_destroy" alt="" coords="185,56,328,83"/>
+<area shape="rect" id="node3" href="$kmem_8h.html#a5fca7fda061a394f43a128465d3f47de" title="kmem_zone_alloc" alt="" coords="376,56,503,83"/>
+<area shape="rect" id="node4" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="551,56,693,83"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="759,5,851,32"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="741,56,868,83"/>
+<area shape="rect" id="node8" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="753,107,856,133"/>
+<area shape="rect" id="node7" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="916,107,1008,133"/>
+</map>

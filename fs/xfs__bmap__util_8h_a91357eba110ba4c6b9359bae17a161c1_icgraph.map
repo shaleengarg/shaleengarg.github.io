@@ -1,0 +1,5 @@
+<map id="xfs_swap_extents" name="xfs_swap_extents">
+<area shape="rect" id="node2" href="$xfs__ioctl_8h.html#af7b2620f768bbec04c2e4e0c3c3ac98e" title="xfs_ioc_swapext" alt="" coords="181,31,301,57"/>
+<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="349,5,444,32"/>
+<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="492,31,637,57"/>
+</map>

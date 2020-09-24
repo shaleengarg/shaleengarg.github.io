@@ -1,0 +1,9 @@
+<map id="xlog_recover_do_inode_buffer" name="xlog_recover_do_inode_buffer">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="402,40,558,66"/>
+<area shape="rect" id="node3" href="$xfs__bit_8c.html#ac8336e529188203061c62eb90f3a9689" title="xfs_next_bit" alt="" coords="232,26,325,53"/>
+<area shape="rect" id="node4" href="$xfs__bit_8c.html#a9b1b29a46abc03d4e5fe305ec031cbcd" title="xfs_contig_bits" alt="" coords="223,77,334,104"/>
+<area shape="rect" id="node5" href="$xfs__buf_8c.html#ae7109246d2f0da5175622e8390f40538" title="xfs_buf_offset" alt="" coords="226,128,331,154"/>
+<area shape="rect" id="node6" href="$xfs__inode__buf_8c.html#af45a246291839ccec985bc31f40602ce" title="xfs_dinode_calc_crc" alt="" coords="208,178,349,205"/>
+<area shape="rect" id="node7" href="$xfs__cksum_8h.html#a15a789c62c95661dcbcc3130baae3bfe" title="xfs_start_cksum_update" alt="" coords="397,153,563,180"/>
+<area shape="rect" id="node8" href="$xfs__cksum_8h.html#a91fa5d874829ed88cc8b1bf4f2331612" title="xfs_end_cksum" alt="" coords="423,204,537,230"/>
+</map>

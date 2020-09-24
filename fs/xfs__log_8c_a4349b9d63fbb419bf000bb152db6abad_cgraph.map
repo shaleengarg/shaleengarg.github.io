@@ -1,0 +1,7 @@
+<map id="xfs_log_need_covered" name="xfs_log_need_covered">
+<area shape="rect" id="node2" href="$xfs__mount_8c.html#a2dd2233cd9964734350e52a39dc66df6" title="xfs_fs_writable" alt="" coords="215,5,326,32"/>
+<area shape="rect" id="node3" href="$xfs__log__cil_8c.html#a7a9dce4d3be7bb24c4a4a476bcb61037" title="xlog_cil_empty" alt="" coords="216,56,325,83"/>
+<area shape="rect" id="node4" href="$xfs__trans__ail_8c.html#a28a917ba5079dab4e4d00ea3487eebfa" title="xfs_ail_min_lsn" alt="" coords="215,107,327,133"/>
+<area shape="rect" id="node6" href="$xfs__log_8c.html#a229bd1f736609f5593586973c1107463" title="xlog_iclogs_empty" alt="" coords="205,157,336,184"/>
+<area shape="rect" id="node5" href="$xfs__trans__priv_8h.html#a8f99d20d0c9cabb723e542cf4abcd6c1" title="xfs_ail_min" alt="" coords="384,107,472,133"/>
+</map>

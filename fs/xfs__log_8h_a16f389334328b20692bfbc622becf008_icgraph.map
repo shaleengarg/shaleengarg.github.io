@@ -1,0 +1,21 @@
+<map id="xlog_prepare_iovec" name="xlog_prepare_iovec">
+<area shape="rect" id="node2" href="$xfs__dquot__item_8c.html#a073c2e0c85aa498579559a2499f358bb" title="xfs_qm_dquot_logitem\l_format" alt="" coords="431,104,585,145"/>
+<area shape="rect" id="node3" href="$xfs__dquot__item_8c.html#a92fa37b3ac500c9aee67539b3436154e" title="xfs_qm_qoff_logitem\l_format" alt="" coords="210,479,353,520"/>
+<area shape="rect" id="node4" href="$xfs__inode__item_8c.html#a5accb62de008d3450680bdb67abda8e1" title="xfs_inode_item_format\l_data_fork" alt="" coords="431,169,585,211"/>
+<area shape="rect" id="node5" href="$xfs__inode__item_8c.html#a5b0430523b146ef42784e37d028206cb" title="xfs_inode_item_format" alt="" coords="641,115,796,142"/>
+<area shape="rect" id="node6" href="$xfs__inode__item_8c.html#ac241887a8361fdfc5a616e6a489c0ac5" title="xfs_inode_item_format\l_attr_fork" alt="" coords="431,235,585,276"/>
+<area shape="rect" id="node7" href="$xfs__inode__item_8c.html#a7691b02e28108d05d035e599183fbeca" title="xfs_inode_item_format_core" alt="" coords="188,59,375,86"/>
+<area shape="rect" id="node8" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="222,427,341,454"/>
+<area shape="rect" id="node9" href="$xfs__bmap__item_8c.html#afb89e64e4961c26a25ee928ea07f4ad1" title="xfs_bui_item_format" alt="" coords="438,503,578,530"/>
+<area shape="rect" id="node10" href="$xfs__bmap__item_8c.html#aac8ffcf9bfb347fa15b1d78b1b899e5c" title="xfs_bud_item_format" alt="" coords="436,554,580,581"/>
+<area shape="rect" id="node11" href="$xfs__buf__item_8c.html#ab3c3a0a5aa3637836214d47b93fff55a" title="xfs_buf_item_copy_iovec" alt="" coords="423,655,593,682"/>
+<area shape="rect" id="node12" href="$xfs__buf__item_8c.html#ae25cc0d3a6f29ef68d1544dff04ff7ae" title="xfs_buf_item_format\l_segment" alt="" coords="648,623,789,664"/>
+<area shape="rect" id="node14" href="$xfs__extfree__item_8c.html#a3ae677fbdf23f40284870fa5734ac494" title="xfs_efi_item_format" alt="" coords="439,706,577,733"/>
+<area shape="rect" id="node15" href="$xfs__extfree__item_8c.html#a5176e14d7804fa1cbd26f9522c82a174" title="xfs_efd_item_format" alt="" coords="437,757,579,783"/>
+<area shape="rect" id="node16" href="$xfs__icreate__item_8c.html#a95a2914e7e93476d8c0f7fd1f4f3a96b" title="xfs_icreate_item_format" alt="" coords="427,807,589,834"/>
+<area shape="rect" id="node17" href="$xfs__refcount__item_8c.html#afb685669ed53e60c4728a55558494f87" title="xfs_cui_item_format" alt="" coords="438,301,578,327"/>
+<area shape="rect" id="node18" href="$xfs__refcount__item_8c.html#af7ef90f58d5977540316c517d64dd29b" title="xfs_cud_item_format" alt="" coords="436,351,580,378"/>
+<area shape="rect" id="node19" href="$xfs__rmap__item_8c.html#a397869a83b74d0e2ab5d19e4bcdd2d3b" title="xfs_rui_item_format" alt="" coords="439,402,577,429"/>
+<area shape="rect" id="node20" href="$xfs__rmap__item_8c.html#a84d85bff9ab7651bca45b75d92f0aa19" title="xfs_rud_item_format" alt="" coords="437,453,579,479"/>
+<area shape="rect" id="node13" href="$xfs__buf__item_8c.html#a2eb468ac3821824fc2e7a2ab491b6651" title="xfs_buf_item_format" alt="" coords="844,630,985,657"/>
+</map>

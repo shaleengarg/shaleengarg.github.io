@@ -1,0 +1,7 @@
+<map id="xfs_qm_qoff_logitem_init" name="xfs_qm_qoff_logitem_init">
+<area shape="rect" id="node2" href="$xfs__trans__dquot_8c.html#a01eff059e1241b4ec40b7a35d1c13ae3" title="xfs_trans_get_qoff_item" alt="" coords="220,31,383,57"/>
+<area shape="rect" id="node3" href="$xfs__qm__syscalls_8c.html#af26abd6498f90adda893a3e62475fd9e" title="xfs_qm_log_quotaoff_end" alt="" coords="431,5,601,32"/>
+<area shape="rect" id="node6" href="$xfs__qm__syscalls_8c.html#a662a845774896494a9e25fc792ae9582" title="xfs_qm_log_quotaoff" alt="" coords="445,56,587,83"/>
+<area shape="rect" id="node4" href="$xfs__qm__syscalls_8c.html#a26165df13975fd4d8b0223e9938c93ae" title="xfs_qm_scall_quotaoff" alt="" coords="649,31,803,57"/>
+<area shape="rect" id="node5" href="$xfs__quotaops_8c.html#abda0cb94d9c7428ea11450d9120d968f" title="xfs_quota_disable" alt="" coords="851,31,977,57"/>
+</map>

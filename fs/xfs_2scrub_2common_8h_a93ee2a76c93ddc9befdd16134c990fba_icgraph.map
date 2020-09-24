@@ -1,0 +1,19 @@
+<map id="xfs_scrub_get_inode" name="xfs_scrub_get_inode">
+<area shape="rect" id="node2" href="$xfs_2scrub_2inode_8c.html#aa9e9bb8c895f2d2f7a3572f0ba31e93f" title="xfs_scrub_setup_inode" alt="" coords="196,312,352,339"/>
+<area shape="rect" id="node4" href="$xfs_2scrub_2common_8h.html#ab394cc30762c74da715f46204e976c62" title="xfs_scrub_setup_inode_bmap" alt="" coords="597,43,792,69"/>
+<area shape="rect" id="node7" href="$xfs_2scrub_2common_8h.html#ada445f5ec4b2abc0d298691008e6f566" title="xfs_scrub_setup_quota" alt="" coords="1063,221,1220,248"/>
+<area shape="rect" id="node14" href="$xfs_2scrub_2common_8h.html#a8730bed98c976006d0217480bbabd3c9" title="xfs_scrub_setup_inode\l_contents" alt="" coords="617,145,773,186"/>
+<area shape="rect" id="node3" href="$xfs_2scrub_2common_8h.html#ad45b0efec3f52e51b6a43414c3ce1fec" title="xfs_scrub_trans_alloc" alt="" coords="400,312,549,339"/>
+<area shape="rect" id="node5" href="$xfs_2scrub_2common_8h.html#a1ca689e7ad7b9a36494c227bddcf5059" title="xfs_scrub_setup_fs" alt="" coords="627,413,763,440"/>
+<area shape="rect" id="node6" href="$xfs_2scrub_2common_8h.html#ab819b54d3351bf33aea70f39ec3fd329" title="xfs_scrub_setup_ag\l_btree" alt="" coords="858,403,997,445"/>
+<area shape="rect" id="node13" href="$rtbitmap_8c.html#aa8e0be346730082a9b81b7659f7457a4" title="xfs_scrub_setup_rt" alt="" coords="861,469,994,496"/>
+<area shape="rect" id="node9" href="$xfs_2scrub_2ialloc_8c.html#adab7769ecb7eab6bd1107d7161fb5f79" title="xfs_scrub_setup_ag\l_iallocbt" alt="" coords="1072,575,1211,617"/>
+<area shape="rect" id="node10" href="$xfs_2scrub_2common_8h.html#a0819d0633e3880dd7c798a0c6e35f1b3" title="xfs_scrub_setup_ag\l_allocbt" alt="" coords="1072,374,1211,415"/>
+<area shape="rect" id="node11" href="$refcount_8c.html#af28c8899b817a5fc927dc545b637d0a9" title="xfs_scrub_setup_ag\l_refcountbt" alt="" coords="1072,441,1211,482"/>
+<area shape="rect" id="node12" href="$rmap_8c.html#a09e8954feb340205043c027b438e951d" title="xfs_scrub_setup_ag\l_rmapbt" alt="" coords="1072,507,1211,549"/>
+<area shape="rect" id="node8" href="$xfs_2scrub_2common_8h.html#adada081b8f8609fbfcaa212bf8a179cd" title="xfs_scrub_setup_rt" alt="" coords="1268,512,1401,539"/>
+<area shape="rect" id="node15" href="$xfs_2scrub_2dir_8c.html#a5ce04c868f4b1b7ef4a316e3eab26fa0" title="xfs_scrub_setup_directory" alt="" coords="840,95,1015,121"/>
+<area shape="rect" id="node16" href="$xfs_2scrub_2symlink_8c.html#ac0ea81d90411381bfa36bbbf7b437c7f" title="xfs_scrub_setup_symlink" alt="" coords="842,200,1013,227"/>
+<area shape="rect" id="node17" href="$xfs_2scrub_2common_8h.html#adcd1109791f47ea8e69342c67703e45d" title="xfs_scrub_setup_xattr" alt="" coords="852,251,1003,277"/>
+<area shape="rect" id="node18" href="$parent_8c.html#aaf7e4968d03108bb5a6b5ccfcbc34e23" title="xfs_scrub_setup_parent" alt="" coords="847,301,1008,328"/>
+</map>

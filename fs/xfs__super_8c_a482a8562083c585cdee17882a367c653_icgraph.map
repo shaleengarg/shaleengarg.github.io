@@ -1,0 +1,5 @@
+<map id="xfs_fs_inode_init_once" name="xfs_fs_inode_init_once">
+<area shape="rect" id="node2" href="$xfs__super_8c.html#a9a6ea95bbdf2de1f3103629925d45603" title="xfs_init_zones" alt="" coords="208,5,315,32"/>
+<area shape="rect" id="node3" href="$xfs__super_8c.html#a195477451f30ab17d1855392825e56e4" title="init_xfs_fs" alt="" coords="363,5,445,32"/>
+<area shape="rect" id="node4" href="$xfs__super_8c.html#a2fe336df2be1dd74b03a62eaffe0cead" title="exit_xfs_fs" alt="" coords="493,5,580,32"/>
+</map>

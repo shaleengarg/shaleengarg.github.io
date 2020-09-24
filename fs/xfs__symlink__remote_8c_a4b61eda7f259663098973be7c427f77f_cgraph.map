@@ -1,0 +1,5 @@
+<map id="xfs_symlink_verify" name="xfs_symlink_verify">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="184,5,340,32"/>
+<area shape="rect" id="node3" href="$xfs__log_8c.html#a85ca9841babc402bd450760079ee6f7e" title="xfs_log_check_lsn" alt="" coords="197,56,327,83"/>
+<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#a25c85404b03fddb0a8083ac4243d6b3d" title="xlog_valid_lsn" alt="" coords="388,56,492,83"/>
+</map>

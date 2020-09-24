@@ -1,0 +1,11 @@
+<map id="xfs_iformat_local" name="xfs_iformat_local">
+<area shape="rect" id="node2" href="$xfs__error_8c.html#a71e370ee170d893c6053558f2de36eaa" title="xfs_inode_verifier\l_error" alt="" coords="176,5,300,47"/>
+<area shape="rect" id="node4" href="$xfs__inode__fork_8c.html#a7b830e2d58e664ffa3161b40fe36043b" title="xfs_init_local_fork" alt="" coords="175,71,301,98"/>
+<area shape="rect" id="node3" href="$xfs__message_8c.html#a30fe6bc79cbac4ff3575dab8dcec6898" title="xfs_hex_dump" alt="" coords="349,13,456,39"/>
+<area shape="rect" id="node5" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="373,67,432,94"/>
+<area shape="rect" id="node6" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="357,118,449,145"/>
+<area shape="rect" id="node7" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="504,93,647,119"/>
+<area shape="rect" id="node8" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="712,42,804,69"/>
+<area shape="rect" id="node9" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="695,143,821,170"/>
+<area shape="rect" id="node10" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="707,93,809,119"/>
+</map>

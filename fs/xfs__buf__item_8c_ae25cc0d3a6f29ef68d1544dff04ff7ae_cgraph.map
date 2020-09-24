@@ -1,0 +1,10 @@
+<map id="xfs_buf_item_format_segment" name="xfs_buf_item_format_segment">
+<area shape="rect" id="node2" href="$xfs__buf__item_8c.html#aa93a62be85e932b0124a430406ec0a56" title="xfs_buf_log_format_size" alt="" coords="198,5,362,32"/>
+<area shape="rect" id="node3" href="$xfs__bit_8c.html#ac8336e529188203061c62eb90f3a9689" title="xfs_next_bit" alt="" coords="233,56,327,83"/>
+<area shape="rect" id="node4" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="413,132,532,159"/>
+<area shape="rect" id="node7" href="$xfs__buf__item_8c.html#ab3c3a0a5aa3637836214d47b93fff55a" title="xfs_buf_item_copy_iovec" alt="" coords="195,157,365,184"/>
+<area shape="rect" id="node9" href="$xfs__buf__item_8c.html#a0d0d4893ec59cf1dac38c0aaf62605be" title="xfs_buf_item_straddle" alt="" coords="205,208,355,235"/>
+<area shape="rect" id="node5" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="580,107,715,133"/>
+<area shape="rect" id="node6" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="586,157,709,184"/>
+<area shape="rect" id="node8" href="$xfs__buf_8c.html#ae7109246d2f0da5175622e8390f40538" title="xfs_buf_offset" alt="" coords="420,195,525,221"/>
+</map>

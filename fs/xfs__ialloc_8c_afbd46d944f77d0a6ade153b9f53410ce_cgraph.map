@@ -1,0 +1,12 @@
+<map id="xfs_verify_dir_ino" name="xfs_verify_dir_ino">
+<area shape="rect" id="node2" href="$xfs__ialloc_8c.html#a66f29dc784b5699b55ea1b73748bb23d" title="xfs_internal_inum" alt="" coords="177,56,301,83"/>
+<area shape="rect" id="node5" href="$xfs__ialloc_8c.html#acf11b882ad2aba2125b0d65fdb756a25" title="xfs_verify_ino" alt="" coords="188,107,291,133"/>
+<area shape="rect" id="node3" href="$xfs__format_8h.html#a35e6017c805959b824607fc7fa08d454" title="xfs_sb_version_hasquota" alt="" coords="349,5,520,32"/>
+<area shape="rect" id="node4" href="$xfs__format_8h.html#a0bfb10991a4491c4e46355f825a090d4" title="xfs_is_quota_inode" alt="" coords="367,56,502,83"/>
+<area shape="rect" id="node6" href="$xfs__ialloc_8c.html#a1d88db22a0d6aeaf2f61def222228e97" title="xfs_verify_agino" alt="" coords="376,107,493,133"/>
+<area shape="rect" id="node7" href="$xfs__ialloc_8c.html#ab1d150e159fbb6e2b7739f91d567c028" title="xfs_ialloc_agino_range" alt="" coords="568,107,723,133"/>
+<area shape="rect" id="node8" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="771,77,909,104"/>
+<area shape="rect" id="node9" href="$xfs__ialloc_8c.html#a15cd3ec6129c028508a4d90a92cc3037" title="xfs_ialloc_cluster\l_alignment" alt="" coords="779,129,901,170"/>
+<area shape="rect" id="node10" href="$xfs__format_8h.html#a8ca8173647ad81b03ea98f9320205fba" title="xfs_sb_version_hasalign" alt="" coords="957,111,1123,137"/>
+<area shape="rect" id="node11" href="$xfs__ialloc_8h.html#a7818052deb9bb5d5c79d32656c1cf45e" title="xfs_icluster_size_fsb" alt="" coords="967,161,1113,188"/>
+</map>

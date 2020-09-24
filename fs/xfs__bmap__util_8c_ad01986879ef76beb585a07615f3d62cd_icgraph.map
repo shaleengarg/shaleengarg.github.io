@@ -1,0 +1,9 @@
+<map id="xfs_flush_unmap_range" name="xfs_flush_unmap_range">
+<area shape="rect" id="node2" href="$xfs__bmap__util_8h.html#a092d391ae9e42b4fbfad4b445dc0902b" title="xfs_free_file_space" alt="" coords="213,52,348,78"/>
+<area shape="rect" id="node3" href="$xfs__bmap__util_8h.html#a053b27dc976c05e03970cdf568dcd764" title="xfs_zero_file_space" alt="" coords="407,77,546,104"/>
+<area shape="rect" id="node4" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="605,26,725,53"/>
+<area shape="rect" id="node5" href="$xfs__ioctl_8h.html#a469cdd5bcd7f0165e447baa3d519e5b1" title="xfs_ioc_space" alt="" coords="612,102,719,129"/>
+<area shape="rect" id="node8" href="$xfs__bmap__util_8h.html#a873868d4c8683d06f74f2492f773c558" title="xfs_collapse_file_space" alt="" coords="396,26,557,53"/>
+<area shape="rect" id="node6" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="773,77,868,104"/>
+<area shape="rect" id="node7" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="916,102,1061,129"/>
+</map>

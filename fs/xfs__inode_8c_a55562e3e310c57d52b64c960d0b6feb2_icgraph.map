@@ -1,0 +1,11 @@
+<map id="xfs_iunlink_remove" name="xfs_iunlink_remove">
+<area shape="rect" id="node2" href="$xfs__inode_8h.html#a999c5f59f97aace37e75a78d78557161" title="xfs_link" alt="" coords="200,5,267,32"/>
+<area shape="rect" id="node4" href="$xfs__inode_8h.html#acfe05906710836d5793784943390a339" title="xfs_ifree" alt="" coords="197,56,269,83"/>
+<area shape="rect" id="node9" href="$xfs__inode_8h.html#ab11bbd1d7db120a4ab2bf8abd5dd1347" title="xfs_rename" alt="" coords="188,107,279,133"/>
+<area shape="rect" id="node3" href="$xfs__iops_8c.html#a4aca1097ec09e73bf763c778e3d35cac" title="xfs_vn_link" alt="" coords="345,5,433,32"/>
+<area shape="rect" id="node5" href="$xfs__inode_8c.html#ad6ce94d41ba413b1713edfc82a8307f2" title="xfs_inactive_ifree" alt="" coords="327,56,451,83"/>
+<area shape="rect" id="node6" href="$xfs__inode_8h.html#a4b9101aa3b8f2a25bff50f1b910c2a73" title="xfs_inactive" alt="" coords="499,56,591,83"/>
+<area shape="rect" id="node7" href="$xfs__super_8c.html#ab527e7dc7474b9efc7addff151cc8f1a" title="xfs_fs_destroy_inode" alt="" coords="639,56,785,83"/>
+<area shape="rect" id="node8" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="833,49,969,90"/>
+<area shape="rect" id="node10" href="$xfs__iops_8c.html#a6f54075d9c6565006d2b3683b7530115" title="xfs_vn_rename" alt="" coords="333,107,444,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="xfs_calc_qm_dqalloc_reservation" name="xfs_calc_qm_dqalloc_reservation">
+<area shape="rect" id="node2" href="$xfs__trans__resv_8c.html#ad507afa8f7a4d7ea1cbc8ebfef466521" title="xfs_calc_write_reservation" alt="" coords="197,81,375,108"/>
+<area shape="rect" id="node4" href="$xfs__trans__resv_8c.html#a41212bc5429d58869bb004c2d1f39c2f" title="xfs_calc_buf_res" alt="" coords="441,132,563,159"/>
+<area shape="rect" id="node3" href="$xfs__trans__resv_8c.html#af82fd00235cf883efce5f94a2d2b5087" title="xfs_calc_inode_res" alt="" coords="435,81,569,108"/>
+<area shape="rect" id="node6" href="$xfs__trans__resv_8c.html#a0541beece6a80a12768ff0ab85f78b6d" title="xfs_allocfree_log_count" alt="" coords="423,31,581,57"/>
+<area shape="rect" id="node5" href="$xfs__trans__resv_8c.html#a732d9a55149298762b7c4498090fc1de" title="xfs_buf_log_overhead" alt="" coords="644,132,793,159"/>
+<area shape="rect" id="node7" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="629,56,808,83"/>
+<area shape="rect" id="node8" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="632,5,805,32"/>
+</map>

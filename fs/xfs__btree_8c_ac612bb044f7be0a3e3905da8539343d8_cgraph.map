@@ -1,0 +1,5 @@
+<map id="xfs_btree_free_block" name="xfs_btree_free_block">
+<area shape="rect" id="node2" href="$xfs__trans_8h.html#ae8434bbe72ee8027386c0613f4dfad57" title="xfs_trans_binval" alt="" coords="196,5,313,32"/>
+<area shape="rect" id="node3" href="$xfs__buf_8c.html#ad41060f10396bac188b8352d03551b02" title="xfs_buf_stale" alt="" coords="361,5,461,32"/>
+<area shape="rect" id="node4" href="$xfs__buf_8c.html#a9cd5b998772f5d06d2015a1c13ace056" title="__xfs_buf_ioacct_dec" alt="" coords="509,5,659,32"/>
+</map>

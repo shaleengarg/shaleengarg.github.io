@@ -1,0 +1,9 @@
+<map id="xfs_iext_remove_node" name="xfs_iext_remove_node">
+<area shape="rect" id="node2" href="$xfs__iext__tree_8c.html#aef04a0bd35695837cc36450551b154d2" title="xfs_iext_find_level" alt="" coords="225,5,355,32"/>
+<area shape="rect" id="node4" href="$xfs__iext__tree_8c.html#aec43ab637d3dab6e85d4dcaa8656fbe4" title="xfs_iext_node_pos" alt="" coords="225,56,355,83"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="247,107,333,133"/>
+<area shape="rect" id="node6" href="$xfs__iext__tree_8c.html#a0ac1755cdce41a78249fa38a8f265f8d" title="xfs_iext_node_nr_entries" alt="" coords="421,233,588,260"/>
+<area shape="rect" id="node7" href="$xfs__iext__tree_8c.html#a1074e036e24152393bfb0627877727fa" title="xfs_iext_update_node" alt="" coords="215,157,365,184"/>
+<area shape="rect" id="node8" href="$xfs__iext__tree_8c.html#a29ea92d7067c311fc5daf61975c21887" title="xfs_iext_rebalance_node" alt="" coords="207,259,373,285"/>
+<area shape="rect" id="node3" href="$xfs__iext__tree_8c.html#a69e65d38d5c7dd435b928bfb68814045" title="xfs_iext_key_cmp" alt="" coords="441,56,569,83"/>
+</map>

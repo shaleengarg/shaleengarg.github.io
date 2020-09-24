@@ -1,0 +1,30 @@
+<map id="xfs/xfs_quota.h" name="xfs/xfs_quota.h">
+<area shape="rect" id="node2" href="$xfs__attr_8c.html" title="xfs/libxfs/xfs_attr.c" alt="" coords="5,87,140,114"/>
+<area shape="rect" id="node3" href="$xfs__bmap_8c.html" title="xfs/libxfs/xfs_bmap.c" alt="" coords="165,87,311,114"/>
+<area shape="rect" id="node4" href="$xfs__bmap__btree_8c.html" title="xfs/libxfs/xfs_bmap\l_btree.c" alt="" coords="335,80,471,121"/>
+<area shape="rect" id="node5" href="$xfs__dquot__buf_8c.html" title="xfs/libxfs/xfs_dquot\l_buf.c" alt="" coords="495,80,631,121"/>
+<area shape="rect" id="node6" href="$xfs__trans__resv_8c.html" title="xfs/libxfs/xfs_trans\l_resv.c" alt="" coords="655,80,789,121"/>
+<area shape="rect" id="node7" href="$xfs_2scrub_2quota_8c.html" title="xfs/scrub/quota.c" alt="" coords="813,87,935,114"/>
+<area shape="rect" id="node8" href="$xfs__attr__inactive_8c.html" title="xfs/xfs_attr_inactive.c" alt="" coords="960,87,1111,114"/>
+<area shape="rect" id="node9" href="$xfs__bmap__util_8c.html" title="xfs/xfs_bmap_util.c" alt="" coords="1135,87,1271,114"/>
+<area shape="rect" id="node10" href="$xfs__discard_8c.html" title="xfs/xfs_discard.c" alt="" coords="1295,87,1418,114"/>
+<area shape="rect" id="node11" href="$xfs__dquot_8c.html" title="xfs/xfs_dquot.c" alt="" coords="1442,87,1554,114"/>
+<area shape="rect" id="node12" href="$xfs__dquot__item_8c.html" title="xfs/xfs_dquot_item.c" alt="" coords="1578,87,1722,114"/>
+<area shape="rect" id="node13" href="$xfs__icache_8c.html" title="xfs/xfs_icache.c" alt="" coords="1747,87,1865,114"/>
+<area shape="rect" id="node14" href="$xfs__inode_8c.html" title="xfs/xfs_inode.c" alt="" coords="1889,87,2000,114"/>
+<area shape="rect" id="node15" href="$xfs__ioctl_8c.html" title="xfs/xfs_ioctl.c" alt="" coords="2025,87,2129,114"/>
+<area shape="rect" id="node16" href="$xfs__iomap_8c.html" title="xfs/xfs_iomap.c" alt="" coords="2153,87,2267,114"/>
+<area shape="rect" id="node17" href="$xfs__iops_8c.html" title="xfs/xfs_iops.c" alt="" coords="2291,87,2395,114"/>
+<area shape="rect" id="node18" href="$xfs__log__recover_8c.html" title="xfs/xfs_log_recover.c" alt="" coords="2419,87,2566,114"/>
+<area shape="rect" id="node19" href="$xfs__mount_8c.html" title="xfs/xfs_mount.c" alt="" coords="2591,87,2707,114"/>
+<area shape="rect" id="node20" href="$xfs__qm_8c.html" title="xfs/xfs_qm.c" alt="" coords="2731,87,2830,114"/>
+<area shape="rect" id="node21" href="$xfs__qm__bhv_8c.html" title="xfs/xfs_qm_bhv.c" alt="" coords="2855,87,2981,114"/>
+<area shape="rect" id="node22" href="$xfs__qm__syscalls_8c.html" title="xfs/xfs_qm_syscalls.c" alt="" coords="3005,87,3159,114"/>
+<area shape="rect" id="node23" href="$xfs__quotaops_8c.html" title="xfs/xfs_quotaops.c" alt="" coords="3183,87,3317,114"/>
+<area shape="rect" id="node24" href="$xfs__reflink_8c.html" title="xfs/xfs_reflink.c" alt="" coords="3341,87,3455,114"/>
+<area shape="rect" id="node25" href="$xfs__super_8c.html" title="xfs/xfs_super.c" alt="" coords="3479,87,3591,114"/>
+<area shape="rect" id="node26" href="$xfs__symlink_8c.html" title="xfs/xfs_symlink.c" alt="" coords="3615,87,3741,114"/>
+<area shape="rect" id="node27" href="$xfs__trace_8c.html" title="xfs/xfs_trace.c" alt="" coords="3765,87,3874,114"/>
+<area shape="rect" id="node28" href="$xfs__trans_8c.html" title="xfs/xfs_trans.c" alt="" coords="3898,87,4007,114"/>
+<area shape="rect" id="node29" href="$xfs__trans__dquot_8c.html" title="xfs/xfs_trans_dquot.c" alt="" coords="4032,87,4180,114"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="xfs_clear_li_failed" name="xfs_clear_li_failed">
+<area shape="rect" id="node2" href="$xfs__buf_8c.html#a87676d05137e1ceb4670a55556f78f21" title="xfs_buf_rele" alt="" coords="180,81,273,108"/>
+<area shape="rect" id="node3" href="$xfs__buf_8c.html#a6e42fdec0e38fc486ea3156b9f5d1db4" title="xfs_buf_ioacct_dec" alt="" coords="321,5,456,32"/>
+<area shape="rect" id="node4" href="$xfs__buf_8c.html#a9cd5b998772f5d06d2015a1c13ace056" title="__xfs_buf_ioacct_dec" alt="" coords="504,5,653,32"/>
+<area shape="rect" id="node5" href="$xfs__buf_8c.html#a88eed49321fa206c7ce3d13b83a628c0" title="xfs_buf_free" alt="" coords="341,107,436,133"/>
+<area shape="rect" id="node11" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="337,157,441,184"/>
+<area shape="rect" id="node6" href="$xfs__buf_8c.html#adc2dd3454f0182cc54d74ccb6a4ebb82" title="xfs_buf_is_vmapped" alt="" coords="507,56,650,83"/>
+<area shape="rect" id="node7" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="701,157,788,184"/>
+<area shape="rect" id="node8" href="$xfs__buf_8c.html#aedb54342ddce5fd9c4e53e3da9dd9d5b" title="_xfs_buf_free_pages" alt="" coords="507,157,650,184"/>
+<area shape="rect" id="node9" href="$xfs__buf_8c.html#a22c30966f8c60d596e1d0721f22f488d" title="xfs_buf_free_maps" alt="" coords="512,208,645,235"/>
+<area shape="rect" id="node10" href="$kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b" title="kmem_zone_free" alt="" coords="517,259,640,285"/>
+</map>

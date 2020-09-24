@@ -1,0 +1,6 @@
+<map id="counter_val" name="counter_val">
+<area shape="rect" id="node2" href="$xfs__stats_8h.html#ad089331be465aeaa1b9d104e177130c5" title="xfs_stats_format" alt="" coords="145,5,265,32"/>
+<area shape="rect" id="node4" href="$xfs__stats_8h.html#a332b2c13e84ce06848a1568a7b315e02" title="xfs_stats_clearall" alt="" coords="143,56,267,83"/>
+<area shape="rect" id="node3" href="$xfs__sysfs_8c.html#abb0f6e1674bffcab73c0f0371685bb56" title="stats_show" alt="" coords="331,5,421,32"/>
+<area shape="rect" id="node5" href="$xfs__sysfs_8c.html#a757d504c908b3242aa89c42a8fd9b3a7" title="stats_clear_store" alt="" coords="315,56,437,83"/>
+</map>

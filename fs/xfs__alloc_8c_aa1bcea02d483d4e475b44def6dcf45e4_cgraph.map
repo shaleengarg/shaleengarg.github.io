@@ -1,0 +1,21 @@
+<map id="xfs_alloc_get_rec" name="xfs_alloc_get_rec">
+<area shape="rect" id="node2" href="$xfs__btree_8c.html#a681dd96e474f135a6c6e8d77caaeef7e" title="xfs_btree_get_rec" alt="" coords="177,81,304,108"/>
+<area shape="rect" id="node3" href="$xfs__btree_8c.html#a688bee7fed41b30b51eaba66ed129655" title="xfs_btree_get_block" alt="" coords="362,5,501,32"/>
+<area shape="rect" id="node5" href="$xfs__btree_8c.html#ae41c86a55ca93d1d46aa31c05cbd8294" title="xfs_btree_check_block" alt="" coords="353,56,509,83"/>
+<area shape="rect" id="node17" href="$xfs__btree_8h.html#ad59e3f17a865149a438d8744bb01836c" title="xfs_btree_get_numrecs" alt="" coords="352,107,511,133"/>
+<area shape="rect" id="node18" href="$xfs__btree_8c.html#a2002768f4ef52192349beec0e3f26c3c" title="xfs_btree_rec_addr" alt="" coords="365,157,498,184"/>
+<area shape="rect" id="node4" href="$xfs__btree_8c.html#ad0cf24cadca1ec179beaa7d4fc1bb048" title="xfs_btree_get_iroot" alt="" coords="573,5,707,32"/>
+<area shape="rect" id="node6" href="$xfs__btree_8c.html#a08612e0cf9b9feb5cbf52a72d7041ada" title="xfs_btree_check_lblock" alt="" coords="561,56,719,83"/>
+<area shape="rect" id="node14" href="$xfs__btree_8c.html#a992c608c36a9a02f36e328cb29f65562" title="xfs_btree_check_sblock" alt="" coords="559,107,721,133"/>
+<area shape="rect" id="node7" href="$xfs__btree_8c.html#a8c65fdf28694df0f75d03ca0a9a8a93a" title="__xfs_btree_check_lblock" alt="" coords="771,56,945,83"/>
+<area shape="rect" id="node8" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="995,56,1151,83"/>
+<area shape="rect" id="node9" href="$xfs__btree_8c.html#a494a673b40422d7f6e21459446946063" title="xfs_btree_magic" alt="" coords="1013,107,1132,133"/>
+<area shape="rect" id="node10" href="$xfs__btree_8c.html#a68793e7f49d09d62604877a60c4413b1" title="xfs_btree_check_lptr" alt="" coords="1199,131,1341,157"/>
+<area shape="rect" id="node11" href="$xfs__alloc_8c.html#a030343e3df157ed4bea0e887a8bbfdc4" title="xfs_verify_fsbno" alt="" coords="1389,131,1508,157"/>
+<area shape="rect" id="node12" href="$xfs__alloc_8c.html#a3ebbc0ba763771526309a919a18591b2" title="xfs_verify_agbno" alt="" coords="1556,156,1677,183"/>
+<area shape="rect" id="node13" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="1725,156,1864,183"/>
+<area shape="rect" id="node15" href="$xfs__btree_8c.html#a2d8f8d9e355b811e5a3f12cb7a2098ff" title="__xfs_btree_check_sblock" alt="" coords="769,107,947,133"/>
+<area shape="rect" id="node16" href="$xfs__btree_8c.html#a63178c8bb1489507d5bdd88e1919aea0" title="xfs_btree_check_sptr" alt="" coords="999,181,1146,208"/>
+<area shape="rect" id="node19" href="$xfs__btree_8c.html#ac5b3ed52642698f33fc0486b8b3ba552" title="xfs_btree_rec_offset" alt="" coords="569,157,711,184"/>
+<area shape="rect" id="node20" href="$xfs__btree_8c.html#a1fa1efc33b60f4ec3a764335daaf0422" title="xfs_btree_block_len" alt="" coords="789,157,927,184"/>
+</map>

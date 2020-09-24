@@ -1,0 +1,15 @@
+<map id="xfs_dir2_leafn_remove" name="xfs_dir2_leafn_remove">
+<area shape="rect" id="node2" href="$xfs__dir2__priv_8h.html#ae161ab159b4ad849884489e26046fa22" title="xfs_dir2_node_removename" alt="" coords="207,157,392,184"/>
+<area shape="rect" id="node3" href="$xfs__dir2_8h.html#a0e57d4a25326f0ba23bb5c2092b96393" title="xfs_dir_removename" alt="" coords="440,157,583,184"/>
+<area shape="rect" id="node4" href="$xfs__inode_8h.html#aa98dba979408921179894e723b6dfb50" title="xfs_remove" alt="" coords="631,132,721,159"/>
+<area shape="rect" id="node13" href="$xfs__inode_8h.html#ab11bbd1d7db120a4ab2bf8abd5dd1347" title="xfs_rename" alt="" coords="631,183,721,209"/>
+<area shape="rect" id="node5" href="$xfs__iops_8c.html#ad4b0ee2949861bd851960c3278400ba6" title="xfs_cleanup_inode" alt="" coords="769,81,900,108"/>
+<area shape="rect" id="node12" href="$xfs__iops_8c.html#a86471154464f4f71e634dad6a09533be" title="xfs_vn_unlink" alt="" coords="783,132,886,159"/>
+<area shape="rect" id="node6" href="$xfs__iops_8c.html#ab26e9da7afbd4a9e35cfed42da95a51e" title="xfs_generic_create" alt="" coords="948,56,1080,83"/>
+<area shape="rect" id="node11" href="$xfs__iops_8c.html#a9c637ad2828e899317fbcc12cf09b9be" title="xfs_vn_symlink" alt="" coords="957,107,1071,133"/>
+<area shape="rect" id="node7" href="$xfs__iops_8c.html#a30a19f32888a9caa7d7561e15f8ee810" title="xfs_vn_mknod" alt="" coords="1128,31,1235,57"/>
+<area shape="rect" id="node10" href="$xfs__iops_8c.html#aedf85745b72c8abe1af3544109eb78da" title="xfs_vn_tmpfile" alt="" coords="1128,81,1235,108"/>
+<area shape="rect" id="node8" href="$xfs__iops_8c.html#a8834f3c367781576f03894371282254c" title="xfs_vn_create" alt="" coords="1283,5,1387,32"/>
+<area shape="rect" id="node9" href="$xfs__iops_8c.html#a28ca6512584d7c71c6238ad684c49374" title="xfs_vn_mkdir" alt="" coords="1285,56,1385,83"/>
+<area shape="rect" id="node14" href="$xfs__iops_8c.html#a6f54075d9c6565006d2b3683b7530115" title="xfs_vn_rename" alt="" coords="779,183,890,209"/>
+</map>

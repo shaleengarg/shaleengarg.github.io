@@ -1,0 +1,21 @@
+<map id="xfs_trans_reserve_quota_bydquots" name="xfs_trans_reserve_quota_bydquots">
+<area shape="rect" id="node2" href="$xfs__trans__dquot_8c.html#a9aafbc7f7201dfa4f62f90d4ee05fb93" title="xfs_trans_alloc_dqinfo" alt="" coords="584,56,736,83"/>
+<area shape="rect" id="node10" href="$xfs__trans__dquot_8c.html#af850c77cfb0625678785ce6a7d34daf2" title="xfs_trans_dqresv" alt="" coords="219,107,341,133"/>
+<area shape="rect" id="node3" href="$kmem_8h.html#a599d39ea9de651f0b29334a6f226bc7f" title="kmem_zone_zalloc" alt="" coords="786,56,921,83"/>
+<area shape="rect" id="node4" href="$kmem_8h.html#a5fca7fda061a394f43a128465d3f47de" title="kmem_zone_alloc" alt="" coords="977,56,1103,83"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="1157,56,1300,83"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="1365,5,1457,32"/>
+<area shape="rect" id="node7" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="1348,56,1475,83"/>
+<area shape="rect" id="node9" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="1360,107,1463,133"/>
+<area shape="rect" id="node8" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="1523,107,1615,133"/>
+<area shape="rect" id="node11" href="$xfs__dquot_8h.html#a90a9ccef1290f3555a1636a368574749" title="xfs_dqlock" alt="" coords="420,81,505,108"/>
+<area shape="rect" id="node12" href="$xfs__qm_8h.html#a602c1d8fbdc55eaa2249024c90047b6a" title="xfs_get_defquota" alt="" coords="401,132,524,159"/>
+<area shape="rect" id="node13" href="$xfs__trans__dquot_8c.html#aa1000e6a3974bd03c0e81ca88de1c9b0" title="xfs_quota_warn" alt="" coords="405,233,520,260"/>
+<area shape="rect" id="node18" href="$xfs__trans__dquot_8c.html#a60879dcb93882dbdce9aaec536833220" title="xfs_trans_mod_dquot" alt="" coords="389,183,536,209"/>
+<area shape="rect" id="node20" href="$xfs__dquot_8h.html#a8ef2de25551d3a39d0a400e6e32cdc7e" title="xfs_dqunlock" alt="" coords="413,31,512,57"/>
+<area shape="rect" id="node14" href="$quota_2netlink_8c.html#a9f23695bbf91cbd61316839944fdb0c3" title="quota_send_warning" alt="" coords="589,233,731,260"/>
+<area shape="rect" id="node15" href="$kqid_8c.html#af4e3267925df8b68c691c4d1f977a144" title="from_kqid_munged" alt="" coords="787,259,919,285"/>
+<area shape="rect" id="node17" href="$quota_2netlink_8c.html#a8a4739ef2b891dca6b59b05e4606a77a" title="EXPORT_SYMBOL" alt="" coords="784,208,923,235"/>
+<area shape="rect" id="node16" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="971,259,1109,285"/>
+<area shape="rect" id="node19" href="$xfs__trans__dquot_8c.html#a4960b35e98fe5bfbd4841f27abe9bfe3" title="xfs_trans_get_dqtrx" alt="" coords="591,183,729,209"/>
+</map>

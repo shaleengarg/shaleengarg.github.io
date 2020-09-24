@@ -1,0 +1,6 @@
+<map id="xfs_compat_handlereq_to_dentry" name="xfs_compat_handlereq_to_dentry">
+<area shape="rect" id="node2" href="$xfs__ioctl32_8c.html#a00cdc46be6a5d2f584ff78ea58a453c9" title="xfs_compat_attrlist\l_by_handle" alt="" coords="212,5,345,47"/>
+<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a7fa68851eda624ea6a0548a48c68ec47" title="xfs_compat_attrmulti\l_by_handle" alt="" coords="207,71,351,112"/>
+<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a924e65a8e144496d702213e9956a7356" title="xfs_compat_fssetdm\l_by_handle" alt="" coords="207,136,351,177"/>
+<area shape="rect" id="node3" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="399,78,544,105"/>
+</map>

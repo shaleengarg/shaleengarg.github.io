@@ -1,0 +1,6 @@
+<map id="xfs_quota_type" name="xfs_quota_type">
+<area shape="rect" id="node2" href="$xfs__quotaops_8c.html#a2c43c920e6df26bae5f40b875aa95227" title="xfs_fs_set_info" alt="" coords="182,5,293,32"/>
+<area shape="rect" id="node3" href="$xfs__quotaops_8c.html#ad4619bff95725b67888dc39d31e864d1" title="xfs_fs_get_dqblk" alt="" coords="177,56,298,83"/>
+<area shape="rect" id="node4" href="$xfs__quotaops_8c.html#adef70665ce2e5b1c76674b080043d299" title="xfs_fs_get_nextdqblk" alt="" coords="164,107,311,133"/>
+<area shape="rect" id="node5" href="$xfs__quotaops_8c.html#a2b851ceea292c15cdf8a4dd175c9f2e5" title="xfs_fs_set_dqblk" alt="" coords="177,157,298,184"/>
+</map>

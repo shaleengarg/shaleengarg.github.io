@@ -1,0 +1,5 @@
+<map id="xfs_free_perag" name="xfs_free_perag">
+<area shape="rect" id="node2" href="$xfs__buf_8c.html#ac9fe07ff9f79673579ae88d260f37d19" title="xfs_buf_hash_destroy" alt="" coords="161,5,312,32"/>
+<area shape="rect" id="node3" href="$xfs__mount_8c.html#afe53ff4555bca1039a422729b2777a36" title="__xfs_free_perag" alt="" coords="175,56,298,83"/>
+<area shape="rect" id="node4" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="360,56,447,83"/>
+</map>

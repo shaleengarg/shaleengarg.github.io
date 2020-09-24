@@ -1,0 +1,16 @@
+<map id="xfs_qm_vop_chown" name="xfs_qm_vop_chown">
+<area shape="rect" id="node2" href="$xfs__inode_8h.html#aedaa832cc1400d56df37c13d30163c98" title="xfs_isilocked" alt="" coords="216,56,315,83"/>
+<area shape="rect" id="node3" href="$xfs__qm_8h.html#a233043fa85d37d03c9bc35a60bca45d3" title="xfs_trans_mod_dquot" alt="" coords="192,107,339,133"/>
+<area shape="rect" id="node13" href="$xfs__dquot_8h.html#af18ed9891f59fd192f8a49efe8f89582" title="xfs_qm_dqhold" alt="" coords="210,157,321,184"/>
+<area shape="rect" id="node4" href="$xfs__trans__dquot_8c.html#a9aafbc7f7201dfa4f62f90d4ee05fb93" title="xfs_trans_alloc_dqinfo" alt="" coords="387,56,539,83"/>
+<area shape="rect" id="node12" href="$xfs__trans__dquot_8c.html#a4960b35e98fe5bfbd4841f27abe9bfe3" title="xfs_trans_get_dqtrx" alt="" coords="394,107,531,133"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#a599d39ea9de651f0b29334a6f226bc7f" title="kmem_zone_zalloc" alt="" coords="587,56,721,83"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#a5fca7fda061a394f43a128465d3f47de" title="kmem_zone_alloc" alt="" coords="769,56,896,83"/>
+<area shape="rect" id="node7" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="944,56,1087,83"/>
+<area shape="rect" id="node8" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="1152,5,1244,32"/>
+<area shape="rect" id="node9" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="1135,56,1261,83"/>
+<area shape="rect" id="node11" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="1147,107,1249,133"/>
+<area shape="rect" id="node10" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="1309,107,1401,133"/>
+<area shape="rect" id="node14" href="$xfs__dquot_8h.html#a90a9ccef1290f3555a1636a368574749" title="xfs_dqlock" alt="" coords="420,157,505,184"/>
+<area shape="rect" id="node15" href="$xfs__dquot_8h.html#a8ef2de25551d3a39d0a400e6e32cdc7e" title="xfs_dqunlock" alt="" coords="413,208,512,235"/>
+</map>

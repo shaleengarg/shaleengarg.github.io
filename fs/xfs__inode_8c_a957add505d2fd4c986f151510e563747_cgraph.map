@@ -1,0 +1,8 @@
+<map id="xfs_itruncate_clear_reflink_flags" name="xfs_itruncate_clear_reflink_flags">
+<area shape="rect" id="node2" href="$xfs__inode_8h.html#a48b5745ca5e1cc018d395c5b815266d4" title="xfs_is_reflink_inode" alt="" coords="220,5,357,32"/>
+<area shape="rect" id="node3" href="$xfs__icache_8c.html#aafd63aeb808eba4f2f23504c4aa01721" title="xfs_inode_clear_cowblocks_tag" alt="" coords="185,56,392,83"/>
+<area shape="rect" id="node4" href="$xfs__icache_8c.html#ae98f2e1127dc8b253d4b8088ddbd39a1" title="__xfs_inode_clear_blocks_tag" alt="" coords="440,56,637,83"/>
+<area shape="rect" id="node5" href="$xfs__icache_8c.html#a095f507aa6cb6207c9b5dd667ad37e44" title="xfs_iflag_for_tag" alt="" coords="685,5,804,32"/>
+<area shape="rect" id="node6" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="693,56,797,83"/>
+<area shape="rect" id="node7" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="693,107,797,133"/>
+</map>

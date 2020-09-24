@@ -1,0 +1,15 @@
+<map id="xfs_dir2_sf_getdents" name="xfs_dir2_sf_getdents">
+<area shape="rect" id="node2" href="$xfs__dir2_8h.html#a7b170f59736a235a952e42dfa8dd19ec" title="xfs_dir2_dataptr_to_db" alt="" coords="196,56,351,83"/>
+<area shape="rect" id="node5" href="$xfs__dir2_8h.html#a9ed4e94ad343a53fe5006d4fef9406fb" title="xfs_dir2_db_off_to\l_dataptr" alt="" coords="209,125,338,166"/>
+<area shape="rect" id="node8" href="$xfs__da__format_8h.html#a509c9093a8983e049fa6a22cf73b75e8" title="xfs_dir2_sf_firstentry" alt="" coords="201,191,345,217"/>
+<area shape="rect" id="node10" href="$xfs__da__format_8h.html#ae1e30da023e0ed9689f97dd3331bd0f0" title="xfs_dir2_sf_get_offset" alt="" coords="198,241,349,268"/>
+<area shape="rect" id="node11" href="$xfs__dir2__readdir_8c.html#ab00bb5e55383def9bcf2fbe98f3a4d5a" title="xfs_dir3_get_dtype" alt="" coords="207,292,339,319"/>
+<area shape="rect" id="node3" href="$xfs__dir2_8h.html#aca1fb8cdd56f0e351bacd97b8313de20" title="xfs_dir2_byte_to_db" alt="" coords="413,5,551,32"/>
+<area shape="rect" id="node4" href="$xfs__dir2_8h.html#a0e82b71dfb4698e482de6a2537b8e0f0" title="xfs_dir2_dataptr_to_byte" alt="" coords="399,56,565,83"/>
+<area shape="rect" id="node6" href="$xfs__dir2_8h.html#a2c48df84c77230a4b896854191c987ff" title="xfs_dir2_byte_to_dataptr" alt="" coords="399,107,565,133"/>
+<area shape="rect" id="node7" href="$xfs__dir2_8h.html#a762894f7b6f33caf9887a5ddb73913e6" title="xfs_dir2_db_off_to_byte" alt="" coords="401,157,563,184"/>
+<area shape="rect" id="node9" href="$xfs__da__format_8h.html#af89f870d444e16b13bf9106e0bbb7e60" title="xfs_dir2_sf_hdr_size" alt="" coords="411,208,553,235"/>
+<area shape="rect" id="node12" href="$xfs__format_8h.html#aacfc0c47ddac02333fae197629124432" title="xfs_sb_version_hasftype" alt="" coords="399,292,565,319"/>
+<area shape="rect" id="node13" href="$xfs__format_8h.html#a43247c91afa80237231d0bbde4f614f2" title="xfs_sb_has_incompat\l_feature" alt="" coords="633,255,782,297"/>
+<area shape="rect" id="node14" href="$xfs__format_8h.html#a7e23323ec0e631b683e2d7461748d07f" title="xfs_sb_version_hasmorebits" alt="" coords="613,321,801,348"/>
+</map>

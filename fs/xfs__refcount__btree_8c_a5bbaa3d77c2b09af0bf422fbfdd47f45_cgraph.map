@@ -1,0 +1,9 @@
+<map id="xfs_refcountbt_verify" name="xfs_refcountbt_verify">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="197,5,371,32"/>
+<area shape="rect" id="node3" href="$xfs__btree_8c.html#ac1f0138383dbfd497d8298fe51303a78" title="xfs_btree_sblock_v5hdr\l_verify" alt="" coords="204,57,364,98"/>
+<area shape="rect" id="node5" href="$xfs__btree_8c.html#a5248c6b6c5c4f50f7bb66f87df1430cb" title="xfs_btree_sblock_verify" alt="" coords="204,123,364,149"/>
+<area shape="rect" id="node4" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="419,64,575,91"/>
+<area shape="rect" id="node6" href="$xfs__mount_8h.html#a6ada26e337ca2d4c2a0d3f5d68a6f1e9" title="xfs_daddr_to_agno" alt="" coords="431,119,563,145"/>
+<area shape="rect" id="node7" href="$xfs__alloc_8c.html#a3ebbc0ba763771526309a919a18591b2" title="xfs_verify_agbno" alt="" coords="436,169,557,196"/>
+<area shape="rect" id="node8" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="623,169,761,196"/>
+</map>

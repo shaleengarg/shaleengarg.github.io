@@ -1,0 +1,6 @@
+<map id="xfs_set_dmattrs" name="xfs_set_dmattrs">
+<area shape="rect" id="node2" href="$xfs__ioctl_8c.html#ac1e873c3416edd169046a0b70a615245" title="xfs_fssetdm_by_handle" alt="" coords="169,5,329,32"/>
+<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="402,48,497,75"/>
+<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a924e65a8e144496d702213e9956a7356" title="xfs_compat_fssetdm\l_by_handle" alt="" coords="377,99,521,141"/>
+<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="569,77,715,104"/>
+</map>

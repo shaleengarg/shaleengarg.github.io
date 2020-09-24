@@ -1,0 +1,10 @@
+<map id="__xfs_rmap_add" name="__xfs_rmap_add">
+<area shape="rect" id="node2" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="347,81,439,108"/>
+<area shape="rect" id="node7" href="$inode_8c.html#abe0d76959e4da14fa8aa24a78e0da45c" title="bmap" alt="" coords="197,157,251,184"/>
+<area shape="rect" id="node9" href="$xfs__defer_8c.html#a864a4cdc0ad79e081d86cb86054fa812" title="xfs_defer_add" alt="" coords="172,107,276,133"/>
+<area shape="rect" id="node3" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="511,56,653,83"/>
+<area shape="rect" id="node4" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="719,5,811,32"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="701,107,828,133"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="713,56,816,83"/>
+<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="324,157,463,184"/>
+</map>

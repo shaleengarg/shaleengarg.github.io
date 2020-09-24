@@ -1,0 +1,13 @@
+<map id="xfs_trans_dqlockedjoin" name="xfs_trans_dqlockedjoin">
+<area shape="rect" id="node2" href="$xfs__dquot_8h.html#a90a9ccef1290f3555a1636a368574749" title="xfs_dqlock" alt="" coords="224,5,309,32"/>
+<area shape="rect" id="node3" href="$xfs__trans__dquot_8c.html#a232f7c331e7b4f2b61851fb2bc5060dd" title="xfs_trans_dqjoin" alt="" coords="208,56,325,83"/>
+<area shape="rect" id="node12" href="$xfs__dquot_8c.html#aaab5704c11e436d0dc8690e826680a65" title="xfs_dqlock2" alt="" coords="221,107,313,133"/>
+<area shape="rect" id="node4" href="$xfs__trans_8c.html#a47e53164e0401f95cfae80d5cd8098a9" title="xfs_trans_add_item" alt="" coords="373,56,509,83"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#a599d39ea9de651f0b29334a6f226bc7f" title="kmem_zone_zalloc" alt="" coords="557,56,692,83"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#a5fca7fda061a394f43a128465d3f47de" title="kmem_zone_alloc" alt="" coords="740,56,867,83"/>
+<area shape="rect" id="node7" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="915,56,1057,83"/>
+<area shape="rect" id="node8" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="1123,5,1215,32"/>
+<area shape="rect" id="node9" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="1105,56,1232,83"/>
+<area shape="rect" id="node11" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="1117,107,1220,133"/>
+<area shape="rect" id="node10" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="1280,107,1372,133"/>
+</map>

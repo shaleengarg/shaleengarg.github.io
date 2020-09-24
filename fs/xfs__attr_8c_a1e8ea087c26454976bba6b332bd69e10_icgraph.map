@@ -1,0 +1,19 @@
+<map id="xfs_attr_calc_size" name="xfs_attr_calc_size">
+<area shape="rect" id="node2" href="$xfs__attr_8h.html#ad05a20052565299db4b329d21466a1f7" title="xfs_attr_set" alt="" coords="181,136,272,163"/>
+<area shape="rect" id="node3" href="$xfs__acl_8c.html#a74ede4d3a5a344d99306accd9b2a5c91" title="__xfs_set_acl" alt="" coords="341,60,444,87"/>
+<area shape="rect" id="node10" href="$xfs__ioctl_8h.html#a3e80a2c700379572dfc62740dc3f3e62" title="xfs_attrmulti_attr_set" alt="" coords="320,161,465,188"/>
+<area shape="rect" id="node15" href="$xfs__iops_8c.html#aaf247f2b7044fb54635fc2999a6b08ae" title="xfs_initxattrs" alt="" coords="344,111,441,137"/>
+<area shape="rect" id="node18" href="$xfs__xattr_8c.html#a4be8a3c0fc818f6d8d9a0e5f7f619a92" title="xfs_xattr_set" alt="" coords="343,212,442,239"/>
+<area shape="rect" id="node4" href="$xfs__acl_8c.html#a5a0297bdb225d978c7258622d0777315" title="xfs_set_acl" alt="" coords="549,60,638,87"/>
+<area shape="rect" id="node5" href="$xfs__iops_8c.html#ab26e9da7afbd4a9e35cfed42da95a51e" title="xfs_generic_create" alt="" coords="727,31,859,57"/>
+<area shape="rect" id="node6" href="$xfs__iops_8c.html#a30a19f32888a9caa7d7561e15f8ee810" title="xfs_vn_mknod" alt="" coords="933,56,1039,83"/>
+<area shape="rect" id="node9" href="$xfs__iops_8c.html#aedf85745b72c8abe1af3544109eb78da" title="xfs_vn_tmpfile" alt="" coords="933,5,1039,32"/>
+<area shape="rect" id="node7" href="$xfs__iops_8c.html#a8834f3c367781576f03894371282254c" title="xfs_vn_create" alt="" coords="1107,31,1211,57"/>
+<area shape="rect" id="node8" href="$xfs__iops_8c.html#a28ca6512584d7c71c6238ad684c49374" title="xfs_vn_mkdir" alt="" coords="1109,81,1209,108"/>
+<area shape="rect" id="node11" href="$xfs__ioctl_8c.html#a48c85463aad2d37212ef5f491321cbe6" title="xfs_attrmulti_by_handle" alt="" coords="513,216,673,243"/>
+<area shape="rect" id="node14" href="$xfs__ioctl32_8c.html#a7fa68851eda624ea6a0548a48c68ec47" title="xfs_compat_attrmulti\l_by_handle" alt="" coords="721,154,865,195"/>
+<area shape="rect" id="node12" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="746,220,841,247"/>
+<area shape="rect" id="node13" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="913,191,1059,217"/>
+<area shape="rect" id="node16" href="$xfs__iops_8c.html#ad8cf1da11f6632e1f2501d8ac1d2967f" title="xfs_init_security" alt="" coords="535,111,652,137"/>
+<area shape="rect" id="node17" href="$xfs__iops_8c.html#a9c637ad2828e899317fbcc12cf09b9be" title="xfs_vn_symlink" alt="" coords="737,103,850,129"/>
+</map>

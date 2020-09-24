@@ -1,0 +1,7 @@
+<map id="xfs_qm_dqdetach" name="xfs_qm_dqdetach">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a0bfb10991a4491c4e46355f825a090d4" title="xfs_is_quota_inode" alt="" coords="179,5,313,32"/>
+<area shape="rect" id="node3" href="$xfs__dquot_8c.html#a3cadf727700110cd1111afbfe82766aa" title="xfs_qm_dqrele" alt="" coords="193,56,299,83"/>
+<area shape="rect" id="node4" href="$xfs__dquot_8h.html#a90a9ccef1290f3555a1636a368574749" title="xfs_dqlock" alt="" coords="371,31,456,57"/>
+<area shape="rect" id="node5" href="$xfs__dquot_8c.html#a00b082cffd5e73a189843470b34dff5c" title="xfs_qm_dqput" alt="" coords="361,81,465,108"/>
+<area shape="rect" id="node6" href="$xfs__dquot_8h.html#a8ef2de25551d3a39d0a400e6e32cdc7e" title="xfs_dqunlock" alt="" coords="513,81,612,108"/>
+</map>

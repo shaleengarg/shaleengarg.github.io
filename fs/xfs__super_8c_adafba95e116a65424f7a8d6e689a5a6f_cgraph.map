@@ -1,0 +1,13 @@
+<map id="xfs_setup_devices" name="xfs_setup_devices">
+<area shape="rect" id="node2" href="$xfs__buf_8c.html#a0160dd2720ef021c8013ee1b1b32e411" title="xfs_setsize_buftarg" alt="" coords="203,56,339,83"/>
+<area shape="rect" id="node12" href="$xfs__format_8h.html#a9e881a05f032669e6236a526e6f5fabc" title="xfs_sb_version_hassector" alt="" coords="184,107,359,133"/>
+<area shape="rect" id="node3" href="$block__dev_8c.html#ad0a52f9e85426c68b7dd84acfd029875" title="set_blocksize" alt="" coords="407,56,509,83"/>
+<area shape="rect" id="node4" href="$block__dev_8c.html#aea79c1fb6c378e42eaadb870332355a5" title="sync_blockdev" alt="" coords="557,5,667,32"/>
+<area shape="rect" id="node6" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="715,56,853,83"/>
+<area shape="rect" id="node7" href="$block__dev_8c.html#a429653607dbd7a1ed6e720416401a0b0" title="kill_bdev" alt="" coords="575,107,649,133"/>
+<area shape="rect" id="node5" href="$block__dev_8c.html#a3501e35ce465fe5f254e1f0420eef385" title="__sync_blockdev" alt="" coords="723,5,845,32"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#af8b15597acd224dfa04357309707cfd4" title="invalidate_bh_lrus" alt="" coords="721,107,847,133"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a58f08838fd5b5a280918cfa9551bc921" title="has_bh_in_lru" alt="" coords="936,56,1039,83"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#ae42cb501946e9788971fc7a5011deac2" title="invalidate_bh_lru" alt="" coords="928,107,1047,133"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="901,157,1073,184"/>
+</map>

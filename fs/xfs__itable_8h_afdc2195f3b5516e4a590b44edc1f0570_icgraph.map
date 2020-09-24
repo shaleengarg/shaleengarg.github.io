@@ -1,0 +1,8 @@
+<map id="xfs_bulkstat_one_int" name="xfs_bulkstat_one_int">
+<area shape="rect" id="node2" href="$xfs__ioctl32_8c.html#a6feded3e6a81268b3cf45d0cb5bf30f8" title="xfs_bulkstat_one_compat" alt="" coords="196,5,367,32"/>
+<area shape="rect" id="node5" href="$xfs__itable_8h.html#a96ab83aa2f5022205af211e5125a8d08" title="xfs_bulkstat_one" alt="" coords="221,56,342,83"/>
+<area shape="rect" id="node3" href="$xfs__ioctl32_8c.html#af9dba26e43154e91924bc3084ca74702" title="xfs_compat_ioc_bulkstat" alt="" coords="580,5,747,32"/>
+<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="795,31,940,57"/>
+<area shape="rect" id="node6" href="$xfs__ioctl_8c.html#a7e4d5fcd97edcd68c0d29bbe50b07a8d" title="xfs_ioc_bulkstat" alt="" coords="415,56,532,83"/>
+<area shape="rect" id="node7" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="616,56,711,83"/>
+</map>

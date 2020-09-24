@@ -1,0 +1,5 @@
+<map id="xfs_qm_qoff_logitem_format" name="xfs_qm_qoff_logitem_format">
+<area shape="rect" id="node2" href="$xfs__dquot__item_8c.html#a108277d9705da0235b9829b4c61fa56f" title="QOFF_ITEM" alt="" coords="215,5,312,32"/>
+<area shape="rect" id="node3" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="196,56,331,83"/>
+<area shape="rect" id="node4" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="202,107,325,133"/>
+</map>

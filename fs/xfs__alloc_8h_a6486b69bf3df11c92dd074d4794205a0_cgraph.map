@@ -1,0 +1,6 @@
+<map id="xfs_prealloc_blocks" name="xfs_prealloc_blocks">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="191,5,364,32"/>
+<area shape="rect" id="node3" href="$xfs__alloc_8c.html#ad5d3289f476253503670f4073c4fbb76" title="xfs_refc_block" alt="" coords="224,107,331,133"/>
+<area shape="rect" id="node4" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="412,81,591,108"/>
+<area shape="rect" id="node5" href="$xfs__format_8h.html#a47b5db4f9dcd7c970d192bd7973ec2af" title="xfs_sb_version_hasfinobt" alt="" coords="416,144,587,171"/>
+</map>

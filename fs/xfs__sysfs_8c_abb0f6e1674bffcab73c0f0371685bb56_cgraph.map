@@ -1,0 +1,6 @@
+<map id="stats_show" name="stats_show">
+<area shape="rect" id="node2" href="$xfs__sysfs_8c.html#aa52d6af75c3eb38dc49a211b228e7b1b" title="to_xstats" alt="" coords="165,5,241,32"/>
+<area shape="rect" id="node4" href="$xfs__stats_8c.html#ad089331be465aeaa1b9d104e177130c5" title="xfs_stats_format" alt="" coords="143,56,263,83"/>
+<area shape="rect" id="node3" href="$xfs__sysfs_8h.html#a53a10478c73d578f96f05fd27e663839" title="to_kobj" alt="" coords="323,5,387,32"/>
+<area shape="rect" id="node5" href="$xfs__stats_8c.html#a3ce27a0e083f73342a4c2f536ff1e0d8" title="counter_val" alt="" coords="311,56,400,83"/>
+</map>

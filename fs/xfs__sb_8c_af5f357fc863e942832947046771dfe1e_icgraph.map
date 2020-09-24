@@ -1,0 +1,6 @@
+<map id="xfs_mount_validate_sb" name="xfs_mount_validate_sb">
+<area shape="rect" id="node2" href="$xfs__sb_8c.html#ac8c86b5890952a946cd2004a4fb2d7da" title="xfs_sb_verify" alt="" coords="209,31,309,57"/>
+<area shape="rect" id="node3" href="$xfs__sb_8c.html#a52a887d442c83f59e0f09a5fa854b914" title="xfs_sb_read_verify" alt="" coords="359,5,491,32"/>
+<area shape="rect" id="node5" href="$xfs__sb_8c.html#a80a499a8838c2662482b863ec94a0410" title="xfs_sb_write_verify" alt="" coords="357,56,492,83"/>
+<area shape="rect" id="node4" href="$xfs__sb_8c.html#a7d5de26d64828fa0c18a936783785485" title="xfs_sb_quiet_read_verify" alt="" coords="540,5,707,32"/>
+</map>

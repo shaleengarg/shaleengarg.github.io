@@ -1,0 +1,10 @@
+<map id="xfs_trans_unreserve_and_mod_sb" name="xfs_trans_unreserve_and_mod_sb">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#ab54f629698f95c2f833b7f878a0fac29" title="xfs_sb_version_haslazysbcount" alt="" coords="193,5,401,32"/>
+<area shape="rect" id="node4" href="$xfs__mount_8c.html#ac19fadd06cee33909de2577b5add0da0" title="xfs_mod_fdblocks" alt="" coords="233,56,361,83"/>
+<area shape="rect" id="node5" href="$xfs__mount_8c.html#a60bcb024b162d9e6c848dc66a23d4c5c" title="xfs_mod_icount" alt="" coords="240,107,355,133"/>
+<area shape="rect" id="node6" href="$xfs__mount_8c.html#aad947003cca303a32716e2194154c422" title="xfs_mod_ifree" alt="" coords="245,157,349,184"/>
+<area shape="rect" id="node7" href="$xfs__trans_8c.html#a333661ba0c3978772425020ee5cbdfe0" title="xfs_sb_mod64" alt="" coords="244,208,351,235"/>
+<area shape="rect" id="node8" href="$xfs__trans_8c.html#a7cdcbf0b796076b25358b537adf733eb" title="xfs_sb_mod32" alt="" coords="244,259,351,285"/>
+<area shape="rect" id="node9" href="$xfs__trans_8c.html#a12cb7b4961f66386c8f46ac8ad7ac129" title="xfs_sb_mod8" alt="" coords="247,309,347,336"/>
+<area shape="rect" id="node3" href="$xfs__format_8h.html#a7e23323ec0e631b683e2d7461748d07f" title="xfs_sb_version_hasmorebits" alt="" coords="449,5,637,32"/>
+</map>

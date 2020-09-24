@@ -1,0 +1,6 @@
+<map id="xfs_getfsmap_dev_compare" name="xfs_getfsmap_dev_compare">
+<area shape="rect" id="node2" href="$xfs__fsmap_8h.html#a75363577bfb72bee79864a4c68f36946" title="xfs_getfsmap" alt="" coords="240,5,341,32"/>
+<area shape="rect" id="node3" href="$xfs__ioctl_8c.html#ae110dda109d0ab0e3d04d10e44971bab" title="xfs_ioc_getfsmap" alt="" coords="389,5,515,32"/>
+<area shape="rect" id="node4" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="563,5,657,32"/>
+<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="705,5,851,32"/>
+</map>

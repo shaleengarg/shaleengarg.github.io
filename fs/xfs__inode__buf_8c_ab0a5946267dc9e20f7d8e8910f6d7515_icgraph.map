@@ -1,0 +1,6 @@
+<map id="xfs_dinode_good_version" name="xfs_dinode_good_version">
+<area shape="rect" id="node2" href="$xfs__inode__buf_8c.html#ad48c6d4a8d0335fc955a7817773509e0" title="xfs_inode_buf_verify" alt="" coords="223,78,365,105"/>
+<area shape="rect" id="node3" href="$xfs__inode__buf_8c.html#a2380d30f6e42f979d953fa7ce783e61a" title="xfs_inode_buf_read\l_verify" alt="" coords="431,5,566,47"/>
+<area shape="rect" id="node4" href="$xfs__inode__buf_8c.html#a87aecd7e09e76445332dba0045376385" title="xfs_inode_buf_readahead\l_verify" alt="" coords="413,71,584,112"/>
+<area shape="rect" id="node5" href="$xfs__inode__buf_8c.html#abaf621f7d48494af07e2993431544a8e" title="xfs_inode_buf_write\l_verify" alt="" coords="429,136,568,177"/>
+</map>

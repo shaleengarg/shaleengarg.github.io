@@ -1,0 +1,5 @@
+<map id="CUD_ITEM" name="CUD_ITEM">
+<area shape="rect" id="node2" href="$xfs__refcount__item_8c.html#af7ef90f58d5977540316c517d64dd29b" title="xfs_cud_item_format" alt="" coords="156,5,300,32"/>
+<area shape="rect" id="node3" href="$xfs__refcount__item_8c.html#a350460b6319da558057ac59d0d28f859" title="xfs_cud_item_unlock" alt="" coords="155,56,301,83"/>
+<area shape="rect" id="node4" href="$xfs__refcount__item_8c.html#a099cd2f356a8c92deba6e4b8abeae10e" title="xfs_cud_item_committed" alt="" coords="144,107,312,133"/>
+</map>

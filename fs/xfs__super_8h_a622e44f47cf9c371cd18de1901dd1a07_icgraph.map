@@ -1,0 +1,10 @@
+<map id="xfs_flush_inodes" name="xfs_flush_inodes">
+<area shape="rect" id="node2" href="$xfs__file_8c.html#aca1fd5d3dc58e3dbf6eefe9adfd3a16c" title="xfs_file_buffered_aio\l_write" alt="" coords="173,5,316,47"/>
+<area shape="rect" id="node4" href="$xfs__inode_8h.html#a51838307c3b183ae4ebc2da5c2b28caa" title="xfs_create" alt="" coords="203,71,286,98"/>
+<area shape="rect" id="node3" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="368,13,492,39"/>
+<area shape="rect" id="node5" href="$xfs__iops_8c.html#ab26e9da7afbd4a9e35cfed42da95a51e" title="xfs_generic_create" alt="" coords="364,71,496,98"/>
+<area shape="rect" id="node6" href="$xfs__iops_8c.html#a30a19f32888a9caa7d7561e15f8ee810" title="xfs_vn_mknod" alt="" coords="544,46,651,73"/>
+<area shape="rect" id="node9" href="$xfs__iops_8c.html#aedf85745b72c8abe1af3544109eb78da" title="xfs_vn_tmpfile" alt="" coords="544,97,651,123"/>
+<area shape="rect" id="node7" href="$xfs__iops_8c.html#a8834f3c367781576f03894371282254c" title="xfs_vn_create" alt="" coords="699,21,803,47"/>
+<area shape="rect" id="node8" href="$xfs__iops_8c.html#a28ca6512584d7c71c6238ad684c49374" title="xfs_vn_mkdir" alt="" coords="701,71,801,98"/>
+</map>

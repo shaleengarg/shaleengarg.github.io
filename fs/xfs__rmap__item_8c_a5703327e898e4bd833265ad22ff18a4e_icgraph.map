@@ -1,0 +1,5 @@
+<map id="RUD_ITEM" name="RUD_ITEM">
+<area shape="rect" id="node2" href="$xfs__rmap__item_8c.html#a84d85bff9ab7651bca45b75d92f0aa19" title="xfs_rud_item_format" alt="" coords="156,5,297,32"/>
+<area shape="rect" id="node3" href="$xfs__rmap__item_8c.html#a39d65aa46b8d0422b687d8125c3b945a" title="xfs_rud_item_unlock" alt="" coords="155,56,298,83"/>
+<area shape="rect" id="node4" href="$xfs__rmap__item_8c.html#a7b104c5da09a18491f4f2432c841497d" title="xfs_rud_item_committed" alt="" coords="144,107,309,133"/>
+</map>

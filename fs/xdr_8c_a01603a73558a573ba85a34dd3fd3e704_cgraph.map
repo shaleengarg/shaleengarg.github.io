@@ -1,0 +1,8 @@
+<map id="nlmsvc_decode_shareargs" name="nlmsvc_decode_shareargs">
+<area shape="rect" id="node2" href="$locks_8c.html#a9803e0d3f490f560784da3766206b1e4" title="locks_init_lock" alt="" coords="245,31,353,57"/>
+<area shape="rect" id="node5" href="$xdr_8c.html#a2b3e795814592767622dc7c5ecfaab30" title="nlm_decode_cookie" alt="" coords="231,81,368,108"/>
+<area shape="rect" id="node6" href="$xdr_8c.html#abe8ba143141a996ee9c9b54ede6df032" title="nlm_decode_fh" alt="" coords="244,132,355,159"/>
+<area shape="rect" id="node7" href="$xdr_8c.html#a57d3f49661e9433334689e51a9530466" title="nlm_decode_oh" alt="" coords="243,183,356,209"/>
+<area shape="rect" id="node3" href="$locks_8c.html#aaf0eec7769579a2fbc1ddd9804470873" title="locks_init_lock_heads" alt="" coords="416,5,567,32"/>
+<area shape="rect" id="node4" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="422,56,561,83"/>
+</map>

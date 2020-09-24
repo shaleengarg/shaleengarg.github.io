@@ -1,0 +1,6 @@
+<map id="EFI_ITEM" name="EFI_ITEM">
+<area shape="rect" id="node2" href="$xfs__extfree__item_8c.html#a24dd29fbd03ce9fc4dcba2b0b74f15c2" title="xfs_efi_item_size" alt="" coords="143,5,267,32"/>
+<area shape="rect" id="node3" href="$xfs__extfree__item_8c.html#a3ae677fbdf23f40284870fa5734ac494" title="xfs_efi_item_format" alt="" coords="137,56,274,83"/>
+<area shape="rect" id="node4" href="$xfs__extfree__item_8c.html#ae7fae7999f3521da661d2726a5816beb" title="xfs_efi_item_unpin" alt="" coords="140,107,271,133"/>
+<area shape="rect" id="node5" href="$xfs__extfree__item_8c.html#ae7c2f7fe7f1a449d07d6654e2b9dbcc7" title="xfs_efi_item_unlock" alt="" coords="136,157,275,184"/>
+</map>

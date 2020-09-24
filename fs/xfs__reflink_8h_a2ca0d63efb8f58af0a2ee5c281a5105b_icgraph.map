@@ -1,0 +1,20 @@
+<map id="xfs_reflink_find_shared" name="xfs_reflink_find_shared">
+<area shape="rect" id="node2" href="$xfs__reflink_8h.html#a55bcde20c85320ad2eaf44bb2195e43d" title="xfs_reflink_trim_around\l_shared" alt="" coords="213,129,370,170"/>
+<area shape="rect" id="node12" href="$xfs__reflink_8c.html#a83a967c11172ce0733116bc950cdb2e4" title="xfs_reflink_dirty_extents" alt="" coords="209,275,373,301"/>
+<area shape="rect" id="node15" href="$xfs__reflink_8h.html#aeb8699c30a7e4464aa4ce1665fa394c5" title="xfs_reflink_inode_has\l_shared_extents" alt="" coords="217,326,365,367"/>
+<area shape="rect" id="node3" href="$xfs__bmap__util_8c.html#aee4cd82b5c494d3118e084104edbbe9b" title="xfs_getbmap_report_one" alt="" coords="430,5,595,32"/>
+<area shape="rect" id="node8" href="$xfs__iomap_8c.html#aa4d046156b045026b28cd38b5544caf3" title="xfs_file_iomap_begin" alt="" coords="865,136,1009,163"/>
+<area shape="rect" id="node9" href="$xfs__reflink_8h.html#aec0fd9215d489d1beac5ce6677e22ebb" title="xfs_reflink_reserve_cow" alt="" coords="431,136,594,163"/>
+<area shape="rect" id="node11" href="$xfs__reflink_8h.html#a869e810e7a1f4b44761f383aa025b65a" title="xfs_reflink_allocate_cow" alt="" coords="652,224,817,251"/>
+<area shape="rect" id="node4" href="$xfs__bmap__util_8h.html#a05b9e726a87c73c705a85d495feb0808" title="xfs_getbmap" alt="" coords="686,5,783,32"/>
+<area shape="rect" id="node5" href="$xfs__ioctl_8c.html#ae243378d1751115c80ddd57556e133a0" title="xfs_ioc_getbmap" alt="" coords="877,5,998,32"/>
+<area shape="rect" id="node6" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="1070,5,1165,32"/>
+<area shape="rect" id="node7" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="1225,5,1371,32"/>
+<area shape="rect" id="node10" href="$xfs__iomap_8c.html#a4b911c2f6a5748bdade6d3fcf6980e80" title="xfs_file_iomap_begin\l_delay" alt="" coords="663,158,807,199"/>
+<area shape="rect" id="node13" href="$xfs__reflink_8h.html#a0e8c219f70d8f2f215dafd39e4bc03f8" title="xfs_reflink_unshare" alt="" coords="870,333,1005,360"/>
+<area shape="rect" id="node14" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="1057,333,1177,360"/>
+<area shape="rect" id="node16" href="$xfs_2scrub_2inode_8c.html#ad2d180d4f9d2c9c225f413065ebd7b0f" title="xfs_scrub_inode_check\l_reflink_iflag" alt="" coords="433,326,592,367"/>
+<area shape="rect" id="node18" href="$xfs__reflink_8h.html#a980f423f38fd0457dcf14af2315de3f2" title="xfs_reflink_clear_inode_flag" alt="" coords="421,392,604,419"/>
+<area shape="rect" id="node17" href="$scrub_8h.html#a1c2e558e23846e8c4c329d1acfef11cf" title="xfs_scrub_inode" alt="" coords="676,333,793,360"/>
+<area shape="rect" id="node19" href="$xfs__reflink_8c.html#a20b1eefffe96b23163c57ea5d64eb295" title="xfs_reflink_try_clear\l_inode_flag" alt="" coords="665,385,804,426"/>
+</map>

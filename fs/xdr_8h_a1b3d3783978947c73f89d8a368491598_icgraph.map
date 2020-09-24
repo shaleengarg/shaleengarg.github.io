@@ -1,0 +1,5 @@
+<map id="nfs2svc_encode_fattr" name="nfs2svc_encode_fattr">
+<area shape="rect" id="node2" href="$nfs2acl_8c.html#a6d6faac9abfc20783b23a334029b58d2" title="nfsaclsvc_encode_getaclres" alt="" coords="204,5,391,32"/>
+<area shape="rect" id="node3" href="$nfs2acl_8c.html#ab78fb06e658fb8a14b42bc3fa60b9b22" title="nfsaclsvc_encode_attrstatres" alt="" coords="201,56,394,83"/>
+<area shape="rect" id="node4" href="$nfs2acl_8c.html#a0bfe202ccc73308ebd4ee8bd4278aadc" title="nfsaclsvc_encode_accessres" alt="" coords="200,107,395,133"/>
+</map>

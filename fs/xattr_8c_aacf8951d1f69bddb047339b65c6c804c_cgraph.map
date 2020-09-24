@@ -1,0 +1,36 @@
+<map id="vfs_setxattr" name="vfs_setxattr">
+<area shape="rect" id="node2" href="$xattr_8c.html#a3ab348ea0727ce23567782b20b2927db" title="xattr_permission" alt="" coords="171,179,289,206"/>
+<area shape="rect" id="node28" href="$xattr_8c.html#acb82cd6eb333a8177e5d16f85770e9bd" title="__vfs_setxattr_noperm" alt="" coords="153,281,307,307"/>
+<area shape="rect" id="node35" href="$xattr_8c.html#a7ea37e9438fe75d2748df13964b813dd" title="EXPORT_SYMBOL_GPL" alt="" coords="144,331,316,358"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a2359f9f4ea541a79ff23035a6c89cb03" title="inode_owner_or_capable" alt="" coords="364,103,529,130"/>
+<area shape="rect" id="node5" href="$namei_8c.html#a62cb14cabd13a7720eccf273235df9cb" title="inode_permission" alt="" coords="385,179,508,206"/>
+<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="580,78,719,105"/>
+<area shape="rect" id="node6" href="$namei_8c.html#ac29bcd8ad12e1d5c61d3f071c9d49c0d" title="sb_permission" alt="" coords="596,129,703,155"/>
+<area shape="rect" id="node7" href="$namei_8c.html#a4c3f3a91fb708d6b8db89cb6ad2d0379" title="do_inode_permission" alt="" coords="577,179,721,206"/>
+<area shape="rect" id="node27" href="$namei_8c.html#ab6c058e9d297eedc75d075f53d48d3f5" title="EXPORT_SYMBOL" alt="" coords="958,230,1097,257"/>
+<area shape="rect" id="node8" href="$namei_8c.html#ae57549825e5eb34b1bba92e43be8e134" title="generic_permission" alt="" coords="769,179,904,206"/>
+<area shape="rect" id="node9" href="$namei_8c.html#ae6eb6a3ad3e05a2c2444d5b2ad2eb8cf" title="acl_permission_check" alt="" coords="952,179,1103,206"/>
+<area shape="rect" id="node10" href="$namei_8c.html#a0e3070321ebe023d7e7c8194459de1d2" title="check_acl" alt="" coords="1151,179,1232,206"/>
+<area shape="rect" id="node11" href="$posix__acl_8c.html#a25f369941ce04d3765fc9c183de811f8" title="get_cached_acl_rcu" alt="" coords="1475,179,1613,206"/>
+<area shape="rect" id="node14" href="$posix__acl_8c.html#a6c5e07411d4b6acf5e2cb9dbb77a419c" title="posix_acl_permission" alt="" coords="1280,230,1427,257"/>
+<area shape="rect" id="node24" href="$posix__acl_8c.html#ae6fdde74f923e2040451ca45b32e9a90" title="get_acl" alt="" coords="1321,78,1385,105"/>
+<area shape="rect" id="node12" href="$posix__acl_8c.html#a927d4fbd2c4d6e779ac2b6116364115e" title="acl_by_type" alt="" coords="1699,97,1791,123"/>
+<area shape="rect" id="node13" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="1675,34,1814,61"/>
+<area shape="rect" id="node15" href="$configfs_2file_8c.html#a1b41a6b92e65014d7eea8eae37be9556" title="check_perm" alt="" coords="1497,230,1591,257"/>
+<area shape="rect" id="node16" href="$configfs__internal_8h.html#a9f9b20a516d6f430d8c7b1d4ed260cb2" title="configfs_get_config_item" alt="" coords="1661,274,1828,301"/>
+<area shape="rect" id="node19" href="$configfs__internal_8h.html#a94334744f7750a8b13e74ac70b042c8b" title="to_attr" alt="" coords="1916,198,1975,225"/>
+<area shape="rect" id="node20" href="$configfs__internal_8h.html#ac4f07567de12f83598600a39d78b580e" title="to_bin_attr" alt="" coords="1703,223,1786,250"/>
+<area shape="rect" id="node21" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="1687,343,1802,370"/>
+<area shape="rect" id="node17" href="$item_8c.html#a2fe4c03cd5fb7c4aa54724629e3f8811" title="config_item_get" alt="" coords="1888,261,2003,287"/>
+<area shape="rect" id="node18" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="2064,299,2203,326"/>
+<area shape="rect" id="node22" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="1876,413,2015,439"/>
+<area shape="rect" id="node23" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="2063,375,2204,402"/>
+<area shape="rect" id="node25" href="$posix__acl_8c.html#a6ec21ae9e17bf36ad3ecae1415316000" title="get_cached_acl" alt="" coords="1487,27,1601,54"/>
+<area shape="rect" id="node26" href="$posix__acl_8c.html#ae2b78748fb46980065a144fc6032a1b8" title="set_cached_acl" alt="" coords="1487,78,1601,105"/>
+<area shape="rect" id="node29" href="$xattr_8c.html#a55ad17598a3f01cbfdc3e2205c4ddf61" title="__vfs_setxattr" alt="" coords="394,331,499,358"/>
+<area shape="rect" id="node31" href="$bad__inode_8c.html#a7db3c62ffb9390ef7191a63e19073333" title="is_bad_inode" alt="" coords="787,306,886,333"/>
+<area shape="rect" id="node30" href="$xattr_8c.html#a2493c428b6ebfafab005c15b05d82d1c" title="xattr_resolve_name" alt="" coords="581,382,717,409"/>
+<area shape="rect" id="node34" href="$xattr_8c.html#a57b6079645d9335c929506d64d398859" title="EXPORT_SYMBOL" alt="" coords="580,331,719,358"/>
+<area shape="rect" id="node33" href="$xattr_8c.html#a982179d3df182fe48e35c17858bd7812" title="strcmp_prefix" alt="" coords="786,382,887,409"/>
+<area shape="rect" id="node32" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="958,306,1097,333"/>
+</map>

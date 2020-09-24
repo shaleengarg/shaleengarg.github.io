@@ -1,0 +1,7 @@
+<map id="xfs_finish_flags" name="xfs_finish_flags">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a6ec595856e8e246158615c182ecd0746" title="xfs_sb_version_haslogv2" alt="" coords="167,5,336,32"/>
+<area shape="rect" id="node3" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="173,56,329,83"/>
+<area shape="rect" id="node4" href="$xfs__format_8h.html#a12e183530cd16675b21b17add4f3ea7c" title="xfs_sb_version_hasattr2" alt="" coords="169,107,333,133"/>
+<area shape="rect" id="node6" href="$xfs__format_8h.html#af8def6250b04fcac883700315577d06f" title="xfs_sb_version_has\l_pquotino" alt="" coords="182,158,321,199"/>
+<area shape="rect" id="node5" href="$xfs__format_8h.html#a7e23323ec0e631b683e2d7461748d07f" title="xfs_sb_version_hasmorebits" alt="" coords="384,107,572,133"/>
+</map>

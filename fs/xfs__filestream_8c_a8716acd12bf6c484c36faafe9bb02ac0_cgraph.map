@@ -1,0 +1,6 @@
+<map id="xfs_fstrm_free_func" name="xfs_fstrm_free_func">
+<area shape="rect" id="node2" href="$xfs__filestream_8c.html#ae049056cb3abdb6a877f0bceb85beb68" title="xfs_filestream_put_ag" alt="" coords="192,31,343,57"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="224,81,311,108"/>
+<area shape="rect" id="node3" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="391,5,495,32"/>
+<area shape="rect" id="node4" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="391,56,495,83"/>
+</map>

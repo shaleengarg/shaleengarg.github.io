@@ -1,0 +1,10 @@
+<map id="xfs_attr_fork_remove" name="xfs_attr_fork_remove">
+<area shape="rect" id="node2" href="$xfs__inode__fork_8c.html#a2e31b4e54c49a67b17690c47c293203a" title="xfs_idestroy_fork" alt="" coords="207,59,329,86"/>
+<area shape="rect" id="node7" href="$xfs__trans_8h.html#a5e9f329781abedd5073623d6c9e71687" title="xfs_trans_log_inode" alt="" coords="199,135,337,162"/>
+<area shape="rect" id="node3" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="757,9,844,35"/>
+<area shape="rect" id="node4" href="$xfs__iext__tree_8c.html#a0a915c8ac5ad061340248a9bd8495025" title="xfs_iext_destroy" alt="" coords="387,34,506,61"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b" title="kmem_zone_free" alt="" coords="385,85,508,111"/>
+<area shape="rect" id="node5" href="$xfs__iext__tree_8c.html#a7fe019b03d8b2ad6ce62a6f30362e21e" title="xfs_iext_destroy_node" alt="" coords="556,34,709,61"/>
+<area shape="rect" id="node8" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="417,135,476,162"/>
+<area shape="rect" id="node9" href="$xfs__inode_8h.html#aedaa832cc1400d56df37c13d30163c98" title="xfs_isilocked" alt="" coords="397,186,496,213"/>
+</map>

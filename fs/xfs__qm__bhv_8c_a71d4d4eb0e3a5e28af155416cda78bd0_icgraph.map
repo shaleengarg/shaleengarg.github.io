@@ -1,0 +1,5 @@
+<map id="xfs_fill_statvfs_from_dquot" name="xfs_fill_statvfs_from_dquot">
+<area shape="rect" id="node2" href="$xfs__qm__bhv_8c.html#a35a4ad2f91f15eef3719259720c0c93a" title="xfs_qm_statvfs" alt="" coords="193,13,305,39"/>
+<area shape="rect" id="node3" href="$xfs__super_8c.html#aae291d976093b31593372915fce888b9" title="xfs_fs_statfs" alt="" coords="353,13,452,39"/>
+<area shape="rect" id="node4" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="500,5,636,47"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="xfs_setup_existing_inode" name="xfs_setup_existing_inode">
+<area shape="rect" id="node2" href="$xfs__inode_8h.html#a3e6d12c2ef9ebe935e9dd87d0b1821cf" title="xfs_setup_inode" alt="" coords="203,107,320,133"/>
+<area shape="rect" id="node9" href="$xfs__inode_8h.html#aca972f2ffa6f2b8de2197c84ffedc9ba" title="xfs_setup_iops" alt="" coords="206,245,317,272"/>
+<area shape="rect" id="node13" href="$xfs__inode_8h.html#aa59da6c606d952bca0a48343a94f6ac5" title="xfs_finish_inode_setup" alt="" coords="184,321,339,348"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="411,5,537,32"/>
+<area shape="rect" id="node5" href="$xfs__linux_8h.html#a19689e6ac48d9d63ee0ebc8536d04e01" title="xfs_uid_to_kuid" alt="" coords="417,56,531,83"/>
+<area shape="rect" id="node6" href="$xfs__linux_8h.html#a7fe766c8cf2066e3a27960783a373377" title="xfs_gid_to_kgid" alt="" coords="417,107,531,133"/>
+<area shape="rect" id="node7" href="$xfs__iops_8c.html#aba1bea0ecb2a44d0ad41508d02b77228" title="xfs_diflags_to_iflags" alt="" coords="403,157,545,184"/>
+<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="609,5,781,32"/>
+<area shape="rect" id="node8" href="$xfs__inode_8h.html#a48b5745ca5e1cc018d395c5b815266d4" title="xfs_is_reflink_inode" alt="" coords="627,157,764,184"/>
+<area shape="rect" id="node10" href="$xfs__format_8h.html#a0d94440a4902f1a29dec292be63e9c16" title="xfs_sb_version_hasasciici" alt="" coords="387,208,561,235"/>
+<area shape="rect" id="node11" href="$inode_8c.html#aa992afd465d948c7fca769d396933c98" title="init_special_inode" alt="" coords="411,259,537,285"/>
+<area shape="rect" id="node12" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="626,309,765,336"/>
+<area shape="rect" id="node14" href="$xfs__inode_8h.html#aa7c1be3b4c37574f68ddd1516b9a3622" title="xfs_iflags_clear" alt="" coords="417,309,531,336"/>
+<area shape="rect" id="node15" href="$inode_8c.html#a9282b7bd35d1e54dbe441c57da2400fc" title="unlock_new_inode" alt="" coords="409,360,539,387"/>
+<area shape="rect" id="node16" href="$xfs__inode_8h.html#aa092d32c2a8d6975d7caa50439b94850" title="VFS_I" alt="" coords="445,411,503,437"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="xfs_buf_item_free" name="xfs_buf_item_free">
+<area shape="rect" id="node2" href="$xfs__buf__item_8c.html#af7e5013c23cf1b053a01edba7da3678d" title="xfs_buf_item_free_format" alt="" coords="180,5,351,32"/>
+<area shape="rect" id="node3" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="399,31,485,57"/>
+<area shape="rect" id="node4" href="$kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b" title="kmem_zone_free" alt="" coords="204,107,327,133"/>
+</map>

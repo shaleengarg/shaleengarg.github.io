@@ -1,0 +1,11 @@
+<map id="xlog_ungrant_log_space" name="xlog_ungrant_log_space">
+<area shape="rect" id="node2" href="$xfs__log_8c.html#ab3f8e452a61ce4688572c0442d42bf1b" title="xlog_grant_sub_space" alt="" coords="216,31,368,57"/>
+<area shape="rect" id="node5" href="$xfs__log_8c.html#a6ab2fe57bd95590a52d6401f1e6f061d" title="xfs_log_space_wake" alt="" coords="220,81,364,108"/>
+<area shape="rect" id="node3" href="$xfs__log__priv_8h.html#a03f5a362f2f4cc1ff577afdf18682862" title="xlog_crack_grant_head_val" alt="" coords="855,5,1035,32"/>
+<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#ae53ea1ed8af8d8586fb47fe5545099f9" title="xlog_assign_grant_head_val" alt="" coords="416,31,603,57"/>
+<area shape="rect" id="node6" href="$xfs__log_8c.html#a0e548dd4e3559f6c9715f20c8b13f307" title="xlog_space_left" alt="" coords="453,81,566,108"/>
+<area shape="rect" id="node9" href="$xfs__log_8c.html#ad677614ea2128f6cd8db68dfec0dcf03" title="xlog_grant_head_wake" alt="" coords="432,132,587,159"/>
+<area shape="rect" id="node7" href="$xfs__log__priv_8h.html#a5cfe1f688040f45b3444d6437633d378" title="xlog_crack_grant_head" alt="" coords="651,31,807,57"/>
+<area shape="rect" id="node8" href="$xfs__log__priv_8h.html#a4490ca2ab1a34ab3868a52a90d09a7b3" title="xlog_crack_atomic_lsn" alt="" coords="651,81,806,108"/>
+<area shape="rect" id="node10" href="$xfs__log_8c.html#a24cb030ffcb27f95737daabe7316d8d8" title="xlog_ticket_reservation" alt="" coords="651,132,807,159"/>
+</map>

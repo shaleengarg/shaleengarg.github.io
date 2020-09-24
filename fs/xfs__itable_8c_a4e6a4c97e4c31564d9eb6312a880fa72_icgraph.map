@@ -1,0 +1,6 @@
+<map id="xfs_bulkstat_one_fmt" name="xfs_bulkstat_one_fmt">
+<area shape="rect" id="node2" href="$xfs__itable_8h.html#a96ab83aa2f5022205af211e5125a8d08" title="xfs_bulkstat_one" alt="" coords="200,5,321,32"/>
+<area shape="rect" id="node3" href="$xfs__ioctl_8c.html#a7e4d5fcd97edcd68c0d29bbe50b07a8d" title="xfs_ioc_bulkstat" alt="" coords="369,5,487,32"/>
+<area shape="rect" id="node4" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="535,5,629,32"/>
+<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="677,5,823,32"/>
+</map>

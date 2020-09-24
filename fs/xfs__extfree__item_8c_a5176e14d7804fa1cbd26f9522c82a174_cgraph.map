@@ -1,0 +1,7 @@
+<map id="xfs_efd_item_format" name="xfs_efd_item_format">
+<area shape="rect" id="node2" href="$xfs__extfree__item_8c.html#a6682665ad00eeec330235af27bb4f918" title="EFD_ITEM" alt="" coords="220,5,308,32"/>
+<area shape="rect" id="node3" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="205,56,323,83"/>
+<area shape="rect" id="node6" href="$xfs__extfree__item_8c.html#a737a4e8b831ec46770a289ae078573d3" title="xfs_efd_item_sizeof" alt="" coords="195,107,333,133"/>
+<area shape="rect" id="node4" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="381,31,516,57"/>
+<area shape="rect" id="node5" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="387,81,510,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="xfs_inode_item_size" name="xfs_inode_item_size">
+<area shape="rect" id="node2" href="$xfs__inode__item_8c.html#acce610cc62768d30a26093741775da50" title="INODE_ITEM" alt="" coords="214,5,318,32"/>
+<area shape="rect" id="node3" href="$xfs__inode__item_8c.html#a66446108f118c9e3465ee3a237bd4060" title="xfs_inode_item_data\l_fork_size" alt="" coords="195,57,337,98"/>
+<area shape="rect" id="node4" href="$xfs__inode__item_8c.html#a14283679d8d4c27c317a3cff916e788a" title="xfs_inode_item_attr\l_fork_size" alt="" coords="198,122,334,163"/>
+</map>

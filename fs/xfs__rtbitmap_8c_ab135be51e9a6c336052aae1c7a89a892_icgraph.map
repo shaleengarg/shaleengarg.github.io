@@ -1,0 +1,9 @@
+<map id="xfs_rtalloc_query_range" name="xfs_rtalloc_query_range">
+<area shape="rect" id="node2" href="$xfs__rtbitmap_8c.html#a73419ffb4b02534622d27a73987a963d" title="xfs_rtalloc_query_all" alt="" coords="216,5,357,32"/>
+<area shape="rect" id="node4" href="$xfs__fsmap_8c.html#a96c0bbc798eade9272a4de1a50aad5e2" title="xfs_getfsmap_logdev" alt="" coords="213,56,360,83"/>
+<area shape="rect" id="node3" href="$rtbitmap_8c.html#a3091294602cca2a740d50b7540423c22" title="xfs_scrub_rtbitmap" alt="" coords="408,5,541,32"/>
+<area shape="rect" id="node5" href="$xfs__fsmap_8h.html#a75363577bfb72bee79864a4c68f36946" title="xfs_getfsmap" alt="" coords="424,56,525,83"/>
+<area shape="rect" id="node6" href="$xfs__ioctl_8c.html#ae110dda109d0ab0e3d04d10e44971bab" title="xfs_ioc_getfsmap" alt="" coords="589,56,715,83"/>
+<area shape="rect" id="node7" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="763,56,857,83"/>
+<area shape="rect" id="node8" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="905,56,1051,83"/>
+</map>

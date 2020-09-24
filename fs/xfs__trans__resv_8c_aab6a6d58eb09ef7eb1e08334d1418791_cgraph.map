@@ -1,0 +1,8 @@
+<map id="xfs_calc_attrrm_reservation" name="xfs_calc_attrrm_reservation">
+<area shape="rect" id="node2" href="$xfs__trans__resv_8c.html#af82fd00235cf883efce5f94a2d2b5087" title="xfs_calc_inode_res" alt="" coords="248,5,383,32"/>
+<area shape="rect" id="node3" href="$xfs__trans__resv_8c.html#a41212bc5429d58869bb004c2d1f39c2f" title="xfs_calc_buf_res" alt="" coords="255,56,376,83"/>
+<area shape="rect" id="node5" href="$xfs__trans__resv_8c.html#a0541beece6a80a12768ff0ab85f78b6d" title="xfs_allocfree_log_count" alt="" coords="236,107,395,133"/>
+<area shape="rect" id="node4" href="$xfs__trans__resv_8c.html#a732d9a55149298762b7c4498090fc1de" title="xfs_buf_log_overhead" alt="" coords="457,56,607,83"/>
+<area shape="rect" id="node6" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="443,107,621,133"/>
+<area shape="rect" id="node7" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="445,157,619,184"/>
+</map>

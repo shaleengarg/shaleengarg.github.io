@@ -1,0 +1,5 @@
+<map id="xfs_bmbt_init_rec_from_cur" name="xfs_bmbt_init_rec_from_cur">
+<area shape="rect" id="node2" href="$xfs__bmap__btree_8c.html#a805edd36abd7dbbb14a81f21af255b72" title="xfs_bmbt_disk_set_all" alt="" coords="236,31,388,57"/>
+<area shape="rect" id="node3" href="$xfs__bit_8h.html#ab519fe38732afaf1e4d7a6fdb43a3a8b" title="xfs_mask64hi" alt="" coords="436,5,539,32"/>
+<area shape="rect" id="node4" href="$xfs__bit_8h.html#af7245d88965beb07aaae3b6bce22116b" title="xfs_mask64lo" alt="" coords="436,56,539,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="xlog_state_done_syncing" name="xlog_state_done_syncing">
+<area shape="rect" id="node2" href="$xfs__log_8c.html#aac29ffce8b2963b4b1938d6e6676f5e2" title="xlog_state_do_callback" alt="" coords="223,31,381,57"/>
+<area shape="rect" id="node3" href="$xfs__log_8c.html#a3de73f1570a922dc26964a2dd1acbb27" title="xlog_get_lowest_lsn" alt="" coords="431,5,571,32"/>
+<area shape="rect" id="node4" href="$xfs__log_8c.html#a2e532677b9b53db471edcada4a32225e" title="xlog_state_clean_log" alt="" coords="429,56,573,83"/>
+</map>

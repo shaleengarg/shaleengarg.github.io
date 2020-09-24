@@ -1,0 +1,28 @@
+<map id="xfs/libxfs/xfs_inode_fork.c" name="xfs/libxfs/xfs_inode_fork.c">
+<area shape="rect" id="node3" href="$xfs_8h.html" title="xfs.h" alt="" coords="1320,95,1371,121"/>
+<area shape="rect" id="node28" href="$xfs__fs_8h.html" title="xfs_fs.h" alt="" coords="2775,244,2844,271"/>
+<area shape="rect" id="node29" href="$xfs__format_8h.html" title="xfs_format.h" alt="" coords="1455,95,1550,121"/>
+<area shape="rect" id="node30" href="$xfs__log__format_8h.html" title="xfs_log_format.h" alt="" coords="1574,95,1693,121"/>
+<area shape="rect" id="node31" href="$xfs__trans__resv_8h.html" title="xfs_trans_resv.h" alt="" coords="1717,95,1835,121"/>
+<area shape="rect" id="node32" href="$xfs__mount_8h.html" title="xfs_mount.h" alt="" coords="1859,95,1954,121"/>
+<area shape="rect" id="node33" href="$xfs__inode_8h.html" title="xfs_inode.h" alt="" coords="1978,95,2067,121"/>
+<area shape="rect" id="node36" href="$xfs__trans_8h.html" title="xfs_trans.h" alt="" coords="2091,95,2178,121"/>
+<area shape="rect" id="node37" href="$xfs__inode__item_8h.html" title="xfs_inode_item.h" alt="" coords="2202,95,2323,121"/>
+<area shape="rect" id="node38" href="$xfs__btree_8h.html" title="xfs_btree.h" alt="" coords="2347,95,2434,121"/>
+<area shape="rect" id="node39" href="$xfs__bmap__btree_8h.html" title="xfs_bmap_btree.h" alt="" coords="2458,95,2585,121"/>
+<area shape="rect" id="node40" href="$xfs__bmap_8h.html" title="xfs_bmap.h" alt="" coords="2609,95,2700,121"/>
+<area shape="rect" id="node41" href="$xfs__error_8h.html" title="xfs_error.h" alt="" coords="2725,95,2809,121"/>
+<area shape="rect" id="node42" href="$xfs__trace_8h.html" title="xfs_trace.h" alt="" coords="2833,95,2919,121"/>
+<area shape="rect" id="node45" href="$xfs__attr__sf_8h.html" title="xfs_attr_sf.h" alt="" coords="2943,95,3038,121"/>
+<area shape="rect" id="node46" href="$xfs__da__format_8h.html" title="xfs_da_format.h" alt="" coords="3062,95,3178,121"/>
+<area shape="rect" id="node47" href="$xfs__da__btree_8h.html" title="xfs_da_btree.h" alt="" coords="3202,95,3310,121"/>
+<area shape="rect" id="node48" href="$xfs__dir2__priv_8h.html" title="xfs_dir2_priv.h" alt="" coords="3335,95,3441,121"/>
+<area shape="rect" id="node49" href="$xfs__attr__leaf_8h.html" title="xfs_attr_leaf.h" alt="" coords="3466,95,3571,121"/>
+<area shape="rect" id="node50" href="$xfs__shared_8h.html" title="xfs_shared.h" alt="" coords="3595,95,3693,121"/>
+<area shape="rect" id="node4" href="$xfs__linux_8h.html" title="xfs_linux.h" alt="" coords="1295,169,1380,196"/>
+<area shape="rect" id="node7" href="$xfs__types_8h.html" title="xfs_types.h" alt="" coords="349,244,440,271"/>
+<area shape="rect" id="node8" href="$kmem_8h.html" title="kmem.h" alt="" coords="515,244,584,271"/>
+<area shape="rect" id="node11" href="$mrlock_8h.html" title="mrlock.h" alt="" coords="659,244,731,271"/>
+<area shape="rect" id="node34" href="$xfs__inode__buf_8h.html" title="xfs_inode_buf.h" alt="" coords="1895,169,2009,196"/>
+<area shape="rect" id="node35" href="$xfs__inode__fork_8h.html" title="xfs_inode_fork.h" alt="" coords="2034,169,2153,196"/>
+</map>

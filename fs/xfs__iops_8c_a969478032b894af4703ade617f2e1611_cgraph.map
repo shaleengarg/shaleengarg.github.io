@@ -1,0 +1,7 @@
+<map id="xfs_vn_getattr" name="xfs_vn_getattr">
+<area shape="rect" id="node2" href="$xfs__inode_8h.html#abe53bf47d7d5e603159ed1ef612027c5" title="XFS_I" alt="" coords="199,5,257,32"/>
+<area shape="rect" id="node3" href="$xfs__inode_8h.html#a13b71ab6d08984c4f0e7d371c9bbb37c" title="XFS_ISIZE" alt="" coords="183,56,273,83"/>
+<area shape="rect" id="node5" href="$xfs__inode_8c.html#a44ec9a213b64a09a891c2f303d4ce2ab" title="xfs_get_extsz_hint" alt="" coords="162,107,294,133"/>
+<area shape="rect" id="node6" href="$xfs__mount_8h.html#a1ad6954014da09bf0967538f3316112e" title="xfs_preferred_iosize" alt="" coords="159,157,297,184"/>
+<area shape="rect" id="node4" href="$xfs__inode_8h.html#aa092d32c2a8d6975d7caa50439b94850" title="VFS_I" alt="" coords="345,56,404,83"/>
+</map>

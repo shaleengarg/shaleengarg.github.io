@@ -1,0 +1,11 @@
+<map id="xfs_vm_releasepage" name="xfs_vm_releasepage">
+<area shape="rect" id="node2" href="$xfs__aops_8c.html#a265a2725d9c51e9283f7cf4e79ca3f07" title="xfs_count_page_state" alt="" coords="196,107,347,133"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#ad15f4d943c9aa17afe7f9cba94c137bf" title="try_to_free_buffers" alt="" coords="206,157,337,184"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#aef5cfcace6506707ec79c3305339e521" title="drop_buffers" alt="" coords="407,81,501,108"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="395,157,513,184"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="573,208,712,235"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ad8647f91d88c82527cb53ddc01785276" title="buffer_busy" alt="" coords="597,5,688,32"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#ad595c04f28b431cc4c8da5e29eb705db" title="__remove_assoc_queue" alt="" coords="561,56,724,83"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a92a5deda319b02af36b62aec78286103" title="__clear_page_buffers" alt="" coords="569,107,716,133"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="585,157,700,184"/>
+</map>

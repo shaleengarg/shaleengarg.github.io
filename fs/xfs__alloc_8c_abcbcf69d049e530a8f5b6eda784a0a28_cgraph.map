@@ -1,0 +1,6 @@
+<map id="xfs_agfl_verify" name="xfs_agfl_verify">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="339,5,495,32"/>
+<area shape="rect" id="node3" href="$xfs__alloc_8c.html#a2c6391698df5b1de628eef4e56ba221b" title="xfs_agfl_size" alt="" coords="176,31,275,57"/>
+<area shape="rect" id="node4" href="$xfs__log_8c.html#a85ca9841babc402bd450760079ee6f7e" title="xfs_log_check_lsn" alt="" coords="160,81,291,108"/>
+<area shape="rect" id="node5" href="$xfs__log__priv_8h.html#a25c85404b03fddb0a8083ac4243d6b3d" title="xlog_valid_lsn" alt="" coords="365,81,469,108"/>
+</map>

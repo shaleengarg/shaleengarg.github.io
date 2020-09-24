@@ -1,0 +1,6 @@
+<map id="xfs_btree_kill_root" name="xfs_btree_kill_root">
+<area shape="rect" id="node2" href="$xfs__btree_8c.html#ac612bb044f7be0a3e3905da8539343d8" title="xfs_btree_free_block" alt="" coords="181,5,324,32"/>
+<area shape="rect" id="node3" href="$xfs__trans_8h.html#ae8434bbe72ee8027386c0613f4dfad57" title="xfs_trans_binval" alt="" coords="372,5,489,32"/>
+<area shape="rect" id="node4" href="$xfs__buf_8c.html#ad41060f10396bac188b8352d03551b02" title="xfs_buf_stale" alt="" coords="537,5,637,32"/>
+<area shape="rect" id="node5" href="$xfs__buf_8c.html#a9cd5b998772f5d06d2015a1c13ace056" title="__xfs_buf_ioacct_dec" alt="" coords="685,5,835,32"/>
+</map>

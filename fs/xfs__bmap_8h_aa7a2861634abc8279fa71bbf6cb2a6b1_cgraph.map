@@ -1,0 +1,7 @@
+<map id="xfs_bmap_validate_extent" name="xfs_bmap_validate_extent">
+<area shape="rect" id="node2" href="$xfs__rtbitmap_8c.html#a82dc93e4ff83cdf30239f1b1eb584a98" title="xfs_verify_rtbno" alt="" coords="263,5,377,32"/>
+<area shape="rect" id="node3" href="$xfs__alloc_8c.html#a030343e3df157ed4bea0e887a8bbfdc4" title="xfs_verify_fsbno" alt="" coords="261,56,379,83"/>
+<area shape="rect" id="node6" href="$xfs__format_8h.html#a2f4ecf23566b1b433fd21127c62c0336" title="xfs_sb_version_hasextflgbit" alt="" coords="228,107,412,133"/>
+<area shape="rect" id="node4" href="$xfs__alloc_8c.html#a3ebbc0ba763771526309a919a18591b2" title="xfs_verify_agbno" alt="" coords="460,56,581,83"/>
+<area shape="rect" id="node5" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="629,56,768,83"/>
+</map>

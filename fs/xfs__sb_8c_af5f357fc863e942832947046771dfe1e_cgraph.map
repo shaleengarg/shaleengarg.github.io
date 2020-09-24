@@ -1,0 +1,14 @@
+<map id="xfs_mount_validate_sb" name="xfs_mount_validate_sb">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#ac862ead38bf2790149f5abf7dc20a416" title="xfs_sb_good_version" alt="" coords="244,5,389,32"/>
+<area shape="rect" id="node4" href="$xfs__format_8h.html#a73501cf33c7e089e2d9fe938bf4e9bed" title="xfs_sb_has_compat_feature" alt="" coords="223,56,410,83"/>
+<area shape="rect" id="node5" href="$xfs__format_8h.html#a7164f9694e66c8fbb187d2dc11bd7066" title="xfs_sb_has_ro_compat\l_feature" alt="" coords="238,107,395,149"/>
+<area shape="rect" id="node6" href="$xfs__format_8h.html#a43247c91afa80237231d0bbde4f614f2" title="xfs_sb_has_incompat\l_feature" alt="" coords="483,326,632,367"/>
+<area shape="rect" id="node7" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="239,224,395,251"/>
+<area shape="rect" id="node8" href="$xfs__log_8c.html#a85ca9841babc402bd450760079ee6f7e" title="xfs_log_check_lsn" alt="" coords="251,173,382,200"/>
+<area shape="rect" id="node10" href="$xfs__format_8h.html#af8def6250b04fcac883700315577d06f" title="xfs_sb_version_has\l_pquotino" alt="" coords="247,326,386,367"/>
+<area shape="rect" id="node11" href="$xfs__format_8h.html#a9f87213a5712254f4793f587e7a5a3e9" title="xfs_sb_version_hassparseinodes" alt="" coords="209,275,424,301"/>
+<area shape="rect" id="node12" href="$xfs__bit_8h.html#af35e2fa95e4deb0997629ab940c83d14" title="xfs_highbit32" alt="" coords="267,443,366,469"/>
+<area shape="rect" id="node13" href="$xfs__mount_8c.html#a687416fbdfed8da6a8c0a529a9b7be25" title="xfs_sb_validate_fsb\l_count" alt="" coords="247,494,386,535"/>
+<area shape="rect" id="node3" href="$xfs__format_8h.html#a3b78cd491a5da2763b4725b36760d28e" title="xfs_sb_good_v4_features" alt="" coords="472,5,643,32"/>
+<area shape="rect" id="node9" href="$xfs__log__priv_8h.html#a25c85404b03fddb0a8083ac4243d6b3d" title="xlog_valid_lsn" alt="" coords="505,173,609,200"/>
+</map>

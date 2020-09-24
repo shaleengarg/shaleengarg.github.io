@@ -1,0 +1,11 @@
+<map id="__xfs_inode_free" name="__xfs_inode_free">
+<area shape="rect" id="node2" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="436,5,495,32"/>
+<area shape="rect" id="node3" href="$xfs__icache_8c.html#ada70f7bb9c31ac7660545227e951d74a" title="xfs_inode_free_callback" alt="" coords="175,81,337,108"/>
+<area shape="rect" id="node4" href="$xfs__inode_8h.html#abe53bf47d7d5e603159ed1ef612027c5" title="XFS_I" alt="" coords="436,56,495,83"/>
+<area shape="rect" id="node5" href="$xfs__inode__fork_8c.html#a2e31b4e54c49a67b17690c47c293203a" title="xfs_idestroy_fork" alt="" coords="404,107,527,133"/>
+<area shape="rect" id="node9" href="$kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b" title="kmem_zone_free" alt="" coords="593,157,716,184"/>
+<area shape="rect" id="node10" href="$xfs__inode__item_8c.html#a93abdda4a449f44bc8a0def394b750d5" title="xfs_inode_item_destroy" alt="" coords="385,208,545,235"/>
+<area shape="rect" id="node6" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="965,107,1052,133"/>
+<area shape="rect" id="node7" href="$xfs__iext__tree_8c.html#a0a915c8ac5ad061340248a9bd8495025" title="xfs_iext_destroy" alt="" coords="595,107,714,133"/>
+<area shape="rect" id="node8" href="$xfs__iext__tree_8c.html#a7fe019b03d8b2ad6ce62a6f30362e21e" title="xfs_iext_destroy_node" alt="" coords="764,107,917,133"/>
+</map>

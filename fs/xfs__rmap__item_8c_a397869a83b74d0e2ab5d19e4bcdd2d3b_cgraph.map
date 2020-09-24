@@ -1,0 +1,7 @@
+<map id="xfs_rui_item_format" name="xfs_rui_item_format">
+<area shape="rect" id="node2" href="$xfs__rmap__item_8c.html#aa4403b85c390e88b264c53d5fbd0728f" title="RUI_ITEM" alt="" coords="213,5,298,32"/>
+<area shape="rect" id="node3" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="196,56,315,83"/>
+<area shape="rect" id="node6" href="$xfs__log__format_8h.html#a6c3fc42c513b23326c65b01caa95d0e6" title="xfs_rui_log_format\l_sizeof" alt="" coords="191,107,320,149"/>
+<area shape="rect" id="node4" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="368,31,503,57"/>
+<area shape="rect" id="node5" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="374,81,497,108"/>
+</map>

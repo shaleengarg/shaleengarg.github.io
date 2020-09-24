@@ -1,0 +1,6 @@
+<map id="xfs_qm_dqfree_one" name="xfs_qm_dqfree_one">
+<area shape="rect" id="node2" href="$xfs__qm_8h.html#a079077321d371395ad234898e6dae1f1" title="xfs_dquot_tree" alt="" coords="200,5,308,32"/>
+<area shape="rect" id="node3" href="$xfs__dquot_8c.html#a777d63defbdf634212a17eded94f6035" title="xfs_qm_dqdestroy" alt="" coords="189,56,319,83"/>
+<area shape="rect" id="node4" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="385,31,471,57"/>
+<area shape="rect" id="node5" href="$kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b" title="kmem_zone_free" alt="" coords="367,81,489,108"/>
+</map>

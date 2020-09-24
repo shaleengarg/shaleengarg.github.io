@@ -1,0 +1,6 @@
+<map id="xfs_reflink_remap_extent" name="xfs_reflink_remap_extent">
+<area shape="rect" id="node2" href="$xfs__reflink_8c.html#a676b5479c830c4f7886f5bb9e6e6b6ea" title="xfs_reflink_remap_blocks" alt="" coords="221,31,392,57"/>
+<area shape="rect" id="node3" href="$xfs__reflink_8h.html#a693f178d32a07921a528160ac2f94d1e" title="xfs_reflink_remap_range" alt="" coords="440,31,604,57"/>
+<area shape="rect" id="node4" href="$xfs__file_8c.html#a777e597798120a67292187c95056dd57" title="xfs_file_clone_range" alt="" coords="657,5,799,32"/>
+<area shape="rect" id="node5" href="$xfs__file_8c.html#a47173f58ab762ace727aab3d46afcf7b" title="xfs_file_dedupe_range" alt="" coords="652,56,804,83"/>
+</map>

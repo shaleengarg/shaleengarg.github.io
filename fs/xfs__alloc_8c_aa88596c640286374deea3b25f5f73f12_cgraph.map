@@ -1,0 +1,5 @@
+<map id="xfs_alloc_ag_max_usable" name="xfs_alloc_ag_max_usable">
+<area shape="rect" id="node2" href="$xfs__format_8h.html#a47b5db4f9dcd7c970d192bd7973ec2af" title="xfs_sb_version_hasfinobt" alt="" coords="229,5,400,32"/>
+<area shape="rect" id="node3" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="225,56,404,83"/>
+<area shape="rect" id="node4" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="228,107,401,133"/>
+</map>

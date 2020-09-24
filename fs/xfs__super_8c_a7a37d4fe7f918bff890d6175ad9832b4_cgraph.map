@@ -1,0 +1,5 @@
+<map id="xfs_restore_resvblks" name="xfs_restore_resvblks">
+<area shape="rect" id="node2" href="$xfs__mount_8c.html#af1dfdca63dc95a1e1003cf2eda5795ac" title="xfs_default_resblks" alt="" coords="196,5,331,32"/>
+<area shape="rect" id="node3" href="$xfs__fsops_8c.html#a79f397a69af78cc910b7c7498d4f9b98" title="xfs_reserve_blocks" alt="" coords="196,56,331,83"/>
+<area shape="rect" id="node4" href="$xfs__mount_8c.html#ac19fadd06cee33909de2577b5add0da0" title="xfs_mod_fdblocks" alt="" coords="379,56,507,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="xfs_getbmap_report_one" name="xfs_getbmap_report_one">
+<area shape="rect" id="node2" href="$xfs__bmap__util_8h.html#a05b9e726a87c73c705a85d495feb0808" title="xfs_getbmap" alt="" coords="219,5,316,32"/>
+<area shape="rect" id="node3" href="$xfs__ioctl_8c.html#ae243378d1751115c80ddd57556e133a0" title="xfs_ioc_getbmap" alt="" coords="364,5,485,32"/>
+<area shape="rect" id="node4" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="533,5,628,32"/>
+<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="676,5,821,32"/>
+</map>

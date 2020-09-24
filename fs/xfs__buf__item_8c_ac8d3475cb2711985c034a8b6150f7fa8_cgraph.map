@@ -1,0 +1,8 @@
+<map id="xfs_buf_item_push" name="xfs_buf_item_push">
+<area shape="rect" id="node2" href="$xfs__buf__item_8c.html#a712f63d891d7b948318d521d36d7d1a7" title="BUF_ITEM" alt="" coords="215,5,303,32"/>
+<area shape="rect" id="node4" href="$xfs__buf_8h.html#a6f8a2b514f0306bbd8a970217b2ca46a" title="xfs_buf_ispinned" alt="" coords="199,56,319,83"/>
+<area shape="rect" id="node5" href="$xfs__buf_8c.html#a1718b0c599ea01f4b0fe973dc1a7d329" title="xfs_buf_trylock" alt="" coords="204,107,315,133"/>
+<area shape="rect" id="node6" href="$xfs__buf_8c.html#af5e999e18f55889c983d1815b8564960" title="xfs_buf_delwri_queue" alt="" coords="185,157,333,184"/>
+<area shape="rect" id="node7" href="$xfs__buf_8c.html#aa3acddb7057cbecbace5bf6e24bf5a0d" title="xfs_buf_unlock" alt="" coords="204,208,315,235"/>
+<area shape="rect" id="node3" href="$xfs__buf__item_8c.html#a114482d388572a524936464315908181" title="xfs_buf_do_callbacks" alt="" coords="381,5,529,32"/>
+</map>

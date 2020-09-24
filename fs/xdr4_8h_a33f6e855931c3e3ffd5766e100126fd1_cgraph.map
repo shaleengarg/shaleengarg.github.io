@@ -1,0 +1,21 @@
+<map id="nfsd4_sequence_done" name="nfsd4_sequence_done">
+<area shape="rect" id="node2" href="$xdr4_8h.html#a11a436736e29049ab3614a0d2551305a" title="nfsd4_has_session" alt="" coords="222,5,357,32"/>
+<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a24090e4c586f8d68e1f40281ae1bff8a" title="nfsd4_store_cache_entry" alt="" coords="205,56,373,83"/>
+<area shape="rect" id="node7" href="$_2nfs4state_8c.html#af85a14c8baf116a20aab965803585dd7" title="nfsd4_put_session" alt="" coords="224,107,355,133"/>
+<area shape="rect" id="node20" href="$_2nfs4state_8c.html#a772a48f06748ac7751f1630ddd3e5054" title="put_client_renew" alt="" coords="668,208,788,235"/>
+<area shape="rect" id="node4" href="$_2nfs4state_8c.html#ab2b79c30202a6e55edd25b8f090ee6da" title="copy_cred" alt="" coords="468,5,551,32"/>
+<area shape="rect" id="node5" href="$xdr4_8h.html#a2aa5e562a98a3b81beda71f3061a8dd2" title="nfsd4_cache_this" alt="" coords="447,56,571,83"/>
+<area shape="rect" id="node6" href="$xdr4_8h.html#afc4be7be2956af6700660fae92448876" title="nfsd4_is_solo_sequence" alt="" coords="645,5,811,32"/>
+<area shape="rect" id="node8" href="$_2nfs4state_8c.html#a5679ee3f28143ccf67e1dba3356db9ab" title="nfsd4_put_session_locked" alt="" coords="421,107,597,133"/>
+<area shape="rect" id="node9" href="$_2nfs4state_8c.html#a940ad6c7e439c28cddcc0d72d30d3c9c" title="is_session_dead" alt="" coords="669,56,787,83"/>
+<area shape="rect" id="node10" href="$_2nfs4state_8c.html#a3664616e8e99461b3bd966811d4c4928" title="free_session" alt="" coords="680,107,776,133"/>
+<area shape="rect" id="node17" href="$_2nfs4state_8c.html#a9b508de37af28ffaab01e59ead900705" title="put_client_renew_locked" alt="" coords="645,157,811,184"/>
+<area shape="rect" id="node11" href="$_2nfs4state_8c.html#a8d0377b8a08091096890979a20d9da9c" title="nfsd4_del_conns" alt="" coords="869,5,989,32"/>
+<area shape="rect" id="node13" href="$_2nfs4state_8c.html#a66df80b9edb297cc1eec5e0ad7f7ea07" title="nfsd4_put_drc_mem" alt="" coords="859,56,999,83"/>
+<area shape="rect" id="node15" href="$_2nfs4state_8c.html#ac2e177b6d56acafd4a6e9d7d0f1a15a8" title="__free_session" alt="" coords="873,107,984,133"/>
+<area shape="rect" id="node12" href="$_2nfs4state_8c.html#a2d9ac6b6f6ab363056d02a036ac64bbc" title="free_conn" alt="" coords="1073,5,1151,32"/>
+<area shape="rect" id="node14" href="$_2nfs4state_8c.html#ac4e4090eb39a442cdd5fdefb7798db55" title="slot_bytes" alt="" coords="1071,56,1153,83"/>
+<area shape="rect" id="node16" href="$_2nfs4state_8c.html#a314589c8995dac2d9ec105dca2400a64" title="free_session_slots" alt="" coords="1047,107,1177,133"/>
+<area shape="rect" id="node18" href="$_2nfs4state_8c.html#ae666db7dbdd46d29028e800d5996df93" title="is_client_expired" alt="" coords="1053,208,1171,235"/>
+<area shape="rect" id="node19" href="$_2nfs4state_8c.html#adb3869994df601ea6064a7eaf7952ed1" title="renew_client_locked" alt="" coords="859,208,999,235"/>
+</map>

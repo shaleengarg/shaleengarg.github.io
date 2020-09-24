@@ -1,0 +1,5 @@
+<map id="xfs_buf_verify_cksum" name="xfs_buf_verify_cksum">
+<area shape="rect" id="node2" href="$xfs__cksum_8h.html#afcf022c104056b33352bd8ad08ca42cd" title="xfs_verify_cksum" alt="" coords="204,31,329,57"/>
+<area shape="rect" id="node3" href="$xfs__cksum_8h.html#ab0182657171b8fe2c0de5601be4cdb04" title="xfs_start_cksum_safe" alt="" coords="377,5,528,32"/>
+<area shape="rect" id="node4" href="$xfs__cksum_8h.html#a91fa5d874829ed88cc8b1bf4f2331612" title="xfs_end_cksum" alt="" coords="395,56,510,83"/>
+</map>

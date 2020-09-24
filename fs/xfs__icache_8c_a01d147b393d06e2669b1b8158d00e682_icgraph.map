@@ -1,0 +1,11 @@
+<map id="xfs_icache_inode_is_allocated" name="xfs_icache_inode_is_allocated">
+<area shape="rect" id="node2" href="$xfs_2scrub_2ialloc_8c.html#af277f49d6f2306fa702c331a36f09715" title="xfs_scrub_iallocbt\l_check_cluster_freemask" alt="" coords="201,23,372,65"/>
+<area shape="rect" id="node8" href="$xfs__icache_8h.html#a92b7bad79ed5d44b563ea4b53de32e1c" title="xfs_fs_eofblocks_from_user" alt="" coords="193,89,380,116"/>
+<area shape="rect" id="node3" href="$xfs_2scrub_2ialloc_8c.html#a966eef77f7af9f9ffc5a3d55152a87ec" title="xfs_scrub_iallocbt\l_check_freemask" alt="" coords="428,23,555,65"/>
+<area shape="rect" id="node4" href="$xfs_2scrub_2ialloc_8c.html#a5601bb4bd0a59d84b42cf8736b2b4739" title="xfs_scrub_iallocbt_rec" alt="" coords="603,31,755,57"/>
+<area shape="rect" id="node5" href="$xfs_2scrub_2ialloc_8c.html#a0a6de0fa29a73afd7a80e889c62f35f3" title="xfs_scrub_iallocbt" alt="" coords="803,31,929,57"/>
+<area shape="rect" id="node6" href="$scrub_8h.html#a95f52c8d990cdb0729b17a8d1c35cab8" title="xfs_scrub_inobt" alt="" coords="979,5,1094,32"/>
+<area shape="rect" id="node7" href="$scrub_8h.html#a613e9f760a610926a45613a16be2ea84" title="xfs_scrub_finobt" alt="" coords="977,56,1096,83"/>
+<area shape="rect" id="node9" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="444,89,539,116"/>
+<area shape="rect" id="node10" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="606,89,751,116"/>
+</map>

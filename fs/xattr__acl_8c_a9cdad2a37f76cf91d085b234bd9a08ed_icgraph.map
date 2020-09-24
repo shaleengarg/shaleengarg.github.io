@@ -1,0 +1,7 @@
+<map id="reiserfs_inherit_default_acl" name="reiserfs_inherit_default_acl">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#ae4862da741fa47ccb6a99ae32ef5701f" title="reiserfs_new_inode" alt="" coords="231,81,365,108"/>
+<area shape="rect" id="node3" href="$reiserfs_2namei_8c.html#a00a5e63042c9b6b62314b77e52b1e4e0" title="reiserfs_create" alt="" coords="418,5,526,32"/>
+<area shape="rect" id="node4" href="$reiserfs_2namei_8c.html#a6a7627b8e5f4735b87545255ff23ad27" title="reiserfs_mknod" alt="" coords="417,56,527,83"/>
+<area shape="rect" id="node5" href="$reiserfs_2namei_8c.html#a429d1156e703362c5ff7f7c9d373cfa3" title="reiserfs_mkdir" alt="" coords="420,107,524,133"/>
+<area shape="rect" id="node6" href="$reiserfs_2namei_8c.html#a9fb6078115f91c85b3217c1d28613760" title="reiserfs_symlink" alt="" coords="413,157,531,184"/>
+</map>

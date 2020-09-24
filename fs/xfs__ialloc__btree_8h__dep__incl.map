@@ -1,0 +1,10 @@
+<map id="xfs/libxfs/xfs_ialloc_btree.h" name="xfs/libxfs/xfs_ialloc_btree.h">
+<area shape="rect" id="node2" href="$xfs__ag__resv_8c.html" title="xfs/libxfs/xfs_ag_resv.c" alt="" coords="5,102,167,129"/>
+<area shape="rect" id="node3" href="$xfs__ialloc_8c.html" title="xfs/libxfs/xfs_ialloc.c" alt="" coords="191,102,336,129"/>
+<area shape="rect" id="node4" href="$xfs__ialloc__btree_8c.html" title="xfs/libxfs/xfs_ialloc\l_btree.c" alt="" coords="360,95,495,136"/>
+<area shape="rect" id="node5" href="$xfs__sb_8c.html" title="xfs/libxfs/xfs_sb.c" alt="" coords="519,102,648,129"/>
+<area shape="rect" id="node6" href="$common_8c.html" title="xfs/scrub/common.c" alt="" coords="673,102,814,129"/>
+<area shape="rect" id="node7" href="$xfs_2scrub_2ialloc_8c.html" title="xfs/scrub/ialloc.c" alt="" coords="839,102,960,129"/>
+<area shape="rect" id="node8" href="$xfs_2scrub_2scrub_8c.html" title="xfs/scrub/scrub.c" alt="" coords="985,102,1107,129"/>
+<area shape="rect" id="node9" href="$xfs__itable_8c.html" title="xfs/xfs_itable.c" alt="" coords="1132,102,1243,129"/>
+</map>

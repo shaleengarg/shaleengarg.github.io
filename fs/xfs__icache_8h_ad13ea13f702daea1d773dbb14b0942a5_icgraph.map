@@ -1,0 +1,6 @@
+<map id="xfs_inode_ag_iterator_flags" name="xfs_inode_ag_iterator_flags">
+<area shape="rect" id="node2" href="$xfs__icache_8h.html#a02def791eff9a4fb5c166d2c53db450c" title="xfs_inode_ag_iterator" alt="" coords="213,5,359,32"/>
+<area shape="rect" id="node3" href="$xfs__qm__syscalls_8c.html#a618a194a790fe8b58bc3c7d863770bdd" title="xfs_qm_dqrele_all_inodes" alt="" coords="200,56,372,83"/>
+<area shape="rect" id="node4" href="$xfs__qm__syscalls_8c.html#a26165df13975fd4d8b0223e9938c93ae" title="xfs_qm_scall_quotaoff" alt="" coords="420,56,573,83"/>
+<area shape="rect" id="node5" href="$xfs__quotaops_8c.html#abda0cb94d9c7428ea11450d9120d968f" title="xfs_quota_disable" alt="" coords="621,56,748,83"/>
+</map>

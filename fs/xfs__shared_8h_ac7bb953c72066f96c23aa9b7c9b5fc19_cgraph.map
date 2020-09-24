@@ -1,0 +1,8 @@
+<map id="xfs_log_calc_minimum_size" name="xfs_log_calc_minimum_size">
+<area shape="rect" id="node2" href="$xfs__log__rlimit_8c.html#a6743dfbbbfa590e2bcdeb24dbc418ba1" title="xfs_log_get_max_trans_res" alt="" coords="240,13,423,39"/>
+<area shape="rect" id="node5" href="$xfs__shared_8h.html#a3ccf859e054129773d666692ff24caed" title="xfs_log_calc_unit_res" alt="" coords="257,63,405,90"/>
+<area shape="rect" id="node6" href="$xfs__format_8h.html#a6ec595856e8e246158615c182ecd0746" title="xfs_sb_version_haslogv2" alt="" coords="489,89,659,115"/>
+<area shape="rect" id="node7" href="$xfs__linux_8h.html#a195b8e0444abadad8f0b533a26940413" title="roundup_64" alt="" coords="287,165,376,191"/>
+<area shape="rect" id="node3" href="$xfs__log__rlimit_8c.html#aa8f1be21786740877efd0b942830855e" title="xfs_log_calc_max_attrsetm_res" alt="" coords="471,13,677,39"/>
+<area shape="rect" id="node4" href="$xfs__da__format_8h.html#a6a09ad6f12933ae216e5e414b487149c" title="xfs_attr_leaf_entsize\l_local_max" alt="" coords="725,5,868,47"/>
+</map>

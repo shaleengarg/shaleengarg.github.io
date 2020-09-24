@@ -1,0 +1,12 @@
+<map id="xfs_inode_free_cowblocks" name="xfs_inode_free_cowblocks">
+<area shape="rect" id="node2" href="$xfs__icache_8h.html#a479567ea11c1382a29e1117089f6291c" title="xfs_icache_free_cowblocks" alt="" coords="229,73,412,99"/>
+<area shape="rect" id="node3" href="$xfs__file_8c.html#aca1fd5d3dc58e3dbf6eefe9adfd3a16c" title="xfs_file_buffered_aio\l_write" alt="" coords="663,5,805,47"/>
+<area shape="rect" id="node5" href="$xfs__icache_8h.html#ac91824108d98569606c48cfc0784442f" title="xfs_cowblocks_worker" alt="" coords="460,102,615,129"/>
+<area shape="rect" id="node9" href="$xfs__icache_8h.html#aecb3cd4f4ed9a19f70464ff405c9a5d8" title="xfs_inode_free_quota\l_cowblocks" alt="" coords="464,36,611,77"/>
+<area shape="rect" id="node10" href="$xfs__super_8c.html#aa8d3829d8a8b9f4a81e12b5d6d129a35" title="xfs_fs_remount" alt="" coords="481,154,593,181"/>
+<area shape="rect" id="node4" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="853,13,977,39"/>
+<area shape="rect" id="node6" href="$xfs__super_8c.html#a1249cbd66b34902ffacdfec7b715708f" title="xfs_mount_alloc" alt="" coords="675,99,793,126"/>
+<area shape="rect" id="node7" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="857,99,974,126"/>
+<area shape="rect" id="node8" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="1025,99,1127,126"/>
+<area shape="rect" id="node11" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="666,151,802,192"/>
+</map>
