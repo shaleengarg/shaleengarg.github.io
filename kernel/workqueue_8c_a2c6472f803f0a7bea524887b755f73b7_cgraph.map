@@ -1,8 +1,0 @@
-<map id="current_is_workqueue_rescuer" name="current_is_workqueue_rescuer">
-<area shape="rect" id="node2" href="$workqueue__internal_8h.html#acd01911cd74cfe74ec3faadc2095fdf0" title="current_wq_worker" alt="" coords="203,23,335,50"/>
-<area shape="rect" id="node3" href="$kthread_8c.html#a44f65489bb56d51f2064ddf1984418aa" title="kthread_data" alt="" coords="595,23,693,50"/>
-<area shape="rect" id="node5" href="$workqueue__internal_8h.html#aa975f4c94c08cef18ab3dbb07007b130" title="wq_worker_waking_up" alt="" coords="383,23,537,50"/>
-<area shape="rect" id="node6" href="$workqueue__internal_8h.html#a4900a0cd9351c57c52a09668125d2253" title="wq_worker_sleeping" alt="" coords="390,74,530,101"/>
-<area shape="rect" id="node4" href="$kthread_8c.html#af6f52ee3f6f9d6e0011dbb3038b56023" title="to_kthread" alt="" coords="751,23,833,50"/>
-<area shape="rect" id="node7" href="$workqueue_8c.html#a2ca4efa4bbc9afad51556430da7994fb" title="first_idle_worker" alt="" coords="585,74,703,101"/>
-</map>

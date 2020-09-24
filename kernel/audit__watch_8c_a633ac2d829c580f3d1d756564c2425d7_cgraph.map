@@ -1,7 +1,0 @@
-<map id="audit_remove_watch_rule" name="audit_remove_watch_rule">
-<area shape="rect" id="node2" href="$audit__watch_8c.html#a8547f1c4f30af9a36868318ebd4393ba" title="audit_get_parent" alt="" coords="236,5,355,32"/>
-<area shape="rect" id="node3" href="$audit__watch_8c.html#ad45c858a1e6f649ac333abccace12992" title="audit_remove_watch" alt="" coords="224,107,367,133"/>
-<area shape="rect" id="node4" href="$audit__watch_8c.html#ad00200f97cbd6790551b98e2888d438d" title="audit_put_parent" alt="" coords="415,56,533,83"/>
-<area shape="rect" id="node5" href="$audit__watch_8c.html#a67defe355cc0a19eedaaf9f038e94614" title="audit_put_watch" alt="" coords="415,107,533,133"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="581,107,632,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="sched_slice" name="sched_slice">
-<area shape="rect" id="node2" href="$fair_8c.html#ad80199f02c719e82a22bf1035a3cc9e7" title="__sched_period" alt="" coords="147,5,261,32"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a3acf6f07f72d7c2d6cfb7d257c5f6fc8" title="cfs_rq_of" alt="" coords="166,56,242,83"/>
-<area shape="rect" id="node5" href="$fair_8c.html#aae74b95bc11b068e06958f8911a7add3" title="update_load_add" alt="" coords="144,107,264,133"/>
-<area shape="rect" id="node6" href="$fair_8c.html#a7417abbb795b83bc76688170426ce381" title="__calc_delta" alt="" coords="157,157,251,184"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="351,56,417,83"/>
-<area shape="rect" id="node7" href="$fair_8c.html#a8ed8d2846e1408bee375e3dba4a9215a" title="__update_inv_weight" alt="" coords="312,157,456,184"/>
-</map>

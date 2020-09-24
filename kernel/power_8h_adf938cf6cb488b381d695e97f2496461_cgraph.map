@@ -1,8 +1,0 @@
-<map id="snapshot_write_finalize" name="snapshot_write_finalize">
-<area shape="rect" id="node2" href="$snapshot_8c.html#a0c5fb2629b74d94d48f70aef79ea599d" title="copy_last_highmem_page" alt="" coords="227,5,401,32"/>
-<area shape="rect" id="node3" href="$snapshot_8c.html#a9233b62b547169d93dd4924d3ff6ed29" title="hibernate_restore_protect_page" alt="" coords="212,56,416,83"/>
-<area shape="rect" id="node4" href="$snapshot_8c.html#abe90d4cdbd4395ac66cd3eb6ea1c44d4" title="memory_bm_recycle" alt="" coords="243,107,385,133"/>
-<area shape="rect" id="node7" href="$snapshot_8c.html#a8f86af3aabaa2997565d2a2ff4088795" title="free_highmem_data" alt="" coords="246,157,382,184"/>
-<area shape="rect" id="node5" href="$snapshot_8c.html#abb9bf9f0e282d1fc34989fc5cbd332d7" title="recycle_zone_bm_rtree" alt="" coords="464,81,621,108"/>
-<area shape="rect" id="node6" href="$snapshot_8c.html#acddd8c4ec3d7bde122864f0e7970f21e" title="recycle_safe_page" alt="" coords="669,107,800,133"/>
-</map>

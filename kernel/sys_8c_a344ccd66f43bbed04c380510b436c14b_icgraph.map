@@ -1,5 +1,0 @@
-<map id="prctl_set_mm_exe_file" name="prctl_set_mm_exe_file">
-<area shape="rect" id="node2" href="$sys_8c.html#a1390f091d53224900e53a66a1599535a" title="validate_prctl_map" alt="" coords="207,5,337,32"/>
-<area shape="rect" id="node3" href="$sys_8c.html#aad823e6be181bb67d19be93bc393eac0" title="prctl_set_mm" alt="" coords="385,31,487,57"/>
-<area shape="rect" id="node4" href="$sys_8c.html#a5ca25d9ab2fe7976ab7f6c3688006177" title="SYSCALL_DEFINE5" alt="" coords="535,31,681,57"/>
-</map>

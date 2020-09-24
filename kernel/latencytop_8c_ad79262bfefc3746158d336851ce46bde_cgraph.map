@@ -1,5 +1,0 @@
-<map id="sysctl_latencytop" name="sysctl_latencytop">
-<area shape="rect" id="node2" href="$sysctl_8c.html#a9f313fa9e2a9d1ea13296dae4e00a0fd" title="proc_dointvec" alt="" coords="187,5,289,32"/>
-<area shape="rect" id="node3" href="$latencytop_8c.html#a41b76af36c7530741fb38913f4356671" title="device_initcall" alt="" coords="186,56,290,83"/>
-<area shape="rect" id="node4" href="$latencytop_8c.html#ae2cf365da54f98476f90bcb113af04a1" title="init_lstats_procfs" alt="" coords="177,107,299,133"/>
-</map>

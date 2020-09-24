@@ -1,7 +1,0 @@
-<map id="account_entity_dequeue" name="account_entity_dequeue">
-<area shape="rect" id="node2" href="$fair_8c.html#a5ab5c6302187dbbc7b9c8b914632c6fc" title="update_load_sub" alt="" coords="237,5,357,32"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a0f2e53b9a4b9c9b3d2d393d049a77927" title="parent_entity" alt="" coords="249,56,346,83"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="272,107,323,133"/>
-<area shape="rect" id="node5" href="$fair_8c.html#a412972986f80a55ed05e4e37cde080be" title="account_numa_dequeue" alt="" coords="216,157,379,184"/>
-<area shape="rect" id="node6" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="265,208,330,235"/>
-</map>

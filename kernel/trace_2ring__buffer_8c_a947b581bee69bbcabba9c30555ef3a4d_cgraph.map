@@ -1,5 +1,0 @@
-<map id="ring_buffer_iter_empty" name="ring_buffer_iter_empty">
-<area shape="rect" id="node2" href="$trace_8h.html#a6bfa7c938abd4bd57078e2905ccf2c75" title="head_page" alt="" coords="247,5,333,32"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a70c93092840a2dd3e110fe2ab5ce0c43" title="rb_page_commit" alt="" coords="231,56,349,83"/>
-<area shape="rect" id="node4" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="204,107,376,133"/>
-</map>

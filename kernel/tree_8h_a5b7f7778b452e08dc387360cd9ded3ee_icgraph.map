@@ -1,5 +1,0 @@
-<map id="rcu_nohz_full_cpu" name="rcu_nohz_full_cpu">
-<area shape="rect" id="node2" href="$tree_8c.html#a3ae3007c424810a739f44cf56112bdd9" title="__rcu_pending" alt="" coords="180,5,287,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a08afed920085c59f1cef0d73a787e038" title="rcu_pending" alt="" coords="335,5,427,32"/>
-<area shape="rect" id="node4" href="$tree_8c.html#ab7a1ec9a68d811c584765a19456f0fc8" title="rcu_check_callbacks" alt="" coords="475,5,619,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="perf_event_fd_array_get_ptr" name="perf_event_fd_array_get_ptr">
-<area shape="rect" id="node2" href="$events_2core_8c.html#ae429cd7f58eab524f815fddd283cd7cf" title="perf_event_get" alt="" coords="211,5,319,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a19ae82f0ba5a21c877baedcdc73f99cd" title="perf_event_read_local" alt="" coords="191,56,340,83"/>
-<area shape="rect" id="node7" href="$arraymap_8c.html#a0143a71f3d0a7ea07df9a12d29af9f67" title="bpf_event_entry_gen" alt="" coords="194,107,337,133"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="418,31,501,57"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="388,81,531,108"/>
-<area shape="rect" id="node6" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="579,81,729,108"/>
-</map>

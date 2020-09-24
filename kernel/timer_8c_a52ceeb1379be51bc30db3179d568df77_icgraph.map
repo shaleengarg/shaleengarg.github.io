@@ -1,6 +1,0 @@
-<map id="collect_expired_timers" name="collect_expired_timers">
-<area shape="rect" id="node2" href="$timer_8c.html#a73a1451a76632f72f145aed74628ee33" title="__collect_expired_timers" alt="" coords="205,5,372,32"/>
-<area shape="rect" id="node3" href="$timer_8c.html#a78a4b257880bbf483367066498b53794" title="__run_timers" alt="" coords="240,56,337,83"/>
-<area shape="rect" id="node4" href="$timer_8c.html#aea9649a38a888c892b379acd33146224" title="run_timer_softirq" alt="" coords="420,56,539,83"/>
-<area shape="rect" id="node5" href="$timer_8c.html#a53a13c0bb91e5e946cd8953e26c66881" title="init_timers" alt="" coords="587,56,669,83"/>
-</map>

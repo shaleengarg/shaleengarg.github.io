@@ -1,7 +1,0 @@
-<map id="fei_attr_new" name="fei_attr_new">
-<area shape="rect" id="node2" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="187,5,237,32"/>
-<area shape="rect" id="node3" href="$fail__function_8c.html#a23cdbbab455bec0059b291da22a6f1a2" title="fei_kprobe_handler" alt="" coords="147,56,277,83"/>
-<area shape="rect" id="node5" href="$fail__function_8c.html#a03cfdbb19c4861e128142c352f8c2d26" title="fei_post_handler" alt="" coords="153,107,271,133"/>
-<area shape="rect" id="node6" href="$fail__function_8c.html#a19811f734f12304511db194f22573921" title="adjust_error_retval" alt="" coords="147,157,277,184"/>
-<area shape="rect" id="node4" href="$context__tracking_8c.html#a93b1b05937bf44d6c063cdb01f189326" title="NOKPROBE_SYMBOL" alt="" coords="325,56,485,83"/>
-</map>

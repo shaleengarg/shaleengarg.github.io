@@ -1,8 +1,0 @@
-<map id="print_cpu" name="print_cpu">
-<area shape="rect" id="node2" href="$sched_2debug_8c.html#adc2852667f1a893353ce2ac0b95b3c9f" title="sched_debug_show" alt="" coords="147,5,285,32"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a5ccff6d96125c9fc2b06adb53da4c2c9" title="sysrq_sched_debug_show" alt="" coords="128,56,304,83"/>
-<area shape="rect" id="node4" href="$sched_2core_8c.html#a32c50c964e5ce5e6f172fb04df4a369b" title="show_state_filter" alt="" coords="352,31,473,57"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a3dfd2827294a8ff68e72ad79ec229379" title="idle_get_state" alt="" coords="361,81,464,108"/>
-<area shape="rect" id="node6" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="521,81,649,108"/>
-<area shape="rect" id="node7" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="697,81,827,108"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="pcpu_freelist" name="pcpu_freelist">
-<area shape="rect" id="node2" href="$structpcpu__freelist__head.html" title="pcpu_freelist_head" alt="" coords="5,95,136,121"/>
-<area shape="rect" id="node3" href="$structpcpu__freelist__node.html" title="pcpu_freelist_node" alt="" coords="5,5,136,32"/>
-</map>

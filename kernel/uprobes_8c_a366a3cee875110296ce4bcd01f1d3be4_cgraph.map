@@ -1,6 +1,0 @@
-<map id="uprobe_free_utask" name="uprobe_free_utask">
-<area shape="rect" id="node2" href="$uprobes_8c.html#a900685cc15d9532beeea168aa56d894b" title="put_uprobe" alt="" coords="357,27,444,53"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="492,27,543,53"/>
-<area shape="rect" id="node4" href="$uprobes_8c.html#a64408b724841a576f0dbf0436e236b4f" title="free_ret_instance" alt="" coords="185,77,307,104"/>
-<area shape="rect" id="node5" href="$uprobes_8c.html#a03bfe590fa4b094999aa70417d71da29" title="xol_free_insn_slot" alt="" coords="183,128,309,155"/>
-</map>

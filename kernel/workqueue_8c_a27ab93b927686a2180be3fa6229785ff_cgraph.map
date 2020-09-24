@@ -1,5 +1,0 @@
-<map id="wq_numa_init" name="wq_numa_init">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a598af4804f9ff189b18a9207528ecc0a" title="alloc_workqueue_attrs" alt="" coords="156,5,308,32"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#afe6cbd43c3fcb66a30e5f0d7c6b8134b" title="free_workqueue_attrs" alt="" coords="356,5,503,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="551,5,601,32"/>
-</map>

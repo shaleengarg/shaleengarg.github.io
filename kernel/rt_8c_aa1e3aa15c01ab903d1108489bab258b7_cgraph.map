@@ -1,5 +1,0 @@
-<map id="set_curr_task_rt" name="set_curr_task_rt">
-<area shape="rect" id="node2" href="$sched_8h.html#a3dd6fd120793d8fc2081feb8cb010032" title="rq_clock_task" alt="" coords="199,5,302,32"/>
-<area shape="rect" id="node4" href="$rt_8c.html#a2dc474e391a15c270a3a28128e41b60c" title="dequeue_pushable_task" alt="" coords="169,56,332,83"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="380,5,529,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cfs_rq_clock_task" name="cfs_rq_clock_task">
-<area shape="rect" id="node2" href="$sched_8h.html#a3dd6fd120793d8fc2081feb8cb010032" title="rq_clock_task" alt="" coords="181,5,284,32"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="207,56,258,83"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="332,5,481,32"/>
-</map>

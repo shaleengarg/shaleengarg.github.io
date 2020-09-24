@@ -1,6 +1,0 @@
-<map id="cpuhp_rollback_install" name="cpuhp_rollback_install">
-<area shape="rect" id="node2" href="$cpu_8c.html#ac728bc8938b0ab27dc7706f0766cfa01" title="__cpuhp_state_add_instance\l_cpuslocked" alt="" coords="204,5,395,47"/>
-<area shape="rect" id="node4" href="$cpu_8c.html#a47cdf75177b8832373757e441f0c060d" title="__cpuhp_setup_state\l_cpuslocked" alt="" coords="226,71,373,112"/>
-<area shape="rect" id="node3" href="$cpu_8c.html#a38a7212d8a166644ff55e7908dd9e4dc" title="__cpuhp_state_add_instance" alt="" coords="443,13,633,39"/>
-<area shape="rect" id="node5" href="$cpu_8c.html#a0128e42d2993bf45b0b8f0876d1c9913" title="__cpuhp_setup_state" alt="" coords="465,78,611,105"/>
-</map>

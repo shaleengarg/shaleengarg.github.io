@@ -1,5 +1,0 @@
-<map id="suspend_devices_and_enter" name="suspend_devices_and_enter">
-<area shape="rect" id="node2" href="$power_8h.html#a7b9e82235a2051f7a958cc69509fb9da" title="suspend_test_start" alt="" coords="207,5,340,32"/>
-<area shape="rect" id="node3" href="$power_8h.html#aab9c7480f892708f6847865b2e5fb3af" title="suspend_test_finish" alt="" coords="204,56,343,83"/>
-<area shape="rect" id="node4" href="$power_8h.html#af59d1185e3fac716c40e4a0556efbdee" title="restore_highmem" alt="" coords="391,56,513,83"/>
-</map>

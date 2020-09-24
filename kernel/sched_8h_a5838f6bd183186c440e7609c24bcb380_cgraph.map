@@ -1,4 +1,0 @@
-<map id="add_nr_running" name="add_nr_running">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#ae6dc760f2ea514a6cc03c60cb88eae65" title="nr_running" alt="" coords="227,5,309,32"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a9d1e13ecdc8d7b84cb642557ffe247fc" title="sched_update_tick_dependency" alt="" coords="164,56,372,83"/>
-</map>

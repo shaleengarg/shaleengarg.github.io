@@ -1,6 +1,0 @@
-<map id="ftrace_pid_follow_fork" name="ftrace_pid_follow_fork">
-<area shape="rect" id="node2" href="$ftrace_8c.html#acd504cf2aebd8560af9eaa584f669e53" title="ftrace_pid_follow_sched\l_process_fork" alt="" coords="203,5,365,47"/>
-<area shape="rect" id="node5" href="$ftrace_8c.html#a92b630f44576da1641beb04c261bcfbb" title="ftrace_pid_follow_sched\l_process_exit" alt="" coords="203,71,365,112"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a843ae37351495023982031b982126a96" title="trace_filter_add_remove_task" alt="" coords="413,46,607,73"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a8dfb25f9bad81ce67e2af91c462aa434" title="trace_find_filtered_pid" alt="" coords="655,46,804,73"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="rcu_gp_slow" name="rcu_gp_slow">
-<area shape="rect" id="node2" href="$tree_8c.html#ae204406f2794b2408bc3ef5ba20015dc" title="rcu_gp_init" alt="" coords="162,5,247,32"/>
-<area shape="rect" id="node5" href="$tree_8c.html#a1e3e3f56c5c8eb38ef6391bac0300d48" title="rcu_gp_cleanup" alt="" coords="148,56,261,83"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a8970305863efcd2eb60e81cab4f5fba8" title="rcu_gp_kthread" alt="" coords="309,31,420,57"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a265eab7d250c47809d5bbe4580ee909d" title="rcu_spawn_gp_kthread" alt="" coords="468,31,624,57"/>
-</map>

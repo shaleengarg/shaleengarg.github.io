@@ -1,9 +1,0 @@
-<map id="srcu_torture_deferred_free" name="srcu_torture_deferred_free">
-<area shape="rect" id="node2" href="$srcutiny_8c.html#af5c9dc3874e15774868fb579b3367ca9" title="call_srcu" alt="" coords="243,19,318,45"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#ad28d4383e112f228d4c2bc6ba490f183" title="rcu_torture_cb" alt="" coords="228,81,333,108"/>
-<area shape="rect" id="node3" href="$srcutiny_8c.html#a98a08a376d7bf77bc68405602c661233" title="EXPORT_SYMBOL_GPL" alt="" coords="390,5,562,32"/>
-<area shape="rect" id="node5" href="$torture_8c.html#ae244fb173ad3038e0e4dfa68e9d5b2af" title="torture_must_stop_irq" alt="" coords="402,56,550,83"/>
-<area shape="rect" id="node7" href="$rcutorture_8c.html#a2badd5fa2ba09db78e6f2b544f4c9349" title="rcu_torture_pipe_update_one" alt="" coords="381,107,571,133"/>
-<area shape="rect" id="node8" href="$rcutorture_8c.html#a0098fda66e896d340130edaf12a8b958" title="rcu_torture_free" alt="" coords="419,157,533,184"/>
-<area shape="rect" id="node6" href="$torture_8c.html#af487a67f166e301d9e728a9e662a9207" title="EXPORT_SYMBOL_GPL" alt="" coords="619,56,791,83"/>
-</map>

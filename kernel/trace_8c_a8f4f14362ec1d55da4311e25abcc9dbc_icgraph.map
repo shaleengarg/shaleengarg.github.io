@@ -1,9 +1,0 @@
-<map id="__trace_array_vprintk" name="__trace_array_vprintk">
-<area shape="rect" id="node2" href="$trace_8h.html#a378b6177a0ba8a9cd16cec36659f3405" title="trace_array_vprintk" alt="" coords="209,43,342,69"/>
-<area shape="rect" id="node8" href="$trace_8h.html#aacff3e648ed7678c28045a82dc297a78" title="trace_array_printk_buf" alt="" coords="200,93,351,120"/>
-<area shape="rect" id="node3" href="$trace_8h.html#afabf78a8293ec972627f4557de64299c" title="trace_array_printk" alt="" coords="399,5,525,32"/>
-<area shape="rect" id="node4" href="$trace_8h.html#a6546c034575cc68ba5dbd0649f8a637e" title="trace_vprintk" alt="" coords="413,80,511,107"/>
-<area shape="rect" id="node5" href="$trace__mmiotrace_8c.html#abec0c2f950f802300d737d58a0bd27c9" title="mmio_trace_printk" alt="" coords="573,29,703,56"/>
-<area shape="rect" id="node6" href="$trace__printk_8c.html#aaf5739cb331df7bd8cfde887ed5aabf7" title="__trace_printk" alt="" coords="586,80,690,107"/>
-<area shape="rect" id="node7" href="$trace__printk_8c.html#a0ef083e1c61c81215c96f96fc741d742" title="__ftrace_vprintk" alt="" coords="581,131,695,157"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="rb_remove_pages" name="rb_remove_pages">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a0599940abf9a2f9e877334a72d9c37d7" title="rb_list_head" alt="" coords="345,5,437,32"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#adc4d2ae5f605ca4a9a5c8ea80c6b9a93" title="rb_inc_page" alt="" coords="192,31,284,57"/>
-<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a5985e3f79b99fb14e4e343bb2af82888" title="rb_page_entries" alt="" coords="181,81,295,108"/>
-<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#a6b300f38d62deeb689a3956372f07a4a" title="free_buffer_page" alt="" coords="179,132,297,159"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="366,132,417,159"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="rcu_test_sync_prims" name="rcu_test_sync_prims">
-<area shape="rect" id="node2" href="$tree_8c.html#a2d94d7fb01eb30d5e09e70206c70921f" title="rcu_scheduler_starting" alt="" coords="210,5,363,32"/>
-<area shape="rect" id="node3" href="$update_8c.html#a16f8595371f03d18374c15f9ae361fc4" title="rcu_set_runtime_mode" alt="" coords="209,56,364,83"/>
-<area shape="rect" id="node4" href="$update_8c.html#a1aa5ca78e9cb2e6de0e9a6aa2a93ee80" title="rcu_tasks_bootup_oddness" alt="" coords="196,107,377,133"/>
-<area shape="rect" id="node5" href="$update_8c.html#adf672e6570ad00e3070c7b1aa77c35dd" title="rcupdate_announce_bootup\l_oddness" alt="" coords="425,99,607,141"/>
-<area shape="rect" id="node6" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="655,99,804,141"/>
-<area shape="rect" id="node7" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="852,107,1001,133"/>
-</map>

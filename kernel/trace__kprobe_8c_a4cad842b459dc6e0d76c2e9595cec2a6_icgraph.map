@@ -1,6 +1,0 @@
-<map id="find_trace_kprobe" name="find_trace_kprobe">
-<area shape="rect" id="node2" href="$trace__kprobe_8c.html#a70e0b81a532a44776c1c1005c209dcc0" title="register_trace_kprobe" alt="" coords="179,5,325,32"/>
-<area shape="rect" id="node3" href="$trace__kprobe_8c.html#a6b2dabc3e155d818df239f14ee87325f" title="create_trace_kprobe" alt="" coords="373,56,513,83"/>
-<area shape="rect" id="node5" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="561,107,683,133"/>
-<area shape="rect" id="node4" href="$trace__kprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="574,56,670,83"/>
-</map>

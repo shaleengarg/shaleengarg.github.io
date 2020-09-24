@@ -1,6 +1,0 @@
-<map id="print_other_cpu_stall" name="print_other_cpu_stall">
-<area shape="rect" id="node2" href="$tree_8c.html#abf1f7c18be3efa901f0b54aa59dfaec4" title="check_cpu_stall" alt="" coords="196,5,312,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a3ae3007c424810a739f44cf56112bdd9" title="__rcu_pending" alt="" coords="360,5,467,32"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a08afed920085c59f1cef0d73a787e038" title="rcu_pending" alt="" coords="515,5,607,32"/>
-<area shape="rect" id="node5" href="$tree_8c.html#ab7a1ec9a68d811c584765a19456f0fc8" title="rcu_check_callbacks" alt="" coords="655,5,799,32"/>
-</map>

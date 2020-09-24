@@ -1,5 +1,0 @@
-<map id="ftrace_reset_array_ops" name="ftrace_reset_array_ops">
-<area shape="rect" id="node2" href="$trace__functions_8c.html#a416f274996b58bbba062223e45106e84" title="function_trace_reset" alt="" coords="214,5,354,32"/>
-<area shape="rect" id="node3" href="$trace__sched__wakeup_8c.html#ae076f093a09d5575f4b1a58aaed34244" title="wakeup_tracer_reset" alt="" coords="213,56,355,83"/>
-<area shape="rect" id="node4" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="208,107,360,133"/>
-</map>

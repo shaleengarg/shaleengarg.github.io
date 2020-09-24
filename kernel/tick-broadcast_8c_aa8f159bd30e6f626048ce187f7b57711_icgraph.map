@@ -1,8 +1,0 @@
-<map id="tick_get_broadcast_device" name="tick_get_broadcast_device">
-<area shape="rect" id="node2" href="$clockevents_8c.html#a50d6f518c2c62113bcc50b06c4384d61" title="clockevents_resume" alt="" coords="185,5,328,32"/>
-<area shape="rect" id="node5" href="$timer__list_8c.html#ae3b16f62c811b3d105d07c8673373591" title="print_cpu" alt="" coords="219,56,294,83"/>
-<area shape="rect" id="node3" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="381,5,523,32"/>
-<area shape="rect" id="node4" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="576,5,669,32"/>
-<area shape="rect" id="node6" href="$timer__list_8c.html#ad22eefccd7d3d00e02c66025de353ed3" title="timer_list_show" alt="" coords="395,56,509,83"/>
-<area shape="rect" id="node7" href="$timer__list_8c.html#a858bdbff0f102e6b60fbb33222e0ed64" title="sysrq_timer_list_show" alt="" coords="376,107,528,133"/>
-</map>

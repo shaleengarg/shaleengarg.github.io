@@ -1,7 +1,0 @@
-<map id="update_clock_read_data" name="update_clock_read_data">
-<area shape="rect" id="node2" href="$sched__clock_8c.html#a47365d39e6b04421af6e9989372b84df" title="update_sched_clock" alt="" coords="218,69,359,96"/>
-<area shape="rect" id="node6" href="$sched__clock_8c.html#a302268716880007a66faa1ea6f4da89f" title="sched_clock_register" alt="" coords="216,132,361,159"/>
-<area shape="rect" id="node3" href="$sched__clock_8c.html#acb3e934c10d104c7aad026ebd019a481" title="sched_clock_poll" alt="" coords="423,5,546,32"/>
-<area shape="rect" id="node4" href="$sched__clock_8c.html#a62194b89e6843ccab0b09f40a970db1e" title="sched_clock_postinit" alt="" coords="608,56,752,83"/>
-<area shape="rect" id="node5" href="$sched__clock_8c.html#afd958a913a068a50f506221c7896ccd1" title="sched_clock_suspend" alt="" coords="409,107,560,133"/>
-</map>

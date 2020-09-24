@@ -1,7 +1,0 @@
-<map id="tick_suspend" name="tick_suspend">
-<area shape="rect" id="node2" href="$tick-common_8c.html#ab8ff48911d8edb3d37cebc363c804ac2" title="tick_suspend_local" alt="" coords="167,5,300,32"/>
-<area shape="rect" id="node6" href="$tick-broadcast_8c.html#aa2440d6554c12c506b09fb65688163a7" title="tick_suspend_broadcast" alt="" coords="152,56,315,83"/>
-<area shape="rect" id="node3" href="$clockevents_8c.html#a110c2b6963825fdb2a493da7ec3d52f0" title="clockevents_shutdown" alt="" coords="363,31,517,57"/>
-<area shape="rect" id="node4" href="$clockevents_8c.html#af738190c7422701a938cb919749ea505" title="clockevents_switch\l_state" alt="" coords="565,23,703,65"/>
-<area shape="rect" id="node5" href="$clockevents_8c.html#a32b5546cace9e0f7617029fdd8abbbc1" title="__clockevents_switch\l_state" alt="" coords="751,23,901,65"/>
-</map>

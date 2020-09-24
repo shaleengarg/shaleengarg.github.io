@@ -1,7 +1,0 @@
-<map id="context_tracking_exit" name="context_tracking_exit">
-<area shape="rect" id="node2" href="$context__tracking_8c.html#ae87ac9aa50feb2131d55621d0be9920a" title="__context_tracking_exit" alt="" coords="200,71,360,98"/>
-<area shape="rect" id="node5" href="$context__tracking_8c.html#a93b1b05937bf44d6c063cdb01f189326" title="NOKPROBE_SYMBOL" alt="" coords="431,122,591,149"/>
-<area shape="rect" id="node6" href="$context__tracking_8c.html#a027b7dfa0fd423394c261ecf4dbab575" title="EXPORT_SYMBOL_GPL" alt="" coords="425,173,597,199"/>
-<area shape="rect" id="node3" href="$context__tracking_8c.html#a86fc4faac2f2d5fdd8c5c11960b8c52d" title="context_tracking_recursion\l_enter" alt="" coords="422,5,601,47"/>
-<area shape="rect" id="node4" href="$context__tracking_8c.html#a2859bed91ea36a4e11da75e80dff0712" title="context_tracking_recursion_exit" alt="" coords="408,71,615,98"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="apply_wqattrs_ctx" name="apply_wqattrs_ctx">
-<area shape="rect" id="node2" href="$structpool__workqueue.html" title="pool_workqueue" alt="" coords="219,5,335,32"/>
-<area shape="rect" id="node4" href="$structworker.html" title="worker" alt="" coords="247,103,308,130"/>
-<area shape="rect" id="node5" href="$structworkqueue__struct.html" title="workqueue_struct" alt="" coords="372,216,497,243"/>
-<area shape="rect" id="node3" href="$structworker__pool.html" title="worker_pool" alt="" coords="115,216,207,243"/>
-<area shape="rect" id="node6" href="$structwq__flusher.html" title="wq_flusher" alt="" coords="441,103,527,130"/>
-</map>

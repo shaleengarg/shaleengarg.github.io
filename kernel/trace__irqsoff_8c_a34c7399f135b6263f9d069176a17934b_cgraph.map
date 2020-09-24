@@ -1,9 +1,0 @@
-<map id="tracer_preempt_off" name="tracer_preempt_off">
-<area shape="rect" id="node2" href="$bpf_2core_8c.html#a17823eb497a027a05f74736985607bb5" title="DEFINE_PER_CPU" alt="" coords="184,5,327,32"/>
-<area shape="rect" id="node3" href="$trace__irqsoff_8c.html#ae071b1c542438c600f7fe011532dcfdc" title="tracer_hardirqs_on" alt="" coords="191,56,320,83"/>
-<area shape="rect" id="node4" href="$audit_8c.html#ac10f0c1c75854e352e167371fc37bd3e" title="EXPORT_SYMBOL" alt="" coords="186,107,325,133"/>
-<area shape="rect" id="node5" href="$trace__irqsoff_8c.html#a58ebb98c872d5d94b75328441ac80402" title="tracer_hardirqs_off" alt="" coords="190,157,321,184"/>
-<area shape="rect" id="node6" href="$trace__irqsoff_8c.html#a3c71deff2fb0c1d90faf6660416cef2c" title="tracer_hardirqs_on\l_caller" alt="" coords="191,209,320,250"/>
-<area shape="rect" id="node7" href="$trace__irqsoff_8c.html#ae505016900c47055990012daf7ab3987" title="tracer_hardirqs_off\l_caller" alt="" coords="190,274,321,315"/>
-<area shape="rect" id="node8" href="$trace__irqsoff_8c.html#a50569357d1345ae6cfe6340b57a48506" title="tracer_preempt_on" alt="" coords="190,340,321,367"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="dump_cpu_task" name="dump_cpu_task">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#abbe4a8dc679648cc6a0091191e50e791" title="sched_show_task" alt="" coords="168,31,295,57"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#aed5aaad3e45c2c48420678975a7c60e7" title="print_worker_info" alt="" coords="368,5,489,32"/>
-<area shape="rect" id="node6" href="$bpf_2core_8c.html#a873375a123a9cdec2363428e9c58d0e4" title="EXPORT_SYMBOL_GPL" alt="" coords="343,56,515,83"/>
-<area shape="rect" id="node4" href="$kthread_8c.html#a796b17ca1481a9960499cf3138c77f97" title="kthread_probe_data" alt="" coords="563,5,699,32"/>
-<area shape="rect" id="node5" href="$kthread_8c.html#af6f52ee3f6f9d6e0011dbb3038b56023" title="to_kthread" alt="" coords="747,5,829,32"/>
-</map>

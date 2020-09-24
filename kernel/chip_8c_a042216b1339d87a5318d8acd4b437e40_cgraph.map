@@ -1,6 +1,0 @@
-<map id="__irq_disable" name="__irq_disable">
-<area shape="rect" id="node2" href="$chip_8c.html#af966354d0da58415966fdd6ddc3cab16" title="mask_irq" alt="" coords="152,5,227,32"/>
-<area shape="rect" id="node3" href="$internals_8h.html#aacc952157d4a58b881c0654754187ea2" title="irq_state_set_masked" alt="" coords="275,56,426,83"/>
-<area shape="rect" id="node5" href="$internals_8h.html#a408d5a786fa5e0a674f4385abb5fe24b" title="irq_state_set_disabled" alt="" coords="275,107,427,133"/>
-<area shape="rect" id="node4" href="$internals_8h.html#aac862a1ae8de71b6ed2e9f9a92b49233" title="irqd_set" alt="" coords="475,81,543,108"/>
-</map>

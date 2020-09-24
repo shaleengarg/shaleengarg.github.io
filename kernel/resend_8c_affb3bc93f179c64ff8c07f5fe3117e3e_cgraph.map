@@ -1,4 +1,0 @@
-<map id="check_irq_resend" name="check_irq_resend">
-<area shape="rect" id="node2" href="$settings_8h.html#a99dbc5e86fc385cebcac3a220a4dc98f" title="irq_settings_is_level" alt="" coords="183,5,323,32"/>
-<area shape="rect" id="node3" href="$settings_8h.html#a8e423c6516cd0818441deee36b06e9c1" title="irq_settings_is_nested\l_thread" alt="" coords="177,57,329,98"/>
-</map>

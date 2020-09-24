@@ -1,7 +1,0 @@
-<map id="mutex_trylock" name="mutex_trylock">
-<area shape="rect" id="node2" href="$mutex_8c.html#a7fcd9b6f6e0f83d952e5e2e8cccb018b" title="__mutex_trylock" alt="" coords="167,31,286,57"/>
-<area shape="rect" id="node6" href="$mutex_8c.html#a7a2da271010a6b73a3c535be62add967" title="EXPORT_SYMBOL" alt="" coords="157,81,296,108"/>
-<area shape="rect" id="node3" href="$mutex_8c.html#ab3cff3866883a52671c51ab4522e6453" title="__mutex_trylock_or\l_owner" alt="" coords="344,23,480,65"/>
-<area shape="rect" id="node4" href="$mutex_8c.html#a3d507133d91cb543e675bade6b1496a1" title="__owner_flags" alt="" coords="528,5,635,32"/>
-<area shape="rect" id="node5" href="$mutex_8c.html#ab8be84b01e7f762cda3c3a3fb84bc29f" title="__owner_task" alt="" coords="530,56,633,83"/>
-</map>

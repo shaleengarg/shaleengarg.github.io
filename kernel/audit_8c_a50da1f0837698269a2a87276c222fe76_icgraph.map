@@ -1,5 +1,0 @@
-<map id="audit_set_rate_limit" name="audit_set_rate_limit">
-<area shape="rect" id="node2" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="188,5,319,32"/>
-<area shape="rect" id="node3" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="367,5,465,32"/>
-<area shape="rect" id="node4" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="513,5,612,32"/>
-</map>

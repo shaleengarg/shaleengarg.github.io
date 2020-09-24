@@ -1,7 +1,0 @@
-<map id="rcu_torture_timer" name="rcu_torture_timer">
-<area shape="rect" id="node2" href="$rcutorture_8c.html#ae659ca84cd3d951a4616fb6b211e4fe4" title="DEFINE_SPINLOCK" alt="" coords="174,5,321,32"/>
-<area shape="rect" id="node3" href="$rcutorture_8c.html#a34951ab30c274ade167dc480d9259e6f" title="rcu_trace_clock_local" alt="" coords="173,56,321,83"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#aafb8dd463965a740b733f87c817dad30" title="torturing_tasks" alt="" coords="193,107,301,133"/>
-<area shape="rect" id="node5" href="$rcutorture_8c.html#a29656ed4f85ae345bca507c3d4c84804" title="rcu_torture_timer_cb" alt="" coords="177,157,318,184"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="369,157,420,184"/>
-</map>

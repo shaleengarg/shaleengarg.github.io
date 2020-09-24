@@ -1,5 +1,0 @@
-<map id="drain_workqueue" name="drain_workqueue">
-<area shape="rect" id="node2" href="$workqueue_8c.html#aba492916084f98737c12403a3b80946d" title="destroy_workqueue" alt="" coords="173,31,308,57"/>
-<area shape="rect" id="node3" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="365,5,508,32"/>
-<area shape="rect" id="node4" href="$workqueue_8c.html#a0741bc69c59f0b091f5cf6f0cc7d0aca" title="__alloc_workqueue_key" alt="" coords="356,56,517,83"/>
-</map>

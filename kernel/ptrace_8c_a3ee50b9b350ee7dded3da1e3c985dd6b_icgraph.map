@@ -1,6 +1,0 @@
-<map id="ptrace_freeze_traced" name="ptrace_freeze_traced">
-<area shape="rect" id="node2" href="$ptrace_8c.html#ae9d6655d024f1c4acd9d3a57b6bb1f7d" title="ptrace_check_attach" alt="" coords="197,31,340,57"/>
-<area shape="rect" id="node3" href="$ptrace_8c.html#ad625cbb8c3b73c6d7e359f100f978a2e" title="SYSCALL_DEFINE4" alt="" coords="398,5,545,32"/>
-<area shape="rect" id="node4" href="$ptrace_8c.html#aad4d3340d6dfdbb390ffee3d05054442" title="generic_ptrace_pokedata" alt="" coords="388,56,555,83"/>
-<area shape="rect" id="node5" href="$ptrace_8c.html#a997fa2d54d41aefc751e7f2881be3d89" title="ptrace_request" alt="" coords="603,56,711,83"/>
-</map>

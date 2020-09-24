@@ -1,6 +1,0 @@
-<map id="printk_safe_flush" name="printk_safe_flush">
-<area shape="rect" id="node2" href="$printk__safe_8c.html#a9cfa2de02bb7a00b5a6967e3c6380e96" title="__printk_safe_flush" alt="" coords="175,31,309,57"/>
-<area shape="rect" id="node3" href="$printk__safe_8c.html#a25aa608ecb29700997f56a4c36602867" title="printk_safe_flush_line" alt="" coords="567,5,715,32"/>
-<area shape="rect" id="node4" href="$printk__safe_8c.html#ac48d27a0aa528cbfe86e5ef09fd073a3" title="printk_safe_flush_buffer" alt="" coords="357,31,519,57"/>
-<area shape="rect" id="node5" href="$printk__safe_8c.html#a4188a740525381757d23835941a73ef7" title="report_message_lost" alt="" coords="367,81,509,108"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="audit_filter_inodes" name="audit_filter_inodes">
-<area shape="rect" id="node2" href="$audit__watch_8c.html#a99616cc680b98c887f8b8965b75fbe60" title="audit_update_watch" alt="" coords="180,17,319,43"/>
-<area shape="rect" id="node4" href="$auditsc_8c.html#a9e300a7505382f8f3769fb8e31bc36dc" title="audit_take_context" alt="" coords="183,71,315,98"/>
-<area shape="rect" id="node3" href="$audit__watch_8c.html#aed90bb4f76a3158bc6eece755cdadfd4" title="audit_watch_handle\l_event" alt="" coords="368,5,505,47"/>
-<area shape="rect" id="node5" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="390,71,483,98"/>
-<area shape="rect" id="node6" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="367,122,507,149"/>
-</map>

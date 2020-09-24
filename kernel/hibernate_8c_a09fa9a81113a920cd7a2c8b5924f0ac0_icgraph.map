@@ -1,7 +1,0 @@
-<map id="power_attr" name="power_attr">
-<area shape="rect" id="node2" href="$hibernate_8c.html#acf433a956e83bb1832b27327e0632ffc" title="disk_store" alt="" coords="165,5,248,32"/>
-<area shape="rect" id="node3" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="156,56,257,83"/>
-<area shape="rect" id="node4" href="$hibernate_8c.html#a3cc37067cf932e4961e09b95ef175e7f" title="resume_offset_store" alt="" coords="136,107,277,133"/>
-<area shape="rect" id="node5" href="$hibernate_8c.html#a8ee8e2ab69fb2d8cc948341009e10ed4" title="image_size_store" alt="" coords="145,157,269,184"/>
-<area shape="rect" id="node6" href="$hibernate_8c.html#aa03d2ed62880bd00f926f9764dae785f" title="reserved_size_store" alt="" coords="137,208,276,235"/>
-</map>

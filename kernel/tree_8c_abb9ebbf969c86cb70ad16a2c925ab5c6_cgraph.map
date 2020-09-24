@@ -1,5 +1,0 @@
-<map id="dyntick_save_progress_counter" name="dyntick_save_progress_counter">
-<area shape="rect" id="node2" href="$tree_8c.html#a1d2ee623421a78490ee7c3f02cfbdd87" title="rcu_dynticks_snap" alt="" coords="215,5,345,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#aaafe3f5cb9115178aa11eee02a3f0f7c" title="rcu_dynticks_in_eqs" alt="" coords="209,56,351,83"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a3569286a5ea828aa8bc01cc07b5927d9" title="rcu_gpnum_ovf" alt="" coords="225,107,335,133"/>
-</map>

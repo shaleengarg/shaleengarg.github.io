@@ -1,8 +1,0 @@
-<map id="may_ptrace_stop" name="may_ptrace_stop">
-<area shape="rect" id="node2" href="$signal_8c.html#ae5f80b96a95b4ff29d651053dfef29cc" title="ptrace_stop" alt="" coords="176,56,267,83"/>
-<area shape="rect" id="node3" href="$signal_8c.html#a38859d9e3e67e2de0fbcdb138f13cac2" title="ptrace_do_notify" alt="" coords="315,5,433,32"/>
-<area shape="rect" id="node5" href="$signal_8c.html#a08984cc375d0e294bcf8180f8ed3dbad" title="do_jobctl_trap" alt="" coords="481,56,584,83"/>
-<area shape="rect" id="node7" href="$signal_8c.html#ac9bd0c3ed896173cf8e504443ce3ae69" title="ptrace_signal" alt="" coords="325,107,423,133"/>
-<area shape="rect" id="node4" href="$signal_8c.html#a0ffbd1024fcfecb02b5bdecf985a0301" title="ptrace_notify" alt="" coords="484,5,581,32"/>
-<area shape="rect" id="node6" href="$signal_8c.html#a547a534624a6ca37d2f8f1ce9fbea98c" title="get_signal" alt="" coords="632,81,713,108"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="effective_prio" name="effective_prio">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#a20d36e6607ad98ce8fc627a9f90c57ea" title="normal_prio" alt="" coords="153,56,243,83"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a9e80437668102e12cb7ca69660317ce1" title="task_has_dl_policy" alt="" coords="291,5,424,32"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a77f352846c77c10232160570e530adde" title="task_has_rt_policy" alt="" coords="292,56,423,83"/>
-<area shape="rect" id="node7" href="$sched_2core_8c.html#ab8c6024eb9dcfa2977b9c73061048376" title="__normal_prio" alt="" coords="306,107,409,133"/>
-<area shape="rect" id="node4" href="$sched_8h.html#a8e921e69215558268f8ac5d5e7952303" title="dl_policy" alt="" coords="472,5,545,32"/>
-<area shape="rect" id="node6" href="$sched_8h.html#af7e604bf2fa77ebe748d539f3d7ddbaf" title="rt_policy" alt="" coords="473,56,544,83"/>
-</map>

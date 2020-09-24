@@ -1,6 +1,0 @@
-<map id="to_pid_ns" name="to_pid_ns">
-<area shape="rect" id="node2" href="$pid__namespace_8c.html#ae08b00d5a51dc7a89bb459dd3c7d434d" title="pidns_put" alt="" coords="153,5,232,32"/>
-<area shape="rect" id="node3" href="$pid__namespace_8c.html#a61cc1e86b363f3c348148aef2413f1b0" title="pidns_install" alt="" coords="145,56,240,83"/>
-<area shape="rect" id="node4" href="$pid__namespace_8c.html#ab09a83ca6c44f481b06efd8da842c8ca" title="pidns_get_parent" alt="" coords="132,107,253,133"/>
-<area shape="rect" id="node5" href="$pid__namespace_8c.html#aaa6a75dabf41621f560c04bd919b5085" title="pidns_owner" alt="" coords="145,157,240,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="bpf_prog_array_copy_info" name="bpf_prog_array_copy_info">
-<area shape="rect" id="node2" href="$bpf__trace_8c.html#a7fada7acca0a25b9b183b6459b0af769" title="perf_event_query_prog\l_array" alt="" coords="224,5,379,47"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a1df503a5593ea72b7257454ac3315340" title="_perf_ioctl" alt="" coords="427,13,509,39"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#add3d5e75d18f158f3354b761711aa429" title="perf_ioctl" alt="" coords="557,13,632,39"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="680,13,771,39"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="autogroup_move_group" name="autogroup_move_group">
-<area shape="rect" id="node2" href="$autogroup_8c.html#aa7d09b7e28e8c215a560953a8d8d18fe" title="sched_autogroup_create\l_attach" alt="" coords="212,5,376,47"/>
-<area shape="rect" id="node5" href="$autogroup_8c.html#a70d00d76f64051644f5304a9a1f48fef" title="sched_autogroup_detach" alt="" coords="211,71,377,98"/>
-<area shape="rect" id="node3" href="$sys_8c.html#a4a0a038df39475c0a03c8a5ed0aeced6" title="ksys_setsid" alt="" coords="425,13,517,39"/>
-<area shape="rect" id="node4" href="$sys_8c.html#a1dd185ebee70191591185d273c2aaffd" title="SYSCALL_DEFINE0" alt="" coords="565,13,712,39"/>
-</map>

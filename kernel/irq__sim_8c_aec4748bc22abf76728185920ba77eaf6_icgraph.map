@@ -1,8 +1,0 @@
-<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
-<area shape="rect" id="node2" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="416,5,504,32"/>
-<area shape="rect" id="node3" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="584,56,711,83"/>
-<area shape="rect" id="node4" href="$irq__sim_8c.html#a4b1a111be98b8e29fc21e616035f4e87" title="irq_sim_fini" alt="" coords="237,107,325,133"/>
-<area shape="rect" id="node6" href="$irq__sim_8c.html#a469574a708fb083e56f864e9045119bf" title="irq_sim_fire" alt="" coords="415,183,505,209"/>
-<area shape="rect" id="node7" href="$irq__sim_8c.html#a3ceeeb5e6fb826736747024c30e9a217" title="irq_sim_irqnum" alt="" coords="225,208,336,235"/>
-<area shape="rect" id="node5" href="$irq__sim_8c.html#adbde3c31ad1e79b50672b7005d557383" title="devm_irq_sim_release" alt="" coords="384,107,536,133"/>
-</map>

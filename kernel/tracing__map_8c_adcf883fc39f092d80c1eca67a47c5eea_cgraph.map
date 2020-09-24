@@ -1,4 +1,0 @@
-<map id="tracing_map_array_alloc" name="tracing_map_array_alloc">
-<area shape="rect" id="node2" href="$tracing__map_8c.html#ae7c3cd6271c08edab27c9f16977593e9" title="tracing_map_array_free" alt="" coords="216,5,375,32"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="423,5,473,32"/>
-</map>

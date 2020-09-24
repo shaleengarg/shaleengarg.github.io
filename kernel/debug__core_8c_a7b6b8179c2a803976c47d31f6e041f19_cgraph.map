@@ -1,5 +1,0 @@
-<map id="dbg_notify_reboot" name="dbg_notify_reboot">
-<area shape="rect" id="node2" href="$debug__core_8c.html#a48ddb09042779698361e977262767012" title="kgdb_breakpoint" alt="" coords="179,5,296,32"/>
-<area shape="rect" id="node4" href="$gdbstub_8c.html#ab014fca6659e9272b237e9ac396be266" title="gdbstub_exit" alt="" coords="189,56,285,83"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#a897faeedea71f06fb132ed13868df9f7" title="EXPORT_SYMBOL_GPL" alt="" coords="344,5,516,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="zap_other_threads" name="zap_other_threads">
-<area shape="rect" id="node2" href="$exit_8c.html#a2e8853d6f32316ece60eff5494a29fbd" title="do_group_exit" alt="" coords="183,56,285,83"/>
-<area shape="rect" id="node3" href="$exit_8c.html#a45c01972f8937676a52ede6ec5ebc0fe" title="SYSCALL_DEFINE1" alt="" coords="342,5,489,32"/>
-<area shape="rect" id="node4" href="$seccomp_8c.html#af482947679e7c804a4e11ff5d4e7dc9d" title="secure_computing_strict" alt="" coords="333,56,497,83"/>
-<area shape="rect" id="node5" href="$signal_8c.html#a547a534624a6ca37d2f8f1ce9fbea98c" title="get_signal" alt="" coords="375,107,456,133"/>
-</map>

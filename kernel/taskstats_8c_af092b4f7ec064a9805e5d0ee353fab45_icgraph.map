@@ -1,5 +1,0 @@
-<map id="add_del_listener" name="add_del_listener">
-<area shape="rect" id="node2" href="$taskstats_8c.html#a55aafdfef4d0de42731fe83f752ebbbc" title="cmd_attr_register_cpumask" alt="" coords="169,5,352,32"/>
-<area shape="rect" id="node4" href="$taskstats_8c.html#abd41cee0059435478041065c5937bcfb" title="cmd_attr_deregister\l_cpumask" alt="" coords="192,57,329,98"/>
-<area shape="rect" id="node3" href="$taskstats_8c.html#aaa2e3ba6b92e1e845e1fa81ee5460b95" title="taskstats_user_cmd" alt="" coords="400,35,540,61"/>
-</map>

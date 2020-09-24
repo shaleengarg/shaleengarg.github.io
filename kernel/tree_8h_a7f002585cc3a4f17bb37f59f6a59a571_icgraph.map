@@ -1,5 +1,0 @@
-<map id="rcu_preempt_boost_start_gp" name="rcu_preempt_boost_start_gp">
-<area shape="rect" id="node2" href="$tree_8c.html#ae204406f2794b2408bc3ef5ba20015dc" title="rcu_gp_init" alt="" coords="240,5,325,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a8970305863efcd2eb60e81cab4f5fba8" title="rcu_gp_kthread" alt="" coords="373,5,484,32"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a265eab7d250c47809d5bbe4580ee909d" title="rcu_spawn_gp_kthread" alt="" coords="532,5,688,32"/>
-</map>

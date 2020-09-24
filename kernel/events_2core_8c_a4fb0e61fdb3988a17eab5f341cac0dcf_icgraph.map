@@ -1,5 +1,0 @@
-<map id="find_swevent_head_rcu" name="find_swevent_head_rcu">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a2794fcdeb0eb44901ee65a21e0b5f271" title="do_perf_sw_event" alt="" coords="212,5,340,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#af621e768ad744d2d7c34db34d1a3468c" title="___perf_sw_event" alt="" coords="388,5,516,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#ae8bd9c68b75b032e0813c7bdead8d9b3" title="__perf_sw_event" alt="" coords="564,5,685,32"/>
-</map>

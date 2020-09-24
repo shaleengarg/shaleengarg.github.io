@@ -1,5 +1,0 @@
-<map id="perf_event_validate_size" name="perf_event_validate_size">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a7a4174ec388fe2ad75434dce3973c0e9" title="__perf_event_read_size" alt="" coords="232,5,392,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a141f91b3f5f03ce0c19c397b5aabe412" title="__perf_event_header_size" alt="" coords="225,56,399,83"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a6668f84076a56d31793b99df6304dae2" title="perf_event__id_header_size" alt="" coords="220,107,404,133"/>
-</map>

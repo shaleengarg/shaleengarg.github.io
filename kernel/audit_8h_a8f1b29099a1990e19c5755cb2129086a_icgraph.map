@@ -1,6 +1,0 @@
-<map id="audit_dupe_rule" name="audit_dupe_rule">
-<area shape="rect" id="node2" href="$audit__watch_8c.html#a99616cc680b98c887f8b8965b75fbe60" title="audit_update_watch" alt="" coords="167,15,305,42"/>
-<area shape="rect" id="node4" href="$auditfilter_8c.html#a0a5d179fce7b8897abe4520a397598a9" title="update_lsm_rule" alt="" coords="177,67,295,94"/>
-<area shape="rect" id="node3" href="$audit__watch_8c.html#aed90bb4f76a3158bc6eece755cdadfd4" title="audit_watch_handle\l_event" alt="" coords="364,5,501,47"/>
-<area shape="rect" id="node5" href="$auditfilter_8c.html#ab9819ba3f1f72ceb6a99875847be10de" title="audit_update_lsm_rules" alt="" coords="353,71,512,98"/>
-</map>

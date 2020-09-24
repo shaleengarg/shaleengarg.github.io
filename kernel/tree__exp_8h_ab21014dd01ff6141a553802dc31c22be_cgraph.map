@@ -1,7 +1,0 @@
-<map id="sync_exp_work_done" name="sync_exp_work_done">
-<area shape="rect" id="node2" href="$tree__exp_8h.html#a92a6eecef36e3138b0387c1a48ef30b1" title="rcu_exp_gp_seq_done" alt="" coords="201,31,353,57"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ab8de63eac3585c2fd486f7784a569e5f" title="rcu_seq_done" alt="" coords="401,31,504,57"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="559,5,718,32"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#a690f10e462cb94f720919737886cea7f" title="debug_rcu_head_unqueue" alt="" coords="552,56,725,83"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="773,56,824,83"/>
-</map>

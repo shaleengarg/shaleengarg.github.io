@@ -1,7 +1,0 @@
-<map id="__ipi_send_mask" name="__ipi_send_mask">
-<area shape="rect" id="node2" href="$ipi_8c.html#a36f8fbe2f00a6646ebec800a25623fc5" title="ipi_send_verify" alt="" coords="179,5,288,32"/>
-<area shape="rect" id="node3" href="$chip_8c.html#a8291de3ee7ba0f7adcc6dba911060370" title="irq_get_irq_data" alt="" coords="176,56,291,83"/>
-<area shape="rect" id="node4" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="380,31,469,57"/>
-<area shape="rect" id="node6" href="$chip_8c.html#a5594e82f23dd60e01d6a16650a6402ea" title="EXPORT_SYMBOL_GPL" alt="" coords="339,81,511,108"/>
-<area shape="rect" id="node5" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="559,31,697,57"/>
-</map>

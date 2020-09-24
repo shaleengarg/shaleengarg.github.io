@@ -1,9 +1,0 @@
-<map id="padata_free_pd" name="padata_free_pd">
-<area shape="rect" id="node2" href="$padata_8c.html#a00a3dd75d5a332c8ef99dea0c6f880b9" title="padata_replace" alt="" coords="164,56,275,83"/>
-<area shape="rect" id="node7" href="$padata_8c.html#a248f2735e90c5f84c876aa9e30dce22d" title="__padata_free" alt="" coords="559,81,663,108"/>
-<area shape="rect" id="node3" href="$padata_8c.html#a5b140cff7eaed14107507a1d4c4949a7" title="__padata_set_cpumasks" alt="" coords="323,5,489,32"/>
-<area shape="rect" id="node6" href="$padata_8c.html#a43d202844ddb6478cd4bfee989018a99" title="padata_stop" alt="" coords="359,56,453,83"/>
-<area shape="rect" id="node4" href="$padata_8c.html#a50450e7323fcbd0036720238c9f2e5a4" title="padata_set_cpumask" alt="" coords="537,5,684,32"/>
-<area shape="rect" id="node5" href="$padata_8c.html#a2dd2502596ef9936126f81f6d7f036ee" title="store_cpumask" alt="" coords="751,5,862,32"/>
-<area shape="rect" id="node8" href="$padata_8c.html#aa1d18d3d379f2507978777107e3e1f67" title="padata_sysfs_release" alt="" coords="732,81,881,108"/>
-</map>

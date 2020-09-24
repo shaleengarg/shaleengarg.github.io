@@ -1,9 +1,0 @@
-<map id="valid_state" name="valid_state">
-<area shape="rect" id="node2" href="$suspend_8c.html#a79fcc9c866cf2f43c7082c30a50ca8a5" title="suspend_set_ops" alt="" coords="139,5,263,32"/>
-<area shape="rect" id="node3" href="$suspend_8c.html#aff34286305debe108d3dea2eca736783" title="enter_state" alt="" coords="157,56,244,83"/>
-<area shape="rect" id="node4" href="$suspend_8c.html#a1d9d02cdc28997d94c29d1c9f0e7f9b2" title="pm_suspend" alt="" coords="311,56,407,83"/>
-<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="457,5,567,32"/>
-<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="469,56,555,83"/>
-<area shape="rect" id="node7" href="$suspend__test_8c.html#ae9e9ccfc09bc9bfe4d93dd2d06e9667e" title="test_wakealarm" alt="" coords="455,107,569,133"/>
-<area shape="rect" id="node8" href="$suspend__test_8c.html#ad3bf8de9b6f0844cf2a3ef591c4e45e6" title="test_suspend" alt="" coords="617,107,717,133"/>
-</map>

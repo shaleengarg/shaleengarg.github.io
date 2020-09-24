@@ -1,5 +1,0 @@
-<map id="sched_init_smp" name="sched_init_smp">
-<area shape="rect" id="node2" href="$fair_8c.html#a4499ac3117cfa2113a580dda7dccec7c" title="sched_init_granularity" alt="" coords="167,5,315,32"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a067152961c4c7ba902db94f7efaacfaf" title="update_sysctl" alt="" coords="363,5,465,32"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a23b8877f4cc8bbe8d52083fac1f54802" title="get_update_sysctl_factor" alt="" coords="513,5,681,32"/>
-</map>

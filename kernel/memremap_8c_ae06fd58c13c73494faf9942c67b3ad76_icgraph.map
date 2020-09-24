@@ -1,4 +1,0 @@
-<map id="arch_memremap_wb" name="arch_memremap_wb">
-<area shape="rect" id="node2" href="$memremap_8c.html#a850fdc63b7722264a5a2bcba44c44115" title="memremap" alt="" coords="196,5,283,32"/>
-<area shape="rect" id="node3" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="331,5,457,32"/>
-</map>

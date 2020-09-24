@@ -1,6 +1,0 @@
-<map id="delayed_free_pidns" name="delayed_free_pidns">
-<area shape="rect" id="node2" href="$pid__namespace_8c.html#a9a948cc650a681f84ec1c836741f82d0" title="dec_pid_namespaces" alt="" coords="188,5,336,32"/>
-<area shape="rect" id="node3" href="$ucount_8c.html#a748bea8153fc62832f76d542093fc716" title="dec_ucount" alt="" coords="384,5,473,32"/>
-<area shape="rect" id="node4" href="$ucount_8c.html#a9deb3ac4212106a6716b1a3cd7374347" title="put_ucounts" alt="" coords="521,5,615,32"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="663,5,713,32"/>
-</map>

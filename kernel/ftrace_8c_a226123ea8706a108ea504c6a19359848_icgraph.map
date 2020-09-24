@@ -1,5 +1,0 @@
-<map id="ftrace_update_pid_func" name="ftrace_update_pid_func">
-<area shape="rect" id="node2" href="$ftrace_8c.html#a73e1b54e11af21980334921b2887f19a" title="ftrace_pid_reset" alt="" coords="211,5,325,32"/>
-<area shape="rect" id="node4" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="211,56,325,83"/>
-<area shape="rect" id="node3" href="$ftrace_8c.html#a6ee78376b5ade9167c82ce71dfef009d" title="ftrace_pid_open" alt="" coords="373,5,488,32"/>
-</map>

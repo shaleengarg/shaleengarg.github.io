@@ -1,4 +1,0 @@
-<map id="irq_percpu_disable" name="irq_percpu_disable">
-<area shape="rect" id="node2" href="$chip_8c.html#a81fedb570e05fb4e0a37b7e88fdc196c" title="handle_percpu_devid_irq" alt="" coords="184,5,349,32"/>
-<area shape="rect" id="node3" href="$manage_8c.html#afe2572deb97c28c34f5487afed717006" title="disable_percpu_irq" alt="" coords="201,56,332,83"/>
-</map>

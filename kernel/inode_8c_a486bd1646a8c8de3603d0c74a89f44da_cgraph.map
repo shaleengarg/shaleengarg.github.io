@@ -1,6 +1,0 @@
-<map id="bpf_any_get" name="bpf_any_get">
-<area shape="rect" id="node2" href="$syscall_8c.html#af94758ebf997b5c1e5b3480d9a1fd9ce" title="bpf_prog_inc" alt="" coords="147,31,243,57"/>
-<area shape="rect" id="node5" href="$syscall_8c.html#a79bac2eec900fea67fdf02e01b9d0f1d" title="bpf_map_inc" alt="" coords="147,81,243,108"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#afcad6580e15acbb14db40ec651de9191" title="bpf_prog_add" alt="" coords="291,5,391,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a5c049986025408379f12ce15fb2c4e48" title="EXPORT_SYMBOL_GPL" alt="" coords="439,31,611,57"/>
-</map>

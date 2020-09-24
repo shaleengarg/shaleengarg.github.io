@@ -1,5 +1,0 @@
-<map id="tracing_start_tr" name="tracing_start_tr">
-<area shape="rect" id="node2" href="$trace_8c.html#af9731935bbb495389e709621b80c65be" title="tracing_start" alt="" coords="163,5,257,32"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a4a40842a5bd5206673df348bb1102636" title="ring_buffer_record\l_enable" alt="" coords="305,23,432,65"/>
-<area shape="rect" id="node4" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="480,31,652,57"/>
-</map>

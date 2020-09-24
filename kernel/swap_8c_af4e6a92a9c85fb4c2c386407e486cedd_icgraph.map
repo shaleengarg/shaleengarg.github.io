@@ -1,9 +1,0 @@
-<map id="release_swap_writer" name="release_swap_writer">
-<area shape="rect" id="node2" href="$swap_8c.html#ab373aed188d5480f0f17b1d4e7ee85b5" title="get_swap_writer" alt="" coords="201,31,319,57"/>
-<area shape="rect" id="node8" href="$swap_8c.html#a733e20ee1ad66b5c58b6c8a77c4ea49d" title="swap_writer_finish" alt="" coords="195,81,325,108"/>
-<area shape="rect" id="node3" href="$swap_8c.html#a98062ebed0f1d6fb365900bf752f3259" title="swsusp_write" alt="" coords="373,56,476,83"/>
-<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="524,56,599,83"/>
-<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="665,5,775,32"/>
-<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="677,56,763,83"/>
-<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="647,107,793,133"/>
-</map>

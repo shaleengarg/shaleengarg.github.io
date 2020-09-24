@@ -1,5 +1,0 @@
-<map id="del_event_from_groups" name="del_event_from_groups">
-<area shape="rect" id="node2" href="$events_2core_8c.html#abd0a882632a4188d32ead07f45f450a5" title="get_event_groups" alt="" coords="233,5,359,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a70575ca7cc163b0aef58cf4dc11def3c" title="perf_event_groups_delete" alt="" coords="211,56,381,83"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a7fc3a3adf8506aa9f7fd6d53d0873f08" title="init_event_group" alt="" coords="429,56,547,83"/>
-</map>

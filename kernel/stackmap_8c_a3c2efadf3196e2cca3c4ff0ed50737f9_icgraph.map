@@ -1,5 +1,0 @@
-<map id="stack_map_get_build_id_64" name="stack_map_get_build_id_64">
-<area shape="rect" id="node2" href="$stackmap_8c.html#a0b3759bc9628cc5c5794516509e8fadd" title="stack_map_get_build_id" alt="" coords="199,13,361,39"/>
-<area shape="rect" id="node3" href="$stackmap_8c.html#a751d7d4ae115aa63440e2807deeb0c7b" title="stack_map_get_build\l_id_offset" alt="" coords="409,5,555,47"/>
-<area shape="rect" id="node4" href="$stackmap_8c.html#ac245996cc7e120867ea30a425d3bcfa4" title="BPF_CALL_3" alt="" coords="603,13,705,39"/>
-</map>

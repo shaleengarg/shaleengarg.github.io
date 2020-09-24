@@ -1,5 +1,0 @@
-<map id="down_write_trylock" name="down_write_trylock">
-<area shape="rect" id="node2" href="$rwsem-spinlock_8c.html#ae3464ea0387fa5cfe66156965d4802a5" title="__down_write_trylock" alt="" coords="188,5,336,32"/>
-<area shape="rect" id="node3" href="$rwsem_8h.html#aa8360daebe3eb16e3316cf0c9aa9ea44" title="rwsem_set_owner" alt="" coords="198,56,326,83"/>
-<area shape="rect" id="node4" href="$rwsem_8c.html#a26be9de30c6c4b054df3ebe9785baf40" title="EXPORT_SYMBOL" alt="" coords="193,107,331,133"/>
-</map>

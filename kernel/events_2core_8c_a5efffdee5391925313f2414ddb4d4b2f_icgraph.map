@@ -1,6 +1,0 @@
-<map id="swevent_hlist_put_cpu" name="swevent_hlist_put_cpu">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a6a888256be03213c688c145d5d803e82" title="swevent_hlist_put" alt="" coords="208,5,335,32"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a43d6265d9ffef7ab09627f7478e4db86" title="swevent_hlist_get" alt="" coords="398,56,525,83"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a654fab885d8562c9eae84d0d0f124cc5" title="sw_perf_event_destroy" alt="" coords="383,5,540,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a177b90422bd4ae48d769c7e5a89117b1" title="perf_swevent_init" alt="" coords="588,31,712,57"/>
-</map>

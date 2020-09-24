@@ -1,6 +1,0 @@
-<map id="audit_field_compare" name="audit_field_compare">
-<area shape="rect" id="node2" href="$auditsc_8c.html#af25621ea5c411a8d6bf15adb55f8d135" title="audit_compare_uid" alt="" coords="192,5,323,32"/>
-<area shape="rect" id="node3" href="$audit_8h.html#a8fcc6ef2e630d6c2629c9c24364bf869" title="audit_uid_comparator" alt="" coords="371,44,517,71"/>
-<area shape="rect" id="node4" href="$auditsc_8c.html#a1c6a5beb5d8ab4edf551ab96c17890ea" title="audit_compare_gid" alt="" coords="192,107,323,133"/>
-<area shape="rect" id="node5" href="$audit_8h.html#a02a152bf87489e34a9d5d6897a892e30" title="audit_gid_comparator" alt="" coords="371,120,517,147"/>
-</map>

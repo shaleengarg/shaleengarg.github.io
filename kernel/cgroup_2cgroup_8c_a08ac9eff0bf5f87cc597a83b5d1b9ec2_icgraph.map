@@ -1,6 +1,0 @@
-<map id="cgroup_init_cftypes" name="cgroup_init_cftypes">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#ae5fbbd91d51007020cdb3dd86be34950" title="cgroup_add_cftypes" alt="" coords="188,81,327,108"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a687656bc860accd322a5ad9cf9ad19c4" title="cgroup_init" alt="" coords="607,81,692,108"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#af435e145e6eaae436d24e70cc0f293da" title="cgroup_add_dfl_cftypes" alt="" coords="387,5,547,32"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#a0726e3deba23c269cd331f89f40f277f" title="cgroup_add_legacy_cftypes" alt="" coords="375,107,559,133"/>
-</map>

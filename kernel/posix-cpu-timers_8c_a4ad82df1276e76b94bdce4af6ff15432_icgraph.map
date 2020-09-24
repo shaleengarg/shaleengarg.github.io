@@ -1,6 +1,0 @@
-<map id="check_clock" name="check_clock">
-<area shape="rect" id="node2" href="$posix-cpu-timers_8c.html#a4b698ceff7fe018d7f8edb5945323a76" title="posix_cpu_clock_getres" alt="" coords="148,31,311,57"/>
-<area shape="rect" id="node5" href="$posix-cpu-timers_8c.html#a109810d16f5deadcccb7c3ae5a020d4f" title="posix_cpu_clock_set" alt="" coords="157,81,301,108"/>
-<area shape="rect" id="node3" href="$posix-cpu-timers_8c.html#aa1438f268d51c15a6857df8f655c8791" title="process_cpu_clock_getres" alt="" coords="359,5,536,32"/>
-<area shape="rect" id="node4" href="$posix-cpu-timers_8c.html#afa8fdae256aee62538d063effaedda2c" title="thread_cpu_clock_getres" alt="" coords="364,56,531,83"/>
-</map>

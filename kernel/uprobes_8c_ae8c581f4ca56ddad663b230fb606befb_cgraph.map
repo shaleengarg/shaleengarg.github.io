@@ -1,6 +1,0 @@
-<map id="insert_uprobe" name="insert_uprobe">
-<area shape="rect" id="node2" href="$uprobes_8c.html#afcac7c51ff6995e521786278103a0cc7" title="__insert_uprobe" alt="" coords="153,56,268,83"/>
-<area shape="rect" id="node3" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="339,5,397,32"/>
-<area shape="rect" id="node4" href="$uprobes_8c.html#ada6bf58dec1632e0b0be507d228a8780" title="match_uprobe" alt="" coords="316,56,420,83"/>
-<area shape="rect" id="node5" href="$uprobes_8c.html#a58378052b8f506e08e6a3cc2a1201494" title="get_uprobe" alt="" coords="325,107,411,133"/>
-</map>

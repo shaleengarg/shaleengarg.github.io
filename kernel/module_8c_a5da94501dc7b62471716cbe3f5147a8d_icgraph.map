@@ -1,8 +1,0 @@
-<map id="free_module_elf" name="free_module_elf">
-<area shape="rect" id="node2" href="$module_8c.html#a61ee7b7bf0d4d0851fef9607cba884a3" title="module_disable_nx" alt="" coords="168,29,301,56"/>
-<area shape="rect" id="node4" href="$module_8c.html#ada763ec5054818654d48980ebb255fe5" title="free_module" alt="" coords="544,80,637,106"/>
-<area shape="rect" id="node3" href="$module_8c.html#a409a882c19487843396d07b750799fe0" title="mod_sysfs_teardown" alt="" coords="349,29,496,56"/>
-<area shape="rect" id="node6" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="843,54,937,81"/>
-<area shape="rect" id="node5" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="685,80,795,106"/>
-<area shape="rect" id="node7" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="985,54,1132,81"/>
-</map>

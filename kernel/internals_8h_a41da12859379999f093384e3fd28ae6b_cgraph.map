@@ -1,9 +1,0 @@
-<map id="record_irq_time" name="record_irq_time">
-<area shape="rect" id="node2" href="$internals_8h.html#ac467b55d1430bc8fa0274897a1da6f11" title="irq_init_generic_chip" alt="" coords="164,132,304,159"/>
-<area shape="rect" id="node3" href="$internals_8h.html#a653e7886dfab820bd504d3337bc9941e" title="irq_can_move_pcntxt" alt="" coords="372,5,519,32"/>
-<area shape="rect" id="node4" href="$internals_8h.html#a28b21ae419c708519b62eb47cc89ed59" title="irq_move_pending" alt="" coords="382,56,509,83"/>
-<area shape="rect" id="node5" href="$internals_8h.html#ad1ab08dc6366592d39cc62fa47be5df7" title="irq_copy_pending" alt="" coords="384,107,507,133"/>
-<area shape="rect" id="node6" href="$internals_8h.html#af0ffe0896aacf5350c16fe0d37050ed2" title="irq_get_pending" alt="" coords="389,157,502,184"/>
-<area shape="rect" id="node7" href="$internals_8h.html#a988935db61dcc4c581f2e0a60bfcb002" title="irq_desc_get_pending_mask" alt="" coords="352,208,539,235"/>
-<area shape="rect" id="node8" href="$internals_8h.html#a768fbeea472ee0b846481ae11e885d67" title="irq_fixup_move_pending" alt="" coords="364,259,527,285"/>
-</map>

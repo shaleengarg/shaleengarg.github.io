@@ -1,8 +1,0 @@
-<map id="DEFINE_PER_CPU" name="DEFINE_PER_CPU">
-<area shape="rect" id="node2" href="$smpboot_8c.html#a79ad8eaff39678d7a78f9fc362d48556" title="smpboot_update_cpumask\l_percpu_thread" alt="" coords="196,49,375,90"/>
-<area shape="rect" id="node3" href="$watchdog_8c.html#a650371cd2c58385d9fe1a2a807f8007b" title="lockup_detector_update\l_enable" alt="" coords="423,49,583,90"/>
-<area shape="rect" id="node4" href="$watchdog_8c.html#a476f5b8a8c40024c55da33b06d6df460" title="lockup_detector_reconfigure" alt="" coords="631,56,816,83"/>
-<area shape="rect" id="node5" href="$watchdog_8c.html#aeaa55bf82b4a14cb00aa53d52696011f" title="lockup_detector_setup" alt="" coords="864,5,1017,32"/>
-<area shape="rect" id="node7" href="$watchdog_8c.html#a877b175a1729e78764622286fa85893b" title="lockup_detector_soft\l_poweroff" alt="" coords="869,57,1012,98"/>
-<area shape="rect" id="node6" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="1065,5,1204,32"/>
-</map>

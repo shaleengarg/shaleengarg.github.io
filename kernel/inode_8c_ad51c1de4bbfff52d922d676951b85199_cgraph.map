@@ -1,7 +1,0 @@
-<map id="bpf_symlink" name="bpf_symlink">
-<area shape="rect" id="node2" href="$inode_8c.html#a9b092d07f8d9093a5faf5038ccd16945" title="bpf_get_inode" alt="" coords="293,39,395,65"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="163,25,213,52"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a40773162eb1d169c2f235b160b6257ff" title="bpf_dentry_finalize" alt="" coords="279,115,409,141"/>
-<area shape="rect" id="node5" href="$inode_8c.html#a5831500cab90343a62e161f6d19c7feb" title="bpf_lookup" alt="" coords="145,127,231,153"/>
-<area shape="rect" id="node6" href="$inode_8c.html#a826a75955a18fc0a945bdc3a80e5d39d" title="bpf_mkdir" alt="" coords="149,76,227,103"/>
-</map>

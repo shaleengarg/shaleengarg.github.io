@@ -1,4 +1,0 @@
-<map id="mmio_close" name="mmio_close">
-<area shape="rect" id="node2" href="$trace__mmiotrace_8c.html#a902d200968b7ba708a956ae4434113db" title="destroy_header_iter" alt="" coords="145,5,281,32"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="329,5,380,32"/>
-</map>

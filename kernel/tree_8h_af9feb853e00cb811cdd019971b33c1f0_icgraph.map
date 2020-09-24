@@ -1,7 +1,0 @@
-<map id="rcu_boot_init_nocb_percpu_data" name="rcu_boot_init_nocb_percpu_data">
-<area shape="rect" id="node2" href="$tree_8c.html#afc06c1901227fb2d36ef0fdfff815904" title="rcu_boot_init_percpu_data" alt="" coords="184,35,359,61"/>
-<area shape="rect" id="node3" href="$tree_8c.html#ad1f724e09bfd1f066b2a9b37c58208a8" title="rcu_init_one" alt="" coords="407,35,499,61"/>
-<area shape="rect" id="node4" href="$tree_8c.html#aa0e5bf97f28c8ca03e7ce0cc57d6f5f5" title="rcu_init" alt="" coords="589,5,653,32"/>
-<area shape="rect" id="node5" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="547,57,696,98"/>
-<area shape="rect" id="node6" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="744,64,893,91"/>
-</map>

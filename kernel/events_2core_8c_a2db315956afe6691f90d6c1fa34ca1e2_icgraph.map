@@ -1,6 +1,0 @@
-<map id="perf_mux_hrtimer_handler" name="perf_mux_hrtimer_handler">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a19d176562498e9fb7a28c0f58114217a" title="__perf_mux_hrtimer_init" alt="" coords="225,5,387,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#aa7c4b42ada67b37d2c408c24675888cb" title="perf_pmu_register" alt="" coords="435,5,561,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="788,5,895,32"/>
-<area shape="rect" id="node5" href="$hw__breakpoint_8c.html#a12fb2cfb430a326c84b18b02aced6ed5" title="init_hw_breakpoint" alt="" coords="609,31,740,57"/>
-</map>

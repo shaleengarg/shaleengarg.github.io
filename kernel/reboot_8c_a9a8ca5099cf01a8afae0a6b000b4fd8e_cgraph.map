@@ -1,6 +1,0 @@
-<map id="unregister_restart_handler" name="unregister_restart_handler">
-<area shape="rect" id="node2" href="$notifier_8c.html#a7166b4dffef1950365fa506d0d03deee" title="atomic_notifier_chain\l_unregister" alt="" coords="176,23,321,65"/>
-<area shape="rect" id="node5" href="$reboot_8c.html#a3de7467623362d24e41830e5284eb73e" title="EXPORT_SYMBOL" alt="" coords="179,89,318,116"/>
-<area shape="rect" id="node3" href="$notifier_8c.html#a44a5f67132a9d01c6e4e210c335c3393" title="notifier_chain_unregister" alt="" coords="374,5,537,32"/>
-<area shape="rect" id="node4" href="$notifier_8c.html#a12fd5e1886d75a2b63004f78db868ce4" title="EXPORT_SYMBOL_GPL" alt="" coords="369,56,541,83"/>
-</map>

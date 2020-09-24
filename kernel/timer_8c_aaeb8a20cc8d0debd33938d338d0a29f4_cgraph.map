@@ -1,6 +1,0 @@
-<map id="detach_if_pending" name="detach_if_pending">
-<area shape="rect" id="node2" href="$timer_8c.html#a3fe40e9a8b464a3126f72e706903b8f3" title="timer_get_idx" alt="" coords="180,5,280,32"/>
-<area shape="rect" id="node3" href="$timer_8c.html#ab9cbbbdbb5e7159b4b3b59a77cc5446c" title="detach_timer" alt="" coords="181,56,279,83"/>
-<area shape="rect" id="node4" href="$timer_8c.html#afc3ac2a3af3291fc5cf755ece203d659" title="debug_deactivate" alt="" coords="328,56,452,83"/>
-<area shape="rect" id="node5" href="$timer_8c.html#a71881fe28fcf1d6fffb233c5490e034e" title="debug_timer_deactivate" alt="" coords="500,56,660,83"/>
-</map>

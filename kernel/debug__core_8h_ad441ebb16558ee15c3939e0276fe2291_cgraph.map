@@ -1,5 +1,0 @@
-<map id="dbg_set_sw_break" name="dbg_set_sw_break">
-<area shape="rect" id="node2" href="$debug__core_8c.html#a74699ff7995f4e6b6af1f661773d286a" title="kgdb_validate_break\l_address" alt="" coords="184,23,325,65"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#abe79eaba3084f68681c8ec8b35211ec4" title="kgdb_arch_set_breakpoint" alt="" coords="385,5,560,32"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#a1cf6070cbcbce614cdbdca046aae848e" title="kgdb_arch_remove_breakpoint" alt="" coords="373,56,572,83"/>
-</map>

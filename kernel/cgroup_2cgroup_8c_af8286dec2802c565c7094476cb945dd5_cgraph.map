@@ -1,9 +1,0 @@
-<map id="cgroup_migrate_vet_dst" name="cgroup_migrate_vet_dst">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#aa8e9c07d7c652eb98e9053203c68b444" title="cgroup_on_dfl" alt="" coords="255,5,357,32"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#af63d262906fe1cbf84379beeb0a93e57" title="cgroup_is_valid_domain" alt="" coords="225,208,387,235"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a1e6ea252c2f8c1cd0b4b1f8b81332782" title="cgroup_is_threaded" alt="" coords="644,157,779,184"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#a6bd5b60e8a78a99fa8458786875b3136" title="cgroup_is_mixable" alt="" coords="455,157,586,184"/>
-<area shape="rect" id="node8" href="$cgroup_2cgroup_8c.html#ada28be5aefe3de227a8a876752414487" title="cgroup_can_be_thread_root" alt="" coords="215,107,397,133"/>
-<area shape="rect" id="node6" href="$cgroup_2cgroup_8c.html#ae0e1671226affce1dd01b5ed3acc3d47" title="cgroup_is_thread_root" alt="" coords="445,259,596,285"/>
-<area shape="rect" id="node7" href="$cgroup_2cgroup_8c.html#ad221c26abd87ca39a90f52dd5f10e47d" title="cgroup_has_tasks" alt="" coords="647,259,775,285"/>
-</map>

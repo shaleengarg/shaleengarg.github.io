@@ -1,6 +1,0 @@
-<map id="clocksource_watchdog_lock" name="clocksource_watchdog_lock">
-<area shape="rect" id="node2" href="$clocksource_8c.html#ad9a3f8f64b9f4dafa66028e8312286c4" title="__clocksource_register\l_scale" alt="" coords="240,5,396,47"/>
-<area shape="rect" id="node3" href="$clocksource_8c.html#a00c50a2a2213662d55386b03573c745a" title="clocksource_change\l_rating" alt="" coords="247,71,389,112"/>
-<area shape="rect" id="node4" href="$clocksource_8c.html#a2e4cd588c46e331a7e972d6829d56334" title="clocksource_unbind" alt="" coords="249,137,387,163"/>
-<area shape="rect" id="node5" href="$clocksource_8c.html#a7a81346cc8e3f8cfc92062b146b284ab" title="clocksource_unregister" alt="" coords="444,137,600,163"/>
-</map>

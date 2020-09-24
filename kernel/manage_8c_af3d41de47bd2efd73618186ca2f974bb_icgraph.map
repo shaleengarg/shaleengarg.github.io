@@ -1,6 +1,0 @@
-<map id="enable_irq" name="enable_irq">
-<area shape="rect" id="node2" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="135,31,277,57"/>
-<area shape="rect" id="node3" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="325,5,508,32"/>
-<area shape="rect" id="node4" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="335,56,499,83"/>
-<area shape="rect" id="node5" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="556,56,759,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="tick_suspend_local" name="tick_suspend_local">
-<area shape="rect" id="node2" href="$clockevents_8c.html#a110c2b6963825fdb2a493da7ec3d52f0" title="clockevents_shutdown" alt="" coords="187,13,341,39"/>
-<area shape="rect" id="node3" href="$clockevents_8c.html#af738190c7422701a938cb919749ea505" title="clockevents_switch\l_state" alt="" coords="389,5,527,47"/>
-<area shape="rect" id="node4" href="$clockevents_8c.html#a32b5546cace9e0f7617029fdd8abbbc1" title="__clockevents_switch\l_state" alt="" coords="575,5,725,47"/>
-</map>

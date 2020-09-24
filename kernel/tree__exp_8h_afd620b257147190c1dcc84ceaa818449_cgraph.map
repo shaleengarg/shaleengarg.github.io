@@ -1,5 +1,0 @@
-<map id="rcu_exp_gp_seq_end" name="rcu_exp_gp_seq_end">
-<area shape="rect" id="node2" href="$rcu_8h.html#aefe931ac691545248c24eedc5babccfe" title="rcu_seq_end" alt="" coords="199,31,295,57"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad7557447333dad75794957c613762a9a" title="rcu_seq_state" alt="" coords="347,5,451,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#a67298d604d35450259368e7235532733" title="rcu_seq_endval" alt="" coords="343,56,456,83"/>
-</map>

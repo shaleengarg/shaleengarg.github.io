@@ -1,4 +1,0 @@
-<map id="__mutex_trylock_or_owner" name="__mutex_trylock_or_owner">
-<area shape="rect" id="node2" href="$mutex_8c.html#a3d507133d91cb543e675bade6b1496a1" title="__owner_flags" alt="" coords="189,5,296,32"/>
-<area shape="rect" id="node3" href="$mutex_8c.html#ab8be84b01e7f762cda3c3a3fb84bc29f" title="__owner_task" alt="" coords="191,56,294,83"/>
-</map>

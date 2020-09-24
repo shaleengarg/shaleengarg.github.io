@@ -1,4 +1,0 @@
-<map id="cpuset_spread_node" name="cpuset_spread_node">
-<area shape="rect" id="node2" href="$cpuset_8c.html#af41846fd7865b028028f2c8fac60b952" title="cpuset_mem_spread_node" alt="" coords="196,5,375,32"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a86e65299ed7e8bd44dc8d21c9e5800c0" title="cpuset_slab_spread_node" alt="" coords="423,31,596,57"/>
-</map>

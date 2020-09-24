@@ -1,4 +1,0 @@
-<map id="array_map_free" name="array_map_free">
-<area shape="rect" id="node2" href="$arraymap_8c.html#a59e67d4216b3d6e3ab77dd25d431d863" title="bpf_array_free_percpu" alt="" coords="165,5,316,32"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#a217e321839f1c834e23d6d7eb1e09721" title="bpf_map_area_free" alt="" coords="174,56,307,83"/>
-</map>

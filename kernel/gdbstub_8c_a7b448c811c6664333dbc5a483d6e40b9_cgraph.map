@@ -1,5 +1,0 @@
-<map id="gdb_cmd_memread" name="gdb_cmd_memread">
-<area shape="rect" id="node2" href="$gdbstub_8c.html#aaa0ddf447fb0ec49f3fb7c890ddb5d1b" title="kgdb_hex2long" alt="" coords="192,5,301,32"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#a01dd3bb8c2481fec90c7ca72c3eada89" title="kgdb_mem2hex" alt="" coords="189,56,304,83"/>
-<area shape="rect" id="node4" href="$gdbstub_8c.html#a1540f68a734068230adce62f9400ae45" title="error_packet" alt="" coords="199,107,294,133"/>
-</map>

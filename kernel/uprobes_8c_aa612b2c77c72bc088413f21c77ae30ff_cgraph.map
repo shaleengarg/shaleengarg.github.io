@@ -1,8 +1,0 @@
-<map id="alloc_uprobe" name="alloc_uprobe">
-<area shape="rect" id="node2" href="$uprobes_8c.html#ae8c581f4ca56ddad663b230fb606befb" title="insert_uprobe" alt="" coords="148,56,248,83"/>
-<area shape="rect" id="node7" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="173,107,223,133"/>
-<area shape="rect" id="node3" href="$uprobes_8c.html#afcac7c51ff6995e521786278103a0cc7" title="__insert_uprobe" alt="" coords="296,56,411,83"/>
-<area shape="rect" id="node4" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="481,5,540,32"/>
-<area shape="rect" id="node5" href="$uprobes_8c.html#ada6bf58dec1632e0b0be507d228a8780" title="match_uprobe" alt="" coords="459,56,563,83"/>
-<area shape="rect" id="node6" href="$uprobes_8c.html#a58378052b8f506e08e6a3cc2a1201494" title="get_uprobe" alt="" coords="467,107,554,133"/>
-</map>

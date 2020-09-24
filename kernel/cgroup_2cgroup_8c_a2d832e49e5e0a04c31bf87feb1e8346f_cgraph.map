@@ -1,9 +1,0 @@
-<map id="cgroup_addrm_files" name="cgroup_addrm_files">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#aa8e9c07d7c652eb98e9053203c68b444" title="cgroup_on_dfl" alt="" coords="536,53,639,79"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#adcdf0d1462c5424d6f6891e56c674465" title="cgroup_add_file" alt="" coords="188,78,301,105"/>
-<area shape="rect" id="node7" href="$cgroup_2cgroup_8c.html#a91c6da7d0f9adf4dbfffa6725a8ab5a4" title="cgroup_rm_file" alt="" coords="191,129,298,155"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a13eba921048e2df4b660903f0b098f8f" title="cgroup_file_name" alt="" coords="357,129,481,155"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#ac48af096f26a40d9524aa6b632264d58" title="cgroup_file_mode" alt="" coords="357,27,481,54"/>
-<area shape="rect" id="node6" href="$cgroup_2cgroup_8c.html#ac5621171499b3f02de9f2fa2ba277c92" title="cgroup_kn_set_ugid" alt="" coords="349,78,488,105"/>
-<area shape="rect" id="node8" href="$cgroup_2cgroup_8c.html#a7b8c3cfe9272737f9626fc520e3d07c8" title="cgroup_css" alt="" coords="374,179,463,206"/>
-</map>

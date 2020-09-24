@@ -1,6 +1,0 @@
-<map id="RAW_NOTIFIER_HEAD" name="RAW_NOTIFIER_HEAD">
-<area shape="rect" id="node2" href="$timekeeping_8c.html#aa28c2f7a0640c6299c04aa5e419df298" title="halt_fast_timekeeper" alt="" coords="223,5,365,32"/>
-<area shape="rect" id="node3" href="$timekeeping_8h.html#a3e9bf6d21d4ea30b2c84485e031ae940" title="timekeeping_suspend" alt="" coords="413,5,561,32"/>
-<area shape="rect" id="node4" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="609,5,703,32"/>
-<area shape="rect" id="node5" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="751,5,893,32"/>
-</map>

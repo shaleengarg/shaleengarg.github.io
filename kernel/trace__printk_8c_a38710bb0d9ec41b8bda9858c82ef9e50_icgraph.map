@@ -1,6 +1,0 @@
-<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
-<area shape="rect" id="node2" href="$trace__printk_8c.html#ae32968e7a8621329cf00d67acb1ab6a3" title="__trace_bprintk" alt="" coords="231,5,342,32"/>
-<area shape="rect" id="node3" href="$trace__printk_8c.html#ac862fc4fd3004f14794b0923534656d2" title="__ftrace_vbprintk" alt="" coords="225,56,348,83"/>
-<area shape="rect" id="node4" href="$trace__printk_8c.html#aaf5739cb331df7bd8cfde887ed5aabf7" title="__trace_printk" alt="" coords="235,107,339,133"/>
-<area shape="rect" id="node5" href="$trace__printk_8c.html#a0ef083e1c61c81215c96f96fc741d742" title="__ftrace_vprintk" alt="" coords="229,157,344,184"/>
-</map>

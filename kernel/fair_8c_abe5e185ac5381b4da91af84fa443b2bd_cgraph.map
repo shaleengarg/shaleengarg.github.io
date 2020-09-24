@@ -1,8 +1,0 @@
-<map id="clear_buddies" name="clear_buddies">
-<area shape="rect" id="node2" href="$fair_8c.html#aec876a2c455c1b53b74d3f13cdddc5df" title="__clear_buddies_last" alt="" coords="158,5,302,32"/>
-<area shape="rect" id="node5" href="$fair_8c.html#a3207087079d024237cc4af8416dda2ae" title="__clear_buddies_next" alt="" coords="156,56,304,83"/>
-<area shape="rect" id="node6" href="$fair_8c.html#a42b6aaeec5f5311d2f9ba1fc38702976" title="__clear_buddies_skip" alt="" coords="157,107,303,133"/>
-<area shape="rect" id="node7" href="$fair_8c.html#ad5fdd7c6973b55aa29b067e373e05076" title="return_cfs_rq_runtime" alt="" coords="156,157,304,184"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a3acf6f07f72d7c2d6cfb7d257c5f6fc8" title="cfs_rq_of" alt="" coords="352,56,428,83"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="476,56,541,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="find_good_pkt_pointers" name="find_good_pkt_pointers">
-<area shape="rect" id="node2" href="$verifier_8c.html#a2679ae6197e5df7ab74cf749c43b85d6" title="try_match_pkt_pointers" alt="" coords="209,5,368,32"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#a29b995241fa2869be6fefc8a091d7628" title="check_cond_jmp_op" alt="" coords="416,5,557,32"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#a54874e8dfa3e9dca5a751350665baca6" title="do_check" alt="" coords="605,5,684,32"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="732,5,815,32"/>
-<area shape="rect" id="node6" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="863,5,965,32"/>
-<area shape="rect" id="node7" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="1013,5,1160,32"/>
-<area shape="rect" id="node8" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1208,5,1355,32"/>
-</map>

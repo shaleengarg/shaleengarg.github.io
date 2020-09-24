@@ -1,5 +1,0 @@
-<map id="rcutree_dead_cpu" name="rcutree_dead_cpu">
-<area shape="rect" id="node2" href="$tree_8c.html#aa3f8d9b5680302b08484164bcd3fbf8f" title="rcu_cleanup_dead_cpu" alt="" coords="190,5,345,32"/>
-<area shape="rect" id="node4" href="$tree_8h.html#adbfefc77ad6dd42e8bd99edaa95b8d8b" title="do_nocb_deferred_wakeup" alt="" coords="179,56,356,83"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a17f156922d9597ab124bfbb84918ad41" title="rcu_boost_kthread_setaffinity" alt="" coords="404,5,597,32"/>
-</map>

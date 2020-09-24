@@ -1,5 +1,0 @@
-<map id="aggr_pre_handler" name="aggr_pre_handler">
-<area shape="rect" id="node2" href="$kprobes_8c.html#a98397bf7ecb003829aa98af3f2314f2d" title="set_kprobe_instance" alt="" coords="183,5,326,32"/>
-<area shape="rect" id="node3" href="$kprobes_8c.html#a33d10db68fb160a0ea758a37f1b06ef3" title="reset_kprobe_instance" alt="" coords="178,56,331,83"/>
-<area shape="rect" id="node4" href="$kprobes_8c.html#a1074708f4c2a6f537f4c5a626a5bf315" title="NOKPROBE_SYMBOL" alt="" coords="175,107,335,133"/>
-</map>

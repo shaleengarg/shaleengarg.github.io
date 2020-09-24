@@ -1,6 +1,0 @@
-<map id="kthread_worker_fn" name="kthread_worker_fn">
-<area shape="rect" id="node2" href="$kthread_8c.html#aeec64455b853c3ccf717f870fa8bae33" title="__printf" alt="" coords="225,5,291,32"/>
-<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#afc551b04b86e4071a69c9df8e1497e36" title="sugov_kthread_create" alt="" coords="183,56,333,83"/>
-<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a1e820b80c2d44e28438aefa28eb05c6f" title="sugov_init" alt="" coords="381,56,463,83"/>
-<area shape="rect" id="node5" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="511,56,605,83"/>
-</map>

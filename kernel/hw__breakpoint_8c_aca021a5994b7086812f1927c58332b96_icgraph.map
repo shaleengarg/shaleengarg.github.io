@@ -1,4 +1,0 @@
-<map id="reserve_bp_slot" name="reserve_bp_slot">
-<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a4c00cefb1d0a6200bfecab78e2afd7a1" title="register_perf_hw_breakpoint" alt="" coords="168,5,353,32"/>
-<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#af48985c8532676904dff3f53a1aa953a" title="hw_breakpoint_event_init" alt="" coords="401,5,571,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="bpf_lru_push_free" name="bpf_lru_push_free">
-<area shape="rect" id="node2" href="$bpf__lru__list_8c.html#a3458c0c6b5a7102aaf52f8abc048e772" title="bpf_percpu_lru_push_free" alt="" coords="185,5,355,32"/>
-<area shape="rect" id="node6" href="$bpf__lru__list_8c.html#a911ba5904a34b706290099cee2cd2872" title="bpf_common_lru_push_free" alt="" coords="179,56,361,83"/>
-<area shape="rect" id="node3" href="$bpf__lru__list_8c.html#a48d0354a7b53d3a5620d7d634450177e" title="__bpf_lru_node_move" alt="" coords="607,56,756,83"/>
-<area shape="rect" id="node4" href="$bpf__lru__list_8c.html#ad87c1c764e7febca9c12f89bb3ee8a0f" title="bpf_lru_list_count_dec" alt="" coords="804,31,956,57"/>
-<area shape="rect" id="node5" href="$bpf__lru__list_8c.html#ad174eaf526df484345ff3793a39228c1" title="bpf_lru_list_count_inc" alt="" coords="806,81,954,108"/>
-<area shape="rect" id="node7" href="$bpf__lru__list_8c.html#a766578165e42194c34f3c3c28122346d" title="local_free_list" alt="" coords="433,56,535,83"/>
-<area shape="rect" id="node8" href="$bpf__lru__list_8c.html#a606c48b0f6209d4c073846d57affce76" title="bpf_lru_list_push_free" alt="" coords="409,107,559,133"/>
-</map>

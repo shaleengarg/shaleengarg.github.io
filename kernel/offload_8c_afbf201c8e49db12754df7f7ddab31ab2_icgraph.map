@@ -1,6 +1,0 @@
-<map id="bpf_map_offload_info_fill" name="bpf_map_offload_info_fill">
-<area shape="rect" id="node2" href="$syscall_8c.html#ad03166fe14b715ef515c1cfe5578ac9d" title="bpf_map_get_info_by_fd" alt="" coords="220,5,384,32"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#acd09df51338f079c9c368412d9af4ff4" title="bpf_obj_get_info_by_fd" alt="" coords="432,5,588,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="636,5,783,32"/>
-<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="831,5,977,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="arch_kexec_protect_crashkres" name="arch_kexec_protect_crashkres">
-<area shape="rect" id="node2" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="208,5,317,32"/>
-<area shape="rect" id="node4" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="189,56,336,83"/>
-<area shape="rect" id="node3" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="384,5,531,32"/>
-</map>

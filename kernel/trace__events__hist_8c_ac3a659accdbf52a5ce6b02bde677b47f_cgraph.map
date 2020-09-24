@@ -1,7 +1,0 @@
-<map id="onmax_parse" name="onmax_parse">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a41ed03b89f70208997cf214741ec051b" title="parse_action_params" alt="" coords="153,5,300,32"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a5ca32d263be040fda8d77bd9fed785be" title="onmax_destroy" alt="" coords="171,56,282,83"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a835439bb80eaf0fbed9eb23c5d32ec04" title="hist_err" alt="" coords="377,5,443,32"/>
-<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a5d9afd6156b8c269b421e326f2990a03" title="destroy_hist_field" alt="" coords="348,56,472,83"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="520,81,571,108"/>
-</map>

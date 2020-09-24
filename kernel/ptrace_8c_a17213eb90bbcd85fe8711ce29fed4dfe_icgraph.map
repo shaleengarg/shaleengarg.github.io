@@ -1,8 +1,0 @@
-<map id="__ptrace_link" name="__ptrace_link">
-<area shape="rect" id="node2" href="$ptrace_8c.html#ac6f2e32379d3aef532cf7310b6835df3" title="ptrace_link" alt="" coords="152,31,237,57"/>
-<area shape="rect" id="node3" href="$ptrace_8c.html#a8e298e6b923730020f50c03aaab51bc9" title="ptrace_attach" alt="" coords="291,5,392,32"/>
-<area shape="rect" id="node7" href="$ptrace_8c.html#a6348acbaf018d3953bfefc9fe0874022" title="ptrace_traceme" alt="" coords="285,56,397,83"/>
-<area shape="rect" id="node4" href="$ptrace_8c.html#ad625cbb8c3b73c6d7e359f100f978a2e" title="SYSCALL_DEFINE4" alt="" coords="455,5,602,32"/>
-<area shape="rect" id="node5" href="$ptrace_8c.html#aad4d3340d6dfdbb390ffee3d05054442" title="generic_ptrace_pokedata" alt="" coords="445,56,612,83"/>
-<area shape="rect" id="node6" href="$ptrace_8c.html#a997fa2d54d41aefc751e7f2881be3d89" title="ptrace_request" alt="" coords="660,56,768,83"/>
-</map>

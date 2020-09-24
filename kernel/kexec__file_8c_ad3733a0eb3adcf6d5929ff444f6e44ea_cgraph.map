@@ -1,5 +1,0 @@
-<map id="kimage_file_post_load_cleanup" name="kimage_file_post_load_cleanup">
-<area shape="rect" id="node2" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="255,5,305,32"/>
-<area shape="rect" id="node3" href="$kexec__file_8c.html#ab4c6f383e7368d6b53e481be53b46fd5" title="arch_kimage_file_post\l_load_cleanup" alt="" coords="204,57,356,98"/>
-<area shape="rect" id="node4" href="$kexec__file_8c.html#a9c03dc2af45124de86ddeb122b7e1eaa" title="kexec_image_post_load\l_cleanup_default" alt="" coords="404,57,567,98"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="gdb_cmd_status" name="gdb_cmd_status">
-<area shape="rect" id="node2" href="$debug__core_8c.html#a4f286df9b4a9510be70415c8034d2e49" title="dbg_remove_all_break" alt="" coords="172,5,324,32"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#a1cf6070cbcbce614cdbdca046aae848e" title="kgdb_arch_remove_breakpoint" alt="" coords="372,5,571,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="destroy_session" name="destroy_session">
-<area shape="rect" id="node2" href="$trace__stat_8h.html#a7496ac537461bee976c308a2466d6fd4" title="register_stat_tracer" alt="" coords="177,60,312,87"/>
-<area shape="rect" id="node8" href="$trace__stat_8h.html#ab3c8e0dad0a5c9501c949805b64836a0" title="unregister_stat_tracer" alt="" coords="171,111,319,137"/>
-<area shape="rect" id="node3" href="$ftrace_8c.html#a226123ea8706a108ea504c6a19359848" title="ftrace_update_pid_func" alt="" coords="367,31,524,57"/>
-<area shape="rect" id="node7" href="$trace__branch_8c.html#ae8aab8e841ac8a5467137eb40ab20331" title="init_annotated_branch\l_stats" alt="" coords="371,82,520,123"/>
-<area shape="rect" id="node4" href="$ftrace_8c.html#a73e1b54e11af21980334921b2887f19a" title="ftrace_pid_reset" alt="" coords="572,5,687,32"/>
-<area shape="rect" id="node6" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="572,56,687,83"/>
-<area shape="rect" id="node5" href="$ftrace_8c.html#a6ee78376b5ade9167c82ce71dfef009d" title="ftrace_pid_open" alt="" coords="735,5,849,32"/>
-</map>

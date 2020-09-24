@@ -1,6 +1,0 @@
-<map id="parse_crashkernel_simple" name="parse_crashkernel_simple">
-<area shape="rect" id="node2" href="$crash__core_8c.html#afd7e4278400a2ec77a54895a36f3e6a4" title="__parse_crashkernel" alt="" coords="227,56,369,83"/>
-<area shape="rect" id="node3" href="$crash__core_8c.html#a762fc81a973667749b57269a9aefe61f" title="parse_crashkernel" alt="" coords="433,5,561,32"/>
-<area shape="rect" id="node4" href="$crash__core_8c.html#af449add68eee4170721642ed58e32416" title="parse_crashkernel_high" alt="" coords="417,56,576,83"/>
-<area shape="rect" id="node5" href="$crash__core_8c.html#af6d908e2af7f4dfdc11308eb2ea6fe39" title="parse_crashkernel_low" alt="" coords="419,107,574,133"/>
-</map>

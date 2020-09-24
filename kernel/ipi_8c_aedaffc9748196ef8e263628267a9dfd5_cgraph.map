@@ -1,9 +1,0 @@
-<map id="ipi_send_single" name="ipi_send_single">
-<area shape="rect" id="node2" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="588,5,677,32"/>
-<area shape="rect" id="node4" href="$ipi_8c.html#a36f8fbe2f00a6646ebec800a25623fc5" title="ipi_send_verify" alt="" coords="387,31,496,57"/>
-<area shape="rect" id="node5" href="$ipi_8c.html#aff754be0c984b739fa3df433f7e2d56f" title="__ipi_send_single" alt="" coords="187,81,313,108"/>
-<area shape="rect" id="node8" href="$ipi_8c.html#ae4c378d7b1beb5df458e90cb025557b7" title="EXPORT_SYMBOL_GPL" alt="" coords="164,132,336,159"/>
-<area shape="rect" id="node3" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="767,5,905,32"/>
-<area shape="rect" id="node6" href="$chip_8c.html#a8291de3ee7ba0f7adcc6dba911060370" title="irq_get_irq_data" alt="" coords="384,81,499,108"/>
-<area shape="rect" id="node7" href="$chip_8c.html#a5594e82f23dd60e01d6a16650a6402ea" title="EXPORT_SYMBOL_GPL" alt="" coords="547,81,719,108"/>
-</map>

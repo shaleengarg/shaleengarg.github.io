@@ -1,4 +1,0 @@
-<map id="tasklet_action" name="tasklet_action">
-<area shape="rect" id="node2" href="$softirq_8c.html#a64e55660cde1a7f0a1ac3d0e99043c74" title="tasklet_action_common" alt="" coords="156,5,316,32"/>
-<area shape="rect" id="node3" href="$softirq_8c.html#ac23559b5c227b2aa80a0ca399978717f" title="__raise_softirq_irqoff" alt="" coords="364,5,507,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="tick_broadcast_oneshot_control" name="tick_broadcast_oneshot_control">
-<area shape="rect" id="node2" href="$tick-broadcast_8c.html#adf7bf8acca2e371053ad6a05d421d09f" title="__tick_broadcast_oneshot\l_control" alt="" coords="213,5,388,47"/>
-<area shape="rect" id="node3" href="$tick-common_8c.html#ab4d660f3ae796d9a50facb09cbbcd409" title="EXPORT_SYMBOL_GPL" alt="" coords="215,71,387,98"/>
-<area shape="rect" id="node4" href="$clockevents_8c.html#a1357db135dee96ebade108586d81a96e" title="clockevents_exchange\l_device" alt="" coords="223,123,378,164"/>
-<area shape="rect" id="node8" href="$clockevents_8c.html#a672e1a8adee5f4c55c4bb4bfcfad2103" title="clockevents_handle_noop" alt="" coords="215,189,387,215"/>
-<area shape="rect" id="node5" href="$clockevents_8c.html#af738190c7422701a938cb919749ea505" title="clockevents_switch\l_state" alt="" coords="639,123,776,164"/>
-<area shape="rect" id="node7" href="$clockevents_8c.html#a110c2b6963825fdb2a493da7ec3d52f0" title="clockevents_shutdown" alt="" coords="436,155,591,182"/>
-<area shape="rect" id="node6" href="$clockevents_8c.html#a32b5546cace9e0f7617029fdd8abbbc1" title="__clockevents_switch\l_state" alt="" coords="824,123,975,164"/>
-</map>

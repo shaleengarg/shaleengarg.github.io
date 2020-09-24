@@ -1,5 +1,0 @@
-<map id="rcu_eqs_exit" name="rcu_eqs_exit">
-<area shape="rect" id="node2" href="$tree_8h.html#a6bb3e8a09bb67f453c12a389b7af6add" title="rcu_dynticks_task_exit" alt="" coords="149,5,305,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#ad920107b57fa2ca59a81794bfc07ec00" title="rcu_dynticks_eqs_exit" alt="" coords="151,56,303,83"/>
-<area shape="rect" id="node4" href="$tree_8h.html#a22573ea993adde508668147c6efe437e" title="rcu_cleanup_after_idle" alt="" coords="151,107,303,133"/>
-</map>

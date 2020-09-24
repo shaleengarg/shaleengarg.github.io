@@ -1,5 +1,0 @@
-<map id="preempt_schedule_common" name="preempt_schedule_common">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#a931314f5c08ce507fffb7ecd4bd1fad1" title="_cond_resched" alt="" coords="263,5,374,32"/>
-<area shape="rect" id="node3" href="$sched_2core_8c.html#ac67480b99b217019157077e68814985a" title="__cond_resched_lock" alt="" coords="245,56,393,83"/>
-<area shape="rect" id="node4" href="$sched_2core_8c.html#addfdd8054b7a9469e43fbc270f4b22be" title="__cond_resched_softirq" alt="" coords="239,107,399,133"/>
-</map>

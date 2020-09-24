@@ -1,6 +1,0 @@
-<map id="call_cpuidle" name="call_cpuidle">
-<area shape="rect" id="node2" href="$idle_8c.html#af74e244a6963e3cccd5855ca7c267df4" title="cpuidle_idle_call" alt="" coords="144,31,261,57"/>
-<area shape="rect" id="node3" href="$idle_8c.html#a890be3d604d0199e50ca2f2a76bd5f61" title="do_idle" alt="" coords="309,31,372,57"/>
-<area shape="rect" id="node4" href="$idle_8c.html#a11c39327cf4ee3454919418a6d5cc68a" title="play_idle" alt="" coords="447,5,520,32"/>
-<area shape="rect" id="node5" href="$idle_8c.html#aadea56844f6dc7ded8372dca84e1641c" title="cpu_startup_entry" alt="" coords="420,56,547,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="saveable_page" name="saveable_page">
-<area shape="rect" id="node2" href="$snapshot_8c.html#a6a7b0c69dd139840b769e1fc38699523" title="swsusp_page_is_forbidden" alt="" coords="163,5,341,32"/>
-<area shape="rect" id="node5" href="$snapshot_8c.html#aa41fcddae66e65d526ea3cedbba6821f" title="swsusp_page_is_free" alt="" coords="178,56,326,83"/>
-<area shape="rect" id="node6" href="$power_8h.html#ac92a66b1b6d3111cf0635a3273e03ba4" title="pfn_is_nosave" alt="" coords="199,107,305,133"/>
-<area shape="rect" id="node3" href="$snapshot_8c.html#a026d4de692ba84e27571def4f442e908" title="memory_bm_test_bit" alt="" coords="389,31,533,57"/>
-<area shape="rect" id="node4" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="581,31,724,57"/>
-</map>

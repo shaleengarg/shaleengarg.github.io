@@ -1,7 +1,0 @@
-<map id="lockdep_reset_lock" name="lockdep_reset_lock">
-<area shape="rect" id="node2" href="$lockdep_8c.html#a7fbccda23a460b62f38d4ce27ed54633" title="look_up_lock_class" alt="" coords="198,5,334,32"/>
-<area shape="rect" id="node3" href="$lockdep_8c.html#aed27663eb3bdb4aad33d7705d578adff" title="zap_class" alt="" coords="225,56,307,83"/>
-<area shape="rect" id="node4" href="$lockdep_8c.html#aa9eb967e2be30ef5104623c3e3f9cf8a" title="graph_lock" alt="" coords="223,107,309,133"/>
-<area shape="rect" id="node5" href="$lockdep_8c.html#af7af9824adf47296c2337b96e7ea5280" title="debug_locks_off_graph\l_unlock" alt="" coords="188,158,344,199"/>
-<area shape="rect" id="node6" href="$lockdep_8c.html#a6cf5d3014368673885ca3e3525eed13c" title="graph_unlock" alt="" coords="217,224,315,251"/>
-</map>

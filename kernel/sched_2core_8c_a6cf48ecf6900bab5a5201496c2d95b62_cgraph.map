@@ -1,4 +1,0 @@
-<map id="prepare_task_switch" name="prepare_task_switch">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#a60155676d358764cf63e8d7b506233bf" title="fire_sched_out_preempt\l_notifiers" alt="" coords="196,5,357,47"/>
-<area shape="rect" id="node3" href="$sched_2core_8c.html#a50d4677d4f2b8c127d0c036600173235" title="prepare_task" alt="" coords="228,71,325,98"/>
-</map>

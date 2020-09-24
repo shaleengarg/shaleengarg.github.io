@@ -1,6 +1,0 @@
-<map id="kimage_free_entry" name="kimage_free_entry">
-<area shape="rect" id="node2" href="$kexec__internal_8h.html#a6c01d80fb0b3aca0d201542a5a9db308" title="kimage_free" alt="" coords="183,31,276,57"/>
-<area shape="rect" id="node3" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="343,5,452,32"/>
-<area shape="rect" id="node5" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="324,56,471,83"/>
-<area shape="rect" id="node4" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="519,5,665,32"/>
-</map>

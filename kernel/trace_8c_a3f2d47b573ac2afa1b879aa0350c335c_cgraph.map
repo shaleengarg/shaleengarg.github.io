@@ -1,7 +1,0 @@
-<map id="trace_event_setup" name="trace_event_setup">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a6c3143f01fc48711199aac1b379fdfdd" title="ring_buffer_event_data" alt="" coords="183,52,337,79"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a0b500520be94fac6e8b94bde86c14266" title="tracing_generic_entry\l_update" alt="" coords="187,103,333,145"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a4211dc313e1b000b36c63bc2ade02e9a" title="rb_event_data" alt="" coords="419,5,523,32"/>
-<area shape="rect" id="node4" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="385,56,557,83"/>
-<area shape="rect" id="node6" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="385,111,557,137"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="audit_list_rules" name="audit_list_rules">
-<area shape="rect" id="node2" href="$auditfilter_8c.html#abb58695b8c2553a5f57639eca205682d" title="audit_krule_to_data" alt="" coords="163,81,297,108"/>
-<area shape="rect" id="node7" href="$audit_8c.html#a0fab7d6ace03ff0715a4c794b555029d" title="audit_make_reply" alt="" coords="168,132,292,159"/>
-<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="205,183,255,209"/>
-<area shape="rect" id="node3" href="$auditfilter_8c.html#a9f5e52c30964222c6c898261b0aa2b71" title="audit_pack_string" alt="" coords="345,5,469,32"/>
-<area shape="rect" id="node4" href="$audit__watch_8c.html#ab36f7fb2d3802b6a83f1de14bfbcdd7c" title="audit_watch_path" alt="" coords="345,56,469,83"/>
-<area shape="rect" id="node5" href="$audit__tree_8c.html#af815d71fbc46aef9090ba97bed1ed4c2" title="audit_tree_path" alt="" coords="352,107,463,133"/>
-<area shape="rect" id="node6" href="$audit__fsnotify_8c.html#af44fc468a250e05d6c9c55fe449bba54" title="audit_mark_path" alt="" coords="348,157,467,184"/>
-</map>

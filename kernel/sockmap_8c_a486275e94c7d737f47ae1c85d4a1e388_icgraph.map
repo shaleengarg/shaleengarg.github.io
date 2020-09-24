@@ -1,6 +1,0 @@
-<map id="smap_read_sock_strparser" name="smap_read_sock_strparser">
-<area shape="rect" id="node2" href="$sockmap_8c.html#abc934bf2e23ce5abf30ec4596dd9ab2b" title="smap_init_sock" alt="" coords="232,31,345,57"/>
-<area shape="rect" id="node3" href="$sockmap_8c.html#a57308ddf5a78f22d647cd9aa7f18b088" title="sock_map_ctx_update_elem" alt="" coords="393,31,581,57"/>
-<area shape="rect" id="node4" href="$sockmap_8c.html#a7000682ff177d0193dd519124247222a" title="sock_map_update_elem" alt="" coords="629,5,792,32"/>
-<area shape="rect" id="node5" href="$sockmap_8c.html#af5dec87a04d3a1af52c942692bb83d93" title="BPF_CALL_4" alt="" coords="659,56,762,83"/>
-</map>

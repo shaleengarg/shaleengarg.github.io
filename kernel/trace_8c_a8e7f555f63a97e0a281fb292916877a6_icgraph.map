@@ -1,9 +1,0 @@
-<map id="trace_consume" name="trace_consume">
-<area shape="rect" id="node2" href="$trace_8c.html#ae29e0441e1e65a2a2abd8f7b08750c31" title="tracing_read_pipe" alt="" coords="175,5,299,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a1ba1805261d3e2c06669a1d92014d507" title="tracing_fill_pipe_page" alt="" coords="164,56,311,83"/>
-<area shape="rect" id="node5" href="$trace_8c.html#ad0439ca6d30e01b2d48e9f8ca30e64ef" title="ftrace_dump" alt="" coords="190,119,285,145"/>
-<area shape="rect" id="node4" href="$trace_8c.html#aaf81fbf2a1d643d63a0336d7a83c8736" title="tracing_splice_read_pipe" alt="" coords="359,43,524,69"/>
-<area shape="rect" id="node6" href="$trace_8c.html#a0ddda3b7283321ec4a9541f1695d7dc8" title="trace_panic_handler" alt="" coords="372,93,511,120"/>
-<area shape="rect" id="node7" href="$trace_8c.html#a92b200d52a2dc79bcdd89d6f1759a506" title="trace_die_handler" alt="" coords="379,144,503,171"/>
-<area shape="rect" id="node8" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="365,195,517,221"/>
-</map>

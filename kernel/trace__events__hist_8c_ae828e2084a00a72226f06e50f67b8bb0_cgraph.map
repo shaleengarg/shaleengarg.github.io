@@ -1,5 +1,0 @@
-<map id="find_any_var_ref" name="find_any_var_ref">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a7859496711e127d46c80bd6dfc8e2642" title="find_var_ref" alt="" coords="172,5,263,32"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#ad35e0ef7d1ec930e72cfdaae6d3fb09c" title="check_field_for_var_refs" alt="" coords="311,5,475,32"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a0577ee07811e0d51238e2b238ca3d5c2" title="check_field_for_var_ref" alt="" coords="523,5,680,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="_kdb_bp_install" name="_kdb_bp_install">
-<area shape="rect" id="node2" href="$kdb__bp_8c.html#a317a1d0acc5596f20bf7d35d244256a5" title="kdb_bp_install" alt="" coords="165,56,271,83"/>
-<area shape="rect" id="node3" href="$kdb__debugger_8c.html#a957bed500be0598ca503d528111a23bf" title="kdb_stub" alt="" coords="319,56,393,83"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="441,56,556,83"/>
-<area shape="rect" id="node5" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="604,5,763,32"/>
-<area shape="rect" id="node6" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="620,56,747,83"/>
-<area shape="rect" id="node7" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="629,107,737,133"/>
-</map>

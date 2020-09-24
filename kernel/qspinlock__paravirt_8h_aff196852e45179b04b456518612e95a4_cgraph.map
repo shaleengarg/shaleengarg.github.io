@@ -1,4 +1,0 @@
-<map id="pv_wait_node" name="pv_wait_node">
-<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#a4c0090b35265f7465994bb6cab6dcace" title="pv_wait_early" alt="" coords="156,5,259,32"/>
-<area shape="rect" id="node3" href="$qspinlock__stat_8h.html#a6b870315712855e7fd5d3245a24b34bd" title="qstat_inc" alt="" coords="170,56,245,83"/>
-</map>

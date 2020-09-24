@@ -1,7 +1,0 @@
-<map id="kthread_flush_work" name="kthread_flush_work">
-<area shape="rect" id="node2" href="$kthread_8c.html#a56a753ca19f367d42430797402834267" title="__kthread_cancel_work_sync" alt="" coords="188,35,383,61"/>
-<area shape="rect" id="node3" href="$kthread_8c.html#a506f8e8416719445653e0d696e448b51" title="kthread_cancel_work_sync" alt="" coords="431,5,611,32"/>
-<area shape="rect" id="node6" href="$kthread_8c.html#a0f9f3b7b7e0d1eb6351daf85058d9cbd" title="kthread_cancel_delayed\l_work_sync" alt="" coords="439,57,602,98"/>
-<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a264833f93b404186f49c103f0ea099e7" title="sugov_stop" alt="" coords="659,5,748,32"/>
-<area shape="rect" id="node5" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="796,5,891,32"/>
-</map>

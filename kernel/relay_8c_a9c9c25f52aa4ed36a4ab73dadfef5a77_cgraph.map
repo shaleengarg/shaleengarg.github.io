@@ -1,9 +1,0 @@
-<map id="relay_close_buf" name="relay_close_buf">
-<area shape="rect" id="node2" href="$irq__work_8c.html#a91d1f2e6314cf1225684747b5271e0fa" title="irq_work_sync" alt="" coords="176,5,283,32"/>
-<area shape="rect" id="node4" href="$relay_8c.html#af854fe017907daa5d6d35751f03f3b1b" title="relay_remove_buf" alt="" coords="167,56,292,83"/>
-<area shape="rect" id="node3" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="340,5,512,32"/>
-<area shape="rect" id="node5" href="$relay_8c.html#ae8802ffb6b14ad2e2e3a1714d0880f7e" title="relay_destroy_buf" alt="" coords="363,56,489,83"/>
-<area shape="rect" id="node6" href="$relay_8c.html#a766c99dff6e9b0bbfe00b7874c4b4f48" title="relay_free_page_array" alt="" coords="561,5,711,32"/>
-<area shape="rect" id="node7" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="760,81,811,108"/>
-<area shape="rect" id="node8" href="$relay_8c.html#a79e75ff01cafd826695baa24b0223e93" title="relay_destroy_channel" alt="" coords="560,107,712,133"/>
-</map>

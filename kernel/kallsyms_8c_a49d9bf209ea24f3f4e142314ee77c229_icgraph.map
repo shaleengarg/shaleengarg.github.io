@@ -1,6 +1,0 @@
-<map id="update_iter_mod" name="update_iter_mod">
-<area shape="rect" id="node2" href="$kallsyms_8c.html#a22b48a610041e061b2eb94390aa7de9d" title="update_iter" alt="" coords="172,56,259,83"/>
-<area shape="rect" id="node3" href="$kallsyms_8c.html#a93818fb4f7ae8f0914eecc77b0b51d58" title="s_next" alt="" coords="331,5,392,32"/>
-<area shape="rect" id="node4" href="$kallsyms_8c.html#a576b08f7ca138c4a283b1b337bd9b48e" title="s_start" alt="" coords="330,56,393,83"/>
-<area shape="rect" id="node5" href="$kallsyms_8c.html#a6ef35a616fe4d31f09fc866a6c15ffb1" title="kallsyms_open" alt="" coords="307,107,416,133"/>
-</map>

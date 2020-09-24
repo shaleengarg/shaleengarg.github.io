@@ -1,7 +1,0 @@
-<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
-<area shape="rect" id="node2" href="$clockevents_8c.html#a3566d702fc9aef97f5552aa8f7eebed5" title="clockevent_delta2ns" alt="" coords="226,5,367,32"/>
-<area shape="rect" id="node3" href="$clockevents_8c.html#adbc76d559f2a076cd4a9ca6e22d322c8" title="clockevents_unbind\l_device" alt="" coords="228,57,365,98"/>
-<area shape="rect" id="node4" href="$clockevents_8c.html#a07e80b5285554af7e9841981ab9ecdf6" title="clockevents_register\l_device" alt="" coords="225,174,368,215"/>
-<area shape="rect" id="node5" href="$clockevents_8c.html#a80310c1aad7057bdf67052607ecd5e34" title="clockevents_config\l_and_register" alt="" coords="416,115,551,157"/>
-<area shape="rect" id="node6" href="$tick-broadcast-hrtimer_8c.html#aa60a0cc0d7d9bf81c348facf26257b50" title="tick_setup_hrtimer\l_broadcast" alt="" coords="419,181,548,222"/>
-</map>

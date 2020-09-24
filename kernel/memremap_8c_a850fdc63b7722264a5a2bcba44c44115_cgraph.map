@@ -1,9 +1,0 @@
-<map id="memremap" name="memremap">
-<area shape="rect" id="node2" href="$resource_8c.html#a265f40a2df3d503f5d72a009503ec6f5" title="region_intersects" alt="" coords="151,9,272,36"/>
-<area shape="rect" id="node4" href="$memremap_8c.html#a548bdebcb53e6ffe905e236089b3f471" title="try_ram_remap" alt="" coords="157,64,266,91"/>
-<area shape="rect" id="node6" href="$memremap_8c.html#ae06fd58c13c73494faf9942c67b3ad76" title="arch_memremap_wb" alt="" coords="140,115,283,141"/>
-<area shape="rect" id="node8" href="$memremap_8c.html#a274695e45afbafe977ec007e36b00eb5" title="EXPORT_SYMBOL" alt="" coords="142,165,281,192"/>
-<area shape="rect" id="node3" href="$resource_8c.html#a9783083bdd459ff45c4de451132aa7d6" title="EXPORT_SYMBOL_GPL" alt="" coords="333,5,505,32"/>
-<area shape="rect" id="node5" href="$memremap_8c.html#a1d50efb76593ce06951324e413f708a9" title="arch_memremap_can_ram\l_remap" alt="" coords="331,57,507,98"/>
-<area shape="rect" id="node7" href="$memremap_8c.html#a2c62c703800310401c5c68813ffdbe18" title="ioremap_cache" alt="" coords="363,123,474,149"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="rcu_cleanup_dead_rnp" name="rcu_cleanup_dead_rnp">
-<area shape="rect" id="node2" href="$tree_8c.html#ae204406f2794b2408bc3ef5ba20015dc" title="rcu_gp_init" alt="" coords="205,5,291,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a8970305863efcd2eb60e81cab4f5fba8" title="rcu_gp_kthread" alt="" coords="339,5,449,32"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a265eab7d250c47809d5bbe4580ee909d" title="rcu_spawn_gp_kthread" alt="" coords="497,5,653,32"/>
-</map>

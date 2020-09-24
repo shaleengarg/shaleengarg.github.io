@@ -1,5 +1,0 @@
-<map id="tick_get_broadcast_mask" name="tick_get_broadcast_mask">
-<area shape="rect" id="node2" href="$timer__list_8c.html#ae3b16f62c811b3d105d07c8673373591" title="print_cpu" alt="" coords="224,31,299,57"/>
-<area shape="rect" id="node3" href="$timer__list_8c.html#ad22eefccd7d3d00e02c66025de353ed3" title="timer_list_show" alt="" coords="366,5,479,32"/>
-<area shape="rect" id="node4" href="$timer__list_8c.html#a858bdbff0f102e6b60fbb33222e0ed64" title="sysrq_timer_list_show" alt="" coords="347,56,499,83"/>
-</map>

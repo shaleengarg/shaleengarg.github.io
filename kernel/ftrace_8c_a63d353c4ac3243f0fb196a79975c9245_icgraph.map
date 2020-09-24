@@ -1,8 +1,0 @@
-<map id="ftrace_is_dead" name="ftrace_is_dead">
-<area shape="rect" id="node2" href="$trace_8c.html#acf65e325bd2c276335b5b8aa6cdf0ccb" title="test_ftrace_alive" alt="" coords="160,19,279,45"/>
-<area shape="rect" id="node4" href="$trace_8c.html#ad0439ca6d30e01b2d48e9f8ca30e64ef" title="ftrace_dump" alt="" coords="172,81,267,108"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a29bd282f193b0652e7aecacd758290b4" title="s_show" alt="" coords="369,5,436,32"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a0ddda3b7283321ec4a9541f1695d7dc8" title="trace_panic_handler" alt="" coords="333,56,472,83"/>
-<area shape="rect" id="node6" href="$trace_8c.html#a92b200d52a2dc79bcdd89d6f1759a506" title="trace_die_handler" alt="" coords="341,107,465,133"/>
-<area shape="rect" id="node7" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="327,157,479,184"/>
-</map>

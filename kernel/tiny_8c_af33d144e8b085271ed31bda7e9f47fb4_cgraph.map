@@ -1,8 +1,0 @@
-<map id="rcu_barrier_bh" name="rcu_barrier_bh">
-<area shape="rect" id="node2" href="$tiny_8c.html#a8ce5e16cc0acffef36eec1f8069bd895" title="call_rcu_bh" alt="" coords="183,56,271,83"/>
-<area shape="rect" id="node7" href="$tiny_8c.html#a637179ee6ccb29dc1dd49c6a80e2d684" title="EXPORT_SYMBOL" alt="" coords="157,107,296,133"/>
-<area shape="rect" id="node3" href="$tiny_8c.html#a3f3a7fdc422d607bf946dcc18bcb36f1" title="__call_rcu" alt="" coords="389,31,471,57"/>
-<area shape="rect" id="node6" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="344,81,516,108"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="564,5,723,32"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#a9d4675b6ba4bd98d586f92991cf4964b" title="resched_cpu" alt="" coords="595,56,691,83"/>
-</map>

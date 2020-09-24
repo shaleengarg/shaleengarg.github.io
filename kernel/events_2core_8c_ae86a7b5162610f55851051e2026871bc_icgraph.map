@@ -1,4 +1,0 @@
-<map id="event_enable_on_exec" name="event_enable_on_exec">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a9c65cceedcaf128e3d184512fb0ec599" title="perf_event_enable_on_exec" alt="" coords="208,5,392,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a7706bc0f969c127568598e9d0b922015" title="perf_event_exec" alt="" coords="440,5,559,32"/>
-</map>

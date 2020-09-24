@@ -1,6 +1,0 @@
-<map id="call_timer_fn" name="call_timer_fn">
-<area shape="rect" id="node2" href="$timer_8c.html#afe27f1a1e895109b717a4d9da47607e2" title="expire_timers" alt="" coords="149,5,249,32"/>
-<area shape="rect" id="node3" href="$timer_8c.html#a78a4b257880bbf483367066498b53794" title="__run_timers" alt="" coords="297,5,395,32"/>
-<area shape="rect" id="node4" href="$timer_8c.html#aea9649a38a888c892b379acd33146224" title="run_timer_softirq" alt="" coords="443,5,561,32"/>
-<area shape="rect" id="node5" href="$timer_8c.html#a53a13c0bb91e5e946cd8953e26c66881" title="init_timers" alt="" coords="609,5,692,32"/>
-</map>

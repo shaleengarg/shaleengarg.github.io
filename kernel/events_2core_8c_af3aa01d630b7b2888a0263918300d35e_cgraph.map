@@ -1,7 +1,0 @@
-<map id="rotate_ctx" name="rotate_ctx">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a70575ca7cc163b0aef58cf4dc11def3c" title="perf_event_groups_delete" alt="" coords="133,5,304,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a4a93191c57b6bd8d5c3c8d2ee5abc59c" title="perf_event_groups_insert" alt="" coords="135,56,303,83"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a7fc3a3adf8506aa9f7fd6d53d0873f08" title="init_event_group" alt="" coords="373,5,491,32"/>
-<area shape="rect" id="node5" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="403,56,461,83"/>
-<area shape="rect" id="node6" href="$events_2core_8c.html#a9f4594d474393ad2406080de726a5950" title="perf_event_groups_less" alt="" coords="352,107,512,133"/>
-</map>

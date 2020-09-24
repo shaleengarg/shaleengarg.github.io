@@ -1,7 +1,0 @@
-<map id="audit_unpack_string" name="audit_unpack_string">
-<area shape="rect" id="node2" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="551,5,681,32"/>
-<area shape="rect" id="node5" href="$auditfilter_8c.html#ab64c4c18ab5ec07645863dae5c33f6f9" title="audit_data_to_entry" alt="" coords="192,31,328,57"/>
-<area shape="rect" id="node3" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="729,5,828,32"/>
-<area shape="rect" id="node4" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="876,5,975,32"/>
-<area shape="rect" id="node6" href="$auditfilter_8c.html#a7c4f608d26b4d1832cb1e5b9253bb7c0" title="audit_rule_change" alt="" coords="376,31,503,57"/>
-</map>

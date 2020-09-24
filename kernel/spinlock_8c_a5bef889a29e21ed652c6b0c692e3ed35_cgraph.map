@@ -1,7 +1,0 @@
-<map id="_raw_write_unlock_bh" name="_raw_write_unlock_bh">
-<area shape="rect" id="node2" href="$spinlock_8c.html#af88f917024b47a5371e1e41f8e26d5b6" title="EXPORT_SYMBOL" alt="" coords="205,5,344,32"/>
-<area shape="rect" id="node3" href="$spinlock__debug_8c.html#af2a17c135514987699044ab0278f14ad" title="do_raw_spin_trylock" alt="" coords="204,56,345,83"/>
-<area shape="rect" id="node5" href="$spinlock__debug_8c.html#a0b9121bf3271560ed21d751ef8be6b82" title="do_raw_spin_lock" alt="" coords="211,107,338,133"/>
-<area shape="rect" id="node4" href="$spinlock__debug_8c.html#a1e91f9e61153e1b52bac03c378eae805" title="debug_spin_lock_after" alt="" coords="399,56,551,83"/>
-<area shape="rect" id="node6" href="$spinlock__debug_8c.html#a8968a53eff004209e8f37351b90a9e4b" title="debug_spin_lock_before" alt="" coords="393,107,556,133"/>
-</map>

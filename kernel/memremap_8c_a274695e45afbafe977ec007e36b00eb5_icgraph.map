@@ -1,7 +1,0 @@
-<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
-<area shape="rect" id="node2" href="$memremap_8c.html#a850fdc63b7722264a5a2bcba44c44115" title="memremap" alt="" coords="375,5,461,32"/>
-<area shape="rect" id="node3" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="555,56,681,83"/>
-<area shape="rect" id="node4" href="$memremap_8c.html#a46f162d672c14f27f5d80cccf38a223e" title="memunmap" alt="" coords="192,107,283,133"/>
-<area shape="rect" id="node6" href="$memremap_8c.html#a78f1a850302e4394b1721d629e6468f6" title="devm_memunmap" alt="" coords="553,132,683,159"/>
-<area shape="rect" id="node5" href="$memremap_8c.html#aea00c63a98dda85624723ed70df9bb52" title="devm_memremap_release" alt="" coords="331,107,505,133"/>
-</map>

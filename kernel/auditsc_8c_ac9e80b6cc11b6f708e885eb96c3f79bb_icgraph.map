@@ -1,5 +1,0 @@
-<map id="show_special" name="show_special">
-<area shape="rect" id="node2" href="$auditsc_8c.html#a8c3c6d33cfd0a7daf39bf849893790ae" title="audit_log_exit" alt="" coords="155,31,257,57"/>
-<area shape="rect" id="node3" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="329,5,422,32"/>
-<area shape="rect" id="node4" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="305,56,445,83"/>
-</map>

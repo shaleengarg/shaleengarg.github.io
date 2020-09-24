@@ -1,7 +1,0 @@
-<map id="free_modinfo" name="free_modinfo">
-<area shape="rect" id="node2" href="$module_8c.html#af3d139fcf223326743ad4c39ecb312b8" title="cmp_name" alt="" coords="161,5,247,32"/>
-<area shape="rect" id="node3" href="$module_8c.html#a1bdde0810e12a45e75e50a723a8e2fa0" title="layout_symtab" alt="" coords="151,56,257,83"/>
-<area shape="rect" id="node4" href="$module_8c.html#a79b80696307ea4447669bbaba4fd990d" title="get_offset" alt="" coords="164,107,244,133"/>
-<area shape="rect" id="node6" href="$module_8c.html#a13739881c0463ed8478b5ecb7e91a30f" title="add_kallsyms" alt="" coords="153,157,255,184"/>
-<area shape="rect" id="node5" href="$module_8c.html#a6ee063de1463b2146cb4a01be9627d4e" title="arch_mod_section_prepend" alt="" coords="305,107,487,133"/>
-</map>

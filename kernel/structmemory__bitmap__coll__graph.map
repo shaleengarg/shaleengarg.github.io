@@ -1,6 +1,0 @@
-<map id="memory_bitmap" name="memory_bitmap">
-<area shape="rect" id="node2" href="$structlinked__page.html" title="linked_page" alt="" coords="5,184,96,211"/>
-<area shape="rect" id="node3" href="$structbm__position.html" title="bm_position" alt="" coords="174,184,266,211"/>
-<area shape="rect" id="node4" href="$structrtree__node.html" title="rtree_node" alt="" coords="156,5,239,32"/>
-<area shape="rect" id="node5" href="$structmem__zone__bm__rtree.html" title="mem_zone_bm_rtree" alt="" coords="233,95,377,121"/>
-</map>

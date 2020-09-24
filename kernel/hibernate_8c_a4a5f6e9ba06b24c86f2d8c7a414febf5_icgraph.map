@@ -1,7 +1,0 @@
-<map id="hibernation_snapshot" name="hibernation_snapshot">
-<area shape="rect" id="node2" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="215,56,289,83"/>
-<area shape="rect" id="node6" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="199,107,305,133"/>
-<area shape="rect" id="node3" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="371,5,482,32"/>
-<area shape="rect" id="node4" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="383,56,470,83"/>
-<area shape="rect" id="node5" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="353,107,500,133"/>
-</map>

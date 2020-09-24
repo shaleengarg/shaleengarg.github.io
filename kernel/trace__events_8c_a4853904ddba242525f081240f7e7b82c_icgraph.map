@@ -1,5 +1,0 @@
-<map id="trace_define_common_fields" name="trace_define_common_fields">
-<area shape="rect" id="node2" href="$trace__events_8c.html#ab9e13f2ad3fe87a4c8ec42e38e05897e" title="event_trace_init" alt="" coords="204,13,319,39"/>
-<area shape="rect" id="node3" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="367,13,481,39"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="529,13,604,39"/>
-</map>

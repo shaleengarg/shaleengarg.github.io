@@ -1,7 +1,0 @@
-<map id="torture_must_stop" name="torture_must_stop">
-<area shape="rect" id="node2" href="$torture_8c.html#ae244fb173ad3038e0e4dfa68e9d5b2af" title="torture_must_stop_irq" alt="" coords="180,5,328,32"/>
-<area shape="rect" id="node3" href="$torture_8c.html#af487a67f166e301d9e728a9e662a9207" title="EXPORT_SYMBOL_GPL" alt="" coords="376,19,548,45"/>
-<area shape="rect" id="node4" href="$kthread_8c.html#ae765da2928602ce14e478fc321114cc6" title="kthread_should_stop" alt="" coords="183,107,325,133"/>
-<area shape="rect" id="node5" href="$kthread_8c.html#af6f52ee3f6f9d6e0011dbb3038b56023" title="to_kthread" alt="" coords="421,81,503,108"/>
-<area shape="rect" id="node6" href="$kthread_8c.html#a6507303e45938ed37efd356fb281c444" title="EXPORT_SYMBOL" alt="" coords="393,132,531,159"/>
-</map>

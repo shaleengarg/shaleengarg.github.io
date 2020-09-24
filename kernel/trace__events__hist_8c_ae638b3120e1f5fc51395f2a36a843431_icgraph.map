@@ -1,9 +1,0 @@
-<map id="free_synth_tracepoint" name="free_synth_tracepoint">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a4c5b0d4aae1195b075689645dffe8309" title="free_synth_event" alt="" coords="200,56,323,83"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a74dfe98ccd6f5007269a96dbfc2c3161" title="alloc_synth_event" alt="" coords="379,5,505,32"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="578,56,714,83"/>
-<area shape="rect" id="node6" href="$trace__events__hist_8c.html#ab0c9eb6dd926144a2791237a8a32c66d" title="add_or_delete_synth\l_event" alt="" coords="371,107,513,149"/>
-<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="779,56,913,83"/>
-<area shape="rect" id="node7" href="$trace__events__hist_8c.html#a399415b76b8630f825ddc64342a3072d" title="release_all_synth_events" alt="" coords="561,115,731,141"/>
-<area shape="rect" id="node8" href="$trace__events__hist_8c.html#a40b8c728cb5ca8bea0673db392bb0ebb" title="synth_events_open" alt="" coords="779,115,913,141"/>
-</map>

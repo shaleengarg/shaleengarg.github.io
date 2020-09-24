@@ -1,6 +1,0 @@
-<map id="irq_domain_deactivate_irq" name="irq_domain_deactivate_irq">
-<area shape="rect" id="node2" href="$internals_8h.html#a353a2bdb0e742f2f18125ef62896d308" title="irq_add_debugfs_entry" alt="" coords="242,5,395,32"/>
-<area shape="rect" id="node3" href="$internals_8h.html#a2eaeb9e12ce0b53221b8beb37b795af6" title="irq_remove_debugfs\l_entry" alt="" coords="249,57,388,98"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="293,123,344,149"/>
-<area shape="rect" id="node5" href="$internals_8h.html#aa2b8b9b80ce4670b5f2246b41df80b98" title="irq_debugfs_copy_devname" alt="" coords="227,173,411,200"/>
-</map>

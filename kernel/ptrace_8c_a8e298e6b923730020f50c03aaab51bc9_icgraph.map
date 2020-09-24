@@ -1,5 +1,0 @@
-<map id="ptrace_attach" name="ptrace_attach">
-<area shape="rect" id="node2" href="$ptrace_8c.html#ad625cbb8c3b73c6d7e359f100f978a2e" title="SYSCALL_DEFINE4" alt="" coords="165,5,311,32"/>
-<area shape="rect" id="node3" href="$ptrace_8c.html#aad4d3340d6dfdbb390ffee3d05054442" title="generic_ptrace_pokedata" alt="" coords="155,56,321,83"/>
-<area shape="rect" id="node4" href="$ptrace_8c.html#a997fa2d54d41aefc751e7f2881be3d89" title="ptrace_request" alt="" coords="369,56,477,83"/>
-</map>

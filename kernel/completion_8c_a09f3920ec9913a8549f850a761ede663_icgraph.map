@@ -1,7 +1,0 @@
-<map id="completion_done" name="completion_done">
-<area shape="rect" id="node2" href="$test-ww__mutex_8c.html#a6823e76be20fc5f7c224d710d7313f0f" title="__test_mutex" alt="" coords="231,5,332,32"/>
-<area shape="rect" id="node6" href="$stop__machine_8c.html#a3264df751bc952af0c23ca28f4d47dab" title="stop_machine_from_inactive_cpu" alt="" coords="173,56,389,83"/>
-<area shape="rect" id="node3" href="$test-ww__mutex_8c.html#acce5edbea7e18b49a854637f26a47340" title="test_mutex" alt="" coords="437,5,524,32"/>
-<area shape="rect" id="node4" href="$test-ww__mutex_8c.html#acbb4d1a260bf50280c4e48edc5b86cd1" title="test_ww_mutex_init" alt="" coords="572,5,711,32"/>
-<area shape="rect" id="node5" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="759,5,901,32"/>
-</map>

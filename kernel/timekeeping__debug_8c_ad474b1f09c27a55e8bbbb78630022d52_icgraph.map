@@ -1,5 +1,0 @@
-<map id="tk_debug_account_sleep_time" name="tk_debug_account_sleep_time">
-<area shape="rect" id="node2" href="$timekeeping_8c.html#a269a6a08bf2015b11a896c74f71b6702" title="__timekeeping_inject\l_sleeptime" alt="" coords="252,5,396,47"/>
-<area shape="rect" id="node3" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="444,13,587,39"/>
-<area shape="rect" id="node4" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="635,13,728,39"/>
-</map>

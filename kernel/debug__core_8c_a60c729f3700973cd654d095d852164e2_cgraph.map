@@ -1,5 +1,0 @@
-<map id="kgdb_console_write" name="kgdb_console_write">
-<area shape="rect" id="node2" href="$debug__core_8h.html#acfd0246b5eec87f457a5828ebbc40c2d" title="gdbstub_msg_write" alt="" coords="191,5,325,32"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#af550d3da743c9836837297c8b83c201a" title="put_packet" alt="" coords="373,5,460,32"/>
-<area shape="rect" id="node4" href="$gdbstub_8c.html#a151cdde336b6d2c77df8bc213a283b2f" title="gdbstub_read_wait" alt="" coords="508,5,639,32"/>
-</map>

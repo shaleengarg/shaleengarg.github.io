@@ -1,6 +1,0 @@
-<map id="__get_prog_inode" name="__get_prog_inode">
-<area shape="rect" id="node2" href="$syscall_8c.html#a8551bda3d1084402fd351e4d48404085" title="bpf_prog_get_ok" alt="" coords="177,5,296,32"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#af94758ebf997b5c1e5b3480d9a1fd9ce" title="bpf_prog_inc" alt="" coords="189,56,285,83"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#afcad6580e15acbb14db40ec651de9191" title="bpf_prog_add" alt="" coords="344,31,444,57"/>
-<area shape="rect" id="node5" href="$syscall_8c.html#a5c049986025408379f12ce15fb2c4e48" title="EXPORT_SYMBOL_GPL" alt="" coords="492,56,664,83"/>
-</map>

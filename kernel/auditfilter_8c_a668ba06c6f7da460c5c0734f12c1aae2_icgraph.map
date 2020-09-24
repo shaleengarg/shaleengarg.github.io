@@ -1,9 +1,0 @@
-<map id="parent_len" name="parent_len">
-<area shape="rect" id="node2" href="$auditfilter_8c.html#a320c203e550e4633ec532f9ede78cc1c" title="audit_compare_dname_path" alt="" coords="136,69,321,96"/>
-<area shape="rect" id="node7" href="$auditsc_8c.html#a313f6003cc71a89aa9bee8e774539e25" title="__audit_inode" alt="" coords="177,132,280,159"/>
-<area shape="rect" id="node3" href="$audit__fsnotify_8c.html#a54376da03f6420c29274808541ccb9ef" title="audit_mark_handle_event" alt="" coords="369,5,540,32"/>
-<area shape="rect" id="node4" href="$audit__watch_8c.html#a99616cc680b98c887f8b8965b75fbe60" title="audit_update_watch" alt="" coords="385,56,524,83"/>
-<area shape="rect" id="node6" href="$auditsc_8c.html#ac7a3df5b846360040e471ba122688494" title="__audit_inode_child" alt="" coords="387,107,523,133"/>
-<area shape="rect" id="node5" href="$audit__watch_8c.html#aed90bb4f76a3158bc6eece755cdadfd4" title="audit_watch_handle\l_event" alt="" coords="588,49,725,90"/>
-<area shape="rect" id="node8" href="$auditsc_8c.html#aaa1eec78e4bbb1f377b52655b5670210" title="__audit_file" alt="" coords="411,157,499,184"/>
-</map>

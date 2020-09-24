@@ -1,5 +1,0 @@
-<map id="get_cg_rpool_locked" name="get_cg_rpool_locked">
-<area shape="rect" id="node2" href="$rdma_8c.html#a8c15a6ac200f6b1f26141db11cb408d7" title="find_cg_rpool_locked" alt="" coords="197,5,341,32"/>
-<area shape="rect" id="node3" href="$rdma_8c.html#a384d3852029e00914d6bb0d1a8741ff5" title="set_all_resource_max\l_limit" alt="" coords="195,57,344,98"/>
-<area shape="rect" id="node4" href="$rdma_8c.html#a6c2d75b58b71568883376dda9a44ec92" title="set_resource_limit" alt="" coords="392,64,520,91"/>
-</map>

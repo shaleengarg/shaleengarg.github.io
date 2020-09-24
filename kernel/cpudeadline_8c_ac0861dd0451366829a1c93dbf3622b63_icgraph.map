@@ -1,5 +1,0 @@
-<map id="cpudl_maximum" name="cpudl_maximum">
-<area shape="rect" id="node2" href="$cpudeadline_8c.html#a2f74873b4810c9e126b4b469230424c4" title="cpudl_find" alt="" coords="171,31,252,57"/>
-<area shape="rect" id="node3" href="$deadline_8c.html#a45a4c398598b163ff686a78b72f9a9e5" title="yield_task_dl" alt="" coords="310,5,409,32"/>
-<area shape="rect" id="node4" href="$deadline_8c.html#a393dcc2b3fa27eb8ffc6ee243fb48eb8" title="set_curr_task_dl" alt="" coords="300,56,419,83"/>
-</map>

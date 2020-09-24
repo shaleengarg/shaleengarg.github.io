@@ -1,5 +1,0 @@
-<map id="region_intersects" name="region_intersects">
-<area shape="rect" id="node2" href="$memremap_8c.html#a850fdc63b7722264a5a2bcba44c44115" title="memremap" alt="" coords="196,5,283,32"/>
-<area shape="rect" id="node4" href="$memremap_8c.html#a78f1a850302e4394b1721d629e6468f6" title="devm_memunmap" alt="" coords="175,56,304,83"/>
-<area shape="rect" id="node3" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="352,5,479,32"/>
-</map>

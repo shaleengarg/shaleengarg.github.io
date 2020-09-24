@@ -1,8 +1,0 @@
-<map id="wq_watchdog_init" name="wq_watchdog_init">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a41b68117cdc102c77a94e9ab6d8ca596" title="workqueue_sysfs_unregister" alt="" coords="180,60,368,87"/>
-<area shape="rect" id="node7" href="$workqueue_8c.html#ae917e49b2c37a2bd9939b0a3c4c2b8b6" title="workqueue_init" alt="" coords="219,111,329,137"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#aba492916084f98737c12403a3b80946d" title="destroy_workqueue" alt="" coords="432,31,567,57"/>
-<area shape="rect" id="node6" href="$workqueue_8c.html#afd74260760fae088e2ab06ffb2e59a7f" title="workqueue_set_unbound\l_cpumask" alt="" coords="416,82,583,123"/>
-<area shape="rect" id="node4" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="640,5,783,32"/>
-<area shape="rect" id="node5" href="$workqueue_8c.html#a0741bc69c59f0b091f5cf6f0cc7d0aca" title="__alloc_workqueue_key" alt="" coords="631,56,792,83"/>
-</map>

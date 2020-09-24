@@ -1,5 +1,0 @@
-<map id="delete_uprobe" name="delete_uprobe">
-<area shape="rect" id="node2" href="$uprobes_8c.html#a9272cc99c145b6afb22a91b523352b95" title="uprobe_is_active" alt="" coords="156,5,276,32"/>
-<area shape="rect" id="node3" href="$uprobes_8c.html#a900685cc15d9532beeea168aa56d894b" title="put_uprobe" alt="" coords="173,56,259,83"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="324,56,375,83"/>
-</map>

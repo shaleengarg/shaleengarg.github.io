@@ -1,5 +1,0 @@
-<map id="convert_to_gcda" name="convert_to_gcda">
-<area shape="rect" id="node2" href="$gcc__4__7_8c.html#a2114295dcbab7fdc870555e4779237f8" title="store_gcov_u32" alt="" coords="172,5,287,32"/>
-<area shape="rect" id="node3" href="$gcc__4__7_8c.html#a1d0aaada06fd15c797ad899dcd6c13fa" title="counter_active" alt="" coords="176,56,283,83"/>
-<area shape="rect" id="node4" href="$gcc__4__7_8c.html#a36a8aa4a0f7ec4be5e5a5cda66bba4e8" title="store_gcov_u64" alt="" coords="172,107,287,133"/>
-</map>

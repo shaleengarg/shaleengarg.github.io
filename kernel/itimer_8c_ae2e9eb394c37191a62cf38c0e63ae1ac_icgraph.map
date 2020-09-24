@@ -1,4 +1,0 @@
-<map id="get_cpu_itimer" name="get_cpu_itimer">
-<area shape="rect" id="node2" href="$itimer_8c.html#a4a2fd8074e91974f31aeb8aa5500bc9c" title="do_getitimer" alt="" coords="160,5,253,32"/>
-<area shape="rect" id="node3" href="$itimer_8c.html#adba94f309b71ed6ad0a9cf63f9d57c53" title="SYSCALL_DEFINE2" alt="" coords="301,5,448,32"/>
-</map>

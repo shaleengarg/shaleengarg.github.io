@@ -1,6 +1,0 @@
-<map id="adjust_error_retval" name="adjust_error_retval">
-<area shape="rect" id="node2" href="$fail__function_8c.html#a4aa50c9e575181f63e3176929fd9019d" title="fei_attr_new" alt="" coords="186,5,279,32"/>
-<area shape="rect" id="node4" href="$fail__function_8c.html#a571426048c8d537c9952a0fad0d5b68f" title="fei_retval_set" alt="" coords="183,56,283,83"/>
-<area shape="rect" id="node3" href="$fail__function_8c.html#ac69e9706be10166e1d86ccbaa6e1142a" title="fei_write" alt="" coords="345,5,416,32"/>
-<area shape="rect" id="node5" href="$fail__function_8c.html#aa7b7189b3aaa8079985400869d1cf4fa" title="fei_retval_get" alt="" coords="331,56,431,83"/>
-</map>

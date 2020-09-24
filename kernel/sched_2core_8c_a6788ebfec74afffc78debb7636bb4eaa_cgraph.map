@@ -1,7 +1,0 @@
-<map id="in_sched_functions" name="in_sched_functions">
-<area shape="rect" id="node2" href="$spinlock_8c.html#a3f73203683de826e6a330cb09d919310" title="in_lock_functions" alt="" coords="205,5,328,32"/>
-<area shape="rect" id="node4" href="$sched_8h.html#a119abd5a3bc0b027936606e2b7cae16c" title="task_group" alt="" coords="223,56,310,83"/>
-<area shape="rect" id="node5" href="$livepatch_2core_8c.html#a62a8f3fae7535f6bb0f9145bf1220301" title="LIST_HEAD" alt="" coords="219,107,314,133"/>
-<area shape="rect" id="node6" href="$sched_2core_8c.html#a13fabc691944697ce2fdcfe2f6ec2cff" title="DECLARE_PER_CPU" alt="" coords="188,157,345,184"/>
-<area shape="rect" id="node3" href="$spinlock_8c.html#af88f917024b47a5371e1e41f8e26d5b6" title="EXPORT_SYMBOL" alt="" coords="393,5,532,32"/>
-</map>

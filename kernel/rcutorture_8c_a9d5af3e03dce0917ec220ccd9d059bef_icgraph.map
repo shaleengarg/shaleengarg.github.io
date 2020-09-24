@@ -1,6 +1,0 @@
-<map id="rcu_torture_boost_cb" name="rcu_torture_boost_cb">
-<area shape="rect" id="node2" href="$rcutorture_8c.html#acdb32ca290f5e26618e0c0a910d1af9d" title="rcu_torture_boost" alt="" coords="197,42,320,69"/>
-<area shape="rect" id="node3" href="$rcutorture_8c.html#a70f161cfe7f0c01372249db69e58ef6c" title="rcutorture_booster\l_cleanup" alt="" coords="380,5,507,47"/>
-<area shape="rect" id="node5" href="$rcutorture_8c.html#a71dba688182240875ef5ddbf143158b2" title="rcutorture_booster_init" alt="" coords="368,71,519,98"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="567,42,675,69"/>
-</map>

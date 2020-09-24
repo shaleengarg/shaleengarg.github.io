@@ -1,6 +1,0 @@
-<map id="pick_next_task_stop" name="pick_next_task_stop">
-<area shape="rect" id="node2" href="$sched_8h.html#ad11fcf2ad0507f8a5af2c94f1763b2b7" title="task_on_rq_queued" alt="" coords="196,5,331,32"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a20b854bce9e995b006deb87324d3f593" title="put_prev_task" alt="" coords="211,56,315,83"/>
-<area shape="rect" id="node4" href="$sched_8h.html#a3dd6fd120793d8fc2081feb8cb010032" title="rq_clock_task" alt="" coords="212,107,315,133"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="379,107,528,133"/>
-</map>

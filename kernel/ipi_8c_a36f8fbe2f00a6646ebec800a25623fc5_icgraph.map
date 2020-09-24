@@ -1,6 +1,0 @@
-<map id="ipi_send_verify" name="ipi_send_verify">
-<area shape="rect" id="node2" href="$ipi_8c.html#aff754be0c984b739fa3df433f7e2d56f" title="__ipi_send_single" alt="" coords="163,5,288,32"/>
-<area shape="rect" id="node3" href="$ipi_8c.html#aedaffc9748196ef8e263628267a9dfd5" title="ipi_send_single" alt="" coords="336,44,447,71"/>
-<area shape="rect" id="node4" href="$ipi_8c.html#a409f8b51ae1b47d5eb80ee661d91cb32" title="__ipi_send_mask" alt="" coords="164,107,287,133"/>
-<area shape="rect" id="node5" href="$ipi_8c.html#ac72e1edaabb39eeb5f805388ff4ac1e9" title="ipi_send_mask" alt="" coords="337,120,446,147"/>
-</map>

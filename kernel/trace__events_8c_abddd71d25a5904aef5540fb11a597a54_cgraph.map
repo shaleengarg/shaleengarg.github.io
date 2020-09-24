@@ -1,6 +1,0 @@
-<map id="__put_system_dir" name="__put_system_dir">
-<area shape="rect" id="node2" href="$trace__events_8c.html#afba5122ebcff877b49d7405c1ea30212" title="system_refcount" alt="" coords="345,5,463,32"/>
-<area shape="rect" id="node3" href="$trace__events_8c.html#a297430a67d1356760f399b12aea571b9" title="__put_system" alt="" coords="179,56,283,83"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="379,107,429,133"/>
-<area shape="rect" id="node4" href="$trace__events_8c.html#abc4cde4ca208f84c5ae269355c9dc86b" title="system_refcount_dec" alt="" coords="331,56,477,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="synth_event_define_fields" name="synth_event_define_fields">
-<area shape="rect" id="node2" href="$trace__event__perf_8c.html#aa00221618f81a88eca234499f9dc334e" title="typeof" alt="" coords="221,5,279,32"/>
-<area shape="rect" id="node3" href="$trace__events_8c.html#ad41cc6a1c4eb7da089cf48442ce72c5a" title="trace_define_field" alt="" coords="188,56,312,83"/>
-<area shape="rect" id="node4" href="$trace__events_8c.html#a9455957b46a6644cb42ed4dd4785122e" title="trace_get_fields" alt="" coords="389,5,503,32"/>
-<area shape="rect" id="node5" href="$trace__events_8c.html#ab650490c136f9b1cab9deadd43892ca0" title="__trace_define_field" alt="" coords="377,56,515,83"/>
-<area shape="rect" id="node7" href="$trace__events_8c.html#a475239523f7fb9b4d476ae10e50d7bb3" title="EXPORT_SYMBOL_GPL" alt="" coords="360,107,532,133"/>
-<area shape="rect" id="node6" href="$trace_8h.html#adad4bd5f45e063dfb0887767622e97cf" title="filter_assign_type" alt="" coords="580,56,704,83"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="__rwsem_mark_wake" name="__rwsem_mark_wake">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#ad696374828c592d476846800b99340a3" title="wake_q_add" alt="" coords="243,5,337,32"/>
-<area shape="rect" id="node3" href="$rwsem_8h.html#a105dd717f7cd10dd4364fe64f8636abe" title="rwsem_set_reader_owned" alt="" coords="203,56,377,83"/>
-</map>

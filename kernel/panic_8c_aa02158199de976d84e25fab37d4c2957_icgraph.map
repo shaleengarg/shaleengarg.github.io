@@ -1,5 +1,0 @@
-<map id="spin_msec" name="spin_msec">
-<area shape="rect" id="node2" href="$panic_8c.html#afc7a2ed84e631d1e541b0ce098b79e22" title="do_oops_enter_exit" alt="" coords="139,31,273,57"/>
-<area shape="rect" id="node3" href="$panic_8c.html#a6742733d814a3c9e85fed1c683ae511c" title="oops_enter" alt="" coords="321,5,408,32"/>
-<area shape="rect" id="node4" href="$panic_8c.html#aa4a8550f1c506bd7a5f38904a3659b4a" title="oops_exit" alt="" coords="325,56,404,83"/>
-</map>

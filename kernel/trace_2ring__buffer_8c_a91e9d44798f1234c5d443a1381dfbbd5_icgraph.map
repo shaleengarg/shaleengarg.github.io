@@ -1,9 +1,0 @@
-<map id="ring_buffer_read_page" name="ring_buffer_read_page">
-<area shape="rect" id="node2" href="$ring__buffer__benchmark_8c.html#a7fd8e4463ccd060c94cda9bf301450e0" title="read_page" alt="" coords="253,13,336,39"/>
-<area shape="rect" id="node7" href="$trace_8c.html#a41f5e86bab17d45ccaaf09853eedb607" title="tracing_buffers_read" alt="" coords="225,63,365,90"/>
-<area shape="rect" id="node8" href="$trace_8c.html#a5e14d5e30c9695fe53b4e3fadb7bb3ab" title="tracing_buffers_splice_read" alt="" coords="204,114,385,141"/>
-<area shape="rect" id="node3" href="$ring__buffer__benchmark_8c.html#a9a21c43d3427cd5f1e97551d1097ac68" title="ring_buffer_consumer" alt="" coords="433,13,580,39"/>
-<area shape="rect" id="node4" href="$ring__buffer__benchmark_8c.html#a169375f00e7595c1a34f32a45ecdaec2" title="ring_buffer_consumer\l_thread" alt="" coords="628,5,775,47"/>
-<area shape="rect" id="node5" href="$ring__buffer__benchmark_8c.html#acc8211c2538f3635cbcc98ed7fb9323b" title="ring_buffer_benchmark_init" alt="" coords="823,13,1001,39"/>
-<area shape="rect" id="node6" href="$ring__buffer__benchmark_8c.html#a9137344d7927ced5d56e53036fbbdcb8" title="ring_buffer_benchmark_exit" alt="" coords="1049,13,1232,39"/>
-</map>

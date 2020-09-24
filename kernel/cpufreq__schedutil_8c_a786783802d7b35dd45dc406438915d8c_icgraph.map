@@ -1,4 +1,0 @@
-<map id="to_sugov_tunables" name="to_sugov_tunables">
-<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#afe86b1de90002314d5488507247f1751" title="rate_limit_us_show" alt="" coords="184,5,319,32"/>
-<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#a4763319136e8b05f5d2a42d8b63b5eed" title="rate_limit_us_store" alt="" coords="185,56,317,83"/>
-</map>

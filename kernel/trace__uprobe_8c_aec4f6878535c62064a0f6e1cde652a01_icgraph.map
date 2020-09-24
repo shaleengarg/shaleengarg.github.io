@@ -1,7 +1,0 @@
-<map id="unregister_trace_uprobe" name="unregister_trace_uprobe">
-<area shape="rect" id="node2" href="$trace__uprobe_8c.html#accdab93c824cac0be5d8b0bdcb442d8e" title="register_trace_uprobe" alt="" coords="215,5,361,32"/>
-<area shape="rect" id="node3" href="$trace__uprobe_8c.html#a9396ee67b5f3b017d2412803a8aee9f3" title="create_trace_uprobe" alt="" coords="409,31,549,57"/>
-<area shape="rect" id="node5" href="$trace__uprobe_8c.html#a10e05a9109cd628a88b476e1665ef8bb" title="cleanup_all_probes" alt="" coords="221,107,355,133"/>
-<area shape="rect" id="node4" href="$trace__uprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="597,31,693,57"/>
-<area shape="rect" id="node6" href="$trace__uprobe_8c.html#a0b803b054f33ee5788b32468f61ca42f" title="probes_open" alt="" coords="431,107,527,133"/>
-</map>

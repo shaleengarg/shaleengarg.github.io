@@ -1,7 +1,0 @@
-<map id="get_func" name="get_func">
-<area shape="rect" id="node2" href="$gcov_8h.html#a488893de2340f900e2bdf0b22d2e9797" title="gcov_iter_next" alt="" coords="127,56,234,83"/>
-<area shape="rect" id="node5" href="$gcov_8h.html#acea910a110ce015e46a7dcec04a22fde" title="gcov_iter_write" alt="" coords="125,107,236,133"/>
-<area shape="rect" id="node3" href="$fs_8c.html#a235be9d8b345d6cb144c07247f11ecb4" title="gcov_seq_start" alt="" coords="287,5,397,32"/>
-<area shape="rect" id="node4" href="$fs_8c.html#a293b011d0f6848f51528b6259f83f819" title="gcov_seq_next" alt="" coords="287,56,397,83"/>
-<area shape="rect" id="node6" href="$fs_8c.html#a3fb2034f6602c1a50de12ab267b8645c" title="gcov_seq_show" alt="" coords="284,107,400,133"/>
-</map>

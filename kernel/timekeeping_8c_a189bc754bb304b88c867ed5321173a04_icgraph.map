@@ -1,8 +1,0 @@
-<map id="ktime_get_ts64" name="ktime_get_ts64">
-<area shape="rect" id="node2" href="$posix-stubs_8c.html#a92c9d72c2005a92a946421ca5650d042" title="do_clock_gettime" alt="" coords="169,31,293,57"/>
-<area shape="rect" id="node5" href="$posix-timers_8c.html#a27a04010af92ea5f857e8e2d3b741235" title="posix_ktime_get_ts" alt="" coords="164,81,299,108"/>
-<area shape="rect" id="node6" href="$test__udelay_8c.html#a5afa8e4cfc3ff97c13d13b9458dba48e" title="udelay_test_show" alt="" coords="168,132,295,159"/>
-<area shape="rect" id="node3" href="$posix-stubs_8c.html#a929940b6ef0a1ede09a732f349732516" title="SYSCALL_DEFINE2" alt="" coords="347,5,493,32"/>
-<area shape="rect" id="node4" href="$posix-stubs_8c.html#a332f0e065b691c8807fe30e753f7bb97" title="SYSCALL_DEFINE4" alt="" coords="347,56,493,83"/>
-<area shape="rect" id="node7" href="$test__udelay_8c.html#a02ebac0e9c7458434da854816b1f7535" title="udelay_test_open" alt="" coords="358,132,482,159"/>
-</map>

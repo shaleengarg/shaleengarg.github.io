@@ -1,6 +1,0 @@
-<map id="destroy_session" name="destroy_session">
-<area shape="rect" id="node2" href="$trace__stat_8c.html#a7fbf3de0b732bd14cc9168e24c6a3053" title="__reset_stat_session" alt="" coords="171,5,317,32"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="426,31,477,57"/>
-<area shape="rect" id="node4" href="$mutex-debug_8c.html#a9f93e6d73b5bb5d714b6d8f121b1bdfd" title="mutex_destroy" alt="" coords="190,107,298,133"/>
-<area shape="rect" id="node5" href="$mutex-debug_8c.html#aab8a0b8a159bc600d48cd716873ef026" title="EXPORT_SYMBOL_GPL" alt="" coords="365,107,537,133"/>
-</map>

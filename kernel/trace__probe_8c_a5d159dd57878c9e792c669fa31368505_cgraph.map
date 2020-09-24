@@ -1,8 +1,0 @@
-<map id="update_deref_fetch_param" name="update_deref_fetch_param">
-<area shape="rect" id="node2" href="$trace__kprobe_8c.html#ac0f8c8d34437fce3aa033ff615dbd918" title="update_symbol_cache" alt="" coords="191,56,343,83"/>
-<area shape="rect" id="node7" href="$trace__probe_8c.html#abf487e5fa7aa43fb75cea9ca1a96c435" title="NOKPROBE_SYMBOL" alt="" coords="187,107,347,133"/>
-<area shape="rect" id="node3" href="$kallsyms_8c.html#a1082777e004c5726575d0451b7d92fd6" title="kallsyms_lookup_name" alt="" coords="395,56,553,83"/>
-<area shape="rect" id="node4" href="$kallsyms_8c.html#af4a2f59e76f1304525543e014949e9f5" title="kallsyms_expand_symbol" alt="" coords="601,5,773,32"/>
-<area shape="rect" id="node5" href="$kallsyms_8c.html#acaa3448bbd3f1b781989f7ad5a93b14c" title="kallsyms_sym_address" alt="" coords="608,56,767,83"/>
-<area shape="rect" id="node6" href="$kallsyms_8c.html#a300ff32a9bf31980a3ff43e41b17f014" title="EXPORT_SYMBOL_GPL" alt="" coords="601,107,773,133"/>
-</map>

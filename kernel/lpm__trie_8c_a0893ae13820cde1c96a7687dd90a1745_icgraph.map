@@ -1,6 +1,0 @@
-<map id="extract_bit" name="extract_bit">
-<area shape="rect" id="node2" href="$lpm__trie_8c.html#a6c852bf22df255590483bc2e1daf0703" title="trie_lookup_elem" alt="" coords="139,5,259,32"/>
-<area shape="rect" id="node3" href="$lpm__trie_8c.html#ad7e84b449ef01da54a7f748846eb4c29" title="trie_update_elem" alt="" coords="138,56,259,83"/>
-<area shape="rect" id="node4" href="$lpm__trie_8c.html#a79db664fdb7ddee273e39bc66caca9e5" title="trie_delete_elem" alt="" coords="140,107,257,133"/>
-<area shape="rect" id="node5" href="$lpm__trie_8c.html#a6fff0467b99a34ce5c67ba7f9f406482" title="trie_get_next_key" alt="" coords="136,157,261,184"/>
-</map>

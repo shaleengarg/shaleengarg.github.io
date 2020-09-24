@@ -1,5 +1,0 @@
-<map id="parse_probe_vars" name="parse_probe_vars">
-<area shape="rect" id="node2" href="$trace__probe_8c.html#aeba5932cf318b198135f0acf815a1480" title="fetch_kernel_stack\l_address" alt="" coords="200,5,332,47"/>
-<area shape="rect" id="node4" href="$trace__probe_8c.html#a6b84253aee95a963adf39c5c080c37a1" title="fetch_user_stack_address" alt="" coords="179,71,353,98"/>
-<area shape="rect" id="node3" href="$trace__probe_8c.html#abf487e5fa7aa43fb75cea9ca1a96c435" title="NOKPROBE_SYMBOL" alt="" coords="401,42,561,69"/>
-</map>

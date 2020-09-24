@@ -1,7 +1,0 @@
-<map id="kallsyms_get_symbol_type" name="kallsyms_get_symbol_type">
-<area shape="rect" id="node2" href="$kallsyms_8c.html#a4d5ff078021b80aaa1b2eec920291d36" title="get_ksymbol_core" alt="" coords="233,56,361,83"/>
-<area shape="rect" id="node3" href="$kallsyms_8c.html#a22b48a610041e061b2eb94390aa7de9d" title="update_iter" alt="" coords="409,56,496,83"/>
-<area shape="rect" id="node4" href="$kallsyms_8c.html#a93818fb4f7ae8f0914eecc77b0b51d58" title="s_next" alt="" coords="568,5,629,32"/>
-<area shape="rect" id="node5" href="$kallsyms_8c.html#a576b08f7ca138c4a283b1b337bd9b48e" title="s_start" alt="" coords="567,56,630,83"/>
-<area shape="rect" id="node6" href="$kallsyms_8c.html#a6ef35a616fe4d31f09fc866a6c15ffb1" title="kallsyms_open" alt="" coords="544,107,653,133"/>
-</map>

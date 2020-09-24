@@ -1,6 +1,0 @@
-<map id="sched_feat_disable" name="sched_feat_disable">
-<area shape="rect" id="node2" href="$sched_2debug_8c.html#a8f3a5a5b2f3801f22571f9f84be4e9db" title="sched_feat_show" alt="" coords="188,5,312,32"/>
-<area shape="rect" id="node4" href="$sched_2debug_8c.html#a71e0f661e37ff77b1731381677a0964f" title="sched_feat_set" alt="" coords="195,56,305,83"/>
-<area shape="rect" id="node3" href="$sched_2debug_8c.html#a07531b28228630886fd87ca391879b2f" title="sched_feat_open" alt="" coords="360,5,481,32"/>
-<area shape="rect" id="node5" href="$sched_2debug_8c.html#aeb843faf119d804d8406233eec513ddb" title="sched_feat_write" alt="" coords="360,56,481,83"/>
-</map>

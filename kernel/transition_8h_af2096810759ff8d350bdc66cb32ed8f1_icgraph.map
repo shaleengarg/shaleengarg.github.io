@@ -1,5 +1,0 @@
-<map id="klp_cancel_transition" name="klp_cancel_transition">
-<area shape="rect" id="node2" href="$livepatch_2core_8c.html#a89fefc97aca0568f384baae43db23f55" title="__klp_enable_patch" alt="" coords="197,31,335,57"/>
-<area shape="rect" id="node3" href="$livepatch_2core_8c.html#a6e4dd37156b76670c171c2997c39589e" title="klp_enable_patch" alt="" coords="383,5,505,32"/>
-<area shape="rect" id="node4" href="$livepatch_2core_8c.html#ab708918d65fd21b2d7c8274f91b64c74" title="enabled_store" alt="" coords="393,56,495,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mmf_recalc_uprobes" name="mmf_recalc_uprobes">
-<area shape="rect" id="node2" href="$uprobes_8c.html#af23e0df55e819edb255fd7acb845f372" title="valid_vma" alt="" coords="219,5,301,32"/>
-<area shape="rect" id="node3" href="$uprobes_8c.html#a97e1e9aef41506ce5a112d92fee7c44e" title="vma_has_uprobes" alt="" coords="196,56,324,83"/>
-<area shape="rect" id="node4" href="$uprobes_8c.html#af02e3cb8fa7107572cf931113edeaeb9" title="vaddr_to_offset" alt="" coords="383,31,495,57"/>
-<area shape="rect" id="node5" href="$uprobes_8c.html#aec94b2e8681f1b794253e3094bdb9577" title="find_node_in_range" alt="" coords="372,81,507,108"/>
-</map>

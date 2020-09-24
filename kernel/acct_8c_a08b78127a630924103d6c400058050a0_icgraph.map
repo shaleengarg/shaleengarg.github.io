@@ -1,9 +1,0 @@
-<map id="close_work" name="close_work">
-<area shape="rect" id="node2" href="$acct_8c.html#aa8349c111d1fc04de222d162d46bc18a" title="acct_on" alt="" coords="141,81,209,108"/>
-<area shape="rect" id="node3" href="$acct_8c.html#afc1d0677cf81d7c73e9c7ab3b0a84f80" title="SYSCALL_DEFINE1" alt="" coords="257,81,404,108"/>
-<area shape="rect" id="node4" href="$signal_8c.html#a8d5b7193b742fee945652d2b125f7e21" title="__save_altstack" alt="" coords="467,5,584,32"/>
-<area shape="rect" id="node5" href="$signal_8c.html#a877c7eb5f6658c6271e80d15f88a2f75" title="SYSCALL_DEFINE4" alt="" coords="452,56,599,83"/>
-<area shape="rect" id="node6" href="$signal_8c.html#ac4f1fc8531a20d4895841a154b6776b1" title="SYSCALL_DEFINE2" alt="" coords="452,107,599,133"/>
-<area shape="rect" id="node7" href="$itimer_8c.html#ad1d20d38771cd35924409f0179b30d71" title="do_setitimer" alt="" coords="479,157,572,184"/>
-<area shape="rect" id="node8" href="$itimer_8c.html#a5fc424f0f1a3e71db58571c77554b39e" title="SYSCALL_DEFINE3" alt="" coords="647,157,793,184"/>
-</map>

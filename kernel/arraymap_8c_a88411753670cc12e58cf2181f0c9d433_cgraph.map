@@ -1,8 +1,0 @@
-<map id="array_of_map_free" name="array_of_map_free">
-<area shape="rect" id="node2" href="$map__in__map_8c.html#aeb64e73a0d11bf1c6cdb915f36a5c575" title="bpf_map_meta_free" alt="" coords="196,5,333,32"/>
-<area shape="rect" id="node4" href="$arraymap_8c.html#a68c49446dadec82d4d3efd9c0415295a" title="bpf_fd_array_map_clear" alt="" coords="184,56,345,83"/>
-<area shape="rect" id="node6" href="$arraymap_8c.html#af0b42e0ebd8b523ba85d96dc2056847b" title="fd_array_map_free" alt="" coords="199,107,330,133"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="457,5,508,32"/>
-<area shape="rect" id="node5" href="$arraymap_8c.html#a78f3752669e9ff178b63364c984490a3" title="fd_array_map_delete_elem" alt="" coords="393,56,572,83"/>
-<area shape="rect" id="node7" href="$syscall_8c.html#a217e321839f1c834e23d6d7eb1e09721" title="bpf_map_area_free" alt="" coords="416,107,549,133"/>
-</map>

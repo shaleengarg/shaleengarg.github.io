@@ -1,9 +1,0 @@
-<map id="_braille_unregister_console" name="_braille_unregister_console">
-<area shape="rect" id="node2" href="$printk_8c.html#a7e27d9c07f5377a46ade9f3310b9911e" title="unregister_console" alt="" coords="180,70,311,97"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#a08ec67e5396fd6cd21f5b99b096d5ced" title="kgdb_unregister_callbacks" alt="" coords="359,15,535,42"/>
-<area shape="rect" id="node5" href="$printk_8c.html#a8f243e5ece24646e4f7e5922eaaa1f58" title="register_console" alt="" coords="388,70,505,97"/>
-<area shape="rect" id="node8" href="$printk_8c.html#adab95eb29f3c0fdf3a75b8b1e04c7f2c" title="printk_late_init" alt="" coords="393,121,500,147"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#a4f802f44277e020ec8789e3a80e800cb" title="kgdb_unregister_io\l_module" alt="" coords="599,5,729,47"/>
-<area shape="rect" id="node6" href="$debug__core_8c.html#a158b3fda3a2b65881505252f17ce3ee2" title="kgdb_register_callbacks" alt="" coords="583,71,745,98"/>
-<area shape="rect" id="node7" href="$debug__core_8c.html#a41134fb8571a5580fd06790d7084402d" title="kgdb_register_io_module" alt="" coords="793,71,960,98"/>
-</map>

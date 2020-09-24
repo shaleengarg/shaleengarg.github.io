@@ -1,8 +1,0 @@
-<map id="irq_sim_fire" name="irq_sim_fire">
-<area shape="rect" id="node2" href="$irq__sim_8c.html#a3ceeeb5e6fb826736747024c30e9a217" title="irq_sim_irqnum" alt="" coords="144,5,255,32"/>
-<area shape="rect" id="node3" href="$irq__sim_8c.html#aec4748bc22abf76728185920ba77eaf6" title="EXPORT_SYMBOL_GPL" alt="" coords="304,5,476,32"/>
-<area shape="rect" id="node4" href="$irq__work_8c.html#a97c61c328b0408e4957486ac57d1a03b" title="irq_work_queue" alt="" coords="143,107,256,133"/>
-<area shape="rect" id="node5" href="$irq__work_8c.html#a15ad44b1e004fbd3998be557220fac4e" title="irq_work_claim" alt="" coords="335,56,445,83"/>
-<area shape="rect" id="node6" href="$irq__work_8c.html#afdd50f70c4dae7339fd991caae188573" title="arch_irq_work_raise" alt="" coords="321,107,459,133"/>
-<area shape="rect" id="node7" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="304,157,476,184"/>
-</map>

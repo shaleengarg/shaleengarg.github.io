@@ -1,5 +1,0 @@
-<map id="cgroup_pidlist_destroy_work_fn" name="cgroup_pidlist_destroy_work_fn">
-<area shape="rect" id="node2" href="$cgroup-v1_8c.html#ab9fe5d7cd07435978534c9ddac9dc024" title="cgroup_pidlist_find\l_create" alt="" coords="205,5,336,47"/>
-<area shape="rect" id="node3" href="$cgroup-v1_8c.html#a0ebb139a918fb06bfa4dc23255a0fe84" title="pidlist_array_load" alt="" coords="384,13,507,39"/>
-<area shape="rect" id="node4" href="$cgroup-v1_8c.html#a2d5f7fec7ad4ab4b9ed48196b0fa86e9" title="cgroup_pidlist_start" alt="" coords="555,13,689,39"/>
-</map>

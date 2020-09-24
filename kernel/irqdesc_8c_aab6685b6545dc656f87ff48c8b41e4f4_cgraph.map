@@ -1,4 +1,0 @@
-<map id="init_irq_default_affinity" name="init_irq_default_affinity">
-<area shape="rect" id="node2" href="$irqdesc_8c.html#a79332560c677fb730a75f9e0eb1f008e" title="alloc_masks" alt="" coords="211,5,306,32"/>
-<area shape="rect" id="node3" href="$irqdesc_8c.html#a889e76b30665591f2d67e0b278794325" title="desc_smp_init" alt="" coords="205,56,312,83"/>
-</map>

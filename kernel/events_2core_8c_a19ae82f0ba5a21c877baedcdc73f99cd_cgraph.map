@@ -1,5 +1,0 @@
-<map id="perf_event_read_local" name="perf_event_read_local">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="233,5,315,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="203,56,345,83"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="393,56,544,83"/>
-</map>

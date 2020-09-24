@@ -1,7 +1,0 @@
-<map id="array_map_lookup_elem" name="array_map_lookup_elem">
-<area shape="rect" id="node2" href="$arraymap_8c.html#acae7204b29249987aff2f0e0f146cd16" title="bpf_fd_array_map_lookup_elem" alt="" coords="216,5,423,32"/>
-<area shape="rect" id="node6" href="$arraymap_8c.html#a382b498f31e07a3c5c588d56c40e201e" title="array_of_map_lookup_elem" alt="" coords="229,56,410,83"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#ade0fffb83d01c27a676b07ef5e51b6bc" title="map_lookup_elem" alt="" coords="471,5,597,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="645,5,792,32"/>
-<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="840,5,987,32"/>
-</map>

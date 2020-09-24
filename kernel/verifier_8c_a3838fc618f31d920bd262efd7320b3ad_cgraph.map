@@ -1,7 +1,0 @@
-<map id="check_func_proto" name="check_func_proto">
-<area shape="rect" id="node2" href="$verifier_8c.html#a53a51a3a045cff54e3d620bbea1c066f" title="check_raw_mode_ok" alt="" coords="179,5,324,32"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#acb973296c49631e259b9c2d83df00032" title="check_arg_pair_ok" alt="" coords="186,56,317,83"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#a31f69a415f62a7dd8ed0c0a0f4dd9beb" title="arg_type_is_mem_size" alt="" coords="581,31,737,57"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#a4bcdc485665564feb8aaad6db0a1a1f3" title="arg_type_is_mem_ptr" alt="" coords="586,93,733,120"/>
-<area shape="rect" id="node6" href="$verifier_8c.html#a8e53736348c2b7e98dec8f6a1e5ac2df" title="check_args_pair_invalid" alt="" coords="372,56,533,83"/>
-</map>

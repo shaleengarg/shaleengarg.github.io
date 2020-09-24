@@ -1,4 +1,0 @@
-<map id="stop_func_tracer" name="stop_func_tracer">
-<area shape="rect" id="node2" href="$trace__sched__wakeup_8c.html#acd19dff68e1a722f19dc396c6e35c12d" title="stop_wakeup_tracer" alt="" coords="172,5,311,32"/>
-<area shape="rect" id="node3" href="$trace__sched__wakeup_8c.html#ae076f093a09d5575f4b1a58aaed34244" title="wakeup_tracer_reset" alt="" coords="359,5,501,32"/>
-</map>

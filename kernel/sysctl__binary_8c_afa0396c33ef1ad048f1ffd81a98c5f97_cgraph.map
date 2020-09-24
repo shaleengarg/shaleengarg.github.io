@@ -1,7 +1,0 @@
-<map id="SYSCALL_DEFINE1" name="SYSCALL_DEFINE1">
-<area shape="rect" id="node2" href="$sysctl__binary_8c.html#abda5f1de1ebf766df5657ac76843d17e" title="do_sysctl" alt="" coords="200,56,279,83"/>
-<area shape="rect" id="node3" href="$sysctl__binary_8c.html#a4d8dfb4e67365b113fc469700db2a413" title="warn_on_bintable" alt="" coords="327,31,449,57"/>
-<area shape="rect" id="node6" href="$sysctl__binary_8c.html#aaafafeda9d9b2d6bb8cd9cde18142199" title="binary_sysctl" alt="" coords="339,81,437,108"/>
-<area shape="rect" id="node4" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="562,5,613,32"/>
-<area shape="rect" id="node5" href="$sysctl__binary_8c.html#a20e00474aa76252c7a06709de66a902e" title="deprecated_sysctl_warning" alt="" coords="497,56,677,83"/>
-</map>

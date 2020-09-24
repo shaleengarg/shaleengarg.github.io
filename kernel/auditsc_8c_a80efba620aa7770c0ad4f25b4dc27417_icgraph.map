@@ -1,6 +1,0 @@
-<map id="audit_alloc_name" name="audit_alloc_name">
-<area shape="rect" id="node2" href="$auditsc_8c.html#a53843e463894137734a87020b6c4b95c" title="__audit_getname" alt="" coords="183,5,305,32"/>
-<area shape="rect" id="node3" href="$auditsc_8c.html#a313f6003cc71a89aa9bee8e774539e25" title="__audit_inode" alt="" coords="193,56,295,83"/>
-<area shape="rect" id="node5" href="$auditsc_8c.html#ac7a3df5b846360040e471ba122688494" title="__audit_inode_child" alt="" coords="176,107,312,133"/>
-<area shape="rect" id="node4" href="$auditsc_8c.html#aaa1eec78e4bbb1f377b52655b5670210" title="__audit_file" alt="" coords="360,56,448,83"/>
-</map>

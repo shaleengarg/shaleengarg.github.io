@@ -1,4 +1,0 @@
-<map id="perf_pmu_sched_task" name="perf_pmu_sched_task">
-<area shape="rect" id="node2" href="$events_2core_8c.html#ae9f5e65caa19348b63bef91a7b84b65c" title="__perf_event_task_sched_out" alt="" coords="204,5,400,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a68cd9d7c48b9453cb968386c5296f646" title="__perf_event_task_sched_in" alt="" coords="208,56,396,83"/>
-</map>

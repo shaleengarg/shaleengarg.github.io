@@ -1,4 +1,0 @@
-<map id="pwq_activate_delayed_work" name="pwq_activate_delayed_work">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a9cc066ce297e2c1b57b92eb641755f96" title="get_work_pwq" alt="" coords="255,5,362,32"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#ab79ca0c45689c59579f55155a06a4156" title="move_linked_works" alt="" coords="240,56,377,83"/>
-</map>

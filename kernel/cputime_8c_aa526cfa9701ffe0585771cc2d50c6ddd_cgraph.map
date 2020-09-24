@@ -1,6 +1,0 @@
-<map id="account_idle_ticks" name="account_idle_ticks">
-<area shape="rect" id="node2" href="$cputime_8c.html#a1136a31b6c3b5345329b6b78e32e459b" title="irqtime_account_idle\l_ticks" alt="" coords="207,5,349,47"/>
-<area shape="rect" id="node3" href="$cputime_8c.html#a001be809ba59469b4c56ef9352341072" title="steal_account_process_time" alt="" coords="184,71,372,98"/>
-<area shape="rect" id="node5" href="$cputime_8c.html#a6a2c1dfdbcbd457c6414f0cfd7d1e3d0" title="account_idle_time" alt="" coords="215,122,341,149"/>
-<area shape="rect" id="node4" href="$cputime_8c.html#a22da7fb49143e7667bbd08c00294d8bf" title="account_steal_time" alt="" coords="420,71,555,98"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="sysctl_max_threads" name="sysctl_max_threads">
-<area shape="rect" id="node2" href="$sysctl_8c.html#a821c3155467894406355f344d4a83544" title="proc_dointvec_minmax" alt="" coords="192,5,348,32"/>
-<area shape="rect" id="node3" href="$fork_8c.html#a5da644e3825e0030e6f82cdd6019cd60" title="set_max_threads" alt="" coords="209,56,331,83"/>
-</map>

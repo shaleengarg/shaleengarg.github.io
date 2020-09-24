@@ -1,5 +1,0 @@
-<map id="set_next_entity" name="set_next_entity">
-<area shape="rect" id="node2" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="164,5,299,32"/>
-<area shape="rect" id="node4" href="$fair_8c.html#ad45f0fa08ee0ebd82518f49f52c1fcdb" title="set_curr_task_fair" alt="" coords="168,56,295,83"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="347,31,476,57"/>
-</map>

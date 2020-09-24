@@ -1,6 +1,0 @@
-<map id="create_var" name="create_var">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a07e2dff2339ed5a5c242f6247d58f9c5" title="find_var" alt="" coords="175,5,243,32"/>
-<area shape="rect" id="node4" href="$tracing__map_8c.html#a1f1aec64ee991ed49448799aacd06281" title="tracing_map_add_var" alt="" coords="136,56,283,83"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="184,107,235,133"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#ae7d6d9a2b0e907d9dcde59c1189cc697" title="find_var_field" alt="" coords="331,5,429,32"/>
-</map>

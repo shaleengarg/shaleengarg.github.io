@@ -1,5 +1,0 @@
-<map id="ftrace_dump" name="ftrace_dump">
-<area shape="rect" id="node2" href="$trace_8c.html#a0ddda3b7283321ec4a9541f1695d7dc8" title="trace_panic_handler" alt="" coords="155,5,293,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a92b200d52a2dc79bcdd89d6f1759a506" title="trace_die_handler" alt="" coords="162,56,286,83"/>
-<area shape="rect" id="node4" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="148,107,300,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="kgdb_tasklet_bpt" name="kgdb_tasklet_bpt">
-<area shape="rect" id="node2" href="$debug__core_8c.html#a48ddb09042779698361e977262767012" title="kgdb_breakpoint" alt="" coords="192,5,309,32"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#a3aa470330851bd10473043aa2664d4e8" title="DECLARE_TASKLET" alt="" coords="175,56,327,83"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#a897faeedea71f06fb132ed13868df9f7" title="EXPORT_SYMBOL_GPL" alt="" coords="375,5,547,32"/>
-</map>

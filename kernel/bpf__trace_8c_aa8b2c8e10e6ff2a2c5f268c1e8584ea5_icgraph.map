@@ -1,7 +1,0 @@
-<map id="bpf_get_trace_printk_proto" name="bpf_get_trace_printk_proto">
-<area shape="rect" id="node2" href="$bpf__trace_8c.html#a23038940c7ec085b841b65ed50bff403" title="tracing_func_proto" alt="" coords="193,81,323,108"/>
-<area shape="rect" id="node3" href="$bpf__trace_8c.html#aa0e88a9135d91b7866221b0b6d8133ee" title="kprobe_prog_func_proto" alt="" coords="371,5,532,32"/>
-<area shape="rect" id="node4" href="$bpf__trace_8c.html#a4873347c0a869b7feef30cd89a27cd6a" title="tp_prog_func_proto" alt="" coords="385,56,518,83"/>
-<area shape="rect" id="node5" href="$bpf__trace_8c.html#ad2cb13387156bf860757cdaf91a496ad" title="pe_prog_func_proto" alt="" coords="383,107,519,133"/>
-<area shape="rect" id="node6" href="$bpf__trace_8c.html#ad8e5c770e31aae79cac52ea0c777d009" title="raw_tp_prog_func_proto" alt="" coords="371,157,532,184"/>
-</map>

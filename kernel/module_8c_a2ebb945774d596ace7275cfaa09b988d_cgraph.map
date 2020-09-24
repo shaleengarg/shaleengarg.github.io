@@ -1,8 +1,0 @@
-<map id="setup_load_info" name="setup_load_info">
-<area shape="rect" id="node2" href="$module_8c.html#a15ea5a1def682ed13d4d3788903fda83" title="rewrite_section_headers" alt="" coords="171,56,333,83"/>
-<area shape="rect" id="node3" href="$module_8c.html#a107abbb5f82113f0e51d78b97a1a564f" title="find_sec" alt="" coords="397,5,467,32"/>
-<area shape="rect" id="node6" href="$module_8c.html#ace2085e6b1682271e25d49d6ea57bd4d" title="find_pcpusec" alt="" coords="203,107,301,133"/>
-<area shape="rect" id="node7" href="$module_8c.html#a183a228046f244cccf8ec0470bb3596f" title="check_modstruct_version" alt="" coords="167,157,337,184"/>
-<area shape="rect" id="node4" href="$module_8c.html#ad69da34ffef8a15f38b9a924d5a82d49" title="get_modinfo" alt="" coords="385,56,479,83"/>
-<area shape="rect" id="node5" href="$module_8c.html#a548d636b22c5c1333d23590b25ea7edd" title="next_string" alt="" coords="527,56,613,83"/>
-</map>

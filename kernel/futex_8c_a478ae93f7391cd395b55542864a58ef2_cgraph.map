@@ -1,4 +1,0 @@
-<map id="lock_pi_update_atomic" name="lock_pi_update_atomic">
-<area shape="rect" id="node2" href="$futex_8c.html#ada757eb1e7da7fc2974ba68afa0c8d2c" title="should_fail_futex" alt="" coords="223,5,343,32"/>
-<area shape="rect" id="node3" href="$futex_8c.html#afb0c6b3b50e86641f48526f295165c90" title="cmpxchg_futex_value\l_locked" alt="" coords="208,57,357,98"/>
-</map>

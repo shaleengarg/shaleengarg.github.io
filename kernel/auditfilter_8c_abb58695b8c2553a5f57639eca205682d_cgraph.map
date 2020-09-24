@@ -1,6 +1,0 @@
-<map id="audit_krule_to_data" name="audit_krule_to_data">
-<area shape="rect" id="node2" href="$auditfilter_8c.html#a9f5e52c30964222c6c898261b0aa2b71" title="audit_pack_string" alt="" coords="188,5,312,32"/>
-<area shape="rect" id="node3" href="$audit__watch_8c.html#ab36f7fb2d3802b6a83f1de14bfbcdd7c" title="audit_watch_path" alt="" coords="188,56,312,83"/>
-<area shape="rect" id="node4" href="$audit__tree_8c.html#af815d71fbc46aef9090ba97bed1ed4c2" title="audit_tree_path" alt="" coords="195,107,305,133"/>
-<area shape="rect" id="node5" href="$audit__fsnotify_8c.html#af44fc468a250e05d6c9c55fe449bba54" title="audit_mark_path" alt="" coords="191,157,309,184"/>
-</map>

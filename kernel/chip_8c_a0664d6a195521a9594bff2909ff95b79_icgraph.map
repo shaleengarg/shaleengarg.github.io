@@ -1,5 +1,0 @@
-<map id="preflow_handler" name="preflow_handler">
-<area shape="rect" id="node2" href="$chip_8c.html#a36239c70447a7675ae17dba9e17e8b94" title="handle_level_irq" alt="" coords="173,5,287,32"/>
-<area shape="rect" id="node3" href="$chip_8c.html#a5ad800f75bdcb43de57cdee838d66eda" title="handle_fasteoi_irq" alt="" coords="167,56,293,83"/>
-<area shape="rect" id="node4" href="$chip_8c.html#a00647ddd8467fe1985f03d1592ef1d40" title="irq_cpu_offline" alt="" coords="177,107,283,133"/>
-</map>

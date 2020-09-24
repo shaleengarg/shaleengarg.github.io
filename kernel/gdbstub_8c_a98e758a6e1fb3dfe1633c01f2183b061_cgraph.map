@@ -1,7 +1,0 @@
-<map id="gdb_cmd_binwrite" name="gdb_cmd_binwrite">
-<area shape="rect" id="node2" href="$gdbstub_8c.html#a5256153f136ff992bd015a5bdcb56140" title="write_mem_msg" alt="" coords="180,56,299,83"/>
-<area shape="rect" id="node6" href="$gdbstub_8c.html#a1540f68a734068230adce62f9400ae45" title="error_packet" alt="" coords="192,107,287,133"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#aaa0ddf447fb0ec49f3fb7c890ddb5d1b" title="kgdb_hex2long" alt="" coords="351,5,460,32"/>
-<area shape="rect" id="node4" href="$gdbstub_8c.html#a23fcef6a6d1dbad08b167ddf9a2976ec" title="kgdb_ebin2mem" alt="" coords="347,56,464,83"/>
-<area shape="rect" id="node5" href="$gdbstub_8c.html#aeb7bc973b0431235ee18bb273a94088f" title="kgdb_hex2mem" alt="" coords="348,107,463,133"/>
-</map>

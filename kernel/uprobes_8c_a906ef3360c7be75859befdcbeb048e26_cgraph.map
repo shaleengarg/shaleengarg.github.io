@@ -1,7 +1,0 @@
-<map id="uprobe_write_opcode" name="uprobe_write_opcode">
-<area shape="rect" id="node2" href="$uprobes_8c.html#af7e5d54502026e80e6a44364b6da04a4" title="verify_opcode" alt="" coords="204,31,307,57"/>
-<area shape="rect" id="node5" href="$uprobes_8c.html#a6b82da9583c2aae48b29e2212193705a" title="copy_to_page" alt="" coords="204,81,307,108"/>
-<area shape="rect" id="node6" href="$uprobes_8c.html#ac55df7bb194ae80374146a7336dfa1e5" title="__replace_page" alt="" coords="199,132,312,159"/>
-<area shape="rect" id="node3" href="$uprobes_8c.html#aa8f762c036b2cbaab936fafa5bb6003b" title="copy_from_page" alt="" coords="360,5,479,32"/>
-<area shape="rect" id="node4" href="$uprobes_8c.html#a40a362f9f7103732aa0f714bea7e5516" title="is_swbp_insn" alt="" coords="369,56,470,83"/>
-</map>

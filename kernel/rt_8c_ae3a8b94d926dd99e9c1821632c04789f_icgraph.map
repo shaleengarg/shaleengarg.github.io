@@ -1,6 +1,0 @@
-<map id="update_curr_rt" name="update_curr_rt">
-<area shape="rect" id="node2" href="$rt_8c.html#a76dc6054e9088c870079159cca03c7c5" title="dequeue_task_rt" alt="" coords="162,5,281,32"/>
-<area shape="rect" id="node3" href="$rt_8c.html#a8c285f91de6d057013b3eb35395e8c76" title="pick_next_task_rt" alt="" coords="159,56,284,83"/>
-<area shape="rect" id="node4" href="$rt_8c.html#acec67139f6bab9c3adcbabb0debe3c3b" title="put_prev_task_rt" alt="" coords="162,107,281,133"/>
-<area shape="rect" id="node5" href="$rt_8c.html#a63e3fc484c97075f5bafddbe6ad7e8a0" title="task_tick_rt" alt="" coords="176,157,267,184"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="tracing_snapshot_instance" name="tracing_snapshot_instance">
-<area shape="rect" id="node2" href="$trace_8c.html#a9a06b3ceaa71320511e66a2d4eb36760" title="__trace_bputs" alt="" coords="262,5,366,32"/>
-<area shape="rect" id="node3" href="$trace_8h.html#af6cbee8d17c7644f280c57097422fc8c" title="trace_event_eval_update" alt="" coords="231,56,397,83"/>
-<area shape="rect" id="node4" href="$trace_8h.html#ae060351d42caf1eab1e761ea1317f784" title="get_syscall_name" alt="" coords="445,56,572,83"/>
-</map>

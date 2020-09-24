@@ -1,9 +1,0 @@
-<map id="parse_args" name="parse_args">
-<area shape="rect" id="node2" href="$params_8c.html#ab799050f9d2c011a4bd7a7ba1ab53403" title="parse_one" alt="" coords="140,31,223,57"/>
-<area shape="rect" id="node3" href="$params_8c.html#aa16c6795a98b3d07c74e9e98e758b464" title="parameq" alt="" coords="308,5,380,32"/>
-<area shape="rect" id="node6" href="$params_8c.html#a4f33d3620732924186b8c97f0ddf5e96" title="param_check_unsafe" alt="" coords="271,56,417,83"/>
-<area shape="rect" id="node4" href="$params_8c.html#a820dff10fc373595c1fe28516ec34e33" title="parameqn" alt="" coords="465,5,544,32"/>
-<area shape="rect" id="node5" href="$params_8c.html#a0914178901e079c98c8a8394e0a243d7" title="dash2underscore" alt="" coords="601,5,722,32"/>
-<area shape="rect" id="node7" href="$panic_8c.html#a3f1f0ccb9e83756bad52533bf8936c98" title="add_taint" alt="" coords="467,56,542,83"/>
-<area shape="rect" id="node8" href="$panic_8c.html#af5386e2342cddf38e1b450427d268601" title="EXPORT_SYMBOL" alt="" coords="592,56,731,83"/>
-</map>

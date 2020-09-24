@@ -1,8 +1,0 @@
-<map id="reset_node" name="reset_node">
-<area shape="rect" id="node2" href="$gcc__3__4_8c.html#aa38e6748332c8ed37b83573a871c5cd5" title="gcov_info_reset" alt="" coords="140,5,255,32"/>
-<area shape="rect" id="node3" href="$fs_8c.html#ae9d4b84d3a8d4da507a712b0101d01f8" title="remove_node" alt="" coords="147,56,247,83"/>
-<area shape="rect" id="node4" href="$fs_8c.html#a26bbed04db2ef6ca05679f83b5fa98f5" title="release_node" alt="" coords="303,56,401,83"/>
-<area shape="rect" id="node5" href="$fs_8c.html#a1477dd908e6dec8094360bc22e28f913" title="remove_links" alt="" coords="453,5,552,32"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="604,31,655,57"/>
-<area shape="rect" id="node7" href="$gcc__3__4_8c.html#a594a9447f992576020d6a1b6ee503601" title="gcov_info_free" alt="" coords="449,107,556,133"/>
-</map>

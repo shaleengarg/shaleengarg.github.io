@@ -1,6 +1,0 @@
-<map id="free_image_page" name="free_image_page">
-<area shape="rect" id="node2" href="$snapshot_8c.html#a65f26f5c589f819c16d56d48bf5714e2" title="swsusp_unset_page_forbidden" alt="" coords="175,5,376,32"/>
-<area shape="rect" id="node5" href="$snapshot_8c.html#acaba0587ad7f460bd01d46a0182e0e13" title="swsusp_unset_page_free" alt="" coords="190,56,361,83"/>
-<area shape="rect" id="node3" href="$snapshot_8c.html#ac89ac94510062d5805ff434732abc2cb" title="memory_bm_clear_bit" alt="" coords="424,31,575,57"/>
-<area shape="rect" id="node4" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="623,31,765,57"/>
-</map>

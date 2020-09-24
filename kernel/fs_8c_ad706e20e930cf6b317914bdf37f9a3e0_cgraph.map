@@ -1,5 +1,0 @@
-<map id="gcov_seq_release" name="gcov_seq_release">
-<area shape="rect" id="node2" href="$gcc__3__4_8c.html#a43c307a03227733457a6fbabac27ef85" title="gcov_iter_get_info" alt="" coords="180,5,308,32"/>
-<area shape="rect" id="node3" href="$gcc__3__4_8c.html#a2e23d0455961990b075c1f1be4b28b5f" title="gcov_iter_free" alt="" coords="192,56,296,83"/>
-<area shape="rect" id="node4" href="$gcc__3__4_8c.html#a594a9447f992576020d6a1b6ee503601" title="gcov_info_free" alt="" coords="191,107,297,133"/>
-</map>

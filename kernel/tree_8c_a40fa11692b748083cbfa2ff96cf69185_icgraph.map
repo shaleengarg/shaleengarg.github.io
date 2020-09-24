@@ -1,5 +1,0 @@
-<map id="rcutorture_record_progress" name="rcutorture_record_progress">
-<area shape="rect" id="node2" href="$rcutorture_8c.html#a7db13d6ac2621989846342f68502f6e4" title="rcu_torture_writer" alt="" coords="231,31,353,57"/>
-<area shape="rect" id="node3" href="$rcutorture_8c.html#af2171d1567207e8f950db3ab617c319a" title="rcu_torture_cleanup" alt="" coords="401,5,537,32"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="585,31,693,57"/>
-</map>

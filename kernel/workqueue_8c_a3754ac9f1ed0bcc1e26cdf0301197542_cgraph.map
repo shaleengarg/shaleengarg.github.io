@@ -1,9 +1,0 @@
-<map id="current_work" name="current_work">
-<area shape="rect" id="node2" href="$workqueue__internal_8h.html#acd01911cd74cfe74ec3faadc2095fdf0" title="current_wq_worker" alt="" coords="154,23,286,50"/>
-<area shape="rect" id="node8" href="$workqueue_8c.html#a7cbbd92d19b7f3012bbabba2135dd2b7" title="EXPORT_SYMBOL" alt="" coords="151,74,289,100"/>
-<area shape="rect" id="node3" href="$kthread_8c.html#a44f65489bb56d51f2064ddf1984418aa" title="kthread_data" alt="" coords="550,23,647,50"/>
-<area shape="rect" id="node5" href="$workqueue__internal_8h.html#aa975f4c94c08cef18ab3dbb07007b130" title="wq_worker_waking_up" alt="" coords="337,23,492,50"/>
-<area shape="rect" id="node6" href="$workqueue__internal_8h.html#a4900a0cd9351c57c52a09668125d2253" title="wq_worker_sleeping" alt="" coords="345,74,485,100"/>
-<area shape="rect" id="node4" href="$kthread_8c.html#af6f52ee3f6f9d6e0011dbb3038b56023" title="to_kthread" alt="" coords="705,23,788,50"/>
-<area shape="rect" id="node7" href="$workqueue_8c.html#a2ca4efa4bbc9afad51556430da7994fb" title="first_idle_worker" alt="" coords="540,74,657,100"/>
-</map>

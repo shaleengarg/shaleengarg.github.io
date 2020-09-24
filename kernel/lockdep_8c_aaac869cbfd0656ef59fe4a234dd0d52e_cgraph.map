@@ -1,7 +1,0 @@
-<map id="lock_repin_lock" name="lock_repin_lock">
-<area shape="rect" id="node2" href="$lockdep_8c.html#acd18235b090f7238d7a2f13390753ea8" title="check_flags" alt="" coords="205,5,297,32"/>
-<area shape="rect" id="node3" href="$lockdep_8c.html#ac9ab8004c45b5252f3cf868f7c7fcea6" title="__lock_repin_lock" alt="" coords="188,56,315,83"/>
-<area shape="rect" id="node6" href="$lockdep_8c.html#a6671f6365170d3840788ad7b8764256e" title="EXPORT_SYMBOL_GPL" alt="" coords="165,107,337,133"/>
-<area shape="rect" id="node4" href="$lockdep_8c.html#aa01a520fcdc3c7b0c7d7465bc984564e" title="match_held_lock" alt="" coords="385,56,505,83"/>
-<area shape="rect" id="node5" href="$lockdep_8c.html#a7fbccda23a460b62f38d4ce27ed54633" title="look_up_lock_class" alt="" coords="553,56,689,83"/>
-</map>

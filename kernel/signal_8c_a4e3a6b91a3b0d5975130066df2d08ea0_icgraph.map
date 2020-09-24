@@ -1,5 +1,0 @@
-<map id="do_sigpending" name="do_sigpending">
-<area shape="rect" id="node2" href="$signal_8c.html#a23f820919390eb6cde67fa3e722af9bb" title="SYSCALL_DEFINE2" alt="" coords="159,5,305,32"/>
-<area shape="rect" id="node4" href="$signal_8c.html#a8d5b7193b742fee945652d2b125f7e21" title="__save_altstack" alt="" coords="173,56,291,83"/>
-<area shape="rect" id="node3" href="$signal_8c.html#a877c7eb5f6658c6271e80d15f88a2f75" title="SYSCALL_DEFINE4" alt="" coords="353,5,500,32"/>
-</map>

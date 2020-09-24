@@ -1,5 +1,0 @@
-<map id="kstat_incr_irq_this_cpu" name="kstat_incr_irq_this_cpu">
-<area shape="rect" id="node2" href="$internals_8h.html#ae2f0b90be469659f3e96700257c60abe" title="kstat_incr_irqs_this_cpu" alt="" coords="209,5,372,32"/>
-<area shape="rect" id="node3" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="246,56,335,83"/>
-<area shape="rect" id="node4" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="420,56,559,83"/>
-</map>

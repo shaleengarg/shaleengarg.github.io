@@ -1,5 +1,0 @@
-<map id="alloc_highmem_pages" name="alloc_highmem_pages">
-<area shape="rect" id="node2" href="$snapshot_8c.html#aab5aeea0e1065281ea94b9bd72a6fecf" title="enough_free_mem" alt="" coords="204,5,333,32"/>
-<area shape="rect" id="node4" href="$snapshot_8c.html#aeb6d11bd7220462ffd80e42f3cd06973" title="swsusp_alloc" alt="" coords="218,56,319,83"/>
-<area shape="rect" id="node3" href="$snapshot_8c.html#a7173e764f0b871167e9cadb27c67259b" title="swsusp_save" alt="" coords="381,31,484,57"/>
-</map>

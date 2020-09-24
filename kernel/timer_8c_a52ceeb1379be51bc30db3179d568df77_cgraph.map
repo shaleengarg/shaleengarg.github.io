@@ -1,5 +1,0 @@
-<map id="collect_expired_timers" name="collect_expired_timers">
-<area shape="rect" id="node2" href="$timer_8c.html#a73a1451a76632f72f145aed74628ee33" title="__collect_expired_timers" alt="" coords="205,31,372,57"/>
-<area shape="rect" id="node3" href="$tick-internal_8h.html#ac5632fad1fc2f065057ca2370c52798c" title="get_next_timer_interrupt" alt="" coords="420,5,583,32"/>
-<area shape="rect" id="node4" href="$tick-internal_8h.html#a21ea6208569f98f820c598a5d8635bfa" title="timer_clear_idle" alt="" coords="445,56,558,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="__perf_event_read_value" name="__perf_event_read_value">
-<area shape="rect" id="node2" href="$events_2core_8c.html#afb65ca878ef7df6c100cffe81a6f6407" title="perf_event_read_value" alt="" coords="220,5,373,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#addad8c304e9c5a4464f03609a0646b83" title="perf_read_one" alt="" coords="245,56,349,83"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a6ca97917905a7503652336b56520cfa5" title="__perf_read" alt="" coords="421,56,512,83"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a88f63589b9c903ff82e933fc51d264a1" title="perf_read" alt="" coords="560,56,636,83"/>
-<area shape="rect" id="node6" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="684,56,775,83"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="start_func_tracer" name="start_func_tracer">
-<area shape="rect" id="node2" href="$trace__sched__wakeup_8c.html#a4094f1807bbfc02a6d8be0293f52ff6b" title="register_wakeup_function" alt="" coords="173,5,344,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a02948c78b6393c53c8b623de00a2cdb9" title="tracing_is_enabled" alt="" coords="193,56,324,83"/>
-</map>

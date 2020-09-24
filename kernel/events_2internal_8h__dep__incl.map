@@ -1,5 +1,0 @@
-<map id="events/internal.h" name="events/internal.h">
-<area shape="rect" id="node2" href="$callchain_8c.html" title="events/callchain.c" alt="" coords="5,80,132,107"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html" title="events/core.c" alt="" coords="157,80,258,107"/>
-<area shape="rect" id="node4" href="$events_2ring__buffer_8c.html" title="events/ring_buffer.c" alt="" coords="283,80,420,107"/>
-</map>

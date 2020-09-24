@@ -1,8 +1,0 @@
-<map id="sigkill_pending" name="sigkill_pending">
-<area shape="rect" id="node2" href="$signal_8c.html#ae5f80b96a95b4ff29d651053dfef29cc" title="ptrace_stop" alt="" coords="160,56,251,83"/>
-<area shape="rect" id="node3" href="$signal_8c.html#a38859d9e3e67e2de0fbcdb138f13cac2" title="ptrace_do_notify" alt="" coords="299,5,417,32"/>
-<area shape="rect" id="node5" href="$signal_8c.html#a08984cc375d0e294bcf8180f8ed3dbad" title="do_jobctl_trap" alt="" coords="465,56,568,83"/>
-<area shape="rect" id="node7" href="$signal_8c.html#ac9bd0c3ed896173cf8e504443ce3ae69" title="ptrace_signal" alt="" coords="309,107,407,133"/>
-<area shape="rect" id="node4" href="$signal_8c.html#a0ffbd1024fcfecb02b5bdecf985a0301" title="ptrace_notify" alt="" coords="468,5,565,32"/>
-<area shape="rect" id="node6" href="$signal_8c.html#a547a534624a6ca37d2f8f1ce9fbea98c" title="get_signal" alt="" coords="616,81,697,108"/>
-</map>

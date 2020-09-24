@@ -1,5 +1,0 @@
-<map id="queue_lock" name="queue_lock">
-<area shape="rect" id="node2" href="$futex_8c.html#a0d33b0212952406a03a1f721117833d7" title="hash_futex" alt="" coords="153,5,239,32"/>
-<area shape="rect" id="node4" href="$futex_8c.html#a0c895faeb81a2bab5f46c30dc719a749" title="hb_waiters_inc" alt="" coords="141,56,251,83"/>
-<area shape="rect" id="node3" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="299,5,349,32"/>
-</map>

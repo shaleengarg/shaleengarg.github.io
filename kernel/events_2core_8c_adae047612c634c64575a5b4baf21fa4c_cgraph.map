@@ -1,5 +1,0 @@
-<map id="find_swevent_head" name="find_swevent_head">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a5fa3c75d8be90cda99e61f9a7c80bcca" title="__find_swevent_head" alt="" coords="188,31,336,57"/>
-<area shape="rect" id="node3" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="412,5,463,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#aaf1e908e26ff7fa0d5bcb1faeb8796a2" title="swevent_hash" alt="" coords="384,56,491,83"/>
-</map>

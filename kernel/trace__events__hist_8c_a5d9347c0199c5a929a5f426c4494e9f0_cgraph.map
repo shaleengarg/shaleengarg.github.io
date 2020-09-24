@@ -1,8 +1,0 @@
-<map id="parse_hist_trigger_attrs" name="parse_hist_trigger_attrs">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a3c44f11a88b0fe00050233fe7126cb1d" title="parse_assignment" alt="" coords="183,31,311,57"/>
-<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a4d593270d9861265afec4e83c226e9c3" title="parse_action" alt="" coords="199,81,295,108"/>
-<area shape="rect" id="node6" href="$trace__events__hist_8c.html#a6e390cc73eefa36b8b230cf13c5b75ea" title="destroy_hist_trigger\l_attrs" alt="" coords="179,133,315,174"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a454b40c9a4df7b488c303e72f1f47bc6" title="parse_map_size" alt="" coords="363,5,480,32"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a835439bb80eaf0fbed9eb23c5d32ec04" title="hist_err" alt="" coords="389,56,454,83"/>
-<area shape="rect" id="node7" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="396,140,447,167"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="irq_pm_remove_action" name="irq_pm_remove_action">
-<area shape="rect" id="node2" href="$internals_8h.html#a6b2f7d69a77fa9fbf21fbe15ecd79ed6" title="irq_desc_is_chained" alt="" coords="207,31,347,57"/>
-<area shape="rect" id="node3" href="$pm_8c.html#a391df03db1485b944149824ddbf93fdb" title="suspend_device_irq" alt="" coords="395,5,532,32"/>
-<area shape="rect" id="node5" href="$proc_8c.html#a7ec2f5f133407333cf5e6ad40e8f1588" title="init_irq_proc" alt="" coords="417,56,509,83"/>
-<area shape="rect" id="node4" href="$pm_8c.html#a0c327e13fc051112d2fc49f774624f4d" title="suspend_device_irqs" alt="" coords="580,5,724,32"/>
-</map>

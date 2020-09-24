@@ -1,7 +1,0 @@
-<map id="allocate_cmdlines_buffer" name="allocate_cmdlines_buffer">
-<area shape="rect" id="node2" href="$trace_8c.html#a94af4f1cc0b6cb5b53c5f2eb991aed3d" title="trace_create_savedcmd" alt="" coords="220,5,381,32"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a7f3e4556dc699adadd3bb7af65b5a2ce" title="tracing_resize_saved\l_cmdlines" alt="" coords="228,57,373,98"/>
-<area shape="rect" id="node3" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="443,5,579,32"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="640,5,751,32"/>
-<area shape="rect" id="node6" href="$trace_8c.html#a11d096e5348dc8dd635e974e57eb0f75" title="tracing_saved_cmdlines\l_size_write" alt="" coords="429,57,592,98"/>
-</map>

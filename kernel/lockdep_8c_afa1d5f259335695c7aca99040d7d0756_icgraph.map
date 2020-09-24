@@ -1,9 +1,0 @@
-<map id="reacquire_held_locks" name="reacquire_held_locks">
-<area shape="rect" id="node2" href="$lockdep_8c.html#a1aae9aa75cd35c2943dbc2e368d56509" title="__lock_set_class" alt="" coords="201,5,324,32"/>
-<area shape="rect" id="node4" href="$lockdep_8c.html#a9d51f858d5ac759a8686862a2d7f16fe" title="__lock_downgrade" alt="" coords="197,56,328,83"/>
-<area shape="rect" id="node7" href="$lockdep_8c.html#aacf144d858d4e1fe7e9679ae097872c9" title="__lock_release" alt="" coords="208,107,317,133"/>
-<area shape="rect" id="node3" href="$lockdep_8c.html#ab2460a3b6f9480939209e9c0a13a3d84" title="lock_set_class" alt="" coords="379,5,489,32"/>
-<area shape="rect" id="node5" href="$lockdep_8c.html#a6c5f4bda98328cb92198660d3e1940be" title="lock_downgrade" alt="" coords="376,56,492,83"/>
-<area shape="rect" id="node6" href="$rwsem_8c.html#ad8c6cd1508ed28a0bd0b43483aee761b" title="downgrade_write" alt="" coords="540,56,660,83"/>
-<area shape="rect" id="node8" href="$lockdep_8c.html#a5ec594f5e297b7eb8db0090bf64feb0b" title="lock_release" alt="" coords="387,107,481,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="rcu_check_quiescent_state" name="rcu_check_quiescent_state">
-<area shape="rect" id="node2" href="$tree_8c.html#a707c555637dc96027503fe515bb9e4ce" title="__rcu_process_callbacks" alt="" coords="199,13,368,39"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a99eaa3852b610c9581318ffaf4903ad6" title="rcu_process_callbacks" alt="" coords="416,13,571,39"/>
-<area shape="rect" id="node4" href="$tree_8c.html#aa0e5bf97f28c8ca03e7ce0cc57d6f5f5" title="rcu_init" alt="" coords="619,13,683,39"/>
-</map>

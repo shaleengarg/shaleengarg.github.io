@@ -1,5 +1,0 @@
-<map id="print_entries" name="print_entries">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a8916111f1319a0828b2c7218c9269c65" title="hist_trigger_show" alt="" coords="147,5,271,32"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a6eed712a1739fcd4719f2879cb4f151c" title="hist_show" alt="" coords="319,5,400,32"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#aae25d3eecd900fcb80ff7c234c0dddd3" title="event_hist_open" alt="" coords="448,5,565,32"/>
-</map>

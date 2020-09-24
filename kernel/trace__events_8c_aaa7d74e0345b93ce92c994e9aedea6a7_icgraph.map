@@ -1,8 +1,0 @@
-<map id="ftrace_set_clr_event" name="ftrace_set_clr_event">
-<area shape="rect" id="node2" href="$trace__events_8c.html#a95b5237adc98d57a58fc0f9dfd1c6bc7" title="ftrace_event_write" alt="" coords="199,5,329,32"/>
-<area shape="rect" id="node3" href="$trace__events_8c.html#a57729271d30c470addd967b0058362a2" title="early_enable_events" alt="" coords="193,56,335,83"/>
-<area shape="rect" id="node4" href="$trace__events_8c.html#a4d92e78966e2744c541e13c7fd7e4193" title="event_trace_enable" alt="" coords="383,27,517,53"/>
-<area shape="rect" id="node7" href="$trace__events_8c.html#a61ca857d188154de39aef74c5c7444fa" title="event_trace_enable\l_again" alt="" coords="383,78,517,119"/>
-<area shape="rect" id="node5" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="565,27,680,53"/>
-<area shape="rect" id="node6" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="728,27,803,53"/>
-</map>

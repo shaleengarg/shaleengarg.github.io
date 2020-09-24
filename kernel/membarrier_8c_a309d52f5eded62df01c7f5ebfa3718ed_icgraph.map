@@ -1,5 +1,0 @@
-<map id="ipi_mb" name="ipi_mb">
-<area shape="rect" id="node2" href="$membarrier_8c.html#ab76b7ccba81586c70697e68a819a5bae" title="membarrier_global_expedited" alt="" coords="113,5,304,32"/>
-<area shape="rect" id="node4" href="$membarrier_8c.html#ad1a9798e7667619d8904515c1d75f52e" title="membarrier_private\l_expedited" alt="" coords="142,57,275,98"/>
-<area shape="rect" id="node3" href="$membarrier_8c.html#ab092ac45a0784eed97530120015aed33" title="SYSCALL_DEFINE2" alt="" coords="352,35,499,61"/>
-</map>

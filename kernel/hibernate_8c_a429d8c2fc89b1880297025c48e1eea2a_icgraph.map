@@ -1,8 +1,0 @@
-<map id="platform_recover" name="platform_recover">
-<area shape="rect" id="node2" href="$hibernate_8c.html#a4a5f6e9ba06b24c86f2d8c7a414febf5" title="hibernation_snapshot" alt="" coords="172,81,317,108"/>
-<area shape="rect" id="node3" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="381,56,456,83"/>
-<area shape="rect" id="node7" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="365,107,472,133"/>
-<area shape="rect" id="node4" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="538,5,649,32"/>
-<area shape="rect" id="node5" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="550,56,637,83"/>
-<area shape="rect" id="node6" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="520,107,667,133"/>
-</map>

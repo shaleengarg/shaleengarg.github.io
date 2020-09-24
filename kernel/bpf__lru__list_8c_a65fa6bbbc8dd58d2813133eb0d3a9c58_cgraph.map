@@ -1,7 +1,0 @@
-<map id="__bpf_lru_list_shrink_inactive" name="__bpf_lru_list_shrink_inactive">
-<area shape="rect" id="node2" href="$bpf__lru__list_8c.html#a193428a2cfe6fd59a9b6ec3cd1ea7c56" title="bpf_lru_node_is_ref" alt="" coords="202,5,337,32"/>
-<area shape="rect" id="node3" href="$bpf__lru__list_8c.html#a48d0354a7b53d3a5620d7d634450177e" title="__bpf_lru_node_move" alt="" coords="195,123,344,149"/>
-<area shape="rect" id="node6" href="$bpf__lru__list_8c.html#ae2fe99df54c6385250ab4d32f1a7c013" title="__bpf_lru_node_move\l_to_free" alt="" coords="195,57,344,98"/>
-<area shape="rect" id="node4" href="$bpf__lru__list_8c.html#ad87c1c764e7febca9c12f89bb3ee8a0f" title="bpf_lru_list_count_dec" alt="" coords="392,68,544,95"/>
-<area shape="rect" id="node5" href="$bpf__lru__list_8c.html#ad174eaf526df484345ff3793a39228c1" title="bpf_lru_list_count_inc" alt="" coords="394,123,542,149"/>
-</map>

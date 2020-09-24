@@ -1,8 +1,0 @@
-<map id="rcu_trace_clock_local" name="rcu_trace_clock_local">
-<area shape="rect" id="node2" href="$rcutorture_8c.html#aaf3a4c0a7f5d0d05aa7d939542b54666" title="rcu_read_delay" alt="" coords="206,5,317,32"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#af9ab426c096a996b24cccf96c5eb9538" title="rcu_torture_timer" alt="" coords="201,56,321,83"/>
-<area shape="rect" id="node5" href="$rcutorture_8c.html#a0d3374064e25a9bc2fa01e3e4d74a499" title="rcu_torture_reader" alt="" coords="369,81,496,108"/>
-<area shape="rect" id="node3" href="$rcutorture_8c.html#a5ef4ba5da8cad0f71a31d524aac82e4c" title="srcu_read_delay" alt="" coords="374,5,491,32"/>
-<area shape="rect" id="node6" href="$rcutorture_8c.html#af2171d1567207e8f950db3ab617c319a" title="rcu_torture_cleanup" alt="" coords="544,56,680,83"/>
-<area shape="rect" id="node7" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="728,81,836,108"/>
-</map>

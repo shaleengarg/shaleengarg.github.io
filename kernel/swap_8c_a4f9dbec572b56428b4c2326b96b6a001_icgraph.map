@@ -1,8 +1,0 @@
-<map id="swsusp_swap_check" name="swsusp_swap_check">
-<area shape="rect" id="node2" href="$swap_8c.html#ab373aed188d5480f0f17b1d4e7ee85b5" title="get_swap_writer" alt="" coords="200,56,317,83"/>
-<area shape="rect" id="node3" href="$swap_8c.html#a98062ebed0f1d6fb365900bf752f3259" title="swsusp_write" alt="" coords="365,56,468,83"/>
-<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="516,56,591,83"/>
-<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="657,5,767,32"/>
-<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="669,56,755,83"/>
-<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="639,107,785,133"/>
-</map>

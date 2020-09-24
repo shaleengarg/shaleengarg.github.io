@@ -1,7 +1,0 @@
-<map id="do_tkill" name="do_tkill">
-<area shape="rect" id="node2" href="$signal_8c.html#a222829ee20c073c79af2f73bd1f023b1" title="SYSCALL_DEFINE3" alt="" coords="116,56,263,83"/>
-<area shape="rect" id="node6" href="$signal_8c.html#aeec08b32261273e8c3d231b3d519a5a0" title="SYSCALL_DEFINE2" alt="" coords="116,107,263,133"/>
-<area shape="rect" id="node3" href="$signal_8c.html#a8d5b7193b742fee945652d2b125f7e21" title="__save_altstack" alt="" coords="325,5,443,32"/>
-<area shape="rect" id="node4" href="$signal_8c.html#a877c7eb5f6658c6271e80d15f88a2f75" title="SYSCALL_DEFINE4" alt="" coords="311,56,457,83"/>
-<area shape="rect" id="node5" href="$signal_8c.html#ac4f1fc8531a20d4895841a154b6776b1" title="SYSCALL_DEFINE2" alt="" coords="311,107,457,133"/>
-</map>

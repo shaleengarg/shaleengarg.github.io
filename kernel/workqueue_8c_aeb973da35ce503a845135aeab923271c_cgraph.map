@@ -1,5 +1,0 @@
-<map id="need_to_create_worker" name="need_to_create_worker">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a5725dd085919aee8c091655baed8b7e8" title="need_more_worker" alt="" coords="211,5,343,32"/>
-<area shape="rect" id="node4" href="$workqueue_8c.html#ac963472d3f181cd94534ff5f0b321c6d" title="may_start_working" alt="" coords="211,56,343,83"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#a856b3174c684ae77fcb883a5c9b39c88" title="__need_more_worker" alt="" coords="391,5,537,32"/>
-</map>

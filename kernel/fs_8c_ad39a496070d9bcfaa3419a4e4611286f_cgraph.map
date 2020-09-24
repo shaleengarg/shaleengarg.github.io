@@ -1,6 +1,0 @@
-<map id="add_info" name="add_info">
-<area shape="rect" id="node2" href="$gcc__3__4_8c.html#a59d69bd432c13c459528995b1f9a48d2" title="gcov_info_filename" alt="" coords="139,5,274,32"/>
-<area shape="rect" id="node3" href="$gcc__3__4_8c.html#aac76247f0799ca84040cc6940e52ce1b" title="gcov_info_is_compatible" alt="" coords="124,56,289,83"/>
-<area shape="rect" id="node4" href="$gcc__3__4_8c.html#a594a9447f992576020d6a1b6ee503601" title="gcov_info_free" alt="" coords="153,107,260,133"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="181,157,232,184"/>
-</map>

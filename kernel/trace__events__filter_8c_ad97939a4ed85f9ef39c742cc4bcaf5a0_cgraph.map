@@ -1,6 +1,0 @@
-<map id="filter_free_subsystem_filters" name="filter_free_subsystem_filters">
-<area shape="rect" id="node2" href="$trace__events__filter_8c.html#a77920470ea24db96a5221ab9e56ae66f" title="__free_subsystem_filter" alt="" coords="200,31,361,57"/>
-<area shape="rect" id="node3" href="$trace__events__filter_8c.html#a49353803697a04fbf1720b9c3343e550" title="__free_filter" alt="" coords="409,31,500,57"/>
-<area shape="rect" id="node4" href="$trace__events__filter_8c.html#a58d54c795dcfdb2fdf747e645a027efb" title="free_prog" alt="" coords="548,5,624,32"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="672,31,723,57"/>
-</map>

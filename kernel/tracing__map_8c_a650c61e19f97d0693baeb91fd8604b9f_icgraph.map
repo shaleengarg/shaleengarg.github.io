@@ -1,6 +1,0 @@
-<map id="__tracing_map_insert" name="__tracing_map_insert">
-<area shape="rect" id="node2" href="$tracing__map_8h.html#aee74920521c440390da6ab4eefca457f" title="tracing_map_insert" alt="" coords="387,5,519,32"/>
-<area shape="rect" id="node4" href="$tracing__map_8h.html#a9c6be09ed5d6e544216862a0aed3be6c" title="tracing_map_lookup" alt="" coords="200,56,339,83"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a770ac075af7c4df1b891e2be2ad02c02" title="event_hist_trigger" alt="" coords="567,31,692,57"/>
-<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a2ed5d2b0461a8685ec3ab521d14066f2" title="resolve_var_refs" alt="" coords="393,56,512,83"/>
-</map>

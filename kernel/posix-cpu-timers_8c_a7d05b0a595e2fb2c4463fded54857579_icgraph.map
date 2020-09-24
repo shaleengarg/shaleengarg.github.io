@@ -1,9 +1,0 @@
-<map id="set_process_cpu_timer" name="set_process_cpu_timer">
-<area shape="rect" id="node2" href="$itimer_8c.html#ab2b28ca4d4c179516a05dd437d35ea39" title="set_cpu_itimer" alt="" coords="219,5,326,32"/>
-<area shape="rect" id="node5" href="$posix-cpu-timers_8c.html#a8610e92ef8a113f00f53ca9224d3a4c0" title="update_rlimit_cpu" alt="" coords="211,56,335,83"/>
-<area shape="rect" id="node3" href="$itimer_8c.html#ad1d20d38771cd35924409f0179b30d71" title="do_setitimer" alt="" coords="383,5,476,32"/>
-<area shape="rect" id="node4" href="$itimer_8c.html#a5fc424f0f1a3e71db58571c77554b39e" title="SYSCALL_DEFINE3" alt="" coords="524,5,671,32"/>
-<area shape="rect" id="node6" href="$sys_8c.html#a59a163d126e1df3fb2b0653a4b9a37e0" title="do_prlimit" alt="" coords="390,56,469,83"/>
-<area shape="rect" id="node7" href="$sys_8c.html#a8edb050d9248c997c87b2029a19b13ad" title="SYSCALL_DEFINE2" alt="" coords="524,56,671,83"/>
-<area shape="rect" id="node8" href="$sys_8c.html#ae81d8d87e257f250fc1ec86f41b4e194" title="SYSCALL_DEFINE4" alt="" coords="524,107,671,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="__clear_all_pkt_pointers" name="__clear_all_pkt_pointers">
-<area shape="rect" id="node2" href="$verifier_8c.html#aa2620b1f18dfb5cc175effc1e0823544" title="reg_is_pkt_pointer_any" alt="" coords="216,19,372,45"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#a41e38ee00df523993d00ebabd10fed0f" title="mark_reg_unknown" alt="" coords="227,81,361,108"/>
-<area shape="rect" id="node7" href="$verifier_8c.html#ae994e006362920ce9e50abac988a5a38" title="__mark_reg_unknown" alt="" coords="607,107,756,133"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#a872f773386b42dd54e54ceaedd259b45" title="reg_is_pkt_pointer" alt="" coords="425,5,553,32"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#a3417411fe5ececc8252696fc00a4b60f" title="type_is_pkt_pointer" alt="" coords="614,5,749,32"/>
-<area shape="rect" id="node6" href="$verifier_8c.html#ad5f6c5ac43039c0fcad0c183404d3e1d" title="__mark_reg_not_init" alt="" coords="420,56,559,83"/>
-<area shape="rect" id="node8" href="$verifier_8c.html#afad72abb466e4c73e940b9072a5b42e6" title="__mark_reg_unbounded" alt="" coords="804,107,964,133"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="kgdb_validate_break_address" name="kgdb_validate_break_address">
-<area shape="rect" id="node2" href="$debug__core_8c.html#abe79eaba3084f68681c8ec8b35211ec4" title="kgdb_arch_set_breakpoint" alt="" coords="207,5,381,32"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#a1cf6070cbcbce614cdbdca046aae848e" title="kgdb_arch_remove_breakpoint" alt="" coords="195,56,393,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="free_pid_ns" name="free_pid_ns">
-<area shape="rect" id="node2" href="$pid__namespace_8c.html#a2d058a356157e5900af7e3893659c43c" title="destroy_pid_namespace" alt="" coords="143,31,305,57"/>
-<area shape="rect" id="node3" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="387,5,454,32"/>
-<area shape="rect" id="node4" href="$pid__namespace_8c.html#aecc56fa37d77508c3e45adadf98a3d6b" title="delayed_free_pidns" alt="" coords="353,56,488,83"/>
-<area shape="rect" id="node5" href="$pid__namespace_8c.html#a9a948cc650a681f84ec1c836741f82d0" title="dec_pid_namespaces" alt="" coords="536,56,684,83"/>
-<area shape="rect" id="node6" href="$ucount_8c.html#a748bea8153fc62832f76d542093fc716" title="dec_ucount" alt="" coords="732,56,821,83"/>
-<area shape="rect" id="node7" href="$ucount_8c.html#a9deb3ac4212106a6716b1a3cd7374347" title="put_ucounts" alt="" coords="869,56,963,83"/>
-<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="1011,56,1061,83"/>
-</map>

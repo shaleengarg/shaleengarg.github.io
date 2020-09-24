@@ -1,8 +1,0 @@
-<map id="smpcfd_dying_cpu" name="smpcfd_dying_cpu">
-<area shape="rect" id="node2" href="$smp_8c.html#a8d77715e3e307b2eadd8b5df28d09116" title="flush_smp_call_function\l_queue" alt="" coords="184,39,347,80"/>
-<area shape="rect" id="node3" href="$smp_8c.html#acc2a6f51b309df6076b999062198b635" title="csd_unlock" alt="" coords="399,17,487,43"/>
-<area shape="rect" id="node5" href="$irq__work_8c.html#adfe11b722014410bae234b54e3818040" title="irq_work_run" alt="" coords="395,71,491,98"/>
-<area shape="rect" id="node4" href="$smp_8c.html#ae008b86306eb95ab2673910ad547192d" title="DEFINE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="539,5,745,47"/>
-<area shape="rect" id="node6" href="$irq__work_8c.html#aa3ed6ccc525d45c3c38e0a96822a09b9" title="irq_work_run_list" alt="" coords="582,71,702,98"/>
-<area shape="rect" id="node7" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="556,122,728,149"/>
-</map>

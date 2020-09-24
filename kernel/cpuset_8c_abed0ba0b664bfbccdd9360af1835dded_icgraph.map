@@ -1,4 +1,0 @@
-<map id="update_nodemasks_hier" name="update_nodemasks_hier">
-<area shape="rect" id="node2" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="216,5,344,32"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="392,5,545,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="build_sched_domain" name="build_sched_domain">
-<area shape="rect" id="node2" href="$topology_8c.html#a2aa2a7cab513c627478fa36b0d2fe26e" title="sd_init" alt="" coords="235,5,295,32"/>
-<area shape="rect" id="node3" href="$topology_8c.html#a066ad43ef4b3543f533856ae87e60442" title="set_domain_attribute" alt="" coords="193,56,336,83"/>
-<area shape="rect" id="node4" href="$topology_8c.html#aa20ff3bda397bccd05750e4940e7934c" title="__sdt_free" alt="" coords="387,31,469,57"/>
-<area shape="rect" id="node7" href="$topology_8c.html#aa7cc5d8d6b4881ccc24f133a22c8765a" title="__sdt_alloc" alt="" coords="384,81,472,108"/>
-<area shape="rect" id="node5" href="$topology_8c.html#ab27bf6f0c8832e7149efe4e8172df484" title="free_sched_groups" alt="" coords="520,5,652,32"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="700,31,751,57"/>
-</map>

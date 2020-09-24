@@ -1,9 +1,0 @@
-<map id="set_freezable" name="set_freezable">
-<area shape="rect" id="node2" href="$audit_8c.html#ab59a410d3b356365c49e6afc4cabb1c2" title="kauditd_thread" alt="" coords="165,5,271,32"/>
-<area shape="rect" id="node4" href="$kthread_8c.html#adf78c947fddc9e72334e2f6657d1cd87" title="kthread_worker_fn" alt="" coords="153,56,283,83"/>
-<area shape="rect" id="node3" href="$audit_8c.html#afdae136a8f14b27996d1407dcf408167" title="audit_init" alt="" coords="369,5,443,32"/>
-<area shape="rect" id="node5" href="$kthread_8c.html#aeec64455b853c3ccf717f870fa8bae33" title="__printf" alt="" coords="373,56,439,83"/>
-<area shape="rect" id="node6" href="$cpufreq__schedutil_8c.html#afc551b04b86e4071a69c9df8e1497e36" title="sugov_kthread_create" alt="" coords="331,107,481,133"/>
-<area shape="rect" id="node7" href="$cpufreq__schedutil_8c.html#a1e820b80c2d44e28438aefa28eb05c6f" title="sugov_init" alt="" coords="529,107,611,133"/>
-<area shape="rect" id="node8" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="659,107,753,133"/>
-</map>

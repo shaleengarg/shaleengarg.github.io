@@ -1,5 +1,0 @@
-<map id="print_graph_abs_time" name="print_graph_abs_time">
-<area shape="rect" id="node2" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="200,31,315,57"/>
-<area shape="rect" id="node3" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="390,5,507,32"/>
-<area shape="rect" id="node4" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="363,56,535,83"/>
-</map>

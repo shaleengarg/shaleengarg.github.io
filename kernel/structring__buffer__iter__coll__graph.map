@@ -1,7 +1,0 @@
-<map id="ring_buffer_iter" name="ring_buffer_iter">
-<area shape="rect" id="node2" href="$structbuffer__page.html" title="buffer_page" alt="" coords="78,95,169,121"/>
-<area shape="rect" id="node4" href="$structring__buffer__per__cpu.html" title="ring_buffer_per_cpu" alt="" coords="162,229,298,256"/>
-<area shape="rect" id="node3" href="$structbuffer__data__page.html" title="buffer_data_page" alt="" coords="111,5,234,32"/>
-<area shape="rect" id="node6" href="$structring__buffer.html" title="ring_buffer" alt="" coords="254,320,337,347"/>
-<area shape="rect" id="node5" href="$structrb__irq__work.html" title="rb_irq_work" alt="" coords="308,95,397,121"/>
-</map>

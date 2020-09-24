@@ -1,6 +1,0 @@
-<map id="cgroup_procs_next" name="cgroup_procs_next">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#a0381ad40dcebc22b3553f38363471257" title="__cgroup_procs_start" alt="" coords="185,56,332,83"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a4f56963aeebbf08c2fcb6f5dceccd50d" title="cgroup_threads_write" alt="" coords="572,56,719,83"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#a678eb4794e1f00cf403c99ec0b3e6b2c" title="cgroup_procs_start" alt="" coords="385,5,519,32"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#ae2e3eb937c9e9c7d6c744386ebf36c67" title="cgroup_threads_start" alt="" coords="380,56,524,83"/>
-</map>

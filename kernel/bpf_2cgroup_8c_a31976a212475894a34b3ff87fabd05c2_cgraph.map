@@ -1,7 +1,0 @@
-<map id="cgroup_bpf_inherit" name="cgroup_bpf_inherit">
-<area shape="rect" id="node2" href="$bpf_2cgroup_8c.html#a7d1d8aed9652ce31eb7cfb7ff86a160a" title="compute_effective_progs" alt="" coords="181,31,349,57"/>
-<area shape="rect" id="node5" href="$bpf_2cgroup_8c.html#abd61a22ef763ed2ae3d903ab7129b776" title="activate_effective\l_progs" alt="" coords="203,82,328,123"/>
-<area shape="rect" id="node6" href="$bpf_2core_8c.html#a9d720f9bf745134e6901d04b72f88c2c" title="bpf_prog_array_free" alt="" coords="400,115,537,141"/>
-<area shape="rect" id="node3" href="$bpf_2cgroup_8c.html#a9e425e7feb1742298abdca80e6621d11" title="prog_list_length" alt="" coords="412,5,525,32"/>
-<area shape="rect" id="node4" href="$bpf_2core_8c.html#ab24d7758f8e3d1de20af081f74c31c6d" title="bpf_prog_array_alloc" alt="" coords="397,56,540,83"/>
-</map>

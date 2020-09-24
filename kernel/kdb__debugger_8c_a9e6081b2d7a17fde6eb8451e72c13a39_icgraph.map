@@ -1,9 +1,0 @@
-<map id="kdb_common_deinit_state" name="kdb_common_deinit_state">
-<area shape="rect" id="node2" href="$gdbstub_8c.html#adb8e58efe49872efbea4f124a862f2fc" title="gdb_cmd_query" alt="" coords="228,31,343,57"/>
-<area shape="rect" id="node8" href="$kdb__debugger_8c.html#a957bed500be0598ca503d528111a23bf" title="kdb_stub" alt="" coords="410,81,485,108"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#a63e2b239e99914ca4fa28d6f5b73e341" title="gdb_serial_stub" alt="" coords="391,31,504,57"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="552,56,667,83"/>
-<area shape="rect" id="node5" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="715,5,873,32"/>
-<area shape="rect" id="node6" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="731,56,857,83"/>
-<area shape="rect" id="node7" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="740,107,848,133"/>
-</map>

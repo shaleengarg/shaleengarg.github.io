@@ -1,7 +1,0 @@
-<map id="hrtimer_init" name="hrtimer_init">
-<area shape="rect" id="node2" href="$hrtimer_8c.html#ab8c4d443abd65daae77d14883b03a99f" title="debug_init" alt="" coords="185,5,267,32"/>
-<area shape="rect" id="node4" href="$hrtimer_8c.html#a855572b6d36ba9f01aa3ca931c201b4f" title="__hrtimer_init" alt="" coords="176,56,276,83"/>
-<area shape="rect" id="node6" href="$hrtimer_8c.html#aa7ad19a6291d62fde28112c2e67ea6d9" title="EXPORT_SYMBOL_GPL" alt="" coords="140,107,312,133"/>
-<area shape="rect" id="node3" href="$hrtimer_8c.html#a6a590a5745277e1ac71c5627d7a1b2a1" title="debug_hrtimer_init" alt="" coords="377,5,505,32"/>
-<area shape="rect" id="node5" href="$hrtimer_8c.html#a5373ef93c654bd0cad85e3b22ab98cf8" title="hrtimer_clockid_to_base" alt="" coords="360,56,523,83"/>
-</map>

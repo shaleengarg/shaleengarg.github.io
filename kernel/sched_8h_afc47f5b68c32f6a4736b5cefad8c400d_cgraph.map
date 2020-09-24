@@ -1,6 +1,0 @@
-<map id="sched_avg_update" name="sched_avg_update">
-<area shape="rect" id="node2" href="$sched_8h.html#ad09c80471801640ba24bba2c4c555d60" title="__task_rq_lock" alt="" coords="184,5,295,32"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a34cf43550f8e619f1fadb49fc6cc7c3b" title="task_rq_lock" alt="" coords="191,56,287,83"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="343,5,489,32"/>
-<area shape="rect" id="node4" href="$sched_8h.html#af4a0b63032f83e581cd267b1f1b7d63b" title="rq_pin_lock" alt="" coords="372,56,460,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="reserve_setup" name="reserve_setup">
-<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="189,5,248,32"/>
-<area shape="rect" id="node3" href="$resource_8c.html#a63da7f5040eaa9be5908bce233de0959" title="request_resource" alt="" coords="157,56,280,83"/>
-<area shape="rect" id="node7" href="$resource_8c.html#ae470b0fe31b3ab5f0c0ad09af09ee65b" title="__setup" alt="" coords="185,107,253,133"/>
-<area shape="rect" id="node4" href="$resource_8c.html#a5bdb8b7758a355132a8d5f895f6a4b5c" title="request_resource_conflict" alt="" coords="328,31,499,57"/>
-<area shape="rect" id="node6" href="$resource_8c.html#a9673883ea136cf575ab0dbb3af2a450d" title="EXPORT_SYMBOL" alt="" coords="344,81,483,108"/>
-<area shape="rect" id="node5" href="$resource_8c.html#a207b5bb40f2abdfdeb54af5b3516e9ee" title="__request_resource" alt="" coords="547,31,683,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="rcu_perf_reader" name="rcu_perf_reader">
-<area shape="rect" id="node2" href="$rcuperf_8c.html#af518e9eedb88d442e2921faf35b051e7" title="rcu_perf_cleanup" alt="" coords="165,56,287,83"/>
-<area shape="rect" id="node4" href="$rcuperf_8c.html#a27e8263fd39e03e707e3aa9f02b27b99" title="rcu_perf_init" alt="" coords="515,56,608,83"/>
-<area shape="rect" id="node3" href="$rcuperf_8c.html#a1fa66afae98b48e0901be627638a8b62" title="rcu_perf_shutdown" alt="" coords="335,5,467,32"/>
-</map>

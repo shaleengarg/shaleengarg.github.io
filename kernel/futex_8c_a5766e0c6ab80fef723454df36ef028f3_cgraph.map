@@ -1,5 +1,0 @@
-<map id="mark_wake_futex" name="mark_wake_futex">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#ad696374828c592d476846800b99340a3" title="wake_q_add" alt="" coords="192,5,287,32"/>
-<area shape="rect" id="node3" href="$futex_8c.html#ac6d4108e925b9a37491a1483823286f3" title="__unqueue_futex" alt="" coords="179,56,300,83"/>
-<area shape="rect" id="node4" href="$futex_8c.html#a2e284629c01aa481f73f411ec2aae93b" title="hb_waiters_dec" alt="" coords="348,56,461,83"/>
-</map>

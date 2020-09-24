@@ -1,5 +1,0 @@
-<map id="timekeeping_get_delta" name="timekeeping_get_delta">
-<area shape="rect" id="node2" href="$timekeeping_8c.html#a0a2d3da1a9add2c004e9ff39fe235e53" title="tk_clock_read" alt="" coords="205,5,308,32"/>
-<area shape="rect" id="node4" href="$timekeeping__internal_8h.html#a08e2db14d41b71d8625270fee4d5525b" title="clocksource_delta" alt="" coords="383,56,509,83"/>
-<area shape="rect" id="node3" href="$timekeeping_8c.html#a293d6c276a243bdb47aaccb0a9905b71" title="timekeeping_check_update" alt="" coords="356,5,536,32"/>
-</map>

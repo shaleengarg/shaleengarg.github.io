@@ -1,5 +1,0 @@
-<map id="trace_vbprintk" name="trace_vbprintk">
-<area shape="rect" id="node2" href="$trace_8h.html#a7114dd195e1abbc4950d33451d04f6c7" title="trace_vbprintk" alt="" coords="157,48,261,74"/>
-<area shape="rect" id="node3" href="$trace__printk_8c.html#ae32968e7a8621329cf00d67acb1ab6a3" title="__trace_bprintk" alt="" coords="315,22,426,49"/>
-<area shape="rect" id="node4" href="$trace__printk_8c.html#ac862fc4fd3004f14794b0923534656d2" title="__ftrace_vbprintk" alt="" coords="309,85,432,112"/>
-</map>

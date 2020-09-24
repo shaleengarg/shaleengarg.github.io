@@ -1,7 +1,0 @@
-<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
-<area shape="rect" id="node2" href="$jiffies_8c.html#aa7fb7caa768382e8f6bd44a95944856a" title="get_jiffies_64" alt="" coords="192,31,291,57"/>
-<area shape="rect" id="node3" href="$sys_8c.html#a360d3c772eb5d616809c219305107c5f" title="SYSCALL_DEFINE1" alt="" coords="339,31,485,57"/>
-<area shape="rect" id="node4" href="$sys_8c.html#a93361b04c14dfc7bb0686b76b9d41d4e" title="SYSCALL_DEFINE2" alt="" coords="533,5,680,32"/>
-<area shape="rect" id="node6" href="$sys_8c.html#abd49f5f5ea9fed9464e3ac87d8db5f3f" title="SYSCALL_DEFINE1" alt="" coords="533,56,680,83"/>
-<area shape="rect" id="node5" href="$sys_8c.html#ab198d18311eef12b441dc6a94676cdd2" title="SYSCALL_DEFINE2" alt="" coords="728,5,875,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="init_trace_printk_function_export" name="init_trace_printk_function_export">
-<area shape="rect" id="node2" href="$trace_8c.html#a30de1339e62cfe0e3a95f274d42b0b97" title="tracing_init_dentry" alt="" coords="220,5,348,32"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a4fd54a9a5f973fbdaa2015576d35959f" title="trace_create_file" alt="" coords="225,56,343,83"/>
-<area shape="rect" id="node5" href="$trace__printk_8c.html#aa8091fd1a27663e67aefad2a896a8cfa" title="fs_initcall" alt="" coords="245,107,323,133"/>
-<area shape="rect" id="node3" href="$trace_8c.html#ac64b6cba4c5ae6acb3a4c79d441a7eb5" title="trace_automount" alt="" coords="396,5,515,32"/>
-</map>

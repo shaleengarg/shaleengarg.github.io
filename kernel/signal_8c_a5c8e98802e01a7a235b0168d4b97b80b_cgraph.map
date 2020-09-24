@@ -1,7 +1,0 @@
-<map id="check_kill_permission" name="check_kill_permission">
-<area shape="rect" id="node2" href="$signal_8c.html#a7a97137d82aee456d191e0ce4436811e" title="si_fromuser" alt="" coords="218,5,309,32"/>
-<area shape="rect" id="node4" href="$auditsc_8c.html#aab9b9232c3011e58ce8e1836c97ee01d" title="audit_signal_info" alt="" coords="204,56,323,83"/>
-<area shape="rect" id="node6" href="$signal_8c.html#a8f89e17394aa3ba260a89a91a1f8ae05" title="kill_ok_by_cred" alt="" coords="207,107,319,133"/>
-<area shape="rect" id="node3" href="$signal_8c.html#a27eab2176255530d8c1f59fe8305332b" title="is_si_special" alt="" coords="381,5,479,32"/>
-<area shape="rect" id="node5" href="$audit_8c.html#aad7f06eb4ca26616afb7ff86f08b6e2a" title="auditd_test_task" alt="" coords="371,56,489,83"/>
-</map>

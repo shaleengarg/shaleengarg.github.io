@@ -1,5 +1,0 @@
-<map id="tick_resume_broadcast_oneshot" name="tick_resume_broadcast_oneshot">
-<area shape="rect" id="node2" href="$tick-broadcast_8c.html#aa55972eafe903b598dafa056ec59c6d3" title="tick_resume_broadcast" alt="" coords="211,13,368,39"/>
-<area shape="rect" id="node3" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="416,13,509,39"/>
-<area shape="rect" id="node4" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="557,13,700,39"/>
-</map>

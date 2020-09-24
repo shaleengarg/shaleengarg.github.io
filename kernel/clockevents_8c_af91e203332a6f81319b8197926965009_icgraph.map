@@ -1,5 +1,0 @@
-<map id="clockevents_notify_released" name="clockevents_notify_released">
-<area shape="rect" id="node2" href="$clockevents_8c.html#a07e80b5285554af7e9841981ab9ecdf6" title="clockevents_register\l_device" alt="" coords="184,39,327,80"/>
-<area shape="rect" id="node3" href="$clockevents_8c.html#a80310c1aad7057bdf67052607ecd5e34" title="clockevents_config\l_and_register" alt="" coords="375,5,509,47"/>
-<area shape="rect" id="node4" href="$tick-broadcast-hrtimer_8c.html#aa60a0cc0d7d9bf81c348facf26257b50" title="tick_setup_hrtimer\l_broadcast" alt="" coords="377,71,507,112"/>
-</map>

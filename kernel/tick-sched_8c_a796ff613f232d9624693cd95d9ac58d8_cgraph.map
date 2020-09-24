@@ -1,9 +1,0 @@
-<map id="tick_check_oneshot_change" name="tick_check_oneshot_change">
-<area shape="rect" id="node2" href="$timekeeping_8c.html#a81b6dc0a47aa42cfae48a1e559faa75b" title="timekeeping_valid_for_hres" alt="" coords="192,5,372,32"/>
-<area shape="rect" id="node3" href="$tick-common_8c.html#a875dc537f6707875b18504e47cb87196" title="tick_is_oneshot_available" alt="" coords="197,56,367,83"/>
-<area shape="rect" id="node8" href="$tick-sched_8c.html#a99e625c57cccf5dded99211337c8bf6e" title="tick_nohz_switch_to_nohz" alt="" coords="194,107,370,133"/>
-<area shape="rect" id="node4" href="$tick-internal_8h.html#a98cdc0e72a622a5c95f0422322ce181c" title="tick_broadcast_oneshot\l_available" alt="" coords="420,49,580,90"/>
-<area shape="rect" id="node5" href="$tick-internal_8h.html#a3d84d604e07039796c76e8471e894ab2" title="tick_oneshot_possible" alt="" coords="628,31,779,57"/>
-<area shape="rect" id="node6" href="$tick-internal_8h.html#a475cf7ed9650fd1b49938c208f8b2d03" title="tick_nohz_init" alt="" coords="652,81,755,108"/>
-<area shape="rect" id="node7" href="$tick-internal_8h.html#ac780868a10b67b6eca20c2b544ca6e9f" title="timers_update_nohz" alt="" coords="827,81,965,108"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="cpuhp_store_callbacks" name="cpuhp_store_callbacks">
-<area shape="rect" id="node2" href="$cpu_8c.html#a47cdf75177b8832373757e441f0c060d" title="__cpuhp_setup_state\l_cpuslocked" alt="" coords="213,5,360,47"/>
-<area shape="rect" id="node4" href="$cpu_8c.html#adf79c64e1f2c85c91ac95af9907304ad" title="__cpuhp_remove_state\l_cpuslocked" alt="" coords="208,71,365,112"/>
-<area shape="rect" id="node3" href="$cpu_8c.html#a0128e42d2993bf45b0b8f0876d1c9913" title="__cpuhp_setup_state" alt="" coords="419,13,565,39"/>
-<area shape="rect" id="node5" href="$cpu_8c.html#a6f379713b196b462de5d44254eca2828" title="__cpuhp_remove_state" alt="" coords="413,78,571,105"/>
-</map>

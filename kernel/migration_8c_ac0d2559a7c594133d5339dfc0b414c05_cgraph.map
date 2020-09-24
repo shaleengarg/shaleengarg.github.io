@@ -1,5 +1,0 @@
-<map id="irq_move_irq" name="irq_move_irq">
-<area shape="rect" id="node2" href="$migration_8c.html#acd05db79ee4ae7179049a469fa4083c1" title="irq_move_masked_irq" alt="" coords="149,31,299,57"/>
-<area shape="rect" id="node3" href="$internals_8h.html#a1173c00685998a46190284635e85970a" title="irqd_clr_move_pending" alt="" coords="347,5,501,32"/>
-<area shape="rect" id="node4" href="$internals_8h.html#a645f439e613cfecfb41a8585b30b8e1f" title="irq_do_set_affinity" alt="" coords="360,56,488,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="rcu_idle_exit" name="rcu_idle_exit">
-<area shape="rect" id="node2" href="$idle_8c.html#a45b8efb06606296ce2efc0160c90bdbe" title="cpu_idle_poll" alt="" coords="158,5,255,32"/>
-<area shape="rect" id="node6" href="$idle_8c.html#af74e244a6963e3cccd5855ca7c267df4" title="cpuidle_idle_call" alt="" coords="148,56,265,83"/>
-<area shape="rect" id="node3" href="$idle_8c.html#a890be3d604d0199e50ca2f2a76bd5f61" title="do_idle" alt="" coords="313,31,376,57"/>
-<area shape="rect" id="node4" href="$idle_8c.html#a11c39327cf4ee3454919418a6d5cc68a" title="play_idle" alt="" coords="451,5,524,32"/>
-<area shape="rect" id="node5" href="$idle_8c.html#aadea56844f6dc7ded8372dca84e1641c" title="cpu_startup_entry" alt="" coords="424,56,551,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="apply_wqattrs_cleanup" name="apply_wqattrs_cleanup">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a2d4f19afb9383070d823219cde7d62c0" title="put_pwq_unlocked" alt="" coords="216,5,347,32"/>
-<area shape="rect" id="node4" href="$workqueue_8c.html#afe6cbd43c3fcb66a30e5f0d7c6b8134b" title="free_workqueue_attrs" alt="" coords="208,56,355,83"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="413,81,463,108"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#aabba06484894928692694b9d96ef663b" title="put_pwq" alt="" coords="403,5,473,32"/>
-</map>

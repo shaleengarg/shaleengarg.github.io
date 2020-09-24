@@ -1,5 +1,0 @@
-<map id="woken_wake_function" name="woken_wake_function">
-<area shape="rect" id="node2" href="$sockmap_8c.html#a2baa8d37eee98ccaa85c22f5f786a1c6" title="bpf_wait_data" alt="" coords="204,5,307,32"/>
-<area shape="rect" id="node3" href="$sockmap_8c.html#a9cfa3bd046d40b1a8360a852887217db" title="bpf_tcp_recvmsg" alt="" coords="355,5,477,32"/>
-<area shape="rect" id="node4" href="$sockmap_8c.html#a541962d869c4201b1bbe27da2220dc73" title="bpf_tcp_init" alt="" coords="525,5,615,32"/>
-</map>

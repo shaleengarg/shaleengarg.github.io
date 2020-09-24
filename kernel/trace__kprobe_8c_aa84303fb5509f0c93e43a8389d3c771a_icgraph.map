@@ -1,8 +1,0 @@
-<map id="register_kprobe_event" name="register_kprobe_event">
-<area shape="rect" id="node2" href="$trace__kprobe_8c.html#accf986b1f036614ff027dfa0dca9dbd3" title="trace_kprobe_error\l_injectable" alt="" coords="212,5,343,47"/>
-<area shape="rect" id="node4" href="$trace__kprobe_8c.html#a70e0b81a532a44776c1c1005c209dcc0" title="register_trace_kprobe" alt="" coords="204,71,351,98"/>
-<area shape="rect" id="node3" href="$bpf__trace_8c.html#af3e0f8777812e1b5ef674f68bc36a21b" title="perf_event_attach_bpf_prog" alt="" coords="399,13,581,39"/>
-<area shape="rect" id="node5" href="$trace__kprobe_8c.html#a6b2dabc3e155d818df239f14ee87325f" title="create_trace_kprobe" alt="" coords="420,71,560,98"/>
-<area shape="rect" id="node6" href="$trace__kprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="642,46,738,73"/>
-<area shape="rect" id="node7" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="629,97,751,123"/>
-</map>

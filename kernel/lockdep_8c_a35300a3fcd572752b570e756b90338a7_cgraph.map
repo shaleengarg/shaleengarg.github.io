@@ -1,4 +1,0 @@
-<map id="__lock_is_held" name="__lock_is_held">
-<area shape="rect" id="node2" href="$lockdep_8c.html#aa01a520fcdc3c7b0c7d7465bc984564e" title="match_held_lock" alt="" coords="161,5,281,32"/>
-<area shape="rect" id="node3" href="$lockdep_8c.html#a7fbccda23a460b62f38d4ce27ed54633" title="look_up_lock_class" alt="" coords="329,5,465,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="flush_swap_writer" name="flush_swap_writer">
-<area shape="rect" id="node2" href="$swap_8c.html#ad6364b9726ccd10231b212c531a6ea8a" title="write_page" alt="" coords="180,31,265,57"/>
-<area shape="rect" id="node3" href="$swap_8c.html#a21301f8e6fbce2eb55c739213eec50a2" title="hib_wait_io" alt="" coords="321,5,408,32"/>
-<area shape="rect" id="node4" href="$swap_8c.html#a3c26e26a9a05202a0209b7a1220d69d6" title="hib_submit_io" alt="" coords="313,56,416,83"/>
-<area shape="rect" id="node5" href="$swap_8c.html#aff53b517c7b50e8fb29991776b5ce283" title="hib_end_io" alt="" coords="464,56,548,83"/>
-</map>

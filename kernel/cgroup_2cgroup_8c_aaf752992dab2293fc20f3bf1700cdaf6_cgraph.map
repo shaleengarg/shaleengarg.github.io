@@ -1,8 +1,0 @@
-<map id="cgroup_propagate_control" name="cgroup_propagate_control">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#a12e851823c21ba6414888e1e1cbc3ec7" title="cgroup_control" alt="" coords="242,56,349,83"/>
-<area shape="rect" id="node6" href="$cgroup_2cgroup_8c.html#affdd9f1953eaa4aab71a9aca0e9f8508" title="cgroup_calc_subtree\l_ss_mask" alt="" coords="224,107,367,149"/>
-<area shape="rect" id="node7" href="$cgroup_2cgroup_8c.html#a285bd4beda77357f88f5d04f6e1e2736" title="cgroup_ss_mask" alt="" coords="235,5,356,32"/>
-<area shape="rect" id="node3" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="453,56,511,83"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a1e6ea252c2f8c1cd0b4b1f8b81332782" title="cgroup_is_threaded" alt="" coords="415,5,549,32"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#aa8e9c07d7c652eb98e9053203c68b444" title="cgroup_on_dfl" alt="" coords="431,107,533,133"/>
-</map>

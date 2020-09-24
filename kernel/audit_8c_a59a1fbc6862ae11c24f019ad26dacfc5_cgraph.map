@@ -1,7 +1,0 @@
-<map id="audit_get_stamp" name="audit_get_stamp">
-<area shape="rect" id="node2" href="$auditsc_8c.html#a1a0009be3459f5e2fe55b4ccf01fc917" title="auditsc_get_stamp" alt="" coords="181,5,313,32"/>
-<area shape="rect" id="node3" href="$audit_8c.html#ab08e0e04dfe909c0e87293b5afa0a240" title="audit_serial" alt="" coords="396,19,484,45"/>
-<area shape="rect" id="node4" href="$timekeeping_8c.html#a6214e953811af9b0fac3e2d92e0cdcc9" title="current_kernel_time64" alt="" coords="172,107,323,133"/>
-<area shape="rect" id="node5" href="$timekeeping_8c.html#aaf22e8830ac4adcfe067ed75633b5321" title="tk_xtime" alt="" coords="404,81,476,108"/>
-<area shape="rect" id="node6" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="371,132,509,159"/>
-</map>

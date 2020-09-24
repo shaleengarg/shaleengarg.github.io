@@ -1,4 +1,0 @@
-<map id="smap_do_tx_msg" name="smap_do_tx_msg">
-<area shape="rect" id="node2" href="$sockmap_8c.html#ada621ff132fcd782d76581048eb0c7c5" title="bpf_compute_data_pointers_sg" alt="" coords="179,5,381,32"/>
-<area shape="rect" id="node3" href="$sockmap_8c.html#a29d7fe87f3c289581126f4e62cca2dd4" title="bpf_map_msg_verdict" alt="" coords="205,56,355,83"/>
-</map>

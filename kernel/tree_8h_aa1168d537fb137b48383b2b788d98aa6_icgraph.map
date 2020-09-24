@@ -1,6 +1,0 @@
-<map id="invoke_rcu_callbacks_kthread" name="invoke_rcu_callbacks_kthread">
-<area shape="rect" id="node2" href="$tree_8c.html#a89d4adfd17ebb351e9fa3744e67adef7" title="invoke_rcu_callbacks" alt="" coords="200,13,347,39"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a707c555637dc96027503fe515bb9e4ce" title="__rcu_process_callbacks" alt="" coords="395,13,564,39"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a99eaa3852b610c9581318ffaf4903ad6" title="rcu_process_callbacks" alt="" coords="612,13,767,39"/>
-<area shape="rect" id="node5" href="$tree_8c.html#aa0e5bf97f28c8ca03e7ce0cc57d6f5f5" title="rcu_init" alt="" coords="815,13,879,39"/>
-</map>

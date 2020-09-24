@@ -1,7 +1,0 @@
-<map id="get_free_elt" name="get_free_elt">
-<area shape="rect" id="node2" href="$tracing__map_8c.html#a650c61e19f97d0693baeb91fd8604b9f" title="__tracing_map_insert" alt="" coords="144,31,291,57"/>
-<area shape="rect" id="node3" href="$tracing__map_8h.html#aee74920521c440390da6ab4eefca457f" title="tracing_map_insert" alt="" coords="525,5,657,32"/>
-<area shape="rect" id="node5" href="$tracing__map_8h.html#a9c6be09ed5d6e544216862a0aed3be6c" title="tracing_map_lookup" alt="" coords="339,56,477,83"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a770ac075af7c4df1b891e2be2ad02c02" title="event_hist_trigger" alt="" coords="705,31,831,57"/>
-<area shape="rect" id="node6" href="$trace__events__hist_8c.html#a2ed5d2b0461a8685ec3ab521d14066f2" title="resolve_var_refs" alt="" coords="532,56,651,83"/>
-</map>

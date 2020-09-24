@@ -1,6 +1,0 @@
-<map id="bpf_obj_do_get" name="bpf_obj_do_get">
-<area shape="rect" id="node2" href="$inode_8c.html#a7d69088de36328d41e54bb3904cd9831" title="bpf_obj_get_user" alt="" coords="164,5,285,32"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#a5d55317fe82c5b25f98b5e8c9c44a584" title="bpf_obj_get" alt="" coords="333,5,423,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="471,5,617,32"/>
-<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="665,5,812,32"/>
-</map>

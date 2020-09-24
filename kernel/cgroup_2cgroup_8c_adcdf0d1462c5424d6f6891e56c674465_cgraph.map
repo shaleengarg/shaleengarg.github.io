@@ -1,6 +1,0 @@
-<map id="cgroup_add_file" name="cgroup_add_file">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#a13eba921048e2df4b660903f0b098f8f" title="cgroup_file_name" alt="" coords="174,5,298,32"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#ac48af096f26a40d9524aa6b632264d58" title="cgroup_file_mode" alt="" coords="174,56,298,83"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#ac5621171499b3f02de9f2fa2ba277c92" title="cgroup_kn_set_ugid" alt="" coords="167,107,305,133"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#aa8e9c07d7c652eb98e9053203c68b444" title="cgroup_on_dfl" alt="" coords="353,5,456,32"/>
-</map>

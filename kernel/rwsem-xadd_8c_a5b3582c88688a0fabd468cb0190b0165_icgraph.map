@@ -1,6 +1,0 @@
-<map id="rwsem_optimistic_spin" name="rwsem_optimistic_spin">
-<area shape="rect" id="node2" href="$rwsem-xadd_8c.html#ab64fa683d6c3e2138e5b0cf5797da18c" title="rwsem_try_write_lock" alt="" coords="208,9,357,36"/>
-<area shape="rect" id="node3" href="$rwsem-xadd_8c.html#a2eb7131c6a1729dafdc4c66e7d9f86a4" title="__rwsem_down_write\l_failed_common" alt="" coords="405,27,553,69"/>
-<area shape="rect" id="node4" href="$rwsem-xadd_8c.html#ad0b59357853174d5e012a8f3ea9f8a1d" title="rwsem_down_write_failed" alt="" coords="601,5,773,32"/>
-<area shape="rect" id="node5" href="$rwsem-xadd_8c.html#a75e399b5e8342c56fe4c5481a38a08c6" title="rwsem_down_write_failed\l_killable" alt="" coords="601,57,773,98"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="bpf_tcp_ingress" name="bpf_tcp_ingress">
-<area shape="rect" id="node2" href="$sockmap_8c.html#afd4138c9a4363e18c6c8dab543ab0350" title="free_start_sg" alt="" coords="168,5,267,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="192,56,243,83"/>
-<area shape="rect" id="node3" href="$sockmap_8c.html#ad581582836eb9d16b89f8f6f23a3ef5b" title="free_sg" alt="" coords="315,5,380,32"/>
-</map>

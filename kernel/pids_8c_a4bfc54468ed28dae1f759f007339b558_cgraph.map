@@ -1,7 +1,0 @@
-<map id="pids_can_fork" name="pids_can_fork">
-<area shape="rect" id="node2" href="$pids_8c.html#ad0fd3de8b59fb1794e5b675b911aef9b" title="css_pids" alt="" coords="467,5,541,32"/>
-<area shape="rect" id="node3" href="$pids_8c.html#a5cfc53ef6983ea6b071859abab94561e" title="pids_try_charge" alt="" coords="161,31,275,57"/>
-<area shape="rect" id="node6" href="$cgroup_2cgroup_8c.html#a95b19693e62b7d8cba26d14228582a47" title="cgroup_file_notify" alt="" coords="156,81,280,108"/>
-<area shape="rect" id="node4" href="$pids_8c.html#a6d631edf46c3e6821751384cca1f5102" title="parent_pids" alt="" coords="329,31,418,57"/>
-<area shape="rect" id="node5" href="$pids_8c.html#a6accbf431dbf3a75bb95e3ff542e94a2" title="pids_cancel" alt="" coords="328,81,419,108"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="irq_create_affinity_masks" name="irq_create_affinity_masks">
-<area shape="rect" id="node2" href="$affinity_8c.html#a27e9340f4791a1f57e1de53c513bec18" title="alloc_node_to_cpumask" alt="" coords="179,5,341,32"/>
-<area shape="rect" id="node4" href="$affinity_8c.html#a66ff526a9f4311bd8dec8e7b55dfa4a9" title="build_node_to_cpumask" alt="" coords="179,56,341,83"/>
-<area shape="rect" id="node5" href="$affinity_8c.html#a848f9d5be94d53486449862e1765bc37" title="irq_build_affinity\l_masks" alt="" coords="202,158,318,199"/>
-<area shape="rect" id="node8" href="$affinity_8c.html#ab6affa29df89189bb462bfa270148182" title="free_node_to_cpumask" alt="" coords="181,107,339,133"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="443,45,494,72"/>
-<area shape="rect" id="node6" href="$affinity_8c.html#ab185d63b896f6a1624ef16c677158ede" title="get_nodes_in_cpumask" alt="" coords="389,136,548,163"/>
-<area shape="rect" id="node7" href="$affinity_8c.html#aab254e3eb5fcc17a31efa49834dfbd9e" title="irq_spread_init_one" alt="" coords="401,187,536,213"/>
-</map>

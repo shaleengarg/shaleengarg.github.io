@@ -1,6 +1,0 @@
-<map id="__parse_crashkernel" name="__parse_crashkernel">
-<area shape="rect" id="node2" href="$crash__core_8c.html#a5cd574a1ff1fb859b80567154f9b24cc" title="get_last_crashkernel" alt="" coords="211,5,354,32"/>
-<area shape="rect" id="node3" href="$crash__core_8c.html#ab990844222a87d45bee104254f17af83" title="parse_crashkernel_suffix" alt="" coords="199,56,366,83"/>
-<area shape="rect" id="node4" href="$crash__core_8c.html#a9524dabb86896af660266840db096d93" title="parse_crashkernel_mem" alt="" coords="201,107,365,133"/>
-<area shape="rect" id="node5" href="$crash__core_8c.html#a1eb72ee414d5135f72974ba1f059bcec" title="parse_crashkernel_simple" alt="" coords="196,157,369,184"/>
-</map>

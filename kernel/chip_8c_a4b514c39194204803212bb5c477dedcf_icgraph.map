@@ -1,4 +1,0 @@
-<map id="irq_set_msi_desc_off" name="irq_set_msi_desc_off">
-<area shape="rect" id="node2" href="$chip_8c.html#a29b34d7e6b9b2cc869d15c9e99ca7c46" title="irq_set_msi_desc" alt="" coords="213,5,337,32"/>
-<area shape="rect" id="node3" href="$msi_8c.html#a59aeac9c865c81eca9afdc137174225c" title="get_cached_msi_msg" alt="" coords="200,56,349,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="tick_switch_to_oneshot" name="tick_switch_to_oneshot">
-<area shape="rect" id="node2" href="$clockevents_8c.html#af738190c7422701a938cb919749ea505" title="clockevents_switch\l_state" alt="" coords="219,5,357,47"/>
-<area shape="rect" id="node4" href="$tick-internal_8h.html#a1ca6c31e5b2f5fac9f213dfee7e3a782" title="tick_broadcast_switch\l_to_oneshot" alt="" coords="212,71,364,112"/>
-<area shape="rect" id="node3" href="$clockevents_8c.html#a32b5546cace9e0f7617029fdd8abbbc1" title="__clockevents_switch\l_state" alt="" coords="412,5,563,47"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="print_active_timers" name="print_active_timers">
-<area shape="rect" id="node2" href="$timer__list_8c.html#a46e6d8ceabc4d811d2cca798e405af08" title="print_base" alt="" coords="185,31,268,57"/>
-<area shape="rect" id="node3" href="$timer__list_8c.html#ae3b16f62c811b3d105d07c8673373591" title="print_cpu" alt="" coords="316,31,391,57"/>
-<area shape="rect" id="node4" href="$timer__list_8c.html#ad22eefccd7d3d00e02c66025de353ed3" title="timer_list_show" alt="" coords="458,5,571,32"/>
-<area shape="rect" id="node5" href="$timer__list_8c.html#a858bdbff0f102e6b60fbb33222e0ed64" title="sysrq_timer_list_show" alt="" coords="439,56,591,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="gcov_iter_new" name="gcov_iter_new">
-<area shape="rect" id="node2" href="$gcc__3__4_8c.html#a843019acb26eb8f7fbc7915b49d5ea03" title="num_counter_active" alt="" coords="160,19,299,45"/>
-<area shape="rect" id="node4" href="$gcc__4__7_8c.html#a62151ecd26c1a8425b65cfd60d087387" title="convert_to_gcda" alt="" coords="170,81,289,108"/>
-<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="204,132,255,159"/>
-<area shape="rect" id="node3" href="$gcc__3__4_8c.html#a1d0aaada06fd15c797ad899dcd6c13fa" title="counter_active" alt="" coords="351,5,457,32"/>
-<area shape="rect" id="node5" href="$gcc__4__7_8c.html#a2114295dcbab7fdc870555e4779237f8" title="store_gcov_u32" alt="" coords="347,56,461,83"/>
-<area shape="rect" id="node6" href="$gcc__4__7_8c.html#a1d0aaada06fd15c797ad899dcd6c13fa" title="counter_active" alt="" coords="351,107,457,133"/>
-<area shape="rect" id="node7" href="$gcc__4__7_8c.html#a36a8aa4a0f7ec4be5e5a5cda66bba4e8" title="store_gcov_u64" alt="" coords="347,157,461,184"/>
-</map>

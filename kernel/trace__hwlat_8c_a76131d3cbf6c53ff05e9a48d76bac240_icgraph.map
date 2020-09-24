@@ -1,5 +1,0 @@
-<map id="kthread_fn" name="kthread_fn">
-<area shape="rect" id="node2" href="$trace__hwlat_8c.html#a627ca97809efa0bb8e24c2f7e45e92c8" title="start_kthread" alt="" coords="136,5,235,32"/>
-<area shape="rect" id="node3" href="$trace__hwlat_8c.html#a793a45bd96de4312cfd5bf5261098eba" title="hwlat_tracer_start" alt="" coords="283,5,409,32"/>
-<area shape="rect" id="node4" href="$trace__hwlat_8c.html#a3da5c34a5abe8f1be6ed150a701eb53d" title="hwlat_tracer_init" alt="" coords="457,5,575,32"/>
-</map>

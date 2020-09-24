@@ -1,6 +1,0 @@
-<map id="destroy_sched_domains_rcu" name="destroy_sched_domains_rcu">
-<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="290,5,349,32"/>
-<area shape="rect" id="node3" href="$topology_8c.html#adb421bbcc20ad3d93694899e81c383ad" title="destroy_sched_domain" alt="" coords="241,56,397,83"/>
-<area shape="rect" id="node4" href="$topology_8c.html#ab27bf6f0c8832e7149efe4e8172df484" title="free_sched_groups" alt="" coords="445,31,577,57"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="625,56,676,83"/>
-</map>

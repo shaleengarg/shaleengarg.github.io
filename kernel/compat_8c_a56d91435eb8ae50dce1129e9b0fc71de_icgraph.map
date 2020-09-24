@@ -1,8 +1,0 @@
-<map id="compat_get_user_cpu_mask" name="compat_get_user_cpu_mask">
-<area shape="rect" id="node2" href="$compat_8c.html#ad4557f67a00753adf21d3c329d8ab871" title="COMPAT_SYSCALL_DEFINE3" alt="" coords="243,81,453,108"/>
-<area shape="rect" id="node3" href="$compat_8c.html#a8dfdb396a70077ec175e63ffaf4fe121" title="put_compat_itimerval" alt="" coords="501,31,648,57"/>
-<area shape="rect" id="node6" href="$signal_8c.html#af077efc776cbb11a534343ba7ac988f9" title="SYSCALL_DEFINE3" alt="" coords="501,81,648,108"/>
-<area shape="rect" id="node7" href="$signal_8c.html#a877c7eb5f6658c6271e80d15f88a2f75" title="SYSCALL_DEFINE4" alt="" coords="501,132,648,159"/>
-<area shape="rect" id="node4" href="$itimer_8c.html#adba94f309b71ed6ad0a9cf63f9d57c53" title="SYSCALL_DEFINE2" alt="" coords="696,5,843,32"/>
-<area shape="rect" id="node5" href="$itimer_8c.html#a5fc424f0f1a3e71db58571c77554b39e" title="SYSCALL_DEFINE3" alt="" coords="696,56,843,83"/>
-</map>

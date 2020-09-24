@@ -1,5 +1,0 @@
-<map id="cpuusage_user_read" name="cpuusage_user_read">
-<area shape="rect" id="node2" href="$cpuacct_8c.html#a82f22c478646b0882bd0758ad581ee81" title="__cpuusage_read" alt="" coords="196,31,320,57"/>
-<area shape="rect" id="node3" href="$cpuacct_8c.html#a5afd160e74c00bb160b197d6f9dd6f0f" title="css_ca" alt="" coords="417,5,481,32"/>
-<area shape="rect" id="node4" href="$cpuacct_8c.html#aeb2b726b02c244e2076f3d405c3f9c22" title="cpuacct_cpuusage_read" alt="" coords="368,56,531,83"/>
-</map>

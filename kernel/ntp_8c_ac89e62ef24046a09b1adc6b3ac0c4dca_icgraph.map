@@ -1,6 +1,0 @@
-<map id="pps_fill_timex" name="pps_fill_timex">
-<area shape="rect" id="node2" href="$ntp__internal_8h.html#ad56abc9cf097bf3f876dfc1d2d0e8f7b" title="__do_adjtimex" alt="" coords="156,31,263,57"/>
-<area shape="rect" id="node3" href="$timekeeping_8c.html#aeac6292e6e98b3014762f02ead219314" title="do_adjtimex" alt="" coords="311,31,403,57"/>
-<area shape="rect" id="node4" href="$posix-timers_8c.html#ae73e9ab91f618d9af4e3a19be6b03fb1" title="posix_clock_realtime_adj" alt="" coords="451,5,619,32"/>
-<area shape="rect" id="node5" href="$time_8c.html#a0d6064dc892c30d7e0cb978277b0a47c" title="SYSCALL_DEFINE1" alt="" coords="461,56,608,83"/>
-</map>

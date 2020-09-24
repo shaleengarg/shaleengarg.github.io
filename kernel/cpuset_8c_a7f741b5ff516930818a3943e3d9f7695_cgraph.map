@@ -1,9 +1,0 @@
-<map id="__cpuset_node_allowed" name="__cpuset_node_allowed">
-<area shape="rect" id="node2" href="$cpuset_8c.html#a3bfe7a484a1885c7325753b0d337b034" title="nearest_hardwall_ancestor" alt="" coords="215,69,392,96"/>
-<area shape="rect" id="node8" href="$cpuset_8c.html#a5ead0f037fba8738c9b02b303c93cf8f" title="task_cs" alt="" coords="269,132,337,159"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a8d8e53e16feeaaffd211585ed36ac543" title="is_mem_exclusive" alt="" coords="440,5,571,32"/>
-<area shape="rect" id="node4" href="$cpuset_8c.html#a7191355352c601c9de8129873886f31b" title="is_mem_hardwall" alt="" coords="444,56,567,83"/>
-<area shape="rect" id="node5" href="$cpuset_8c.html#a592c319a298dd0cc252eb20253d5d248" title="parent_cs" alt="" coords="466,107,545,133"/>
-<area shape="rect" id="node6" href="$cpuset_8c.html#ab974da181263929cb6dcb8728ab62b9b" title="css_cs" alt="" coords="659,157,723,184"/>
-<area shape="rect" id="node7" href="$cpuset_8c.html#a7c0183a326f265361c2584c2c16d1ba4" title="task_has_mempolicy" alt="" coords="619,107,764,133"/>
-</map>

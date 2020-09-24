@@ -1,6 +1,0 @@
-<map id="stop_kthread" name="stop_kthread">
-<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#a1e820b80c2d44e28438aefa28eb05c6f" title="sugov_init" alt="" coords="175,5,256,32"/>
-<area shape="rect" id="node4" href="$trace__hwlat_8c.html#a653db70c9ca5573a4295a575f7684643" title="hwlat_tracer_stop" alt="" coords="153,56,278,83"/>
-<area shape="rect" id="node5" href="$trace__hwlat_8c.html#aebf320b41eaa9d0a5c3cd8f411c1e994" title="hwlat_tracer_reset" alt="" coords="151,107,280,133"/>
-<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="328,5,423,32"/>
-</map>

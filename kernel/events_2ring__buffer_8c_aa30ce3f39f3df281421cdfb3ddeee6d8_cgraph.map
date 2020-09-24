@@ -1,7 +1,0 @@
-<map id="perf_output_put_handle" name="perf_output_put_handle">
-<area shape="rect" id="node2" href="$events_2ring__buffer_8c.html#a81464e0c7f82394f4ddaab739ef96a0d" title="perf_output_wakeup" alt="" coords="211,56,349,83"/>
-<area shape="rect" id="node3" href="$irq__work_8c.html#a97c61c328b0408e4957486ac57d1a03b" title="irq_work_queue" alt="" coords="397,56,511,83"/>
-<area shape="rect" id="node4" href="$irq__work_8c.html#a15ad44b1e004fbd3998be557220fac4e" title="irq_work_claim" alt="" coords="590,5,699,32"/>
-<area shape="rect" id="node5" href="$irq__work_8c.html#afdd50f70c4dae7339fd991caae188573" title="arch_irq_work_raise" alt="" coords="575,56,714,83"/>
-<area shape="rect" id="node6" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="559,107,731,133"/>
-</map>

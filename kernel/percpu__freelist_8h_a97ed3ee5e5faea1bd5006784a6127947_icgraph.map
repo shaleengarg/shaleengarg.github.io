@@ -1,7 +1,0 @@
-<map id="pcpu_freelist_populate" name="pcpu_freelist_populate">
-<area shape="rect" id="node2" href="$hashtab_8c.html#a13ae3f1d0f9d5a962ae263086d204b87" title="prealloc_init" alt="" coords="229,5,319,32"/>
-<area shape="rect" id="node5" href="$stackmap_8c.html#a1a46df6a9ef409bd1f180d472b25e855" title="prealloc_elems_and\l_freelist" alt="" coords="205,57,343,98"/>
-<area shape="rect" id="node3" href="$hashtab_8c.html#a88744462667e8a451f9382ddc329a9ce" title="htab_map_alloc" alt="" coords="394,5,507,32"/>
-<area shape="rect" id="node4" href="$hashtab_8c.html#a9f58cb1ebdd3514bfaef27291e47d9fe" title="htab_of_map_alloc" alt="" coords="559,5,689,32"/>
-<area shape="rect" id="node6" href="$stackmap_8c.html#aa631cb12a693e8ffd29a1304735ad355" title="stack_map_alloc" alt="" coords="391,64,511,91"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="call_rcu_bh" name="call_rcu_bh">
-<area shape="rect" id="node2" href="$rcutorture_8c.html#aa2bb3fac0c0bc4c26ea5a5a789a3016e" title="rcu_bh_torture_deferred_free" alt="" coords="141,5,329,32"/>
-<area shape="rect" id="node3" href="$tiny_8c.html#af33d144e8b085271ed31bda7e9f47fb4" title="rcu_barrier_bh" alt="" coords="183,56,287,83"/>
-<area shape="rect" id="node4" href="$update_8c.html#a1aa5ca78e9cb2e6de0e9a6aa2a93ee80" title="rcu_tasks_bootup_oddness" alt="" coords="377,81,559,108"/>
-<area shape="rect" id="node8" href="$update_8c.html#aa34b6f5bac4f60d4309826d0c569ff95" title="__wait_rcu_gp" alt="" coords="182,157,289,184"/>
-<area shape="rect" id="node5" href="$update_8c.html#adf672e6570ad00e3070c7b1aa77c35dd" title="rcupdate_announce_bootup\l_oddness" alt="" coords="607,74,788,115"/>
-<area shape="rect" id="node6" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="836,74,985,115"/>
-<area shape="rect" id="node7" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="1033,81,1183,108"/>
-</map>

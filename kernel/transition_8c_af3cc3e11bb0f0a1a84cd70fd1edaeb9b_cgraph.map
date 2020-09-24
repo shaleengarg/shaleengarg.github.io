@@ -1,5 +1,0 @@
-<map id="klp_check_stack" name="klp_check_stack">
-<area shape="rect" id="node2" href="$stacktrace_8c.html#ab3974964b6fd7c290347f5592e9bf462" title="save_stack_trace_tsk\l_reliable" alt="" coords="174,5,325,47"/>
-<area shape="rect" id="node3" href="$transition_8c.html#af4c1562d9d37ac73f2246595fba0c3db" title="klp_check_stack_func" alt="" coords="173,71,325,98"/>
-<area shape="rect" id="node4" href="$patch_8c.html#a08b76f500195191eb6f4ab2bc81bc62c" title="klp_find_ops" alt="" coords="373,71,468,98"/>
-</map>

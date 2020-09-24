@@ -1,4 +1,0 @@
-<map id="pv_unhash" name="pv_unhash">
-<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#accf0b9bee55a654162fbafaa3436bacf" title="__pv_queued_spin_unlock\l_slowpath" alt="" coords="139,5,313,47"/>
-<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#a2bc9969d3ddb68e19fd2b9a2ad8400eb" title="__pv_queued_spin_unlock" alt="" coords="361,13,536,39"/>
-</map>

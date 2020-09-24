@@ -1,6 +1,0 @@
-<map id="bpf_offload_orphan_all_progs" name="bpf_offload_orphan_all_progs">
-<area shape="rect" id="node2" href="$offload_8c.html#a10c2956d6349d69fd248d99f1be39134" title="__bpf_prog_offload\l_destroy" alt="" coords="185,49,317,90"/>
-<area shape="rect" id="node3" href="$offload_8c.html#a190e5435871be6f1055d49e63ba890d0" title="__bpf_offload_ndo" alt="" coords="365,5,493,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a5d720e653e28b3025d8c64a62ef3befc" title="bpf_prog_free_id" alt="" coords="370,56,489,83"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="404,107,455,133"/>
-</map>

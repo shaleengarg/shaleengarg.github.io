@@ -1,4 +1,0 @@
-<map id="kdb_init" name="kdb_init">
-<area shape="rect" id="node2" href="$debug__core_8c.html#ade36f6b46ae3e0b2d7447d89807eaf76" title="dbg_late_init" alt="" coords="126,5,221,32"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#ab5bc93e2007bd36c10d39d5cb0d05659" title="opt_kgdb_wait" alt="" coords="120,56,227,83"/>
-</map>

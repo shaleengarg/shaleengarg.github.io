@@ -1,7 +1,0 @@
-<map id="__clocksource_update_freq_scale" name="__clocksource_update_freq_scale">
-<area shape="rect" id="node2" href="$clocksource_8c.html#ad0e47b7cf1ad36d148f64c25f145966c" title="clocks_calc_mult_shift" alt="" coords="225,5,380,32"/>
-<area shape="rect" id="node3" href="$clocksource_8c.html#ad3cadf4bd0e3a9d68a26e19b10ba5dad" title="EXPORT_SYMBOL_GPL" alt="" coords="448,31,620,57"/>
-<area shape="rect" id="node4" href="$clocksource_8c.html#a4ff646593dc188627651c0d9397e6406" title="clocksource_max_adjustment" alt="" coords="205,107,400,133"/>
-<area shape="rect" id="node5" href="$clocksource_8c.html#a19aaf56e4a685e1a8b67c917274b8394" title="clocksource_update\l_max_deferment" alt="" coords="233,158,372,199"/>
-<area shape="rect" id="node6" href="$clocksource_8c.html#a71d9d1648904ff798c15e503bcfa04d8" title="clocks_calc_max_nsecs" alt="" coords="451,165,617,192"/>
-</map>

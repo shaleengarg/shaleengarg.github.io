@@ -1,5 +1,0 @@
-<map id="bpf_map_fd_get_ptr" name="bpf_map_fd_get_ptr">
-<area shape="rect" id="node2" href="$syscall_8c.html#adb968b2b82d81459e38a86e4d9891a31" title="__bpf_map_get" alt="" coords="209,5,319,32"/>
-<area shape="rect" id="node3" href="$map__in__map_8c.html#accd183e347d9122f8e60ed918e2afc43" title="bpf_map_meta_equal" alt="" coords="191,56,337,83"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a79bac2eec900fea67fdf02e01b9d0f1d" title="bpf_map_inc" alt="" coords="216,107,312,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="dummy_load" name="dummy_load">
-<area shape="rect" id="node2" href="$test-ww__mutex_8c.html#ad9a1b044777d3b6fdc5e5e73633f159e" title="stress_inorder_work" alt="" coords="150,5,289,32"/>
-<area shape="rect" id="node6" href="$test-ww__mutex_8c.html#a53c5cb97d3548ab60a2b53bd8943c01f" title="stress_reorder_work" alt="" coords="149,56,289,83"/>
-<area shape="rect" id="node7" href="$test-ww__mutex_8c.html#a0f42d252c5b666092004233b95ee539e" title="stress_one_work" alt="" coords="159,107,280,133"/>
-<area shape="rect" id="node3" href="$test-ww__mutex_8c.html#a2ecaf1bea711282d9871d6676cbe69e8" title="stress" alt="" coords="337,56,396,83"/>
-<area shape="rect" id="node4" href="$test-ww__mutex_8c.html#acbb4d1a260bf50280c4e48edc5b86cd1" title="test_ww_mutex_init" alt="" coords="444,56,583,83"/>
-<area shape="rect" id="node5" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="631,56,773,83"/>
-</map>

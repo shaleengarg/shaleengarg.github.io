@@ -1,6 +1,0 @@
-<map id="tracing_set_nop" name="tracing_set_nop">
-<area shape="rect" id="node2" href="$trace_8c.html#a0d5784f307722b27ec3af8524ecdc005" title="instance_rmdir" alt="" coords="168,5,275,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="323,5,480,32"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="528,5,655,32"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="703,5,825,32"/>
-</map>

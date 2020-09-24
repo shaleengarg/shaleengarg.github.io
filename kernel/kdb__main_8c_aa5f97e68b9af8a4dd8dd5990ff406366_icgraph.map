@@ -1,7 +1,0 @@
-<map id="kdb_mdr" name="kdb_mdr">
-<area shape="rect" id="node2" href="$kdb__main_8c.html#a6a46f62f8ae17521d1388db69a822228" title="kdb_md" alt="" coords="125,31,193,57"/>
-<area shape="rect" id="node3" href="$kdb__main_8c.html#a82f19667b636b718a79c5093712471ca" title="kdb_inittab" alt="" coords="241,31,327,57"/>
-<area shape="rect" id="node4" href="$kdb__main_8c.html#abb66e4c055d6fb33d84d0c987aa2bea7" title="kdb_init" alt="" coords="375,31,441,57"/>
-<area shape="rect" id="node5" href="$debug__core_8c.html#ade36f6b46ae3e0b2d7447d89807eaf76" title="dbg_late_init" alt="" coords="495,5,590,32"/>
-<area shape="rect" id="node6" href="$debug__core_8c.html#ab5bc93e2007bd36c10d39d5cb0d05659" title="opt_kgdb_wait" alt="" coords="489,56,596,83"/>
-</map>

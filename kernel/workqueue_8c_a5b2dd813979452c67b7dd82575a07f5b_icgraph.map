@@ -1,7 +1,0 @@
-<map id="DEFINE_PER_CPU" name="DEFINE_PER_CPU">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a41b68117cdc102c77a94e9ab6d8ca596" title="workqueue_sysfs_unregister" alt="" coords="196,60,384,87"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#aba492916084f98737c12403a3b80946d" title="destroy_workqueue" alt="" coords="448,31,583,57"/>
-<area shape="rect" id="node6" href="$workqueue_8c.html#afd74260760fae088e2ab06ffb2e59a7f" title="workqueue_set_unbound\l_cpumask" alt="" coords="432,82,599,123"/>
-<area shape="rect" id="node4" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="656,5,799,32"/>
-<area shape="rect" id="node5" href="$workqueue_8c.html#a0741bc69c59f0b091f5cf6f0cc7d0aca" title="__alloc_workqueue_key" alt="" coords="647,56,808,83"/>
-</map>

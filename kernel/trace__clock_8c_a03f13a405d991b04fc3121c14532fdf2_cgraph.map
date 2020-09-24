@@ -1,5 +1,0 @@
-<map id="trace_clock_jiffies" name="trace_clock_jiffies">
-<area shape="rect" id="node2" href="$time_8c.html#a6ca1c90122668cf7928c9d2009ec042e" title="jiffies_64_to_clock_t" alt="" coords="195,5,337,32"/>
-<area shape="rect" id="node4" href="$trace__clock_8c.html#a8803ca4d8dce02764e38b26a025e319e" title="EXPORT_SYMBOL_GPL" alt="" coords="180,56,352,83"/>
-<area shape="rect" id="node3" href="$time_8c.html#af5a6150711c1a70088b8e6557154551c" title="EXPORT_SYMBOL" alt="" coords="400,5,539,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="task_handoff_register" name="task_handoff_register">
-<area shape="rect" id="node2" href="$notifier_8c.html#ab4ef8f6827742ea1be5985b3290c9a7b" title="atomic_notifier_chain\l_register" alt="" coords="213,23,359,65"/>
-<area shape="rect" id="node5" href="$profile_8c.html#a5e327c00a60e9028892f7d80b0a6578c" title="EXPORT_SYMBOL_GPL" alt="" coords="200,89,372,116"/>
-<area shape="rect" id="node3" href="$notifier_8c.html#aaa16ec631b1f8497fc650c05b4ef92e8" title="notifier_chain_register" alt="" coords="431,5,581,32"/>
-<area shape="rect" id="node4" href="$notifier_8c.html#a12fd5e1886d75a2b63004f78db868ce4" title="EXPORT_SYMBOL_GPL" alt="" coords="420,56,592,83"/>
-</map>

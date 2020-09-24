@@ -1,9 +1,0 @@
-<map id="update_bitfield_fetch_param" name="update_bitfield_fetch_param">
-<area shape="rect" id="node2" href="$trace__probe_8c.html#a5d159dd57878c9e792c669fa31368505" title="update_deref_fetch\l_param" alt="" coords="196,103,329,145"/>
-<area shape="rect" id="node3" href="$trace__kprobe_8c.html#ac0f8c8d34437fce3aa033ff615dbd918" title="update_symbol_cache" alt="" coords="381,56,533,83"/>
-<area shape="rect" id="node8" href="$trace__probe_8c.html#abf487e5fa7aa43fb75cea9ca1a96c435" title="NOKPROBE_SYMBOL" alt="" coords="377,111,537,137"/>
-<area shape="rect" id="node4" href="$kallsyms_8c.html#a1082777e004c5726575d0451b7d92fd6" title="kallsyms_lookup_name" alt="" coords="585,56,744,83"/>
-<area shape="rect" id="node5" href="$kallsyms_8c.html#af4a2f59e76f1304525543e014949e9f5" title="kallsyms_expand_symbol" alt="" coords="792,5,964,32"/>
-<area shape="rect" id="node6" href="$kallsyms_8c.html#acaa3448bbd3f1b781989f7ad5a93b14c" title="kallsyms_sym_address" alt="" coords="799,56,957,83"/>
-<area shape="rect" id="node7" href="$kallsyms_8c.html#a300ff32a9bf31980a3ff43e41b17f014" title="EXPORT_SYMBOL_GPL" alt="" coords="792,107,964,133"/>
-</map>

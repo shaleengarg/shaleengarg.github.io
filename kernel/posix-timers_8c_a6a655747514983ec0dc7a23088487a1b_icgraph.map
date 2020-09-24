@@ -1,4 +1,0 @@
-<map id="alloc_posix_timer" name="alloc_posix_timer">
-<area shape="rect" id="node2" href="$posix-timers_8c.html#a46ce42325bfed95f4409bd66b55ab827" title="do_timer_create" alt="" coords="176,5,291,32"/>
-<area shape="rect" id="node3" href="$posix-timers_8c.html#ab346870568958fd710ff0d0a584d9c80" title="SYSCALL_DEFINE3" alt="" coords="339,5,485,32"/>
-</map>

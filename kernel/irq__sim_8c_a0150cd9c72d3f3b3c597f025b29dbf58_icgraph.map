@@ -1,4 +1,0 @@
-<map id="irq_sim_handle_irq" name="irq_sim_handle_irq">
-<area shape="rect" id="node2" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="184,5,272,32"/>
-<area shape="rect" id="node3" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="320,5,447,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="free_deref_fetch_param" name="free_deref_fetch_param">
-<area shape="rect" id="node2" href="$trace__kprobe_8c.html#a710fc09d758bacc77b220994e7256436" title="free_symbol_cache" alt="" coords="225,5,359,32"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="420,31,471,57"/>
-<area shape="rect" id="node4" href="$trace__probe_8c.html#abf487e5fa7aa43fb75cea9ca1a96c435" title="NOKPROBE_SYMBOL" alt="" coords="212,107,372,133"/>
-</map>

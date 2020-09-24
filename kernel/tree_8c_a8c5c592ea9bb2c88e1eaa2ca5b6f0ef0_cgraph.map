@@ -1,5 +1,0 @@
-<map id="rcutree_offline_cpu" name="rcutree_offline_cpu">
-<area shape="rect" id="node2" href="$tree_8c.html#ab83ab1fdc9dc2140bb6bd624bd443a3e" title="rcutree_affinity_setting" alt="" coords="185,5,340,32"/>
-<area shape="rect" id="node4" href="$srcutree_8c.html#a7cb69ad08b910f583f90e5ab60b95746" title="srcu_offline_cpu" alt="" coords="204,56,321,83"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a17f156922d9597ab124bfbb84918ad41" title="rcu_boost_kthread_setaffinity" alt="" coords="388,5,581,32"/>
-</map>

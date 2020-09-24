@@ -1,5 +1,0 @@
-<map id="ftrace_syscall_enter" name="ftrace_syscall_enter">
-<area shape="rect" id="node2" href="$trace__syscalls_8c.html#a0824cd41ef8fe593404ace6ce8fecca0" title="reg_event_syscall_enter" alt="" coords="192,5,355,32"/>
-<area shape="rect" id="node4" href="$trace__syscalls_8c.html#a3951b0a241bc013648de4fe19727caaf" title="unreg_event_syscall\l_enter" alt="" coords="203,57,344,98"/>
-<area shape="rect" id="node3" href="$trace__syscalls_8c.html#a5dd04d47a3b5f3cc07f5fc8b1711affc" title="syscall_enter_register" alt="" coords="403,35,552,61"/>
-</map>

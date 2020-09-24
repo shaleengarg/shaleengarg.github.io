@@ -1,5 +1,0 @@
-<map id="audit_copy_inode" name="audit_copy_inode">
-<area shape="rect" id="node2" href="$auditsc_8c.html#a313f6003cc71a89aa9bee8e774539e25" title="__audit_inode" alt="" coords="193,5,295,32"/>
-<area shape="rect" id="node4" href="$auditsc_8c.html#ac7a3df5b846360040e471ba122688494" title="__audit_inode_child" alt="" coords="176,56,312,83"/>
-<area shape="rect" id="node3" href="$auditsc_8c.html#aaa1eec78e4bbb1f377b52655b5670210" title="__audit_file" alt="" coords="360,5,448,32"/>
-</map>

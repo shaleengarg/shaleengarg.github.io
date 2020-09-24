@@ -1,5 +1,0 @@
-<map id="instance_mkdir" name="instance_mkdir">
-<area shape="rect" id="node2" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="164,5,321,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="369,5,496,32"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="544,5,667,32"/>
-</map>

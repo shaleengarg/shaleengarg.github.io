@@ -1,5 +1,0 @@
-<map id="rcu_needs_cpu" name="rcu_needs_cpu">
-<area shape="rect" id="node2" href="$tree_8c.html#ab2c6173b886dc81ab6e2a2eac3ab27a7" title="rcu_cpu_has_callbacks" alt="" coords="164,31,323,57"/>
-<area shape="rect" id="node3" href="$rcu__segcblist_8h.html#ab15fdbc6d5fc4da314eee8571b12a778" title="rcu_segcblist_empty" alt="" coords="396,5,539,32"/>
-<area shape="rect" id="node4" href="$rcu__segcblist_8h.html#a38b113930d35f1466cfcecf13f641111" title="rcu_segcblist_n_nonlazy_cbs" alt="" coords="371,56,564,83"/>
-</map>

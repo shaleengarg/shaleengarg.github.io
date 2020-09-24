@@ -1,5 +1,0 @@
-<map id="tracing_map_clear" name="tracing_map_clear">
-<area shape="rect" id="node2" href="$tracing__map_8c.html#abd5b379e460ac5ad3bb51bc603f63253" title="tracing_map_array_clear" alt="" coords="181,5,345,32"/>
-<area shape="rect" id="node3" href="$tracing__map_8c.html#ab2e388c3686273270817d716f25f681a" title="tracing_map_elt_clear" alt="" coords="189,56,338,83"/>
-<area shape="rect" id="node4" href="$tracing__map_8c.html#a6739e08f0225146f9a9d107809690c4a" title="tracing_map_cmp_atomic64" alt="" coords="393,56,579,83"/>
-</map>

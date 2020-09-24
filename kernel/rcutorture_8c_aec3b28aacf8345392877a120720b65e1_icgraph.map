@@ -1,5 +1,0 @@
-<map id="rcu_torture_stall" name="rcu_torture_stall">
-<area shape="rect" id="node2" href="$rcutorture_8c.html#a41453956d42b6f3be41f06b5ef6c4fb7" title="rcu_torture_stall_init" alt="" coords="168,5,307,32"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#af2171d1567207e8f950db3ab617c319a" title="rcu_torture_cleanup" alt="" coords="169,56,305,83"/>
-<area shape="rect" id="node3" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="355,31,463,57"/>
-</map>

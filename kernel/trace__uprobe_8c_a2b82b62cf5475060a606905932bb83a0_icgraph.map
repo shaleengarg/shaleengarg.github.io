@@ -1,5 +1,0 @@
-<map id="find_probe_event" name="find_probe_event">
-<area shape="rect" id="node2" href="$trace__uprobe_8c.html#accdab93c824cac0be5d8b0bdcb442d8e" title="register_trace_uprobe" alt="" coords="175,5,321,32"/>
-<area shape="rect" id="node3" href="$trace__uprobe_8c.html#a9396ee67b5f3b017d2412803a8aee9f3" title="create_trace_uprobe" alt="" coords="369,31,509,57"/>
-<area shape="rect" id="node4" href="$trace__uprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="557,31,653,57"/>
-</map>

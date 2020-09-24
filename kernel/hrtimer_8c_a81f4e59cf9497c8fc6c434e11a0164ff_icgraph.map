@@ -1,7 +1,0 @@
-<map id="do_nanosleep" name="do_nanosleep">
-<area shape="rect" id="node2" href="$hrtimer_8c.html#a61733b5aff04bd5834a743215a8bb3e8" title="hrtimer_nanosleep_restart" alt="" coords="156,31,328,57"/>
-<area shape="rect" id="node3" href="$hrtimer_8c.html#ae3c6c285711562b342a9f96e1ce9f7a8" title="hrtimer_nanosleep" alt="" coords="376,56,504,83"/>
-<area shape="rect" id="node4" href="$hrtimer_8c.html#a66fe7dcb7c8bfc3adf51ac681ef18df0" title="SYSCALL_DEFINE2" alt="" coords="552,5,699,32"/>
-<area shape="rect" id="node5" href="$posix-stubs_8c.html#a332f0e065b691c8807fe30e753f7bb97" title="SYSCALL_DEFINE4" alt="" coords="552,56,699,83"/>
-<area shape="rect" id="node6" href="$posix-timers_8c.html#a062dd33b38ec2e9bbc11faeedb5a10e2" title="common_nsleep" alt="" coords="567,107,684,133"/>
-</map>

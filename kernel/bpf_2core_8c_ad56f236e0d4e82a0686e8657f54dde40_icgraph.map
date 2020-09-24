@@ -1,8 +1,0 @@
-<map id="bpf_prog_array_compatible" name="bpf_prog_array_compatible">
-<area shape="rect" id="node2" href="$arraymap_8c.html#a4b150b23600d01b6f605fd99fe0c36b8" title="prog_fd_array_get_ptr" alt="" coords="232,5,380,32"/>
-<area shape="rect" id="node3" href="$bpf_2core_8c.html#a653c47ca3da4062e531ca3fe8f3e9d4e" title="bpf_check_tail_call" alt="" coords="239,56,373,83"/>
-<area shape="rect" id="node4" href="$bpf_2core_8c.html#aadab4fe193638c458a7c4a9d54f0e155" title="bpf_prog_select_runtime" alt="" coords="428,56,592,83"/>
-<area shape="rect" id="node5" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="640,56,743,83"/>
-<area shape="rect" id="node6" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="791,56,937,83"/>
-<area shape="rect" id="node7" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="985,56,1132,83"/>
-</map>

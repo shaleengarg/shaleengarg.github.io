@@ -1,6 +1,0 @@
-<map id="relay_remove_buf" name="relay_remove_buf">
-<area shape="rect" id="node2" href="$relay_8c.html#a9c9c25f52aa4ed36a4ab73dadfef5a77" title="relay_close_buf" alt="" coords="183,31,297,57"/>
-<area shape="rect" id="node5" href="$relay_8c.html#a4e609060cfdfe5a0d112c53a0dd4c212" title="relay_file_release" alt="" coords="179,81,301,108"/>
-<area shape="rect" id="node3" href="$relay_8c.html#ac289223a088a51eb939c3d17ea3c5710" title="relay_open" alt="" coords="351,5,436,32"/>
-<area shape="rect" id="node4" href="$relay_8c.html#a14bb734937c72098201b5042d866aef9" title="relay_close" alt="" coords="349,56,437,83"/>
-</map>

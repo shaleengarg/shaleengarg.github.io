@@ -1,7 +1,0 @@
-<map id="ktime_get_seconds" name="ktime_get_seconds">
-<area shape="rect" id="node2" href="$cpuset_8c.html#a3615a8ae89464277f340348429736c64" title="fmeter_update" alt="" coords="188,31,293,57"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a58085ca0c82f8da586c5b0cafb02c199" title="fmeter_markevent" alt="" coords="341,5,468,32"/>
-<area shape="rect" id="node5" href="$cpuset_8c.html#a6c21f704953211b90af19394b99a4852" title="fmeter_getrate" alt="" coords="351,56,458,83"/>
-<area shape="rect" id="node4" href="$cpuset_8c.html#a9145bf8785ad00c89d37a253bd06c8c3" title="__cpuset_memory_pressure_bump" alt="" coords="516,5,741,32"/>
-<area shape="rect" id="node6" href="$cpuset_8c.html#a99fe05672d7eebc86447be55d715e678" title="cpuset_read_u64" alt="" coords="568,56,689,83"/>
-</map>

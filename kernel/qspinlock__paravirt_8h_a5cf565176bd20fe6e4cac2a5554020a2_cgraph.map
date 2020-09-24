@@ -1,5 +1,0 @@
-<map id="pv_kick_node" name="pv_kick_node">
-<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#a51e423eee11b2b909b9a2e81113f1758" title="pv_hash" alt="" coords="156,31,227,57"/>
-<area shape="rect" id="node3" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="289,5,339,32"/>
-<area shape="rect" id="node4" href="$qspinlock__stat_8h.html#abb2374852684378d140d4c5cc850e021" title="qstat_hop" alt="" coords="275,56,353,83"/>
-</map>

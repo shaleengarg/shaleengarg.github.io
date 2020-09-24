@@ -1,5 +1,0 @@
-<map id="down_read_trylock" name="down_read_trylock">
-<area shape="rect" id="node2" href="$rwsem-spinlock_8c.html#aeb8f738ad74963134932ad9a0e17b1fa" title="__down_read_trylock" alt="" coords="199,5,344,32"/>
-<area shape="rect" id="node3" href="$rwsem_8h.html#a105dd717f7cd10dd4364fe64f8636abe" title="rwsem_set_reader_owned" alt="" coords="184,56,359,83"/>
-<area shape="rect" id="node4" href="$rwsem_8c.html#a26be9de30c6c4b054df3ebe9785baf40" title="EXPORT_SYMBOL" alt="" coords="202,107,341,133"/>
-</map>

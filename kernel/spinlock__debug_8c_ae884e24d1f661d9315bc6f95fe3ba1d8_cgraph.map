@@ -1,4 +1,0 @@
-<map id="do_raw_write_lock" name="do_raw_write_lock">
-<area shape="rect" id="node2" href="$spinlock__debug_8c.html#afaf5ea76fab15506ac907c37ef3adaa8" title="debug_write_lock_before" alt="" coords="184,5,351,32"/>
-<area shape="rect" id="node3" href="$spinlock__debug_8c.html#af8276308072a2296e79859f9e4f5d5f9" title="debug_write_lock_after" alt="" coords="189,56,345,83"/>
-</map>

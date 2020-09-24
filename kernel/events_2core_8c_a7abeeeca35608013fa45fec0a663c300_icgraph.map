@@ -1,5 +1,0 @@
-<map id="__perf_event_sync_stat" name="__perf_event_sync_stat">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a66a8bb0e83b43f2af91ee759dc41b3f7" title="perf_event_sync_stat" alt="" coords="215,13,361,39"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#ab244e5a99fa72e35b4e34a2b07d97f34" title="perf_event_context\l_sched_out" alt="" coords="409,5,543,47"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#ae9f5e65caa19348b63bef91a7b84b65c" title="__perf_event_task_sched_out" alt="" coords="591,13,787,39"/>
-</map>

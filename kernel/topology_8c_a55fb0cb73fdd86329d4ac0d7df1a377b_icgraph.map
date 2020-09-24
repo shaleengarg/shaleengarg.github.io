@@ -1,5 +1,0 @@
-<map id="sched_init_domains" name="sched_init_domains">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="191,31,257,57"/>
-<area shape="rect" id="node3" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="305,5,387,32"/>
-<area shape="rect" id="node4" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="311,56,381,83"/>
-</map>

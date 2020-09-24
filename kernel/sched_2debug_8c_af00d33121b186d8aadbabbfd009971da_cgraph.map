@@ -1,6 +1,0 @@
-<map id="print_cfs_rq" name="print_cfs_rq">
-<area shape="rect" id="node2" href="$fair_8c.html#ab00f706f32ecba4bed4ff723fb701ff3" title="min_vruntime" alt="" coords="158,5,258,32"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a5f3604122fbb94310109cb66b5dee17a" title="max_vruntime" alt="" coords="156,56,260,83"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a1bd0e4ff88b816235048768a64e884ac" title="__pick_first_entity" alt="" coords="144,107,272,133"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a00678fdafcc783d09a06ffa868854ba6" title="__pick_last_entity" alt="" coords="145,157,271,184"/>
-</map>

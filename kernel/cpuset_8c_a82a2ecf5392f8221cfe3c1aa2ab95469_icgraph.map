@@ -1,9 +1,0 @@
-<map id="update_tasks_nodemask" name="update_tasks_nodemask">
-<area shape="rect" id="node2" href="$cpuset_8c.html#abed0ba0b664bfbccdd9360af1835dded" title="update_nodemasks_hier" alt="" coords="220,5,383,32"/>
-<area shape="rect" id="node5" href="$cpuset_8c.html#ac6f5da7f78ed04d24b56616b2f6cd22d" title="hotplug_update_tasks\l_legacy" alt="" coords="227,57,376,98"/>
-<area shape="rect" id="node7" href="$cpuset_8c.html#a9e2a70f28dbc35ecd301c3a3332ed874" title="cpuset_hotplug_workfn" alt="" coords="635,144,791,171"/>
-<area shape="rect" id="node8" href="$cpuset_8c.html#a0ab3a9bba66eb382cdd95b39048aa063" title="hotplug_update_tasks" alt="" coords="227,123,376,149"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="445,5,573,32"/>
-<area shape="rect" id="node4" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="636,5,789,32"/>
-<area shape="rect" id="node6" href="$cpuset_8c.html#a9e61badc6705506460418be7747beb0c" title="cpuset_hotplug_update\l_tasks" alt="" coords="431,107,587,149"/>
-</map>

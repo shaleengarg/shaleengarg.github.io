@@ -1,9 +1,0 @@
-<map id="gdb_cmd_break" name="gdb_cmd_break">
-<area shape="rect" id="node2" href="$gdbstub_8c.html#a1540f68a734068230adce62f9400ae45" title="error_packet" alt="" coords="199,5,293,32"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#aaa0ddf447fb0ec49f3fb7c890ddb5d1b" title="kgdb_hex2long" alt="" coords="191,56,301,83"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#ad441ebb16558ee15c3939e0276fe2291" title="dbg_set_sw_break" alt="" coords="181,107,311,133"/>
-<area shape="rect" id="node8" href="$debug__core_8c.html#a55fbaabb50a83258cfa5ee6d8cf23aa6" title="dbg_remove_sw_break" alt="" coords="168,157,324,184"/>
-<area shape="rect" id="node5" href="$debug__core_8c.html#a74699ff7995f4e6b6af1f661773d286a" title="kgdb_validate_break\l_address" alt="" coords="372,99,513,141"/>
-<area shape="rect" id="node6" href="$debug__core_8c.html#abe79eaba3084f68681c8ec8b35211ec4" title="kgdb_arch_set_breakpoint" alt="" coords="573,81,748,108"/>
-<area shape="rect" id="node7" href="$debug__core_8c.html#a1cf6070cbcbce614cdbdca046aae848e" title="kgdb_arch_remove_breakpoint" alt="" coords="561,132,760,159"/>
-</map>

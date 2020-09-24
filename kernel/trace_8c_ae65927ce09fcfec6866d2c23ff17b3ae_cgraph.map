@@ -1,5 +1,0 @@
-<map id="buffer_pipe_buf_release" name="buffer_pipe_buf_release">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#aef51d0ee3493e75f26c2a890cdfaead2" title="ring_buffer_free_read_page" alt="" coords="213,5,392,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="277,56,328,83"/>
-<area shape="rect" id="node3" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="440,5,612,32"/>
-</map>

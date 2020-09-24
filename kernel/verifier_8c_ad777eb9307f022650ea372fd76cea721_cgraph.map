@@ -1,6 +1,0 @@
-<map id="check_stack_write" name="check_stack_write">
-<area shape="rect" id="node2" href="$verifier_8c.html#a3a0c72463a19e6408a8c5286f8e59c62" title="realloc_func_state" alt="" coords="188,5,316,32"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#acfd8c3db6ec9aa565208db025d82c5f6" title="is_spillable_regtype" alt="" coords="184,56,320,83"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#ab995e7bfc031d1d4c69c8793a3fe3538" title="register_is_null" alt="" coords="197,107,307,133"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="368,5,419,32"/>
-</map>

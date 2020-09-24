@@ -1,5 +1,0 @@
-<map id="task_freezer" name="task_freezer">
-<area shape="rect" id="node2" href="$cgroup_2freezer_8c.html#a02fb96061dea35600b55b8fd7f7dbb0f" title="cgroup_freezing" alt="" coords="148,5,263,32"/>
-<area shape="rect" id="node4" href="$cgroup_2freezer_8c.html#a1a528bb2f801f73c07d1e0216ac1d309" title="freezer_fork" alt="" coords="160,56,251,83"/>
-<area shape="rect" id="node3" href="$freezer_8c.html#aa14d3bb0f71e765cc96ade8edcd2f8d6" title="freezing_slow_path" alt="" coords="311,5,445,32"/>
-</map>

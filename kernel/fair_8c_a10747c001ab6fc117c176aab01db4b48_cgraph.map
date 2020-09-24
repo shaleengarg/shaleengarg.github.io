@@ -1,5 +1,0 @@
-<map id="wakeup_gran" name="wakeup_gran">
-<area shape="rect" id="node2" href="$fair_8c.html#a010234fd57593c9b85014301d4458d59" title="calc_delta_fair" alt="" coords="152,5,259,32"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a7417abbb795b83bc76688170426ce381" title="__calc_delta" alt="" coords="307,5,401,32"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a8ed8d2846e1408bee375e3dba4a9215a" title="__update_inv_weight" alt="" coords="449,5,593,32"/>
-</map>

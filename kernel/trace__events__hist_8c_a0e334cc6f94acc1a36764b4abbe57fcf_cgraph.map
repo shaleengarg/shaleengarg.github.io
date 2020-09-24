@@ -1,9 +1,0 @@
-<map id="actions_match" name="actions_match">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#aceb9f7ac2245ac0edb18ffd595787084" title="action_trace" alt="" coords="161,19,255,45"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a5bcc8ef4d4874dc25dd9e118f96eefa3" title="onmax_save" alt="" coords="160,81,256,108"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#abfae8ef5120552395dea8d7795836473" title="trace_synth" alt="" coords="334,5,425,32"/>
-<area shape="rect" id="node5" href="$tracing__map_8c.html#acf6f301e23cea5ca5481ed5267b4bced" title="tracing_map_read_var" alt="" coords="304,56,455,83"/>
-<area shape="rect" id="node6" href="$tracing__map_8c.html#a8c0c9efa41d688d3a17e8673b72a3a9d" title="tracing_map_set_var" alt="" coords="689,132,832,159"/>
-<area shape="rect" id="node7" href="$trace__events__hist_8c.html#af474a2f79ea0c15b90ed2a45df7d9d4b" title="update_max_vars" alt="" coords="317,157,442,184"/>
-<area shape="rect" id="node8" href="$trace__events__hist_8c.html#a3abcb2e8aab06809d5d39f33ad24e465" title="__update_field_vars" alt="" coords="503,157,641,184"/>
-</map>

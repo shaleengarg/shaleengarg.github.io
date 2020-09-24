@@ -1,6 +1,0 @@
-<map id="tracing_off" name="tracing_off">
-<area shape="rect" id="node2" href="$trace_8c.html#a882709b02b7bbe1ba86dedc2b471a296" title="tracer_tracing_off" alt="" coords="161,5,283,32"/>
-<area shape="rect" id="node5" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="136,56,308,83"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a3240a4d073ba82af325b1a0e7626c1fd" title="ring_buffer_record_off" alt="" coords="356,5,504,32"/>
-<area shape="rect" id="node4" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="552,5,724,32"/>
-</map>

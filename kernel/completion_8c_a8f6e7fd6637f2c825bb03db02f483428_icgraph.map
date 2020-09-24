@@ -1,6 +1,0 @@
-<map id="wait_for_completion_timeout" name="wait_for_completion_timeout">
-<area shape="rect" id="node2" href="$test-ww__mutex_8c.html#a6823e76be20fc5f7c224d710d7313f0f" title="__test_mutex" alt="" coords="192,13,293,39"/>
-<area shape="rect" id="node3" href="$test-ww__mutex_8c.html#acce5edbea7e18b49a854637f26a47340" title="test_mutex" alt="" coords="341,13,428,39"/>
-<area shape="rect" id="node4" href="$test-ww__mutex_8c.html#acbb4d1a260bf50280c4e48edc5b86cd1" title="test_ww_mutex_init" alt="" coords="476,13,615,39"/>
-<area shape="rect" id="node5" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="663,13,805,39"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="jiffies_64_to_clock_t" name="jiffies_64_to_clock_t">
-<area shape="rect" id="node2" href="$sys_8c.html#a360d3c772eb5d616809c219305107c5f" title="SYSCALL_DEFINE1" alt="" coords="195,31,341,57"/>
-<area shape="rect" id="node6" href="$trace__clock_8c.html#a03f13a405d991b04fc3121c14532fdf2" title="trace_clock_jiffies" alt="" coords="205,81,331,108"/>
-<area shape="rect" id="node3" href="$sys_8c.html#a93361b04c14dfc7bb0686b76b9d41d4e" title="SYSCALL_DEFINE2" alt="" coords="389,5,536,32"/>
-<area shape="rect" id="node5" href="$sys_8c.html#abd49f5f5ea9fed9464e3ac87d8db5f3f" title="SYSCALL_DEFINE1" alt="" coords="389,56,536,83"/>
-<area shape="rect" id="node4" href="$sys_8c.html#ab198d18311eef12b441dc6a94676cdd2" title="SYSCALL_DEFINE2" alt="" coords="584,5,731,32"/>
-</map>

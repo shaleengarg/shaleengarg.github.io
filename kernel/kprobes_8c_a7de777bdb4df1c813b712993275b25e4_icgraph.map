@@ -1,6 +1,0 @@
-<map id="free_rp_inst" name="free_rp_inst">
-<area shape="rect" id="node2" href="$kprobes_8c.html#a84a16a6a0f16ac4e9671449320aeffda" title="cleanup_rp_inst" alt="" coords="144,5,257,32"/>
-<area shape="rect" id="node3" href="$kprobes_8c.html#a640d41362a4069d7d899885c5285dc32" title="arch_deref_entry_point" alt="" coords="305,31,460,57"/>
-<area shape="rect" id="node4" href="$kprobes_8c.html#a3e9b5e2fe15fc8fe4f73aea75e81bedf" title="populate_kprobe_blacklist" alt="" coords="508,31,680,57"/>
-<area shape="rect" id="node5" href="$kprobes_8c.html#acc06dfb4d93c2cc31c06cc54cae57cda" title="init_kprobes" alt="" coords="728,31,820,57"/>
-</map>

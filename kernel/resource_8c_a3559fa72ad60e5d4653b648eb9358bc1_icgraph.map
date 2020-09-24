@@ -1,7 +1,0 @@
-<map id="__insert_resource" name="__insert_resource">
-<area shape="rect" id="node2" href="$resource_8c.html#aa21170d6d935f94ac4ae39e182696854" title="insert_resource_conflict" alt="" coords="179,5,339,32"/>
-<area shape="rect" id="node6" href="$resource_8c.html#a8dc96cd1db52e4b0f12828c2d350b734" title="insert_resource_expand\l_to_fit" alt="" coords="179,57,339,98"/>
-<area shape="rect" id="node3" href="$resource_8c.html#a21d87c4571c0578e5235670206bcc803" title="insert_resource" alt="" coords="387,5,497,32"/>
-<area shape="rect" id="node4" href="$kexec__core_8c.html#a77954130bbdafdccf8ab729cab65a63e" title="crash_shrink_memory" alt="" coords="545,5,696,32"/>
-<area shape="rect" id="node5" href="$ksysfs_8c.html#ace4827a381822502ab59d8ed744f9dc5" title="uevent_seqnum_show" alt="" coords="744,5,896,32"/>
-</map>

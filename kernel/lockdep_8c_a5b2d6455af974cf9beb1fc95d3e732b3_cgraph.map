@@ -1,8 +1,0 @@
-<map id="lockdep_free_key_range" name="lockdep_free_key_range">
-<area shape="rect" id="node2" href="$lockdep_8c.html#aa9eb967e2be30ef5104623c3e3f9cf8a" title="graph_lock" alt="" coords="241,5,326,32"/>
-<area shape="rect" id="node3" href="$lockdep_8c.html#a64aeba38758c681e015857193cabfe30" title="within" alt="" coords="255,56,311,83"/>
-<area shape="rect" id="node4" href="$lockdep_8c.html#aed27663eb3bdb4aad33d7705d578adff" title="zap_class" alt="" coords="243,107,324,133"/>
-<area shape="rect" id="node5" href="$lockdep_8c.html#a6cf5d3014368673885ca3e3525eed13c" title="graph_unlock" alt="" coords="234,157,333,184"/>
-<area shape="rect" id="node6" href="$tiny_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="216,208,351,235"/>
-<area shape="rect" id="node7" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="399,208,571,235"/>
-</map>

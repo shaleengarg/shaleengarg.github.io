@@ -1,8 +1,0 @@
-<map id="task_tick_numa" name="task_tick_numa">
-<area shape="rect" id="node2" href="$fair_8c.html#a6292e63b4b3125dd249bcb32347f88ee" title="update_stats_curr_start" alt="" coords="168,56,327,83"/>
-<area shape="rect" id="node7" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="380,107,480,133"/>
-<area shape="rect" id="node3" href="$fair_8c.html#acba24f064c64a17cc5260e7954ddcf93" title="set_next_entity" alt="" coords="375,56,485,83"/>
-<area shape="rect" id="node4" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="533,5,668,32"/>
-<area shape="rect" id="node6" href="$fair_8c.html#ad45f0fa08ee0ebd82518f49f52c1fcdb" title="set_curr_task_fair" alt="" coords="537,56,664,83"/>
-<area shape="rect" id="node5" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="716,56,845,83"/>
-</map>

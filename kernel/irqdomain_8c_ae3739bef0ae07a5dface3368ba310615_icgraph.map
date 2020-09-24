@@ -1,6 +1,0 @@
-<map id="irq_domain_alloc_descs" name="irq_domain_alloc_descs">
-<area shape="rect" id="node2" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="229,5,335,32"/>
-<area shape="rect" id="node3" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="215,56,349,83"/>
-<area shape="rect" id="node4" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="397,56,581,83"/>
-<area shape="rect" id="node5" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="629,56,783,83"/>
-</map>

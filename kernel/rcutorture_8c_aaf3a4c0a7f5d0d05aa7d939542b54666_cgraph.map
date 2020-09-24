@@ -1,5 +1,0 @@
-<map id="rcu_read_delay" name="rcu_read_delay">
-<area shape="rect" id="node2" href="$torture_8c.html#ab605f7160ab4e18bb2688ec37338eaf1" title="torture_random" alt="" coords="183,5,293,32"/>
-<area shape="rect" id="node4" href="$rcutorture_8c.html#a34951ab30c274ade167dc480d9259e6f" title="rcu_trace_clock_local" alt="" coords="164,56,312,83"/>
-<area shape="rect" id="node3" href="$torture_8c.html#af487a67f166e301d9e728a9e662a9207" title="EXPORT_SYMBOL_GPL" alt="" coords="360,5,532,32"/>
-</map>

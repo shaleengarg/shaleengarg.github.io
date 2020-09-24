@@ -1,7 +1,0 @@
-<map id="trace_access_lock" name="trace_access_lock">
-<area shape="rect" id="node2" href="$trace_8c.html#a576b08f7ca138c4a283b1b337bd9b48e" title="s_start" alt="" coords="243,5,306,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#ae29e0441e1e65a2a2abd8f7b08750c31" title="tracing_read_pipe" alt="" coords="213,56,337,83"/>
-<area shape="rect" id="node4" href="$trace_8c.html#aaf81fbf2a1d643d63a0336d7a83c8736" title="tracing_splice_read_pipe" alt="" coords="192,107,357,133"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a41f5e86bab17d45ccaaf09853eedb607" title="tracing_buffers_read" alt="" coords="205,157,345,184"/>
-<area shape="rect" id="node6" href="$trace_8c.html#a5e14d5e30c9695fe53b4e3fadb7bb3ab" title="tracing_buffers_splice_read" alt="" coords="184,208,365,235"/>
-</map>

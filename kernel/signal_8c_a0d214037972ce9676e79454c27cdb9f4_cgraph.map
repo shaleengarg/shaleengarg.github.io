@@ -1,9 +1,0 @@
-<map id="signal_delivered" name="signal_delivered">
-<area shape="rect" id="node2" href="$signal_8c.html#ab1a2c3431499e8ac46c36f55be422561" title="set_current_blocked" alt="" coords="168,31,307,57"/>
-<area shape="rect" id="node3" href="$signal_8c.html#a9ecf48015298db371b97d65c00e9f448" title="__set_current_blocked" alt="" coords="355,31,508,57"/>
-<area shape="rect" id="node4" href="$signal_8c.html#a5a31d4a62948f4bc45f74ea2e78ef233" title="__set_task_blocked" alt="" coords="556,31,695,57"/>
-<area shape="rect" id="node5" href="$signal_8c.html#adf852130a034af10cb83cc5ba8d7d0d0" title="retarget_shared_pending" alt="" coords="743,5,907,32"/>
-<area shape="rect" id="node7" href="$signal_8c.html#aa338dcd81758c0bde2435f090ca502fb" title="recalc_sigpending" alt="" coords="761,56,888,83"/>
-<area shape="rect" id="node6" href="$signal_8c.html#a211d8738db362d4aaa245f5cfd25bc1f" title="has_pending_signals" alt="" coords="959,5,1101,32"/>
-<area shape="rect" id="node8" href="$signal_8c.html#a6b3a414aeb28d735319baa2bf809c830" title="recalc_sigpending_tsk" alt="" coords="955,56,1105,83"/>
-</map>

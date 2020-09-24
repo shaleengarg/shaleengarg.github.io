@@ -1,8 +1,0 @@
-<map id="perf_event_pid" name="perf_event_pid">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a33fa5657d67d17ba25461581745864a6" title="perf_event_pid_type" alt="" coords="160,56,299,83"/>
-<area shape="rect" id="node3" href="$pid_8c.html#a05a3d6a617c2c42d9c14c361cf780dce" title="__task_pid_nr_ns" alt="" coords="347,56,471,83"/>
-<area shape="rect" id="node4" href="$pid_8c.html#aa94fe396f2fa94f1ad5a869a8eea8244" title="task_active_pid_ns" alt="" coords="521,5,655,32"/>
-<area shape="rect" id="node6" href="$pid_8c.html#a9e24acf7601df6cf1778efc0d09cf2b9" title="pid_nr_ns" alt="" coords="549,56,627,83"/>
-<area shape="rect" id="node7" href="$pid_8c.html#aff1d1f4744a61562f2e537a6b79bcc1d" title="EXPORT_SYMBOL" alt="" coords="519,107,657,133"/>
-<area shape="rect" id="node5" href="$pid_8c.html#abde93ee1205f66322131353b6a8757b2" title="EXPORT_SYMBOL_GPL" alt="" coords="705,31,877,57"/>
-</map>

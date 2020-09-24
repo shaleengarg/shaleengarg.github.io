@@ -1,9 +1,0 @@
-<map id="free_unnecessary_pages" name="free_unnecessary_pages">
-<area shape="rect" id="node2" href="$snapshot_8c.html#a79c8fbac521130f812521d2592df76a9" title="hibernate_preallocate\l_memory" alt="" coords="220,74,365,115"/>
-<area shape="rect" id="node3" href="$hibernate_8c.html#a4a5f6e9ba06b24c86f2d8c7a414febf5" title="hibernation_snapshot" alt="" coords="413,81,559,108"/>
-<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="623,56,697,83"/>
-<area shape="rect" id="node8" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="607,107,713,133"/>
-<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="779,5,890,32"/>
-<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="791,56,878,83"/>
-<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="761,107,908,133"/>
-</map>

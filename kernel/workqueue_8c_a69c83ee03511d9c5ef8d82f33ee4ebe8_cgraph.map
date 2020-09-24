@@ -1,5 +1,0 @@
-<map id="work_busy" name="work_busy">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a31a1bb67af4942d992dcd2aa4d5903a7" title="get_work_pool" alt="" coords="179,5,285,32"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#a5383e3af9c018e4764bf88cdf5f8386c" title="find_worker_executing_work" alt="" coords="139,56,325,83"/>
-<area shape="rect" id="node4" href="$workqueue_8c.html#a5bc25839565bd292b35cc2c823482258" title="EXPORT_SYMBOL_GPL" alt="" coords="146,107,318,133"/>
-</map>

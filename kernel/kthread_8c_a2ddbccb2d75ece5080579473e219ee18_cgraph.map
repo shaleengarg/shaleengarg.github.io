@@ -1,7 +1,0 @@
-<map id="kthread_flush_work_fn" name="kthread_flush_work_fn">
-<area shape="rect" id="node2" href="$completion_8c.html#acfb6d2f4414f6f8c89c6a072da7c0832" title="complete" alt="" coords="207,56,281,83"/>
-<area shape="rect" id="node3" href="$wait_8c.html#a5a4e6acdc83574b50383adeb5e26ae3a" title="__wake_up_locked" alt="" coords="332,31,465,57"/>
-<area shape="rect" id="node6" href="$completion_8c.html#a017b15945f4ddb7ee34b7e6ee6616510" title="EXPORT_SYMBOL" alt="" coords="329,81,468,108"/>
-<area shape="rect" id="node4" href="$wait_8c.html#a4e77507431b7266b711a1c31069b96a7" title="__wake_up_common" alt="" coords="529,5,675,32"/>
-<area shape="rect" id="node5" href="$wait_8c.html#a5d762c19a34e529508b93fa52241737a" title="EXPORT_SYMBOL_GPL" alt="" coords="516,56,688,83"/>
-</map>

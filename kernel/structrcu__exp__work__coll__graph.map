@@ -1,7 +1,0 @@
-<map id="rcu_exp_work" name="rcu_exp_work">
-<area shape="rect" id="node2" href="$structrcu__state.html" title="rcu_state" alt="" coords="105,109,181,136"/>
-<area shape="rect" id="node4" href="$structrcu__data.html" title="rcu_data" alt="" coords="198,199,270,225"/>
-<area shape="rect" id="node3" href="$structrcu__node.html" title="rcu_node" alt="" coords="154,5,229,32"/>
-<area shape="rect" id="node5" href="$unionrcu__noqs.html" title="rcu_noqs" alt="" coords="309,109,383,136"/>
-<area shape="rect" id="node6" href="$structrcu__dynticks.html" title="rcu_dynticks" alt="" coords="407,109,503,136"/>
-</map>

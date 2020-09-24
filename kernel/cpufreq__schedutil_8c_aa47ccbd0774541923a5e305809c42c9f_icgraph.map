@@ -1,6 +1,0 @@
-<map id="ignore_dl_rate_limit" name="ignore_dl_rate_limit">
-<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#af6fea65730a59c2a290282c480aede7b" title="sugov_update_single" alt="" coords="191,5,335,32"/>
-<area shape="rect" id="node5" href="$cpufreq__schedutil_8c.html#aa8ae48ed24dab8c3fdc4aca255e98c3f" title="sugov_update_shared" alt="" coords="188,56,337,83"/>
-<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#ad14ac61599cac2bf2fc8e42dc04bc8cb" title="sugov_start" alt="" coords="385,31,476,57"/>
-<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="524,31,619,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="stack_map_use_build_id" name="stack_map_use_build_id">
-<area shape="rect" id="node2" href="$stackmap_8c.html#a150c81eccf88a061a087c597d659b75c" title="stack_map_data_size" alt="" coords="219,56,368,83"/>
-<area shape="rect" id="node3" href="$stackmap_8c.html#ac245996cc7e120867ea30a425d3bcfa4" title="BPF_CALL_3" alt="" coords="434,5,537,32"/>
-<area shape="rect" id="node4" href="$stackmap_8c.html#a39cf752da94bda69074cb0a92a8d3ca2" title="bpf_stackmap_copy" alt="" coords="416,56,555,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="itimer_get_remtime" name="itimer_get_remtime">
-<area shape="rect" id="node2" href="$itimer_8c.html#a4a2fd8074e91974f31aeb8aa5500bc9c" title="do_getitimer" alt="" coords="187,5,280,32"/>
-<area shape="rect" id="node4" href="$itimer_8c.html#ad1d20d38771cd35924409f0179b30d71" title="do_setitimer" alt="" coords="187,56,280,83"/>
-<area shape="rect" id="node3" href="$itimer_8c.html#adba94f309b71ed6ad0a9cf63f9d57c53" title="SYSCALL_DEFINE2" alt="" coords="328,5,475,32"/>
-<area shape="rect" id="node5" href="$itimer_8c.html#a5fc424f0f1a3e71db58571c77554b39e" title="SYSCALL_DEFINE3" alt="" coords="328,56,475,83"/>
-</map>

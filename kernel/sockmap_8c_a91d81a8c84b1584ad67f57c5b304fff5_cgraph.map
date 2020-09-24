@@ -1,5 +1,0 @@
-<map id="smap_tx_work" name="smap_tx_work">
-<area shape="rect" id="node2" href="$sockmap_8c.html#a5fecef215fac2002c48dfe548e434a94" title="smap_do_ingress" alt="" coords="172,5,296,32"/>
-<area shape="rect" id="node4" href="$sockmap_8c.html#a7440866fa55f87d05a000751f1f88c64" title="smap_report_sk_error" alt="" coords="160,56,308,83"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="356,5,407,32"/>
-</map>

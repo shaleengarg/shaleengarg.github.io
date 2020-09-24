@@ -1,6 +1,0 @@
-<map id="valid_policy" name="valid_policy">
-<area shape="rect" id="node2" href="$sched_8h.html#ac55c30cc52f8a50206c0d9c3521a0f46" title="idle_policy" alt="" coords="144,5,227,32"/>
-<area shape="rect" id="node3" href="$sched_8h.html#a929a65a270f7983928647aea62ab826b" title="fair_policy" alt="" coords="145,56,226,83"/>
-<area shape="rect" id="node4" href="$sched_8h.html#af7e604bf2fa77ebe748d539f3d7ddbaf" title="rt_policy" alt="" coords="150,107,221,133"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a8e921e69215558268f8ac5d5e7952303" title="dl_policy" alt="" coords="149,157,222,184"/>
-</map>

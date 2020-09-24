@@ -1,5 +1,0 @@
-<map id="rcu_segcblist_disable" name="rcu_segcblist_disable">
-<area shape="rect" id="node2" href="$rcu__segcblist_8h.html#ab15fdbc6d5fc4da314eee8571b12a778" title="rcu_segcblist_empty" alt="" coords="215,5,357,32"/>
-<area shape="rect" id="node3" href="$rcu__segcblist_8h.html#ac2f498b8f4edd8cb04a78fb6076f8f30" title="rcu_segcblist_n_cbs" alt="" coords="215,56,357,83"/>
-<area shape="rect" id="node4" href="$rcu__segcblist_8h.html#a7a6175ddc1bf4c4be243945ec6722284" title="rcu_segcblist_n_lazy_cbs" alt="" coords="200,107,372,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="SYSCALL_DEFINE2" name="SYSCALL_DEFINE2">
-<area shape="rect" id="node2" href="$posix-timers_8c.html#a5858df66dd97d7f14d9e0f32565f9c1e" title="clockid_to_kclock" alt="" coords="200,5,327,32"/>
-<area shape="rect" id="node3" href="$time_8c.html#a82d5ae373cc798c6a45050382b2ea0ad" title="get_timespec64" alt="" coords="206,56,321,83"/>
-<area shape="rect" id="node4" href="$time_8c.html#a2b16ed65b097d937eac34aa0863615b1" title="EXPORT_SYMBOL_GPL" alt="" coords="375,56,547,83"/>
-</map>

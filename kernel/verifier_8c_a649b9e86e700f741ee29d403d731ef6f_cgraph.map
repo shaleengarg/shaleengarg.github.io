@@ -1,6 +1,0 @@
-<map id="stacksafe" name="stacksafe">
-<area shape="rect" id="node2" href="$verifier_8c.html#a152189702a961a75b549ec338bfd5c6e" title="regsafe" alt="" coords="132,56,197,83"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#afd1f88334ca68e82531506c452328a89" title="range_within" alt="" coords="245,5,340,32"/>
-<area shape="rect" id="node4" href="$tnum_8c.html#a7a70f5d3a1fa6e61839dc3c319859ea8" title="tnum_in" alt="" coords="259,56,327,83"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#acef19fd01a826f58b0ddb96a3c5e131f" title="check_ids" alt="" coords="252,107,333,133"/>
-</map>

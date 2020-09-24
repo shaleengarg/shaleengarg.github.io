@@ -1,5 +1,0 @@
-<map id="sugov_kthread_stop" name="sugov_kthread_stop">
-<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#a1e820b80c2d44e28438aefa28eb05c6f" title="sugov_init" alt="" coords="194,5,275,32"/>
-<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#adc3e19b3689b4d5c3a26d7fa1ad40f04" title="sugov_exit" alt="" coords="192,56,277,83"/>
-<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="325,31,420,57"/>
-</map>

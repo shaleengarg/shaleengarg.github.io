@@ -1,6 +1,0 @@
-<map id="__setup" name="__setup">
-<area shape="rect" id="node2" href="$printk_8c.html#ad8e687dcfffa5201fbabb169619e275b" title="control_devkmsg" alt="" coords="146,5,267,32"/>
-<area shape="rect" id="node3" href="$printk_8c.html#a721cb1e0c681fa44fe1a9c7b93139142" title="console_msg_format\l_setup" alt="" coords="135,57,278,98"/>
-<area shape="rect" id="node4" href="$printk_8c.html#af6075c95ef3f841ae764ba3359d3507e" title="console_setup" alt="" coords="153,123,260,149"/>
-<area shape="rect" id="node5" href="$printk_8c.html#a29291084da75704fa143366bc0859f96" title="console_suspend_disable" alt="" coords="121,173,292,200"/>
-</map>

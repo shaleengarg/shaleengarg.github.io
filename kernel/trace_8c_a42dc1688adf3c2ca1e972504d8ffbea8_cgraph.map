@@ -1,6 +1,0 @@
-<map id="tracing_init_tracefs_percpu" name="tracing_init_tracefs_percpu">
-<area shape="rect" id="node2" href="$trace_8c.html#acd3057a2700e5e71b4a325c68359d95a" title="tracing_dentry_percpu" alt="" coords="185,5,336,32"/>
-<area shape="rect" id="node4" href="$trace_8c.html#aae0bd9f6c0dc397dfb868dd2a608bbde" title="trace_create_cpu_file" alt="" coords="187,56,334,83"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a01305608b6569f54977640accaa0f009" title="tracing_get_dentry" alt="" coords="384,5,513,32"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a4fd54a9a5f973fbdaa2015576d35959f" title="trace_create_file" alt="" coords="389,56,508,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="irq_debugfs_init" name="irq_debugfs_init">
-<area shape="rect" id="node2" href="$debugfs_8c.html#a186d469343fa4d5930bf390cb1f35414" title="irq_add_debugfs_entry" alt="" coords="167,5,320,32"/>
-<area shape="rect" id="node3" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="199,56,288,83"/>
-<area shape="rect" id="node5" href="$debugfs_8c.html#ab9e14f35ef43f0fe9f9dcdf39a3dff61" title="__initcall" alt="" coords="207,107,280,133"/>
-<area shape="rect" id="node4" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="368,56,507,83"/>
-</map>

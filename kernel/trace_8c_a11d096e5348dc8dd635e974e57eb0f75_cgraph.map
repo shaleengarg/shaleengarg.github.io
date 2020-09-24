@@ -1,6 +1,0 @@
-<map id="tracing_saved_cmdlines_size_write" name="tracing_saved_cmdlines_size_write">
-<area shape="rect" id="node2" href="$trace_8c.html#a7f3e4556dc699adadd3bb7af65b5a2ce" title="tracing_resize_saved\l_cmdlines" alt="" coords="216,49,361,90"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a5d64b43f1d0597963be54a2ce262891f" title="allocate_cmdlines_buffer" alt="" coords="409,5,576,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="624,56,675,83"/>
-<area shape="rect" id="node5" href="$trace_8c.html#ac10e7e7c382951276b759189f92b66eb" title="free_saved_cmdlines\l_buffer" alt="" coords="420,107,565,149"/>
-</map>

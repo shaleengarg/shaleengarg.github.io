@@ -1,9 +1,0 @@
-<map id="trace_call_bpf" name="trace_call_bpf">
-<area shape="rect" id="node2" href="$bpf__trace_8c.html#a30f39e20d34bdda899b2129b2a6d2c1d" title="EXPORT_SYMBOL_GPL" alt="" coords="156,5,328,32"/>
-<area shape="rect" id="node3" href="$bpf__trace_8c.html#a4bd02b2c0b9e095f362b364b7b28391b" title="BPF_CALL_2" alt="" coords="191,56,293,83"/>
-<area shape="rect" id="node4" href="$bpf__trace_8c.html#a834376de358a851a827d0fc01bb9716d" title="get_map_perf_counter" alt="" coords="376,56,527,83"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a19ae82f0ba5a21c877baedcdc73f99cd" title="perf_event_read_local" alt="" coords="575,56,724,83"/>
-<area shape="rect" id="node6" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="802,31,885,57"/>
-<area shape="rect" id="node7" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="772,81,915,108"/>
-<area shape="rect" id="node8" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="963,81,1113,108"/>
-</map>

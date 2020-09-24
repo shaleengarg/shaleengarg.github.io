@@ -1,4 +1,0 @@
-<map id="hardlockup_detector_perf_init" name="hardlockup_detector_perf_init">
-<area shape="rect" id="node2" href="$watchdog_8c.html#a5ec9814e2f1018f3bff3abb816b4ba3c" title="watchdog_nmi_probe" alt="" coords="192,13,337,39"/>
-<area shape="rect" id="node3" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="385,13,524,39"/>
-</map>

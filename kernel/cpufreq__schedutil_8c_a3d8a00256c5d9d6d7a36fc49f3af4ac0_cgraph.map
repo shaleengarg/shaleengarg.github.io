@@ -1,8 +1,0 @@
-<map id="sugov_next_freq_shared" name="sugov_next_freq_shared">
-<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#a48101302c272804a8d33d3e98863a251" title="sugov_get_util" alt="" coords="237,5,343,32"/>
-<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a72aff09379e9bb9527493194e5732206" title="sugov_aggregate_util" alt="" coords="217,56,363,83"/>
-<area shape="rect" id="node5" href="$cpufreq__schedutil_8c.html#a024467e84024be5164c23028479016d5" title="sugov_iowait_boost" alt="" coords="221,107,359,133"/>
-<area shape="rect" id="node7" href="$cpufreq__schedutil_8c.html#a2fd9e8ae055adb929eb7a5e05da4a715" title="get_next_freq" alt="" coords="239,157,341,184"/>
-<area shape="rect" id="node3" href="$sched_8h.html#af848ce48d81d2d5b1fe6f350612675db" title="arch_scale_cpu_capacity" alt="" coords="411,5,580,32"/>
-<area shape="rect" id="node6" href="$cpufreq__schedutil_8c.html#a9b1fafcc808a76a481357b1c95594637" title="sugov_cpu_is_busy" alt="" coords="427,107,564,133"/>
-</map>

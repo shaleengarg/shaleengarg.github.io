@@ -1,6 +1,0 @@
-<map id="bpf_fd_probe_obj" name="bpf_fd_probe_obj">
-<area shape="rect" id="node2" href="$inode_8c.html#a1aa5a97bf15bfc89422a0b482edfdd09" title="bpf_obj_pin_user" alt="" coords="175,5,295,32"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#af9d9e17676ec051855620622a9e16b40" title="bpf_obj_pin" alt="" coords="343,5,431,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="479,5,625,32"/>
-<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="673,5,820,32"/>
-</map>

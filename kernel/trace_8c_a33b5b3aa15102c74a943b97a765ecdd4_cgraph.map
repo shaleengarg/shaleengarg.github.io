@@ -1,7 +1,0 @@
-<map id="disable_trace_on_warning" name="disable_trace_on_warning">
-<area shape="rect" id="node2" href="$trace_8c.html#a55d7d7f4056a9d708741fa32a13a5ed1" title="tracing_off" alt="" coords="225,31,308,57"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a882709b02b7bbe1ba86dedc2b471a296" title="tracer_tracing_off" alt="" coords="381,5,503,32"/>
-<area shape="rect" id="node6" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="356,56,528,83"/>
-<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a3240a4d073ba82af325b1a0e7626c1fd" title="ring_buffer_record_off" alt="" coords="576,5,724,32"/>
-<area shape="rect" id="node5" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="772,5,944,32"/>
-</map>

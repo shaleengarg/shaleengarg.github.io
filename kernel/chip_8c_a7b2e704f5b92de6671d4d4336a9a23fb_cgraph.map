@@ -1,5 +1,0 @@
-<map id="mask_ack_irq" name="mask_ack_irq">
-<area shape="rect" id="node2" href="$internals_8h.html#aacc952157d4a58b881c0654754187ea2" title="irq_state_set_masked" alt="" coords="279,5,429,32"/>
-<area shape="rect" id="node4" href="$chip_8c.html#af966354d0da58415966fdd6ddc3cab16" title="mask_irq" alt="" coords="156,31,231,57"/>
-<area shape="rect" id="node3" href="$internals_8h.html#aac862a1ae8de71b6ed2e9f9a92b49233" title="irqd_set" alt="" coords="477,5,545,32"/>
-</map>

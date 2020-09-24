@@ -1,5 +1,0 @@
-<map id="kgdb_arch_late" name="kgdb_arch_late">
-<area shape="rect" id="node2" href="$debug__core_8c.html#ade36f6b46ae3e0b2d7447d89807eaf76" title="dbg_late_init" alt="" coords="198,5,293,32"/>
-<area shape="rect" id="node3" href="$debug__core_8c.html#a158b3fda3a2b65881505252f17ce3ee2" title="kgdb_register_callbacks" alt="" coords="164,56,327,83"/>
-<area shape="rect" id="node4" href="$debug__core_8c.html#a41134fb8571a5580fd06790d7084402d" title="kgdb_register_io_module" alt="" coords="375,56,541,83"/>
-</map>

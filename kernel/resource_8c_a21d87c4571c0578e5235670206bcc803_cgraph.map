@@ -1,7 +1,0 @@
-<map id="insert_resource" name="insert_resource">
-<area shape="rect" id="node2" href="$resource_8c.html#aa21170d6d935f94ac4ae39e182696854" title="insert_resource_conflict" alt="" coords="170,31,330,57"/>
-<area shape="rect" id="node6" href="$resource_8c.html#a9783083bdd459ff45c4de451132aa7d6" title="EXPORT_SYMBOL_GPL" alt="" coords="164,81,336,108"/>
-<area shape="rect" id="node3" href="$resource_8c.html#a3559fa72ad60e5d4653b648eb9358bc1" title="__insert_resource" alt="" coords="384,31,509,57"/>
-<area shape="rect" id="node4" href="$resource_8c.html#a207b5bb40f2abdfdeb54af5b3516e9ee" title="__request_resource" alt="" coords="557,5,693,32"/>
-<area shape="rect" id="node5" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="596,56,655,83"/>
-</map>

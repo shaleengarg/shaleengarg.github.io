@@ -1,6 +1,0 @@
-<map id="rcu_process_callbacks" name="rcu_process_callbacks">
-<area shape="rect" id="node2" href="$tiny_8c.html#aa4e74f7a6a7d5e0cd69479aa42508912" title="__rcu_process_callbacks" alt="" coords="208,31,377,57"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#a690f10e462cb94f720919737886cea7f" title="debug_rcu_head_unqueue" alt="" coords="425,5,599,32"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#acedeb4bfd2c6d183342b2405407089a9" title="__rcu_reclaim" alt="" coords="461,56,563,83"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="647,31,697,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="rcu_request_urgent_qs_task" name="rcu_request_urgent_qs_task">
-<area shape="rect" id="node2" href="$sched_2core_8c.html#a5aa3e33ce99530bf0b727bbb49a3330c" title="task_curr" alt="" coords="235,5,311,32"/>
-<area shape="rect" id="node3" href="$tree_8c.html#ad22c091b5994794e625f0c7402832f6d" title="rcu_rnp_online_cpus" alt="" coords="202,56,343,83"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a2a04cbd4c4b8a7b30e70a5ae8e6933ef" title="EXPORT_SYMBOL_GPL" alt="" coords="187,107,359,133"/>
-</map>

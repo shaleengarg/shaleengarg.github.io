@@ -1,5 +1,0 @@
-<map id="__sanitizer_cov_trace_pc" name="__sanitizer_cov_trace_pc">
-<area shape="rect" id="node2" href="$kcov_8c.html#a0f37f12887736e7e737b89158a30260c" title="canonicalize_ip" alt="" coords="238,5,349,32"/>
-<area shape="rect" id="node3" href="$kcov_8c.html#aba6daf88cf498ef7f090807379e33c16" title="check_kcov_mode" alt="" coords="228,56,359,83"/>
-<area shape="rect" id="node4" href="$kcov_8c.html#acae93cb75ce4e751c8f44780307900bd" title="EXPORT_SYMBOL" alt="" coords="224,107,363,133"/>
-</map>

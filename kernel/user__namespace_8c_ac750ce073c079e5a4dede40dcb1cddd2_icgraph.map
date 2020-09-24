@@ -1,7 +1,0 @@
-<map id="cmp_extents_forward" name="cmp_extents_forward">
-<area shape="rect" id="node2" href="$user__namespace_8c.html#ab7cdc77c68712fe3f95e096367fb58d8" title="sort_idmaps" alt="" coords="200,56,293,83"/>
-<area shape="rect" id="node3" href="$user__namespace_8c.html#a1e5c43866a243b5ba0fc0a9cd6b60060" title="map_write" alt="" coords="341,56,424,83"/>
-<area shape="rect" id="node4" href="$user__namespace_8c.html#a80bc0e2862f5831a39aef4b9d2866744" title="proc_uid_map_write" alt="" coords="479,5,617,32"/>
-<area shape="rect" id="node5" href="$user__namespace_8c.html#ab94ee35b0f0178b555d280b66cbbebfb" title="proc_gid_map_write" alt="" coords="479,56,617,83"/>
-<area shape="rect" id="node6" href="$user__namespace_8c.html#a05eb79f9cde2a28d7bdfbfaebbfda927" title="proc_projid_map_write" alt="" coords="472,107,624,133"/>
-</map>

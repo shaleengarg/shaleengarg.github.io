@@ -1,6 +1,0 @@
-<map id="DEFINE_FETCH_deref" name="DEFINE_FETCH_deref">
-<area shape="rect" id="node2" href="$trace__probe_8h.html#af5c44788e9103db1cff219235c6f6bfd" title="call_fetch" alt="" coords="253,5,332,32"/>
-<area shape="rect" id="node3" href="$trace__probe_8c.html#abf487e5fa7aa43fb75cea9ca1a96c435" title="NOKPROBE_SYMBOL" alt="" coords="420,56,580,83"/>
-<area shape="rect" id="node4" href="$trace__probe_8c.html#ac5343ddfe23dce3ec762faf125755b0f" title="FETCH_FUNC_NAME" alt="" coords="213,107,372,133"/>
-<area shape="rect" id="node5" href="$trace__probe_8h.html#a33b52d79417528b7de2d3117d11d290d" title="get_rloc_data" alt="" coords="450,107,550,133"/>
-</map>

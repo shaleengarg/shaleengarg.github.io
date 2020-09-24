@@ -1,6 +1,0 @@
-<map id="__pv_queued_spin_unlock" name="__pv_queued_spin_unlock">
-<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#accf0b9bee55a654162fbafaa3436bacf" title="__pv_queued_spin_unlock\l_slowpath" alt="" coords="228,23,403,65"/>
-<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#adac11f31f58b438796a57a5945597ff5" title="pv_unhash" alt="" coords="451,5,536,32"/>
-<area shape="rect" id="node5" href="$qspinlock__stat_8h.html#a6b870315712855e7fd5d3245a24b34bd" title="qstat_inc" alt="" coords="456,56,531,83"/>
-<area shape="rect" id="node4" href="$posix-timers_8c.html#aaa7ab1c4b72f40b6c311c236de2e01e3" title="hash" alt="" coords="584,5,635,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="trace_parser_loaded" name="trace_parser_loaded">
-<area shape="rect" id="node2" href="$trace_8h.html#a496f3d98cc059d9e719d8a4fdd2f87f2" title="trace_pid_write" alt="" coords="201,31,312,57"/>
-<area shape="rect" id="node5" href="$trace__events_8c.html#a95b5237adc98d57a58fc0f9dfd1c6bc7" title="ftrace_event_write" alt="" coords="192,81,321,108"/>
-<area shape="rect" id="node3" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="389,5,503,32"/>
-<area shape="rect" id="node4" href="$trace__events_8c.html#a28db7b9181098514cdbb3677657e83cc" title="ftrace_event_pid_write" alt="" coords="369,56,523,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="uid_hash_insert" name="uid_hash_insert">
-<area shape="rect" id="node2" href="$user_8c.html#a0ddc5b5b718d3b95dea2e58adfb98c89" title="alloc_uid" alt="" coords="183,5,256,32"/>
-<area shape="rect" id="node5" href="$user_8c.html#a8219c46acbae2462e9fbda2ae434d3a1" title="uid_cache_init" alt="" coords="167,56,272,83"/>
-<area shape="rect" id="node3" href="$sys_8c.html#a93361b04c14dfc7bb0686b76b9d41d4e" title="SYSCALL_DEFINE2" alt="" coords="320,5,467,32"/>
-<area shape="rect" id="node4" href="$sys_8c.html#ab198d18311eef12b441dc6a94676cdd2" title="SYSCALL_DEFINE2" alt="" coords="515,5,661,32"/>
-</map>

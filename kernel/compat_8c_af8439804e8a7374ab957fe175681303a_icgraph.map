@@ -1,7 +1,0 @@
-<map id="__compat_get_timespec64" name="__compat_get_timespec64">
-<area shape="rect" id="node2" href="$compat_8c.html#a38cd9d63947c5d209bcaf7dbd72a2297" title="compat_get_timespec64" alt="" coords="235,56,399,83"/>
-<area shape="rect" id="node5" href="$compat_8c.html#a0bbb65ac35d3172b4acd4b21fad34a85" title="get_compat_itimerspec64" alt="" coords="232,107,403,133"/>
-<area shape="rect" id="node3" href="$hrtimer_8c.html#a66fe7dcb7c8bfc3adf51ac681ef18df0" title="SYSCALL_DEFINE2" alt="" coords="451,5,597,32"/>
-<area shape="rect" id="node4" href="$posix-stubs_8c.html#a332f0e065b691c8807fe30e753f7bb97" title="SYSCALL_DEFINE4" alt="" coords="451,56,597,83"/>
-<area shape="rect" id="node6" href="$posix-timers_8c.html#a50ba77098752b64712aaad7471f8d917" title="SYSCALL_DEFINE4" alt="" coords="451,107,597,133"/>
-</map>

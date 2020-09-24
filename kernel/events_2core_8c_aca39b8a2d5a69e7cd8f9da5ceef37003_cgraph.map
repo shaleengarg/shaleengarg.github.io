@@ -1,4 +1,0 @@
-<map id="alloc_perf_context" name="alloc_perf_context">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a5bda48c3a7335252ef2a796846014084" title="__perf_event_init_context" alt="" coords="181,5,352,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a03b887ef77e249f9cdecb219b5127b7c" title="perf_event_groups_init" alt="" coords="400,5,553,32"/>
-</map>

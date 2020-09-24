@@ -1,7 +1,0 @@
-<map id="clocks_calc_max_nsecs" name="clocks_calc_max_nsecs">
-<area shape="rect" id="node2" href="$clocksource_8c.html#a19aaf56e4a685e1a8b67c917274b8394" title="clocksource_update\l_max_deferment" alt="" coords="222,5,361,47"/>
-<area shape="rect" id="node5" href="$sched__clock_8c.html#a302268716880007a66faa1ea6f4da89f" title="sched_clock_register" alt="" coords="219,71,364,98"/>
-<area shape="rect" id="node3" href="$clocksource_8c.html#a8b4a0bcbcee4dda1f5bfc43bd31497aa" title="__clocksource_update\l_freq_scale" alt="" coords="412,5,564,47"/>
-<area shape="rect" id="node4" href="$clocksource_8c.html#ad9a3f8f64b9f4dafa66028e8312286c4" title="__clocksource_register\l_scale" alt="" coords="612,5,768,47"/>
-<area shape="rect" id="node6" href="$sched__clock_8c.html#a62194b89e6843ccab0b09f40a970db1e" title="sched_clock_postinit" alt="" coords="416,71,560,98"/>
-</map>

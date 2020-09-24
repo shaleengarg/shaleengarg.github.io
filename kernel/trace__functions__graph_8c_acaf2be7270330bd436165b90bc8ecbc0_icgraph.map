@@ -1,5 +1,0 @@
-<map id="ftrace_graph_stop" name="ftrace_graph_stop">
-<area shape="rect" id="node2" href="$trace__functions__graph_8c.html#a9ffb97dcaf70863dde548e364672fb67" title="ftrace_pop_return_trace" alt="" coords="180,5,339,32"/>
-<area shape="rect" id="node3" href="$trace__functions__graph_8c.html#aaf79ec8041d3b2981b6ebbddebbb0556" title="ftrace_return_to_handler" alt="" coords="387,31,549,57"/>
-<area shape="rect" id="node4" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="183,107,335,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="pmu_dev_alloc" name="pmu_dev_alloc">
-<area shape="rect" id="node2" href="$events_2core_8c.html#aa7c4b42ada67b37d2c408c24675888cb" title="perf_pmu_register" alt="" coords="173,5,299,32"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a63b1d953c0578f445ab2be18d58bb6a4" title="perf_event_sysfs_init" alt="" coords="163,56,309,83"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="536,5,643,32"/>
-<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#a12fb2cfb430a326c84b18b02aced6ed5" title="init_hw_breakpoint" alt="" coords="357,31,488,57"/>
-</map>

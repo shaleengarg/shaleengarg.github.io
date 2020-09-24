@@ -1,7 +1,0 @@
-<map id="cgroup_controllers_show" name="cgroup_controllers_show">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#aa65f8a5d28d6567d89224daf63a43503" title="cgroup_print_ss_mask" alt="" coords="220,5,373,32"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#a12e851823c21ba6414888e1e1cbc3ec7" title="cgroup_control" alt="" coords="243,56,350,83"/>
-<area shape="rect" id="node4" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="459,5,518,32"/>
-<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#a1e6ea252c2f8c1cd0b4b1f8b81332782" title="cgroup_is_threaded" alt="" coords="421,56,556,83"/>
-<area shape="rect" id="node6" href="$cgroup_2cgroup_8c.html#aa8e9c07d7c652eb98e9053203c68b444" title="cgroup_on_dfl" alt="" coords="437,107,540,133"/>
-</map>

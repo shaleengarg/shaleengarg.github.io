@@ -1,4 +1,0 @@
-<map id="gdb_cmd_getregs" name="gdb_cmd_getregs">
-<area shape="rect" id="node2" href="$gdbstub_8c.html#a062b0afc63708e10e3f966f69f46a615" title="gdb_get_regs_helper" alt="" coords="179,5,321,32"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#a01dd3bb8c2481fec90c7ca72c3eada89" title="kgdb_mem2hex" alt="" coords="193,56,307,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="worker_pool" name="worker_pool">
-<area shape="rect" id="node2" href="$structworker.html" title="worker" alt="" coords="51,95,113,121"/>
-<area shape="rect" id="node3" href="$structpool__workqueue.html" title="pool_workqueue" alt="" coords="101,303,217,329"/>
-<area shape="rect" id="node4" href="$structworkqueue__struct.html" title="workqueue_struct" alt="" coords="98,184,223,211"/>
-<area shape="rect" id="node5" href="$structwq__flusher.html" title="wq_flusher" alt="" coords="177,95,262,121"/>
-</map>

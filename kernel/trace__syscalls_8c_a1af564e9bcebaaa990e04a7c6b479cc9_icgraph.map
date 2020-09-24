@@ -1,6 +1,0 @@
-<map id="arch_syscall_match_sym_name" name="arch_syscall_match_sym_name">
-<area shape="rect" id="node2" href="$trace__syscalls_8c.html#a767cc04d10b654a168b14ea53617fa70" title="find_syscall_meta" alt="" coords="192,13,319,39"/>
-<area shape="rect" id="node3" href="$trace__syscalls_8c.html#a89064102b5fd912a232016c13051d323" title="init_ftrace_syscalls" alt="" coords="367,13,501,39"/>
-<area shape="rect" id="node4" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="549,13,664,39"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="712,13,787,39"/>
-</map>

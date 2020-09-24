@@ -1,6 +1,0 @@
-<map id="perf_swevent_start_hrtimer" name="perf_swevent_start_hrtimer">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a89f04d0aeb6ecadef08d1af38bfd32ec" title="cpu_clock_event_start" alt="" coords="189,5,342,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a0da383eb20a7dd5884bbcb1efea01930" title="task_clock_event_start" alt="" coords="187,56,344,83"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a18bab91c6e2b50ea6182376a096d02fc" title="cpu_clock_event_add" alt="" coords="394,5,542,32"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a2c85bcfa16d8434a55ad1c6d52a61052" title="task_clock_event_add" alt="" coords="392,56,544,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="is_trap_at_addr" name="is_trap_at_addr">
-<area shape="rect" id="node2" href="$uprobes_8c.html#aa8f762c036b2cbaab936fafa5bb6003b" title="copy_from_page" alt="" coords="164,5,283,32"/>
-<area shape="rect" id="node3" href="$uprobes_8c.html#ab15feb9a7b08460b80b3be569f878195" title="is_trap_insn" alt="" coords="177,56,269,83"/>
-<area shape="rect" id="node4" href="$uprobes_8c.html#a40a362f9f7103732aa0f714bea7e5516" title="is_swbp_insn" alt="" coords="331,56,432,83"/>
-</map>

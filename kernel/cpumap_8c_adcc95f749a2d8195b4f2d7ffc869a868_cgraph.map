@@ -1,6 +1,0 @@
-<map id="__cpu_map_entry_free" name="__cpu_map_entry_free">
-<area shape="rect" id="node2" href="$cpumap_8c.html#a7c750f27dfe767b0a02044d0e752c312" title="bq_flush_to_queue" alt="" coords="211,5,341,32"/>
-<area shape="rect" id="node3" href="$cpumap_8c.html#a6869e9820ef17f05de6a9ba324b718f9" title="put_cpu_map_entry" alt="" coords="208,56,344,83"/>
-<area shape="rect" id="node4" href="$cpumap_8c.html#a1bcd2ab998a9d71a3e350a74849c972e" title="__cpu_map_queue_destructor" alt="" coords="392,31,588,57"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="465,81,515,108"/>
-</map>

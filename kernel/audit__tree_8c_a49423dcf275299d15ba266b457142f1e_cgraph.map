@@ -1,8 +1,0 @@
-<map id="audit_tree_destroy_watch" name="audit_tree_destroy_watch">
-<area shape="rect" id="node2" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="197,5,264,32"/>
-<area shape="rect" id="node3" href="$audit__tree_8c.html#a3c04e894e5d7e60152352e1a9da227dc" title="__put_chunk" alt="" coords="183,56,279,83"/>
-<area shape="rect" id="node4" href="$audit__tree_8c.html#a5357651251b520df6f739d90eb98b1ea" title="audit_put_chunk" alt="" coords="327,56,444,83"/>
-<area shape="rect" id="node5" href="$audit__tree_8c.html#a078a5de5db1ed2da2d8a19c8fc3a1ada" title="free_chunk" alt="" coords="492,56,579,83"/>
-<area shape="rect" id="node6" href="$audit__tree_8c.html#a65b26341ca90de0ed04f38725796d291" title="put_tree" alt="" coords="627,31,696,57"/>
-<area shape="rect" id="node7" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="636,81,687,108"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="kprobes_inc_nmissed_count" name="kprobes_inc_nmissed_count">
-<area shape="rect" id="node2" href="$kprobes_8c.html#af6b4e62940405f3e82737b9658a7ee5a" title="kprobe_aggrprobe" alt="" coords="201,56,327,83"/>
-<area shape="rect" id="node6" href="$kprobes_8c.html#a1074708f4c2a6f537f4c5a626a5bf315" title="NOKPROBE_SYMBOL" alt="" coords="544,107,704,133"/>
-<area shape="rect" id="node3" href="$kprobes_8c.html#a2b915a40ee56179f98198b8c3c810d98" title="aggr_pre_handler" alt="" coords="375,56,496,83"/>
-<area shape="rect" id="node4" href="$kprobes_8c.html#a98397bf7ecb003829aa98af3f2314f2d" title="set_kprobe_instance" alt="" coords="553,5,695,32"/>
-<area shape="rect" id="node5" href="$kprobes_8c.html#a33d10db68fb160a0ea758a37f1b06ef3" title="reset_kprobe_instance" alt="" coords="547,56,701,83"/>
-</map>

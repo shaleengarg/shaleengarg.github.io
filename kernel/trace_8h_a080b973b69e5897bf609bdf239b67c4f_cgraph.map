@@ -1,6 +1,0 @@
-<map id="trace_event_follow_fork" name="trace_event_follow_fork">
-<area shape="rect" id="node2" href="$trace__events_8c.html#a5b9a699d866060d5f24ddc705cc0dc9f" title="event_filter_pid_sched\l_process_fork" alt="" coords="213,5,365,47"/>
-<area shape="rect" id="node5" href="$trace__events_8c.html#a01bd7fa9cb1c6061b2927aca32009537" title="event_filter_pid_sched\l_process_exit" alt="" coords="213,71,365,112"/>
-<area shape="rect" id="node3" href="$trace_8c.html#a843ae37351495023982031b982126a96" title="trace_filter_add_remove_task" alt="" coords="413,46,607,73"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a8dfb25f9bad81ce67e2af91c462aa434" title="trace_find_filtered_pid" alt="" coords="655,46,804,73"/>
-</map>

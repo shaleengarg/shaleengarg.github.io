@@ -1,8 +1,0 @@
-<map id="check_cfg" name="check_cfg">
-<area shape="rect" id="node2" href="$verifier_8c.html#a25905f99d37ee003179dbd2bbc5f732a" title="check_subprogs" alt="" coords="136,31,253,57"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="169,81,220,108"/>
-<area shape="rect" id="node7" href="$verifier_8c.html#a382771bbda204e31b2cc44d6a264ed84" title="push_insn" alt="" coords="154,132,235,159"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#a12f8e3ef0155967c3def48a406aa3d7c" title="add_subprog" alt="" coords="301,31,397,57"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#aa1e5b9b7326aafc8ba8a57b37ceb76b9" title="find_subprog" alt="" coords="445,5,541,32"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#a27fda81aae0cedf4af52712a872ec3bb" title="cmp_subprogs" alt="" coords="589,31,696,57"/>
-</map>

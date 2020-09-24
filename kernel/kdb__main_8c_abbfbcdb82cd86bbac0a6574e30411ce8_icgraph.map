@@ -1,7 +1,0 @@
-<map id="module_param_cb" name="module_param_cb">
-<area shape="rect" id="node2" href="$workqueue_8c.html#a41b68117cdc102c77a94e9ab6d8ca596" title="workqueue_sysfs_unregister" alt="" coords="181,60,369,87"/>
-<area shape="rect" id="node3" href="$workqueue_8c.html#aba492916084f98737c12403a3b80946d" title="destroy_workqueue" alt="" coords="433,31,568,57"/>
-<area shape="rect" id="node6" href="$workqueue_8c.html#afd74260760fae088e2ab06ffb2e59a7f" title="workqueue_set_unbound\l_cpumask" alt="" coords="417,82,584,123"/>
-<area shape="rect" id="node4" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="641,5,784,32"/>
-<area shape="rect" id="node5" href="$workqueue_8c.html#a0741bc69c59f0b091f5cf6f0cc7d0aca" title="__alloc_workqueue_key" alt="" coords="632,56,793,83"/>
-</map>

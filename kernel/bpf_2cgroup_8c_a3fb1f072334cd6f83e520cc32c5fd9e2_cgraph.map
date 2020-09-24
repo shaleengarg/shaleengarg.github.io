@@ -1,7 +1,0 @@
-<map id="__cgroup_bpf_query" name="__cgroup_bpf_query">
-<area shape="rect" id="node2" href="$bpf_2core_8c.html#a8729514f5c6c61b536df5fc3e9a9bd95" title="bpf_prog_array_length" alt="" coords="192,5,343,32"/>
-<area shape="rect" id="node3" href="$bpf_2cgroup_8c.html#a9e425e7feb1742298abdca80e6621d11" title="prog_list_length" alt="" coords="211,56,324,83"/>
-<area shape="rect" id="node4" href="$bpf_2core_8c.html#a93e2e2113d9ce9cc0f1fda1170cf75bc" title="bpf_prog_array_copy\l_to_user" alt="" coords="196,107,339,149"/>
-<area shape="rect" id="node5" href="$bpf_2core_8c.html#a241632d40210f48d4365c52c1e6669a1" title="bpf_prog_array_copy_core" alt="" coords="391,89,565,116"/>
-<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="453,140,503,167"/>
-</map>

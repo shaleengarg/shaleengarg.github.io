@@ -1,5 +1,0 @@
-<map id="cgroup_print_ss_mask" name="cgroup_print_ss_mask">
-<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#a37095e00af69b363dcadff341bce0e42" title="cgroup_controllers_show" alt="" coords="221,5,387,32"/>
-<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a5eb7556824aee348af805752bb721b3b" title="cgroup_subtree_control_show" alt="" coords="207,56,401,83"/>
-<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#a4f56963aeebbf08c2fcb6f5dceccd50d" title="cgroup_threads_write" alt="" coords="449,31,596,57"/>
-</map>

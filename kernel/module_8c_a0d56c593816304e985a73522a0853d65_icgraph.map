@@ -1,6 +1,0 @@
-<map id="core_param" name="core_param">
-<area shape="rect" id="node2" href="$module_8c.html#ab957e7982cbb66a96230465bc70f53f0" title="blacklisted" alt="" coords="144,5,228,32"/>
-<area shape="rect" id="node3" href="$module_8c.html#a4493d82dfebd3c322b787a1001dcd9aa" title="layout_and_allocate" alt="" coords="276,5,413,32"/>
-<area shape="rect" id="node4" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="461,5,556,32"/>
-<area shape="rect" id="node5" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="604,5,751,32"/>
-</map>

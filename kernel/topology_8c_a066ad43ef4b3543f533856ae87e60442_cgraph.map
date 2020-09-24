@@ -1,6 +1,0 @@
-<map id="set_domain_attribute" name="set_domain_attribute">
-<area shape="rect" id="node2" href="$topology_8c.html#aa20ff3bda397bccd05750e4940e7934c" title="__sdt_free" alt="" coords="199,31,281,57"/>
-<area shape="rect" id="node5" href="$topology_8c.html#aa7cc5d8d6b4881ccc24f133a22c8765a" title="__sdt_alloc" alt="" coords="196,81,284,108"/>
-<area shape="rect" id="node3" href="$topology_8c.html#ab27bf6f0c8832e7149efe4e8172df484" title="free_sched_groups" alt="" coords="332,5,464,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="512,31,563,57"/>
-</map>

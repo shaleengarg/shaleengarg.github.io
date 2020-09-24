@@ -1,5 +1,0 @@
-<map id="ioremap_cache" name="ioremap_cache">
-<area shape="rect" id="node2" href="$memremap_8c.html#ae06fd58c13c73494faf9942c67b3ad76" title="arch_memremap_wb" alt="" coords="164,5,307,32"/>
-<area shape="rect" id="node3" href="$memremap_8c.html#a850fdc63b7722264a5a2bcba44c44115" title="memremap" alt="" coords="355,5,441,32"/>
-<area shape="rect" id="node4" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="489,5,616,32"/>
-</map>

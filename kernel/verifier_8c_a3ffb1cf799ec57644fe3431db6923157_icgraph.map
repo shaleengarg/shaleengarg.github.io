@@ -1,9 +1,0 @@
-<map id="mark_map_reg" name="mark_map_reg">
-<area shape="rect" id="node2" href="$verifier_8c.html#ae267e6da847b7b819301c400af03524a" title="mark_map_regs" alt="" coords="161,5,276,32"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#a29b995241fa2869be6fefc8a091d7628" title="check_cond_jmp_op" alt="" coords="324,5,465,32"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#a54874e8dfa3e9dca5a751350665baca6" title="do_check" alt="" coords="513,5,592,32"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="640,5,723,32"/>
-<area shape="rect" id="node6" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="771,5,873,32"/>
-<area shape="rect" id="node7" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="921,5,1068,32"/>
-<area shape="rect" id="node8" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1116,5,1263,32"/>
-</map>

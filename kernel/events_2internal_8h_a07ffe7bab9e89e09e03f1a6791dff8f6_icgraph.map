@@ -1,8 +1,0 @@
-<map id="perf_event_aux_event" name="perf_event_aux_event">
-<area shape="rect" id="node2" href="$events_2internal_8h.html#ad0d5c087fb2544d6fe7968d1b5ddda49" title="rb_has_aux" alt="" coords="231,56,320,83"/>
-<area shape="rect" id="node7" href="$events_2ring__buffer_8c.html#ad602531d674c219fbcc6dcef11ecb407" title="perf_aux_output_end" alt="" coords="204,107,347,133"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a3e2b467189aa0fed6edd62b7399793d2" title="perf_mmap_close" alt="" coords="409,5,534,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#add03503a5cd080c231eb56314590658f" title="perf_mmap" alt="" coords="428,56,515,83"/>
-<area shape="rect" id="node6" href="$events_2ring__buffer_8c.html#a53e4e8ef22a9328954fe8918b25c2b15" title="perf_aux_output_begin" alt="" coords="395,107,548,133"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="596,56,687,83"/>
-</map>

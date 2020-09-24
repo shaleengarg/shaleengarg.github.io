@@ -1,5 +1,0 @@
-<map id="release_callchain_buffers" name="release_callchain_buffers">
-<area shape="rect" id="node2" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="287,5,353,32"/>
-<area shape="rect" id="node3" href="$callchain_8c.html#af5732304c2c21240c2247aebafefa90c" title="release_callchain_buffers_rcu" alt="" coords="223,56,417,83"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="465,56,516,83"/>
-</map>

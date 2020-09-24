@@ -1,6 +1,0 @@
-<map id="cleanup_return_instances" name="cleanup_return_instances">
-<area shape="rect" id="node2" href="$uprobes_8c.html#a944518701e22f9fcf5bc02b96445070f" title="arch_uretprobe_is_alive" alt="" coords="224,5,383,32"/>
-<area shape="rect" id="node3" href="$uprobes_8c.html#a64408b724841a576f0dbf0436e236b4f" title="free_ret_instance" alt="" coords="242,56,365,83"/>
-<area shape="rect" id="node4" href="$uprobes_8c.html#a900685cc15d9532beeea168aa56d894b" title="put_uprobe" alt="" coords="431,31,517,57"/>
-<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="565,56,616,83"/>
-</map>

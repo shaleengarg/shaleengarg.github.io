@@ -1,5 +1,0 @@
-<map id="unqueue_me" name="unqueue_me">
-<area shape="rect" id="node2" href="$futex_8c.html#ac6d4108e925b9a37491a1483823286f3" title="__unqueue_futex" alt="" coords="159,5,280,32"/>
-<area shape="rect" id="node4" href="$futex_8c.html#ab989162f01e92c1b2dbc00a1782ea6b0" title="drop_futex_key_refs" alt="" coords="149,56,289,83"/>
-<area shape="rect" id="node3" href="$futex_8c.html#a2e284629c01aa481f73f411ec2aae93b" title="hb_waiters_dec" alt="" coords="337,5,451,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="__posix_timers_find" name="__posix_timers_find">
-<area shape="rect" id="node2" href="$posix-timers_8c.html#a50250f0c1a0fbb98b85b3ee970cd6d1d" title="posix_timer_by_id" alt="" coords="192,5,319,32"/>
-<area shape="rect" id="node4" href="$posix-timers_8c.html#ac01fe8e4cc171d79b1308d8cf514c16b" title="posix_timer_add" alt="" coords="197,56,314,83"/>
-<area shape="rect" id="node3" href="$posix-timers_8c.html#a564663348c8e106b0ad9d57c4eca9bde" title="__lock_timer" alt="" coords="376,5,472,32"/>
-<area shape="rect" id="node5" href="$posix-timers_8c.html#a46ce42325bfed95f4409bd66b55ab827" title="do_timer_create" alt="" coords="367,56,481,83"/>
-<area shape="rect" id="node6" href="$posix-timers_8c.html#ab346870568958fd710ff0d0a584d9c80" title="SYSCALL_DEFINE3" alt="" coords="529,56,676,83"/>
-</map>

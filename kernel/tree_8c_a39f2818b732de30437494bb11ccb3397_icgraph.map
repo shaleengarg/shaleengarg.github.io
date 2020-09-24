@@ -1,9 +1,0 @@
-<map id="_rcu_barrier_trace" name="_rcu_barrier_trace">
-<area shape="rect" id="node2" href="$tree_8c.html#a1f6f3c53ad963c31eb663d3ac2919e63" title="rcu_barrier_callback" alt="" coords="180,56,319,83"/>
-<area shape="rect" id="node3" href="$tree_8c.html#a10c5de2a5b38281499b2afc22bf4a2cf" title="rcu_barrier_func" alt="" coords="367,5,481,32"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a8c1db57030008817a5faa41dc609581e" title="_rcu_barrier" alt="" coords="529,56,620,83"/>
-<area shape="rect" id="node5" href="$tree_8c.html#af33d144e8b085271ed31bda7e9f47fb4" title="rcu_barrier_bh" alt="" coords="691,5,795,32"/>
-<area shape="rect" id="node6" href="$tree_8c.html#ad0895f3ce8d74ef2de3a8bafa2ed1baa" title="rcu_barrier_sched" alt="" coords="680,56,805,83"/>
-<area shape="rect" id="node7" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="668,107,817,149"/>
-<area shape="rect" id="node8" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="865,115,1015,141"/>
-</map>

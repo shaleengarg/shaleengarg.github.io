@@ -1,8 +1,0 @@
-<map id="free_user_ns" name="free_user_ns">
-<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="199,5,258,32"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="691,107,741,133"/>
-<area shape="rect" id="node4" href="$ucount_8c.html#aa691d295aa28acfa3a8c53e37f45ac83" title="retire_userns_sysctls" alt="" coords="355,107,501,133"/>
-<area shape="rect" id="node5" href="$user__namespace_8c.html#a398361c319ff5563b4f7155373a766ce" title="dec_user_namespaces" alt="" coords="151,157,307,184"/>
-<area shape="rect" id="node6" href="$ucount_8c.html#a748bea8153fc62832f76d542093fc716" title="dec_ucount" alt="" coords="383,157,473,184"/>
-<area shape="rect" id="node7" href="$ucount_8c.html#a9deb3ac4212106a6716b1a3cd7374347" title="put_ucounts" alt="" coords="549,157,643,184"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="write_mem_msg" name="write_mem_msg">
-<area shape="rect" id="node2" href="$gdbstub_8c.html#aaa0ddf447fb0ec49f3fb7c890ddb5d1b" title="kgdb_hex2long" alt="" coords="176,5,285,32"/>
-<area shape="rect" id="node3" href="$gdbstub_8c.html#a23fcef6a6d1dbad08b167ddf9a2976ec" title="kgdb_ebin2mem" alt="" coords="172,56,289,83"/>
-<area shape="rect" id="node4" href="$gdbstub_8c.html#aeb7bc973b0431235ee18bb273a94088f" title="kgdb_hex2mem" alt="" coords="173,107,288,133"/>
-</map>

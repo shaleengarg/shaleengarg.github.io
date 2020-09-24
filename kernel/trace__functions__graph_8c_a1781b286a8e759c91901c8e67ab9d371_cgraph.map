@@ -1,7 +1,0 @@
-<map id="ftrace_push_return_trace" name="ftrace_push_return_trace">
-<area shape="rect" id="node2" href="$trace__functions__graph_8c.html#a6d9b646a6717e9caa9b9368f7b132725" title="ftrace_graph_is_dead" alt="" coords="184,5,331,32"/>
-<area shape="rect" id="node3" href="$trace__clock_8c.html#a77c1a0a8d484effff61cfb744e5303f8" title="trace_clock_local" alt="" coords="196,56,319,83"/>
-<area shape="rect" id="node4" href="$clock_8c.html#a3b85a3e64d36aaa79e7ba455dfa0bba8" title="sched_clock" alt="" coords="417,31,512,57"/>
-<area shape="rect" id="node6" href="$trace__clock_8c.html#a8803ca4d8dce02764e38b26a025e319e" title="EXPORT_SYMBOL_GPL" alt="" coords="379,81,551,108"/>
-<area shape="rect" id="node5" href="$clock_8c.html#a7a11d6a1449352626d6dd8139d817ae5" title="EXPORT_SYMBOL_GPL" alt="" coords="599,31,771,57"/>
-</map>

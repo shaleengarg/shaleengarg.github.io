@@ -1,5 +1,0 @@
-<map id="bpf_prog_offload_compile" name="bpf_prog_offload_compile">
-<area shape="rect" id="node2" href="$offload_8c.html#a5ad84f737a3a83ce225806ea3558f2a6" title="bpf_prog_warn_on_exec" alt="" coords="230,5,393,32"/>
-<area shape="rect" id="node3" href="$offload_8c.html#ae56870e48044b2a469532c3ca99d1480" title="bpf_prog_offload_translate" alt="" coords="224,56,399,83"/>
-<area shape="rect" id="node4" href="$offload_8c.html#a190e5435871be6f1055d49e63ba890d0" title="__bpf_offload_ndo" alt="" coords="447,56,575,83"/>
-</map>

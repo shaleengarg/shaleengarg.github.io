@@ -1,7 +1,0 @@
-<map id="perf_event_update_time" name="perf_event_update_time">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a30ce570faa776d0906052ef0857a4e91" title="perf_event_time" alt="" coords="229,56,343,83"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="215,107,357,133"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a045df119c5b88712572598a3ee6698ce" title="is_cgroup_event" alt="" coords="427,5,545,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a6475bc473a7ff1231cdcbea349342d02" title="perf_cgroup_event_time" alt="" coords="405,56,567,83"/>
-<area shape="rect" id="node6" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="411,107,561,133"/>
-</map>

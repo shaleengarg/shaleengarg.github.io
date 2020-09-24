@@ -1,7 +1,0 @@
-<map id="pm_qos_dbg_open" name="pm_qos_dbg_open">
-<area shape="rect" id="node2" href="$qos_8c.html#a2bad1011696e992b826275dd05f1fe15" title="pm_qos_dbg_show_requests" alt="" coords="184,56,375,83"/>
-<area shape="rect" id="node3" href="$qos_8c.html#afa40664f2fc13d57dc0781e49f4a6158" title="pm_qos_request" alt="" coords="429,31,547,57"/>
-<area shape="rect" id="node6" href="$qos_8c.html#ae0f2ac50e43cc3af14e10084b8967513" title="pm_qos_get_value" alt="" coords="423,81,553,108"/>
-<area shape="rect" id="node4" href="$qos_8c.html#a5bb55a90a6d748e4981d8bd87120adb2" title="pm_qos_read_value" alt="" coords="618,5,757,32"/>
-<area shape="rect" id="node5" href="$qos_8c.html#ab7372e2ce4f7db6c3ca4c818c19f847a" title="EXPORT_SYMBOL_GPL" alt="" coords="601,56,773,83"/>
-</map>

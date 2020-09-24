@@ -1,4 +1,0 @@
-<map id="clockevents_register_device" name="clockevents_register_device">
-<area shape="rect" id="node2" href="$clockevents_8c.html#a80310c1aad7057bdf67052607ecd5e34" title="clockevents_config\l_and_register" alt="" coords="196,5,331,47"/>
-<area shape="rect" id="node3" href="$tick-broadcast-hrtimer_8c.html#aa60a0cc0d7d9bf81c348facf26257b50" title="tick_setup_hrtimer\l_broadcast" alt="" coords="199,71,328,112"/>
-</map>

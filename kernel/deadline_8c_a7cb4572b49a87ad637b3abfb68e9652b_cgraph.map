@@ -1,6 +1,0 @@
-<map id="add_running_bw" name="add_running_bw">
-<area shape="rect" id="node2" href="$sched_8h.html#a5ee44d204ca9aa5cfddd5f92d25527d2" title="dl_entity_is_special" alt="" coords="169,5,305,32"/>
-<area shape="rect" id="node3" href="$deadline_8c.html#aeb4af2b3358eef100e1aecc4a7e723c4" title="__add_running_bw" alt="" coords="172,56,303,83"/>
-<area shape="rect" id="node4" href="$deadline_8c.html#a8903a071089b3099e0dfb821d9a5bba9" title="rq_of_dl_rq" alt="" coords="377,31,464,57"/>
-<area shape="rect" id="node5" href="$sched_8h.html#a08f1e046d3a427e23e73e2e4d38e3439" title="cpufreq_update_util" alt="" coords="353,81,488,108"/>
-</map>

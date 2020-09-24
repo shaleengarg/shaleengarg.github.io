@@ -1,6 +1,0 @@
-<map id="rcu_barrier_bh" name="rcu_barrier_bh">
-<area shape="rect" id="node2" href="$update_8c.html#a1aa5ca78e9cb2e6de0e9a6aa2a93ee80" title="rcu_tasks_bootup_oddness" alt="" coords="157,13,339,39"/>
-<area shape="rect" id="node3" href="$update_8c.html#adf672e6570ad00e3070c7b1aa77c35dd" title="rcupdate_announce_bootup\l_oddness" alt="" coords="387,5,568,47"/>
-<area shape="rect" id="node4" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="616,5,765,47"/>
-<area shape="rect" id="node5" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="813,13,963,39"/>
-</map>

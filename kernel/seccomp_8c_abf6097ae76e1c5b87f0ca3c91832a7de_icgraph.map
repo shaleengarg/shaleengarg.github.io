@@ -1,6 +1,0 @@
-<map id="seccomp_set_mode_strict" name="seccomp_set_mode_strict">
-<area shape="rect" id="node2" href="$seccomp_8c.html#ab1e192c94d23ce8c4402f72b1a22641b" title="do_seccomp" alt="" coords="228,31,324,57"/>
-<area shape="rect" id="node3" href="$seccomp_8c.html#a9ee812f89837eb7547ee7e819d4121ad" title="SYSCALL_DEFINE3" alt="" coords="372,5,519,32"/>
-<area shape="rect" id="node4" href="$seccomp_8c.html#a3a0b85686ffc73edc19d8675f231b8ea" title="prctl_set_seccomp" alt="" coords="379,56,511,83"/>
-<area shape="rect" id="node5" href="$sys_8c.html#a5ca25d9ab2fe7976ab7f6c3688006177" title="SYSCALL_DEFINE5" alt="" coords="567,56,713,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="running_clock" name="running_clock">
-<area shape="rect" id="node2" href="$watchdog_8c.html#a650371cd2c58385d9fe1a2a807f8007b" title="lockup_detector_update\l_enable" alt="" coords="156,49,316,90"/>
-<area shape="rect" id="node3" href="$watchdog_8c.html#a476f5b8a8c40024c55da33b06d6df460" title="lockup_detector_reconfigure" alt="" coords="364,56,549,83"/>
-<area shape="rect" id="node4" href="$watchdog_8c.html#aeaa55bf82b4a14cb00aa53d52696011f" title="lockup_detector_setup" alt="" coords="597,5,751,32"/>
-<area shape="rect" id="node6" href="$watchdog_8c.html#a877b175a1729e78764622286fa85893b" title="lockup_detector_soft\l_poweroff" alt="" coords="603,57,745,98"/>
-<area shape="rect" id="node5" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="799,5,937,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="klp_update_patch_state" name="klp_update_patch_state">
-<area shape="rect" id="node2" href="$transition_8h.html#aa532d18472609f1aace525f01b80eb68" title="klp_force_transition" alt="" coords="213,5,348,32"/>
-<area shape="rect" id="node4" href="$idle_8c.html#a890be3d604d0199e50ca2f2a76bd5f61" title="do_idle" alt="" coords="249,56,312,83"/>
-<area shape="rect" id="node3" href="$livepatch_2core_8c.html#a142790ad9cfe057f92d72394a8a8a073" title="force_store" alt="" coords="416,5,503,32"/>
-<area shape="rect" id="node5" href="$idle_8c.html#a11c39327cf4ee3454919418a6d5cc68a" title="play_idle" alt="" coords="423,56,496,83"/>
-<area shape="rect" id="node6" href="$idle_8c.html#aadea56844f6dc7ded8372dca84e1641c" title="cpu_startup_entry" alt="" coords="396,107,523,133"/>
-</map>

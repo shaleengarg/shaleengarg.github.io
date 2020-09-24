@@ -1,6 +1,0 @@
-<map id="read_page" name="read_page">
-<area shape="rect" id="node2" href="$ring__buffer__benchmark_8c.html#a9a21c43d3427cd5f1e97551d1097ac68" title="ring_buffer_consumer" alt="" coords="136,13,283,39"/>
-<area shape="rect" id="node3" href="$ring__buffer__benchmark_8c.html#a169375f00e7595c1a34f32a45ecdaec2" title="ring_buffer_consumer\l_thread" alt="" coords="331,5,477,47"/>
-<area shape="rect" id="node4" href="$ring__buffer__benchmark_8c.html#acc8211c2538f3635cbcc98ed7fb9323b" title="ring_buffer_benchmark_init" alt="" coords="525,13,704,39"/>
-<area shape="rect" id="node5" href="$ring__buffer__benchmark_8c.html#a9137344d7927ced5d56e53036fbbdcb8" title="ring_buffer_benchmark_exit" alt="" coords="752,13,935,39"/>
-</map>

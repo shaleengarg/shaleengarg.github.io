@@ -1,8 +1,0 @@
-<map id="filter_build_regex" name="filter_build_regex">
-<area shape="rect" id="node2" href="$trace__events__filter_8c.html#a6eb5f9a4dd6f8b78a2e58f74eb115518" title="filter_parse_regex" alt="" coords="182,5,307,32"/>
-<area shape="rect" id="node3" href="$trace__events__filter_8c.html#ad267ec8eeb7acc16661580e7888959ee" title="regex_match_full" alt="" coords="184,56,305,83"/>
-<area shape="rect" id="node4" href="$trace__events__filter_8c.html#a2f977df8440fdc2731d57dceb54729be" title="regex_match_front" alt="" coords="179,107,310,133"/>
-<area shape="rect" id="node5" href="$trace__events__filter_8c.html#add1af24148e8e4720fc464e62911d27b" title="regex_match_middle" alt="" coords="173,157,316,184"/>
-<area shape="rect" id="node6" href="$trace__events__filter_8c.html#a71e76dac2c82b3f8c8b7f6164eb8b797" title="regex_match_end" alt="" coords="182,208,307,235"/>
-<area shape="rect" id="node7" href="$trace__events__filter_8c.html#a64a7efafea088eade3c9ecd5db64af27" title="regex_match_glob" alt="" coords="181,259,309,285"/>
-</map>

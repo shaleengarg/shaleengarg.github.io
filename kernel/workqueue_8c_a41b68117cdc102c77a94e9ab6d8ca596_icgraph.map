@@ -1,6 +1,0 @@
-<map id="workqueue_sysfs_unregister" name="workqueue_sysfs_unregister">
-<area shape="rect" id="node2" href="$workqueue_8c.html#aba492916084f98737c12403a3b80946d" title="destroy_workqueue" alt="" coords="257,31,392,57"/>
-<area shape="rect" id="node5" href="$workqueue_8c.html#afd74260760fae088e2ab06ffb2e59a7f" title="workqueue_set_unbound\l_cpumask" alt="" coords="241,82,408,123"/>
-<area shape="rect" id="node3" href="$test-ww__mutex_8c.html#a100a7d8829b71ee108168761574fd7e1" title="test_ww_mutex_exit" alt="" coords="465,5,608,32"/>
-<area shape="rect" id="node4" href="$workqueue_8c.html#a0741bc69c59f0b091f5cf6f0cc7d0aca" title="__alloc_workqueue_key" alt="" coords="456,56,617,83"/>
-</map>

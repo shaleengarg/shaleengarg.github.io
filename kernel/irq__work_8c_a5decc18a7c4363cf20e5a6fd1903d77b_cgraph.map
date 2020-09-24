@@ -1,6 +1,0 @@
-<map id="irq_work_queue_on" name="irq_work_queue_on">
-<area shape="rect" id="node2" href="$irq__work_8c.html#a15ad44b1e004fbd3998be557220fac4e" title="irq_work_claim" alt="" coords="381,5,490,32"/>
-<area shape="rect" id="node3" href="$irq__work_8c.html#a97c61c328b0408e4957486ac57d1a03b" title="irq_work_queue" alt="" coords="188,56,301,83"/>
-<area shape="rect" id="node4" href="$irq__work_8c.html#afdd50f70c4dae7339fd991caae188573" title="arch_irq_work_raise" alt="" coords="366,56,505,83"/>
-<area shape="rect" id="node5" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="349,107,521,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="umh_complete" name="umh_complete">
-<area shape="rect" id="node2" href="$completion_8c.html#acfb6d2f4414f6f8c89c6a072da7c0832" title="complete" alt="" coords="193,77,268,104"/>
-<area shape="rect" id="node7" href="$umh_8c.html#a0529852f64617c6d3254f4961c930607" title="call_usermodehelper\l_freeinfo" alt="" coords="160,129,301,170"/>
-<area shape="rect" id="node3" href="$wait_8c.html#a5a4e6acdc83574b50383adeb5e26ae3a" title="__wake_up_locked" alt="" coords="352,31,485,57"/>
-<area shape="rect" id="node6" href="$completion_8c.html#a017b15945f4ddb7ee34b7e6ee6616510" title="EXPORT_SYMBOL" alt="" coords="349,81,488,108"/>
-<area shape="rect" id="node4" href="$wait_8c.html#a4e77507431b7266b711a1c31069b96a7" title="__wake_up_common" alt="" coords="549,5,695,32"/>
-<area shape="rect" id="node5" href="$wait_8c.html#a5d762c19a34e529508b93fa52241737a" title="EXPORT_SYMBOL_GPL" alt="" coords="536,56,708,83"/>
-<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="393,136,444,163"/>
-</map>

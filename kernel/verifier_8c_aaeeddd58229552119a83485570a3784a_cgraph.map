@@ -1,9 +1,0 @@
-<map id="check_stack_boundary" name="check_stack_boundary">
-<area shape="rect" id="node2" href="$verifier_8c.html#a8d91ae36fda0b119a50286ad84fdbf31" title="func" alt="" coords="261,5,308,32"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#ab995e7bfc031d1d4c69c8793a3fe3538" title="register_is_null" alt="" coords="230,56,339,83"/>
-<area shape="rect" id="node4" href="$tnum_8c.html#a2303ce2f3df94b2f40f77577e480f423" title="tnum_strn" alt="" coords="245,107,325,133"/>
-<area shape="rect" id="node6" href="$verifier_8c.html#a6531c4ef31e319a4182cf550942ab50e" title="mark_stack_slot_read" alt="" coords="209,157,360,184"/>
-<area shape="rect" id="node8" href="$verifier_8c.html#ad22a137ff96518d1b92993c6e40b1846" title="update_stack_depth" alt="" coords="215,208,354,235"/>
-<area shape="rect" id="node5" href="$tnum_8c.html#abb42fa9b693304f4168a4b1a22a6abce" title="EXPORT_SYMBOL_GPL" alt="" coords="408,107,580,133"/>
-<area shape="rect" id="node7" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="465,157,523,184"/>
-</map>

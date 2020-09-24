@@ -1,4 +1,0 @@
-<map id="cpuset_update_task_spread_flag" name="cpuset_update_task_spread_flag">
-<area shape="rect" id="node2" href="$cpuset_8c.html#ae3396f4ef100df93b0f0d1dff40f399b" title="is_spread_page" alt="" coords="192,5,305,32"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a6e338d1b9747c991cd049f388a00dc14" title="is_spread_slab" alt="" coords="194,56,303,83"/>
-</map>

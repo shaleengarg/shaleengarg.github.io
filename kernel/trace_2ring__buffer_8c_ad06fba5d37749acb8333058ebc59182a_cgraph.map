@@ -1,7 +1,0 @@
-<map id="rb_per_cpu_empty" name="rb_per_cpu_empty">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#add0fa6256b2d6a7c98d14206bf66af53" title="rb_set_head_page" alt="" coords="183,22,311,49"/>
-<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a70c93092840a2dd3e110fe2ab5ce0c43" title="rb_page_commit" alt="" coords="187,73,306,100"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a0599940abf9a2f9e877334a72d9c37d7" title="rb_list_head" alt="" coords="527,22,619,49"/>
-<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#af87ae7dab4996bd7dd214a1239345a87" title="rb_is_head_page" alt="" coords="359,22,479,49"/>
-<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#adc4d2ae5f605ca4a9a5c8ea80c6b9a93" title="rb_inc_page" alt="" coords="373,73,465,100"/>
-</map>

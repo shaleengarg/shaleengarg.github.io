@@ -1,8 +1,0 @@
-<map id="dash2underscore" name="dash2underscore">
-<area shape="rect" id="node2" href="$params_8c.html#a820dff10fc373595c1fe28516ec34e33" title="parameqn" alt="" coords="175,5,253,32"/>
-<area shape="rect" id="node3" href="$params_8c.html#aa16c6795a98b3d07c74e9e98e758b464" title="parameq" alt="" coords="301,5,373,32"/>
-<area shape="rect" id="node4" href="$params_8c.html#ab799050f9d2c011a4bd7a7ba1ab53403" title="parse_one" alt="" coords="421,5,504,32"/>
-<area shape="rect" id="node5" href="$params_8c.html#a648f16ab90b43ae010794fd7f7cc47d5" title="parse_args" alt="" coords="552,5,639,32"/>
-<area shape="rect" id="node6" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="687,5,781,32"/>
-<area shape="rect" id="node7" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="829,5,976,32"/>
-</map>

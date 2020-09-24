@@ -1,8 +1,0 @@
-<map id="same_magic" name="same_magic">
-<area shape="rect" id="node2" href="$module_8c.html#a1f75d6d4b28d7570c752c9c1be162d63" title="try_to_force_load" alt="" coords="149,59,272,85"/>
-<area shape="rect" id="node3" href="$module_8c.html#a7acb9915078a6eb816a6d69fdd434c62" title="check_modinfo" alt="" coords="320,8,431,35"/>
-<area shape="rect" id="node7" href="$module_8c.html#a3e0ecc709780fc887fac8cec35fd7e50" title="check_module_license\l_and_versions" alt="" coords="479,57,633,98"/>
-<area shape="rect" id="node4" href="$module_8c.html#a4493d82dfebd3c322b787a1001dcd9aa" title="layout_and_allocate" alt="" coords="487,5,625,32"/>
-<area shape="rect" id="node5" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="681,35,776,61"/>
-<area shape="rect" id="node6" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="824,35,971,61"/>
-</map>

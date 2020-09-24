@@ -1,5 +1,0 @@
-<map id="rb_event_is_commit" name="rb_event_is_commit">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#afb28ae6857ec69bfc47848da5f129278" title="rb_event_index" alt="" coords="197,5,308,32"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#aaa4d1398d87e0328c4615f8f24bdefd5" title="rb_commit_index" alt="" coords="192,56,313,83"/>
-<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a70c93092840a2dd3e110fe2ab5ce0c43" title="rb_page_commit" alt="" coords="361,56,480,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="annotate_branch_stat_show" name="annotate_branch_stat_show">
-<area shape="rect" id="node2" href="$trace__branch_8c.html#a5084281b07cb038bc6c6a97de22fb17d" title="branch_stat_process_file" alt="" coords="243,5,409,32"/>
-<area shape="rect" id="node3" href="$trace__branch_8c.html#adb8c6350389e19b4f19c32863e33e79d" title="branch_stat_show_normal" alt="" coords="239,56,413,83"/>
-<area shape="rect" id="node4" href="$trace__branch_8c.html#aedd6c1dd2085e457f65aff0760c9fbc2" title="branch_stat_show" alt="" coords="461,81,589,108"/>
-<area shape="rect" id="node5" href="$trace__branch_8c.html#a83558fac5c4c4bb1ff7b0c4c5029bbd9" title="get_incorrect_percent" alt="" coords="637,81,784,108"/>
-</map>

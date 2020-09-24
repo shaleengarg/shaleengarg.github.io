@@ -1,5 +1,0 @@
-<map id="is_cpuset_online" name="is_cpuset_online">
-<area shape="rect" id="node2" href="$cpuset_8c.html#a99d5620782fa1af581db371b16dd9f99" title="cpuset_write_u64" alt="" coords="187,5,311,32"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a1a1bbb85431605d13ec8a24ee7592dd0" title="cpuset_write_s64" alt="" coords="187,56,311,83"/>
-<area shape="rect" id="node4" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="172,107,325,133"/>
-</map>

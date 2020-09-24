@@ -1,6 +1,0 @@
-<map id="rcu_eqs_enter" name="rcu_eqs_enter">
-<area shape="rect" id="node2" href="$tree_8h.html#adbfefc77ad6dd42e8bd99edaa95b8d8b" title="do_nocb_deferred_wakeup" alt="" coords="157,5,335,32"/>
-<area shape="rect" id="node3" href="$tree_8h.html#a5a32d626785494bb5f22f958206efd67" title="rcu_prepare_for_idle" alt="" coords="177,56,315,83"/>
-<area shape="rect" id="node4" href="$tree_8c.html#a596a30097277f219a53997c8fac2f217" title="rcu_dynticks_eqs_enter" alt="" coords="166,107,326,133"/>
-<area shape="rect" id="node5" href="$tree_8h.html#a12260ffec113649f83b03befd9bc815b" title="rcu_dynticks_task_enter" alt="" coords="164,157,328,184"/>
-</map>

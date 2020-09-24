@@ -1,5 +1,0 @@
-<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
-<area shape="rect" id="node2" href="$crash__core_8c.html#af04c1c2ccb5198886788cc3014aaf0f2" title="paddr_vmcoreinfo_note" alt="" coords="192,42,349,69"/>
-<area shape="rect" id="node3" href="$kexec__file_8c.html#ac592c3ba0270e9b471d1a2d5e8ca553b" title="crash_prepare_elf64\l_headers" alt="" coords="404,5,543,47"/>
-<area shape="rect" id="node4" href="$ksysfs_8c.html#ace4827a381822502ab59d8ed744f9dc5" title="uevent_seqnum_show" alt="" coords="397,71,549,98"/>
-</map>

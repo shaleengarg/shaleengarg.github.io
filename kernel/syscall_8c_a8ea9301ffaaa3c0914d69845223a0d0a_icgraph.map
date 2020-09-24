@@ -1,8 +1,0 @@
-<map id="bpf_map_new_fd" name="bpf_map_new_fd">
-<area shape="rect" id="node2" href="$inode_8c.html#a7d69088de36328d41e54bb3904cd9831" title="bpf_obj_get_user" alt="" coords="191,5,312,32"/>
-<area shape="rect" id="node6" href="$syscall_8c.html#ad4c38a11b8708a48a9bfa1734c9d4f26" title="map_create" alt="" coords="376,56,467,83"/>
-<area shape="rect" id="node7" href="$syscall_8c.html#a04e88bf8db3d0efb37c6baaa5553ca91" title="bpf_map_get_fd_by_id" alt="" coords="175,107,328,133"/>
-<area shape="rect" id="node3" href="$syscall_8c.html#a5d55317fe82c5b25f98b5e8c9c44a584" title="bpf_obj_get" alt="" coords="377,5,466,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="515,56,661,83"/>
-<area shape="rect" id="node5" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="709,56,856,83"/>
-</map>

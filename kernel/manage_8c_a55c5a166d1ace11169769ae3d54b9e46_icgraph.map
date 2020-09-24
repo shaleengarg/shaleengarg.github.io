@@ -1,9 +1,0 @@
-<map id="__disable_irq_nosync" name="__disable_irq_nosync">
-<area shape="rect" id="node2" href="$manage_8c.html#a44a93a9b16512b5b8c877bd97faa4a7e" title="disable_irq_nosync" alt="" coords="200,5,333,32"/>
-<area shape="rect" id="node3" href="$manage_8c.html#a07f44825be2cd39193fb517d67e55c32" title="disable_irq" alt="" coords="225,56,309,83"/>
-<area shape="rect" id="node8" href="$manage_8c.html#a488148804e3a68995bbd76893d98c18c" title="disable_hardirq" alt="" coords="212,107,321,133"/>
-<area shape="rect" id="node4" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="381,56,524,83"/>
-<area shape="rect" id="node5" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="572,31,755,57"/>
-<area shape="rect" id="node6" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="581,81,745,108"/>
-<area shape="rect" id="node7" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="803,81,1005,108"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="uid_hash_find" name="uid_hash_find">
-<area shape="rect" id="node2" href="$user_8c.html#a2a8860e9c2ea1e4ab05fee7244128c36" title="find_user" alt="" coords="156,56,231,83"/>
-<area shape="rect" id="node6" href="$user_8c.html#a0ddc5b5b718d3b95dea2e58adfb98c89" title="alloc_uid" alt="" coords="315,107,389,133"/>
-<area shape="rect" id="node3" href="$sys_8c.html#a4f5f49793235146288c91289c4ecdc70" title="SYSCALL_DEFINE3" alt="" coords="279,5,425,32"/>
-<area shape="rect" id="node4" href="$sys_8c.html#a93361b04c14dfc7bb0686b76b9d41d4e" title="SYSCALL_DEFINE2" alt="" coords="473,56,620,83"/>
-<area shape="rect" id="node5" href="$sys_8c.html#ab198d18311eef12b441dc6a94676cdd2" title="SYSCALL_DEFINE2" alt="" coords="668,56,815,83"/>
-</map>

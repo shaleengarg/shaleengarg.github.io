@@ -1,5 +1,0 @@
-<map id="bpf_event_entry_free_rcu" name="bpf_event_entry_free_rcu">
-<area shape="rect" id="node2" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="269,5,335,32"/>
-<area shape="rect" id="node3" href="$arraymap_8c.html#a17383380120280d7178703f5c94d8076" title="__bpf_event_entry_free" alt="" coords="223,56,381,83"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="429,56,480,83"/>
-</map>

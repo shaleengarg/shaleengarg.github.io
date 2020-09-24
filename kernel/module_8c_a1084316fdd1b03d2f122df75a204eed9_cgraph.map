@@ -1,6 +1,0 @@
-<map id="set_license" name="set_license">
-<area shape="rect" id="node2" href="$panic_8c.html#afce65f1f6177b98aace8b738f56e545a" title="test_taint" alt="" coords="313,5,389,32"/>
-<area shape="rect" id="node4" href="$module_8c.html#a9d71dddd6c258e5d4e2be241d8bc4a85" title="add_taint_module" alt="" coords="141,56,265,83"/>
-<area shape="rect" id="node3" href="$panic_8c.html#af5386e2342cddf38e1b450427d268601" title="EXPORT_SYMBOL" alt="" coords="437,31,576,57"/>
-<area shape="rect" id="node5" href="$panic_8c.html#a3f1f0ccb9e83756bad52533bf8936c98" title="add_taint" alt="" coords="314,56,389,83"/>
-</map>

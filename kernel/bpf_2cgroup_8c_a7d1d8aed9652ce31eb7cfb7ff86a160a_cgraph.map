@@ -1,4 +1,0 @@
-<map id="compute_effective_progs" name="compute_effective_progs">
-<area shape="rect" id="node2" href="$bpf_2cgroup_8c.html#a9e425e7feb1742298abdca80e6621d11" title="prog_list_length" alt="" coords="236,5,349,32"/>
-<area shape="rect" id="node3" href="$bpf_2core_8c.html#ab24d7758f8e3d1de20af081f74c31c6d" title="bpf_prog_array_alloc" alt="" coords="221,56,364,83"/>
-</map>

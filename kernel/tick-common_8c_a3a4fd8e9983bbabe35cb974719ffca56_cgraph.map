@@ -1,5 +1,0 @@
-<map id="tick_init" name="tick_init">
-<area shape="rect" id="node2" href="$tick-broadcast_8c.html#a880d2a66aa2ab023209f7c36d3e48d95" title="tick_broadcast_init" alt="" coords="120,5,251,32"/>
-<area shape="rect" id="node3" href="$tick-internal_8h.html#a475cf7ed9650fd1b49938c208f8b2d03" title="tick_nohz_init" alt="" coords="134,56,237,83"/>
-<area shape="rect" id="node4" href="$tick-internal_8h.html#ac780868a10b67b6eca20c2b544ca6e9f" title="timers_update_nohz" alt="" coords="299,56,437,83"/>
-</map>

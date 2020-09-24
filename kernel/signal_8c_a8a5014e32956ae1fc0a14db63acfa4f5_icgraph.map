@@ -1,5 +1,0 @@
-<map id="sigqueue_alloc" name="sigqueue_alloc">
-<area shape="rect" id="node2" href="$posix-timers_8c.html#a6a655747514983ec0dc7a23088487a1b" title="alloc_posix_timer" alt="" coords="161,5,284,32"/>
-<area shape="rect" id="node3" href="$posix-timers_8c.html#a46ce42325bfed95f4409bd66b55ab827" title="do_timer_create" alt="" coords="332,5,447,32"/>
-<area shape="rect" id="node4" href="$posix-timers_8c.html#ab346870568958fd710ff0d0a584d9c80" title="SYSCALL_DEFINE3" alt="" coords="495,5,641,32"/>
-</map>

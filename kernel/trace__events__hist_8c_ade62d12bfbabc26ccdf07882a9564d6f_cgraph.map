@@ -1,5 +1,0 @@
-<map id="trace_events_hist_init" name="trace_events_hist_init">
-<area shape="rect" id="node2" href="$trace_8c.html#a30de1339e62cfe0e3a95f274d42b0b97" title="tracing_init_dentry" alt="" coords="203,5,331,32"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#aee4d9cb297ffa613ffb351a2262c429d" title="fs_initcall" alt="" coords="228,56,305,83"/>
-<area shape="rect" id="node3" href="$trace_8c.html#ac64b6cba4c5ae6acb3a4c79d441a7eb5" title="trace_automount" alt="" coords="379,5,497,32"/>
-</map>

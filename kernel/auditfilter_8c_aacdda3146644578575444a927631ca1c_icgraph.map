@@ -1,6 +1,0 @@
-<map id="audit_add_rule" name="audit_add_rule">
-<area shape="rect" id="node2" href="$auditfilter_8c.html#a7c4f608d26b4d1832cb1e5b9253bb7c0" title="audit_rule_change" alt="" coords="160,5,287,32"/>
-<area shape="rect" id="node3" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="335,5,465,32"/>
-<area shape="rect" id="node4" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="513,5,612,32"/>
-<area shape="rect" id="node5" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="660,5,759,32"/>
-</map>

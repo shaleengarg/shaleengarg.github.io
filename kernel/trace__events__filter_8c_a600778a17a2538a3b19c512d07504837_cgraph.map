@@ -1,8 +1,0 @@
-<map id="append_filter_err" name="append_filter_err">
-<area shape="rect" id="node2" href="$trace__seq_8c.html#aaeef7e33e9c24b1f462ee539545435c8" title="trace_seq_puts" alt="" coords="174,5,285,32"/>
-<area shape="rect" id="node5" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="172,56,287,83"/>
-<area shape="rect" id="node6" href="$trace__seq_8c.html#adb64913da7b9a02254c4f51959c29cc9" title="trace_seq_putc" alt="" coords="174,107,285,133"/>
-<area shape="rect" id="node7" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="204,157,255,184"/>
-<area shape="rect" id="node3" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="362,31,479,57"/>
-<area shape="rect" id="node4" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="335,81,507,108"/>
-</map>

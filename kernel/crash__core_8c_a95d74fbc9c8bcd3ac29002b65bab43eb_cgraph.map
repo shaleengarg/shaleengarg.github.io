@@ -1,7 +1,0 @@
-<map id="crash_save_vmcoreinfo_init" name="crash_save_vmcoreinfo_init">
-<area shape="rect" id="node2" href="$crash__core_8c.html#ae49f645e102056f892c8390598d807f7" title="arch_crash_save_vmcoreinfo" alt="" coords="237,5,429,32"/>
-<area shape="rect" id="node3" href="$crash__core_8c.html#ae1680a1584940eca18ebc15d0e9a4f79" title="update_vmcoreinfo_note" alt="" coords="251,56,415,83"/>
-<area shape="rect" id="node6" href="$crash__core_8c.html#a798426aee70eb79647b9d48e63aaf906" title="subsys_initcall" alt="" coords="279,107,387,133"/>
-<area shape="rect" id="node4" href="$crash__core_8c.html#af548c2d88ec8d48a29e0f2255819d311" title="append_elf_note" alt="" coords="477,31,595,57"/>
-<area shape="rect" id="node5" href="$crash__core_8c.html#a8a0d5a9a953ad57e4241908eb5cdc510" title="final_note" alt="" coords="497,81,575,108"/>
-</map>

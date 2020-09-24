@@ -1,9 +1,0 @@
-<map id="top_trace_array" name="top_trace_array">
-<area shape="rect" id="node2" href="$trace__events_8c.html#a958ecbe44bdc2eb1f47222c356bd851f" title="trace_set_clr_event" alt="" coords="165,5,301,32"/>
-<area shape="rect" id="node3" href="$trace__events_8c.html#a4d92e78966e2744c541e13c7fd7e4193" title="event_trace_enable" alt="" coords="166,56,301,83"/>
-<area shape="rect" id="node4" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="349,107,464,133"/>
-<area shape="rect" id="node6" href="$trace__events_8c.html#a61ca857d188154de39aef74c5c7444fa" title="event_trace_enable\l_again" alt="" coords="166,158,301,199"/>
-<area shape="rect" id="node7" href="$trace__events_8c.html#ab9e13f2ad3fe87a4c8ec42e38e05897e" title="event_trace_init" alt="" coords="176,224,291,251"/>
-<area shape="rect" id="node8" href="$trace__kprobe_8c.html#a11ee6d0593849b421d37a8ed4b195678" title="init_kprobe_trace" alt="" coords="173,275,294,301"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="512,107,587,133"/>
-</map>

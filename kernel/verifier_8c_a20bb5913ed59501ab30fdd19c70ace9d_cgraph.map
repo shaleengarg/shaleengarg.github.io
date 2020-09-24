@@ -1,7 +1,0 @@
-<map id="__reg_combine_min_max" name="__reg_combine_min_max">
-<area shape="rect" id="node2" href="$tnum_8c.html#a66c4c03216e56bde8d1f3f52231ff2bb" title="tnum_intersect" alt="" coords="424,25,532,52"/>
-<area shape="rect" id="node3" href="$verifier_8c.html#a7cda43868a9ef52b9e7944acf7466c96" title="__update_reg_bounds" alt="" coords="225,25,375,52"/>
-<area shape="rect" id="node4" href="$verifier_8c.html#a9ef1c2240010a74551605c6e03483529" title="__reg_deduce_bounds" alt="" coords="224,76,376,103"/>
-<area shape="rect" id="node5" href="$verifier_8c.html#a459034fe51c4293130a06a1515b5553e" title="__reg_bound_offset" alt="" coords="232,127,368,153"/>
-<area shape="rect" id="node6" href="$tnum_8c.html#ae14548e3ba3ea1253f8c348e5d674ea1" title="tnum_range" alt="" coords="433,127,523,153"/>
-</map>

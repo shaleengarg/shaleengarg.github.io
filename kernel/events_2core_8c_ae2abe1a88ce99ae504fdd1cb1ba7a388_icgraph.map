@@ -1,6 +1,0 @@
-<map id="perf_swevent_cancel_hrtimer" name="perf_swevent_cancel_hrtimer">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a86663a50e82d97d7a1b06acdef774bc7" title="cpu_clock_event_stop" alt="" coords="201,5,353,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a275483eb0cdf4c20c3c8e1e8e9d60306" title="task_clock_event_stop" alt="" coords="199,56,355,83"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a1637deb740360d508d21318659891840" title="cpu_clock_event_del" alt="" coords="405,5,549,32"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a222660d3b18f7b97bff9b8e1f14a4947" title="task_clock_event_del" alt="" coords="403,56,551,83"/>
-</map>

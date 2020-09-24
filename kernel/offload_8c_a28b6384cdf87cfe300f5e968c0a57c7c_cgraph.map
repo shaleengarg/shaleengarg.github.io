@@ -1,5 +1,0 @@
-<map id="bpf_offload_orphan_all_maps" name="bpf_offload_orphan_all_maps">
-<area shape="rect" id="node2" href="$offload_8c.html#a16ae629054f1b67da3a9d27226703e96" title="__bpf_map_offload_destroy" alt="" coords="185,31,368,57"/>
-<area shape="rect" id="node3" href="$offload_8c.html#a4bd607623d9c71120d5f5ff9cf92948a" title="bpf_map_offload_ndo" alt="" coords="416,5,563,32"/>
-<area shape="rect" id="node4" href="$syscall_8c.html#a375d8713eaf88e29e05a45fcbaf4c58b" title="bpf_map_free_id" alt="" coords="430,56,549,83"/>
-</map>

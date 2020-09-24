@@ -1,7 +1,0 @@
-<map id="rcu_perf_wait_shutdown" name="rcu_perf_wait_shutdown">
-<area shape="rect" id="node2" href="$rcuperf_8c.html#a22abc317afa79be8b05c65443da8fd08" title="rcu_perf_reader" alt="" coords="216,5,328,32"/>
-<area shape="rect" id="node6" href="$rcuperf_8c.html#aa852f43cd6d3ad1a390801e306e015c2" title="rcu_perf_writer" alt="" coords="218,56,326,83"/>
-<area shape="rect" id="node3" href="$rcuperf_8c.html#af518e9eedb88d442e2921faf35b051e7" title="rcu_perf_cleanup" alt="" coords="376,31,497,57"/>
-<area shape="rect" id="node5" href="$rcuperf_8c.html#a27e8263fd39e03e707e3aa9f02b27b99" title="rcu_perf_init" alt="" coords="725,31,819,57"/>
-<area shape="rect" id="node4" href="$rcuperf_8c.html#a1fa66afae98b48e0901be627638a8b62" title="rcu_perf_shutdown" alt="" coords="545,56,677,83"/>
-</map>

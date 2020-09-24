@@ -1,5 +1,0 @@
-<map id="__irq_get_domain_generic_chip" name="__irq_get_domain_generic_chip">
-<area shape="rect" id="node2" href="$generic-chip_8c.html#adcaf1685eef5bde0e1fde8c9f4c56c18" title="irq_get_domain_generic_chip" alt="" coords="257,5,448,32"/>
-<area shape="rect" id="node4" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="279,56,427,83"/>
-<area shape="rect" id="node3" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="496,5,659,32"/>
-</map>

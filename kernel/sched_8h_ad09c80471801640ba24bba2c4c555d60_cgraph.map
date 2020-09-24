@@ -1,4 +1,0 @@
-<map id="__task_rq_lock" name="__task_rq_lock">
-<area shape="rect" id="node2" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="164,5,311,32"/>
-<area shape="rect" id="node3" href="$sched_8h.html#af4a0b63032f83e581cd267b1f1b7d63b" title="rq_pin_lock" alt="" coords="193,56,281,83"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="irq_put_desc_unlock" name="irq_put_desc_unlock">
-<area shape="rect" id="node2" href="$internals_8h.html#aaccbcdf8f4f9f591d4b37914dc359e01" title="__irq_put_desc_unlock" alt="" coords="195,5,349,32"/>
-<area shape="rect" id="node3" href="$internals_8h.html#a79bd6b0f90f4e79ee0581b35f5813676" title="chip_bus_sync_unlock" alt="" coords="397,5,552,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="alarmtimer_init" name="alarmtimer_init">
-<area shape="rect" id="node2" href="$alarmtimer_8c.html#aadfaf07ca784129bd54d2dbd0afdfebe" title="alarmtimer_rtc_timer_init" alt="" coords="160,5,325,32"/>
-<area shape="rect" id="node3" href="$alarmtimer_8c.html#a757c457d18bfb2f6a98250cf31603d26" title="alarmtimer_rtc_interface\l_setup" alt="" coords="161,57,324,98"/>
-<area shape="rect" id="node4" href="$alarmtimer_8c.html#ae047465348c109ebd7cce5069b500ba2" title="alarmtimer_rtc_interface\l_remove" alt="" coords="161,122,324,163"/>
-<area shape="rect" id="node5" href="$alarmtimer_8c.html#a4f34eb3ed70d2ef4da327514bec47091" title="device_initcall" alt="" coords="191,188,295,215"/>
-</map>

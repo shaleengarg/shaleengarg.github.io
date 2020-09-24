@@ -1,4 +1,0 @@
-<map id="delete_clock" name="delete_clock">
-<area shape="rect" id="node2" href="$posix-clock_8c.html#ab37c4e540b5bc47d21ad8ebcebf9f52f" title="posix_clock_release" alt="" coords="155,5,295,32"/>
-<area shape="rect" id="node3" href="$posix-clock_8c.html#a844ff116c42b5434189a3665ab11a982" title="posix_clock_unregister" alt="" coords="148,56,303,83"/>
-</map>

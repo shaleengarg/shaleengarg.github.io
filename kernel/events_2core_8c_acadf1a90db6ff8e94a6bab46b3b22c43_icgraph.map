@@ -1,6 +1,0 @@
-<map id="__perf_event_output_stop" name="__perf_event_output_stop">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a371a6c0ec2ca5ea0763c25846ea7ed3a" title="__perf_pmu_output_stop" alt="" coords="225,31,391,57"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#abaa54ee31b96764687367e3962877de3" title="perf_pmu_output_stop" alt="" coords="439,31,589,57"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#acf588aa29032bacae4491ce71f1dc6d6" title="perf_mmap_open" alt="" coords="639,5,761,32"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a3e2b467189aa0fed6edd62b7399793d2" title="perf_mmap_close" alt="" coords="637,56,763,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="__perf_read_group_add" name="__perf_read_group_add">
-<area shape="rect" id="node2" href="$events_2core_8c.html#a689f7c0f8567555df0d8ae16e1cdda97" title="perf_read_group" alt="" coords="211,5,325,32"/>
-<area shape="rect" id="node3" href="$events_2core_8c.html#a6ca97917905a7503652336b56520cfa5" title="__perf_read" alt="" coords="373,5,464,32"/>
-<area shape="rect" id="node4" href="$events_2core_8c.html#a88f63589b9c903ff82e933fc51d264a1" title="perf_read" alt="" coords="512,5,588,32"/>
-<area shape="rect" id="node5" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="636,5,727,32"/>
-</map>

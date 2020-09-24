@@ -1,6 +1,0 @@
-<map id="kimage_load_normal_segment" name="kimage_load_normal_segment">
-<area shape="rect" id="node2" href="$kexec__internal_8h.html#aac4ea4758702aaf8a78ef3321e10ccd0" title="kimage_load_segment" alt="" coords="195,31,347,57"/>
-<area shape="rect" id="node3" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="413,5,523,32"/>
-<area shape="rect" id="node5" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="395,56,541,83"/>
-<area shape="rect" id="node4" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="589,5,736,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="mask_irq" name="mask_irq">
-<area shape="rect" id="node2" href="$internals_8h.html#aacc952157d4a58b881c0654754187ea2" title="irq_state_set_masked" alt="" coords="128,5,279,32"/>
-<area shape="rect" id="node3" href="$internals_8h.html#aac862a1ae8de71b6ed2e9f9a92b49233" title="irqd_set" alt="" coords="327,5,395,32"/>
-</map>

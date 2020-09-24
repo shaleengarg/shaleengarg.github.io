@@ -1,6 +1,0 @@
-<map id="change_pid" name="change_pid">
-<area shape="rect" id="node2" href="$sys_8c.html#a589c32a0148fb0036ba15deb59fb3248" title="SYSCALL_DEFINE2" alt="" coords="141,5,288,32"/>
-<area shape="rect" id="node3" href="$sys_8c.html#a62accc182620caaaae396fda00af6457" title="set_special_pids" alt="" coords="155,56,274,83"/>
-<area shape="rect" id="node4" href="$sys_8c.html#a4a0a038df39475c0a03c8a5ed0aeced6" title="ksys_setsid" alt="" coords="336,56,428,83"/>
-<area shape="rect" id="node5" href="$sys_8c.html#a1dd185ebee70191591185d273c2aaffd" title="SYSCALL_DEFINE0" alt="" coords="476,56,623,83"/>
-</map>

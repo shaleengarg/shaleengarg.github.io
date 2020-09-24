@@ -1,4 +1,0 @@
-<map id="handle_early_requeue_pi_wakeup" name="handle_early_requeue_pi_wakeup">
-<area shape="rect" id="node2" href="$futex_8c.html#ab66c169070998abbb5ea79c31a13a86f" title="match_futex" alt="" coords="211,5,305,32"/>
-<area shape="rect" id="node3" href="$futex_8c.html#a2e284629c01aa481f73f411ec2aae93b" title="hb_waiters_dec" alt="" coords="201,56,315,83"/>
-</map>

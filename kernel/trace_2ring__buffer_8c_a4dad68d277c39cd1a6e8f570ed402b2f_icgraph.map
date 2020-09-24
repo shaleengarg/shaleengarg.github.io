@@ -1,6 +1,0 @@
-<map id="ring_buffer_nest_start" name="ring_buffer_nest_start">
-<area shape="rect" id="node2" href="$trace__events__hist_8c.html#ae9276b2d6d4c41de1612d864673c6b9c" title="trace_event_raw_event\l_synth" alt="" coords="201,5,359,47"/>
-<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a3fc2c7cf54f6db0948a4943913be3d4d" title="register_synth_event" alt="" coords="407,13,549,39"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="597,13,733,39"/>
-<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="781,13,916,39"/>
-</map>

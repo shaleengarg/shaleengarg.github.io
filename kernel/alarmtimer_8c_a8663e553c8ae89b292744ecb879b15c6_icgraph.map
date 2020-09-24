@@ -1,5 +1,0 @@
-<map id="alarmtimer_fired" name="alarmtimer_fired">
-<area shape="rect" id="node2" href="$alarmtimer_8c.html#a18be78d57c1283d481066dec71775efd" title="__alarm_init" alt="" coords="168,31,260,57"/>
-<area shape="rect" id="node3" href="$alarmtimer_8c.html#a3a27e8597645654377050706c549cc00" title="alarm_init" alt="" coords="308,5,387,32"/>
-<area shape="rect" id="node4" href="$alarmtimer_8c.html#af1ba12909a0451f65d5707a3c1fa6385" title="alarm_forward_now" alt="" coords="435,31,569,57"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="call_rcu_bh" name="call_rcu_bh">
-<area shape="rect" id="node2" href="$tiny_8c.html#a3f3a7fdc422d607bf946dcc18bcb36f1" title="__call_rcu" alt="" coords="187,31,268,57"/>
-<area shape="rect" id="node5" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="141,81,313,108"/>
-<area shape="rect" id="node3" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="361,5,520,32"/>
-<area shape="rect" id="node4" href="$rcu_8h.html#a9d4675b6ba4bd98d586f92991cf4964b" title="resched_cpu" alt="" coords="393,56,489,83"/>
-</map>

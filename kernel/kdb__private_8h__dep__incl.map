@@ -1,8 +1,0 @@
-<map id="debug/kdb/kdb_private.h" name="debug/kdb/kdb_private.h">
-<area shape="rect" id="node2" href="$kdb__bp_8c.html" title="debug/kdb/kdb_bp.c" alt="" coords="5,80,144,107"/>
-<area shape="rect" id="node3" href="$kdb__bt_8c.html" title="debug/kdb/kdb_bt.c" alt="" coords="168,80,304,107"/>
-<area shape="rect" id="node4" href="$kdb__debugger_8c.html" title="debug/kdb/kdb_debugger.c" alt="" coords="328,80,507,107"/>
-<area shape="rect" id="node5" href="$kdb__io_8c.html" title="debug/kdb/kdb_io.c" alt="" coords="531,80,666,107"/>
-<area shape="rect" id="node6" href="$kdb__main_8c.html" title="debug/kdb/kdb_main.c" alt="" coords="690,80,843,107"/>
-<area shape="rect" id="node7" href="$kdb__support_8c.html" title="debug/kdb/kdb_support.c" alt="" coords="868,80,1036,107"/>
-</map>

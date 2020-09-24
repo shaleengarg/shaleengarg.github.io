@@ -1,8 +1,0 @@
-<map id="rb_set_commit_to_write" name="rb_set_commit_to_write">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a9e5e48dc87de0ae05a3b8a1cb44517fb" title="rb_is_reader_page" alt="" coords="215,5,343,32"/>
-<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a09a7513c284fbf7ec269f4756a77c0ce" title="rb_page_write" alt="" coords="227,56,330,83"/>
-<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#adc4d2ae5f605ca4a9a5c8ea80c6b9a93" title="rb_inc_page" alt="" coords="233,107,325,133"/>
-<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#aaa4d1398d87e0328c4615f8f24bdefd5" title="rb_commit_index" alt="" coords="218,157,339,184"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a0599940abf9a2f9e877334a72d9c37d7" title="rb_list_head" alt="" coords="404,56,496,83"/>
-<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#a70c93092840a2dd3e110fe2ab5ce0c43" title="rb_page_commit" alt="" coords="391,157,509,184"/>
-</map>

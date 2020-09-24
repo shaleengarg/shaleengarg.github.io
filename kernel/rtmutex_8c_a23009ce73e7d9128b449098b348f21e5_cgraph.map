@@ -1,4 +1,0 @@
-<map id="rt_mutex_adjust_prio" name="rt_mutex_adjust_prio">
-<area shape="rect" id="node2" href="$rtmutex__common_8h.html#a289583dff677e8d6d247a7acba128b8c" title="task_has_pi_waiters" alt="" coords="196,5,337,32"/>
-<area shape="rect" id="node3" href="$rtmutex__common_8h.html#a4b1cf29b2057cfd22f50317162b43d3a" title="task_top_pi_waiter" alt="" coords="201,56,332,83"/>
-</map>

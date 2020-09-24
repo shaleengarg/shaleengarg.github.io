@@ -1,7 +1,0 @@
-<map id="audit_to_entry_common" name="audit_to_entry_common">
-<area shape="rect" id="node2" href="$auditfilter_8c.html#ab64c4c18ab5ec07645863dae5c33f6f9" title="audit_data_to_entry" alt="" coords="215,5,351,32"/>
-<area shape="rect" id="node3" href="$auditfilter_8c.html#a7c4f608d26b4d1832cb1e5b9253bb7c0" title="audit_rule_change" alt="" coords="399,5,525,32"/>
-<area shape="rect" id="node4" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="573,5,704,32"/>
-<area shape="rect" id="node5" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="752,5,851,32"/>
-<area shape="rect" id="node6" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="899,5,997,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="mmio_reset_data" name="mmio_reset_data">
-<area shape="rect" id="node2" href="$trace__mmiotrace_8c.html#a61cdac9fabba7c03fad70a853dc812fb" title="mmio_trace_init" alt="" coords="182,5,297,32"/>
-<area shape="rect" id="node3" href="$trace__mmiotrace_8c.html#afea0606bdcf05cb9292cb75f6aa96f03" title="mmio_trace_reset" alt="" coords="176,56,303,83"/>
-<area shape="rect" id="node4" href="$trace__mmiotrace_8c.html#adbedcad8fe8ed9a011571f6aa6121603" title="mmio_trace_start" alt="" coords="178,107,301,133"/>
-</map>

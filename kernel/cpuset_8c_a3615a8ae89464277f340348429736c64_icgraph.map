@@ -1,6 +1,0 @@
-<map id="fmeter_update" name="fmeter_update">
-<area shape="rect" id="node2" href="$cpuset_8c.html#a58085ca0c82f8da586c5b0cafb02c199" title="fmeter_markevent" alt="" coords="159,5,285,32"/>
-<area shape="rect" id="node4" href="$cpuset_8c.html#a6c21f704953211b90af19394b99a4852" title="fmeter_getrate" alt="" coords="169,56,275,83"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#a9145bf8785ad00c89d37a253bd06c8c3" title="__cpuset_memory_pressure_bump" alt="" coords="333,5,559,32"/>
-<area shape="rect" id="node5" href="$cpuset_8c.html#a99fe05672d7eebc86447be55d715e678" title="cpuset_read_u64" alt="" coords="385,56,507,83"/>
-</map>

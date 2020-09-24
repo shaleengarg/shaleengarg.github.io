@@ -1,8 +1,0 @@
-<map id="irq_modify_status" name="irq_modify_status">
-<area shape="rect" id="node2" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="188,5,336,32"/>
-<area shape="rect" id="node3" href="$generic-chip_8c.html#acf6005b44e179423cf3c659ffce89064" title="irq_setup_generic_chip" alt="" coords="185,56,339,83"/>
-<area shape="rect" id="node5" href="$generic-chip_8c.html#abd0fd31c25d95df4b133a55750e4ab4b" title="irq_remove_generic_chip" alt="" coords="179,107,345,133"/>
-<area shape="rect" id="node6" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="218,157,306,184"/>
-<area shape="rect" id="node4" href="$devres_8c.html#a5fc99d8751dd9c3077992b4ac4ae697f" title="__devm_irq_alloc_descs" alt="" coords="393,81,559,108"/>
-<area shape="rect" id="node7" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="413,157,539,184"/>
-</map>

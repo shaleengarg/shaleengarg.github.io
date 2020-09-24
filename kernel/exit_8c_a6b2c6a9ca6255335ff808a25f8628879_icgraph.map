@@ -1,5 +1,0 @@
-<map id="abort" name="abort">
-<area shape="rect" id="node2" href="$resource_8c.html#a96d97512b298028228f9c587b832f02c" title="reserve_region_with\l_split" alt="" coords="104,5,243,47"/>
-<area shape="rect" id="node3" href="$fair_8c.html#a86ac17127919c059011154d69a5d0bc9" title="yield_to_task_fair" alt="" coords="111,71,235,98"/>
-<area shape="rect" id="node4" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="291,71,420,98"/>
-</map>

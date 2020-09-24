@@ -1,6 +1,0 @@
-<map id="rb_inc_iter" name="rb_inc_iter">
-<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#add0fa6256b2d6a7c98d14206bf66af53" title="rb_set_head_page" alt="" coords="136,22,264,49"/>
-<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#adc4d2ae5f605ca4a9a5c8ea80c6b9a93" title="rb_inc_page" alt="" coords="326,73,418,100"/>
-<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a0599940abf9a2f9e877334a72d9c37d7" title="rb_list_head" alt="" coords="480,22,572,49"/>
-<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#af87ae7dab4996bd7dd214a1239345a87" title="rb_is_head_page" alt="" coords="312,22,432,49"/>
-</map>

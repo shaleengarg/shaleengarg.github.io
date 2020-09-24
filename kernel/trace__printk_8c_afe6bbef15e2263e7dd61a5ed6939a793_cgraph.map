@@ -1,5 +1,0 @@
-<map id="t_start" name="t_start">
-<area shape="rect" id="node2" href="$trace__printk_8c.html#a5b8d11dc967d5d81a2129a0c07b630d2" title="format_mod_start" alt="" coords="112,5,236,32"/>
-<area shape="rect" id="node3" href="$trace__printk_8c.html#ab4632df04d7eca2030d7400b4cba11c2" title="find_next" alt="" coords="137,56,211,83"/>
-<area shape="rect" id="node4" href="$trace__printk_8c.html#a6856b36b9e78829ad3e9232c22303c6e" title="find_next_mod_format" alt="" coords="284,56,435,83"/>
-</map>

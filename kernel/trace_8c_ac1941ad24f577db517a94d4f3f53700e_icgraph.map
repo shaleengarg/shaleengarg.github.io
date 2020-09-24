@@ -1,6 +1,0 @@
-<map id="trace_insert_eval_map_file" name="trace_insert_eval_map_file">
-<area shape="rect" id="node2" href="$trace_8c.html#a9742494972b5e3ab95c540cc696a1961" title="trace_insert_eval_map" alt="" coords="231,5,384,32"/>
-<area shape="rect" id="node3" href="$trace_8c.html#adde2e0577dd999e655a6ede9cdceabb4" title="trace_eval_init" alt="" coords="432,5,539,32"/>
-<area shape="rect" id="node4" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="587,5,713,32"/>
-<area shape="rect" id="node5" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="761,5,884,32"/>
-</map>

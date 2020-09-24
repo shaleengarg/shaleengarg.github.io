@@ -1,7 +1,0 @@
-<map id="lat_print_timestamp" name="lat_print_timestamp">
-<area shape="rect" id="node2" href="$trace_8c.html#a776cb111dc073b6351b3446023734132" title="ns2usecs" alt="" coords="207,5,286,32"/>
-<area shape="rect" id="node3" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="189,56,304,83"/>
-<area shape="rect" id="node6" href="$trace__output_8c.html#a0a2c88c7ecccb1ad3116610a6e61e802" title="trace_find_mark" alt="" coords="189,107,304,133"/>
-<area shape="rect" id="node4" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="379,31,497,57"/>
-<area shape="rect" id="node5" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="352,81,524,108"/>
-</map>

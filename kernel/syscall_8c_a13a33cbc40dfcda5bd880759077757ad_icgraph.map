@@ -1,8 +1,0 @@
-<map id="bpf_prog_inc_not_zero" name="bpf_prog_inc_not_zero">
-<area shape="rect" id="node2" href="$sockmap_8c.html#a57308ddf5a78f22d647cd9aa7f18b088" title="sock_map_ctx_update_elem" alt="" coords="207,56,395,83"/>
-<area shape="rect" id="node5" href="$syscall_8c.html#a7cccd9b7b4c51618255d19391073843c" title="bpf_prog_get_fd_by_id" alt="" coords="224,107,377,133"/>
-<area shape="rect" id="node3" href="$sockmap_8c.html#a7000682ff177d0193dd519124247222a" title="sock_map_update_elem" alt="" coords="443,5,605,32"/>
-<area shape="rect" id="node4" href="$sockmap_8c.html#af5dec87a04d3a1af52c942692bb83d93" title="BPF_CALL_4" alt="" coords="473,56,575,83"/>
-<area shape="rect" id="node6" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="451,107,597,133"/>
-<area shape="rect" id="node7" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="653,107,800,133"/>
-</map>

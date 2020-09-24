@@ -1,7 +1,0 @@
-<map id="cpuset_update_task_spread_flag" name="cpuset_update_task_spread_flag">
-<area shape="rect" id="node2" href="$cpuset_8c.html#ac96446d0173c320e946ffbdb33f9984b" title="update_tasks_flags" alt="" coords="192,31,327,57"/>
-<area shape="rect" id="node6" href="$cpuset_8c.html#ae2875ff4e54ef4dd0ffc69141497a5b1" title="cpuset_attach" alt="" coords="207,81,311,108"/>
-<area shape="rect" id="node3" href="$cpuset_8c.html#acb225579e687c077cd067982b5fc2d7e" title="update_flag" alt="" coords="375,31,464,57"/>
-<area shape="rect" id="node4" href="$cpuset_8c.html#a99d5620782fa1af581db371b16dd9f99" title="cpuset_write_u64" alt="" coords="515,5,639,32"/>
-<area shape="rect" id="node5" href="$cpuset_8c.html#ad2ebbb81b7610ba8719949c94014da14" title="cpuset_css_offline" alt="" coords="512,56,643,83"/>
-</map>

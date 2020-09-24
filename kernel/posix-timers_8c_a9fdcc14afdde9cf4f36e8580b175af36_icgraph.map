@@ -1,4 +1,0 @@
-<map id="common_timer_get" name="common_timer_get">
-<area shape="rect" id="node2" href="$alarmtimer_8c.html#af1ba12909a0451f65d5707a3c1fa6385" title="alarm_forward_now" alt="" coords="368,5,503,32"/>
-<area shape="rect" id="node3" href="$posix-timers_8h.html#a21d10bf921120775bbb47b9fd29c7db2" title="common_timer_set" alt="" coords="187,31,320,57"/>
-</map>

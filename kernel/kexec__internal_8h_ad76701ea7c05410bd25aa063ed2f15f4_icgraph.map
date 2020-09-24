@@ -1,7 +1,0 @@
-<map id="sanity_check_segment_list" name="sanity_check_segment_list">
-<area shape="rect" id="node2" href="$kexec_8c.html#a5189eadbeba1a3312545cd9846302fb2" title="kimage_alloc_init" alt="" coords="245,5,368,32"/>
-<area shape="rect" id="node5" href="$kexec__file_8c.html#ac5abb95d8a56854dcfbe644ace797367" title="kimage_file_alloc_init" alt="" coords="233,56,380,83"/>
-<area shape="rect" id="node3" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="447,5,556,32"/>
-<area shape="rect" id="node4" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="623,5,769,32"/>
-<area shape="rect" id="node6" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="428,56,575,83"/>
-</map>

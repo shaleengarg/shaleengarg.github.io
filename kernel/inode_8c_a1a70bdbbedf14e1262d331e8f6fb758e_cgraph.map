@@ -1,5 +1,0 @@
-<map id="bpf_mkmap" name="bpf_mkmap">
-<area shape="rect" id="node2" href="$inode_8c.html#a0ef1045861f5af15ae7a7685cbc822e5" title="bpf_mkobj_ops" alt="" coords="144,31,255,57"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a9b092d07f8d9093a5faf5038ccd16945" title="bpf_get_inode" alt="" coords="317,5,419,32"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a40773162eb1d169c2f235b160b6257ff" title="bpf_dentry_finalize" alt="" coords="303,56,433,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="nanosleep_copyout" name="nanosleep_copyout">
-<area shape="rect" id="node2" href="$compat_8c.html#acc697a828ac724ce9d14290700943323" title="compat_put_timespec64" alt="" coords="188,56,352,83"/>
-<area shape="rect" id="node5" href="$time_8c.html#a792e6a977fa17230cd16043b3e8dfced" title="put_timespec64" alt="" coords="213,107,327,133"/>
-<area shape="rect" id="node3" href="$compat_8c.html#a3d8981c07bca55c9755b0f833c5d76a1" title="__compat_put_timespec64" alt="" coords="400,5,579,32"/>
-<area shape="rect" id="node4" href="$compat_8c.html#af35d5a6db42a72265f2b451d11b732ab" title="EXPORT_SYMBOL_GPL" alt="" coords="403,56,575,83"/>
-<area shape="rect" id="node6" href="$time_8c.html#a2b16ed65b097d937eac34aa0863615b1" title="EXPORT_SYMBOL_GPL" alt="" coords="403,107,575,133"/>
-</map>

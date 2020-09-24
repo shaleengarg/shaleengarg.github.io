@@ -1,6 +1,0 @@
-<map id="hist_trigger_elt_update" name="hist_trigger_elt_update">
-<area shape="rect" id="node2" href="$tracing__map_8c.html#a8c0c9efa41d688d3a17e8673b72a3a9d" title="tracing_map_set_var" alt="" coords="612,23,755,50"/>
-<area shape="rect" id="node3" href="$tracing__map_8c.html#a432dfc503a5f21ee833216aaff3f1729" title="tracing_map_update_sum" alt="" coords="207,23,377,50"/>
-<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a26519b806427357960b6236ee8787b9b" title="update_field_vars" alt="" coords="230,74,354,101"/>
-<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a3abcb2e8aab06809d5d39f33ad24e465" title="__update_field_vars" alt="" coords="425,49,564,75"/>
-</map>

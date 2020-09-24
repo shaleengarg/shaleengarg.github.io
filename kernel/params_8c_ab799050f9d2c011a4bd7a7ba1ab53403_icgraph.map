@@ -1,5 +1,0 @@
-<map id="parse_one" name="parse_one">
-<area shape="rect" id="node2" href="$params_8c.html#a648f16ab90b43ae010794fd7f7cc47d5" title="parse_args" alt="" coords="136,5,223,32"/>
-<area shape="rect" id="node3" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="271,5,365,32"/>
-<area shape="rect" id="node4" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="413,5,560,32"/>
-</map>

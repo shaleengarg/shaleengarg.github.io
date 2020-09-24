@@ -1,4 +1,0 @@
-<map id="pv_hash" name="pv_hash">
-<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#a5cf565176bd20fe6e4cac2a5554020a2" title="pv_kick_node" alt="" coords="148,5,251,32"/>
-<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#ad97b24553f7540461c01a680018587e5" title="pv_wait_head_or_lock" alt="" coords="124,56,275,83"/>
-</map>
