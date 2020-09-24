@@ -1,0 +1,6 @@
+<map id="fscache_attach_object" name="fscache_attach_object">
+<area shape="rect" id="node2" href="$cookie_8c.html#a43f4e2fbdfcfacee967facce64af69db" title="fscache_alloc_object" alt="" coords="207,31,351,57"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#ab8b048589dc56beec310015af6248c92" title="fscache_acquire_non\l_index_cookie" alt="" coords="399,23,544,65"/>
+<area shape="rect" id="node4" href="$cookie_8c.html#a4094b7dcd83b3bd5223354789906f46d" title="__fscache_acquire_cookie" alt="" coords="592,5,768,32"/>
+<area shape="rect" id="node5" href="$cookie_8c.html#a5606e2846fa097ecf60b71f666e08b9f" title="__fscache_enable_cookie" alt="" coords="594,56,766,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nfsd4_encode_stateid" name="nfsd4_encode_stateid">
+<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a7f2681f27ad9387d0155e2ecb5956637" title="nfsd4_encode_close" alt="" coords="236,5,377,32"/>
+<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a66e47d5eb38001b69ce2a03f177b70f6" title="nfsd4_encode_lock" alt="" coords="239,56,374,83"/>
+<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a83bf39ddc616d30f0c315789a9f09117" title="nfsd4_encode_locku" alt="" coords="236,107,377,133"/>
+<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#ae45d00bfa7b7a01bf09a5bb70881dc51" title="nfsd4_encode_open" alt="" coords="237,157,376,184"/>
+<area shape="rect" id="node6" href="$_2nfs4xdr_8c.html#ad8bb69e10b1b26da8e17d4dda5407470" title="nfsd4_encode_open_confirm" alt="" coords="213,208,401,235"/>
+<area shape="rect" id="node7" href="$_2nfs4xdr_8c.html#a350d2156615958dbff3a745ba46ee977" title="nfsd4_encode_open_downgrade" alt="" coords="203,259,411,285"/>
+<area shape="rect" id="node8" href="$_2nfs4xdr_8c.html#a449fa2ea0989a8ce15428ccf584d1827" title="nfsd4_encode_test_stateid" alt="" coords="217,309,396,336"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="find_unconfirmed_client" name="find_unconfirmed_client">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a14a8b23e149bd273205672d0361beffe" title="find_client_in_id_table" alt="" coords="212,56,363,83"/>
+<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a15f93c5de724bb57aabcdc3690c877c1" title="clientid_hashval" alt="" coords="423,5,538,32"/>
+<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a1a39e84278738642ed631ca0f01e85d4" title="same_clid" alt="" coords="440,56,521,83"/>
+<area shape="rect" id="node5" href="$_2nfs4state_8c.html#adb3869994df601ea6064a7eaf7952ed1" title="renew_client_locked" alt="" coords="411,107,551,133"/>
+<area shape="rect" id="node6" href="$_2nfs4state_8c.html#ae666db7dbdd46d29028e800d5996df93" title="is_client_expired" alt="" coords="599,107,717,133"/>
+</map>

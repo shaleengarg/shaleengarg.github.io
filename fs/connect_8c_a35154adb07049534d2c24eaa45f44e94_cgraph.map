@@ -1,0 +1,4 @@
+<map id="allocate_buffers" name="allocate_buffers">
+<area shape="rect" id="node2" href="$cifsproto_8h.html#a421f9dd23d0dce2d3fe65656d290db95" title="cifs_buf_get" alt="" coords="187,5,280,32"/>
+<area shape="rect" id="node3" href="$cifsproto_8h.html#a2b2d8198b3e30f704a0b04abf54d1d7d" title="cifs_small_buf_get" alt="" coords="168,56,299,83"/>
+</map>

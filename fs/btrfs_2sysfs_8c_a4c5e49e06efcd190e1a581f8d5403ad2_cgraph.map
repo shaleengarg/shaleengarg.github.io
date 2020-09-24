@@ -1,0 +1,6 @@
+<map id="btrfs_label_store" name="btrfs_label_store">
+<area shape="rect" id="node2" href="$btrfs_2sysfs_8c.html#a2fec551aff30570ac703c4cfd20780c2" title="to_fs_info" alt="" coords="359,23,437,50"/>
+<area shape="rect" id="node4" href="$btrfs_2sysfs_8c.html#ac649c38b7b579d4890f521675476a958" title="BTRFS_ATTR_RW" alt="" coords="172,23,311,50"/>
+<area shape="rect" id="node5" href="$btrfs_2sysfs_8c.html#adaf1f0607eaf61622fdee9fc131295b0" title="btrfs_label_show" alt="" coords="181,74,301,101"/>
+<area shape="rect" id="node3" href="$btrfs_2sysfs_8c.html#a6e6b9402cebc5c178968774b993e1647" title="to_fs_devs" alt="" coords="485,23,572,50"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="cifs_get_volume_info" name="cifs_get_volume_info">
+<area shape="rect" id="node2" href="$connect_8c.html#a13047896520f48e8260e5a17badb4016" title="cifs_setup_volume_info" alt="" coords="419,461,577,488"/>
+<area shape="rect" id="node22" href="$connect_8c.html#ae6489db393563c4b3def469e96225dbb" title="cifs_cleanup_volume_info" alt="" coords="199,781,371,808"/>
+<area shape="rect" id="node3" href="$connect_8c.html#a020e05bcdb714dd5e81b134393f7024b" title="cifs_parse_mount_options" alt="" coords="625,461,800,488"/>
+<area shape="rect" id="node15" href="$nls__base_8c.html#a2d5e9559861592a7770f4135c94f0b50" title="load_nls_default" alt="" coords="655,132,771,159"/>
+<area shape="rect" id="node16" href="$nls__base_8c.html#ad48e92e3db22a2d23eb44c6533736260" title="load_nls" alt="" coords="894,208,965,235"/>
+<area shape="rect" id="node4" href="$connect_8c.html#a7c78710f0d492bffa788f0f4d80b1b0e" title="cifs_parse_devname" alt="" coords="858,629,1001,656"/>
+<area shape="rect" id="node6" href="$connect_8c.html#a45b77bea561bb5a2d5772bb71ffbbb48" title="get_option_uid" alt="" coords="876,360,983,387"/>
+<area shape="rect" id="node7" href="$connect_8c.html#ae956d5bceeb5bf6761cc0f8c3e132f1e" title="get_option_ul" alt="" coords="1070,411,1169,437"/>
+<area shape="rect" id="node8" href="$connect_8c.html#a7b9ac19c46c37e2fa81922b8f1d46239" title="get_option_gid" alt="" coords="876,411,983,437"/>
+<area shape="rect" id="node9" href="$cifsproto_8h.html#ae420557350e0ccc46ede2c07a143eb61" title="cifs_convert_address" alt="" coords="856,680,1003,707"/>
+<area shape="rect" id="node11" href="$connect_8c.html#acbe55054151804eff25f0948cf578ae6" title="cifs_parse_smb_version" alt="" coords="848,512,1011,539"/>
+<area shape="rect" id="node12" href="$connect_8c.html#a94656ac9892c434653c40f416086d4fd" title="cifs_parse_security\l_flavors" alt="" coords="862,563,997,605"/>
+<area shape="rect" id="node13" href="$connect_8c.html#a92583223864596210f7437844c3a9f31" title="cifs_parse_cache_flavor" alt="" coords="848,259,1011,285"/>
+<area shape="rect" id="node14" href="$cifsproto_8h.html#adffdd52fe2eb45d43ad05ec71e90a763" title="cifs_set_port" alt="" coords="881,309,978,336"/>
+<area shape="rect" id="node5" href="$cifsglob_8h.html#a1925d20ef401de17afcccd7c9e9bc459" title="convert_delimiter" alt="" coords="1059,731,1180,757"/>
+<area shape="rect" id="node10" href="$netmisc_8c.html#a5868a908d730156dd64e68cc8d4f02f2" title="cifs_inet_pton" alt="" coords="1068,680,1171,707"/>
+<area shape="rect" id="node18" href="$nls__base_8c.html#a2c440fcf315dd54d6ae38a741aa24d74" title="EXPORT_SYMBOL" alt="" coords="860,5,999,32"/>
+<area shape="rect" id="node19" href="$nls__base_8c.html#a168a87828ea93c6a510f0192111dbcd9" title="unregister_nls" alt="" coords="878,56,981,83"/>
+<area shape="rect" id="node20" href="$nls__base_8c.html#a385f84f3a124e30fcbdd85d9d9daf51b" title="unload_nls" alt="" coords="887,107,971,133"/>
+<area shape="rect" id="node21" href="$nls__base_8c.html#a5c95e2cd11cba226f5f3513060a8928e" title="MODULE_LICENSE" alt="" coords="857,157,1001,184"/>
+<area shape="rect" id="node17" href="$nls__base_8c.html#ad7f64e1860c100115349d8d361e6823f" title="find_nls" alt="" coords="1086,208,1153,235"/>
+<area shape="rect" id="node23" href="$connect_8c.html#ae7d41409d6c05b47d38c588698152fd4" title="cleanup_volume_info\l_contents" alt="" coords="426,883,570,925"/>
+<area shape="rect" id="node24" href="$cifsglob_8h.html#a16e5916e13fb3cc49bb2d8a5cd2fc950" title="CIFS_DIR_SEP" alt="" coords="439,949,557,976"/>
+<area shape="rect" id="node25" href="$connect_8c.html#a4aaa0cbd143f38d7ee6e4046d2547ede" title="get_dfs_path" alt="" coords="449,1000,547,1027"/>
+<area shape="rect" id="node28" href="$cifs__unicode_8c.html#a132fb76843dcb9c2a3565b0b8822d185" title="cifs_remap" alt="" coords="455,664,541,691"/>
+<area shape="rect" id="node29" href="$cifs__dfs__ref_8c.html#ad0e36ac2c9fe6f720559712ffe2635de" title="cifs_compose_mount\l_options" alt="" coords="425,715,571,757"/>
+<area shape="rect" id="node32" href="$cifsglob_8h.html#abfc2f6ac09503f84bfcfdb5e6d72ac52" title="free_dfs_info_array" alt="" coords="431,832,565,859"/>
+<area shape="rect" id="node26" href="$connect_8c.html#a1fde2ed349052c0934b8dd7c613d1571" title="cifs_reclassify_socket4" alt="" coords="633,975,792,1001"/>
+<area shape="rect" id="node27" href="$connect_8c.html#a4a66080f2015acd1f08f3e2c02b8f47d" title="cifs_reclassify_socket6" alt="" coords="633,1025,792,1052"/>
+<area shape="rect" id="node30" href="$cifs__dfs__ref_8c.html#ae716b5c0501680dabbd7b89c4244ccb2" title="cifs_build_devname" alt="" coords="644,731,781,757"/>
+<area shape="rect" id="node31" href="$cifs_2dns__resolve_8c.html#a56be7ea6954d45b7a542221f2399997b" title="dns_resolve_server\l_name_to_ip" alt="" coords="645,665,780,706"/>
+</map>

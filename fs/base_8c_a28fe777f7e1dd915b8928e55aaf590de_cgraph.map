@@ -1,0 +1,17 @@
+<map id="comm_open" name="comm_open">
+<area shape="rect" id="node2" href="$seq__file_8c.html#ab3a6519a4d5861d03e50dcfe45dd844b" title="single_open" alt="" coords="297,132,388,159"/>
+<area shape="rect" id="node8" href="$base_8c.html#a312829d2aea65a19f3c90825958584a6" title="comm_show" alt="" coords="147,296,243,323"/>
+<area shape="rect" id="node3" href="$seq__file_8c.html#a99128ee39287dc7549a0694e9bd9faa7" title="single_start" alt="" coords="462,5,551,32"/>
+<area shape="rect" id="node4" href="$seq__file_8c.html#af1ac0c5a4d6d872159a159395200e249" title="single_next" alt="" coords="463,56,551,83"/>
+<area shape="rect" id="node5" href="$seq__file_8c.html#a35dac4cdc01c76c54133be8e986f796f" title="single_stop" alt="" coords="463,107,551,133"/>
+<area shape="rect" id="node6" href="$seq__file_8c.html#ab724d0b6f14722c374b1933b66c913d1" title="seq_open" alt="" coords="467,157,546,184"/>
+<area shape="rect" id="node7" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="619,233,757,260"/>
+<area shape="rect" id="node9" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="291,372,395,399"/>
+<area shape="rect" id="node14" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="303,296,382,323"/>
+<area shape="rect" id="node10" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="471,461,542,488"/>
+<area shape="rect" id="node12" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="443,360,571,387"/>
+<area shape="rect" id="node13" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="460,411,553,437"/>
+<area shape="rect" id="node11" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="652,461,724,488"/>
+<area shape="rect" id="node15" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="463,309,550,336"/>
+<area shape="rect" id="node16" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="626,309,750,336"/>
+</map>

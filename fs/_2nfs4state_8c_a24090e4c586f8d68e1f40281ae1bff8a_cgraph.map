@@ -1,0 +1,5 @@
+<map id="nfsd4_store_cache_entry" name="nfsd4_store_cache_entry">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#ab2b79c30202a6e55edd25b8f090ee6da" title="copy_cred" alt="" coords="242,5,325,32"/>
+<area shape="rect" id="node3" href="$xdr4_8h.html#a2aa5e562a98a3b81beda71f3061a8dd2" title="nfsd4_cache_this" alt="" coords="221,56,345,83"/>
+<area shape="rect" id="node4" href="$xdr4_8h.html#afc4be7be2956af6700660fae92448876" title="nfsd4_is_solo_sequence" alt="" coords="393,56,559,83"/>
+</map>

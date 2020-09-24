@@ -1,0 +1,16 @@
+<map id="btrfs_free_dummy_root" name="btrfs_free_dummy_root">
+<area shape="rect" id="node2" href="$extent-buffer-tests_8c.html#a93782dcacfd18a444e234b01e0c77330" title="test_btrfs_split_item" alt="" coords="218,10,358,37"/>
+<area shape="rect" id="node7" href="$free-space-tests_8c.html#a08163474782046074020e34f676a254d" title="btrfs_test_free_space\l_cache" alt="" coords="417,61,565,103"/>
+<area shape="rect" id="node8" href="$free-space-tree-tests_8c.html#a01bbde43c96e1c8e36d1ceb9f2628b14" title="run_test" alt="" coords="253,111,323,138"/>
+<area shape="rect" id="node11" href="$inode-tests_8c.html#aca53f2dd19054eabddf1ca2bbab9a6ee" title="test_btrfs_get_extent" alt="" coords="215,162,361,189"/>
+<area shape="rect" id="node13" href="$inode-tests_8c.html#a4b5ad34c8028b3af99e81e1658ba1ea9" title="test_hole_first" alt="" coords="236,213,340,239"/>
+<area shape="rect" id="node14" href="$inode-tests_8c.html#a976689efd00cf939a84f9945d76e1da5" title="test_extent_accounting" alt="" coords="209,263,367,290"/>
+<area shape="rect" id="node15" href="$qgroup-tests_8c.html#ac421b3348dd5a86e74f3b009bad00481" title="btrfs_test_qgroups" alt="" coords="638,289,769,315"/>
+<area shape="rect" id="node3" href="$extent-buffer-tests_8c.html#aef9333ab97b28f6706d0da2e45e57c1f" title="btrfs_test_extent_buffer\l_operations" alt="" coords="623,5,783,47"/>
+<area shape="rect" id="node4" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="840,127,991,154"/>
+<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="1039,127,1129,154"/>
+<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="1177,127,1272,154"/>
+<area shape="rect" id="node9" href="$free-space-tree-tests_8c.html#adbe3ae7da100d0af8ad993d1cb600f53" title="run_test_both_formats" alt="" coords="415,127,567,154"/>
+<area shape="rect" id="node10" href="$free-space-tree-tests_8c.html#af04761143b98f300755fa1a1a921b2d6" title="btrfs_test_free_space_tree" alt="" coords="615,127,792,154"/>
+<area shape="rect" id="node12" href="$inode-tests_8c.html#a9d0b73cbf6efa1170df29806ec743995" title="btrfs_test_inodes" alt="" coords="429,205,552,231"/>
+</map>

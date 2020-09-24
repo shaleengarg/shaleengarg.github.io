@@ -1,0 +1,11 @@
+<map id="blkdev_releasepage" name="blkdev_releasepage">
+<area shape="rect" id="node2" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="221,107,291,133"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#ad15f4d943c9aa17afe7f9cba94c137bf" title="try_to_free_buffers" alt="" coords="191,157,321,184"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#aef5cfcace6506707ec79c3305339e521" title="drop_buffers" alt="" coords="381,81,476,108"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="369,157,488,184"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="548,208,687,235"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ad8647f91d88c82527cb53ddc01785276" title="buffer_busy" alt="" coords="572,5,663,32"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#ad595c04f28b431cc4c8da5e29eb705db" title="__remove_assoc_queue" alt="" coords="536,56,699,83"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a92a5deda319b02af36b62aec78286103" title="__clear_page_buffers" alt="" coords="544,107,691,133"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="560,157,675,184"/>
+</map>

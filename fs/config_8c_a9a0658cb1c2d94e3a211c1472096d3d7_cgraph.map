@@ -1,0 +1,8 @@
+<map id="drop_node" name="drop_node">
+<area shape="rect" id="node2" href="$config_8c.html#a1a93a5d2f93a8b0ddfc53d00c9089927" title="config_item_to_space" alt="" coords="136,5,285,32"/>
+<area shape="rect" id="node3" href="$config_8c.html#a52fc15ab3fbf94b13785791942a00daf" title="config_item_to_node" alt="" coords="139,56,282,83"/>
+<area shape="rect" id="node4" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="153,107,268,133"/>
+<area shape="rect" id="node5" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="333,56,472,83"/>
+<area shape="rect" id="node7" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="333,107,472,133"/>
+<area shape="rect" id="node6" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="520,107,661,133"/>
+</map>

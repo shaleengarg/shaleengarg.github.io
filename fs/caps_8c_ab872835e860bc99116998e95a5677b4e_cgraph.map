@@ -1,0 +1,5 @@
+<map id="send_cap_msg" name="send_cap_msg">
+<area shape="rect" id="node2" href="$strings_8c.html#ab8bd6873b2e6f8d8e07fb8484c969d59" title="ceph_cap_op_name" alt="" coords="164,5,303,32"/>
+<area shape="rect" id="node3" href="$caps_8c.html#aee4ad867f02c07e329a4e9328fec14a2" title="ceph_cap_string" alt="" coords="175,56,292,83"/>
+<area shape="rect" id="node4" href="$caps_8c.html#aa158fde50093f72901e1c22ecf24fc99" title="gcap_string" alt="" coords="351,56,440,83"/>
+</map>

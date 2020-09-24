@@ -1,0 +1,11 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$clntlock_8c.html#ac0ab02e368e45a5cfe2f8838814387f5" title="nlmclnt_init" alt="" coords="395,41,483,68"/>
+<area shape="rect" id="node9" href="$clntlock_8c.html#a57579210b107817ec04928973134ca45" title="nlmclnt_done" alt="" coords="225,92,324,119"/>
+<area shape="rect" id="node3" href="$client_8c.html#a2b6c7f4d415605ed94995bd7000bd5ea" title="nfs_start_lockd" alt="" coords="553,67,664,93"/>
+<area shape="rect" id="node4" href="$client_8c.html#a79567e458591ffb59de706e040bd5cf0" title="nfs_init_server" alt="" coords="719,29,826,56"/>
+<area shape="rect" id="node7" href="$nfs_2internal_8h.html#a74da40629c00a2d52eb709fbbf64a754" title="nfs_clone_server" alt="" coords="712,104,833,131"/>
+<area shape="rect" id="node5" href="$nfs_2internal_8h.html#a40007155e8fe7d9b21830cfcfc2b2318" title="nfs_create_server" alt="" coords="882,29,1009,56"/>
+<area shape="rect" id="node6" href="$nfs3client_8c.html#af53154f90bb786156a08f3f746020f06" title="nfs3_create_server" alt="" coords="1057,29,1191,56"/>
+<area shape="rect" id="node8" href="$nfs3client_8c.html#aaeacfa9e9f6837b2257cff046f54e055" title="nfs3_clone_server" alt="" coords="881,104,1009,131"/>
+<area shape="rect" id="node10" href="$client_8c.html#aba99dc96fe5d7175c65096960fbfdd17" title="nfs_destroy_server" alt="" coords="372,92,505,119"/>
+</map>

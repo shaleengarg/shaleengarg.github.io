@@ -1,0 +1,5 @@
+<map id="nlm_async_reply" name="nlm_async_reply">
+<area shape="rect" id="node2" href="$clntproc_8c.html#a17c8ef604abcc7d4d8caa0143cf04408" title="nlm_do_async_call" alt="" coords="173,5,307,32"/>
+<area shape="rect" id="node3" href="$clntproc_8c.html#a50c31a7bb96d77b8c1ccac8792e52719" title="__nlm_async_call" alt="" coords="355,5,481,32"/>
+<area shape="rect" id="node4" href="$host_8c.html#afe6dc7ccb5a268f9d85e30b90a395e52" title="nlm_bind_host" alt="" coords="529,5,636,32"/>
+</map>

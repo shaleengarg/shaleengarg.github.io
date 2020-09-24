@@ -1,0 +1,11 @@
+<map id="nlmclnt_reclaim" name="nlmclnt_reclaim">
+<area shape="rect" id="node2" href="$locks_8c.html#a9803e0d3f490f560784da3766206b1e4" title="locks_init_lock" alt="" coords="182,56,290,83"/>
+<area shape="rect" id="node5" href="$clntproc_8c.html#a93f588d1118526fbd2f6231cd4c51b49" title="nlmclnt_setlockargs" alt="" coords="167,107,305,133"/>
+<area shape="rect" id="node7" href="$clntproc_8c.html#af0ac34002ec923f3b8f6ee7d08b11728" title="nlmclnt_call" alt="" coords="191,183,281,209"/>
+<area shape="rect" id="node3" href="$locks_8c.html#aaf0eec7769579a2fbc1ddd9804470873" title="locks_init_lock_heads" alt="" coords="353,5,504,32"/>
+<area shape="rect" id="node4" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="359,56,498,83"/>
+<area shape="rect" id="node6" href="$clntproc_8c.html#ad1405154c441cb46e284b9da8dd4897f" title="nlmclnt_next_cookie" alt="" coords="358,107,499,133"/>
+<area shape="rect" id="node8" href="$host_8c.html#afe6dc7ccb5a268f9d85e30b90a395e52" title="nlm_bind_host" alt="" coords="375,157,482,184"/>
+<area shape="rect" id="node9" href="$host_8c.html#a8e0d161a18927210fe72e8af813649cf" title="nlm_rebind_host" alt="" coords="370,208,487,235"/>
+<area shape="rect" id="node10" href="$clntproc_8c.html#afb72bfd37534cb2526730ddc0156c22a" title="nlm_wait_on_grace" alt="" coords="361,259,496,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="prepare_uptodate_page" name="prepare_uptodate_page">
+<area shape="rect" id="node2" href="$btrfs_2file_8c.html#a6d18e1dcf8247595ef67d34cc23aa0b6" title="prepare_pages" alt="" coords="211,31,317,57"/>
+<area shape="rect" id="node3" href="$btrfs_2file_8c.html#abb642c5618a05bd0d1d2e8a40850d3d5" title="__btrfs_buffered_write" alt="" coords="365,31,516,57"/>
+<area shape="rect" id="node4" href="$btrfs_2file_8c.html#a6f18471497fe0716caf82fb1943db685" title="__btrfs_direct_write" alt="" coords="564,5,700,32"/>
+<area shape="rect" id="node5" href="$btrfs_2file_8c.html#a648f5f723e2831eaa490bda3b7902cc8" title="btrfs_file_write_iter" alt="" coords="748,31,880,57"/>
+</map>

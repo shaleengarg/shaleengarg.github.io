@@ -1,0 +1,35 @@
+<map id="configfs_attach_attr" name="configfs_attach_attr">
+<area shape="rect" id="node2" href="$configfs__internal_8h.html#a150714a18e6039f28185711f6ae3447b" title="configfs_get" alt="" coords="214,373,307,400"/>
+<area shape="rect" id="node3" href="$configfs__internal_8h.html#a45013dc8333edca9a136494f43373d02" title="configfs_create" alt="" coords="205,424,316,451"/>
+<area shape="rect" id="node31" href="$configfs_2dir_8c.html#a0295d0a85523c5a17cff19501cf8c6a7" title="configfs_init_bin_file" alt="" coords="191,475,331,501"/>
+<area shape="rect" id="node32" href="$configfs_2dir_8c.html#a223c90605c808bc5af001187623b0d78" title="configfs_init_file" alt="" coords="203,525,319,552"/>
+<area shape="rect" id="node33" href="$configfs__internal_8h.html#a3580f6bd3f14d408fe4e42d0cda35dc7" title="configfs_put" alt="" coords="214,588,307,615"/>
+<area shape="rect" id="node4" href="$configfs_2inode_8c.html#a870c8b460648e500338c352a53173429" title="configfs_new_inode" alt="" coords="388,512,525,539"/>
+<area shape="rect" id="node16" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="817,461,912,488"/>
+<area shape="rect" id="node17" href="$configfs_2inode_8c.html#aeec1902c59cc48acf212392a7dda7fd0" title="configfs_set_inode\l_lock_class" alt="" coords="593,665,723,706"/>
+<area shape="rect" id="node18" href="$dcache_8c.html#a5a3ec23af02f1f96a027c7431adc1bfb" title="d_instantiate" alt="" coords="409,360,505,387"/>
+<area shape="rect" id="node23" href="$dcache_8c.html#aeab27370546d71c098fb7a85a990f98a" title="d_add" alt="" coords="428,309,485,336"/>
+<area shape="rect" id="node5" href="$inode_8c.html#ae03a9f08d4efbf91ff44e29c1369314e" title="new_inode" alt="" coords="616,613,700,640"/>
+<area shape="rect" id="node13" href="$inode_8c.html#a4e87a440f0c5d5f334b98757ade8b75b" title="get_next_ino" alt="" coords="1231,563,1327,589"/>
+<area shape="rect" id="node14" href="$configfs_2inode_8c.html#a55d074f7fb2530f085d307e71fd7aacc" title="set_inode_attr" alt="" coords="606,512,710,539"/>
+<area shape="rect" id="node15" href="$configfs_2inode_8c.html#a70b6500df4f1b70dea4d5ae6061cde58" title="set_default_inode_attr" alt="" coords="583,461,733,488"/>
+<area shape="rect" id="node6" href="$inode_8c.html#aeddf64c5c9fa914485838a6db9201936" title="new_inode_pseudo" alt="" coords="798,715,931,741"/>
+<area shape="rect" id="node10" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="1389,600,1528,627"/>
+<area shape="rect" id="node11" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="801,664,928,691"/>
+<area shape="rect" id="node7" href="$inode_8c.html#a6328f7a2621c5365a1df969e8c7ab998" title="alloc_inode" alt="" coords="1039,715,1125,741"/>
+<area shape="rect" id="node8" href="$inode_8c.html#a844185001176cf3da6e2195a24931015" title="inode_init_always" alt="" coords="1216,676,1341,703"/>
+<area shape="rect" id="node9" href="$inode_8c.html#a585882dc429befcbe4638a49bc11dff6" title="no_open" alt="" coords="1423,676,1494,703"/>
+<area shape="rect" id="node12" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="996,664,1168,691"/>
+<area shape="rect" id="node19" href="$dcache_8c.html#a3c471dd0d1ff573bdb8e84243685ceb3" title="__d_instantiate" alt="" coords="603,259,713,285"/>
+<area shape="rect" id="node22" href="$dcache_8c.html#aeb5ec7bdf3301140d66dd18ae638685c" title="EXPORT_SYMBOL" alt="" coords="1013,309,1151,336"/>
+<area shape="rect" id="node20" href="$dcache_8c.html#a990fb9ad584b8c9f0a0167ca94d6a01f" title="d_flags_for_inode" alt="" coords="803,259,927,285"/>
+<area shape="rect" id="node21" href="$dcache_8c.html#a95f527a9dc7c279bc6db816cd2899632" title="__d_set_inode_and_type" alt="" coords="781,208,948,235"/>
+<area shape="rect" id="node24" href="$dcache_8c.html#abb6a3303d1974ff6c85fff733082b373" title="__d_add" alt="" coords="623,157,693,184"/>
+<area shape="rect" id="node25" href="$dcache_8c.html#a67880d7546b4393328ac29ff938936b5" title="start_dir_add" alt="" coords="816,107,913,133"/>
+<area shape="rect" id="node26" href="$dcache_8c.html#ac90906735bbd206bdb4377d23e912f59" title="__d_lookup_done" alt="" coords="803,157,926,184"/>
+<area shape="rect" id="node28" href="$dcache_8c.html#a2d2532129535ba9b31756c8976f6ea17" title="__d_rehash" alt="" coords="820,5,909,32"/>
+<area shape="rect" id="node30" href="$dcache_8c.html#a2e1585eb822297f29ebde3fa1cbbc54c" title="end_dir_add" alt="" coords="819,56,911,83"/>
+<area shape="rect" id="node27" href="$dcache_8c.html#a4a6ac0e37bb2a82bb57c9c1e917e9706" title="in_lookup_hash" alt="" coords="1026,157,1138,184"/>
+<area shape="rect" id="node29" href="$dcache_8c.html#ad0da24b939325fb96de67394f99b2766" title="d_hash" alt="" coords="1050,5,1114,32"/>
+<area shape="rect" id="node34" href="$configfs__internal_8h.html#af6d9a78eb02c8e92fea7ad1cf17222f9" title="release_configfs_dirent" alt="" coords="379,613,535,640"/>
+</map>

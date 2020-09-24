@@ -1,0 +1,5 @@
+<map id="expand_corename" name="expand_corename">
+<area shape="rect" id="node2" href="$coredump_8c.html#ac9a57e3deea3a95c9a70af620318f76d" title="__printf" alt="" coords="210,5,275,32"/>
+<area shape="rect" id="node3" href="$coredump_8c.html#a6aee5cd9aa4668e98d2f48a6f111d3d6" title="format_corename" alt="" coords="181,56,304,83"/>
+<area shape="rect" id="node4" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="352,56,452,83"/>
+</map>

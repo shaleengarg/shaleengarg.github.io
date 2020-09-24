@@ -1,0 +1,15 @@
+<map id="o2hb_region_dec_user" name="o2hb_region_dec_user">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8h.html#a162a57cda5e50151defd25b38804fd72" title="o2hb_unregister_callback" alt="" coords="205,144,375,171"/>
+<area shape="rect" id="node3" href="$tcp_8h.html#a4994e6b51a1e7b45c6ccd8387f07e30c" title="o2net_unregister_hb\l_callbacks" alt="" coords="431,82,570,123"/>
+<area shape="rect" id="node7" href="$dlmdomain_8c.html#abf8378cdd2d97f1da140732267537baf" title="dlm_unregister_domain\l_handlers" alt="" coords="423,169,579,210"/>
+<area shape="rect" id="node4" href="$nodemanager_8c.html#a9eb95eee91524c301b0ebb332d8be27e" title="exit_o2nm" alt="" coords="683,5,765,32"/>
+<area shape="rect" id="node5" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="908,56,987,83"/>
+<area shape="rect" id="node6" href="$tcp_8h.html#ae1de271c512302aba822502c0c3d6762" title="o2net_register_hb_callbacks" alt="" coords="631,107,817,133"/>
+<area shape="rect" id="node8" href="$dlmdomain_8c.html#aa58e14b2df2a03b94b0342266a41eac8" title="dlm_complete_dlm_shutdown" alt="" coords="627,157,821,184"/>
+<area shape="rect" id="node11" href="$dlmdomain_8c.html#a5a1e1b2dfb2beaf2266c20aaa8688155" title="dlm_register_domain\l_handlers" alt="" coords="653,209,795,250"/>
+<area shape="rect" id="node12" href="$dlmdomain_8c.html#affee3bbfcdea87eedd2014d822f30644" title="dlm_join_domain" alt="" coords="888,245,1007,272"/>
+<area shape="rect" id="node9" href="$dlmdomain_8c.html#aacb364555224210df2f23eb63808fe46" title="dlm_unregister_domain" alt="" coords="869,157,1025,184"/>
+<area shape="rect" id="node10" href="$stack__o2cb_8c.html#aac5d658876cb3c17ae68bc77846d4ff2" title="o2cb_cluster_disconnect" alt="" coords="1073,157,1240,184"/>
+<area shape="rect" id="node13" href="$dlmdomain_8c.html#ae919e83248a462e98afc7b41066b992f" title="dlm_register_domain" alt="" coords="1085,245,1228,272"/>
+<area shape="rect" id="node14" href="$stack__o2cb_8c.html#a6fbec0ac0199f1beacbae9a3ad9d23ef" title="o2cb_cluster_connect" alt="" coords="1288,245,1437,272"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="cdev_get" name="cdev_get">
+<area shape="rect" id="node2" href="$char__dev_8c.html#a6a503b662f8b921c62a24a86759fd792" title="chrdev_open" alt="" coords="128,31,224,57"/>
+<area shape="rect" id="node3" href="$char__dev_8c.html#ab106a9505be85568a0690530ea8560b4" title="exact_lock" alt="" coords="133,81,219,108"/>
+<area shape="rect" id="node4" href="$char__dev_8c.html#a4f3df730e2934e79195958e58eeef20e" title="cdev_add" alt="" coords="272,81,351,108"/>
+<area shape="rect" id="node5" href="$char__dev_8c.html#aad3c4708785ebf89c3af58413971daa6" title="__register_chrdev" alt="" coords="417,5,543,32"/>
+<area shape="rect" id="node6" href="$internal_8h.html#ac35912dfd6fa18106f5158b5b84f8afc" title="chrdev_init" alt="" coords="621,56,707,83"/>
+<area shape="rect" id="node9" href="$char__dev_8c.html#a6bf2f0b99515eb144b8ffb5292e631f9" title="cdev_device_add" alt="" coords="419,107,541,133"/>
+<area shape="rect" id="node10" href="$cuse_8c.html#a5deab4441e44f0e69cf786ddcf422824" title="cuse_process_init_reply" alt="" coords="399,157,561,184"/>
+<area shape="rect" id="node7" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="774,31,897,57"/>
+<area shape="rect" id="node8" href="$dcache_8c.html#a8e57b1d00f73b05cbc11789c78196ce4" title="vfs_caches_init" alt="" coords="779,81,892,108"/>
+<area shape="rect" id="node11" href="$cuse_8c.html#a3ce2a0bcd2db9c9de9b2b53081fe67f2" title="cuse_send_init" alt="" coords="609,157,719,184"/>
+<area shape="rect" id="node12" href="$cuse_8c.html#ab830a43600556672955f140ecabb99d7" title="cuse_channel_open" alt="" coords="767,157,904,184"/>
+<area shape="rect" id="node13" href="$cuse_8c.html#a259338d3d0bcc5e07ce88b0024113be2" title="cuse_init" alt="" coords="952,157,1027,184"/>
+<area shape="rect" id="node14" href="$cuse_8c.html#a82e5d1268caa23564c91c0f105e1ddbd" title="cuse_exit" alt="" coords="1075,157,1153,184"/>
+</map>

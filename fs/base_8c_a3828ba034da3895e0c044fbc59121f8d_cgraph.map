@@ -1,0 +1,11 @@
+<map id="oom_score_adj_read" name="oom_score_adj_read">
+<area shape="rect" id="node2" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="227,81,331,108"/>
+<area shape="rect" id="node7" href="$libfs_8c.html#a98cd05699e081ee1dc9f78316e3e184b" title="simple_read_from_buffer" alt="" coords="196,157,361,184"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="443,5,514,32"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="415,56,543,83"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="432,107,525,133"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="619,5,691,32"/>
+<area shape="rect" id="node8" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="451,157,506,184"/>
+<area shape="rect" id="node10" href="$libfs_8c.html#a91c91ea39de851f32fce31e8967ceda2" title="EXPORT_SYMBOL" alt="" coords="409,208,548,235"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="596,157,715,184"/>
+</map>

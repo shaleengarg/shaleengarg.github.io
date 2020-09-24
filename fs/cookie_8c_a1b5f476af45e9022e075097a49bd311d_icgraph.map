@@ -1,0 +1,11 @@
+<map id="fscache_free_cookie" name="fscache_free_cookie">
+<area shape="rect" id="node2" href="$fscache_2internal_8h.html#a3e5028c5c20eef7bf60d38da2a225fd5" title="fscache_alloc_cookie" alt="" coords="196,27,343,53"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#a4094b7dcd83b3bd5223354789906f46d" title="__fscache_acquire_cookie" alt="" coords="391,11,567,37"/>
+<area shape="rect" id="node4" href="$netfs_8c.html#a88eadae8f30f6563bae14d45078192b3" title="__fscache_register\l_netfs" alt="" coords="413,62,545,103"/>
+<area shape="rect" id="node5" href="$fscache_2internal_8h.html#a70cbc1de75b580798a975193c34aec33" title="fscache_cookie_put" alt="" coords="200,128,339,155"/>
+<area shape="rect" id="node6" href="$cookie_8c.html#a018c741b3a71d877c5482037a3a1be4e" title="__fscache_relinquish\l_cookie" alt="" coords="407,127,551,169"/>
+<area shape="rect" id="node9" href="$object_8c.html#acbaf24d574b6c1c4909848a210efd488" title="fscache_object_destroy" alt="" coords="399,193,559,220"/>
+<area shape="rect" id="node7" href="$ceph_2cache_8c.html#a468b276a7bc83326695d88050526469d" title="ceph_fscache_unregister_fs" alt="" coords="615,135,800,161"/>
+<area shape="rect" id="node8" href="$ceph_2super_8c.html#a7ec47b48644ac52bafcaa15b1db7673b" title="ceph_kill_sb" alt="" coords="848,135,943,161"/>
+<area shape="rect" id="node10" href="$interface_8c.html#a578410c3bc4ef886bb38b41d578dbe51" title="cachefiles_put_object" alt="" coords="633,193,781,220"/>
+</map>

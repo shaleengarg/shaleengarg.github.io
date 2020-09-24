@@ -1,0 +1,6 @@
+<map id="btrfs_getattr" name="btrfs_getattr">
+<area shape="rect" id="node2" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="165,5,243,32"/>
+<area shape="rect" id="node3" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="153,56,255,83"/>
+<area shape="rect" id="node5" href="$stat_8c.html#af51351c35bfe6e13ddd4351a02d97f43" title="inode_get_bytes" alt="" coords="145,107,263,133"/>
+<area shape="rect" id="node4" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="311,81,449,108"/>
+</map>

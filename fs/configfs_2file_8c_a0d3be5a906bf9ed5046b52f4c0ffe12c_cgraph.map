@@ -1,0 +1,9 @@
+<map id="configfs_read_bin_file" name="configfs_read_bin_file">
+<area shape="rect" id="node2" href="$configfs__internal_8h.html#aa65976d605432463738c7d7c9556664f" title="to_item" alt="" coords="251,5,317,32"/>
+<area shape="rect" id="node3" href="$configfs__internal_8h.html#ac4f07567de12f83598600a39d78b580e" title="to_bin_attr" alt="" coords="243,56,325,83"/>
+<area shape="rect" id="node5" href="$libfs_8c.html#a98cd05699e081ee1dc9f78316e3e184b" title="simple_read_from_buffer" alt="" coords="201,107,367,133"/>
+<area shape="rect" id="node4" href="$configfs__internal_8h.html#a94334744f7750a8b13e74ac70b042c8b" title="to_attr" alt="" coords="455,56,513,83"/>
+<area shape="rect" id="node6" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="457,107,511,133"/>
+<area shape="rect" id="node8" href="$libfs_8c.html#a91c91ea39de851f32fce31e8967ceda2" title="EXPORT_SYMBOL" alt="" coords="415,157,553,184"/>
+<area shape="rect" id="node7" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="601,107,720,133"/>
+</map>

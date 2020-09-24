@@ -1,0 +1,6 @@
+<map id="btrfs_whiteout_for_rename" name="btrfs_whiteout_for_rename">
+<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a611d61b19895af4b388ff9d0be22a532" title="btrfs_rename" alt="" coords="180,13,279,39"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#acf4169a1b179f406bc39c7a1a4e6a137" title="btrfs_rename2" alt="" coords="327,13,432,39"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="480,13,655,39"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="703,13,800,39"/>
+</map>

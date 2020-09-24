@@ -1,0 +1,5 @@
+<map id="decode_stateid" name="decode_stateid">
+<area shape="rect" id="node2" href="$callback__xdr_8c.html#a2b002f6bf68c49a585f67ac04f47104e" title="decode_delegation_stateid" alt="" coords="164,5,340,32"/>
+<area shape="rect" id="node3" href="$callback__xdr_8c.html#a50bbaf1afeef0eb10e0df4b35f3d5920" title="decode_recall_args" alt="" coords="388,31,523,57"/>
+<area shape="rect" id="node4" href="$callback__xdr_8c.html#acee5fa4f5a4e91e9f3588c29c80288b2" title="nfs4_callback_compound" alt="" coords="571,31,740,57"/>
+</map>

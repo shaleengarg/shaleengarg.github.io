@@ -1,0 +1,26 @@
+<map id="encode_fattr3" name="encode_fattr3">
+<area shape="rect" id="node2" href="$_2nfs3xdr_8c.html#ae08a662d72243799018361b6c8044197" title="encode_saved_post_attr" alt="" coords="155,183,319,209"/>
+<area shape="rect" id="node10" href="$_2nfs3xdr_8c.html#ab849ec2fe1a25945daf8740e485dcb07" title="encode_post_op_attr" alt="" coords="166,309,309,336"/>
+<area shape="rect" id="node25" href="$xdr3_8h.html#a49c3f2ff39c3109f762c41688743ac36" title="nfs3svc_encode_attrstat" alt="" coords="155,360,320,387"/>
+<area shape="rect" id="node3" href="$_2nfs3xdr_8c.html#a73e104c98ed6c6eb431a8e60c0a32cb1" title="encode_wcc_data" alt="" coords="398,107,525,133"/>
+<area shape="rect" id="node4" href="$xdr3_8h.html#a222f0516fdd9ab1d54e9482d00bd8f1f" title="nfs3svc_encode_wccstat" alt="" coords="610,107,781,133"/>
+<area shape="rect" id="node5" href="$xdr3_8h.html#a99386310a6b2b9b437748d039fac31a3" title="nfs3svc_encode_writeres" alt="" coords="610,157,781,184"/>
+<area shape="rect" id="node6" href="$xdr3_8h.html#a18bc246f6a2fe7462af2d952cecfc64e" title="nfs3svc_encode_createres" alt="" coords="606,208,785,235"/>
+<area shape="rect" id="node7" href="$xdr3_8h.html#ad110bdbf5c75d28692bdd1020cb4374f" title="nfs3svc_encode_renameres" alt="" coords="603,5,788,32"/>
+<area shape="rect" id="node8" href="$xdr3_8h.html#ad0d5ce545ae0b8d7d49498b50439d78b" title="nfs3svc_encode_linkres" alt="" coords="614,259,777,285"/>
+<area shape="rect" id="node9" href="$xdr3_8h.html#ac0ecfc9c29ab89c799dce615b105fcda" title="nfs3svc_encode_commitres" alt="" coords="603,56,788,83"/>
+<area shape="rect" id="node11" href="$xdr3_8h.html#a24e8ae1229e412a7375ba0eb74c43359" title="nfs3svc_encode_post\l_op_attr" alt="" coords="387,361,536,402"/>
+<area shape="rect" id="node14" href="$xdr3_8h.html#a3e68f882dc418e0f79cce5b8b97faf68" title="nfs3svc_encode_diropres" alt="" coords="376,427,547,453"/>
+<area shape="rect" id="node15" href="$xdr3_8h.html#abccd035ede8ecfaa1ab1c32ad5af3049" title="nfs3svc_encode_accessres" alt="" coords="369,477,553,504"/>
+<area shape="rect" id="node16" href="$xdr3_8h.html#a8d1286b4b3110477dd87c373ddb6bafc" title="nfs3svc_encode_readlinkres" alt="" coords="368,528,555,555"/>
+<area shape="rect" id="node17" href="$xdr3_8h.html#af5c865693ab9670f63716ff7b9b76527" title="nfs3svc_encode_readres" alt="" coords="378,579,545,605"/>
+<area shape="rect" id="node18" href="$xdr3_8h.html#a7765c1686431fc8208486199a61c49f0" title="nfs3svc_encode_readdirres" alt="" coords="371,157,552,184"/>
+<area shape="rect" id="node19" href="$_2nfs3xdr_8c.html#ad1d8dc9f720532dcd90b37559a812feb" title="encode_entryplus_baggage" alt="" coords="371,309,551,336"/>
+<area shape="rect" id="node12" href="$_2nfs3acl_8c.html#a7a1ee618da9a3b65b581bb129c987e74" title="nfs3svc_encode_getaclres" alt="" coords="607,415,784,441"/>
+<area shape="rect" id="node13" href="$_2nfs3acl_8c.html#adf920610f7089d94ddc7ff3d555fc5ae" title="nfs3svc_encode_setaclres" alt="" coords="607,364,784,391"/>
+<area shape="rect" id="node20" href="$_2nfs3xdr_8c.html#a6b1267cee13f8ffc8a209370095b5059" title="encode_entry" alt="" coords="645,309,745,336"/>
+<area shape="rect" id="node21" href="$xdr3_8h.html#ab769efed6f6dee5c74c24fbe0749e76e" title="nfs3svc_encode_entry" alt="" coords="851,284,1005,311"/>
+<area shape="rect" id="node23" href="$xdr3_8h.html#a0e3a7f588a36be8d96d19948732602f3" title="nfs3svc_encode_entry_plus" alt="" coords="836,335,1020,361"/>
+<area shape="rect" id="node22" href="$_2nfs3proc_8c.html#a51c95da8868ab7530b16f22d18555292" title="nfsd3_proc_readdir" alt="" coords="1080,284,1212,311"/>
+<area shape="rect" id="node24" href="$_2nfs3proc_8c.html#ad4e60b5d5e897bc5b07b45b30bdd9304" title="nfsd3_proc_readdirplus" alt="" coords="1068,335,1224,361"/>
+</map>

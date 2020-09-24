@@ -1,0 +1,8 @@
+<map id="proc_root_link" name="proc_root_link">
+<area shape="rect" id="node2" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="156,56,260,83"/>
+<area shape="rect" id="node7" href="$base_8c.html#acabc2fbf5803f00553612f3f4ae24e46" title="get_task_root" alt="" coords="157,107,259,133"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="337,5,407,32"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="308,56,436,83"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="325,107,419,133"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="484,5,556,32"/>
+</map>

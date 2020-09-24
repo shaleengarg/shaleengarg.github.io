@@ -1,0 +1,8 @@
+<map id="__blkdev_direct_IO" name="__blkdev_direct_IO">
+<area shape="rect" id="node2" href="$block__dev_8c.html#ac59da754f8c2eb1fd14f388724cbf0a2" title="bdev_file_inode" alt="" coords="197,5,309,32"/>
+<area shape="rect" id="node3" href="$block__dev_8c.html#ac58f1357c2d73d034c45d449d6ca1ea5" title="I_BDEV" alt="" coords="217,56,288,83"/>
+<area shape="rect" id="node6" href="$block__dev_8c.html#a47764bff14398ebb023c4145ca20741e" title="blkdev_bio_end_io" alt="" coords="188,107,317,133"/>
+<area shape="rect" id="node7" href="$block__dev_8c.html#add7da4de23a07ecdab2622ff4129b901" title="dio_bio_write_op" alt="" coords="193,157,312,184"/>
+<area shape="rect" id="node4" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="399,31,470,57"/>
+<area shape="rect" id="node5" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="365,81,504,108"/>
+</map>

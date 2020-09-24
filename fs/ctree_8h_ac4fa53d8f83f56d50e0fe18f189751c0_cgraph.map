@@ -1,0 +1,5 @@
+<map id="btrfs_alloc_block_rsv" name="btrfs_alloc_block_rsv">
+<area shape="rect" id="node2" href="$extent-tree_8c.html#a06c414d3f60fe337268a503a5ac67fae" title="btrfs_init_metadata\l_block_rsv" alt="" coords="199,23,332,65"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#a628d6cb779fbf248f09a33ed84e8aa26" title="btrfs_init_block_rsv" alt="" coords="380,5,515,32"/>
+<area shape="rect" id="node4" href="$extent-tree_8c.html#ab5b75b50b8296c727405cbbd69a1a2c0" title="__find_space_info" alt="" coords="384,56,511,83"/>
+</map>

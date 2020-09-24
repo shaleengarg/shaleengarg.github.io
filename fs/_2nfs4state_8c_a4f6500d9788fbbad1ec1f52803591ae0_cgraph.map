@@ -1,0 +1,28 @@
+<map id="nfs4_preprocess_seqid_op" name="nfs4_preprocess_seqid_op">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a657362ecb04e2c297fd9d2694a6df0b0" title="nfsd4_lookup_stateid" alt="" coords="235,145,381,172"/>
+<area shape="rect" id="node13" href="$_2nfs4state_8c.html#a33801748542f905b0cbc283a48c59749" title="nfs4_put_stid" alt="" coords="469,196,569,223"/>
+<area shape="rect" id="node16" href="$state_8h.html#a505438b904d5eee0a3ad9bf421e62475" title="openlockstateid" alt="" coords="251,247,365,273"/>
+<area shape="rect" id="node17" href="$_2nfs4state_8c.html#ad5d0f864ea79eeb48c1f3cfb43782963" title="nfsd4_cstate_assign\l_replay" alt="" coords="237,298,379,339"/>
+<area shape="rect" id="node20" href="$_2nfs4state_8c.html#a4e0aa970e33f1ecc53031a0f93225b60" title="nfs4_seqid_op_checks" alt="" coords="231,432,385,459"/>
+<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a1dc4ced5179e541e50d6deaa4b74ce6d" title="lookup_clientid" alt="" coords="465,69,573,96"/>
+<area shape="rect" id="node11" href="$_2nfs4state_8c.html#a5f741016c17fc71c3432b13968f0a0dc" title="find_stateid_by_type" alt="" coords="447,145,590,172"/>
+<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a1a39e84278738642ed631ca0f01e85d4" title="same_clid" alt="" coords="1095,5,1176,32"/>
+<area shape="rect" id="node5" href="$_2nfs4state_8c.html#a10b9a25c90ec82fa5addecde72fb55da" title="STALE_CLIENTID" alt="" coords="669,44,802,71"/>
+<area shape="rect" id="node6" href="$_2nfs4state_8c.html#aa295aafd99afcda92182f90f4364a24f" title="find_confirmed_client" alt="" coords="663,95,808,121"/>
+<area shape="rect" id="node7" href="$_2nfs4state_8c.html#a14a8b23e149bd273205672d0361beffe" title="find_client_in_id_table" alt="" coords="867,88,1017,115"/>
+<area shape="rect" id="node8" href="$_2nfs4state_8c.html#a15f93c5de724bb57aabcdc3690c877c1" title="clientid_hashval" alt="" coords="1078,81,1193,108"/>
+<area shape="rect" id="node9" href="$_2nfs4state_8c.html#adb3869994df601ea6064a7eaf7952ed1" title="renew_client_locked" alt="" coords="1065,132,1205,159"/>
+<area shape="rect" id="node10" href="$_2nfs4state_8c.html#ae666db7dbdd46d29028e800d5996df93" title="is_client_expired" alt="" coords="1253,132,1372,159"/>
+<area shape="rect" id="node12" href="$_2nfs4state_8c.html#a18b795e010f8102f177de7ab67fe02b5" title="find_stateid_locked" alt="" coords="668,145,803,172"/>
+<area shape="rect" id="node14" href="$_2nfs4state_8c.html#a9a966030ded2d5e6d69a176f36c7bf4f" title="put_nfs4_file" alt="" coords="687,196,783,223"/>
+<area shape="rect" id="node15" href="$_2nfs4state_8c.html#a00c25c1cdf7500d9c23d9c37398e5984" title="nfsd4_free_file_rcu" alt="" coords="876,196,1008,223"/>
+<area shape="rect" id="node18" href="$xdr4_8h.html#a11a436736e29049ab3614a0d2551305a" title="nfsd4_has_session" alt="" coords="668,356,803,383"/>
+<area shape="rect" id="node19" href="$_2nfs4state_8c.html#ae7cc55f43eede5d8153a868b62beaf29" title="nfs4_get_stateowner" alt="" coords="447,305,590,332"/>
+<area shape="rect" id="node21" href="$_2nfs4state_8c.html#a1d439d0fccfc574eb6bcb6a8f73ea4e4" title="nfsd4_check_seqid" alt="" coords="451,407,586,433"/>
+<area shape="rect" id="node22" href="$_2nfs4state_8c.html#af9ae2298bf17553bd42a45501b4b6308" title="nfsd4_lock_ol_stateid" alt="" coords="445,457,593,484"/>
+<area shape="rect" id="node24" href="$_2nfs4state_8c.html#aad9b7f79836af7de9a929da3b00b2a38" title="check_stateid_generation" alt="" coords="433,508,604,535"/>
+<area shape="rect" id="node26" href="$_2nfs4state_8c.html#a2c5bb8e6877558a56a5b48faea4d7a17" title="nfs4_check_fh" alt="" coords="465,563,572,589"/>
+<area shape="rect" id="node23" href="$_2nfs4state_8c.html#aeb9122d3eaf9186cc2ed6bb40d2f01b3" title="nfsd4_verify_open_stid" alt="" coords="657,449,813,476"/>
+<area shape="rect" id="node25" href="$state_8h.html#a5a5f320c5015135803f2d539ed91e636" title="nfsd4_stateid_generation\l_after" alt="" coords="652,501,819,542"/>
+<area shape="rect" id="node27" href="$nfsfh_8h.html#a8e54d973040a3306107ca8ae851b3f63" title="fh_match" alt="" coords="697,567,773,593"/>
+</map>

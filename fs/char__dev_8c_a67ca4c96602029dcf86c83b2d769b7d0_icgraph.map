@@ -1,0 +1,6 @@
+<map id="cdev_set_parent" name="cdev_set_parent">
+<area shape="rect" id="node2" href="$char__dev_8c.html#a6bf2f0b99515eb144b8ffb5292e631f9" title="cdev_device_add" alt="" coords="172,5,295,32"/>
+<area shape="rect" id="node3" href="$internal_8h.html#ac35912dfd6fa18106f5158b5b84f8afc" title="chrdev_init" alt="" coords="343,31,428,57"/>
+<area shape="rect" id="node4" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="476,5,599,32"/>
+<area shape="rect" id="node5" href="$dcache_8c.html#a8e57b1d00f73b05cbc11789c78196ce4" title="vfs_caches_init" alt="" coords="481,56,594,83"/>
+</map>

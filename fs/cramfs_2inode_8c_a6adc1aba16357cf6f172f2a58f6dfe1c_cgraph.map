@@ -1,0 +1,7 @@
+<map id="init_cramfs_fs" name="init_cramfs_fs">
+<area shape="rect" id="node2" href="$cramfs_2internal_8h.html#ab4e6fbd7262067d459c9ba620e2a4627" title="cramfs_uncompress_init" alt="" coords="159,5,323,32"/>
+<area shape="rect" id="node3" href="$filesystems_8c.html#a12c8edd3583d48417f03f189e05dd601" title="register_filesystem" alt="" coords="175,56,307,83"/>
+<area shape="rect" id="node6" href="$cramfs_2internal_8h.html#a5854986f5e5cec22f82bf64b20c9f27d" title="cramfs_uncompress_exit" alt="" coords="157,107,325,133"/>
+<area shape="rect" id="node4" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="387,31,498,57"/>
+<area shape="rect" id="node5" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="373,81,512,108"/>
+</map>

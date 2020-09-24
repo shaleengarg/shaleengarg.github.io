@@ -1,0 +1,7 @@
+<map id="unlink_group" name="unlink_group">
+<area shape="rect" id="node2" href="$configfs_2dir_8c.html#ae07f6ff7bb3cfd5aa05f5509a2a7db95" title="unlink_obj" alt="" coords="148,56,228,83"/>
+<area shape="rect" id="node3" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="276,56,391,83"/>
+<area shape="rect" id="node4" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="439,5,577,32"/>
+<area shape="rect" id="node6" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="439,56,577,83"/>
+<area shape="rect" id="node5" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="625,56,767,83"/>
+</map>

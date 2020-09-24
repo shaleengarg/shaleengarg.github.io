@@ -1,0 +1,9 @@
+<map id="drop_space" name="drop_space">
+<area shape="rect" id="node2" href="$config_8c.html#a1a93a5d2f93a8b0ddfc53d00c9089927" title="config_item_to_space" alt="" coords="150,5,299,32"/>
+<area shape="rect" id="node3" href="$configfs_2dir_8c.html#aa6d702a539f67e7863ca66d2583b2a35" title="configfs_remove_default\l_groups" alt="" coords="143,107,307,149"/>
+<area shape="rect" id="node4" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="367,60,481,87"/>
+<area shape="rect" id="node8" href="$configfs_2dir_8c.html#a2d43ef87b4908365f3d98c5680ed65fb" title="EXPORT_SYMBOL" alt="" coords="355,115,493,141"/>
+<area shape="rect" id="node5" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="541,9,680,36"/>
+<area shape="rect" id="node7" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="541,60,680,87"/>
+<area shape="rect" id="node6" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="728,60,869,87"/>
+</map>

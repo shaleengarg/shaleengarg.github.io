@@ -1,0 +1,11 @@
+<map id="nfsd4_validate_stateid" name="nfsd4_validate_stateid">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a1a39e84278738642ed631ca0f01e85d4" title="same_clid" alt="" coords="250,5,331,32"/>
+<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a18b795e010f8102f177de7ab67fe02b5" title="find_stateid_locked" alt="" coords="223,56,358,83"/>
+<area shape="rect" id="node4" href="$_2nfs4state_8c.html#acd4a5c323acdaeab42047119e868ea2d" title="nfsd4_stid_check_stateid\l_generation" alt="" coords="205,107,376,149"/>
+<area shape="rect" id="node8" href="$_2nfs4state_8c.html#ae9ee54de20c4725e3f95b9b6f8d4a489" title="nfsd4_check_openowner\l_confirmed" alt="" coords="207,173,374,214"/>
+<area shape="rect" id="node10" href="$state_8h.html#a505438b904d5eee0a3ad9bf421e62475" title="openlockstateid" alt="" coords="234,239,347,265"/>
+<area shape="rect" id="node5" href="$_2nfs4state_8c.html#aeb9122d3eaf9186cc2ed6bb40d2f01b3" title="nfsd4_verify_open_stid" alt="" coords="431,72,587,99"/>
+<area shape="rect" id="node6" href="$_2nfs4state_8c.html#aad9b7f79836af7de9a929da3b00b2a38" title="check_stateid_generation" alt="" coords="424,123,595,149"/>
+<area shape="rect" id="node7" href="$state_8h.html#a5a5f320c5015135803f2d539ed91e636" title="nfsd4_stateid_generation\l_after" alt="" coords="643,115,809,157"/>
+<area shape="rect" id="node9" href="$state_8h.html#a26a72a7d62d604e6b52faf456272c0c2" title="openowner" alt="" coords="467,180,552,207"/>
+</map>

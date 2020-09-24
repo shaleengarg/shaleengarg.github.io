@@ -1,0 +1,7 @@
+<map id="btrfs_insert_inode_hash" name="btrfs_insert_inode_hash">
+<area shape="rect" id="node2" href="$btrfs__inode_8h.html#ac2038bbccb9cd9ea9396ec1363403d6d" title="btrfs_inode_hash" alt="" coords="223,5,345,32"/>
+<area shape="rect" id="node3" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="245,56,323,83"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a075adb31e138899c45342da4e383a132" title="__insert_inode_hash" alt="" coords="213,107,355,133"/>
+<area shape="rect" id="node5" href="$inode_8c.html#aa1822403d896f1040c371de082022045" title="hash" alt="" coords="447,81,497,108"/>
+<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="403,132,541,159"/>
+</map>

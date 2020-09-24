@@ -1,0 +1,17 @@
+<map id="BEFS_I" name="BEFS_I">
+<area shape="rect" id="node2" href="$linuxvfs_8c.html#a9c7975f9851a11d606df996905963ea2" title="befs_get_block" alt="" coords="145,56,256,83"/>
+<area shape="rect" id="node5" href="$linuxvfs_8c.html#a4f5bb7d4b2829b3fc8d5a0fccfb18aa2" title="befs_lookup" alt="" coords="349,183,441,209"/>
+<area shape="rect" id="node6" href="$linuxvfs_8c.html#a924a0b818a174dade47c07fb60ead6bf" title="befs_readdir" alt="" coords="154,157,247,184"/>
+<area shape="rect" id="node7" href="$linuxvfs_8c.html#ae9671f1362dc6069680efe55018d2af1" title="befs_i_callback" alt="" coords="145,107,257,133"/>
+<area shape="rect" id="node9" href="$linuxvfs_8c.html#aedbe788afc307773b17eb406884e5e7c" title="befs_iget" alt="" coords="163,259,238,285"/>
+<area shape="rect" id="node13" href="$linuxvfs_8c.html#ab8fd025173dce1ad9990736bd97bba04" title="befs_get_parent" alt="" coords="338,335,453,361"/>
+<area shape="rect" id="node16" href="$linuxvfs_8c.html#addba1351eb66b17e54b532fceae4cc59" title="befs_symlink_readpage" alt="" coords="121,360,280,387"/>
+<area shape="rect" id="node3" href="$linuxvfs_8c.html#a8c5c0fd0b3a85ed9dab80dc855e92940" title="befs_readpage" alt="" coords="342,56,449,83"/>
+<area shape="rect" id="node4" href="$linuxvfs_8c.html#ad356731f224e30c165be8d8706842576" title="befs_bmap" alt="" coords="352,5,439,32"/>
+<area shape="rect" id="node8" href="$linuxvfs_8c.html#a58979f45bc9eb87fe9c1c0e4d9914fc2" title="befs_destroy_inode" alt="" coords="328,107,463,133"/>
+<area shape="rect" id="node10" href="$linuxvfs_8c.html#a3ef155f8180925e0d300e6489a4f355e" title="befs_nfs_get_inode" alt="" coords="328,284,463,311"/>
+<area shape="rect" id="node14" href="$linuxvfs_8c.html#a30e9277c032bba9959ff9915dd984311" title="befs_fill_super" alt="" coords="342,233,449,260"/>
+<area shape="rect" id="node11" href="$linuxvfs_8c.html#a1445acb2bb86c1b73d827485c67de2c1" title="befs_fh_to_dentry" alt="" coords="511,284,637,311"/>
+<area shape="rect" id="node12" href="$linuxvfs_8c.html#a48cb0963407fb8c47fa7efc931c8675c" title="befs_fh_to_parent" alt="" coords="511,335,637,361"/>
+<area shape="rect" id="node15" href="$linuxvfs_8c.html#a8b1fcdbb8f3f75f965b513822b0082be" title="befs_mount" alt="" coords="529,233,619,260"/>
+</map>

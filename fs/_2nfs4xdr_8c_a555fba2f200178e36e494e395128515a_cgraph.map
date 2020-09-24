@@ -1,0 +1,7 @@
+<map id="nfs4svc_decode_compoundargs" name="nfs4svc_decode_compoundargs">
+<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a425a8a4db62866579cd0fba739df1063" title="nfsd4_decode_compound" alt="" coords="263,81,433,108"/>
+<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a1f92d8575248976828ddd6918430fe97" title="nfsd4_opnum_in_range" alt="" coords="481,5,637,32"/>
+<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#a5a04ae7222e665521e288ae5a100c34a" title="OPDESC" alt="" coords="685,107,764,133"/>
+<area shape="rect" id="node5" href="$_2nfs4proc_8c.html#a8009de2ee2c0ee1b99a5fd2d6dcee34f" title="nfsd4_cache_this_op" alt="" coords="487,107,632,133"/>
+<area shape="rect" id="node6" href="$_2nfs4proc_8c.html#af495a385b07da13b426cceef4e04ae31" title="nfsd4_max_reply" alt="" coords="499,157,620,184"/>
+</map>

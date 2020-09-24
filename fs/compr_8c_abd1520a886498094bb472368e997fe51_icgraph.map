@@ -1,0 +1,10 @@
+<map id="jffs2_register_compressor" name="jffs2_register_compressor">
+<area shape="rect" id="node2" href="$compr__lzo_8c.html#ac1ccd71b522c12e6726c5ca862b9c821" title="jffs2_lzo_init" alt="" coords="245,5,340,32"/>
+<area shape="rect" id="node6" href="$compr__rtime_8c.html#a8c4b3cba07d1cd06e1987e986c7065b0" title="jffs2_rtime_init" alt="" coords="239,56,346,83"/>
+<area shape="rect" id="node7" href="$compr__rubin_8c.html#a54a735029d55fa2dec474484df909d5f" title="jffs2_rubinmips_init" alt="" coords="225,107,360,133"/>
+<area shape="rect" id="node8" href="$compr__rubin_8c.html#ae5b89a450e16f7c786db10e85625eda5" title="jffs2_dynrubin_init" alt="" coords="229,157,356,184"/>
+<area shape="rect" id="node9" href="$compr__zlib_8c.html#a24ea23fcc3c4ef266d416b64a3e20326" title="jffs2_zlib_init" alt="" coords="243,208,342,235"/>
+<area shape="rect" id="node3" href="$compr_8h.html#a8b2cf640783a641aa201743a0a11993d" title="jffs2_compressors_init" alt="" coords="408,107,561,133"/>
+<area shape="rect" id="node4" href="$jffs2_2super_8c.html#ada8dce06e76419fa4b8962c92ab79beb" title="init_jffs2_fs" alt="" coords="609,107,699,133"/>
+<area shape="rect" id="node5" href="$jffs2_2super_8c.html#a31e0a1b18c45bc5888279ccd9f17b556" title="exit_jffs2_fs" alt="" coords="747,107,840,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bdev_evict_inode" name="bdev_evict_inode">
+<area shape="rect" id="node2" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="222,19,293,45"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a511a3d38c9628cbbc9a340749be4bfe9" title="invalidate_inode_buffers" alt="" coords="176,69,339,96"/>
+<area shape="rect" id="node7" href="$inode_8c.html#a5ef1de74cc382d6cd8afddc6e66a47a4" title="clear_inode" alt="" coords="213,132,301,159"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#ae1120bf173819fd9bfa5a939b13f46e8" title="inode_has_buffers" alt="" coords="404,5,532,32"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ad595c04f28b431cc4c8da5e29eb705db" title="__remove_assoc_queue" alt="" coords="387,56,549,83"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="399,107,537,133"/>
+<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="399,157,537,184"/>
+</map>

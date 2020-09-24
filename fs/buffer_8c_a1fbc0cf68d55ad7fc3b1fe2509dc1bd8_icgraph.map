@@ -1,0 +1,8 @@
+<map id="blkdev_max_block" name="blkdev_max_block">
+<area shape="rect" id="node2" href="$buffer_8c.html#a2a63a7d91de10e99449de68903a2c90f" title="init_page_buffers" alt="" coords="184,5,305,32"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a8620ca0474bbd9b82a6a0f6827d8b8c2" title="grow_dev_page" alt="" coords="353,5,467,32"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#ab362a5ea822dded250aa8fb9b3e0a105" title="grow_buffers" alt="" coords="515,5,612,32"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a0afbbc13c36fbd7ead5948b2926e7d90" title="__getblk_slow" alt="" coords="660,5,765,32"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a786052bd5bd2888c5512965a2f746e84" title="__getblk_gfp" alt="" coords="813,5,909,32"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#afa01bff6f071077845c288301912fbda" title="__bread_gfp" alt="" coords="957,5,1051,32"/>
+</map>

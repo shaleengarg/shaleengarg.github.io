@@ -1,0 +1,6 @@
+<map id="comm_addr_list_show" name="comm_addr_list_show">
+<area shape="rect" id="node2" href="$config_8c.html#ac2b849dda15f3cb51a6a417bfa100b2a" title="config_item_to_comm" alt="" coords="211,5,362,32"/>
+<area shape="rect" id="node3" href="$config_8c.html#ac616f89beec4a39c69bc03cbc4d0c894" title="CONFIGFS_ATTR" alt="" coords="220,56,353,83"/>
+<area shape="rect" id="node4" href="$config_8c.html#a7768e3785259541fd92b5dff4925c2e0" title="CONFIGFS_ATTR_WO" alt="" coords="205,107,368,133"/>
+<area shape="rect" id="node5" href="$config_8c.html#a1f96d65933f0bf93ff5cb836ee9d3fb6" title="CONFIGFS_ATTR_RO" alt="" coords="207,157,367,184"/>
+</map>

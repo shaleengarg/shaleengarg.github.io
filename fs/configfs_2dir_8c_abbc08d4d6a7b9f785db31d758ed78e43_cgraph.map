@@ -1,0 +1,7 @@
+<map id="client_drop_item" name="client_drop_item">
+<area shape="rect" id="node2" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="179,56,294,83"/>
+<area shape="rect" id="node6" href="$configfs__internal_8h.html#a41a934a285ce716a29d8a5426b3559f4" title="configfs_get_name" alt="" coords="171,107,303,133"/>
+<area shape="rect" id="node3" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="351,5,489,32"/>
+<area shape="rect" id="node5" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="351,56,489,83"/>
+<area shape="rect" id="node4" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="537,56,679,83"/>
+</map>

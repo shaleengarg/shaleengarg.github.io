@@ -1,0 +1,11 @@
+<map id="o2hb_region_pin" name="o2hb_region_pin">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a30265100f3b285235211a9756131a38c" title="o2hb_heartbeat_group\l_drop_item" alt="" coords="169,5,320,47"/>
+<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#ada49b27f4a8d1b7a822c9500eeea8aac" title="o2hb_region_inc_user" alt="" coords="171,71,319,98"/>
+<area shape="rect" id="node4" href="$cluster_2heartbeat_8h.html#af0eebc8fae5bb0cf7e575bf6c473ea9a" title="o2hb_register_callback" alt="" coords="368,71,523,98"/>
+<area shape="rect" id="node5" href="$tcp_8h.html#ae1de271c512302aba822502c0c3d6762" title="o2net_register_hb_callbacks" alt="" coords="571,42,757,69"/>
+<area shape="rect" id="node7" href="$dlmdomain_8c.html#a5a1e1b2dfb2beaf2266c20aaa8688155" title="dlm_register_domain\l_handlers" alt="" coords="593,93,735,135"/>
+<area shape="rect" id="node6" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="825,42,904,69"/>
+<area shape="rect" id="node8" href="$dlmdomain_8c.html#affee3bbfcdea87eedd2014d822f30644" title="dlm_join_domain" alt="" coords="805,101,924,127"/>
+<area shape="rect" id="node9" href="$dlmdomain_8c.html#ae919e83248a462e98afc7b41066b992f" title="dlm_register_domain" alt="" coords="972,101,1115,127"/>
+<area shape="rect" id="node10" href="$stack__o2cb_8c.html#a6fbec0ac0199f1beacbae9a3ad9d23ef" title="o2cb_cluster_connect" alt="" coords="1163,101,1312,127"/>
+</map>

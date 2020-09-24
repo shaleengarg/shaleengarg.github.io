@@ -1,0 +1,10 @@
+<map id="get_space" name="get_space">
+<area shape="rect" id="node2" href="$item_8c.html#ae7a6f670eec0d6826a182871a4e95199" title="config_group_find_item" alt="" coords="136,107,292,133"/>
+<area shape="rect" id="node9" href="$config_8c.html#a1a93a5d2f93a8b0ddfc53d00c9089927" title="config_item_to_space" alt="" coords="139,157,289,184"/>
+<area shape="rect" id="node3" href="$item_8c.html#a0be0504285374a3ff29f885570596bf0" title="to_item" alt="" coords="340,56,405,83"/>
+<area shape="rect" id="node7" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="992,107,1131,133"/>
+<area shape="rect" id="node8" href="$item_8c.html#a2fe4c03cd5fb7c4aa54724629e3f8811" title="config_item_get" alt="" coords="465,157,580,184"/>
+<area shape="rect" id="node4" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="453,56,592,83"/>
+<area shape="rect" id="node5" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="640,5,781,32"/>
+<area shape="rect" id="node6" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="829,56,944,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="coda_open" name="coda_open">
+<area shape="rect" id="node2" href="$coda__linux_8c.html#a340e7971fad26983b548e2aa56eb43d2" title="coda_flags_to_cflags" alt="" coords="139,5,284,32"/>
+<area shape="rect" id="node3" href="$upcall_8c.html#a20c71873ba3016a45459b44b14400df3" title="venus_open" alt="" coords="165,56,257,83"/>
+<area shape="rect" id="node8" href="$coda__linux_8h.html#a8965e1ffc208d02b6ce27c9cd035744b" title="coda_i2f" alt="" coords="176,107,247,133"/>
+<area shape="rect" id="node4" href="$upcall_8c.html#aaffa91d1c8a5e874e8758a27c22ce678" title="coda_upcall" alt="" coords="332,56,423,83"/>
+<area shape="rect" id="node5" href="$upcall_8c.html#a061b2aa3b8cfa2256c2f5e1211e5abdc" title="coda_waitfor_upcall" alt="" coords="471,56,608,83"/>
+<area shape="rect" id="node6" href="$upcall_8c.html#a9699b95512723ea903b752015912ce31" title="coda_block_signals" alt="" coords="663,31,799,57"/>
+<area shape="rect" id="node7" href="$upcall_8c.html#aec1f235e526b282dc5cf5368ac84bafd" title="coda_unblock_signals" alt="" coords="656,81,807,108"/>
+<area shape="rect" id="node9" href="$coda__linux_8h.html#a96e5b87913d07d6f4dfae763d017149c" title="ITOC" alt="" coords="350,107,405,133"/>
+</map>

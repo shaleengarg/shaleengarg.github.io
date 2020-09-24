@@ -1,0 +1,30 @@
+<map id="cifs_fattr_to_inode" name="cifs_fattr_to_inode">
+<area shape="rect" id="node2" href="$cifsglob_8h.html#ae3ecf9e285969a4c5ce00404a6f6ab52" title="CIFS_I" alt="" coords="423,11,487,38"/>
+<area shape="rect" id="node3" href="$cifsglob_8h.html#ae3f8f07c8ab8eb89927ca40f89e7e6cd" title="CIFS_SB" alt="" coords="596,138,675,165"/>
+<area shape="rect" id="node4" href="$cifs_2inode_8c.html#ae41461ca00f6a8749fe58a097b83528e" title="cifs_revalidate_cache" alt="" coords="190,37,338,63"/>
+<area shape="rect" id="node5" href="$cifs_2inode_8c.html#af514f4f06cc67bc71dbb5aa60ab8eb5c" title="cifs_nlink_fattr_to\l_inode" alt="" coords="201,309,327,351"/>
+<area shape="rect" id="node9" href="$cifsproto_8h.html#a54024cfbec8c22a9f99f7ecf8c590555" title="is_size_safe_to_change" alt="" coords="183,138,345,165"/>
+<area shape="rect" id="node28" href="$cifs_2inode_8c.html#a4fd46c42dba07633ed4d4ae2a3b531b7" title="cifs_set_ops" alt="" coords="407,239,503,266"/>
+<area shape="rect" id="node6" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="417,341,492,367"/>
+<area shape="rect" id="node7" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="593,391,677,418"/>
+<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="757,341,895,367"/>
+<area shape="rect" id="node10" href="$cifs_2file_8c.html#aa28b3dc69a969627b2b3c76c899c7189" title="is_inode_writable" alt="" coords="393,189,516,215"/>
+<area shape="rect" id="node11" href="$hostfs_8h.html#ab04038ecd7ae2b1963e82812dec8722c" title="open_file" alt="" coords="598,189,673,215"/>
+<area shape="rect" id="node12" href="$cifsglob_8h.html#a1ddc7c4e9753241628b603300258347d" title="cifs_sb_master_tcon" alt="" coords="564,239,707,266"/>
+<area shape="rect" id="node13" href="$cifsglob_8h.html#ab4760ec192f88e3be3be1ffa893ac82c" title="tlink_tcon" alt="" coords="787,214,865,241"/>
+<area shape="rect" id="node27" href="$connect_8c.html#aaf5927d537c184754865eb45f8a8bd96" title="cifs_sb_master_tlink" alt="" coords="755,265,897,291"/>
+<area shape="rect" id="node14" href="$cifsglob_8h.html#a604a737395524f3dbb74a1928b50c806" title="cifs_put_tlink" alt="" coords="945,214,1044,241"/>
+<area shape="rect" id="node15" href="$connect_8c.html#abdadda4b8077645d7f13ba2ef78bc2ba" title="cifs_put_tcon" alt="" coords="1092,214,1192,241"/>
+<area shape="rect" id="node16" href="$cifsproto_8h.html#a4df2b51473a67cceae5e88d66cc2f181" title="_free_xid" alt="" coords="1469,189,1543,215"/>
+<area shape="rect" id="node17" href="$cifs_2fscache_8c.html#aa668ba9e75dc94cbcaaec3a7333b3530" title="cifs_fscache_release\l_super_cookie" alt="" coords="1240,291,1385,332"/>
+<area shape="rect" id="node18" href="$cifsproto_8h.html#aeceb194f876c16a0c5a1c2404f4f13e9" title="tconInfoFree" alt="" coords="1653,159,1747,186"/>
+<area shape="rect" id="node19" href="$connect_8c.html#aba5e718d6f9e7759e8fa66326aadf602" title="cifs_put_smb_ses" alt="" coords="1249,239,1377,266"/>
+<area shape="rect" id="node20" href="$connect_8c.html#a31cb5b67f5a5b999857c6139b9bdc8bf" title="cifs_free_ipc" alt="" coords="1458,239,1554,266"/>
+<area shape="rect" id="node21" href="$cifsproto_8h.html#ab8bbb58644e58dd78e28554fd520cbe3" title="sesInfoFree" alt="" coords="1461,341,1551,367"/>
+<area shape="rect" id="node22" href="$connect_8c.html#ad7c6f2a644e3c1a7466f350e66357f8d" title="cifs_put_tcp_session" alt="" coords="1433,290,1579,317"/>
+<area shape="rect" id="node26" href="$connect_8c.html#ac1dfbee3ec3aaf8d544f92245735a73b" title="cifs_set_cifscreds" alt="" coords="1442,391,1570,418"/>
+<area shape="rect" id="node23" href="$cifsglob_8h.html#a76251f18fe72e8a675527b50635e7a24" title="cifs_net_ns" alt="" coords="1655,231,1745,258"/>
+<area shape="rect" id="node24" href="$cifsencrypt_8c.html#a11f914963f9bccda86dd0a17a0e24267" title="cifs_crypto_secmech\l_release" alt="" coords="1627,283,1773,324"/>
+<area shape="rect" id="node25" href="$cifs_2fscache_8c.html#a3706c49cd33f874f35803f62112f1289" title="cifs_fscache_release\l_client_cookie" alt="" coords="1627,348,1773,389"/>
+<area shape="rect" id="node29" href="$inode_8c.html#aa992afd465d948c7fca769d396933c98" title="init_special_inode" alt="" coords="573,290,698,317"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="init_feature_attrs" name="init_feature_attrs">
+<area shape="rect" id="node2" href="$btrfs_2sysfs_8c.html#a3ecc3a370ea58d178626809928b18ec3" title="btrfs_init_sysfs" alt="" coords="172,5,283,32"/>
+<area shape="rect" id="node3" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="331,5,421,32"/>
+<area shape="rect" id="node4" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="469,5,564,32"/>
+</map>

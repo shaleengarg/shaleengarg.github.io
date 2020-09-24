@@ -1,0 +1,5 @@
+<map id="proc_inode_is_dead" name="proc_inode_is_dead">
+<area shape="rect" id="node2" href="$proc_2internal_8h.html#a6fc13cc838229976a44bd611367f7d8f" title="pid_delete_dentry" alt="" coords="191,5,315,32"/>
+<area shape="rect" id="node3" href="$base_8c.html#ae7e56e8c0a3c635a847535b909126580" title="proc_task_readdir" alt="" coords="191,56,316,83"/>
+<area shape="rect" id="node4" href="$base_8c.html#aac8ee96c99ab66f3aea706fe0130a331" title="proc_task_getattr" alt="" coords="364,56,487,83"/>
+</map>

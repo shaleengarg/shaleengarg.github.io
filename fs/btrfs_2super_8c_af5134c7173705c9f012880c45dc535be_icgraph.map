@@ -1,0 +1,5 @@
+<map id="get_default_subvol_objectid" name="get_default_subvol_objectid">
+<area shape="rect" id="node2" href="$btrfs_2super_8c.html#a29d29bde364a25ef1aeb57bc00d2204e" title="mount_subvol" alt="" coords="184,13,287,39"/>
+<area shape="rect" id="node3" href="$btrfs_2super_8c.html#a727584f687f90b26e216838c539d53ed" title="btrfs_mount" alt="" coords="335,13,425,39"/>
+<area shape="rect" id="node4" href="$btrfs_2super_8c.html#a89866e36e3959d1dd885ced894dc0643" title="btrfs_kill_super" alt="" coords="473,13,584,39"/>
+</map>

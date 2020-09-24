@@ -1,0 +1,8 @@
+<map id="exit_aout_binfmt" name="exit_aout_binfmt">
+<area shape="rect" id="node2" href="$exec_8c.html#aa4217a607e4fa264eacc4c8dd4e258dc" title="unregister_binfmt" alt="" coords="183,5,305,32"/>
+<area shape="rect" id="node4" href="$binfmt__aout_8c.html#a1a4c6482133ced88c544dc98a47bfed7" title="core_initcall" alt="" coords="199,56,289,83"/>
+<area shape="rect" id="node5" href="$binfmt__aout_8c.html#add6dd88769af1dfad7afafb05a9a78e7" title="init_aout_binfmt" alt="" coords="187,107,301,133"/>
+<area shape="rect" id="node6" href="$binfmt__aout_8c.html#ab786fe4b4e9b7bb0a036b9afd81b5c17" title="module_exit" alt="" coords="198,157,290,184"/>
+<area shape="rect" id="node7" href="$binfmt__aout_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="172,208,316,235"/>
+<area shape="rect" id="node3" href="$exec_8c.html#ab96a58357b2f88a781d9f77c5320fed7" title="EXPORT_SYMBOL" alt="" coords="364,5,503,32"/>
+</map>

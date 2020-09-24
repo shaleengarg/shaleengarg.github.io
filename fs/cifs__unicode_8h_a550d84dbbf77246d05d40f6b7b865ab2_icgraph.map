@@ -1,0 +1,12 @@
+<map id="UniStrncpy_le" name="UniStrncpy_le">
+<area shape="rect" id="node2" href="$jfs__dtree_8c.html#ac41cd4ce02cebdb31e7054d59f522ca6" title="dtMoveEntry" alt="" coords="157,132,253,159"/>
+<area shape="rect" id="node3" href="$jfs__dtree_8c.html#aeddc80b783f590230ec47a65b4259b2e" title="dtSplitPage" alt="" coords="301,132,391,159"/>
+<area shape="rect" id="node4" href="$jfs__dtree_8c.html#abcbec24999ffabda29bbf207ffb2c0f4" title="dtSplitUp" alt="" coords="439,132,515,159"/>
+<area shape="rect" id="node5" href="$jfs__dtree_8h.html#ad0f58dfc55007edafa9c2893af25de3d" title="dtInsert" alt="" coords="563,132,629,159"/>
+<area shape="rect" id="node6" href="$jfs_2namei_8c.html#acb5dbad87badfa2c17975c1e3f8f69a7" title="jfs_create" alt="" coords="682,5,761,32"/>
+<area shape="rect" id="node7" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="684,56,759,83"/>
+<area shape="rect" id="node8" href="$jfs_2namei_8c.html#af8a66989f32d041f582d4ff611d291b7" title="jfs_link" alt="" coords="690,107,753,133"/>
+<area shape="rect" id="node9" href="$jfs_2namei_8c.html#aba1fc327be9b506d66b67bfef6a435bf" title="jfs_symlink" alt="" coords="677,157,765,184"/>
+<area shape="rect" id="node10" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="678,208,765,235"/>
+<area shape="rect" id="node11" href="$jfs_2namei_8c.html#a8e48423fb7b4d82fdb4214f061366964" title="jfs_mknod" alt="" coords="680,259,763,285"/>
+</map>

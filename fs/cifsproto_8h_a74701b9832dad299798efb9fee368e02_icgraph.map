@@ -1,0 +1,5 @@
+<map id="setup_ntlm_response" name="setup_ntlm_response">
+<area shape="rect" id="node2" href="$sess_8c.html#ab23e2b3ab00a8b247bfeaeddd25237c3" title="sess_auth_ntlm" alt="" coords="200,5,315,32"/>
+<area shape="rect" id="node3" href="$sess_8c.html#abed14428fcd713471f264576b01d450a" title="select_sec" alt="" coords="363,5,448,32"/>
+<area shape="rect" id="node4" href="$sess_8c.html#a77c3a8af6e43e5591ae61afffa79aefa" title="CIFS_SessSetup" alt="" coords="496,5,620,32"/>
+</map>

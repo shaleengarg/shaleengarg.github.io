@@ -1,0 +1,15 @@
+<map id="cachefiles_daemon_bind" name="cachefiles_daemon_bind">
+<area shape="rect" id="node2" href="$cachefiles_2internal_8h.html#a0752ef602fe821eb83ee8fd1218f39c9" title="cachefiles_state_changed" alt="" coords="219,247,392,273"/>
+<area shape="rect" id="node3" href="$cachefiles_2namei_8c.html#acf3ab3e53fc0c9258697087347b8f906" title="cachefiles_mark_object\l_inactive" alt="" coords="440,75,599,117"/>
+<area shape="rect" id="node7" href="$cachefiles_2internal_8h.html#a824376f681102f3ba28b537486e5b4b9" title="cachefiles_has_space" alt="" coords="444,247,595,273"/>
+<area shape="rect" id="node4" href="$cachefiles_2namei_8c.html#a7e43126fd60d2e219e5a4f736579ed2e" title="cachefiles_walk_to\l_object" alt="" coords="664,57,797,98"/>
+<area shape="rect" id="node6" href="$interface_8c.html#a114f4c1128ad29989dc0bb7514aa623c" title="cachefiles_drop_object" alt="" coords="653,5,808,32"/>
+<area shape="rect" id="node5" href="$interface_8c.html#a8fbee02df395f0f141e7233af061bd5f" title="cachefiles_lookup_object" alt="" coords="863,64,1031,91"/>
+<area shape="rect" id="node8" href="$cachefiles_2namei_8c.html#a665df09c865a898ad11432eccff09806" title="cachefiles_get_directory" alt="" coords="649,473,812,500"/>
+<area shape="rect" id="node9" href="$bind_8c.html#aad3d92320d96c377d778be4eeac70493" title="cachefiles_daemon_add\l_cache" alt="" coords="865,466,1028,507"/>
+<area shape="rect" id="node10" href="$daemon_8c.html#ab639c72d60844a1657e85d5b6a5e9c05" title="cachefiles_daemon_read" alt="" coords="647,423,814,449"/>
+<area shape="rect" id="node11" href="$rdwr_8c.html#a589aac7a774a78761fe56884404d9e97" title="cachefiles_read_or\l_alloc_page" alt="" coords="665,174,796,215"/>
+<area shape="rect" id="node12" href="$rdwr_8c.html#a473a0101162d6fa586ad7cd93d23ce62" title="cachefiles_read_or\l_alloc_pages" alt="" coords="665,239,796,281"/>
+<area shape="rect" id="node13" href="$rdwr_8c.html#ab917ae80357b0663842d1952a42e77a1" title="cachefiles_allocate_page" alt="" coords="647,305,815,332"/>
+<area shape="rect" id="node14" href="$rdwr_8c.html#a9c4b770b4ad1f1e8a4b9fab46d2ce68f" title="cachefiles_allocate\l_pages" alt="" coords="664,357,797,398"/>
+</map>

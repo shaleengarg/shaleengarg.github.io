@@ -1,0 +1,8 @@
+<map id="btrfs_check_space_for_delayed_refs" name="btrfs_check_space_for_delayed_refs">
+<area shape="rect" id="node2" href="$ctree_8h.html#a79530e42573c0ee074ceb96fb035254f" title="btrfs_calc_trans_metadata_size" alt="" coords="208,5,415,32"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#aad892acc76b8e8be495319c6bd06bb0d" title="heads_to_leaves" alt="" coords="492,56,612,83"/>
+<area shape="rect" id="node5" href="$extent-tree_8c.html#a19d26d64ee10ff5e2f0119729665ea2b" title="btrfs_csum_bytes_to\l_leaves" alt="" coords="239,107,383,149"/>
+<area shape="rect" id="node4" href="$ctree_8h.html#ab02e1c880ffc6919e7f0030537458bf6" title="BTRFS_LEAF_DATA_SIZE" alt="" coords="689,81,876,108"/>
+<area shape="rect" id="node6" href="$ctree_8h.html#a47d7d806719dc0e4c147c17365a6d1e8" title="BTRFS_MAX_ITEM_SIZE" alt="" coords="463,107,641,133"/>
+<area shape="rect" id="node7" href="$ctree_8h.html#ac2c048c08d98039688c6e1d3c216e44e" title="btrfs_super_csum_size" alt="" coords="473,157,631,184"/>
+</map>

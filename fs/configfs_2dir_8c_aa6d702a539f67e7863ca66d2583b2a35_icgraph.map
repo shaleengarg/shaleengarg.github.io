@@ -1,0 +1,5 @@
+<map id="configfs_remove_default_groups" name="configfs_remove_default_groups">
+<area shape="rect" id="node2" href="$config_8c.html#a3bf9caf72e66d79467aca9c18760eed0" title="drop_cluster" alt="" coords="240,5,333,32"/>
+<area shape="rect" id="node3" href="$config_8c.html#ae91846ea52d8e81d6bed3f91e34f7d86" title="drop_space" alt="" coords="242,56,331,83"/>
+<area shape="rect" id="node4" href="$nodemanager_8c.html#a77f652c771487e9889f5b8b7d2fe5c6d" title="o2nm_cluster_group\l_drop_item" alt="" coords="217,107,356,149"/>
+</map>

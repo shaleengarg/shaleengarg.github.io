@@ -1,0 +1,6 @@
+<map id="ceph_zero_objects" name="ceph_zero_objects">
+<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="591,5,679,32"/>
+<area shape="rect" id="node3" href="$ceph_2file_8c.html#a6e121849cd6dc45a67f3340076b3c3d3" title="ceph_zero_partial_object" alt="" coords="184,31,351,57"/>
+<area shape="rect" id="node4" href="$ceph_2super_8h.html#a5be186be86525c0059b447415c8f9667" title="ceph_inode_to_client" alt="" coords="399,56,543,83"/>
+<area shape="rect" id="node5" href="$ceph_2super_8h.html#ab9776e3e695e4d6214fd8061a0ab43cb" title="ceph_vino" alt="" coords="430,107,511,133"/>
+</map>

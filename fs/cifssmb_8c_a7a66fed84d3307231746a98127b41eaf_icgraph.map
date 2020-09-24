@@ -1,0 +1,4 @@
+<map id="access_flags_to_smbopen_mode" name="access_flags_to_smbopen_mode">
+<area shape="rect" id="node2" href="$cifssmb_8c.html#a80f0bccde71996d27548c40864592134" title="SMBLegacyOpen" alt="" coords="269,5,393,32"/>
+<area shape="rect" id="node3" href="$smb1ops_8c.html#a34efe53c2fe97accf5a347f697d0faad" title="cifs_open_file" alt="" coords="441,5,544,32"/>
+</map>

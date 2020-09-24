@@ -1,0 +1,5 @@
+<map id="proc_fd_access_allowed" name="proc_fd_access_allowed">
+<area shape="rect" id="node2" href="$base_8c.html#ac233c958d2f5315aff4a001e1eeb74e2" title="proc_pid_get_link" alt="" coords="219,5,341,32"/>
+<area shape="rect" id="node4" href="$base_8c.html#afa570200b9d377921bb85dd792e2491e" title="proc_pid_readlink" alt="" coords="219,56,341,83"/>
+<area shape="rect" id="node3" href="$base_8c.html#a48d9f174ac641d462fc90aef342f8099" title="proc_map_files_get_link" alt="" coords="389,5,552,32"/>
+</map>

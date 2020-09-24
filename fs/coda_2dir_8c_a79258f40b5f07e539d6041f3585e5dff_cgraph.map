@@ -1,0 +1,25 @@
+<map id="coda_link" name="coda_link">
+<area shape="rect" id="node2" href="$coda__linux_8c.html#a9ab64fffc28fbc42749ebbba6743b177" title="coda_iscontrol" alt="" coords="157,31,264,57"/>
+<area shape="rect" id="node3" href="$upcall_8c.html#a20073645a21090a49fd19769d51c16d3" title="venus_link" alt="" coords="169,81,253,108"/>
+<area shape="rect" id="node8" href="$coda__linux_8h.html#a8965e1ffc208d02b6ce27c9cd035744b" title="coda_i2f" alt="" coords="361,81,432,108"/>
+<area shape="rect" id="node10" href="$dcache_8c.html#a7b50883648fd69c385b8bac64314ce0c" title="d_drop" alt="" coords="180,335,241,361"/>
+<area shape="rect" id="node15" href="$coda_2dir_8c.html#a911b1b2337e869e3c9eb8d5cad42c5ee" title="coda_dir_update_mtime" alt="" coords="131,183,291,209"/>
+<area shape="rect" id="node19" href="$inode_8c.html#a077d9e4c20a3973b2e944b77ae44e658" title="ihold" alt="" coords="372,233,421,260"/>
+<area shape="rect" id="node20" href="$dcache_8c.html#a5a3ec23af02f1f96a027c7431adc1bfb" title="d_instantiate" alt="" coords="163,436,259,463"/>
+<area shape="rect" id="node24" href="$inode_8c.html#a9e6c5f183e4d22feba01bc18e9866dd1" title="inc_nlink" alt="" coords="174,284,247,311"/>
+<area shape="rect" id="node4" href="$upcall_8c.html#aaffa91d1c8a5e874e8758a27c22ce678" title="coda_upcall" alt="" coords="351,31,442,57"/>
+<area shape="rect" id="node5" href="$upcall_8c.html#a061b2aa3b8cfa2256c2f5e1211e5abdc" title="coda_waitfor_upcall" alt="" coords="517,31,655,57"/>
+<area shape="rect" id="node6" href="$upcall_8c.html#a9699b95512723ea903b752015912ce31" title="coda_block_signals" alt="" coords="725,5,861,32"/>
+<area shape="rect" id="node7" href="$upcall_8c.html#aec1f235e526b282dc5cf5368ac84bafd" title="coda_unblock_signals" alt="" coords="717,56,868,83"/>
+<area shape="rect" id="node9" href="$coda__linux_8h.html#a96e5b87913d07d6f4dfae763d017149c" title="ITOC" alt="" coords="559,107,613,133"/>
+<area shape="rect" id="node11" href="$dcache_8c.html#ae4904480d16c7850ae6994e92d110f96" title="__d_drop" alt="" coords="359,335,434,361"/>
+<area shape="rect" id="node14" href="$dcache_8c.html#aeb5ec7bdf3301140d66dd18ae638685c" title="EXPORT_SYMBOL" alt="" coords="517,385,655,412"/>
+<area shape="rect" id="node12" href="$dcache_8c.html#afe7718ea6372af4edd41d375be2b7755" title="___d_drop" alt="" coords="545,335,627,361"/>
+<area shape="rect" id="node13" href="$dcache_8c.html#ad0da24b939325fb96de67394f99b2766" title="d_hash" alt="" coords="761,335,825,361"/>
+<area shape="rect" id="node16" href="$coda__linux_8h.html#a434c4471389eed6ea4bd8c8bacb9db8b" title="coda_flag_inode" alt="" coords="339,132,455,159"/>
+<area shape="rect" id="node17" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="349,183,444,209"/>
+<area shape="rect" id="node18" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="517,233,655,260"/>
+<area shape="rect" id="node21" href="$dcache_8c.html#a3c471dd0d1ff573bdb8e84243685ceb3" title="__d_instantiate" alt="" coords="341,487,452,513"/>
+<area shape="rect" id="node22" href="$dcache_8c.html#a990fb9ad584b8c9f0a0167ca94d6a01f" title="d_flags_for_inode" alt="" coords="524,461,648,488"/>
+<area shape="rect" id="node23" href="$dcache_8c.html#a95f527a9dc7c279bc6db816cd2899632" title="__d_set_inode_and_type" alt="" coords="503,512,669,539"/>
+</map>

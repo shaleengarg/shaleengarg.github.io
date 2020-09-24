@@ -1,0 +1,4 @@
+<map id="btrfs_wait_for_snapshot_creation" name="btrfs_wait_for_snapshot_creation">
+<area shape="rect" id="node2" href="$extent-tree_8c.html#ab66e7a4e1b38ac03c24f54c01304510b" title="btrfs_start_write_no\l_snapshotting" alt="" coords="215,5,352,47"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#ad960c659e6062aeeeb929487f8299b9c" title="btrfs_end_write_no\l_snapshotting" alt="" coords="400,5,532,47"/>
+</map>

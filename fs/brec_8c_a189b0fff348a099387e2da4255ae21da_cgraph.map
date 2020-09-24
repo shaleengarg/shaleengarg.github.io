@@ -1,0 +1,6 @@
+<map id="hfs_brec_update_parent" name="hfs_brec_update_parent">
+<area shape="rect" id="node2" href="$brec_8c.html#afb743428d4153ad26edde7b8a531890c" title="hfs_bnode_split" alt="" coords="227,5,341,32"/>
+<area shape="rect" id="node3" href="$bnode_8c.html#aa86bae3ece8dfa02da2cb72370c561a2" title="hfs_bnode_write_u8" alt="" coords="215,56,353,83"/>
+<area shape="rect" id="node5" href="$brec_8c.html#a625285d4396b97f38ecab8e5a2f6b9fc" title="hfs_brec_insert" alt="" coords="229,107,339,133"/>
+<area shape="rect" id="node4" href="$bnode_8c.html#aa728b4a424cbb2753dab5651f219b091" title="hfs_bnode_write" alt="" coords="401,56,519,83"/>
+</map>

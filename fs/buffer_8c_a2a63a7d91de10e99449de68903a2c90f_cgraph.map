@@ -1,0 +1,6 @@
+<map id="init_page_buffers" name="init_page_buffers">
+<area shape="rect" id="node2" href="$buffer_8c.html#a1fbc0cf68d55ad7fc3b1fe2509dc1bd8" title="blkdev_max_block" alt="" coords="175,5,305,32"/>
+<area shape="rect" id="node3" href="$block__dev_8c.html#ac58f1357c2d73d034c45d449d6ca1ea5" title="I_BDEV" alt="" coords="205,56,275,83"/>
+<area shape="rect" id="node4" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="387,31,458,57"/>
+<area shape="rect" id="node5" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="353,81,492,108"/>
+</map>

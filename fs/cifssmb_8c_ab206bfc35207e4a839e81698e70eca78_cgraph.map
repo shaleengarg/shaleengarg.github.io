@@ -1,0 +1,6 @@
+<map id="smb_init_no_reconnect" name="smb_init_no_reconnect">
+<area shape="rect" id="node2" href="$cifssmb_8c.html#a114764c054d11864b440bd701dc19325" title="__smb_init" alt="" coords="209,31,295,57"/>
+<area shape="rect" id="node3" href="$cifsproto_8h.html#a421f9dd23d0dce2d3fe65656d290db95" title="cifs_buf_get" alt="" coords="358,5,451,32"/>
+<area shape="rect" id="node4" href="$cifsproto_8h.html#a37b21935070cd73446adfc031166d04f" title="header_assemble" alt="" coords="343,56,467,83"/>
+<area shape="rect" id="node5" href="$cifsglob_8h.html#ae841142c1287f000b231e6d4a898f8d7" title="get_next_mid" alt="" coords="515,56,615,83"/>
+</map>

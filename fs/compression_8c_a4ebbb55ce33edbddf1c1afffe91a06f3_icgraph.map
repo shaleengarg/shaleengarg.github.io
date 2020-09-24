@@ -1,0 +1,10 @@
+<map id="shannon_entropy" name="shannon_entropy">
+<area shape="rect" id="node2" href="$compression_8h.html#aaf832e7821beb023243f55ed1d20f70e" title="btrfs_compress_heuristic" alt="" coords="175,31,343,57"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#aefa38affc3f8eeb707045b791e8c9ab6" title="inode_need_compress" alt="" coords="391,31,543,57"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a4bcdf8fa7529d080b3d88d0f5ae67abd" title="compress_file_range" alt="" coords="591,5,733,32"/>
+<area shape="rect" id="node7" href="$btrfs_2inode_8c.html#ac0e7e3ac85c1493a932820dcc802e352" title="run_delalloc_range" alt="" coords="1149,31,1280,57"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a7efe1cec8243747534bef90e364ca7e8" title="async_cow_start" alt="" coords="781,5,903,32"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#ac61aa5eefe6f2c561396287cc84cc788" title="cow_file_range_async" alt="" coords="951,5,1101,32"/>
+<area shape="rect" id="node8" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1328,31,1503,57"/>
+<area shape="rect" id="node9" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1551,31,1648,57"/>
+</map>

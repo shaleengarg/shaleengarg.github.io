@@ -1,0 +1,7 @@
+<map id="cifs_parse_devname" name="cifs_parse_devname">
+<area shape="rect" id="node2" href="$connect_8c.html#a020e05bcdb714dd5e81b134393f7024b" title="cifs_parse_mount_options" alt="" coords="196,31,371,57"/>
+<area shape="rect" id="node3" href="$connect_8c.html#a13047896520f48e8260e5a17badb4016" title="cifs_setup_volume_info" alt="" coords="419,31,577,57"/>
+<area shape="rect" id="node4" href="$connect_8c.html#ae6489db393563c4b3def469e96225dbb" title="cifs_cleanup_volume_info" alt="" coords="625,5,797,32"/>
+<area shape="rect" id="node6" href="$connect_8c.html#aeb495e48352a23816a0e8f29b5e0a34c" title="cifs_get_volume_info" alt="" coords="845,56,991,83"/>
+<area shape="rect" id="node5" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="1039,31,1145,57"/>
+</map>

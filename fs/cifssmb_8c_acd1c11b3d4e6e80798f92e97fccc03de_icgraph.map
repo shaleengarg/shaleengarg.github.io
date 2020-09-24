@@ -1,0 +1,5 @@
+<map id="cifs_readv_discard" name="cifs_readv_discard">
+<area shape="rect" id="node2" href="$cifssmb_8c.html#a1718a53d6847daf9a8247b2aaba9f25b" title="cifs_readv_receive" alt="" coords="184,31,315,57"/>
+<area shape="rect" id="node3" href="$cifssmb_8c.html#ae8f788cea060822e236fc09cc877e346" title="cifs_async_readv" alt="" coords="368,5,492,32"/>
+<area shape="rect" id="node4" href="$smb2proto_8h.html#aa3db58ad1d0e43865b2756d59cfb89c4" title="smb2_async_readv" alt="" coords="363,56,497,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ceph_init_inode_acls" name="ceph_init_inode_acls">
+<area shape="rect" id="node2" href="$ceph_2acl_8c.html#af40d8673f712df9ef4b0d28d10bb8c48" title="ceph_set_cached_acl" alt="" coords="196,113,344,140"/>
+<area shape="rect" id="node3" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="439,37,527,64"/>
+<area shape="rect" id="node4" href="$caps_8c.html#a5729c4a88baa72c702f711b65b9e2a02" title="__ceph_caps_issued_mask" alt="" coords="392,88,575,114"/>
+<area shape="rect" id="node9" href="$posix__acl_8c.html#ae2b78748fb46980065a144fc6032a1b8" title="set_cached_acl" alt="" coords="427,138,540,165"/>
+<area shape="rect" id="node12" href="$posix__acl_8c.html#ac52a3e3c99228b236ed9a31243073aa2" title="forget_cached_acl" alt="" coords="419,189,547,216"/>
+<area shape="rect" id="node5" href="$caps_8c.html#aee4ad867f02c07e329a4e9328fec14a2" title="ceph_cap_string" alt="" coords="813,12,931,38"/>
+<area shape="rect" id="node7" href="$caps_8c.html#a35c397ce599c93d8d9ac5589d4fa5f1d" title="__cap_is_valid" alt="" coords="640,37,748,64"/>
+<area shape="rect" id="node8" href="$caps_8c.html#aba9fdf4d7e2830f3179d4ead0bac94f4" title="__touch_cap" alt="" coords="646,88,742,114"/>
+<area shape="rect" id="node6" href="$caps_8c.html#aa158fde50093f72901e1c22ecf24fc99" title="gcap_string" alt="" coords="979,12,1068,38"/>
+<area shape="rect" id="node10" href="$posix__acl_8c.html#a927d4fbd2c4d6e779ac2b6116364115e" title="acl_by_type" alt="" coords="648,138,740,165"/>
+<area shape="rect" id="node11" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="625,189,763,216"/>
+<area shape="rect" id="node13" href="$posix__acl_8c.html#af6ddeb872512925103d40c909f5c59d6" title="__forget_cached_acl" alt="" coords="623,240,765,266"/>
+</map>

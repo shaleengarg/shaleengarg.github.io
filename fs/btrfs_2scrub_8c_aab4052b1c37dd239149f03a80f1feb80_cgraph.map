@@ -1,0 +1,4 @@
+<map id="get_raid56_logic_offset" name="get_raid56_logic_offset">
+<area shape="rect" id="node2" href="$raid56_8h.html#ac5988ea3c9438abdbcc1ff6ca6547381" title="nr_data_stripes" alt="" coords="209,5,320,32"/>
+<area shape="rect" id="node3" href="$raid56_8h.html#a6c806eda513b3229c0487e00a0959cbc" title="nr_parity_stripes" alt="" coords="368,5,487,32"/>
+</map>

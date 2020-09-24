@@ -1,0 +1,8 @@
+<map id="nlmclnt_init" name="nlmclnt_init">
+<area shape="rect" id="node2" href="$client_8c.html#a2b6c7f4d415605ed94995bd7000bd5ea" title="nfs_start_lockd" alt="" coords="141,67,252,93"/>
+<area shape="rect" id="node3" href="$client_8c.html#a79567e458591ffb59de706e040bd5cf0" title="nfs_init_server" alt="" coords="307,29,414,56"/>
+<area shape="rect" id="node6" href="$nfs_2internal_8h.html#a74da40629c00a2d52eb709fbbf64a754" title="nfs_clone_server" alt="" coords="300,104,421,131"/>
+<area shape="rect" id="node4" href="$nfs_2internal_8h.html#a40007155e8fe7d9b21830cfcfc2b2318" title="nfs_create_server" alt="" coords="470,29,597,56"/>
+<area shape="rect" id="node5" href="$nfs3client_8c.html#af53154f90bb786156a08f3f746020f06" title="nfs3_create_server" alt="" coords="645,29,779,56"/>
+<area shape="rect" id="node7" href="$nfs3client_8c.html#aaeacfa9e9f6837b2257cff046f54e055" title="nfs3_clone_server" alt="" coords="469,104,597,131"/>
+</map>

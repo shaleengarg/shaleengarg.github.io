@@ -1,0 +1,6 @@
+<map id="ocfs2_compute_meta_ecc_bhs" name="ocfs2_compute_meta_ecc_bhs">
+<area shape="rect" id="node2" href="$ocfs2_8h.html#abfc3ee93060b367faf6a6782e62ae4ac" title="ocfs2_meta_ecc" alt="" coords="250,5,369,32"/>
+<area shape="rect" id="node3" href="$blockcheck_8c.html#a0a49194ac46e191640892f738a5ddaad" title="ocfs2_block_check_compute_bhs" alt="" coords="200,56,419,83"/>
+<area shape="rect" id="node4" href="$blockcheck_8c.html#a331750d6745869fb9ce282af1322f084" title="ocfs2_hamming_encode" alt="" coords="467,56,629,83"/>
+<area shape="rect" id="node5" href="$blockcheck_8c.html#affb8712495f45892fd1c86a7ecd072c8" title="calc_code_bit" alt="" coords="677,56,780,83"/>
+</map>

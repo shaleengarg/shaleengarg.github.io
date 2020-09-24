@@ -1,0 +1,18 @@
+<map id="nfsd4_decode_stateid" name="nfsd4_decode_stateid">
+<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a266a44290858a23a8d1fcd6370974a29" title="nfsd4_decode_close" alt="" coords="236,5,377,32"/>
+<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a52c956ceed79d2a25493f5b0be44330d" title="nfsd4_decode_delegreturn" alt="" coords="219,56,394,83"/>
+<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a68f84e8450c66b37863a3992c5f5b276" title="nfsd4_decode_lock" alt="" coords="239,107,374,133"/>
+<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#aeb64ff97d75fa900f8c572188f76a2ae" title="nfsd4_decode_locku" alt="" coords="236,157,377,184"/>
+<area shape="rect" id="node6" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="237,208,376,235"/>
+<area shape="rect" id="node7" href="$_2nfs4xdr_8c.html#a98aba166b4a0dce6c5310e8ead6bc09a" title="nfsd4_decode_open_confirm" alt="" coords="213,259,401,285"/>
+<area shape="rect" id="node8" href="$_2nfs4xdr_8c.html#acc516e2f5d8be25cd3c144db4159afaa" title="nfsd4_decode_open_downgrade" alt="" coords="203,309,411,336"/>
+<area shape="rect" id="node9" href="$_2nfs4xdr_8c.html#a714eb322c50eeb60e832a6b7e9ceaea5" title="nfsd4_decode_read" alt="" coords="239,360,374,387"/>
+<area shape="rect" id="node10" href="$_2nfs4xdr_8c.html#a609e33f86d5cd41e6feb373a08789242" title="nfsd4_decode_setattr" alt="" coords="233,411,380,437"/>
+<area shape="rect" id="node11" href="$_2nfs4xdr_8c.html#a35c45d1a9f889c4044aeccbfc25d2e31" title="nfsd4_decode_write" alt="" coords="237,461,376,488"/>
+<area shape="rect" id="node12" href="$_2nfs4xdr_8c.html#ac992a5fe3ed7b106eb286a033255f24f" title="nfsd4_decode_test_stateid" alt="" coords="217,512,396,539"/>
+<area shape="rect" id="node13" href="$_2nfs4xdr_8c.html#a7a2982ca6356c2eb22ca1a5ba43f9727" title="nfsd4_decode_reclaim\l_complete" alt="" coords="231,563,383,605"/>
+<area shape="rect" id="node14" href="$_2nfs4xdr_8c.html#a490dadfde6cac11db2515a200809b93a" title="nfsd4_decode_fallocate" alt="" coords="227,629,386,656"/>
+<area shape="rect" id="node15" href="$_2nfs4xdr_8c.html#ac75501104eefc48e1e7d0001506606bd" title="nfsd4_decode_clone" alt="" coords="236,680,377,707"/>
+<area shape="rect" id="node16" href="$_2nfs4xdr_8c.html#aeb7a15a7b05878826efe2a65d971cade" title="nfsd4_decode_copy" alt="" coords="237,731,376,757"/>
+<area shape="rect" id="node17" href="$_2nfs4xdr_8c.html#a615e9820d8082c967fce4310075db917" title="nfsd4_decode_seek" alt="" coords="237,781,376,808"/>
+</map>

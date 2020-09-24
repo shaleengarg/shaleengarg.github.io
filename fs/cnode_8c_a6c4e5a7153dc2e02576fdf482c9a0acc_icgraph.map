@@ -1,0 +1,9 @@
+<map id="coda_set_inode" name="coda_set_inode">
+<area shape="rect" id="node2" href="$coda__fs__i_8h.html#af6b285e502516da769f5ff8d3894a36d" title="coda_iget" alt="" coords="167,56,245,83"/>
+<area shape="rect" id="node3" href="$coda_2dir_8c.html#a0e4af69fc4affe8800db549f59e15465" title="coda_create" alt="" coords="312,5,405,32"/>
+<area shape="rect" id="node4" href="$coda_2dir_8c.html#a095ce81fecf39e1b4d81d51ba0956769" title="coda_mkdir" alt="" coords="314,56,403,83"/>
+<area shape="rect" id="node5" href="$coda__fs__i_8h.html#aa5a84a0d99ca252c63a5e5cc471f5a42" title="coda_cnode_make" alt="" coords="293,107,424,133"/>
+<area shape="rect" id="node6" href="$coda_2dir_8c.html#ada438898c4aed31d418e181ffba1b8e1" title="coda_lookup" alt="" coords="479,81,574,108"/>
+<area shape="rect" id="node7" href="$coda_2inode_8c.html#a4772e6734a1f2cfe8d178b62fe4262cb" title="coda_fill_super" alt="" coords="472,132,581,159"/>
+<area shape="rect" id="node8" href="$coda_2inode_8c.html#a294a578266689b95d871c0c6ff7ff8ce" title="coda_mount" alt="" coords="629,132,723,159"/>
+</map>

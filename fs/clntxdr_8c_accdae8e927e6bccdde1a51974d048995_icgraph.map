@@ -1,0 +1,7 @@
+<map id="encode_fh" name="encode_fh">
+<area shape="rect" id="node2" href="$clntxdr_8c.html#a1eed56c8cdd89c134fb328f187922e1b" title="encode_nlm_lock" alt="" coords="136,81,259,108"/>
+<area shape="rect" id="node3" href="$clntxdr_8c.html#a2fe3ed5e3e9df277a1e1ab3cd8652640" title="nlm_xdr_enc_testargs" alt="" coords="315,5,465,32"/>
+<area shape="rect" id="node4" href="$clntxdr_8c.html#af88e0e652157213df82fe96378485e66" title="nlm_xdr_enc_lockargs" alt="" coords="314,56,466,83"/>
+<area shape="rect" id="node5" href="$clntxdr_8c.html#a8f9076316c95498d7fdf40031bacaca7" title="nlm_xdr_enc_cancargs" alt="" coords="312,107,468,133"/>
+<area shape="rect" id="node6" href="$clntxdr_8c.html#afc74264ab5f2278a6a8470135d20ab05" title="nlm_xdr_enc_unlockargs" alt="" coords="307,157,473,184"/>
+</map>

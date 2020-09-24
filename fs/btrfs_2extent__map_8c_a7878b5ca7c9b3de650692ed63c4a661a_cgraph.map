@@ -1,0 +1,6 @@
+<map id="search_extent_mapping" name="search_extent_mapping">
+<area shape="rect" id="node2" href="$btrfs_2extent__map_8c.html#af36ca4f880c56dc8a92684abc2db576e" title="__lookup_extent_mapping" alt="" coords="213,56,387,83"/>
+<area shape="rect" id="node3" href="$btrfs_2extent__map_8c.html#a907569c6732e2702e1dedf9c0779129a" title="range_end" alt="" coords="445,5,528,32"/>
+<area shape="rect" id="node4" href="$btrfs_2extent__map_8c.html#abe5fa1b21db40e4c1ca4226364e4cc80" title="__tree_search" alt="" coords="435,56,539,83"/>
+<area shape="rect" id="node5" href="$btrfs_2extent__map_8h.html#a2ea46678c185fd0d0fdb91c1284cf0fb" title="extent_map_end" alt="" coords="587,81,705,108"/>
+</map>

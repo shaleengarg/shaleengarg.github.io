@@ -1,0 +1,8 @@
+<map id="same_name" name="same_name">
+<area shape="rect" id="node2" href="$state_8h.html#a7bacefca4084e35b43318a24dd84f6b6" title="nfsd4_find_reclaim\l_client" alt="" coords="147,64,277,105"/>
+<area shape="rect" id="node3" href="$state_8h.html#aa8ce494b77bc4ede582da57a63c5aae6" title="nfs4_has_reclaimed\l_state" alt="" coords="332,5,471,47"/>
+<area shape="rect" id="node6" href="$nfs4recover_8c.html#a95e5567f776c0a013b1eca5f50f1833b" title="nfsd4_remove_clid_dir" alt="" coords="325,71,477,98"/>
+<area shape="rect" id="node7" href="$nfs4recover_8c.html#a10ba1c0305f5177f25b03973eb596870" title="nfsd4_check_legacy\l_client" alt="" coords="331,123,472,164"/>
+<area shape="rect" id="node4" href="$nfs4recover_8c.html#a2044a0d12001735f5cb509e77fd3eb0e" title="purge_old" alt="" coords="525,13,604,39"/>
+<area shape="rect" id="node5" href="$nfs4recover_8c.html#ad8e1fc6cc028edc6f7407d64e2f2d3a3" title="nfsd4_recdir_purge_old" alt="" coords="652,13,808,39"/>
+</map>

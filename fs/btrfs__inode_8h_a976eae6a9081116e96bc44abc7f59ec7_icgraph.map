@@ -1,0 +1,6 @@
+<map id="btrfs_inode_block_unlocked_dio" name="btrfs_inode_block_unlocked_dio">
+<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a1526b9ea963953feb8f5fe9b7dc0d3cd" title="btrfs_setsize" alt="" coords="260,5,357,32"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#ab11c8f08c5d5a36dd487737bcf8efcc1" title="btrfs_setattr" alt="" coords="405,5,497,32"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="545,5,720,32"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="768,5,865,32"/>
+</map>

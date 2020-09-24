@@ -1,0 +1,5 @@
+<map id="btrfs_find_orphan_item" name="btrfs_find_orphan_item">
+<area shape="rect" id="node2" href="$ctree_8h.html#a64893ed54e3a3760c561026c34dbe477" title="free_fs_info" alt="" coords="208,31,299,57"/>
+<area shape="rect" id="node3" href="$btrfs_2super_8c.html#a560d1a10868ee094b5ee24b98fe94619" title="btrfs_mount_root" alt="" coords="347,5,467,32"/>
+<area shape="rect" id="node4" href="$btrfs_2super_8c.html#a89866e36e3959d1dd885ced894dc0643" title="btrfs_kill_super" alt="" coords="515,31,625,57"/>
+</map>

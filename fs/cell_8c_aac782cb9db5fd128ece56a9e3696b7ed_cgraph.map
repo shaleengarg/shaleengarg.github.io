@@ -1,0 +1,8 @@
+<map id="afs_update_cell" name="afs_update_cell">
+<area shape="rect" id="node2" href="$addr__list_8c.html#abd08777bc8358df7b46eb5d6fe9d4e67" title="afs_dns_query" alt="" coords="177,5,284,32"/>
+<area shape="rect" id="node5" href="$addr__list_8c.html#a92d6343a3001a8d0bc55b221202723fa" title="afs_put_addrlist" alt="" coords="173,56,288,83"/>
+<area shape="rect" id="node6" href="$cell_8c.html#a0dcd6b8b691da343d0b32c8f96c3ebfb" title="afs_set_cell_timer" alt="" coords="167,107,295,133"/>
+<area shape="rect" id="node3" href="$addr__list_8c.html#ade155873bc41c58ce5f96ebdcd0313ea" title="afs_parse_text_addrs" alt="" coords="357,5,504,32"/>
+<area shape="rect" id="node4" href="$addr__list_8c.html#a6185f66e2646da029253a87212eb3da6" title="afs_alloc_addrlist" alt="" coords="567,5,689,32"/>
+<area shape="rect" id="node7" href="$cell_8c.html#a1354c53831375a8e3a5e2b9843232ae1" title="afs_dec_cells_outstanding" alt="" coords="343,107,519,133"/>
+</map>

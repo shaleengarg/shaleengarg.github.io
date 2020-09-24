@@ -1,0 +1,27 @@
+<map id="befs_btree_read" name="befs_btree_read">
+<area shape="rect" id="node2" href="$befs_2debug_8c.html#a9adcbde37088a09e232dcb26c882f06d" title="befs_debug" alt="" coords="1169,646,1258,673"/>
+<area shape="rect" id="node3" href="$befs_2btree_8c.html#ad3635f6110a7dbfaa6f99ef765fb45eb" title="befs_bt_read_super" alt="" coords="355,646,491,673"/>
+<area shape="rect" id="node8" href="$befs_2debug_8c.html#a9baf4105a9869a847e645272ae9fdc1a" title="befs_error" alt="" coords="1173,1102,1253,1129"/>
+<area shape="rect" id="node18" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="761,292,854,318"/>
+<area shape="rect" id="node19" href="$befs_2btree_8c.html#a1ed27d613fa8974ec09164c52cfb4a56" title="befs_btree_seekleaf" alt="" coords="168,292,307,318"/>
+<area shape="rect" id="node20" href="$befs_2btree_8c.html#a363f1901b76b973ed91ed6103e77e55e" title="befs_bt_read_node" alt="" coords="357,425,489,452"/>
+<area shape="rect" id="node23" href="$befs_2btree_8c.html#afb9a9f3d44903d9e6da5658ec68956b2" title="befs_bt_valarray" alt="" coords="363,140,482,166"/>
+<area shape="rect" id="node25" href="$befs_2btree_8c.html#ab0c425bb7cebf99d486989ad32e02350" title="befs_bt_get_key" alt="" coords="363,89,482,116"/>
+<area shape="rect" id="node4" href="$datastream_8c.html#a685e440449b969d75074134202bb14e7" title="befs_read_datastream" alt="" coords="543,748,694,774"/>
+<area shape="rect" id="node13" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="1167,1204,1260,1230"/>
+<area shape="rect" id="node17" href="$befs_8h.html#afc70472bee4d3df200ba4e3202e71f83" title="befs_dump_index_entry" alt="" coords="539,596,699,622"/>
+<area shape="rect" id="node5" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="1337,849,1420,876"/>
+<area shape="rect" id="node6" href="$datastream_8c.html#a1a354db4059164f1ec7b7ddd148db0f2" title="befs_fblock2brun" alt="" coords="747,862,868,889"/>
+<area shape="rect" id="node16" href="$befs_2io_8c.html#acb16cccc98e2bbb3a594fd9f65ad262e" title="befs_bread_iaddr" alt="" coords="942,950,1063,977"/>
+<area shape="rect" id="node7" href="$datastream_8c.html#ab796b76732de65e1dcafe630ecca9405" title="befs_find_brun_direct" alt="" coords="929,900,1076,926"/>
+<area shape="rect" id="node9" href="$datastream_8c.html#a1bba970d8e7dd06f44e20d3ef0bb0b9a" title="befs_find_brun_indirect" alt="" coords="925,798,1081,825"/>
+<area shape="rect" id="node14" href="$datastream_8c.html#a9c06b962a566f378fbfba7a39d62bf1d" title="befs_find_brun_dblindirect" alt="" coords="916,849,1089,876"/>
+<area shape="rect" id="node10" href="$befs_8h.html#a2b4a80c2e280b28d9099caca37f79de7" title="iaddr2blockno" alt="" coords="1162,900,1265,926"/>
+<area shape="rect" id="node11" href="$befs_8h.html#a81095eb49590878250efcedb878b9de8" title="befs_iaddrs_per_block" alt="" coords="1137,798,1289,825"/>
+<area shape="rect" id="node12" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="1167,393,1260,420"/>
+<area shape="rect" id="node15" href="$befs_2endian_8h.html#a13e7cd2d34be798771b754b84053c63d" title="fsrun_to_cpu" alt="" coords="1165,849,1262,876"/>
+<area shape="rect" id="node22" href="$befs_2btree_8c.html#a60914217d62a6c32c299c92d820a01d5" title="befs_leafnode" alt="" coords="371,241,474,268"/>
+<area shape="rect" id="node21" href="$befs_8h.html#a0b8368de923d19b617ed3113d38d0628" title="befs_dump_index_node" alt="" coords="539,444,698,470"/>
+<area shape="rect" id="node24" href="$befs_2btree_8c.html#a00871b5f40a4697567a689ac015ec6d9" title="befs_bt_keylen_index" alt="" coords="545,140,693,166"/>
+<area shape="rect" id="node26" href="$befs_2btree_8c.html#a308faff2dd15227ea697cc1265e41000" title="befs_bt_keydata" alt="" coords="559,38,678,65"/>
+</map>

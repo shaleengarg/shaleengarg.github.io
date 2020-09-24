@@ -1,0 +1,8 @@
+<map id="btrfsic_block_link_lookup_or_add" name="btrfsic_block_link_lookup_or_add">
+<area shape="rect" id="node2" href="$check-integrity_8c.html#a0641a0982fc6c2ae5b458d1dbe4c5b0a" title="btrfsic_block_link\l_hashtable_lookup" alt="" coords="183,5,314,47"/>
+<area shape="rect" id="node3" href="$check-integrity_8c.html#a4aa9e0d1aee88ff653e9a3eead93fbb3" title="btrfsic_block_link\l_alloc" alt="" coords="187,71,310,112"/>
+<area shape="rect" id="node5" href="$check-integrity_8c.html#adcf676974df57458b60e5e6eae947859" title="btrfsic_print_add_link" alt="" coords="176,137,321,163"/>
+<area shape="rect" id="node7" href="$check-integrity_8c.html#a37bd67c23bda0494f332d7e355e6b713" title="btrfsic_block_link\l_hashtable_add" alt="" coords="187,188,310,229"/>
+<area shape="rect" id="node4" href="$check-integrity_8c.html#a112f1d38bbb66209d6f45dd9b209536c" title="btrfsic_block_link_init" alt="" coords="373,78,519,105"/>
+<area shape="rect" id="node6" href="$check-integrity_8c.html#a0b93c221b44fdb6909d7f8e1790e1160" title="btrfsic_get_block_type" alt="" coords="369,137,523,163"/>
+</map>

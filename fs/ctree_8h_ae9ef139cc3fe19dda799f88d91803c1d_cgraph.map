@@ -1,0 +1,12 @@
+<map id="btrfs_trans_release_chunk_metadata" name="btrfs_trans_release_chunk_metadata">
+<area shape="rect" id="node2" href="$extent-tree_8c.html#a0f422cbedfd26c2bd1da66d24873e109" title="block_rsv_release_bytes" alt="" coords="187,39,353,65"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#a9ce0d57c608b8e4a2ca5c2fc5b2bb5fa" title="space_info_add_old\l_bytes" alt="" coords="401,31,539,73"/>
+<area shape="rect" id="node4" href="$extent-tree_8c.html#a81b7d9c3ff801b90a5a078f917b12de0" title="btrfs_space_info_used" alt="" coords="753,5,907,32"/>
+<area shape="rect" id="node5" href="$extent-tree_8c.html#a54d94bb221a36fd6f234b8cd2026ec85" title="can_overcommit" alt="" coords="587,64,705,91"/>
+<area shape="rect" id="node6" href="$extent-tree_8c.html#a5d4e63c8fc9a1293dce589e186c9dcae" title="btrfs_system_alloc\l_profile" alt="" coords="764,57,896,98"/>
+<area shape="rect" id="node10" href="$extent-tree_8c.html#aef9af87070c1a268c635a5f92cf75c89" title="btrfs_metadata_alloc\l_profile" alt="" coords="759,122,901,163"/>
+<area shape="rect" id="node11" href="$extent-tree_8c.html#a1ce5a906dee944f5d5b6cd7d03e2d3b2" title="calc_global_rsv_need\l_space" alt="" coords="757,187,903,229"/>
+<area shape="rect" id="node7" href="$extent-tree_8c.html#aa3fc5eec559f710720299d9d909ea425" title="get_alloc_profile" alt="" coords="955,97,1071,124"/>
+<area shape="rect" id="node8" href="$extent-tree_8c.html#af5467485aa7250c63dc40050d97bde86" title="btrfs_reduce_alloc\l_profile" alt="" coords="1119,90,1247,131"/>
+<area shape="rect" id="node9" href="$extent-tree_8c.html#a2d6fd06b907338ed8748602d3ea9d5dc" title="get_restripe_target" alt="" coords="1295,97,1425,124"/>
+</map>

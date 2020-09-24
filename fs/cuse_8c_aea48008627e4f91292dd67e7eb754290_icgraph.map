@@ -1,0 +1,11 @@
+<map id="fc_to_cc" name="fc_to_cc">
+<area shape="rect" id="node2" href="$cuse_8c.html#a97866ed4c5cffda126dfd50f27aaa23e" title="cuse_file_ioctl" alt="" coords="154,5,259,32"/>
+<area shape="rect" id="node3" href="$cuse_8c.html#af663b1feed649d3b9f2aca276389cf1b" title="cuse_file_compat_ioctl" alt="" coords="129,56,284,83"/>
+<area shape="rect" id="node4" href="$cuse_8c.html#a5deab4441e44f0e69cf786ddcf422824" title="cuse_process_init_reply" alt="" coords="125,107,288,133"/>
+<area shape="rect" id="node9" href="$cuse_8c.html#a62ba45df6a3a191452c8bd514377d151" title="cuse_fc_release" alt="" coords="353,157,470,184"/>
+<area shape="rect" id="node10" href="$cuse_8c.html#a03dddb41f808f6b024dd0038bbaaa337" title="cuse_channel_release" alt="" coords="336,208,487,235"/>
+<area shape="rect" id="node5" href="$cuse_8c.html#a3ce2a0bcd2db9c9de9b2b53081fe67f2" title="cuse_send_init" alt="" coords="357,107,466,133"/>
+<area shape="rect" id="node6" href="$cuse_8c.html#ab830a43600556672955f140ecabb99d7" title="cuse_channel_open" alt="" coords="535,157,672,184"/>
+<area shape="rect" id="node7" href="$cuse_8c.html#a259338d3d0bcc5e07ce88b0024113be2" title="cuse_init" alt="" coords="720,183,795,209"/>
+<area shape="rect" id="node8" href="$cuse_8c.html#a82e5d1268caa23564c91c0f105e1ddbd" title="cuse_exit" alt="" coords="843,183,921,209"/>
+</map>

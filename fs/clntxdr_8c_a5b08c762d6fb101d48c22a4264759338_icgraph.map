@@ -1,0 +1,6 @@
+<map id="encode_int32" name="encode_int32">
+<area shape="rect" id="node2" href="$clntxdr_8c.html#a06bbe96c974619fef8c329b47cd55cae" title="encode_nlm_holder" alt="" coords="161,5,295,32"/>
+<area shape="rect" id="node5" href="$clntxdr_8c.html#af88e0e652157213df82fe96378485e66" title="nlm_xdr_enc_lockargs" alt="" coords="152,56,304,83"/>
+<area shape="rect" id="node3" href="$clntxdr_8c.html#abb3850bbbe993426034aa3c465e7ffe3" title="encode_nlm_testrply" alt="" coords="352,5,495,32"/>
+<area shape="rect" id="node4" href="$clntxdr_8c.html#aa55b09e705cbcce23c67bfaf32ff7786" title="nlm_xdr_enc_testres" alt="" coords="543,5,685,32"/>
+</map>

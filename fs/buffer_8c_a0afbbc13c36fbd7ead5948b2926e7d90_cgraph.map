@@ -1,0 +1,28 @@
+<map id="__getblk_slow" name="__getblk_slow">
+<area shape="rect" id="node2" href="$buffer_8c.html#ad036fee42f6cfb14533dd5c3046647ea" title="__find_get_block" alt="" coords="471,132,591,159"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#ab362a5ea822dded250aa8fb9b3e0a105" title="grow_buffers" alt="" coords="159,309,256,336"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a49da0a1d001cc2d074dcdca3b5fde76e" title="lookup_bh_lru" alt="" coords="679,56,781,83"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#acff02ed115e693bff708d3027543965a" title="__find_get_block_slow" alt="" coords="653,5,807,32"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#aa1372abe62985e649dc0f8fc60c04a5a" title="bh_lru_install" alt="" coords="681,107,779,133"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a59a45ba914a951c36f0cabe79be9756b" title="touch_buffer" alt="" coords="683,208,777,235"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="876,296,1015,323"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a1b2e46ba368db89f0394fd327d787a1f" title="check_irqs_on" alt="" coords="892,81,999,108"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a8620ca0474bbd9b82a6a0f6827d8b8c2" title="grow_dev_page" alt="" coords="304,436,417,463"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#a2a63a7d91de10e99449de68903a2c90f" title="init_page_buffers" alt="" coords="470,563,591,589"/>
+<area shape="rect" id="node16" href="$buffer_8c.html#ad15f4d943c9aa17afe7f9cba94c137bf" title="try_to_free_buffers" alt="" coords="465,436,596,463"/>
+<area shape="rect" id="node23" href="$buffer_8c.html#a94ca9132735bfcb0b0b2ae9531461cc8" title="alloc_page_buffers" alt="" coords="465,360,596,387"/>
+<area shape="rect" id="node27" href="$buffer_8c.html#a890a6c0e559dbb7434dd42044df459ee" title="link_dev_buffers" alt="" coords="472,487,589,513"/>
+<area shape="rect" id="node12" href="$buffer_8c.html#a1fbc0cf68d55ad7fc3b1fe2509dc1bd8" title="blkdev_max_block" alt="" coords="665,563,795,589"/>
+<area shape="rect" id="node13" href="$block__dev_8c.html#ac58f1357c2d73d034c45d449d6ca1ea5" title="I_BDEV" alt="" coords="695,613,765,640"/>
+<area shape="rect" id="node14" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="910,613,981,640"/>
+<area shape="rect" id="node15" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="876,664,1015,691"/>
+<area shape="rect" id="node17" href="$buffer_8c.html#aef5cfcace6506707ec79c3305339e521" title="drop_buffers" alt="" coords="683,512,777,539"/>
+<area shape="rect" id="node21" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="671,461,789,488"/>
+<area shape="rect" id="node18" href="$buffer_8c.html#ad8647f91d88c82527cb53ddc01785276" title="buffer_busy" alt="" coords="900,563,991,589"/>
+<area shape="rect" id="node19" href="$buffer_8c.html#ad595c04f28b431cc4c8da5e29eb705db" title="__remove_assoc_queue" alt="" coords="864,461,1027,488"/>
+<area shape="rect" id="node20" href="$buffer_8c.html#a92a5deda319b02af36b62aec78286103" title="__clear_page_buffers" alt="" coords="872,512,1019,539"/>
+<area shape="rect" id="node22" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="888,385,1003,412"/>
+<area shape="rect" id="node24" href="$buffer_8c.html#a981702f40cf45ec9b31ad0139bef0ad4" title="alloc_buffer_head" alt="" coords="668,360,792,387"/>
+<area shape="rect" id="node25" href="$buffer_8c.html#a3b86ea46b7b35adeb32cc031574c6caf" title="set_bh_page" alt="" coords="682,259,778,285"/>
+<area shape="rect" id="node26" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="644,309,816,336"/>
+</map>

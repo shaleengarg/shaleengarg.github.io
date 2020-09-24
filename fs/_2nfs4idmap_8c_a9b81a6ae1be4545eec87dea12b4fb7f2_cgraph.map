@@ -1,0 +1,8 @@
+<map id="nfsd4_encode_user" name="nfsd4_encode_user">
+<area shape="rect" id="node2" href="$_2nfs4idmap_8c.html#af230791bd9eb7368f746ee050ebc3098" title="encode_name_from_id" alt="" coords="188,31,341,57"/>
+<area shape="rect" id="node3" href="$_2nfs4idmap_8c.html#a1b8dbdb69c4baa161d5be4d2ee709ea7" title="encode_ascii_id" alt="" coords="568,5,683,32"/>
+<area shape="rect" id="node4" href="$_2nfs4idmap_8c.html#a3ef10413fd53fa5a26e2c43456f69044" title="idmap_id_to_name" alt="" coords="389,56,520,83"/>
+<area shape="rect" id="node5" href="$_2nfs4idmap_8c.html#abcfc64788934388cb0c6527d0f676a59" title="rqst_authname" alt="" coords="571,56,679,83"/>
+<area shape="rect" id="node6" href="$_2nfs4idmap_8c.html#ac80b76dc741a46989d97b00d8f968ddb" title="idmap_lookup" alt="" coords="574,107,677,133"/>
+<area shape="rect" id="node7" href="$nfsd_2export_8h.html#a66ddec3a166114a80a055ebde47d5030" title="nfserrno" alt="" coords="591,157,660,184"/>
+</map>

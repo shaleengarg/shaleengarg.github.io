@@ -1,0 +1,5 @@
+<map id="zap_process" name="zap_process">
+<area shape="rect" id="node2" href="$coredump_8c.html#ae163b28773eb08b6f5922383616fc6d9" title="zap_threads" alt="" coords="149,5,243,32"/>
+<area shape="rect" id="node3" href="$coredump_8c.html#a34e828d4378675bd906a8ab6dc2e9475" title="coredump_wait" alt="" coords="291,5,401,32"/>
+<area shape="rect" id="node4" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="449,5,549,32"/>
+</map>

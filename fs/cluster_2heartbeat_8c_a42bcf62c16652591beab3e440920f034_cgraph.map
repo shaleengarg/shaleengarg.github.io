@@ -1,0 +1,4 @@
+<map id="o2hb_setup_one_bio" name="o2hb_setup_one_bio">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a27eadee48cb40232d49d627238ad6ecf" title="o2hb_bio_end_io" alt="" coords="195,5,313,32"/>
+<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a86751306d711c6c1c527364b4b9023a3" title="o2hb_bio_wait_dec" alt="" coords="361,5,495,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="comm_show" name="comm_show">
+<area shape="rect" id="node2" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="149,81,253,108"/>
+<area shape="rect" id="node7" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="162,157,241,184"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="330,5,401,32"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="301,56,429,83"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="319,107,412,133"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="511,5,583,32"/>
+<area shape="rect" id="node8" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="322,157,409,184"/>
+<area shape="rect" id="node10" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="477,208,616,235"/>
+<area shape="rect" id="node9" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="485,157,609,184"/>
+</map>

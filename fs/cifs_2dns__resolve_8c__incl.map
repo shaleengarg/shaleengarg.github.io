@@ -1,0 +1,11 @@
+<map id="cifs/dns_resolve.c" name="cifs/dns_resolve.c">
+<area shape="rect" id="node4" href="$cifs_2dns__resolve_8h.html" title="dns_resolve.h" alt="" coords="550,80,653,107"/>
+<area shape="rect" id="node5" href="$cifsglob_8h.html" title="cifsglob.h" alt="" coords="677,80,755,107"/>
+<area shape="rect" id="node22" href="$cifsproto_8h.html" title="cifsproto.h" alt="" coords="780,80,863,107"/>
+<area shape="rect" id="node24" href="$cifs__debug_8h.html" title="cifs_debug.h" alt="" coords="887,80,983,107"/>
+<area shape="rect" id="node10" href="$cifs__fs__sb_8h.html" title="cifs_fs_sb.h" alt="" coords="616,162,709,189"/>
+<area shape="rect" id="node13" href="$cifsacl_8h.html" title="cifsacl.h" alt="" coords="734,162,805,189"/>
+<area shape="rect" id="node17" href="$smb2pdu_8h.html" title="smb2pdu.h" alt="" coords="1297,162,1383,189"/>
+<area shape="rect" id="node19" href="$cifspdu_8h.html" title="cifspdu.h" alt="" coords="1408,162,1483,189"/>
+<area shape="rect" id="node21" href="$smbfsctl_8h.html" title="smbfsctl.h" alt="" coords="1537,244,1620,271"/>
+</map>

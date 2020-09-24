@@ -1,0 +1,14 @@
+<map id="coda_unlink" name="coda_unlink">
+<area shape="rect" id="node2" href="$upcall_8c.html#a8106caffdfdc4058221e6ae285ca55c4" title="venus_remove" alt="" coords="171,31,277,57"/>
+<area shape="rect" id="node7" href="$coda__linux_8h.html#a8965e1ffc208d02b6ce27c9cd035744b" title="coda_i2f" alt="" coords="375,81,445,108"/>
+<area shape="rect" id="node9" href="$coda_2dir_8c.html#a911b1b2337e869e3c9eb8d5cad42c5ee" title="coda_dir_update_mtime" alt="" coords="144,132,304,159"/>
+<area shape="rect" id="node13" href="$inode_8c.html#a3f9c3c869559fa00d152bbfb03361e25" title="drop_nlink" alt="" coords="183,208,265,235"/>
+<area shape="rect" id="node3" href="$upcall_8c.html#aaffa91d1c8a5e874e8758a27c22ce678" title="coda_upcall" alt="" coords="365,31,455,57"/>
+<area shape="rect" id="node4" href="$upcall_8c.html#a061b2aa3b8cfa2256c2f5e1211e5abdc" title="coda_waitfor_upcall" alt="" coords="517,31,654,57"/>
+<area shape="rect" id="node5" href="$upcall_8c.html#a9699b95512723ea903b752015912ce31" title="coda_block_signals" alt="" coords="710,5,846,32"/>
+<area shape="rect" id="node6" href="$upcall_8c.html#aec1f235e526b282dc5cf5368ac84bafd" title="coda_unblock_signals" alt="" coords="703,56,853,83"/>
+<area shape="rect" id="node8" href="$coda__linux_8h.html#a96e5b87913d07d6f4dfae763d017149c" title="ITOC" alt="" coords="558,107,613,133"/>
+<area shape="rect" id="node10" href="$coda__linux_8h.html#a434c4471389eed6ea4bd8c8bacb9db8b" title="coda_flag_inode" alt="" coords="352,132,468,159"/>
+<area shape="rect" id="node11" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="363,183,457,209"/>
+<area shape="rect" id="node12" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="516,208,655,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ceph_direct_read_write" name="ceph_direct_read_write">
+<area shape="rect" id="node2" href="$ceph_2file_8c.html#ab25c5614757da5077be4710cbb3ec98c" title="ceph_read_iter" alt="" coords="211,5,318,32"/>
+<area shape="rect" id="node3" href="$ceph_2file_8c.html#a94c42f499f5051ae4163de2ead8de322" title="ceph_write_iter" alt="" coords="209,56,320,83"/>
+</map>

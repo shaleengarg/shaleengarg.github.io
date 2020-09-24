@@ -1,0 +1,8 @@
+<map id="coda_flag_children" name="coda_flag_children">
+<area shape="rect" id="node2" href="$coda__cache_8h.html#a030c872ef174fb4a69756a0cabe478bb" title="coda_flag_inode_children" alt="" coords="184,56,352,83"/>
+<area shape="rect" id="node3" href="$coda_2dir_8c.html#aed588bbd6940d4b13e1d83c7ee54b0d4" title="coda_dentry_revalidate" alt="" coords="400,5,556,32"/>
+<area shape="rect" id="node4" href="$coda_2dir_8c.html#a3df99165db0c360479c0bcc688e1e920" title="coda_revalidate_inode" alt="" coords="403,56,553,83"/>
+<area shape="rect" id="node6" href="$upcall_8c.html#a55f17e2d1ff3ecf7296b450145cab998" title="coda_downcall" alt="" coords="424,107,532,133"/>
+<area shape="rect" id="node5" href="$coda_2inode_8c.html#aa2e2a269b783a03ca9fdf6fe79d6030b" title="coda_getattr" alt="" coords="620,56,715,83"/>
+<area shape="rect" id="node7" href="$psdev_8c.html#a973a42b0957bd3bb6e53116e8f0ac556" title="coda_psdev_write" alt="" coords="604,107,731,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ppp_scompress" name="ppp_scompress">
+<area shape="rect" id="node2" href="$compat__ioctl_8c.html#af7571950a61dda3c7c9efa0c3b5e8396" title="do_ioctl" alt="" coords="168,5,235,32"/>
+<area shape="rect" id="node4" href="$orangefs-bufmap_8c.html#a0d766b9852d3e213fac2c4850c6731c9" title="get" alt="" coords="181,56,221,83"/>
+<area shape="rect" id="node3" href="$internal_8h.html#a2fa5a06cdb4908781766c0cce0846388" title="vfs_ioctl" alt="" coords="296,5,367,32"/>
+<area shape="rect" id="node5" href="$orangefs-bufmap_8c.html#a54b2d2bae6d76ce12be760ba30cf69a8" title="wait_for_free" alt="" coords="283,56,380,83"/>
+</map>

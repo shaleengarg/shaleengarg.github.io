@@ -1,0 +1,8 @@
+<map id="match_security" name="match_security">
+<area shape="rect" id="node2" href="$connect_8c.html#a4257885d7923946e2022651548f10684" title="match_server" alt="" coords="164,31,265,57"/>
+<area shape="rect" id="node3" href="$connect_8c.html#a58c5da1caf333456813eb5aade921ff2" title="cifs_find_tcp_session" alt="" coords="313,5,461,32"/>
+<area shape="rect" id="node7" href="$connect_8c.html#a244eaa9e7cd80af7afe4d8aa4c7c9112" title="cifs_match_super" alt="" coords="519,56,645,83"/>
+<area shape="rect" id="node4" href="$connect_8c.html#a1b47924149caa3e58ba07ae3d2e4da4a" title="cifs_get_tcp_session" alt="" coords="509,5,655,32"/>
+<area shape="rect" id="node5" href="$connect_8c.html#a929008d2b39722c35a2fb06bbb6d290b" title="cifs_mount" alt="" coords="703,5,789,32"/>
+<area shape="rect" id="node6" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="837,31,944,57"/>
+</map>

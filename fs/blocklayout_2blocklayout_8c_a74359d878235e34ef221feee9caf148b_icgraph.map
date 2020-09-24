@@ -1,0 +1,6 @@
+<map id="get_parallel" name="get_parallel">
+<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html#a06bf0ee19b7c83e184ec00caafa28f24" title="bl_submit_bio" alt="" coords="141,31,244,57"/>
+<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#a05126ca58f849d0f070cdd2eeb2cc76c" title="do_add_page_to_bio" alt="" coords="292,31,433,57"/>
+<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#a0619ede503935b3ddcf512ea28fe362f" title="bl_read_pagelist" alt="" coords="483,5,599,32"/>
+<area shape="rect" id="node5" href="$blocklayout_2blocklayout_8c.html#ad33173ca191d852196fe8841079b9313" title="bl_write_pagelist" alt="" coords="481,68,600,95"/>
+</map>

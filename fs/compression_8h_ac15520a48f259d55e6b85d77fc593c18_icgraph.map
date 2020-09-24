@@ -1,0 +1,9 @@
+<map id="btrfs_compress_type2str" name="btrfs_compress_type2str">
+<area shape="rect" id="node2" href="$btrfs_2super_8c.html#a6641587652cb70499c2d66980483efaf" title="btrfs_show_options" alt="" coords="240,5,375,32"/>
+<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#ae924929f7643cf878331854d59276673" title="btrfs_ioctl_setflags" alt="" coords="241,56,373,83"/>
+<area shape="rect" id="node8" href="$props_8c.html#a3d20f3e53fbced0d4fa171f7b210c1c4" title="prop_compression_extract" alt="" coords="220,107,395,133"/>
+<area shape="rect" id="node3" href="$btrfs_2super_8c.html#a7dda0b70a36d7c3e84ade918df9c872d" title="btrfs_show_devname" alt="" coords="443,5,589,32"/>
+<area shape="rect" id="node5" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="477,56,555,83"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="637,56,812,83"/>
+<area shape="rect" id="node7" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="860,56,957,83"/>
+</map>

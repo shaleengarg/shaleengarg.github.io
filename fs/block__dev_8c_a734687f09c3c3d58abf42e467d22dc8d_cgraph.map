@@ -1,0 +1,6 @@
+<map id="blkdev_fsync" name="blkdev_fsync">
+<area shape="rect" id="node2" href="$block__dev_8c.html#ac59da754f8c2eb1fd14f388724cbf0a2" title="bdev_file_inode" alt="" coords="152,5,264,32"/>
+<area shape="rect" id="node3" href="$block__dev_8c.html#ac58f1357c2d73d034c45d449d6ca1ea5" title="I_BDEV" alt="" coords="173,56,243,83"/>
+<area shape="rect" id="node5" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="312,107,451,133"/>
+<area shape="rect" id="node4" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="346,56,417,83"/>
+</map>

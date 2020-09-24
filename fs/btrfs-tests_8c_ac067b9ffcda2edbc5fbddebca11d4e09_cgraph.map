@@ -1,0 +1,7 @@
+<map id="btrfs_free_dummy_block_group" name="btrfs_free_dummy_block_group">
+<area shape="rect" id="node2" href="$free-space-cache_8c.html#a644522ac74560fd012e6bf8950d07cd4" title="__btrfs_remove_free\l_space_cache" alt="" coords="219,5,360,47"/>
+<area shape="rect" id="node3" href="$free-space-cache_8c.html#a6c957de394515d160c042b380e40ce9b" title="__btrfs_remove_free\l_space_cache_locked" alt="" coords="408,5,559,47"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html#ae6f7723726e0d433a216f99d55904979" title="unlink_free_space" alt="" coords="745,13,872,39"/>
+<area shape="rect" id="node6" href="$free-space-cache_8c.html#abf64d8d3551f3ccd1964c956a4d51c3c" title="free_bitmap" alt="" coords="607,38,697,65"/>
+<area shape="rect" id="node5" href="$free-space-cache_8c.html#aa9b533bcfe8cbfc50520175df951d27a" title="__unlink_free_space" alt="" coords="920,13,1061,39"/>
+</map>

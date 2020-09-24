@@ -1,0 +1,4 @@
+<map id="ceph_pool_perm_check" name="ceph_pool_perm_check">
+<area shape="rect" id="node2" href="$ceph_2super_8h.html#a5be186be86525c0059b447415c8f9667" title="ceph_inode_to_client" alt="" coords="416,5,560,32"/>
+<area shape="rect" id="node3" href="$addr_8c.html#aee6bc8d4231f1ca00a82db14b33742d4" title="__ceph_pool_perm_get" alt="" coords="212,31,368,57"/>
+</map>

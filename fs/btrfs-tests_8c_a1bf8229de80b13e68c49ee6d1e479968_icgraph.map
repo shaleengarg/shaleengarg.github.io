@@ -1,0 +1,11 @@
+<map id="btrfs_new_test_inode" name="btrfs_new_test_inode">
+<area shape="rect" id="node2" href="$extent-io-tests_8c.html#a25847976c82fd2ae2c2617048fd2a0d8" title="test_find_delalloc" alt="" coords="217,5,340,32"/>
+<area shape="rect" id="node7" href="$inode-tests_8c.html#aca53f2dd19054eabddf1ca2bbab9a6ee" title="test_btrfs_get_extent" alt="" coords="206,56,351,83"/>
+<area shape="rect" id="node9" href="$inode-tests_8c.html#a4b5ad34c8028b3af99e81e1658ba1ea9" title="test_hole_first" alt="" coords="227,107,331,133"/>
+<area shape="rect" id="node10" href="$inode-tests_8c.html#a976689efd00cf939a84f9945d76e1da5" title="test_extent_accounting" alt="" coords="200,157,357,184"/>
+<area shape="rect" id="node3" href="$extent-io-tests_8c.html#a44b904ff24a4f4fc05c6b9c88478cd08" title="btrfs_test_extent_io" alt="" coords="405,19,543,45"/>
+<area shape="rect" id="node4" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="591,56,741,83"/>
+<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="789,56,880,83"/>
+<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="928,56,1023,83"/>
+<area shape="rect" id="node8" href="$inode-tests_8c.html#a9d0b73cbf6efa1170df29806ec743995" title="btrfs_test_inodes" alt="" coords="413,81,535,108"/>
+</map>

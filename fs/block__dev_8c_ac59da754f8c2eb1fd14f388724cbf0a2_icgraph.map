@@ -1,0 +1,13 @@
+<map id="bdev_file_inode" name="bdev_file_inode">
+<area shape="rect" id="node2" href="$block__dev_8c.html#a281561992099abf362a83655817f9a07" title="__blkdev_direct_IO\l_simple" alt="" coords="165,5,300,47"/>
+<area shape="rect" id="node5" href="$block__dev_8c.html#a8360c300d878d3d6e37078e183490b8f" title="__blkdev_direct_IO" alt="" coords="165,71,300,98"/>
+<area shape="rect" id="node6" href="$block__dev_8c.html#a2d5d9328208f75ab4a89a5681ddb962f" title="block_llseek" alt="" coords="185,122,280,149"/>
+<area shape="rect" id="node7" href="$block__dev_8c.html#a734687f09c3c3d58abf42e467d22dc8d" title="blkdev_fsync" alt="" coords="183,173,282,199"/>
+<area shape="rect" id="node8" href="$block__dev_8c.html#a8586bbfdbde917674b7cb0e88dd48bb5" title="blkdev_close" alt="" coords="183,223,282,250"/>
+<area shape="rect" id="node9" href="$block__dev_8c.html#a970987785af4b12144a93db18583fe87" title="block_ioctl" alt="" coords="191,274,275,301"/>
+<area shape="rect" id="node10" href="$block__dev_8c.html#a3125ae07ccf50ed45bb306a5336a0b4e" title="blkdev_write_iter" alt="" coords="173,325,293,351"/>
+<area shape="rect" id="node11" href="$block__dev_8c.html#a75dd2e48bf58fc2dfe2c4675577281f1" title="blkdev_read_iter" alt="" coords="174,375,291,402"/>
+<area shape="rect" id="node12" href="$block__dev_8c.html#ae558eda876b781f93be8a73a582d8166" title="blkdev_fallocate" alt="" coords="175,426,291,453"/>
+<area shape="rect" id="node3" href="$block__dev_8c.html#a1c4a6925907a154903d6dd14fa0d6f7a" title="blkdev_direct_IO" alt="" coords="348,42,468,69"/>
+<area shape="rect" id="node4" href="$block__dev_8c.html#a87446c4001b804b7332197fddef2dd52" title="blkdev_writepages" alt="" coords="516,42,647,69"/>
+</map>

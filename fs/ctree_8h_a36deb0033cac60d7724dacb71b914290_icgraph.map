@@ -1,0 +1,6 @@
+<map id="btrfs_get_block_group_info" name="btrfs_get_block_group_info">
+<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#aaab1ea47a6eb9c02d53fddab1db9f006" title="btrfs_ioctl_space_info" alt="" coords="232,5,381,32"/>
+<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="429,5,508,32"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="556,5,731,32"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="779,5,876,32"/>
+</map>

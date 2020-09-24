@@ -1,0 +1,5 @@
+<map id="is_subvolume_inode" name="is_subvolume_inode">
+<area shape="rect" id="node2" href="$btrfs_2super_8c.html#a29d29bde364a25ef1aeb57bc00d2204e" title="mount_subvol" alt="" coords="193,5,296,32"/>
+<area shape="rect" id="node3" href="$btrfs_2super_8c.html#a727584f687f90b26e216838c539d53ed" title="btrfs_mount" alt="" coords="344,5,435,32"/>
+<area shape="rect" id="node4" href="$btrfs_2super_8c.html#a89866e36e3959d1dd885ced894dc0643" title="btrfs_kill_super" alt="" coords="483,5,593,32"/>
+</map>

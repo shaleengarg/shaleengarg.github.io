@@ -1,0 +1,9 @@
+<map id="hfs_bnode_write" name="hfs_bnode_write">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#a2eec1ffa82b5ee2269afa43121f17f17" title="hfs_bnode_write_u16" alt="" coords="171,5,316,32"/>
+<area shape="rect" id="node3" href="$hfs_2btree_8h.html#a5272a242cb6091eac3757982361dff61" title="hfs_bnode_write_u8" alt="" coords="174,56,313,83"/>
+<area shape="rect" id="node8" href="$hfsplus__fs_8h.html#a8313a86a563db4ed5bf531f7d28e1e69" title="hfs_bnode_unlink" alt="" coords="182,107,305,133"/>
+<area shape="rect" id="node4" href="$brec_8c.html#a189b0fff348a099387e2da4255ae21da" title="hfs_brec_update_parent" alt="" coords="364,81,525,108"/>
+<area shape="rect" id="node7" href="$brec_8c.html#a0026884ebf394a78b86e49e823f02a05" title="hfs_btree_inc_height" alt="" coords="373,31,516,57"/>
+<area shape="rect" id="node5" href="$hfsplus__fs_8h.html#a625285d4396b97f38ecab8e5a2f6b9fc" title="hfs_brec_insert" alt="" coords="579,56,690,83"/>
+<area shape="rect" id="node6" href="$hfsplus__fs_8h.html#ad1949dd61d98082640c1b6246b5a40aa" title="hfs_brec_remove" alt="" coords="573,107,696,133"/>
+</map>

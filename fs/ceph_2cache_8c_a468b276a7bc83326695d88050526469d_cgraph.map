@@ -1,0 +1,16 @@
+<map id="ceph_fscache_unregister_fs" name="ceph_fscache_unregister_fs">
+<area shape="rect" id="node2" href="$cookie_8c.html#a018c741b3a71d877c5482037a3a1be4e" title="__fscache_relinquish\l_cookie" alt="" coords="239,318,383,359"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#a47c216c40b832d896f7e8e4793843d48" title="__fscache_disable_cookie" alt="" coords="431,195,605,221"/>
+<area shape="rect" id="node6" href="$cookie_8c.html#a7ea686fd8cbb9aaffcb8aee94313e468" title="EXPORT_SYMBOL" alt="" coords="911,275,1050,301"/>
+<area shape="rect" id="node13" href="$cookie_8c.html#a52c671cbce45ee0a8eeb64c1c7e34ff2" title="fscache_cookie_put" alt="" coords="449,376,587,403"/>
+<area shape="rect" id="node4" href="$fscache_2internal_8h.html#aee2fb5972b3735f681ce7be61d7ed138" title="fscache_update_aux" alt="" coords="680,224,823,251"/>
+<area shape="rect" id="node5" href="$cookie_8c.html#a1b3c329d673bb4d48688e1f60e6fe0d5" title="__fscache_wait_on_invalidate" alt="" coords="653,275,849,301"/>
+<area shape="rect" id="node7" href="$fscache_2internal_8h.html#aae52858a78e36ae08f2098a073e68db6" title="fscache_raise_event" alt="" coords="680,56,823,83"/>
+<area shape="rect" id="node12" href="$fscache_2internal_8h.html#acc330518c9fd15cf4cc19bf76cac9480" title="fscache_invalidate\l_writes" alt="" coords="686,158,817,199"/>
+<area shape="rect" id="node8" href="$fscache_2internal_8h.html#a3d39a831595401a170f4984148482c3a" title="fscache_enqueue_object" alt="" coords="897,56,1064,83"/>
+<area shape="rect" id="node9" href="$object_8c.html#a56a15d20f5e28b4e88921cc74fd54057" title="fscache_get_object" alt="" coords="1133,5,1268,32"/>
+<area shape="rect" id="node10" href="$fscache_2internal_8h.html#ad018e8818f8733cc02afef4b643b3400" title="fscache_object_congested" alt="" coords="1112,56,1289,83"/>
+<area shape="rect" id="node11" href="$object_8c.html#a049577147beb84269b63d41bcad8743e" title="fscache_put_object" alt="" coords="1133,107,1268,133"/>
+<area shape="rect" id="node14" href="$cookie_8c.html#ae13cc52b4966ef43bd2ad897676b4b84" title="fscache_unhash_cookie" alt="" coords="670,376,833,403"/>
+<area shape="rect" id="node15" href="$cookie_8c.html#a1b5f476af45e9022e075097a49bd311d" title="fscache_free_cookie" alt="" coords="680,427,823,453"/>
+</map>

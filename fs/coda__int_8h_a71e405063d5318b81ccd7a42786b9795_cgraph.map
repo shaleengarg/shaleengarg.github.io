@@ -1,0 +1,12 @@
+<map id="coda_fsync" name="coda_fsync">
+<area shape="rect" id="node2" href="$sync_8c.html#afccf0b8bd0e71e4a5872e15fb493d987" title="vfs_fsync" alt="" coords="151,56,230,83"/>
+<area shape="rect" id="node5" href="$upcall_8c.html#a68d2b83187f886b1f7bb98ce22d835dd" title="venus_fsync" alt="" coords="143,107,239,133"/>
+<area shape="rect" id="node10" href="$coda__linux_8h.html#a8965e1ffc208d02b6ce27c9cd035744b" title="coda_i2f" alt="" coords="155,157,226,184"/>
+<area shape="rect" id="node3" href="$sync_8c.html#ae306f1702cb8dc8c79c3388afc632a4f" title="vfs_fsync_range" alt="" coords="287,5,405,32"/>
+<area shape="rect" id="node4" href="$sync_8c.html#a362b873c39d0612c99510b5d04c18cfc" title="EXPORT_SYMBOL" alt="" coords="453,31,592,57"/>
+<area shape="rect" id="node6" href="$upcall_8c.html#aaffa91d1c8a5e874e8758a27c22ce678" title="coda_upcall" alt="" coords="301,107,391,133"/>
+<area shape="rect" id="node7" href="$upcall_8c.html#a061b2aa3b8cfa2256c2f5e1211e5abdc" title="coda_waitfor_upcall" alt="" coords="454,107,591,133"/>
+<area shape="rect" id="node8" href="$upcall_8c.html#a9699b95512723ea903b752015912ce31" title="coda_block_signals" alt="" coords="647,81,783,108"/>
+<area shape="rect" id="node9" href="$upcall_8c.html#aec1f235e526b282dc5cf5368ac84bafd" title="coda_unblock_signals" alt="" coords="640,132,791,159"/>
+<area shape="rect" id="node11" href="$coda__linux_8h.html#a96e5b87913d07d6f4dfae763d017149c" title="ITOC" alt="" coords="319,157,373,184"/>
+</map>

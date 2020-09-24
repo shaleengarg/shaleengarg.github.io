@@ -1,0 +1,5 @@
+<map id="nlmclnt_call" name="nlmclnt_call">
+<area shape="rect" id="node2" href="$host_8c.html#afe6dc7ccb5a268f9d85e30b90a395e52" title="nlm_bind_host" alt="" coords="158,5,265,32"/>
+<area shape="rect" id="node3" href="$host_8c.html#a8e0d161a18927210fe72e8af813649cf" title="nlm_rebind_host" alt="" coords="153,56,270,83"/>
+<area shape="rect" id="node4" href="$clntproc_8c.html#afb72bfd37534cb2526730ddc0156c22a" title="nlm_wait_on_grace" alt="" coords="144,107,279,133"/>
+</map>

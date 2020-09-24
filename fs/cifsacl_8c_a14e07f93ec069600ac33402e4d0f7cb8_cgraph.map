@@ -1,0 +1,8 @@
+<map id="build_sec_desc" name="build_sec_desc">
+<area shape="rect" id="node2" href="$cifsacl_8c.html#ae11b2533d1e0317b789269f94ea77398" title="set_chmod_dacl" alt="" coords="165,5,283,32"/>
+<area shape="rect" id="node5" href="$cifsacl_8c.html#a9805235a9da69f1c745ce829663b94e9" title="copy_sec_desc" alt="" coords="167,56,281,83"/>
+<area shape="rect" id="node6" href="$cifsacl_8c.html#a803ea3e33f8d918c286a9072f5cdb18c" title="cifs_copy_sid" alt="" coords="334,107,437,133"/>
+<area shape="rect" id="node7" href="$cifsacl_8c.html#a058b9cb5a479ee5861423b47f01e3b9c" title="id_to_sid" alt="" coords="187,157,261,184"/>
+<area shape="rect" id="node3" href="$cifsacl_8c.html#af70884ff25e06420399535d1e029c71b" title="fill_ace_for_sid" alt="" coords="331,5,440,32"/>
+<area shape="rect" id="node4" href="$cifsacl_8c.html#a169a5bf637c2ac29f6d6fa0e10016012" title="mode_to_access_flags" alt="" coords="488,5,644,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="cifs_write_from_iter" name="cifs_write_from_iter">
+<area shape="rect" id="node2" href="$cifs_2file_8c.html#a6b0ad42d785ee013b121a5e88c784985" title="collect_uncached_write_data" alt="" coords="189,67,380,94"/>
+<area shape="rect" id="node5" href="$cifs_2file_8c.html#abb5554827c4578c7807a2975125733b7" title="cifs_user_writev" alt="" coords="226,198,343,225"/>
+<area shape="rect" id="node3" href="$cifs_2file_8c.html#ac17773fbfdd6eb409975e0c7bd758abe" title="cifs_uncached_writedata\l_release" alt="" coords="428,5,595,47"/>
+<area shape="rect" id="node4" href="$cifs_2file_8c.html#a70d5f6823967af87364f78b625ffa1d2" title="cifs_uncached_writev\l_complete" alt="" coords="643,64,791,105"/>
+<area shape="rect" id="node6" href="$cifs_2file_8c.html#ae14c04b9a306d3452e967fb47b448c5b" title="cifs_strict_writev" alt="" coords="451,274,572,301"/>
+<area shape="rect" id="node7" href="$cifsfs_8h.html#a4ad54c1b030e3dca5d896f0cc933c8df" title="cifs_get_time" alt="" coords="667,223,767,250"/>
+<area shape="rect" id="node15" href="$cifsfs_8c.html#a960fbeea6b7fd8d5dc1b0c3edf55e49a" title="cifs_file_write_iter" alt="" coords="448,223,575,250"/>
+<area shape="rect" id="node8" href="$cifs_2dir_8c.html#aad65ba60f8fa2f5144f89dd131a42ff7" title="cifs_d_revalidate" alt="" coords="1263,161,1383,187"/>
+<area shape="rect" id="node9" href="$cifs_2inode_8c.html#ae353a4c9df459096e70efa1c66cedd9a" title="cifs_revalidate_dentry_attr" alt="" coords="839,223,1013,250"/>
+<area shape="rect" id="node10" href="$cifs_2xattr_8c.html#a823d646e3c1a6162a4e977c92248c433" title="cifs_attrib_get" alt="" coords="1086,274,1190,301"/>
+<area shape="rect" id="node12" href="$cifs_2xattr_8c.html#ac6606b42494c4f26ffccd9f58ff3a337" title="cifs_creation_time_get" alt="" coords="1061,223,1215,250"/>
+<area shape="rect" id="node13" href="$cifs_2inode_8c.html#a86162a978a9203277eb84ddb29135614" title="cifs_revalidate_dentry" alt="" coords="1063,173,1213,199"/>
+<area shape="rect" id="node14" href="$cifs_2inode_8c.html#a9fe155572fb3bf8a8e8e221d98a61f5f" title="cifs_getattr" alt="" coords="1095,325,1181,351"/>
+<area shape="rect" id="node11" href="$cifs_2xattr_8c.html#af10653fa2d8cf24ced8da8457b32534c" title="cifs_xattr_get" alt="" coords="1272,237,1373,263"/>
+</map>

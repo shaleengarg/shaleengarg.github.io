@@ -1,0 +1,10 @@
+<map id="check_perm" name="check_perm">
+<area shape="rect" id="node2" href="$configfs__internal_8h.html#a9f9b20a516d6f430d8c7b1d4ed260cb2" title="configfs_get_config_item" alt="" coords="147,5,313,32"/>
+<area shape="rect" id="node5" href="$configfs__internal_8h.html#a94334744f7750a8b13e74ac70b042c8b" title="to_attr" alt="" coords="401,56,460,83"/>
+<area shape="rect" id="node6" href="$configfs__internal_8h.html#ac4f07567de12f83598600a39d78b580e" title="to_bin_attr" alt="" coords="189,107,271,133"/>
+<area shape="rect" id="node7" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="173,157,287,184"/>
+<area shape="rect" id="node3" href="$item_8c.html#a2fe4c03cd5fb7c4aa54724629e3f8811" title="config_item_get" alt="" coords="373,5,488,32"/>
+<area shape="rect" id="node4" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="549,95,688,121"/>
+<area shape="rect" id="node8" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="361,157,500,184"/>
+<area shape="rect" id="node9" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="548,171,689,197"/>
+</map>

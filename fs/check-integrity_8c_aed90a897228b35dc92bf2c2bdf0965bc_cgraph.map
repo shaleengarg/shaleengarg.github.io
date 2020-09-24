@@ -1,0 +1,9 @@
+<map id="btrfsic_unmount" name="btrfsic_unmount">
+<area shape="rect" id="node2" href="$check-integrity_8c.html#af4360a68d86db1b044975aec13ca2d3e" title="btrfsic_dev_state_hashtable\l_lookup" alt="" coords="168,5,353,47"/>
+<area shape="rect" id="node3" href="$check-integrity_8c.html#adefbffe0a81c8a9dbbd1d0f6e6360084" title="btrfsic_dev_state_hashtable\l_remove" alt="" coords="168,71,353,112"/>
+<area shape="rect" id="node4" href="$check-integrity_8c.html#aeff5293208494f3ec940568de4adffb1" title="btrfsic_dev_state_free" alt="" coords="185,137,336,163"/>
+<area shape="rect" id="node5" href="$check-integrity_8c.html#aa72a68ac2487b56154dbb3bce6fdd3ce" title="btrfsic_print_rem_link" alt="" coords="187,187,334,214"/>
+<area shape="rect" id="node6" href="$check-integrity_8c.html#a0b93c221b44fdb6909d7f8e1790e1160" title="btrfsic_get_block_type" alt="" coords="401,213,555,239"/>
+<area shape="rect" id="node7" href="$check-integrity_8c.html#a645781dc1cbf00b7d5460d2f80ec62b7" title="btrfsic_block_link_free" alt="" coords="185,289,337,315"/>
+<area shape="rect" id="node8" href="$check-integrity_8c.html#a7ce69320c9255a48cef5e93a0c41bcba" title="btrfsic_block_free" alt="" coords="198,339,323,366"/>
+</map>

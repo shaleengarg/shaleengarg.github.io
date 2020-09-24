@@ -1,0 +1,5 @@
+<map id="ceph_choose_frag" name="ceph_choose_frag">
+<area shape="rect" id="node2" href="$ceph_2inode_8c.html#a2f38909e35910852f3d67e4699d82150" title="__ceph_choose_frag" alt="" coords="181,5,324,32"/>
+<area shape="rect" id="node3" href="$ceph_2inode_8c.html#aa70c67ff20a7670cf115c9fc3904e991" title="__ceph_find_frag" alt="" coords="372,5,493,32"/>
+<area shape="rect" id="node4" href="$ceph__frag_8c.html#a735f49070162231ca19778930878e05c" title="ceph_frag_compare" alt="" coords="541,5,677,32"/>
+</map>

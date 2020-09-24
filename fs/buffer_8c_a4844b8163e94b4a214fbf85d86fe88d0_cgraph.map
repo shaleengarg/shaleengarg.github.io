@@ -1,0 +1,9 @@
+<map id="create_empty_buffers" name="create_empty_buffers">
+<area shape="rect" id="node2" href="$buffer_8c.html#a94ca9132735bfcb0b0b2ae9531461cc8" title="alloc_page_buffers" alt="" coords="201,107,332,133"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="600,107,739,133"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a981702f40cf45ec9b31ad0139bef0ad4" title="alloc_buffer_head" alt="" coords="404,56,528,83"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a3b86ea46b7b35adeb32cc031574c6caf" title="set_bh_page" alt="" coords="418,157,514,184"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="407,5,525,32"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="380,107,552,133"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="612,31,727,57"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="do_setxattr" name="do_setxattr">
+<area shape="rect" id="node2" href="$btrfs_2xattr_8h.html#a434058b03ecb1c530e21db56b2f845b1" title="btrfs_setxattr" alt="" coords="140,229,239,256"/>
+<area shape="rect" id="node3" href="$btrfs_2acl_8c.html#a968833680943f923f8fb1b5a73c0034f" title="__btrfs_set_acl" alt="" coords="489,146,600,173"/>
+<area shape="rect" id="node17" href="$btrfs_2xattr_8c.html#ac54d1aada55b64768d1eea06425d9ee3" title="btrfs_xattr_handler_set" alt="" coords="287,305,441,332"/>
+<area shape="rect" id="node18" href="$btrfs_2xattr_8c.html#a53254d33f57a73c489569310467c8dad" title="btrfs_initxattrs" alt="" coords="311,200,417,226"/>
+<area shape="rect" id="node20" href="$props_8c.html#a013e491f7ec4e2b05426a27ed6777ec3" title="__btrfs_set_prop" alt="" coords="305,254,423,281"/>
+<area shape="rect" id="node4" href="$btrfs_2acl_8c.html#a14dd5a736211d078f685ca7d780f1767" title="btrfs_set_acl" alt="" coords="1639,10,1737,37"/>
+<area shape="rect" id="node7" href="$btrfs_2acl_8c.html#acb3ce5ba134d648cfa214011532bb9c4" title="btrfs_init_acl" alt="" coords="679,146,775,173"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="2195,197,2369,224"/>
+<area shape="rect" id="node6" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="2417,197,2515,224"/>
+<area shape="rect" id="node8" href="$btrfs_2inode_8c.html#a7c07a58ee182406200c7ce756d4a83f7" title="btrfs_init_inode_security" alt="" coords="855,172,1017,198"/>
+<area shape="rect" id="node9" href="$btrfs_2inode_8c.html#a39117a65e3e9a7fcbc4ea8e44a2020e9" title="btrfs_mknod" alt="" coords="1101,222,1195,249"/>
+<area shape="rect" id="node10" href="$btrfs_2inode_8c.html#a0e29aa5d937cbffe36ca1b0b6378ad7c" title="btrfs_create" alt="" coords="1103,273,1193,300"/>
+<area shape="rect" id="node11" href="$btrfs_2inode_8c.html#a4a7b55e33b0c55f68b58ba0fddb741c7" title="btrfs_mkdir" alt="" coords="1105,324,1191,350"/>
+<area shape="rect" id="node12" href="$btrfs_2inode_8c.html#afda26b056b51ec0a37238cf1afe1e930" title="btrfs_whiteout_for\l_rename" alt="" coords="1085,55,1211,96"/>
+<area shape="rect" id="node15" href="$btrfs_2inode_8c.html#ae64c6f742189c49848fa49206d37ad5d" title="btrfs_symlink" alt="" coords="1098,121,1198,148"/>
+<area shape="rect" id="node16" href="$btrfs_2inode_8c.html#af3230c0aae5b5e2fd6068a1c88b6f976" title="btrfs_tmpfile" alt="" coords="1101,172,1195,198"/>
+<area shape="rect" id="node13" href="$btrfs_2inode_8c.html#a611d61b19895af4b388ff9d0be22a532" title="btrfs_rename" alt="" coords="1281,66,1379,93"/>
+<area shape="rect" id="node14" href="$btrfs_2inode_8c.html#acf4169a1b179f406bc39c7a1a4e6a137" title="btrfs_rename2" alt="" coords="2041,69,2147,96"/>
+<area shape="rect" id="node19" href="$btrfs_2xattr_8h.html#a86be6474cfa134b52db9b5ad9989b89f" title="btrfs_xattr_security_init" alt="" coords="648,197,807,224"/>
+<area shape="rect" id="node21" href="$props_8h.html#abb5581839b378504b241f74ffd34e212" title="btrfs_set_prop" alt="" coords="492,428,597,454"/>
+<area shape="rect" id="node25" href="$props_8c.html#a4487fbb8ed1c0d12519617c8ef615ee7" title="inherit_props" alt="" coords="497,256,593,282"/>
+<area shape="rect" id="node22" href="$btrfs_2xattr_8c.html#a3a4e28539ee6086d0fc30a5f270c111c" title="btrfs_xattr_handler\l_set_prop" alt="" coords="662,479,793,520"/>
+<area shape="rect" id="node23" href="$btrfs_2ioctl_8c.html#ae924929f7643cf878331854d59276673" title="btrfs_ioctl_setflags" alt="" coords="1429,453,1561,480"/>
+<area shape="rect" id="node24" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="2055,400,2133,426"/>
+<area shape="rect" id="node26" href="$props_8h.html#aeee4e049d11af4934199236efc8523a5" title="btrfs_inode_inherit\l_props" alt="" coords="663,248,791,290"/>
+<area shape="rect" id="node34" href="$props_8h.html#a4773110a39a59de73215431cd44544b4" title="btrfs_subvol_inherit\l_props" alt="" coords="869,344,1003,386"/>
+<area shape="rect" id="node27" href="$btrfs_2inode_8c.html#ab2e376bfad5fe1288e6a7ca1ec6f1170" title="btrfs_new_inode" alt="" coords="877,238,995,265"/>
+<area shape="rect" id="node28" href="$btrfs_2inode_8c.html#a9b50e6fb566be9a947417223e170e217" title="btrfs_create_subvol_root" alt="" coords="1065,374,1231,401"/>
+<area shape="rect" id="node29" href="$btrfs_2ioctl_8c.html#aece08dd0e8105c023076dd08db435113" title="create_subvol" alt="" coords="1279,377,1381,404"/>
+<area shape="rect" id="node30" href="$btrfs_2ioctl_8c.html#a4424fbf22d98fefedcacb51896b790cd" title="btrfs_mksubvol" alt="" coords="1440,381,1551,408"/>
+<area shape="rect" id="node31" href="$btrfs_2ioctl_8c.html#ad21b72862d0f4ebfdcdf3c8d6cb2548a" title="btrfs_ioctl_snap_create\l_transid" alt="" coords="1609,375,1767,416"/>
+<area shape="rect" id="node32" href="$btrfs_2ioctl_8c.html#a274286b1dbb25f419e68e3fc31eaaaf0" title="btrfs_ioctl_snap_create" alt="" coords="1825,374,1983,401"/>
+<area shape="rect" id="node33" href="$btrfs_2ioctl_8c.html#a34404ba763173c1240750bde89d592dc" title="btrfs_ioctl_snap_create_v2" alt="" coords="1815,425,1993,452"/>
+</map>

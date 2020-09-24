@@ -1,0 +1,5 @@
+<map id="get_next_mid64" name="get_next_mid64">
+<area shape="rect" id="node2" href="$smb2transport_8c.html#aa3e54594ca0dfd01c62a4ff261a09546" title="smb2_seq_num_into_buf" alt="" coords="168,31,335,57"/>
+<area shape="rect" id="node3" href="$smb2transport_8c.html#a1dc590cefdf41e9aa40f15fc92b8e31d" title="smb2_setup_request" alt="" coords="404,5,547,32"/>
+<area shape="rect" id="node4" href="$smb2transport_8c.html#a23f30bb189f0082be9a127b23588d826" title="smb2_setup_async_request" alt="" coords="383,56,568,83"/>
+</map>

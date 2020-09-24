@@ -1,0 +1,7 @@
+<map id="link_dev_buffers" name="link_dev_buffers">
+<area shape="rect" id="node2" href="$buffer_8c.html#a8620ca0474bbd9b82a6a0f6827d8b8c2" title="grow_dev_page" alt="" coords="171,5,284,32"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#ab362a5ea822dded250aa8fb9b3e0a105" title="grow_buffers" alt="" coords="332,5,429,32"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a0afbbc13c36fbd7ead5948b2926e7d90" title="__getblk_slow" alt="" coords="477,5,583,32"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a786052bd5bd2888c5512965a2f746e84" title="__getblk_gfp" alt="" coords="631,5,727,32"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#afa01bff6f071077845c288301912fbda" title="__bread_gfp" alt="" coords="775,5,868,32"/>
+</map>

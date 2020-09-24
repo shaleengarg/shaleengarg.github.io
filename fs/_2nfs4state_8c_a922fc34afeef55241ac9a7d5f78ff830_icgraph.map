@@ -1,0 +1,8 @@
+<map id="alloc_reclaim" name="alloc_reclaim">
+<area shape="rect" id="node2" href="$state_8h.html#a38fec46b0ef673b752da70d53aa084bb" title="nfs4_client_to_reclaim" alt="" coords="152,31,304,57"/>
+<area shape="rect" id="node3" href="$nfs4recover_8c.html#a99953d1442a16e701d34f92a77d8fad5" title="nfsd4_create_clid_dir" alt="" coords="352,5,497,32"/>
+<area shape="rect" id="node4" href="$nfs4recover_8c.html#a869698b6d2beae9c94da40c853595b63" title="load_recdir" alt="" coords="382,56,467,83"/>
+<area shape="rect" id="node5" href="$nfs4recover_8c.html#aa23cfebac633e3ec2e96c66dd630dd22" title="nfsd4_recdir_load" alt="" coords="545,56,669,83"/>
+<area shape="rect" id="node6" href="$nfs4recover_8c.html#a8018ff7de197d916fc0ccc6ccfcdb3c7" title="nfsd4_load_reboot_recovery_data" alt="" coords="717,56,935,83"/>
+<area shape="rect" id="node7" href="$nfs4recover_8c.html#afe93c0ddbff43e1565bf1abf15149d22" title="nfsd4_legacy_tracking_init" alt="" coords="983,56,1159,83"/>
+</map>

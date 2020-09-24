@@ -1,0 +1,10 @@
+<map id="v9fs_set_acl" name="v9fs_set_acl">
+<area shape="rect" id="node2" href="$9p_2acl_8c.html#a3f68f66fa73fade9a80a75732ad4af63" title="v9fs_acl_chmod" alt="" coords="160,19,277,45"/>
+<area shape="rect" id="node5" href="$9p_2acl_8c.html#ab8039d46b12f1a0afa0840835b2b4497" title="v9fs_set_create_acl" alt="" coords="149,81,288,108"/>
+<area shape="rect" id="node3" href="$vfs__inode__dotl_8c.html#a241703ddb3dee7bb5a0827910816be57" title="v9fs_vfs_setattr_dotl" alt="" coords="355,5,499,32"/>
+<area shape="rect" id="node4" href="$9p_2acl_8c.html#a2de855b26cf21d590bfe1c8a45198be3" title="v9fs_xattr_set_acl" alt="" coords="572,5,701,32"/>
+<area shape="rect" id="node6" href="$vfs__inode__dotl_8c.html#adb047c18af0fb75512499b964e272053" title="v9fs_vfs_atomic_open_dotl" alt="" coords="336,56,517,83"/>
+<area shape="rect" id="node7" href="$vfs__inode__dotl_8c.html#a1551e426c154bcda591527db334199f5" title="v9fs_vfs_mkdir_dotl" alt="" coords="357,107,496,133"/>
+<area shape="rect" id="node8" href="$vfs__inode__dotl_8c.html#a3273638b8655020cb91492e42198807e" title="v9fs_vfs_mknod_dotl" alt="" coords="353,157,500,184"/>
+<area shape="rect" id="node9" href="$vfs__inode__dotl_8c.html#a106ae819d705877e73c81ff990c9a1f1" title="v9fs_vfs_create_dotl" alt="" coords="565,157,708,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="configfs_register_subsystem" name="configfs_register_subsystem">
+<area shape="rect" id="node2" href="$configfs_2dir_8c.html#ab7cea82c9dcdfd8a051bd91a5ab0e556" title="configfs_unregister\l_subsystem" alt="" coords="243,49,375,90"/>
+<area shape="rect" id="node7" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="584,5,663,32"/>
+<area shape="rect" id="node8" href="$config_8h.html#a6888485ece8b2afac29c9f62ebd5141a" title="dlm_config_init" alt="" coords="254,136,363,163"/>
+<area shape="rect" id="node3" href="$config_8h.html#ade93137364e934996ca6fbc9ea404da4" title="dlm_config_exit" alt="" coords="423,107,536,133"/>
+<area shape="rect" id="node6" href="$nodemanager_8c.html#a9eb95eee91524c301b0ebb332d8be27e" title="exit_o2nm" alt="" coords="438,56,521,83"/>
+<area shape="rect" id="node4" href="$dlm_2main_8c.html#ae8074252b6f3b4940cda64a2be696241" title="init_dlm" alt="" coords="590,157,657,184"/>
+<area shape="rect" id="node5" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="711,132,781,159"/>
+</map>

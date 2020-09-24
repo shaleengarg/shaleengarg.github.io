@@ -1,0 +1,26 @@
+<map id="nfsd4_stid_check_stateid_generation" name="nfsd4_stid_check_stateid_generation">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#ae61dc11d3018506696570fabdc0fe92f" title="nfsd4_validate_stateid" alt="" coords="224,207,376,234"/>
+<area shape="rect" id="node14" href="$state_8h.html#a4054a189a82bc18c6064f3278d8802a0" title="nfs4_preprocess_stateid_op" alt="" coords="601,499,787,526"/>
+<area shape="rect" id="node25" href="$xdr4_8h.html#a34cdedf17c9d7c9c5a12d27069f9e24f" title="nfsd4_delegreturn" alt="" coords="426,271,551,298"/>
+<area shape="rect" id="node3" href="$xdr4_8h.html#abd697a71c6d357278396760413279d68" title="nfsd4_test_stateid" alt="" coords="424,182,553,209"/>
+<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="1179,373,1303,399"/>
+<area shape="rect" id="node5" href="$xdr4_8h.html#a9327fd34d4e9a2732483fcf07ec3ea3e" title="set_change_info" alt="" coords="635,182,753,209"/>
+<area shape="rect" id="node6" href="$_2nfs4proc_8c.html#a2e429d32133e7cfa098adf27d0dcad9f" title="do_open_lookup" alt="" coords="841,69,957,95"/>
+<area shape="rect" id="node10" href="$_2nfs4proc_8c.html#af898a4678c599894ad1ba4d757e7f300" title="nfsd4_create" alt="" coords="1022,170,1119,197"/>
+<area shape="rect" id="node11" href="$_2nfs4proc_8c.html#ab3bd94eddbfc2e94b470ffa5090bbcc5" title="nfsd4_link" alt="" coords="1030,221,1111,247"/>
+<area shape="rect" id="node12" href="$_2nfs4proc_8c.html#a370fa2f8bc00bf4c7b56c0372e885bf2" title="nfsd4_remove" alt="" coords="1019,271,1123,298"/>
+<area shape="rect" id="node13" href="$_2nfs4proc_8c.html#a0f37013627dd1b5aa4c37bfed83a0c73" title="nfsd4_rename" alt="" coords="847,119,951,146"/>
+<area shape="rect" id="node7" href="$_2nfs4proc_8c.html#a9f276ecc730ef878d2999a7ef8d53ea7" title="nfsd4_open" alt="" coords="1026,69,1115,95"/>
+<area shape="rect" id="node8" href="$_2nfs4proc_8c.html#a904a4e25223fc8d62323846eef291bf4" title="nfsd4_open_omfg" alt="" coords="1179,69,1304,95"/>
+<area shape="rect" id="node9" href="$_2nfs4proc_8c.html#aa2c2f423cfc44e7f702917658517d066" title="nfsd4_proc_compound" alt="" coords="1352,69,1505,95"/>
+<area shape="rect" id="node15" href="$_2nfs4proc_8c.html#a5a2814569ade741f9791348fcdb7ae2f" title="nfsd4_read" alt="" coords="855,714,942,741"/>
+<area shape="rect" id="node16" href="$_2nfs4proc_8c.html#a3fdf1e8c5abd1242f928f9ab2d13923a" title="nfsd4_setattr" alt="" coords="849,378,948,405"/>
+<area shape="rect" id="node17" href="$_2nfs4proc_8c.html#aa5dcbf94d8a7f439f15c7730994a5aad" title="nfsd4_write" alt="" coords="854,435,943,462"/>
+<area shape="rect" id="node18" href="$_2nfs4proc_8c.html#accf12b1cd3f67a05513c86dce2023e37" title="nfsd4_verify_copy" alt="" coords="835,575,963,602"/>
+<area shape="rect" id="node21" href="$_2nfs4proc_8c.html#adeeff4aaa31ef53b0756a80ce0354da0" title="nfsd4_fallocate" alt="" coords="843,499,954,526"/>
+<area shape="rect" id="node24" href="$_2nfs4proc_8c.html#abba7841bde5416e90dceaf830c0d0bc2" title="nfsd4_seek" alt="" coords="854,638,943,665"/>
+<area shape="rect" id="node19" href="$_2nfs4proc_8c.html#a9bde2b2e37554f59b4cc3fc5317fa01e" title="nfsd4_clone" alt="" coords="1025,575,1117,602"/>
+<area shape="rect" id="node20" href="$_2nfs4proc_8c.html#a99cce79ce9a6efee39752cf9c26aa74b" title="nfsd4_copy" alt="" coords="1026,626,1115,653"/>
+<area shape="rect" id="node22" href="$_2nfs4proc_8c.html#adfb32cd931b5553b389f863f4a44b74f" title="nfsd4_allocate" alt="" coords="1017,525,1124,551"/>
+<area shape="rect" id="node23" href="$_2nfs4proc_8c.html#ad8b2f1c01591c853705bb2b07597ce9b" title="nfsd4_deallocate" alt="" coords="1011,474,1131,501"/>
+</map>

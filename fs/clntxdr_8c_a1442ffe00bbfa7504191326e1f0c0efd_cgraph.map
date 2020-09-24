@@ -1,0 +1,5 @@
+<map id="nlm_xdr_dec_res" name="nlm_xdr_dec_res">
+<area shape="rect" id="node2" href="$clntxdr_8c.html#a8ae664ac429d03ed3c2a968674f89760" title="decode_cookie" alt="" coords="181,5,290,32"/>
+<area shape="rect" id="node4" href="$clntxdr_8c.html#a4e5fa3f25051088712357f24e87b63df" title="decode_nlm_stat" alt="" coords="175,56,296,83"/>
+<area shape="rect" id="node3" href="$clntxdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="344,31,479,57"/>
+</map>

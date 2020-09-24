@@ -1,0 +1,13 @@
+<map id="cramfs_physmem_mmap_capabilities" name="cramfs_physmem_mmap_capabilities">
+<area shape="rect" id="node2" href="$read__write_8c.html#a742084c7905066c90d7a474e8d58123d" title="generic_file_llseek" alt="" coords="239,107,368,133"/>
+<area shape="rect" id="node7" href="$splice_8c.html#ae33600575f4ba244ccd2be1c1185acde" title="generic_file_splice_read" alt="" coords="223,157,384,184"/>
+<area shape="rect" id="node9" href="$cramfs_2inode_8c.html#a104f852037f2067f080b3ddbb0e2cda7" title="cramfs_physmem_mmap" alt="" coords="644,208,813,235"/>
+<area shape="rect" id="node10" href="$cramfs_2inode_8c.html#ac12c601397ff8039992a7d163aa1c112" title="cramfs_physmem_get\l_unmapped_area" alt="" coords="228,259,379,301"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#a671b38c1409ed29a6d0a97ba76303fa6" title="generic_file_llseek_size" alt="" coords="434,56,594,83"/>
+<area shape="rect" id="node6" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="861,56,1000,83"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#a0ba1e453b6ea109fba765f8317691688" title="vfs_setpos" alt="" coords="685,5,772,32"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="870,5,991,32"/>
+<area shape="rect" id="node8" href="$splice_8c.html#aed8d0eded3ac520e69b4a7f4dcac067a" title="EXPORT_SYMBOL" alt="" coords="445,157,583,184"/>
+<area shape="rect" id="node11" href="$cramfs_2inode_8c.html#a85b4fa3ce5af7dbfb2a0879bf96acd78" title="CRAMFS_SB" alt="" coords="677,284,781,311"/>
+<area shape="rect" id="node12" href="$cramfs_2inode_8c.html#aac123b6bb9fa2091f73671a405d620ea" title="cramfs_get_block_range" alt="" coords="432,259,596,285"/>
+</map>

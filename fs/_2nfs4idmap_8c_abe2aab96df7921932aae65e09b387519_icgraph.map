@@ -1,0 +1,10 @@
+<map id="idmap_name_to_id" name="idmap_name_to_id">
+<area shape="rect" id="node2" href="$_2nfs4idmap_8c.html#a26179a9d8e8c64c25809e6294b3aa24b" title="do_name_to_id" alt="" coords="184,81,295,108"/>
+<area shape="rect" id="node3" href="$_2nfs4idmap_8c.html#add312ded35f8e602c20e2053c3044a08" title="nfsd_map_name_to_uid" alt="" coords="343,56,503,83"/>
+<area shape="rect" id="node9" href="$_2nfs4idmap_8c.html#a8e2e0d60e6916d3a40bceda7171de004" title="nfsd_map_name_to_gid" alt="" coords="343,107,503,133"/>
+<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#ae011b54e6a26d28b64b9aa874fefcb09" title="nfsd4_decode_fattr" alt="" coords="560,56,693,83"/>
+<area shape="rect" id="node8" href="$idmap_8h.html#ac9ecbc3b19f42e01718acc0aba6e2349" title="nfsd_idmap_shutdown" alt="" coords="551,107,703,133"/>
+<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a3ec28e30cf11ca396dc4cd630e67db52" title="nfsd4_decode_create" alt="" coords="751,5,897,32"/>
+<area shape="rect" id="node6" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="755,56,893,83"/>
+<area shape="rect" id="node7" href="$_2nfs4xdr_8c.html#a609e33f86d5cd41e6feb373a08789242" title="nfsd4_decode_setattr" alt="" coords="751,107,897,133"/>
+</map>

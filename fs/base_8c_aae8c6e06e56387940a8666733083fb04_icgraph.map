@@ -1,0 +1,10 @@
+<map id="has_pid_permissions" name="has_pid_permissions">
+<area shape="rect" id="node2" href="$base_8c.html#a2e034d6d9d74df6692e61a10cf7d4ac8" title="proc_pid_permission" alt="" coords="197,5,339,32"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#a5e96c05840b25a15e22d1caf487c387d" title="pid_getattr" alt="" coords="227,56,309,83"/>
+<area shape="rect" id="node8" href="$proc_2internal_8h.html#a4ae4653e54a0a987694d075a53b3d4a4" title="proc_pid_readdir" alt="" coords="209,107,327,133"/>
+<area shape="rect" id="node3" href="$base_8c.html#aac8ee96c99ab66f3aea706fe0130a331" title="proc_task_getattr" alt="" coords="393,5,515,32"/>
+<area shape="rect" id="node5" href="$base_8c.html#a58cde411f46f5c28eb1b5a786a150b9b" title="proc_pident_readdir" alt="" coords="387,56,521,83"/>
+<area shape="rect" id="node6" href="$base_8c.html#a1e634b61511a8547eb00ea0ee603bc9e" title="proc_tgid_base_readdir" alt="" coords="569,31,725,57"/>
+<area shape="rect" id="node7" href="$base_8c.html#a55aa372a1219e3856cc6886ca78bd50e" title="proc_tid_base_readdir" alt="" coords="573,81,722,108"/>
+<area shape="rect" id="node9" href="$proc_2root_8c.html#a35c5af2597b92e530d4861d5aa2e636f" title="proc_root_readdir" alt="" coords="393,107,515,133"/>
+</map>

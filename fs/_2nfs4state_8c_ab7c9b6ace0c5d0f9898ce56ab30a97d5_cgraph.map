@@ -1,0 +1,7 @@
+<map id="move_to_confirmed" name="move_to_confirmed">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a15f93c5de724bb57aabcdc3690c877c1" title="clientid_hashval" alt="" coords="209,5,323,32"/>
+<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a261ed3e65de21bf7b8d8833a64bca143" title="add_clp_to_name_tree" alt="" coords="189,56,343,83"/>
+<area shape="rect" id="node5" href="$_2nfs4state_8c.html#adb3869994df601ea6064a7eaf7952ed1" title="renew_client_locked" alt="" coords="196,107,336,133"/>
+<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a538a9fe3478581d4873513ce06e416f1" title="compare_blob" alt="" coords="399,56,501,83"/>
+<area shape="rect" id="node6" href="$_2nfs4state_8c.html#ae666db7dbdd46d29028e800d5996df93" title="is_client_expired" alt="" coords="391,107,509,133"/>
+</map>

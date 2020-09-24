@@ -1,0 +1,6 @@
+<map id="ceph_d_prune" name="ceph_d_prune">
+<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="202,5,290,32"/>
+<area shape="rect" id="node3" href="$ceph_2super_8h.html#a70e8735349909cd6a19f2c09888c42f9" title="__ceph_dir_clear_complete" alt="" coords="156,56,336,83"/>
+<area shape="rect" id="node4" href="$ceph_2super_8h.html#a6ddd70137143052b74727ba4c2a0c35c" title="ceph_dentry" alt="" coords="199,107,293,133"/>
+<area shape="rect" id="node5" href="$ceph_2super_8h.html#a12b0a454ca3429c8a9075a3c9f61890c" title="__ceph_dir_clear_ordered" alt="" coords="161,157,331,184"/>
+</map>

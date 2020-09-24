@@ -1,0 +1,13 @@
+<map id="configfs_getlink" name="configfs_getlink">
+<area shape="rect" id="node2" href="$configfs__internal_8h.html#a9f9b20a516d6f430d8c7b1d4ed260cb2" title="configfs_get_config_item" alt="" coords="167,31,333,57"/>
+<area shape="rect" id="node5" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="193,107,307,133"/>
+<area shape="rect" id="node8" href="$configfs_2symlink_8c.html#a11c87cc65966435c1b5e82eac6f309fc" title="configfs_get_target_path" alt="" coords="167,233,333,260"/>
+<area shape="rect" id="node3" href="$item_8c.html#a2fe4c03cd5fb7c4aa54724629e3f8811" title="config_item_get" alt="" coords="393,5,508,32"/>
+<area shape="rect" id="node4" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="569,44,708,71"/>
+<area shape="rect" id="node6" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="381,107,520,133"/>
+<area shape="rect" id="node7" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="568,120,709,147"/>
+<area shape="rect" id="node9" href="$configfs_2symlink_8c.html#a2f3b5ddde26b2ab6678128f67352341b" title="item_depth" alt="" coords="407,208,494,235"/>
+<area shape="rect" id="node11" href="$configfs_2symlink_8c.html#ad80c01ee6b9f8288973245b5bb2e4a6b" title="item_path_length" alt="" coords="390,259,511,285"/>
+<area shape="rect" id="node12" href="$configfs_2symlink_8c.html#ae8fb8020509c0201a1d42c6f39cf3de7" title="fill_item_path" alt="" coords="401,309,500,336"/>
+<area shape="rect" id="node10" href="$configfs__internal_8h.html#a23501a428429867c4ab113ab5ab1da27" title="configfs_is_root" alt="" coords="581,259,696,285"/>
+</map>

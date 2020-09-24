@@ -1,0 +1,7 @@
+<map id="lock_extent_range" name="lock_extent_range">
+<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a21a273cca3c80830b71ce5159105974b" title="btrfs_double_extent_lock" alt="" coords="181,31,348,57"/>
+<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a90a4ec3c6fab6579d14ee124d5f96bc4" title="btrfs_extent_same" alt="" coords="396,5,527,32"/>
+<area shape="rect" id="node5" href="$btrfs_2ioctl_8c.html#a1313ce6d068dc5c4d70bda44d702af64" title="btrfs_clone_files" alt="" coords="403,68,520,95"/>
+<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#add50be5cc311c8fe05253a9977680992" title="btrfs_dedupe_file_range" alt="" coords="575,5,735,32"/>
+<area shape="rect" id="node6" href="$btrfs_2ioctl_8c.html#acdccfff24b86b70a3eef7c99d6305f3e" title="btrfs_clone_file_range" alt="" coords="580,68,729,95"/>
+</map>

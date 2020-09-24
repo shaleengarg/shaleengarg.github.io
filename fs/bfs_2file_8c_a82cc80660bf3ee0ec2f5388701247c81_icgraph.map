@@ -1,0 +1,7 @@
+<map id="bfs_move_blocks" name="bfs_move_blocks">
+<area shape="rect" id="node2" href="$bfs_2file_8c.html#a444003bec813660bf58d4902c0a4cee6" title="bfs_get_block" alt="" coords="177,81,280,108"/>
+<area shape="rect" id="node3" href="$bfs_2file_8c.html#a648df7a5aff80b502e298b0ad950c24a" title="bfs_writepage" alt="" coords="333,5,436,32"/>
+<area shape="rect" id="node4" href="$bfs_2file_8c.html#a78ef8e843d9d583219b5ba68540ced1a" title="bfs_readpage" alt="" coords="335,56,435,83"/>
+<area shape="rect" id="node5" href="$bfs_2file_8c.html#add7df0bc13f0317c67466b32e49197ff" title="bfs_write_begin" alt="" coords="328,107,441,133"/>
+<area shape="rect" id="node6" href="$bfs_2file_8c.html#a06c98aac9852f7ddf5d8ef7ee38d3c76" title="bfs_bmap" alt="" coords="345,157,424,184"/>
+</map>

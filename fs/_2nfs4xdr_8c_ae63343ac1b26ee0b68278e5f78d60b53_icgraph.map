@@ -1,0 +1,9 @@
+<map id="svcxdr_tmpalloc" name="svcxdr_tmpalloc">
+<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a50a4cf0b7d5a28cefaba2cdac1e16c3d" title="svcxdr_dupstr" alt="" coords="208,5,312,32"/>
+<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#ae011b54e6a26d28b64b9aa874fefcb09" title="nfsd4_decode_fattr" alt="" coords="397,56,531,83"/>
+<area shape="rect" id="node7" href="$_2nfs4xdr_8c.html#a7b7973a49b2e538a46ac3e845c150b8a" title="savemem" alt="" coords="221,107,299,133"/>
+<area shape="rect" id="node8" href="$_2nfs4xdr_8c.html#ac992a5fe3ed7b106eb286a033255f24f" title="nfsd4_decode_test_stateid" alt="" coords="171,157,349,184"/>
+<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a3ec28e30cf11ca396dc4cd630e67db52" title="nfsd4_decode_create" alt="" coords="579,5,725,32"/>
+<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="583,56,721,83"/>
+<area shape="rect" id="node6" href="$_2nfs4xdr_8c.html#a609e33f86d5cd41e6feb373a08789242" title="nfsd4_decode_setattr" alt="" coords="579,107,725,133"/>
+</map>

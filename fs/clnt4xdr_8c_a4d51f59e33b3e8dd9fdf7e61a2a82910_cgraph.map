@@ -1,0 +1,10 @@
+<map id="nlm4_xdr_enc_testres" name="nlm4_xdr_enc_testres">
+<area shape="rect" id="node2" href="$clnt4xdr_8c.html#a81ffad907533eba0cb95dbc0de5613dc" title="encode_cookie" alt="" coords="220,5,329,32"/>
+<area shape="rect" id="node4" href="$clnt4xdr_8c.html#a4c1e8baa252320ef8c82df859fbc011f" title="encode_nlm4_stat" alt="" coords="211,56,339,83"/>
+<area shape="rect" id="node5" href="$clnt4xdr_8c.html#a92d4879bb00c4cbcdabea9b3624205e2" title="encode_nlm4_holder" alt="" coords="204,107,345,133"/>
+<area shape="rect" id="node3" href="$clnt4xdr_8c.html#a75f28dd6af8669742f9c01d28b7738fa" title="encode_netobj" alt="" coords="417,5,524,32"/>
+<area shape="rect" id="node6" href="$clnt4xdr_8c.html#a414c79c85ebfa85912e4ef45fe6fa001" title="encode_bool" alt="" coords="423,56,518,83"/>
+<area shape="rect" id="node7" href="$clnt4xdr_8c.html#a5b08c762d6fb101d48c22a4264759338" title="encode_int32" alt="" coords="421,107,520,133"/>
+<area shape="rect" id="node8" href="$clnt4xdr_8c.html#a40307c374a4eb02a8ec71ba29cd22bff" title="nlm4_compute_offsets" alt="" coords="393,157,548,184"/>
+<area shape="rect" id="node9" href="$clnt4xdr_8c.html#a41a9acefe31e74cfb7646991a7e9476e" title="loff_t_to_s64" alt="" coords="596,157,693,184"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cifs_revalidate_file_attr" name="cifs_revalidate_file_attr">
+<area shape="rect" id="node2" href="$cifs_2inode_8c.html#a4509e5eb37647493f023bea8b917d585" title="cifs_revalidate_file" alt="" coords="209,77,340,104"/>
+<area shape="rect" id="node4" href="$cifsfs_8h.html#a4ad54c1b030e3dca5d896f0cc933c8df" title="cifs_get_time" alt="" coords="547,77,647,104"/>
+<area shape="rect" id="node12" href="$cifsfs_8c.html#aea7b46b8976a41ef3e077c645782017f" title="cifs_llseek" alt="" coords="233,179,317,205"/>
+<area shape="rect" id="node3" href="$cifs_2file_8c.html#a6543d3a22978f2c43badc82bcc18ba32" title="cifs_file_mmap" alt="" coords="388,77,499,104"/>
+<area shape="rect" id="node5" href="$cifs_2dir_8c.html#aad65ba60f8fa2f5144f89dd131a42ff7" title="cifs_d_revalidate" alt="" coords="1119,15,1239,41"/>
+<area shape="rect" id="node6" href="$cifs_2inode_8c.html#ae353a4c9df459096e70efa1c66cedd9a" title="cifs_revalidate_dentry_attr" alt="" coords="695,77,869,104"/>
+<area shape="rect" id="node7" href="$cifs_2xattr_8c.html#a823d646e3c1a6162a4e977c92248c433" title="cifs_attrib_get" alt="" coords="942,128,1046,155"/>
+<area shape="rect" id="node9" href="$cifs_2xattr_8c.html#ac6606b42494c4f26ffccd9f58ff3a337" title="cifs_creation_time_get" alt="" coords="917,77,1071,104"/>
+<area shape="rect" id="node10" href="$cifs_2inode_8c.html#a86162a978a9203277eb84ddb29135614" title="cifs_revalidate_dentry" alt="" coords="919,27,1069,53"/>
+<area shape="rect" id="node11" href="$cifs_2inode_8c.html#a9fe155572fb3bf8a8e8e221d98a61f5f" title="cifs_getattr" alt="" coords="951,179,1037,205"/>
+<area shape="rect" id="node8" href="$cifs_2xattr_8c.html#af10653fa2d8cf24ced8da8457b32534c" title="cifs_xattr_get" alt="" coords="1128,91,1229,117"/>
+</map>

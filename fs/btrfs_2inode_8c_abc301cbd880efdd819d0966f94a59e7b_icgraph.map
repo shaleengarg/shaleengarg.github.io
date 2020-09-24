@@ -1,0 +1,6 @@
+<map id="btrfs_invalidate_inodes" name="btrfs_invalidate_inodes">
+<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a407e83a824b3b9d5f00e0575800ad0e7" title="btrfs_ioctl_snap_destroy" alt="" coords="208,5,372,32"/>
+<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="420,5,499,32"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="547,5,721,32"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="769,5,867,32"/>
+</map>

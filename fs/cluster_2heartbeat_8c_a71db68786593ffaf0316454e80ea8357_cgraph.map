@@ -1,0 +1,8 @@
+<map id="o2hb_set_quorum_device" name="o2hb_set_quorum_device">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#ab0efa6a39d40342632c4f1a7d9e247c1" title="o2hb_global_heartbeat\l_active" alt="" coords="224,29,376,71"/>
+<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#ab7b33f7f07b48636e27022bed08f6c9b" title="o2hb_region_unpin" alt="" coords="235,95,365,122"/>
+<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#ad306fd3febbe0e26805f31170d33b316" title="EXPORT_SYMBOL" alt="" coords="429,37,568,63"/>
+<area shape="rect" id="node5" href="$nodemanager_8c.html#a1591b6575841947b85cb323060f6dbf3" title="o2nm_undepend_item" alt="" coords="424,95,573,122"/>
+<area shape="rect" id="node6" href="$configfs_2dir_8c.html#a065ff670aced68c37bc625217922ff04" title="configfs_undepend_item" alt="" coords="621,95,784,122"/>
+<area shape="rect" id="node7" href="$configfs_2dir_8c.html#a2d43ef87b4908365f3d98c5680ed65fb" title="EXPORT_SYMBOL" alt="" coords="832,95,971,122"/>
+</map>

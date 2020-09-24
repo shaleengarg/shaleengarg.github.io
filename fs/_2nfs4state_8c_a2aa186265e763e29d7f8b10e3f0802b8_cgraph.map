@@ -1,0 +1,12 @@
+<map id="nfs4_check_deleg" name="nfs4_check_deleg">
+<area shape="rect" id="node2" href="$_2nfs4state_8c.html#aaef64be68666096b249d88cdfdb6c13c" title="find_deleg_stateid" alt="" coords="196,56,323,83"/>
+<area shape="rect" id="node6" href="$_2nfs4state_8c.html#a33801748542f905b0cbc283a48c59749" title="nfs4_put_stid" alt="" coords="209,107,309,133"/>
+<area shape="rect" id="node9" href="$_2nfs4state_8c.html#a0b132eff1635fb55e4122c61942e754d" title="share_access_to_flags" alt="" coords="181,157,337,184"/>
+<area shape="rect" id="node10" href="$_2nfs4state_8c.html#a1c534c49ffc3d4c91b527978616dda2e" title="nfs4_check_delegmode" alt="" coords="180,208,339,235"/>
+<area shape="rect" id="node11" href="$_2nfs4state_8c.html#a10560f8eb371f6b99bf35d753503161b" title="nfsd4_is_deleg_cur" alt="" coords="192,259,327,285"/>
+<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a5f741016c17fc71c3432b13968f0a0dc" title="find_stateid_by_type" alt="" coords="387,5,529,32"/>
+<area shape="rect" id="node5" href="$state_8h.html#ae7934c91b76aeeb831ef7d19c869e5e5" title="delegstateid" alt="" coords="412,56,504,83"/>
+<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a18b795e010f8102f177de7ab67fe02b5" title="find_stateid_locked" alt="" coords="577,5,712,32"/>
+<area shape="rect" id="node7" href="$_2nfs4state_8c.html#a9a966030ded2d5e6d69a176f36c7bf4f" title="put_nfs4_file" alt="" coords="410,107,506,133"/>
+<area shape="rect" id="node8" href="$_2nfs4state_8c.html#a00c25c1cdf7500d9c23d9c37398e5984" title="nfsd4_free_file_rcu" alt="" coords="579,107,711,133"/>
+</map>

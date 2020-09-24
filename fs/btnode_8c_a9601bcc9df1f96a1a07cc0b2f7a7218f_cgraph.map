@@ -1,0 +1,7 @@
+<map id="nilfs_btnode_delete" name="nilfs_btnode_delete">
+<area shape="rect" id="node2" href="$nilfs2_2page_8c.html#a866283c71b48e2aec59af06e7dd9d0ac" title="nilfs_forget_buffer" alt="" coords="188,78,315,105"/>
+<area shape="rect" id="node3" href="$nilfs2_2page_8c.html#ae480881857e8afeef790a92ae1772630" title="nilfs_page_buffers\l_clean" alt="" coords="364,5,492,47"/>
+<area shape="rect" id="node4" href="$nilfs2_2page_8c.html#a6236b3bde5556e05843d2c5e34074b65" title="__nilfs_clear_page\l_dirty" alt="" coords="363,71,493,112"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="378,137,478,163"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="541,137,680,163"/>
+</map>

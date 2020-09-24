@@ -1,0 +1,8 @@
+<map id="encode_nlm_testrply" name="encode_nlm_testrply">
+<area shape="rect" id="node2" href="$clntxdr_8c.html#a06bbe96c974619fef8c329b47cd55cae" title="encode_nlm_holder" alt="" coords="196,81,331,108"/>
+<area shape="rect" id="node3" href="$clntxdr_8c.html#a414c79c85ebfa85912e4ef45fe6fa001" title="encode_bool" alt="" coords="405,5,499,32"/>
+<area shape="rect" id="node4" href="$clntxdr_8c.html#a5b08c762d6fb101d48c22a4264759338" title="encode_int32" alt="" coords="403,56,501,83"/>
+<area shape="rect" id="node5" href="$clntxdr_8c.html#a75f28dd6af8669742f9c01d28b7738fa" title="encode_netobj" alt="" coords="399,107,505,133"/>
+<area shape="rect" id="node6" href="$clntxdr_8c.html#a8deb0d65494876c52c2f78260bed9715" title="nlm_compute_offsets" alt="" coords="379,157,525,184"/>
+<area shape="rect" id="node7" href="$clntxdr_8c.html#a8b8519473edab5b2a1bc5aa7e3496208" title="loff_t_to_s32" alt="" coords="573,157,671,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nfsd4_decode_bitmap" name="nfsd4_decode_bitmap">
+<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#ae011b54e6a26d28b64b9aa874fefcb09" title="nfsd4_decode_fattr" alt="" coords="227,56,361,83"/>
+<area shape="rect" id="node6" href="$_2nfs4xdr_8c.html#afb79190e976b3370c76efa6ff475d6cc" title="nfsd4_decode_getattr" alt="" coords="221,107,367,133"/>
+<area shape="rect" id="node7" href="$_2nfs4xdr_8c.html#aa6f1182ae4ed760cca46e5fb4f46afe3" title="nfsd4_decode_readdir" alt="" coords="219,157,369,184"/>
+<area shape="rect" id="node8" href="$_2nfs4xdr_8c.html#a4f2e5317069bb8d6d48022624935645c" title="nfsd4_decode_verify" alt="" coords="223,208,365,235"/>
+<area shape="rect" id="node9" href="$_2nfs4xdr_8c.html#ae77770ae288100b7376608faf739629a" title="nfsd4_decode_exchange_id" alt="" coords="203,259,385,285"/>
+<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a3ec28e30cf11ca396dc4cd630e67db52" title="nfsd4_decode_create" alt="" coords="433,5,580,32"/>
+<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="437,56,576,83"/>
+<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a609e33f86d5cd41e6feb373a08789242" title="nfsd4_decode_setattr" alt="" coords="433,107,580,133"/>
+</map>

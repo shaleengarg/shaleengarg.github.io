@@ -1,0 +1,10 @@
+<map id="cramino" name="cramino">
+<area shape="rect" id="node2" href="$cramfs_2inode_8c.html#ad12bbf813b1bc6197935796d7745fa50" title="get_cramfs_inode" alt="" coords="121,109,247,135"/>
+<area shape="rect" id="node9" href="$cramfs_2inode_8c.html#afaae2ff85581e5cf4334aaa4febbc434" title="cramfs_readdir" alt="" coords="130,159,238,186"/>
+<area shape="rect" id="node3" href="$cramfs_2inode_8c.html#a1d0ee13d55c1127049acb9b61788eabf" title="cramfs_finalize_super" alt="" coords="295,58,444,85"/>
+<area shape="rect" id="node7" href="$cramfs_2inode_8c.html#ab67af87ae5b9d913e78257b6a19f111d" title="cramfs_lookup" alt="" coords="316,109,423,135"/>
+<area shape="rect" id="node4" href="$cramfs_2inode_8c.html#a309710a6b835f8653e176e0e864c52de" title="cramfs_blkdev_fill\l_super" alt="" coords="504,5,631,47"/>
+<area shape="rect" id="node6" href="$cramfs_2inode_8c.html#af1f630d537077840f8911ab484eb9a09" title="cramfs_mtd_fill_super" alt="" coords="492,71,643,98"/>
+<area shape="rect" id="node5" href="$cramfs_2inode_8c.html#ac10ef8446918a93056e4718405bbc8e9" title="cramfs_mount" alt="" coords="691,42,796,69"/>
+<area shape="rect" id="node8" href="$cramfs_2inode_8c.html#a765965e3c53b2328d5878203bf76b296" title="cramfs_readpage" alt="" coords="506,134,629,161"/>
+</map>

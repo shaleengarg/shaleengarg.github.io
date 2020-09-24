@@ -1,0 +1,15 @@
+<map id="ext4_setup_system_zone" name="ext4_setup_system_zone">
+<area shape="rect" id="node2" href="$block__validity_8c.html#a0a710cfad9852fbbaf8cd8b9b487fdfc" title="ext4_release_system_zone" alt="" coords="224,5,405,32"/>
+<area shape="rect" id="node3" href="$ext4_2balloc_8c.html#a9fc5c03829348a6d1cadffc2ab067927" title="ext4_bg_has_super" alt="" coords="680,107,815,133"/>
+<area shape="rect" id="node5" href="$block__validity_8c.html#a14626e41c227787353b178fb98bc14ce" title="add_system_zone" alt="" coords="251,107,379,133"/>
+<area shape="rect" id="node7" href="$ext4_2balloc_8c.html#a79579fad47ccebcf59dea37b3d37977f" title="ext4_bg_num_gdb" alt="" coords="251,157,379,184"/>
+<area shape="rect" id="node10" href="$ext4_2balloc_8c.html#a25075b6d3e6db4fea13fab4092f04f40" title="ext4_get_group_desc" alt="" coords="241,208,388,235"/>
+<area shape="rect" id="node11" href="$ext4_2super_8c.html#a14cdb5bb2b294d30fad533a4fe5c58c1" title="ext4_block_bitmap" alt="" coords="249,259,380,285"/>
+<area shape="rect" id="node12" href="$ext4_2super_8c.html#a2fd84d1fa874156fb1b4099020683564" title="ext4_inode_bitmap" alt="" coords="249,309,380,336"/>
+<area shape="rect" id="node13" href="$ext4_2super_8c.html#a5f20c2693f541db677d3a3b56dacf895" title="ext4_inode_table" alt="" coords="255,360,375,387"/>
+<area shape="rect" id="node14" href="$block__validity_8c.html#adb2d8ddcbd7bda9bcb2cdadfba196cc8" title="debug_print_tree" alt="" coords="255,411,374,437"/>
+<area shape="rect" id="node4" href="$ext4_2balloc_8c.html#a980edbcd2e880c0b7f77d24021141d49" title="test_root" alt="" coords="863,107,936,133"/>
+<area shape="rect" id="node6" href="$block__validity_8c.html#a3e82f2df6b5a15329bb068bb2444bf26" title="can_merge" alt="" coords="499,107,586,133"/>
+<area shape="rect" id="node8" href="$ext4_2balloc_8c.html#a2061e41c9d76ed0483766bada790afe8" title="ext4_bg_num_gdb_nometa" alt="" coords="453,157,632,184"/>
+<area shape="rect" id="node9" href="$ext4_2balloc_8c.html#a74b2f4fea5381082e4f26509f60234f5" title="ext4_bg_num_gdb_meta" alt="" coords="461,208,625,235"/>
+</map>

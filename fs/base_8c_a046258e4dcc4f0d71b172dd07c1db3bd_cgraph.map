@@ -1,0 +1,11 @@
+<map id="oom_score_adj_write" name="oom_score_adj_write">
+<area shape="rect" id="node2" href="$base_8c.html#a22deac09c7890c53e679ade2e244f6b5" title="__set_oom_adj" alt="" coords="199,56,309,83"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="227,107,281,133"/>
+<area shape="rect" id="node3" href="$volumes_8c.html#a51786cbea7d04b6c8afdf3a3850f26d3" title="DEFINE_MUTEX" alt="" coords="357,5,484,32"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="369,56,473,83"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="561,5,631,32"/>
+<area shape="rect" id="node7" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="532,56,660,83"/>
+<area shape="rect" id="node8" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="549,107,643,133"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="708,5,780,32"/>
+<area shape="rect" id="node10" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="361,107,480,133"/>
+</map>

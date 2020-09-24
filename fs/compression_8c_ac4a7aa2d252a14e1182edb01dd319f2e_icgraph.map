@@ -1,0 +1,10 @@
+<map id="byte_set_size" name="byte_set_size">
+<area shape="rect" id="node2" href="$compression_8h.html#aaf832e7821beb023243f55ed1d20f70e" title="btrfs_compress_heuristic" alt="" coords="156,31,324,57"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#aefa38affc3f8eeb707045b791e8c9ab6" title="inode_need_compress" alt="" coords="372,31,524,57"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a4bcdf8fa7529d080b3d88d0f5ae67abd" title="compress_file_range" alt="" coords="572,5,715,32"/>
+<area shape="rect" id="node7" href="$btrfs_2inode_8c.html#ac0e7e3ac85c1493a932820dcc802e352" title="run_delalloc_range" alt="" coords="1131,31,1261,57"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a7efe1cec8243747534bef90e364ca7e8" title="async_cow_start" alt="" coords="763,5,884,32"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#ac61aa5eefe6f2c561396287cc84cc788" title="cow_file_range_async" alt="" coords="932,5,1083,32"/>
+<area shape="rect" id="node8" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1309,31,1484,57"/>
+<area shape="rect" id="node9" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1532,31,1629,57"/>
+</map>

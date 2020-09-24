@@ -1,0 +1,20 @@
+<map id="grow_dev_page" name="grow_dev_page">
+<area shape="rect" id="node2" href="$buffer_8c.html#a2a63a7d91de10e99449de68903a2c90f" title="init_page_buffers" alt="" coords="171,56,293,83"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#ad15f4d943c9aa17afe7f9cba94c137bf" title="try_to_free_buffers" alt="" coords="167,227,297,253"/>
+<area shape="rect" id="node15" href="$buffer_8c.html#a94ca9132735bfcb0b0b2ae9531461cc8" title="alloc_page_buffers" alt="" coords="167,289,297,316"/>
+<area shape="rect" id="node19" href="$buffer_8c.html#a890a6c0e559dbb7434dd42044df459ee" title="link_dev_buffers" alt="" coords="173,340,291,367"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a1fbc0cf68d55ad7fc3b1fe2509dc1bd8" title="blkdev_max_block" alt="" coords="366,5,497,32"/>
+<area shape="rect" id="node4" href="$block__dev_8c.html#ac58f1357c2d73d034c45d449d6ca1ea5" title="I_BDEV" alt="" coords="396,56,467,83"/>
+<area shape="rect" id="node5" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="611,56,682,83"/>
+<area shape="rect" id="node6" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="577,5,716,32"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#aef5cfcace6506707ec79c3305339e521" title="drop_buffers" alt="" coords="384,151,479,177"/>
+<area shape="rect" id="node12" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="372,252,491,279"/>
+<area shape="rect" id="node14" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="577,265,716,292"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#ad8647f91d88c82527cb53ddc01785276" title="buffer_busy" alt="" coords="601,107,692,133"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#ad595c04f28b431cc4c8da5e29eb705db" title="__remove_assoc_queue" alt="" coords="565,157,728,184"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#a92a5deda319b02af36b62aec78286103" title="__clear_page_buffers" alt="" coords="573,208,720,235"/>
+<area shape="rect" id="node13" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="589,341,704,368"/>
+<area shape="rect" id="node16" href="$buffer_8c.html#a981702f40cf45ec9b31ad0139bef0ad4" title="alloc_buffer_head" alt="" coords="369,353,493,380"/>
+<area shape="rect" id="node17" href="$buffer_8c.html#a3b86ea46b7b35adeb32cc031574c6caf" title="set_bh_page" alt="" coords="383,303,479,329"/>
+<area shape="rect" id="node18" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="345,404,517,431"/>
+</map>

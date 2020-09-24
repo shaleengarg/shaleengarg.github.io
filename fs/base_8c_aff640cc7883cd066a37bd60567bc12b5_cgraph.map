@@ -1,0 +1,9 @@
+<map id="environ_open" name="environ_open">
+<area shape="rect" id="node2" href="$base_8c.html#a45e1fe7af1b2508b498277143bd44ab2" title="__mem_open" alt="" coords="152,56,252,83"/>
+<area shape="rect" id="node3" href="$base_8c.html#add380b509caeb9af6d1eed6720bb483e" title="proc_mem_open" alt="" coords="300,56,419,83"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="467,56,571,83"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="647,5,718,32"/>
+<area shape="rect" id="node7" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="619,56,747,83"/>
+<area shape="rect" id="node8" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="636,107,729,133"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="795,5,867,32"/>
+</map>

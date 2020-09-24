@@ -1,0 +1,5 @@
+<map id="cramfs_physmem_get_unmapped_area" name="cramfs_physmem_get_unmapped_area">
+<area shape="rect" id="node2" href="$cramfs_2inode_8c.html#a85b4fa3ce5af7dbfb2a0879bf96acd78" title="CRAMFS_SB" alt="" coords="449,5,553,32"/>
+<area shape="rect" id="node3" href="$cramfs_2inode_8c.html#aac123b6bb9fa2091f73671a405d620ea" title="cramfs_get_block_range" alt="" coords="204,56,368,83"/>
+<area shape="rect" id="node4" href="$cramfs_2inode_8c.html#a104f852037f2067f080b3ddbb0e2cda7" title="cramfs_physmem_mmap" alt="" coords="416,56,585,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="alloc_workspace" name="alloc_workspace">
+<area shape="rect" id="node2" href="$compr__lzo_8c.html#ac1ccd71b522c12e6726c5ca862b9c821" title="jffs2_lzo_init" alt="" coords="172,5,267,32"/>
+<area shape="rect" id="node3" href="$compr_8h.html#a8b2cf640783a641aa201743a0a11993d" title="jffs2_compressors_init" alt="" coords="315,5,468,32"/>
+<area shape="rect" id="node4" href="$jffs2_2super_8c.html#ada8dce06e76419fa4b8962c92ab79beb" title="init_jffs2_fs" alt="" coords="516,5,605,32"/>
+<area shape="rect" id="node5" href="$jffs2_2super_8c.html#a31e0a1b18c45bc5888279ccd9f17b556" title="exit_jffs2_fs" alt="" coords="653,5,747,32"/>
+</map>

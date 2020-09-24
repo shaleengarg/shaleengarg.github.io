@@ -1,0 +1,5 @@
+<map id="ceph_ioctl_get_dataloc" name="ceph_ioctl_get_dataloc">
+<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="383,23,471,49"/>
+<area shape="rect" id="node3" href="$ceph_2super_8h.html#a5cfd03d4fd1754c43ab0a99fb09c479c" title="ceph_sb_to_client" alt="" coords="208,23,335,49"/>
+<area shape="rect" id="node4" href="$ceph_2super_8h.html#a51b0031781f30ee001a1b7307a19ac7f" title="ceph_ino" alt="" coords="234,73,309,100"/>
+</map>

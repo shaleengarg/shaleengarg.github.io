@@ -1,0 +1,9 @@
+<map id="cow_file_range" name="cow_file_range">
+<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a74f018b55b86656ed4963ba3df9af6f9" title="submit_compressed_extents" alt="" coords="163,5,352,32"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#ac0e7e3ac85c1493a932820dcc802e352" title="run_delalloc_range" alt="" coords="783,56,913,83"/>
+<area shape="rect" id="node8" href="$btrfs_2inode_8c.html#a5675e0967c88243c5fd8aa12f5f7c1af" title="run_delalloc_nocow" alt="" coords="400,107,536,133"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a5b23cdd0e70ea05086271f831533147d" title="async_cow_submit" alt="" coords="401,5,535,32"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#ac61aa5eefe6f2c561396287cc84cc788" title="cow_file_range_async" alt="" coords="584,5,735,32"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="961,56,1136,83"/>
+<area shape="rect" id="node7" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1184,56,1281,83"/>
+</map>

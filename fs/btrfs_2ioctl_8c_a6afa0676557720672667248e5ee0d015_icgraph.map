@@ -1,0 +1,5 @@
+<map id="btrfs_ioctl_start_sync" name="btrfs_ioctl_start_sync">
+<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="200,5,279,32"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="327,5,501,32"/>
+<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="549,5,647,32"/>
+</map>

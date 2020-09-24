@@ -1,0 +1,11 @@
+<map id="cifs/cifs_spnego.c" name="cifs/cifs_spnego.c">
+<area shape="rect" id="node9" href="$cifsglob_8h.html" title="cifsglob.h" alt="" coords="797,80,876,107"/>
+<area shape="rect" id="node26" href="$cifs__spnego_8h.html" title="cifs_spnego.h" alt="" coords="900,80,1003,107"/>
+<area shape="rect" id="node27" href="$cifs__debug_8h.html" title="cifs_debug.h" alt="" coords="1027,80,1123,107"/>
+<area shape="rect" id="node28" href="$cifsproto_8h.html" title="cifsproto.h" alt="" coords="1365,80,1447,107"/>
+<area shape="rect" id="node14" href="$cifs__fs__sb_8h.html" title="cifs_fs_sb.h" alt="" coords="687,162,781,189"/>
+<area shape="rect" id="node17" href="$cifsacl_8h.html" title="cifsacl.h" alt="" coords="805,162,876,189"/>
+<area shape="rect" id="node21" href="$smb2pdu_8h.html" title="smb2pdu.h" alt="" coords="1368,162,1455,189"/>
+<area shape="rect" id="node23" href="$cifspdu_8h.html" title="cifspdu.h" alt="" coords="1479,162,1554,189"/>
+<area shape="rect" id="node25" href="$smbfsctl_8h.html" title="smbfsctl.h" alt="" coords="1609,244,1691,271"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="alloc_chrdev_region" name="alloc_chrdev_region">
+<area shape="rect" id="node2" href="$char__dev_8c.html#afed9baf2d00abfb34759f4a5faf62aaa" title="__register_chrdev_region" alt="" coords="191,31,357,57"/>
+<area shape="rect" id="node3" href="$char__dev_8c.html#a7ddca4edd73987c03b89a3327173a757" title="find_dynamic_major" alt="" coords="405,5,544,32"/>
+<area shape="rect" id="node4" href="$char__dev_8c.html#ac0024fd2a8e8a9daa2425683be5ad868" title="major_to_index" alt="" coords="592,31,703,57"/>
+<area shape="rect" id="node5" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="751,31,829,57"/>
+<area shape="rect" id="node6" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="877,5,964,32"/>
+<area shape="rect" id="node8" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="1012,56,1151,83"/>
+<area shape="rect" id="node7" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="1019,5,1143,32"/>
+</map>

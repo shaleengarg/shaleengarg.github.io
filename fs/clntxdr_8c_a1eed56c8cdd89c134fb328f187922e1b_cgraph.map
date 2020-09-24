@@ -1,0 +1,7 @@
+<map id="encode_nlm_lock" name="encode_nlm_lock">
+<area shape="rect" id="node2" href="$clntxdr_8c.html#a9c53cabc047724058d0277668bbb810b" title="encode_caller_name" alt="" coords="179,5,320,32"/>
+<area shape="rect" id="node3" href="$clntxdr_8c.html#accdae8e927e6bccdde1a51974d048995" title="encode_fh" alt="" coords="208,56,291,83"/>
+<area shape="rect" id="node4" href="$clntxdr_8c.html#a75f28dd6af8669742f9c01d28b7738fa" title="encode_netobj" alt="" coords="371,81,477,108"/>
+<area shape="rect" id="node5" href="$clntxdr_8c.html#a8deb0d65494876c52c2f78260bed9715" title="nlm_compute_offsets" alt="" coords="176,157,323,184"/>
+<area shape="rect" id="node6" href="$clntxdr_8c.html#a8b8519473edab5b2a1bc5aa7e3496208" title="loff_t_to_s32" alt="" coords="375,157,473,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="btrfs_statfs" name="btrfs_statfs">
+<area shape="rect" id="node2" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="185,5,255,32"/>
+<area shape="rect" id="node3" href="$ctree_8h.html#acd5e7ca27af289b8d9f68432d06d6bd7" title="btrfs_account_ro_block\l_groups_free_space" alt="" coords="141,57,299,98"/>
+<area shape="rect" id="node4" href="$btrfs_2super_8c.html#a38da2d78b24b145ef3d4ced0fa2cb04d" title="btrfs_calc_avail_data\l_space" alt="" coords="147,122,293,163"/>
+<area shape="rect" id="node11" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="181,188,259,215"/>
+<area shape="rect" id="node5" href="$ctree_8h.html#ac1fb96e7db9951f59ff16284f410f3ae" title="btrfs_data_alloc_profile" alt="" coords="347,100,503,127"/>
+<area shape="rect" id="node9" href="$btrfs_2super_8c.html#aa447d3b9b1ad4ed9a19b1a8c76f06dcf" title="btrfs_descending_sort\l_devices" alt="" coords="349,151,500,193"/>
+<area shape="rect" id="node6" href="$extent-tree_8c.html#aa3fc5eec559f710720299d9d909ea425" title="get_alloc_profile" alt="" coords="570,100,686,127"/>
+<area shape="rect" id="node7" href="$extent-tree_8c.html#af5467485aa7250c63dc40050d97bde86" title="btrfs_reduce_alloc\l_profile" alt="" coords="753,93,881,134"/>
+<area shape="rect" id="node8" href="$extent-tree_8c.html#a2d6fd06b907338ed8748602d3ea9d5dc" title="get_restripe_target" alt="" coords="929,100,1060,127"/>
+<area shape="rect" id="node10" href="$btrfs_2super_8c.html#ac1b5120da69ff0c61edda32d25403138" title="btrfs_cmp_device_free\l_bytes" alt="" coords="551,151,705,193"/>
+</map>

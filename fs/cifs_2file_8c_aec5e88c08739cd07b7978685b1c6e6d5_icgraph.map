@@ -1,0 +1,5 @@
+<map id="cifs_partialpagewrite" name="cifs_partialpagewrite">
+<area shape="rect" id="node2" href="$cifs_2file_8c.html#a8b18ea4f83207d9bd3b719c025f2066f" title="cifs_writepage_locked" alt="" coords="195,31,345,57"/>
+<area shape="rect" id="node3" href="$cifs_2file_8c.html#a899766252030de0a224b8397b2e8f808" title="cifs_writepage" alt="" coords="403,5,510,32"/>
+<area shape="rect" id="node4" href="$cifs_2file_8c.html#a53f2e77c694184123b0e6cacdd285afc" title="cifs_launder_page" alt="" coords="393,56,520,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="btrfs_release_path" name="btrfs_release_path">
+<area shape="rect" id="node2" href="$locking_8h.html#a4e077d1af39caa3f5993eeabd284ad5f" title="btrfs_tree_unlock_rw" alt="" coords="183,93,325,120"/>
+<area shape="rect" id="node8" href="$extent__io_8c.html#ac7e005dca0ac3237f4627e4b63468bba" title="free_extent_buffer" alt="" coords="191,173,317,200"/>
+<area shape="rect" id="node3" href="$locking_8h.html#a21b4045191c3f61af033da14c294e7e6" title="btrfs_tree_unlock" alt="" coords="389,5,512,32"/>
+<area shape="rect" id="node5" href="$locking_8h.html#af1458ea8c9813bf0adcdee273c8e2494" title="btrfs_tree_read_unlock\l_blocking" alt="" coords="373,57,528,98"/>
+<area shape="rect" id="node7" href="$locking_8h.html#abcfca79b4675d7daba8ea67473bae19e" title="btrfs_tree_read_unlock" alt="" coords="373,123,528,149"/>
+<area shape="rect" id="node4" href="$locking_8c.html#ab6aa419ebd229e967fff79065236cb79" title="btrfs_assert_tree_locked" alt="" coords="576,5,741,32"/>
+<area shape="rect" id="node6" href="$locking_8c.html#a96cb3fd07179ed9fd59676d6a7c0490a" title="btrfs_assert_tree_read\l_locked" alt="" coords="583,82,735,123"/>
+<area shape="rect" id="node9" href="$extent__io_8c.html#a1a013751a0b14ce9dfafe8760e418a85" title="extent_buffer_under_io" alt="" coords="789,177,944,204"/>
+<area shape="rect" id="node10" href="$extent__io_8c.html#a45f61ef40dd9a77cf2f49bfa500d2ce6" title="release_extent_buffer" alt="" coords="377,261,524,288"/>
+<area shape="rect" id="node11" href="$extent__io_8c.html#a664832bdb9196f366f7bae8d23fe6491" title="btrfs_release_extent\l_buffer_page" alt="" coords="589,225,729,266"/>
+<area shape="rect" id="node13" href="$extent__io_8c.html#ae5972708be74df23a5a9cafdd514b7c8" title="__free_extent_buffer" alt="" coords="796,320,937,347"/>
+<area shape="rect" id="node14" href="$extent__io_8c.html#a6f899034e3eb7e0649632be9a6cff7ba" title="btrfs_release_extent\l_buffer_rcu" alt="" coords="589,342,729,383"/>
+<area shape="rect" id="node12" href="$extent__io_8h.html#a04dba5c7fecd62f5173fe05d3deba25e" title="num_extent_pages" alt="" coords="801,232,933,259"/>
+</map>

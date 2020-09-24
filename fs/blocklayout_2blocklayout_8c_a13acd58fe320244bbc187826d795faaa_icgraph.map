@@ -1,0 +1,7 @@
+<map id="destroy_parallel" name="destroy_parallel">
+<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html#a9518e5bfc073c4e708c841957b7ce869" title="put_parallel" alt="" coords="167,81,255,108"/>
+<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#a64dc6c73b1813daadf44c9d671ed10aa" title="bl_end_io_read" alt="" coords="304,5,413,32"/>
+<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#a0619ede503935b3ddcf512ea28fe362f" title="bl_read_pagelist" alt="" coords="464,44,580,71"/>
+<area shape="rect" id="node5" href="$blocklayout_2blocklayout_8c.html#a062e9eef39e97bd6741f6fe52056f68c" title="bl_end_io_write" alt="" coords="303,107,415,133"/>
+<area shape="rect" id="node6" href="$blocklayout_2blocklayout_8c.html#ad33173ca191d852196fe8841079b9313" title="bl_write_pagelist" alt="" coords="463,120,581,147"/>
+</map>

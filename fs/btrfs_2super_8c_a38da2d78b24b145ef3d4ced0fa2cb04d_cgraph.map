@@ -1,0 +1,8 @@
+<map id="btrfs_calc_avail_data_space" name="btrfs_calc_avail_data_space">
+<area shape="rect" id="node2" href="$ctree_8h.html#ac1fb96e7db9951f59ff16284f410f3ae" title="btrfs_data_alloc_profile" alt="" coords="199,13,355,39"/>
+<area shape="rect" id="node6" href="$btrfs_2super_8c.html#aa447d3b9b1ad4ed9a19b1a8c76f06dcf" title="btrfs_descending_sort\l_devices" alt="" coords="201,64,352,105"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#aa3fc5eec559f710720299d9d909ea425" title="get_alloc_profile" alt="" coords="422,13,538,39"/>
+<area shape="rect" id="node4" href="$extent-tree_8c.html#af5467485aa7250c63dc40050d97bde86" title="btrfs_reduce_alloc\l_profile" alt="" coords="605,5,733,47"/>
+<area shape="rect" id="node5" href="$extent-tree_8c.html#a2d6fd06b907338ed8748602d3ea9d5dc" title="get_restripe_target" alt="" coords="781,13,912,39"/>
+<area shape="rect" id="node7" href="$btrfs_2super_8c.html#ac1b5120da69ff0c61edda32d25403138" title="btrfs_cmp_device_free\l_bytes" alt="" coords="403,64,557,105"/>
+</map>

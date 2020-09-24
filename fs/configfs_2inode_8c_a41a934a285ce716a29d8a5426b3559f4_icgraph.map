@@ -1,0 +1,25 @@
+<map id="configfs_get_name" name="configfs_get_name">
+<area shape="rect" id="node2" href="$configfs_2dir_8c.html#ae9d40018bca789f5015bdcbd6463c0ca" title="configfs_dirent_exists" alt="" coords="201,215,351,242"/>
+<area shape="rect" id="node20" href="$configfs_2dir_8c.html#a64ee2903781619ffa7ea2eaa45e54af5" title="configfs_lookup" alt="" coords="219,342,333,369"/>
+<area shape="rect" id="node21" href="$configfs_2dir_8c.html#abbc08d4d6a7b9f785db31d758ed78e43" title="client_drop_item" alt="" coords="217,291,335,318"/>
+<area shape="rect" id="node23" href="$configfs_2dir_8c.html#a2baee1e02812682e6c54b51064dad885" title="configfs_readdir" alt="" coords="219,393,333,419"/>
+<area shape="rect" id="node24" href="$configfs_2inode_8c.html#a5a3ea6629c7464c856749c7cdba6e1c0" title="configfs_hash_and_remove" alt="" coords="185,443,367,470"/>
+<area shape="rect" id="node3" href="$configfs_2dir_8c.html#aa0eb06a0cf799ed87a9865c13c8bacac" title="configfs_create_dir" alt="" coords="415,209,547,235"/>
+<area shape="rect" id="node4" href="$configfs_2dir_8c.html#aac967ccb08f0a6f572572adb0346ee99" title="configfs_attach_item" alt="" coords="595,197,737,223"/>
+<area shape="rect" id="node5" href="$configfs_2dir_8c.html#a6b9dccd91c5b93bbd1bcb1ce14583194" title="configfs_attach_group" alt="" coords="785,139,936,166"/>
+<area shape="rect" id="node11" href="$configfs_2dir_8c.html#ad4e24c95206985e0d59116246bab2a8b" title="configfs_mkdir" alt="" coords="1025,241,1132,267"/>
+<area shape="rect" id="node6" href="$configfs_2dir_8c.html#a284dd2d85f3fc39d84b0390b92ce4fcb" title="populate_attrs" alt="" coords="1027,190,1131,217"/>
+<area shape="rect" id="node7" href="$configfs_2dir_8c.html#aec141622e5c0c4b65a77d82d79fecbf4" title="create_default_group" alt="" coords="1007,38,1150,65"/>
+<area shape="rect" id="node12" href="$configfs_2dir_8c.html#a1f60b4bf78e95ffe03f8922cebbd87ee" title="configfs_register_subsystem" alt="" coords="984,139,1173,166"/>
+<area shape="rect" id="node8" href="$configfs_2dir_8c.html#aa6e9399da0f4899f445acd4fdbbe36cd" title="populate_groups" alt="" coords="1241,63,1359,90"/>
+<area shape="rect" id="node9" href="$configfs_2dir_8c.html#a42a2ad1dec0b342a6d68e9bec5774a62" title="configfs_register_group" alt="" coords="1221,13,1379,39"/>
+<area shape="rect" id="node10" href="$configfs_2dir_8c.html#a5a8b332794cb2a23d4493fea588b2d8e" title="configfs_register_default\l_group" alt="" coords="1427,5,1591,47"/>
+<area shape="rect" id="node13" href="$configfs_2dir_8c.html#ab7cea82c9dcdfd8a051bd91a5ab0e556" title="configfs_unregister\l_subsystem" alt="" coords="1234,165,1366,207"/>
+<area shape="rect" id="node18" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="1639,223,1717,250"/>
+<area shape="rect" id="node19" href="$config_8h.html#a6888485ece8b2afac29c9f62ebd5141a" title="dlm_config_init" alt="" coords="1454,71,1563,98"/>
+<area shape="rect" id="node14" href="$config_8h.html#ade93137364e934996ca6fbc9ea404da4" title="dlm_config_exit" alt="" coords="1452,122,1565,149"/>
+<area shape="rect" id="node17" href="$nodemanager_8c.html#a9eb95eee91524c301b0ebb332d8be27e" title="exit_o2nm" alt="" coords="1467,173,1550,199"/>
+<area shape="rect" id="node15" href="$dlm_2main_8c.html#ae8074252b6f3b4940cda64a2be696241" title="init_dlm" alt="" coords="1645,71,1711,98"/>
+<area shape="rect" id="node16" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="1765,97,1836,123"/>
+<area shape="rect" id="node22" href="$configfs_2dir_8c.html#ac6b7cd9b7d0df35eac6b63a54c7d360e" title="configfs_rmdir" alt="" coords="429,342,533,369"/>
+</map>

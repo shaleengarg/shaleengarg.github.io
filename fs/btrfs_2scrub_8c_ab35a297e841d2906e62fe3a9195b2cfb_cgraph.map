@@ -1,0 +1,8 @@
+<map id="unlock_full_stripe" name="unlock_full_stripe">
+<area shape="rect" id="node2" href="$ctree_8h.html#ab9ea7458615bced8e4c446085efee976" title="btrfs_lookup_block\l_group" alt="" coords="188,5,319,47"/>
+<area shape="rect" id="node5" href="$btrfs_2scrub_8c.html#ac073d739a0bd60db0cfbc14f1f2046e9" title="get_full_stripe_logical" alt="" coords="180,71,327,98"/>
+<area shape="rect" id="node6" href="$btrfs_2scrub_8c.html#a169900b5362a19d5b91d049ee821ef8c" title="search_full_stripe_lock" alt="" coords="176,122,331,149"/>
+<area shape="rect" id="node7" href="$ctree_8h.html#a58c1db724e5d0cda79ae1b3e4e7ba743" title="btrfs_put_block_group" alt="" coords="178,173,329,199"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#aeeaa2e156294739421220cde258a3db2" title="block_group_cache_tree\l_search" alt="" coords="379,5,541,47"/>
+<area shape="rect" id="node4" href="$extent-tree_8c.html#ace85feeb22eab4716a3ad00746ef5817" title="btrfs_get_block_group" alt="" coords="589,13,740,39"/>
+</map>

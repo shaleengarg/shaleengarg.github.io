@@ -1,0 +1,8 @@
+<map id="nlm_find_lockowner" name="nlm_find_lockowner">
+<area shape="rect" id="node2" href="$clntproc_8c.html#adff4b023176c420d5cd2422eb835293e" title="__nlm_find_lockowner" alt="" coords="191,23,341,50"/>
+<area shape="rect" id="node5" href="$clntproc_8c.html#a5857b6a61c75d8316cbc678baab81e35" title="__nlm_alloc_pid" alt="" coords="209,74,323,100"/>
+<area shape="rect" id="node7" href="$host_8c.html#a08f3c22626c8b86269e14700c987fc87" title="nlm_get_host" alt="" coords="216,124,316,151"/>
+<area shape="rect" id="node3" href="$state_8h.html#ab7b0eb3f17368fac42811cce7ed9e67d" title="lockowner" alt="" coords="572,23,653,50"/>
+<area shape="rect" id="node4" href="$clntproc_8c.html#a4df0bc7d41bebece3a9dfc1c3b191b71" title="nlm_get_lockowner" alt="" coords="389,23,524,50"/>
+<area shape="rect" id="node6" href="$clntproc_8c.html#a0673664a73136a5241052da0b0508bb7" title="nlm_pidbusy" alt="" coords="409,74,504,100"/>
+</map>
