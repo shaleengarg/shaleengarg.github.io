@@ -1,0 +1,8 @@
+<map id="kernel_read" name="kernel_read">
+<area shape="rect" id="node2" href="$read__write_8c.html#ae2990ccc374ee3c52e0e80f82c95d985" title="vfs_read" alt="" coords="176,31,248,57"/>
+<area shape="rect" id="node7" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="143,81,281,108"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="329,5,436,32"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#aaad08cb7a69ffa5dd39ecb2c25be9456" title="__vfs_read" alt="" coords="339,56,426,83"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="484,5,605,32"/>
+<area shape="rect" id="node6" href="$read__write_8c.html#a3c8dee4a7ac07ac76e7f2269e90f0993" title="new_sync_read" alt="" coords="488,56,601,83"/>
+</map>

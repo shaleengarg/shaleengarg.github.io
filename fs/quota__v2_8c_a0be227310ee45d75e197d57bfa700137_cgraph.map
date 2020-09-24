@@ -1,0 +1,14 @@
+<map id="v2_read_dquot" name="v2_read_dquot">
+<area shape="rect" id="node2" href="$quota__tree_8c.html#a422895d4ded416f42ac21779ecfbed7a" title="qtree_read_dquot" alt="" coords="160,183,283,209"/>
+<area shape="rect" id="node3" href="$quota__tree_8c.html#a6b9ca9938e790361d7d8891c632b64e4" title="find_dqentry" alt="" coords="353,132,447,159"/>
+<area shape="rect" id="node5" href="$quota__tree_8c.html#adfe8ab3a55ba7592c1ecad6ad1d1c0e8" title="getdqbuf" alt="" coords="895,5,967,32"/>
+<area shape="rect" id="node8" href="$kqid_8c.html#a659b690ef6144cc72fa737b302a7f9e7" title="from_kqid" alt="" coords="891,208,970,235"/>
+<area shape="rect" id="node13" href="$quota__tree_8c.html#afb485c349330db81e8594d9ace084992" title="EXPORT_SYMBOL" alt="" coords="331,259,469,285"/>
+<area shape="rect" id="node4" href="$quota__tree_8c.html#a70cb585c3bd4217f14710b51e42c8037" title="find_tree_dqentry" alt="" coords="517,107,640,133"/>
+<area shape="rect" id="node6" href="$quota__tree_8c.html#a9d261b8d59ca5bbd6f4abade5dbb1318" title="read_blk" alt="" coords="895,107,966,133"/>
+<area shape="rect" id="node7" href="$quota__tree_8c.html#a8875bd1ba8471139075c12715b13d5ab" title="get_index" alt="" coords="714,157,793,184"/>
+<area shape="rect" id="node11" href="$quota__tree_8c.html#a067a482edf33ad5973fc48d9c8697f2e" title="find_block_dqentry" alt="" coords="688,56,819,83"/>
+<area shape="rect" id="node10" href="$quota__tree_8c.html#a06db07846053673bf0c329ea7017b9f7" title="__get_index" alt="" coords="885,157,977,184"/>
+<area shape="rect" id="node9" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="1043,208,1181,235"/>
+<area shape="rect" id="node12" href="$quota__tree_8c.html#af10955e72649d0e8ef2f77c811450cd7" title="qtree_dqstr_in_blk" alt="" coords="867,56,995,83"/>
+</map>

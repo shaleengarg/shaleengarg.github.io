@@ -1,0 +1,4 @@
+<map id="persistent_ram_write" name="persistent_ram_write">
+<area shape="rect" id="node2" href="$ram_8c.html#a896bdf374a43c0d134562f67f4e58a2b" title="ramoops_write_kmsg_hdr" alt="" coords="196,5,367,32"/>
+<area shape="rect" id="node3" href="$ram_8c.html#ad5236dc7659b412990978179785b65cf" title="ramoops_pstore_write" alt="" coords="415,31,565,57"/>
+</map>

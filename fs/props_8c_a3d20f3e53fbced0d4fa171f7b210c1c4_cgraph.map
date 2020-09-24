@@ -1,0 +1,12 @@
+<map id="prop_compression_extract" name="prop_compression_extract">
+<area shape="rect" id="node2" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="273,31,350,57"/>
+<area shape="rect" id="node3" href="$compression_8c.html#ac15520a48f259d55e6b85d77fc593c18" title="btrfs_compress_type2str" alt="" coords="228,81,395,108"/>
+<area shape="rect" id="node4" href="$compression_8c.html#a771159720d88297a9234eb1d49d8fda6" title="btrfs_decompress_bio" alt="" coords="443,81,593,108"/>
+<area shape="rect" id="node5" href="$compression_8c.html#a64ed88e518849e63570bfea27dc3b534" title="find_workspace" alt="" coords="642,56,755,83"/>
+<area shape="rect" id="node10" href="$compression_8c.html#abba0968ed023b8b4db82ef73842fa86f" title="free_workspace" alt="" coords="641,107,756,133"/>
+<area shape="rect" id="node6" href="$compression_8c.html#ae58a3114a7fbd04a2e01e13dc0975f78" title="__find_workspace" alt="" coords="805,56,931,83"/>
+<area shape="rect" id="node7" href="$compression_8c.html#a1fa6e59c9ab8fe02800afaa7a87f44a3" title="alloc_heuristic_ws" alt="" coords="1015,5,1144,32"/>
+<area shape="rect" id="node9" href="$xfs__buf__item_8c.html#af6a33219aa7a7e8db49d413525f90919" title="DEFINE_RATELIMIT_STATE" alt="" coords="980,56,1179,83"/>
+<area shape="rect" id="node8" href="$compression_8c.html#a7b15987fae854f614803af1c79fea952" title="free_heuristic_ws" alt="" coords="1227,56,1351,83"/>
+<area shape="rect" id="node11" href="$compression_8c.html#a1bc4391043526855106a80933e6eaa78" title="__free_workspace" alt="" coords="804,107,932,133"/>
+</map>

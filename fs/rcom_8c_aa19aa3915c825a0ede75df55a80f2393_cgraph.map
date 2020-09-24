@@ -1,0 +1,28 @@
+<map id="dlm_rcom_names" name="dlm_rcom_names">
+<area shape="rect" id="node2" href="$rcom_8c.html#af173f136268fdcfd1bbc4178e80eb455" title="create_rcom" alt="" coords="201,157,295,184"/>
+<area shape="rect" id="node19" href="$rcom_8c.html#a565f27cc45dc4e31e3230ae17ca917bf" title="allow_sync_reply" alt="" coords="187,212,309,239"/>
+<area shape="rect" id="node20" href="$rcom_8c.html#acbb6922e3017c3ef32d23dbf8030743e" title="send_rcom" alt="" coords="205,263,291,289"/>
+<area shape="rect" id="node24" href="$recover_8c.html#ae5400b2e767ade626f74785e17f15488" title="dlm_wait_function" alt="" coords="185,313,311,340"/>
+<area shape="rect" id="node26" href="$rcom_8c.html#a3f2bd00ad1c8de8945b7cd4c47faf292" title="rcom_response" alt="" coords="193,364,303,391"/>
+<area shape="rect" id="node27" href="$rcom_8c.html#a7348cbcb820c738db635416b820b4b06" title="disallow_sync_reply" alt="" coords="179,415,317,441"/>
+<area shape="rect" id="node3" href="$lowcomms_8c.html#af8538e33e575e21ffda7565750aa7508" title="dlm_lowcomms_get_buffer" alt="" coords="365,107,544,133"/>
+<area shape="rect" id="node18" href="$config_8c.html#a0fa4b1bce87345d88d07a70475fcede2" title="dlm_our_nodeid" alt="" coords="398,157,511,184"/>
+<area shape="rect" id="node4" href="$lowcomms_8c.html#ab476df412dce4534102d8527ee54d4a7" title="nodeid2con" alt="" coords="624,81,712,108"/>
+<area shape="rect" id="node17" href="$lowcomms_8c.html#a68e600ad4ffd918c5627f1433c423549" title="new_writequeue_entry" alt="" coords="592,132,744,159"/>
+<area shape="rect" id="node5" href="$lowcomms_8c.html#a071b54d96110d4eb6ef18f4991aa6d06" title="__nodeid2con" alt="" coords="792,81,895,108"/>
+<area shape="rect" id="node6" href="$lowcomms_8c.html#ad1ada7ed1ec77c03a6c868f606daa535" title="__find_con" alt="" coords="978,5,1063,32"/>
+<area shape="rect" id="node7" href="$lowcomms_8c.html#af9e572208b3c9bcc1065fe79223b26dd" title="nodeid_hash" alt="" coords="1151,31,1245,57"/>
+<area shape="rect" id="node8" href="$lowcomms_8c.html#a617bfa4c5de1ba9249db7d747a25b9a8" title="process_send_sockets" alt="" coords="943,107,1099,133"/>
+<area shape="rect" id="node16" href="$lowcomms_8c.html#aea0a826d1ea0c09995e5734e501fdf43" title="process_recv_sockets" alt="" coords="944,157,1097,184"/>
+<area shape="rect" id="node9" href="$lowcomms_8c.html#a79868661466b0a092ba4507e41129051" title="send_to_sock" alt="" coords="1147,107,1249,133"/>
+<area shape="rect" id="node10" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="1361,56,1415,83"/>
+<area shape="rect" id="node12" href="$lowcomms_8c.html#a67d86dc6db9bed0369d151d613e903e5" title="writequeue_entry_complete" alt="" coords="1297,107,1479,133"/>
+<area shape="rect" id="node14" href="$lowcomms_8c.html#a37b947868c2d0a40d010e707d9112e1d" title="close_connection" alt="" coords="1327,157,1449,184"/>
+<area shape="rect" id="node11" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="1529,56,1648,83"/>
+<area shape="rect" id="node13" href="$lowcomms_8c.html#a8acc55461d1513c353d2ea6efdde06c7" title="free_entry" alt="" coords="1549,107,1629,133"/>
+<area shape="rect" id="node15" href="$lowcomms_8c.html#ae3312d6561b9f66b227cb6ac807290eb" title="restore_callbacks" alt="" coords="1527,157,1651,184"/>
+<area shape="rect" id="node21" href="$dlm_2util_8c.html#ada88b0d963169e35e40e5d0853710e4b" title="dlm_rcom_out" alt="" coords="403,208,507,235"/>
+<area shape="rect" id="node23" href="$lowcomms_8c.html#ac9d7f3a2396c0b79cb3012452b09c21e" title="dlm_lowcomms_commit\l_buffer" alt="" coords="373,259,536,301"/>
+<area shape="rect" id="node22" href="$dlm_2util_8c.html#abd7e467a9d88bbab0ad3d0dc299a1603" title="header_out" alt="" coords="625,208,711,235"/>
+<area shape="rect" id="node25" href="$dlm__internal_8h.html#a574b296d7ae4540ff756f7a46c185c50" title="dlm_recovery_stopped" alt="" coords="378,325,531,352"/>
+</map>

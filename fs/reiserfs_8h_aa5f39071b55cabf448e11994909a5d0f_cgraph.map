@@ -1,0 +1,6 @@
+<map id="reiserfs_allocate_list_bitmaps" name="reiserfs_allocate_list_bitmaps">
+<area shape="rect" id="node2" href="$reiserfs_2journal_8c.html#a1fcd73c673e4bd9dfd30a8513444ca53" title="free_list_bitmaps" alt="" coords="195,31,316,57"/>
+<area shape="rect" id="node3" href="$reiserfs_2journal_8c.html#a62ee1f0ecd0f92dc22cea24de95bc575" title="cleanup_bitmap_list" alt="" coords="364,31,501,57"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#a11723b717ae0e6ca3ad3c2c7d911f569" title="reiserfs_bmap_count" alt="" coords="549,5,692,32"/>
+<area shape="rect" id="node5" href="$reiserfs_2journal_8c.html#a6b3798b1610be8cdd8b5438c9f9434b4" title="free_bitmap_node" alt="" coords="558,56,683,83"/>
+</map>

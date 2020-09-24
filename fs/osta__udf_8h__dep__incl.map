@@ -1,0 +1,18 @@
+<map id="udf/osta_udf.h" name="udf/osta_udf.h">
+<area shape="rect" id="node2" href="$udfdecl_8h.html" title="udf/udfdecl.h" alt="" coords="780,80,877,107"/>
+<area shape="rect" id="node3" href="$udf_2balloc_8c.html" title="udf/balloc.c" alt="" coords="5,155,95,181"/>
+<area shape="rect" id="node4" href="$udf_2dir_8c.html" title="udf/dir.c" alt="" coords="119,155,189,181"/>
+<area shape="rect" id="node5" href="$directory_8c.html" title="udf/directory.c" alt="" coords="213,155,319,181"/>
+<area shape="rect" id="node6" href="$udf_2file_8c.html" title="udf/file.c" alt="" coords="343,155,415,181"/>
+<area shape="rect" id="node7" href="$udf_2ialloc_8c.html" title="udf/ialloc.c" alt="" coords="439,155,525,181"/>
+<area shape="rect" id="node8" href="$udf_2inode_8c.html" title="udf/inode.c" alt="" coords="549,155,636,181"/>
+<area shape="rect" id="node9" href="$lowlevel_8c.html" title="udf/lowlevel.c" alt="" coords="660,155,763,181"/>
+<area shape="rect" id="node10" href="$udf_2misc_8c.html" title="udf/misc.c" alt="" coords="787,155,870,181"/>
+<area shape="rect" id="node11" href="$udf_2namei_8c.html" title="udf/namei.c" alt="" coords="894,155,985,181"/>
+<area shape="rect" id="node12" href="$partition_8c.html" title="udf/partition.c" alt="" coords="1009,155,1110,181"/>
+<area shape="rect" id="node13" href="$udf_2super_8c.html" title="udf/super.c" alt="" coords="1135,155,1221,181"/>
+<area shape="rect" id="node14" href="$udf_2symlink_8c.html" title="udf/symlink.c" alt="" coords="1245,155,1345,181"/>
+<area shape="rect" id="node15" href="$truncate_8c.html" title="udf/truncate.c" alt="" coords="1369,155,1472,181"/>
+<area shape="rect" id="node16" href="$udftime_8c.html" title="udf/udftime.c" alt="" coords="1497,155,1595,181"/>
+<area shape="rect" id="node17" href="$udf_2unicode_8c.html" title="udf/unicode.c" alt="" coords="1620,155,1720,181"/>
+</map>

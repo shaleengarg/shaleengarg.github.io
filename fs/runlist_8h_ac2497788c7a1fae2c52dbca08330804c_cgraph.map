@@ -1,0 +1,18 @@
+<map id="ntfs_mapping_pairs_decompress" name="ntfs_mapping_pairs_decompress">
+<area shape="rect" id="node2" href="$ntfs_2endian_8h.html#a2e96c421837ca8d7008130e9d8bdcfdb" title="sle64_to_cpu" alt="" coords="207,5,305,32"/>
+<area shape="rect" id="node3" href="$malloc_8h.html#a0ec96764a4b9b46c2cd4a78abea5ed5d" title="ntfs_malloc_nofs" alt="" coords="744,208,865,235"/>
+<area shape="rect" id="node5" href="$malloc_8h.html#ab6824be4d6e004aa075b1fe66fd0d737" title="ntfs_free" alt="" coords="768,259,841,285"/>
+<area shape="rect" id="node6" href="$runlist_8c.html#a88bf16d765cbf410f22d562dcdd92213" title="ntfs_runlists_merge" alt="" coords="188,309,324,336"/>
+<area shape="rect" id="node4" href="$malloc_8h.html#ade7393d4add4f921117b419938accfb2" title="__ntfs_malloc" alt="" coords="932,360,1035,387"/>
+<area shape="rect" id="node7" href="$runlist_8c.html#a7597afce0c5c77abf6cea59dd4c42117" title="ntfs_rl_realloc" alt="" coords="551,259,653,285"/>
+<area shape="rect" id="node8" href="$runlist_8c.html#ad42df4c2ba6ae221ea8b478739d8c793" title="ntfs_rl_mm" alt="" coords="559,309,645,336"/>
+<area shape="rect" id="node9" href="$runlist_8c.html#afc45c65b1869d9ee3040061160244c55" title="ntfs_rl_replace" alt="" coords="372,360,479,387"/>
+<area shape="rect" id="node13" href="$runlist_8c.html#abe25ac97a94bad6afd92c060025790bd" title="ntfs_rl_insert" alt="" coords="377,411,474,437"/>
+<area shape="rect" id="node14" href="$runlist_8c.html#ab577964ec6fef984755f055188bb06a7" title="ntfs_rl_append" alt="" coords="372,461,479,488"/>
+<area shape="rect" id="node15" href="$runlist_8c.html#ae141990f8ba871617c536c6d239331de" title="ntfs_rl_split" alt="" coords="381,309,470,336"/>
+<area shape="rect" id="node16" href="$runlist_8c.html#abf236f92d80fcbb0d32ce6b97d949379" title="ntfs_rl_realloc_nofail" alt="" coords="531,512,673,539"/>
+<area shape="rect" id="node10" href="$runlist_8c.html#ad223ab18fbef09cb97fdf1cd03deb0a2" title="ntfs_are_rl_mergeable" alt="" coords="527,411,677,437"/>
+<area shape="rect" id="node11" href="$runlist_8c.html#ae214e403766f396927a514bb9fbfd984" title="__ntfs_rl_merge" alt="" coords="545,461,659,488"/>
+<area shape="rect" id="node12" href="$runlist_8c.html#adb1be42d1782bf89b82100073555a784" title="ntfs_rl_mc" alt="" coords="561,360,643,387"/>
+<area shape="rect" id="node17" href="$malloc_8h.html#ac97e6cf0320c6a64bcdf05caeca0ae44" title="ntfs_malloc_nofs_nofail" alt="" coords="725,411,884,437"/>
+</map>

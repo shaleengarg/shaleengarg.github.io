@@ -1,0 +1,6 @@
+<map id="btrfs_quota_enable" name="btrfs_quota_enable">
+<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a42c7063061f03e5835eb19cf7560a4ec" title="btrfs_ioctl_quota_ctl" alt="" coords="185,5,324,32"/>
+<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="372,5,451,32"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="499,5,673,32"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="721,5,819,32"/>
+</map>

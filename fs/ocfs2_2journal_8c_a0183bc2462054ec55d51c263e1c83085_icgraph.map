@@ -1,0 +1,18 @@
+<map id="ocfs2_recovery_exit" name="ocfs2_recovery_exit">
+<area shape="rect" id="node2" href="$ocfs2_2super_8c.html#ab8ac59c1ccfd6cef5e59b3a07541d4a7" title="ocfs2_dismount_volume" alt="" coords="192,56,355,83"/>
+<area shape="rect" id="node6" href="$journal_8h.html#a1f4038c3558ccccf97b75aeeb079c898" title="ocfs2_ci_set_new" alt="" coords="210,107,337,133"/>
+<area shape="rect" id="node3" href="$ocfs2_2super_8c.html#aae09c84567eb36b012612fa7f187c3ee" title="ocfs2_fill_super" alt="" coords="425,5,539,32"/>
+<area shape="rect" id="node5" href="$ocfs2_2super_8c.html#a1ca57750a666c39bec18126d25fcf956" title="ocfs2_put_super" alt="" coords="423,56,541,83"/>
+<area shape="rect" id="node4" href="$ocfs2_2super_8c.html#aca38f76e33cde96ed91b51148bcdc947" title="ocfs2_mount" alt="" coords="633,5,731,32"/>
+<area shape="rect" id="node7" href="$ocfs2_2namei_8c.html#abfcd967c07c863371ac05be77b16c47b" title="__ocfs2_mknod_locked" alt="" coords="403,107,561,133"/>
+<area shape="rect" id="node8" href="$ocfs2_2namei_8c.html#a3431706f8cc24382fc0c00d07f95c24b" title="ocfs2_mknod_locked" alt="" coords="609,81,755,108"/>
+<area shape="rect" id="node13" href="$namei_8h.html#a33ecd2392f71252d3c6e3b31f53ae74a" title="ocfs2_create_inode\l_in_orphan" alt="" coords="615,133,749,174"/>
+<area shape="rect" id="node9" href="$ocfs2_2namei_8c.html#a5a8fa945d08fb2eafc24f39630a6fa17" title="ocfs2_mknod" alt="" coords="806,39,906,65"/>
+<area shape="rect" id="node12" href="$ocfs2_2namei_8c.html#a0089f75e44a9fd46e4b5f8b313d0af1e" title="ocfs2_symlink" alt="" coords="803,89,909,116"/>
+<area shape="rect" id="node10" href="$ocfs2_2namei_8c.html#a2cfeba05a2658265d1b4f4d135fe8a95" title="ocfs2_mkdir" alt="" coords="971,13,1065,40"/>
+<area shape="rect" id="node11" href="$ocfs2_2namei_8c.html#a5941207e141e5d428728f560689f1398" title="ocfs2_create" alt="" coords="969,64,1067,91"/>
+<area shape="rect" id="node14" href="$refcounttree_8c.html#a101167830b0fff3f5d3811f8d17eafb3" title="ocfs2_reflink" alt="" coords="808,140,904,167"/>
+<area shape="rect" id="node15" href="$refcounttree_8c.html#a361ae2a79adeb5fe8a05c925e48b2c1a" title="ocfs2_vfs_reflink" alt="" coords="957,140,1079,167"/>
+<area shape="rect" id="node16" href="$refcounttree_8h.html#aea81895d4cf45213d159bb7062179172" title="ocfs2_reflink_ioctl" alt="" coords="1127,140,1253,167"/>
+<area shape="rect" id="node17" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="1301,140,1387,167"/>
+</map>

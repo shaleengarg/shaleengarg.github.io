@@ -1,0 +1,22 @@
+<map id="ore_truncate" name="ore_truncate">
+<area shape="rect" id="node2" href="$ore_8c.html#a4d4a0bbfe4d2167c11ad25a40779d6f2" title="ore_get_io_state" alt="" coords="150,56,269,83"/>
+<area shape="rect" id="node4" href="$ore_8c.html#a3a40092d96622c018306380323e84327" title="EXPORT_SYMBOL" alt="" coords="505,157,644,184"/>
+<area shape="rect" id="node5" href="$ore_8c.html#a26d301d0fbca31a3d9f4cb4152a08321" title="_calc_trunk_info" alt="" coords="151,183,268,209"/>
+<area shape="rect" id="node7" href="$ore_8c.html#a32710672a37884d2eb2259f884c26d64" title="_truncate_mirrors" alt="" coords="148,563,271,589"/>
+<area shape="rect" id="node10" href="$ore_8c.html#a1934139f2a1d1aba2427b7698d535e06" title="ore_io_execute" alt="" coords="154,284,265,311"/>
+<area shape="rect" id="node17" href="$ore_8c.html#ada4ddca7e5193d42a748b7afe020384f" title="ore_put_io_state" alt="" coords="150,436,269,463"/>
+<area shape="rect" id="node3" href="$ore_8c.html#a34941c4da810691be20a6b899ac4a703" title="_ore_get_io_state" alt="" coords="325,5,451,32"/>
+<area shape="rect" id="node6" href="$ore_8c.html#ae964c3688be0194978ad149bdd783852" title="ore_calc_stripe_info" alt="" coords="319,157,457,184"/>
+<area shape="rect" id="node8" href="$ore_8c.html#a6ce28031daabb503133f468fa2f70c2d" title="_ios_od" alt="" coords="355,563,421,589"/>
+<area shape="rect" id="node9" href="$ore_8c.html#a7fab6eb99a37aa913f169f1b7d6f1a54" title="_ios_obj" alt="" coords="353,613,423,640"/>
+<area shape="rect" id="node11" href="$ore_8c.html#a82ce1476203378d5329c767b3483e3d0" title="_sync_done" alt="" coords="342,208,434,235"/>
+<area shape="rect" id="node12" href="$ore_8c.html#afb76b45feae280cee5126ec7203aa4aa" title="_ios_cred" alt="" coords="349,259,427,285"/>
+<area shape="rect" id="node13" href="$ore_8c.html#a8263cf563e4398a3028a2ac9018f6f26" title="_done_io" alt="" coords="351,411,425,437"/>
+<area shape="rect" id="node14" href="$ore_8c.html#aa71ca2b6e9a93d838e14ca4b13808e9d" title="_last_io" alt="" coords="541,411,608,437"/>
+<area shape="rect" id="node15" href="$ore_8c.html#aafa57dd52a0a94330362f79f191742ef" title="ore_check_io" alt="" coords="339,309,437,336"/>
+<area shape="rect" id="node16" href="$ore_8c.html#aaa6fdc25bc89468e5795585bd6a6587b" title="_clear_bio" alt="" coords="534,309,615,336"/>
+<area shape="rect" id="node18" href="$ore__raid_8c.html#a85645f8c526306bd214be04e699f1d8e" title="_ore_free_raid_stuff" alt="" coords="319,512,457,539"/>
+<area shape="rect" id="node19" href="$ore__raid_8c.html#a2636553f6ea7de0b4bb0b2525590327d" title="_raid_page_free" alt="" coords="517,461,632,488"/>
+<area shape="rect" id="node20" href="$ore__raid_8c.html#af1d1e50aea72d9f95b60a200f108825b" title="_sp2d_reset" alt="" coords="528,512,621,539"/>
+<area shape="rect" id="node21" href="$ore__raid_8c.html#a20ab6a9d5145be402cb95bebcb980daa" title="_sp2d_free" alt="" coords="531,563,618,589"/>
+</map>

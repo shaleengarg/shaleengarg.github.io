@@ -1,0 +1,7 @@
+<map id="pipe_set_size" name="pipe_set_size">
+<area shape="rect" id="node2" href="$pipe_8c.html#a0cb9df74a49a1890b498b2c1f7ed3e5e" title="round_pipe_size" alt="" coords="193,5,309,32"/>
+<area shape="rect" id="node3" href="$pipe_8c.html#aa7e35d7b808421c9bef27a8904c069e9" title="account_pipe_buffers" alt="" coords="177,56,324,83"/>
+<area shape="rect" id="node4" href="$pipe_8c.html#a41c726b21de1777fe0c61d1dcce92497" title="too_many_pipe_buffers_hard" alt="" coords="156,107,345,133"/>
+<area shape="rect" id="node5" href="$pipe_8c.html#a5a65d3ffa2d262aa8465497adcd18d85" title="too_many_pipe_buffers_soft" alt="" coords="157,157,344,184"/>
+<area shape="rect" id="node6" href="$pipe_8c.html#ab4958eb5d4d9857a0136023dd3d5fc5f" title="is_unprivileged_user" alt="" coords="181,208,321,235"/>
+</map>

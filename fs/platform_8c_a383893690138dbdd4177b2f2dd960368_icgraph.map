@@ -1,0 +1,7 @@
+<map id="pstore_register_console" name="pstore_register_console">
+<area shape="rect" id="node2" href="$platform_8c.html#a9b2a88587ce02266b9b1fab9797f3485" title="pstore_unregister_kmsg" alt="" coords="213,5,375,32"/>
+<area shape="rect" id="node5" href="$platform_8c.html#a41474fc2d746cbf31285aa7e7b3918d3" title="pstore_register" alt="" coords="240,56,348,83"/>
+<area shape="rect" id="node3" href="$platform_8c.html#a01b460cffd1f44308dc7f442bfa01865" title="pstore_unregister" alt="" coords="423,5,545,32"/>
+<area shape="rect" id="node4" href="$ram_8c.html#ab8db96900e9c97430623caf8a8c872f0" title="ramoops_remove" alt="" coords="593,5,716,32"/>
+<area shape="rect" id="node6" href="$ram_8c.html#a23560d3889a2859d02b0d939f20bd6de" title="ramoops_probe" alt="" coords="429,56,539,83"/>
+</map>

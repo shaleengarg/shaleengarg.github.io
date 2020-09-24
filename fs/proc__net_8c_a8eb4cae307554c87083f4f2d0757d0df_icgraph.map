@@ -1,0 +1,5 @@
+<map id="get_proc_task_net" name="get_proc_task_net">
+<area shape="rect" id="node2" href="$proc__net_8c.html#a2df5dbd7afd40a3f604b62ca43b108e4" title="proc_tgid_net_lookup" alt="" coords="183,5,329,32"/>
+<area shape="rect" id="node3" href="$proc__net_8c.html#a8eba76d7758421533ed415300dcb1698" title="proc_tgid_net_getattr" alt="" coords="184,56,328,83"/>
+<area shape="rect" id="node4" href="$proc__net_8c.html#a900f1cc6aa8c77e895cd442f87da6aa6" title="proc_tgid_net_readdir" alt="" coords="183,107,329,133"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="qtree_delete_dquot" name="qtree_delete_dquot">
+<area shape="rect" id="node2" href="$quota__tree_8c.html#a42e867854951eaf378e390c1998e35b8" title="remove_tree" alt="" coords="207,171,302,197"/>
+<area shape="rect" id="node17" href="$quota__tree_8c.html#afb485c349330db81e8594d9ace084992" title="EXPORT_SYMBOL" alt="" coords="185,221,324,248"/>
+<area shape="rect" id="node3" href="$quota__tree_8c.html#adfe8ab3a55ba7592c1ecad6ad1d1c0e8" title="getdqbuf" alt="" coords="740,81,812,108"/>
+<area shape="rect" id="node4" href="$quota__tree_8c.html#a9d261b8d59ca5bbd6f4abade5dbb1318" title="read_blk" alt="" coords="741,5,811,32"/>
+<area shape="rect" id="node5" href="$quota__tree_8c.html#a8875bd1ba8471139075c12715b13d5ab" title="get_index" alt="" coords="380,385,459,412"/>
+<area shape="rect" id="node9" href="$quota__tree_8c.html#a95d93e5cc5b7e53720fd9e4bfd518e06" title="free_dqentry" alt="" coords="372,151,467,177"/>
+<area shape="rect" id="node11" href="$quota__tree_8c.html#ac2cfe67ce5f4f7773e00855115d87e34" title="write_blk" alt="" coords="739,233,813,260"/>
+<area shape="rect" id="node14" href="$quota__tree_8c.html#a49760174e28a9ca33aeecb4f2c815aa4" title="put_free_dqblk" alt="" coords="533,284,640,311"/>
+<area shape="rect" id="node6" href="$kqid_8c.html#a659b690ef6144cc72fa737b302a7f9e7" title="from_kqid" alt="" coords="547,385,626,412"/>
+<area shape="rect" id="node8" href="$quota__tree_8c.html#a06db07846053673bf0c329ea7017b9f7" title="__get_index" alt="" coords="541,436,633,463"/>
+<area shape="rect" id="node7" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="707,385,845,412"/>
+<area shape="rect" id="node10" href="$quota__tree_8c.html#a89d703b9425d93df977271102c245525" title="remove_free_dqentry" alt="" coords="515,132,659,159"/>
+<area shape="rect" id="node15" href="$quota__tree_8c.html#af10955e72649d0e8ef2f77c811450cd7" title="qtree_dqstr_in_blk" alt="" coords="523,81,651,108"/>
+<area shape="rect" id="node16" href="$quota__tree_8c.html#a54674178c88586de5b27ba14f7183a34" title="insert_free_dqentry" alt="" coords="520,183,653,209"/>
+<area shape="rect" id="node12" href="$dquot_8c.html#a292204c7d5d1aa2df76f819850269ef5" title="mark_info_dirty" alt="" coords="721,183,831,209"/>
+<area shape="rect" id="node13" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="893,183,1032,209"/>
+</map>

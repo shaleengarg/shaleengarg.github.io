@@ -1,0 +1,24 @@
+<map id="btrfs_qgroup_account_extent" name="btrfs_qgroup_account_extent">
+<area shape="rect" id="node2" href="$qgroup_8c.html#adef0d950d89234f19a8cbb2b8b9ca7d5" title="maybe_fs_roots" alt="" coords="225,144,339,171"/>
+<area shape="rect" id="node5" href="$ulist_8c.html#a8bbb3ec4f6039f8cb8737c26978dfadc" title="ulist_alloc" alt="" coords="242,5,322,32"/>
+<area shape="rect" id="node7" href="$qgroup_8c.html#a780128fcb507e1a6485e33babcbb3f6d" title="qgroup_update_refcnt" alt="" coords="209,311,355,337"/>
+<area shape="rect" id="node19" href="$qgroup_8c.html#a0b9f96a164b2bf5fc2dad21c525aef2d" title="qgroup_update_counters" alt="" coords="200,567,364,593"/>
+<area shape="rect" id="node23" href="$ulist_8c.html#a143429c891c7afec75d6f10ca475bd9c" title="ulist_free" alt="" coords="245,68,319,95"/>
+<area shape="rect" id="node3" href="$ulist_8c.html#a55010872110a7943c51e1eb9bf90fc5f" title="ulist_next" alt="" coords="448,151,527,177"/>
+<area shape="rect" id="node4" href="$ctree_8h.html#a43c0decc366c53dd6a5ec0b969709edd" title="is_fstree" alt="" coords="451,100,523,127"/>
+<area shape="rect" id="node6" href="$ulist_8c.html#a8c2e59d72dfd35d8c750874c014170f9" title="ulist_init" alt="" coords="634,37,705,64"/>
+<area shape="rect" id="node8" href="$qgroup_8c.html#a1b51fdb3b6894fc0f9b31283e656ffb6" title="find_qgroup_rb" alt="" coords="434,252,541,279"/>
+<area shape="rect" id="node9" href="$ulist_8c.html#ad5cf2908d7ac322efe2bb15db9a5f84a" title="ulist_reinit" alt="" coords="447,201,528,228"/>
+<area shape="rect" id="node11" href="$ulist_8c.html#a4375beb9c50a5f9eab238a4d3935f3a8" title="ulist_add" alt="" coords="450,369,525,396"/>
+<area shape="rect" id="node15" href="$qgroup_8c.html#ad5d2c8c647f7a8eae8f073b3ac9c8937" title="qgroup_to_aux" alt="" coords="434,420,541,447"/>
+<area shape="rect" id="node16" href="$qgroup_8c.html#aca9adca70cb98df7608ad74a69f71b09" title="unode_aux_to_qgroup" alt="" coords="413,537,562,564"/>
+<area shape="rect" id="node17" href="$qgroup_8c.html#ae15e5896afad755c7e154a6b33b0dc6f" title="btrfs_qgroup_update\l_old_refcnt" alt="" coords="417,471,557,513"/>
+<area shape="rect" id="node18" href="$qgroup_8c.html#a52e4bbd90eccda972d977ffeb35a7822" title="btrfs_qgroup_update\l_new_refcnt" alt="" coords="417,303,557,345"/>
+<area shape="rect" id="node10" href="$ulist_8c.html#a97281cf35ded52735b80b53c0b8d0725" title="ulist_release" alt="" coords="622,164,717,191"/>
+<area shape="rect" id="node12" href="$ulist_8c.html#af9770fea48cb36f6ca6bbdddb5202940" title="ulist_add_merge" alt="" coords="611,369,728,396"/>
+<area shape="rect" id="node13" href="$ulist_8c.html#a4a2f46d31727a215a17d74ce60594523" title="ulist_rbtree_search" alt="" coords="776,344,908,371"/>
+<area shape="rect" id="node14" href="$ulist_8c.html#a9e22aa0917a164df2a7ab11359e3ce62" title="ulist_rbtree_insert" alt="" coords="779,395,905,421"/>
+<area shape="rect" id="node20" href="$qgroup_8c.html#adce15b866bc8102bbc66bebebc831754" title="btrfs_qgroup_get_old\l_refcnt" alt="" coords="416,589,559,630"/>
+<area shape="rect" id="node21" href="$qgroup_8c.html#a5d6ef776c51d05fbaac851ea7e361e09" title="btrfs_qgroup_get_new\l_refcnt" alt="" coords="412,654,563,695"/>
+<area shape="rect" id="node22" href="$qgroup_8c.html#a8de7f92358f79cc6f5fb0c461b11b7e5" title="qgroup_dirty" alt="" coords="441,720,534,747"/>
+</map>

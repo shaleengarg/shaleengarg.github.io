@@ -1,0 +1,7 @@
+<map id="fscache_cancel_op" name="fscache_cancel_op">
+<area shape="rect" id="node2" href="$fscache_2page_8c.html#a6bb3f293b154d373af450584975ff89d" title="fscache_wait_for_operation\l_activation" alt="" coords="188,78,369,119"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#a92eb1c039adf19d02acb4e895d163e26" title="__fscache_check_consistency" alt="" coords="417,5,619,32"/>
+<area shape="rect" id="node4" href="$fscache_2page_8c.html#a2806434b015bc1bda3e1b33d05e4ec55" title="__fscache_read_or_alloc_page" alt="" coords="417,56,619,83"/>
+<area shape="rect" id="node5" href="$fscache_2page_8c.html#a9bee1d618d8adfe9a84268fe7dde8f66" title="__fscache_read_or_alloc\l_pages" alt="" coords="435,107,601,149"/>
+<area shape="rect" id="node6" href="$fscache_2page_8c.html#a0f71df298df8d2df0cd6500ece5ce32a" title="__fscache_alloc_page" alt="" coords="443,173,593,200"/>
+</map>

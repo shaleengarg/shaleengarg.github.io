@@ -1,0 +1,6 @@
+<map id="lock_journal" name="lock_journal">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#aa7446dc6c1694d660a356415419a9be9" title="reiserfs_mutex_lock_safe" alt="" coords="144,46,315,73"/>
+<area shape="rect" id="node3" href="$reiserfs_8h.html#acffafbcd9e9d400a9018c23375afed69" title="reiserfs_write_unlock\l_nested" alt="" coords="363,5,508,47"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#a340707d69035995c991dfd2de6693360" title="reiserfs_write_lock\l_nested" alt="" coords="370,71,501,112"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#a0e265314d75fff703a39c90e48f4462b" title="REISERFS_SB" alt="" coords="556,46,671,73"/>
+</map>

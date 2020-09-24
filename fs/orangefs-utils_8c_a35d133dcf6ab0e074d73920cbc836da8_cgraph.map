@@ -1,0 +1,11 @@
+<map id="orangefs_make_bad_inode" name="orangefs_make_bad_inode">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#a3240753307be6f592ba913df8aac7705" title="is_root_handle" alt="" coords="237,56,344,83"/>
+<area shape="rect" id="node4" href="$orangefs-kernel_8h.html#a0fcaa10a86b300cf62d698fd6a87eedb" title="get_khandle_from_ino" alt="" coords="415,107,564,133"/>
+<area shape="rect" id="node7" href="$bad__inode_8c.html#ab9cc2af6161530b35e5f86e29f977033" title="make_bad_inode" alt="" coords="231,157,351,184"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a91df3d61cc89a1b9cc82bac75d468097" title="ORANGEFS_SB" alt="" coords="428,5,551,32"/>
+<area shape="rect" id="node6" href="$protocol_8h.html#a1b25a5e8623cbd6176555d869fd4970e" title="ORANGEFS_khandle_cmp" alt="" coords="399,56,580,83"/>
+<area shape="rect" id="node5" href="$orangefs-kernel_8h.html#adace367e43c5bcc39c91607a4452e535" title="ORANGEFS_I" alt="" coords="643,107,751,133"/>
+<area shape="rect" id="node8" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="442,157,537,184"/>
+<area shape="rect" id="node10" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="420,208,559,235"/>
+<area shape="rect" id="node9" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="628,157,767,184"/>
+</map>

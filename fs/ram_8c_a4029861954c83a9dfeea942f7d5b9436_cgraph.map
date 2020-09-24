@@ -1,0 +1,8 @@
+<map id="ramoops_get_next_prz" name="ramoops_get_next_prz">
+<area shape="rect" id="node2" href="$ram__core_8c.html#aa9d0704ff4c39d1f0266c754bf7f9a53" title="persistent_ram_save_old" alt="" coords="208,31,375,57"/>
+<area shape="rect" id="node7" href="$ram__core_8c.html#afcff0f55e8ab1e59e090116c10b01231" title="persistent_ram_old_size" alt="" coords="210,81,373,108"/>
+<area shape="rect" id="node3" href="$ram__core_8c.html#afc8a32a64236d2c5ba63931649d30401" title="buffer_size" alt="" coords="679,5,765,32"/>
+<area shape="rect" id="node4" href="$ram__core_8c.html#af3dca5f63fc8613f4158d15d7f8d65bf" title="buffer_start" alt="" coords="459,31,547,57"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#a6e9cc512817f6f4849bd8b4e097a8f87" title="persistent_ram_ecc_old" alt="" coords="423,81,583,108"/>
+<area shape="rect" id="node6" href="$ram__core_8c.html#ac74607c0df291924b042bab5061565ea" title="persistent_ram_decode_rs8" alt="" coords="631,81,813,108"/>
+</map>

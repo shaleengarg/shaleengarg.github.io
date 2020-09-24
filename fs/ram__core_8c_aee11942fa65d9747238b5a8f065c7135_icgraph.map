@@ -1,0 +1,7 @@
+<map id="buffer_size_add" name="buffer_size_add">
+<area shape="rect" id="node2" href="$ram__core_8c.html#a1ddc0e3d0013e74f44199247a7c89c88" title="persistent_ram_write" alt="" coords="184,56,327,83"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#a46d8d485504c7a9a58b7e98df1f6a76b" title="persistent_ram_write_user" alt="" coords="168,107,343,133"/>
+<area shape="rect" id="node3" href="$ram_8c.html#a896bdf374a43c0d134562f67f4e58a2b" title="ramoops_write_kmsg_hdr" alt="" coords="397,5,567,32"/>
+<area shape="rect" id="node4" href="$ram_8c.html#ad5236dc7659b412990978179785b65cf" title="ramoops_pstore_write" alt="" coords="621,31,772,57"/>
+<area shape="rect" id="node6" href="$ram_8c.html#ac09717ca7691e3f1ce4d1b3357f7c1ac" title="ramoops_pstore_write_user" alt="" coords="391,107,573,133"/>
+</map>

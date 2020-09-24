@@ -1,0 +1,7 @@
+<map id="orangefs_bufmap_initialize" name="orangefs_bufmap_initialize">
+<area shape="rect" id="node2" href="$orangefs-bufmap_8c.html#ad0fb879abd69e0ba010a90665f8fc470" title="orangefs_bufmap_alloc" alt="" coords="235,5,391,32"/>
+<area shape="rect" id="node3" href="$orangefs-bufmap_8c.html#aae4e7b43973373b03fb0763f8e3d5b2a" title="orangefs_bufmap_map" alt="" coords="236,56,391,83"/>
+<area shape="rect" id="node4" href="$orangefs-bufmap_8c.html#a6e078b4dd22d0cd06c9d208d52437f66" title="install" alt="" coords="285,107,341,133"/>
+<area shape="rect" id="node5" href="$orangefs-bufmap_8c.html#a20aa7008b02a845b25a48db24e035394" title="orangefs_bufmap_unmap" alt="" coords="229,157,397,184"/>
+<area shape="rect" id="node6" href="$orangefs-bufmap_8c.html#abed846cbcd655924d23a2ab713d0c66d" title="orangefs_bufmap_free" alt="" coords="238,208,389,235"/>
+</map>

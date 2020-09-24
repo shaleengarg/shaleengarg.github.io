@@ -1,0 +1,10 @@
+<map id="proc_evict_inode" name="proc_evict_inode">
+<area shape="rect" id="node2" href="$inode_8c.html#a5ef1de74cc382d6cd8afddc6e66a47a4" title="clear_inode" alt="" coords="203,5,291,32"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="403,107,475,133"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#af06d35fcc560b7b9aab608efbf4f4ad8" title="PDE" alt="" coords="222,107,273,133"/>
+<area shape="rect" id="node6" href="$generic_8c.html#abfdf166e13cb29f65f660647d9981b57" title="pde_put" alt="" coords="213,208,281,235"/>
+<area shape="rect" id="node9" href="$proc__sysctl_8c.html#aa4203461fa9ea8c6447395e58d15e167" title="proc_sys_evict_inode" alt="" coords="173,157,321,184"/>
+<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="369,5,508,32"/>
+<area shape="rect" id="node7" href="$generic_8c.html#a35b94b9eb0c42fe893f84069c6aab610" title="proc_free_inum" alt="" coords="383,183,494,209"/>
+<area shape="rect" id="node8" href="$generic_8c.html#ad4ba02a79b849e5b3737a99fbe92579c" title="pde_free" alt="" coords="403,233,475,260"/>
+</map>

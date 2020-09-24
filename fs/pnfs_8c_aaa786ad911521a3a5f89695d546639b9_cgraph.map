@@ -1,0 +1,25 @@
+<map id="_pnfs_return_layout" name="_pnfs_return_layout">
+<area shape="rect" id="node2" href="$pnfs_8c.html#aeae34e80a45b02b194160de57d30fa16" title="LIST_HEAD" alt="" coords="225,5,320,32"/>
+<area shape="rect" id="node3" href="$pnfs_8c.html#a6861ce2f604594d396c306fb0ac0cd3e" title="pnfs_get_layout_hdr" alt="" coords="1138,132,1277,159"/>
+<area shape="rect" id="node4" href="$pnfs_8c.html#abecc7408ce2919dd2f9dc817ffd1309e" title="pnfs_clear_layoutcommit" alt="" coords="189,124,356,151"/>
+<area shape="rect" id="node7" href="$pnfs_8c.html#a0d3e086a2cb3a4e99209e3dbc3f59c48" title="pnfs_mark_matching\l_lsegs_invalid" alt="" coords="201,193,344,234"/>
+<area shape="rect" id="node12" href="$pnfs_8c.html#a1ccb54e24365ed820d058eb1fc5d7b72" title="pnfs_prepare_layoutreturn" alt="" coords="895,259,1067,285"/>
+<area shape="rect" id="node15" href="$pnfs_8c.html#a189cdd295b4178e0434546700209ee3d" title="pnfs_send_layoutreturn" alt="" coords="194,368,351,395"/>
+<area shape="rect" id="node17" href="$pnfs_8c.html#a6d81dce20ed68dc2fb81207aacb2ba5c" title="pnfs_put_layout_hdr" alt="" coords="424,309,563,336"/>
+<area shape="rect" id="node23" href="$pnfs_8c.html#ab79d80484a0f3dc6c360424df4f23edd" title="pnfs_free_lseg_list" alt="" coords="207,473,338,500"/>
+<area shape="rect" id="node5" href="$pnfs_8c.html#a1ac3f051b350f6b5ea23da1b3b4dc94b" title="pnfs_lseg_dec_and_remove_zero" alt="" coords="631,107,847,133"/>
+<area shape="rect" id="node6" href="$pnfs_8c.html#a81d3a681b9c58f791bd9b3f50d4b6d46" title="pnfs_layout_remove_lseg" alt="" coords="895,107,1066,133"/>
+<area shape="rect" id="node8" href="$pnfs_8c.html#a8ea892f1fac777578f2994b532662ad3" title="pnfs_match_lseg_recall" alt="" coords="414,208,573,235"/>
+<area shape="rect" id="node11" href="$pnfs_8c.html#a1da38afd9fd18a25eae3318d05e7f566" title="mark_lseg_invalid" alt="" coords="430,157,557,184"/>
+<area shape="rect" id="node9" href="$pnfs_8c.html#a319a6f1d5106160ac31c094d482bb7f6" title="pnfs_seqid_is_newer" alt="" coords="667,157,811,184"/>
+<area shape="rect" id="node10" href="$pnfs_8c.html#a3a3aeb49a8cc887cf452356cbb1dd46e" title="pnfs_should_free_range" alt="" coords="659,208,819,235"/>
+<area shape="rect" id="node13" href="$pnfs_8c.html#a0e086158f3c19b6db9b11e0ad84f279f" title="pnfs_clear_layoutreturn_info" alt="" coords="1115,259,1300,285"/>
+<area shape="rect" id="node14" href="$pnfs_8c.html#a654b31c30e92342b117b2918f176d5ff" title="pnfs_set_plh_return_info" alt="" coords="1348,259,1512,285"/>
+<area shape="rect" id="node16" href="$pnfs_8c.html#a2bac59cffda333cd065a4d9701b9b4c9" title="pnfs_clear_layoutreturn\l_waitbit" alt="" coords="415,361,572,402"/>
+<area shape="rect" id="node22" href="$pnfs_8c.html#a5d8d9afd2c3041ab07d42a778de58732" title="pnfs_init_layoutreturn_args" alt="" coords="404,427,583,453"/>
+<area shape="rect" id="node18" href="$pnfs_8c.html#a530293e1482491552ce70765f776999a" title="pnfs_layoutreturn_before\l_put_layout_hdr" alt="" coords="656,411,821,453"/>
+<area shape="rect" id="node20" href="$pnfs_8c.html#ad395a321affd28183edaf42216451dd9" title="pnfs_detach_layout_hdr" alt="" coords="659,309,819,336"/>
+<area shape="rect" id="node21" href="$pnfs_8c.html#a430354f7f6e784e028df736e45a8c892" title="pnfs_free_layout_hdr" alt="" coords="667,360,810,387"/>
+<area shape="rect" id="node19" href="$pnfs_8c.html#ac7d9ec29f9ba887df73be088369f1e82" title="pnfs_layout_need_return" alt="" coords="899,419,1063,445"/>
+<area shape="rect" id="node24" href="$pnfs_8c.html#a9cc28bbdc5c22cb414d72fe5d7281c07" title="pnfs_free_lseg" alt="" coords="440,528,547,555"/>
+</map>

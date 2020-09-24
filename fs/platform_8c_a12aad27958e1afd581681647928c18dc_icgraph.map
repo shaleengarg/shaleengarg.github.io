@@ -1,0 +1,12 @@
+<map id="pstore_decompress" name="pstore_decompress">
+<area shape="rect" id="node2" href="$platform_8c.html#a292019d27c78c9665cca9477d955c010" title="decompress_record" alt="" coords="189,31,325,57"/>
+<area shape="rect" id="node3" href="$platform_8c.html#a43aefc52b79042b89fc313bf8a788f2d" title="pstore_get_backend\l_records" alt="" coords="373,23,512,65"/>
+<area shape="rect" id="node4" href="$pstore_2internal_8h.html#a2b6fe86fd5e227b07cddbf6e7046a3b0" title="pstore_get_records" alt="" coords="560,56,693,83"/>
+<area shape="rect" id="node7" href="$pstore_2internal_8h.html#a0c00326359d012a4e0c21e5f163c3932" title="pstore_unregister_pmsg" alt="" coords="741,5,903,32"/>
+<area shape="rect" id="node5" href="$pstore_2inode_8c.html#a1a941df5e64e5388d72ad01ca068eb70" title="pstore_fill_super" alt="" coords="763,56,881,83"/>
+<area shape="rect" id="node9" href="$platform_8c.html#a41474fc2d746cbf31285aa7e7b3918d3" title="pstore_register" alt="" coords="768,157,876,184"/>
+<area shape="rect" id="node11" href="$platform_8c.html#a1a551823f36fb0822a2c8806d72afd58" title="pstore_dowork" alt="" coords="769,107,875,133"/>
+<area shape="rect" id="node6" href="$pstore_2inode_8c.html#af5ca74b98740d3baefff72190910057b" title="pstore_mount" alt="" coords="981,56,1083,83"/>
+<area shape="rect" id="node8" href="$pstore_2internal_8h.html#aef7ae4f5a78ba3cb98d35908a45b0156" title="pstore_unregister_ftrace" alt="" coords="951,5,1113,32"/>
+<area shape="rect" id="node10" href="$ram_8c.html#a23560d3889a2859d02b0d939f20bd6de" title="ramoops_probe" alt="" coords="977,157,1087,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="fscache_op_work_func" name="fscache_op_work_func">
+<area shape="rect" id="node2" href="$operation_8c.html#a87402c9f130b88e7384bd0d9722f474f" title="fscache_operation_init" alt="" coords="209,123,361,149"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#a92eb1c039adf19d02acb4e895d163e26" title="__fscache_check_consistency" alt="" coords="409,5,611,32"/>
+<area shape="rect" id="node4" href="$object_8c.html#a4c407ca08563682fa5624fe957e69bd8" title="_fscache_invalidate\l_object" alt="" coords="441,57,579,98"/>
+<area shape="rect" id="node6" href="$fscache_2page_8c.html#ae2e48a5bf860f4315d010890f6bfd54d" title="__fscache_attr_changed" alt="" coords="428,123,592,149"/>
+<area shape="rect" id="node7" href="$fscache_2page_8c.html#ac08d1895918de3b336cb2fd3ab5619ca" title="fscache_alloc_retrieval" alt="" coords="433,173,587,200"/>
+<area shape="rect" id="node11" href="$fscache_2page_8c.html#a97e89d5700835e8ce14ae5bd7bd7125f" title="__fscache_write_page" alt="" coords="434,224,586,251"/>
+<area shape="rect" id="node5" href="$object_8c.html#a8eaf5ba1ca8dc669324b143c3d08fa55" title="fscache_invalidate\l_object" alt="" coords="694,53,825,94"/>
+<area shape="rect" id="node8" href="$fscache_2page_8c.html#a2806434b015bc1bda3e1b33d05e4ec55" title="__fscache_read_or_alloc_page" alt="" coords="659,119,860,145"/>
+<area shape="rect" id="node9" href="$fscache_2page_8c.html#a9bee1d618d8adfe9a84268fe7dde8f66" title="__fscache_read_or_alloc\l_pages" alt="" coords="676,170,843,211"/>
+<area shape="rect" id="node10" href="$fscache_2page_8c.html#a0f71df298df8d2df0cd6500ece5ce32a" title="__fscache_alloc_page" alt="" coords="684,236,835,263"/>
+</map>

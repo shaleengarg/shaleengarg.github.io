@@ -1,0 +1,29 @@
+<map id="ocfs2_init_dir_trailer" name="ocfs2_init_dir_trailer">
+<area shape="rect" id="node2" href="$ocfs2_2dir_8c.html#a24b32d9aa7359c9ba2ec3381b1d3164a" title="ocfs2_fill_new_dir_el" alt="" coords="401,119,544,145"/>
+<area shape="rect" id="node17" href="$ocfs2_2dir_8c.html#a236d2c61a007621dbd4cc32d773f56ac" title="ocfs2_expand_inline_dir" alt="" coords="192,220,353,247"/>
+<area shape="rect" id="node18" href="$ocfs2_2dir_8c.html#a09454d03d33d85a564767402fa84a2b8" title="ocfs2_extend_dir" alt="" coords="412,195,533,221"/>
+<area shape="rect" id="node3" href="$ocfs2_2dir_8c.html#ae5b5365214b33e7718b26ca43e7ecc94" title="ocfs2_fill_new_dir_dx" alt="" coords="592,125,739,152"/>
+<area shape="rect" id="node4" href="$ocfs2_2dir_8h.html#a7d80ed62ad71e5f3754c1d5498435012" title="ocfs2_fill_new_dir" alt="" coords="797,115,923,141"/>
+<area shape="rect" id="node5" href="$ocfs2_2namei_8c.html#a5a8fa945d08fb2eafc24f39630a6fa17" title="ocfs2_mknod" alt="" coords="1265,31,1365,57"/>
+<area shape="rect" id="node8" href="$ocfs2_2dir_8h.html#a8f08ca5cefcca5709e496cc10cfb6a08" title="ocfs2_add_entry" alt="" coords="1015,148,1133,175"/>
+<area shape="rect" id="node6" href="$ocfs2_2namei_8c.html#a2cfeba05a2658265d1b4f4d135fe8a95" title="ocfs2_mkdir" alt="" coords="1487,56,1580,83"/>
+<area shape="rect" id="node7" href="$ocfs2_2namei_8c.html#a5941207e141e5d428728f560689f1398" title="ocfs2_create" alt="" coords="1485,5,1582,32"/>
+<area shape="rect" id="node9" href="$ocfs2_2namei_8c.html#a407460229ee2fbf7ab6ee03e7e000407" title="ocfs2_link" alt="" coords="1275,249,1356,276"/>
+<area shape="rect" id="node10" href="$ocfs2_2namei_8c.html#a7e52237e2e01c71acd11510cbd85fc93" title="ocfs2_rename" alt="" coords="1481,284,1585,311"/>
+<area shape="rect" id="node11" href="$ocfs2_2namei_8c.html#a0089f75e44a9fd46e4b5f8b313d0af1e" title="ocfs2_symlink" alt="" coords="1262,199,1369,225"/>
+<area shape="rect" id="node12" href="$namei_8h.html#ac12dc81df6540369f9e03f9547d8e554" title="ocfs2_mv_orphaned_inode\l_to_new" alt="" coords="1227,82,1404,123"/>
+<area shape="rect" id="node13" href="$refcounttree_8c.html#a101167830b0fff3f5d3811f8d17eafb3" title="ocfs2_reflink" alt="" coords="1684,251,1780,277"/>
+<area shape="rect" id="node14" href="$refcounttree_8c.html#a361ae2a79adeb5fe8a05c925e48b2c1a" title="ocfs2_vfs_reflink" alt="" coords="1861,251,1983,277"/>
+<area shape="rect" id="node15" href="$refcounttree_8h.html#aea81895d4cf45213d159bb7062179172" title="ocfs2_reflink_ioctl" alt="" coords="2031,251,2157,277"/>
+<area shape="rect" id="node16" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="2205,251,2291,277"/>
+<area shape="rect" id="node19" href="$ocfs2_2dir_8c.html#af5102c35fcaf8bd2bd45a2766f1d8bfc" title="ocfs2_prepare_dx_dir\l_for_insert" alt="" coords="592,239,739,281"/>
+<area shape="rect" id="node20" href="$ocfs2_2dir_8h.html#a02ff8dc70b07af902ab76cb72c7d9001" title="ocfs2_prepare_dir_for\l_insert" alt="" coords="787,191,933,233"/>
+<area shape="rect" id="node21" href="$ocfs2_2namei_8c.html#a341a8f6ccfa555ab22884f7c36186353" title="__ocfs2_prepare_orphan_dir" alt="" coords="981,351,1167,377"/>
+<area shape="rect" id="node22" href="$ocfs2_2namei_8c.html#a4c80aa4ed5b2fc2062bab0f96421efbd" title="ocfs2_prepare_orphan_dir" alt="" coords="1230,401,1401,428"/>
+<area shape="rect" id="node27" href="$ocfs2_2namei_8c.html#ac41259ef4b6ba8d83d6a42c9d9f1b46f" title="ocfs2_prep_new_orphaned_file" alt="" coords="1215,351,1416,377"/>
+<area shape="rect" id="node23" href="$ocfs2_2namei_8c.html#ac197733698d5f9e679269372e5f8bc59" title="ocfs2_unlink" alt="" coords="1486,401,1581,428"/>
+<area shape="rect" id="node24" href="$namei_8h.html#a9d23468f45a1c03b6102ea7f6796829e" title="ocfs2_add_inode_to\l_orphan" alt="" coords="1464,453,1603,494"/>
+<area shape="rect" id="node25" href="$ocfs2_2aops_8c.html#a62285e9f85b08e2890ad6d40f73fbe3a" title="ocfs2_dio_wr_get_block" alt="" coords="1651,460,1813,487"/>
+<area shape="rect" id="node26" href="$ocfs2_2aops_8c.html#a34403509b19366144ea3c92c7f2760c8" title="ocfs2_direct_IO" alt="" coords="1865,460,1979,487"/>
+<area shape="rect" id="node28" href="$namei_8h.html#a33ecd2392f71252d3c6e3b31f53ae74a" title="ocfs2_create_inode\l_in_orphan" alt="" coords="1466,335,1601,377"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ocfs2_drop_dentry_lock" name="ocfs2_drop_dentry_lock">
+<area shape="rect" id="node2" href="$dcache_8h.html#a92ace976e03486357b9d9bf59fe2155e" title="ocfs2_dentry_lock_put" alt="" coords="213,56,367,83"/>
+<area shape="rect" id="node3" href="$ocfs2_2dcache_8c.html#a9f652760c954d566388193cb87f74949" title="ocfs2_dentry_iput" alt="" coords="439,5,565,32"/>
+<area shape="rect" id="node4" href="$dcache_8h.html#a595a520117d86760d247224478868ba4" title="ocfs2_dentry_move" alt="" coords="434,56,570,83"/>
+<area shape="rect" id="node6" href="$dlmglue_8c.html#a5f3f267d01a8d3edc2a1b26b8f21a6cc" title="ocfs2_dentry_post_unlock" alt="" coords="415,107,589,133"/>
+<area shape="rect" id="node5" href="$ocfs2_2namei_8c.html#a7e52237e2e01c71acd11510cbd85fc93" title="ocfs2_rename" alt="" coords="637,56,741,83"/>
+</map>

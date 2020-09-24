@@ -1,0 +1,16 @@
+<map id="_write_mirror" name="_write_mirror">
+<area shape="rect" id="node2" href="$ore_8c.html#a39e69fc002ba35c0df82c0fe529e3ba7" title="ore_write" alt="" coords="151,132,225,159"/>
+<area shape="rect" id="node3" href="$exofs_2inode_8c.html#aaf1dd5e37dfea43245d0ca9830c103de" title="write_exec" alt="" coords="305,56,391,83"/>
+<area shape="rect" id="node6" href="$exofs_2inode_8c.html#a7e40d60e682b90c9cd37fad5552593a3" title="exofs_update_inode" alt="" coords="279,107,417,133"/>
+<area shape="rect" id="node9" href="$exofs_2super_8c.html#afe8773b78973e4d24e31d92c704ed60c" title="exofs_sbi_write_stats" alt="" coords="273,208,423,235"/>
+<area shape="rect" id="node15" href="$exofs_2super_8c.html#abc290bda1cd6fbba94932917f7f445b5" title="exofs_sync_fs" alt="" coords="481,157,587,184"/>
+<area shape="rect" id="node4" href="$exofs_2inode_8c.html#ab1586c4aae1eb4a824ee9198300ccc35" title="writepage_strip" alt="" coords="479,5,589,32"/>
+<area shape="rect" id="node5" href="$exofs_2inode_8c.html#af6e5ea8f08ec9491b3837fb30fe574fe" title="exofs_writepages" alt="" coords="645,31,769,57"/>
+<area shape="rect" id="node7" href="$exofs_2inode_8c.html#a584c9874270536a92cc5313627d1d4f8" title="exofs_write_inode" alt="" coords="471,107,597,133"/>
+<area shape="rect" id="node8" href="$exofs_2super_8c.html#a5fa70c2a857691f01af4836f1245c8b5" title="exofs_statfs" alt="" coords="660,107,755,133"/>
+<area shape="rect" id="node10" href="$exofs_2inode_8c.html#a06af652c6a4dd84a6980ebc77002be6f" title="exofs_new_inode" alt="" coords="473,208,595,235"/>
+<area shape="rect" id="node11" href="$exofs_2namei_8c.html#a883fb5d1dc460c0121c697bc6df38be6" title="exofs_create" alt="" coords="659,157,756,184"/>
+<area shape="rect" id="node12" href="$exofs_2namei_8c.html#afe10c8a97d07755afa8817901e1a6783" title="exofs_mknod" alt="" coords="657,208,757,235"/>
+<area shape="rect" id="node13" href="$exofs_2namei_8c.html#a5aaf8579649c70eb5fe4ff9587187878" title="exofs_symlink" alt="" coords="654,259,761,285"/>
+<area shape="rect" id="node14" href="$exofs_2namei_8c.html#a36a3295106abae0528ea76ee7683e96b" title="exofs_mkdir" alt="" coords="661,309,754,336"/>
+</map>

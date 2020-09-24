@@ -1,0 +1,5 @@
+<map id="pstore_unregister_console" name="pstore_unregister_console">
+<area shape="rect" id="node2" href="$platform_8c.html#a9b2a88587ce02266b9b1fab9797f3485" title="pstore_unregister_kmsg" alt="" coords="228,5,389,32"/>
+<area shape="rect" id="node3" href="$platform_8c.html#a01b460cffd1f44308dc7f442bfa01865" title="pstore_unregister" alt="" coords="437,31,560,57"/>
+<area shape="rect" id="node4" href="$ram_8c.html#ab8db96900e9c97430623caf8a8c872f0" title="ramoops_remove" alt="" coords="608,31,731,57"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SYSCALL_DEFINE5" name="SYSCALL_DEFINE5">
+<area shape="rect" id="node2" href="$read__write_8c.html#a292833103e2e5f61e1b356129149f311" title="pos_from_hilo" alt="" coords="200,5,303,32"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#aec76a56d9a3d3b7f6d9d0821a0f1eeae" title="do_pwritev" alt="" coords="209,56,294,83"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#af50b804bc14a48f0fedf02f2381515f2" title="vfs_writev" alt="" coords="351,56,433,83"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#ac50de950a19bc336a8c56ebf099c544e" title="do_iter_write" alt="" coords="481,56,577,83"/>
+<area shape="rect" id="node6" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="646,5,753,32"/>
+<area shape="rect" id="node8" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="628,56,771,83"/>
+<area shape="rect" id="node9" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="625,107,773,133"/>
+<area shape="rect" id="node7" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="821,5,943,32"/>
+</map>

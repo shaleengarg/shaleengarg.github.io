@@ -1,0 +1,7 @@
+<map id="handle_barrier_mode" name="handle_barrier_mode">
+<area shape="rect" id="node2" href="$reiserfs_2super_8c.html#a43258fd374abc3f2844f5274f7081334" title="reiserfs_remount" alt="" coords="196,13,315,39"/>
+<area shape="rect" id="node3" href="$reiserfs_2super_8c.html#ac978fb3dfb574e2a2d65ef33c5d4c836" title="is_any_reiserfs_magic\l_string" alt="" coords="363,5,515,47"/>
+<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#a937e529fcad9e49d48f1acadb75dc17e" title="read_super_block" alt="" coords="563,13,687,39"/>
+<area shape="rect" id="node5" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="735,13,859,39"/>
+<area shape="rect" id="node6" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="907,13,1024,39"/>
+</map>

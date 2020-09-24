@@ -1,0 +1,9 @@
+<map id="btrfs_ordered_update_i_size" name="btrfs_ordered_update_i_size">
+<area shape="rect" id="node2" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="235,5,313,32"/>
+<area shape="rect" id="node3" href="$ordered-data_8c.html#a8ed7c0969e3946a8190fb8133ee9a248" title="entry_end" alt="" coords="555,132,633,159"/>
+<area shape="rect" id="node4" href="$ctree_8h.html#ad36fbd6825fe15f8319e48b33ea0f67e" title="btrfs_inode_sectorsize" alt="" coords="197,107,351,133"/>
+<area shape="rect" id="node6" href="$ordered-data_8c.html#a1ce1980bf84b0ff091ee8d2066e50e6d" title="tree_search" alt="" coords="229,208,319,235"/>
+<area shape="rect" id="node7" href="$ordered-data_8c.html#aa03cc14419be353cd957290fe3a788e0" title="offset_in_entry" alt="" coords="399,157,507,184"/>
+<area shape="rect" id="node5" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="418,107,487,133"/>
+<area shape="rect" id="node8" href="$ordered-data_8c.html#af28576a0e92f352e755be898eb3f9402" title="__tree_search" alt="" coords="401,208,505,235"/>
+</map>

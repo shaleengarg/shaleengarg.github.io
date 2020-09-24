@@ -1,0 +1,7 @@
+<map id="btrfs_lookup_ordered_range" name="btrfs_lookup_ordered_range">
+<area shape="rect" id="node2" href="$ordered-data_8c.html#a1ce1980bf84b0ff091ee8d2066e50e6d" title="tree_search" alt="" coords="206,31,297,57"/>
+<area shape="rect" id="node6" href="$ordered-data_8c.html#ae20d5cc5dfa6c4dd0cf7e14aa4373846" title="range_overlaps" alt="" coords="196,81,307,108"/>
+<area shape="rect" id="node3" href="$ordered-data_8c.html#aa03cc14419be353cd957290fe3a788e0" title="offset_in_entry" alt="" coords="355,5,463,32"/>
+<area shape="rect" id="node4" href="$ordered-data_8c.html#af28576a0e92f352e755be898eb3f9402" title="__tree_search" alt="" coords="357,56,461,83"/>
+<area shape="rect" id="node5" href="$ordered-data_8c.html#a8ed7c0969e3946a8190fb8133ee9a248" title="entry_end" alt="" coords="511,56,589,83"/>
+</map>

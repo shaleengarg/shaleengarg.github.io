@@ -1,0 +1,13 @@
+<map id="free_pstore_private" name="free_pstore_private">
+<area shape="rect" id="node2" href="$pstore_2inode_8c.html#ab6c404d5398dc8951ead265c287a575a" title="pstore_evict_inode" alt="" coords="187,5,317,32"/>
+<area shape="rect" id="node3" href="$pstore_2internal_8h.html#a2857ad959216b8912aa58f54777cd572" title="pstore_mkfile" alt="" coords="202,56,302,83"/>
+<area shape="rect" id="node4" href="$pstore_2internal_8h.html#a0c00326359d012a4e0c21e5f163c3932" title="pstore_unregister_pmsg" alt="" coords="733,52,895,79"/>
+<area shape="rect" id="node6" href="$platform_8c.html#a43aefc52b79042b89fc313bf8a788f2d" title="pstore_get_backend\l_records" alt="" coords="365,78,504,119"/>
+<area shape="rect" id="node5" href="$pstore_2internal_8h.html#aef7ae4f5a78ba3cb98d35908a45b0156" title="pstore_unregister_ftrace" alt="" coords="943,52,1105,79"/>
+<area shape="rect" id="node7" href="$pstore_2internal_8h.html#a2b6fe86fd5e227b07cddbf6e7046a3b0" title="pstore_get_records" alt="" coords="552,128,685,155"/>
+<area shape="rect" id="node8" href="$pstore_2inode_8c.html#a1a941df5e64e5388d72ad01ca068eb70" title="pstore_fill_super" alt="" coords="755,103,873,129"/>
+<area shape="rect" id="node10" href="$platform_8c.html#a41474fc2d746cbf31285aa7e7b3918d3" title="pstore_register" alt="" coords="760,153,868,180"/>
+<area shape="rect" id="node12" href="$platform_8c.html#a1a551823f36fb0822a2c8806d72afd58" title="pstore_dowork" alt="" coords="761,204,867,231"/>
+<area shape="rect" id="node9" href="$pstore_2inode_8c.html#af5ca74b98740d3baefff72190910057b" title="pstore_mount" alt="" coords="973,103,1075,129"/>
+<area shape="rect" id="node11" href="$ram_8c.html#a23560d3889a2859d02b0d939f20bd6de" title="ramoops_probe" alt="" coords="969,153,1079,180"/>
+</map>

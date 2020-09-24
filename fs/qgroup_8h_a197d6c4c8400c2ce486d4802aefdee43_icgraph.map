@@ -1,0 +1,6 @@
+<map id="btrfs_qgroup_rescan" name="btrfs_qgroup_rescan">
+<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#aef1850f8efdde065288ab4da976270d0" title="btrfs_ioctl_quota_rescan" alt="" coords="193,5,357,32"/>
+<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="405,5,484,32"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="532,5,707,32"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="755,5,852,32"/>
+</map>

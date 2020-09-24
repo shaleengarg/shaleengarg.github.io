@@ -1,0 +1,11 @@
+<map id="pipe_fcntl" name="pipe_fcntl">
+<area shape="rect" id="node2" href="$pipe_8c.html#a04be7b9d1b4cdabf883705fa323daf61" title="get_pipe_info" alt="" coords="135,5,234,32"/>
+<area shape="rect" id="node3" href="$pipe_8c.html#acaa67b9297f65bad336f522141935d47" title="__pipe_lock" alt="" coords="139,56,230,83"/>
+<area shape="rect" id="node4" href="$pipe_8c.html#ada561ac9ed76260b8feb207407da084e" title="pipe_set_size" alt="" coords="133,107,236,133"/>
+<area shape="rect" id="node10" href="$pipe_8c.html#a38ed717193262b3dedcacf3364b44b07" title="__pipe_unlock" alt="" coords="132,157,237,184"/>
+<area shape="rect" id="node5" href="$pipe_8c.html#a0cb9df74a49a1890b498b2c1f7ed3e5e" title="round_pipe_size" alt="" coords="322,5,438,32"/>
+<area shape="rect" id="node6" href="$pipe_8c.html#aa7e35d7b808421c9bef27a8904c069e9" title="account_pipe_buffers" alt="" coords="307,56,453,83"/>
+<area shape="rect" id="node7" href="$pipe_8c.html#a41c726b21de1777fe0c61d1dcce92497" title="too_many_pipe_buffers_hard" alt="" coords="285,107,475,133"/>
+<area shape="rect" id="node8" href="$pipe_8c.html#a5a65d3ffa2d262aa8465497adcd18d85" title="too_many_pipe_buffers_soft" alt="" coords="287,157,473,184"/>
+<area shape="rect" id="node9" href="$pipe_8c.html#ab4958eb5d4d9857a0136023dd3d5fc5f" title="is_unprivileged_user" alt="" coords="310,208,450,235"/>
+</map>

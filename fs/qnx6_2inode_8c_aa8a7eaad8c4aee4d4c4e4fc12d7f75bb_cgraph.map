@@ -1,0 +1,14 @@
+<map id="qnx6_private_inode" name="qnx6_private_inode">
+<area shape="rect" id="node2" href="$inode_8c.html#ae03a9f08d4efbf91ff44e29c1369314e" title="new_inode" alt="" coords="193,56,277,83"/>
+<area shape="rect" id="node10" href="$qnx6_8h.html#a7169a6f5ea62d4bd82f61e64dd54f55b" title="QNX6_I" alt="" coords="200,107,269,133"/>
+<area shape="rect" id="node11" href="$qnx6_8h.html#a4f7286986e304399f46c1b4fb26fb840" title="QNX6_SB" alt="" coords="193,157,276,184"/>
+<area shape="rect" id="node12" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="188,208,281,235"/>
+<area shape="rect" id="node3" href="$inode_8c.html#aeddf64c5c9fa914485838a6db9201936" title="new_inode_pseudo" alt="" coords="329,5,463,32"/>
+<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="904,56,1043,83"/>
+<area shape="rect" id="node8" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="333,107,459,133"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a6328f7a2621c5365a1df969e8c7ab998" title="alloc_inode" alt="" coords="553,5,640,32"/>
+<area shape="rect" id="node5" href="$inode_8c.html#a844185001176cf3da6e2195a24931015" title="inode_init_always" alt="" coords="731,5,856,32"/>
+<area shape="rect" id="node6" href="$inode_8c.html#a585882dc429befcbe4638a49bc11dff6" title="no_open" alt="" coords="938,5,1009,32"/>
+<area shape="rect" id="node9" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="511,107,683,133"/>
+<area shape="rect" id="node13" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="355,208,437,235"/>
+</map>

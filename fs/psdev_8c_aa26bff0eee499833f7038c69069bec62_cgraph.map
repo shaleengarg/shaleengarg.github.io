@@ -1,0 +1,8 @@
+<map id="init_coda_psdev" name="init_coda_psdev">
+<area shape="rect" id="node2" href="$coda__int_8h.html#ad21d1ac11e1a0f250fccf6b83c2a9e5a" title="coda_sysctl_init" alt="" coords="211,5,327,32"/>
+<area shape="rect" id="node3" href="$psdev_8c.html#a531357b4820cc564ba4094bd56fa9ad2" title="MODULE_AUTHOR" alt="" coords="197,56,340,83"/>
+<area shape="rect" id="node4" href="$psdev_8c.html#a036ed8fc1a1bba8b8d40d525f033acc6" title="MODULE_DESCRIPTION" alt="" coords="179,107,358,133"/>
+<area shape="rect" id="node5" href="$psdev_8c.html#a021fe697ab07f3589696e665dd8b0188" title="MODULE_ALIAS_CHARDEV\l_MAJOR" alt="" coords="169,158,368,199"/>
+<area shape="rect" id="node6" href="$psdev_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="197,224,341,251"/>
+<area shape="rect" id="node7" href="$psdev_8c.html#a51bd9b30379b5b87c3e13b827316a08c" title="MODULE_VERSION" alt="" coords="195,275,342,301"/>
+</map>

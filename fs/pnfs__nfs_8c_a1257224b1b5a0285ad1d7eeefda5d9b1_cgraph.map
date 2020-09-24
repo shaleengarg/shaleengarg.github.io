@@ -1,0 +1,26 @@
+<map id="nfs4_pnfs_ds_connect" name="nfs4_pnfs_ds_connect">
+<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#aab58156c24e375fddf33f8167bcbe663" title="_nfs4_pnfs_v3_ds_connect" alt="" coords="207,271,388,297"/>
+<area shape="rect" id="node10" href="$client_8c.html#a7a80a645d52e4a62191433ce90161943" title="nfs_client_init_is\l_complete" alt="" coords="1468,261,1587,302"/>
+<area shape="rect" id="node15" href="$pnfs__nfs_8c.html#a68e088ec7d2ab50391686ec646096a53" title="_nfs4_pnfs_v4_ds_connect" alt="" coords="436,345,617,372"/>
+<area shape="rect" id="node20" href="$pnfs__nfs_8c.html#ac7aa0afa60971158263d59c91acdb92a" title="nfs4_clear_ds_conn_bit" alt="" coords="218,487,377,513"/>
+<area shape="rect" id="node21" href="$pnfs__nfs_8c.html#af95eb8bf9ef16bc277754d13720dc133" title="nfs4_wait_ds_connect" alt="" coords="221,537,373,564"/>
+<area shape="rect" id="node22" href="$pnfs__dev_8c.html#ab222e711b80bc044c2f6aa9471224c3d" title="nfs4_test_deviceid\l_unavailable" alt="" coords="232,589,363,630"/>
+<area shape="rect" id="node24" href="$client_8c.html#a5f2dfaa7f38b36de56819bf68f7d409e" title="nfs_client_init_status" alt="" coords="1064,29,1209,56"/>
+<area shape="rect" id="node25" href="$pnfs__nfs_8c.html#ade46012790609368124a6619e0b27bf7" title="EXPORT_SYMBOL_GPL" alt="" coords="211,655,383,681"/>
+<area shape="rect" id="node3" href="$pnfs__nfs_8c.html#a331780dd032b1d16c62012181cb25244" title="load_v3_ds_connect" alt="" coords="456,249,597,276"/>
+<area shape="rect" id="node4" href="$nfs_2internal_8h.html#a7682c84c99c97d5b34481cb27f393763" title="nfs3_set_ds_client" alt="" coords="665,180,796,207"/>
+<area shape="rect" id="node5" href="$client_8c.html#ab47110cc46e1b60fa5d248e37e6fd30e" title="nfs_init_timeout_values" alt="" coords="851,143,1009,169"/>
+<area shape="rect" id="node7" href="$client_8c.html#a6689bec82a5957c108a9362382cb9c1f" title="nfs_get_client" alt="" coords="879,217,981,244"/>
+<area shape="rect" id="node14" href="$nfs3client_8c.html#a7d02609b141d7b97238a577c66bf7247" title="EXPORT_SYMBOL_GPL" alt="" coords="844,68,1016,95"/>
+<area shape="rect" id="node6" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="1664,160,1836,187"/>
+<area shape="rect" id="node8" href="$client_8c.html#aec354055e63bb1df0e8f154c35cc5ad9" title="nfs_match_client" alt="" coords="1076,217,1197,244"/>
+<area shape="rect" id="node13" href="$client_8c.html#a24ce27ab0c2f8e34ad2e781cd89e043e" title="nfs_found_client" alt="" coords="1078,268,1195,295"/>
+<area shape="rect" id="node9" href="$client_8c.html#abf4056dc57f79d5a414701f316a66f29" title="nfs_wait_client_init\l_complete" alt="" coords="1257,219,1391,261"/>
+<area shape="rect" id="node11" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="1273,319,1375,345"/>
+<area shape="rect" id="node12" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="1439,327,1616,353"/>
+<area shape="rect" id="node16" href="$nfs4state_8c.html#a2ff5681ee292064258c8a7fc140e0a68" title="nfs4_get_clid_cred" alt="" coords="665,373,796,400"/>
+<area shape="rect" id="node18" href="$nfs_2internal_8h.html#a09f4ee9b75cff2d9155aef2e17c74aa7" title="nfs4_set_ds_client" alt="" coords="665,249,796,276"/>
+<area shape="rect" id="node17" href="$nfs4state_8c.html#aec6a6a8b72f44a6fa1efdf58848e1164" title="nfs4_get_machine_cred\l_locked" alt="" coords="850,370,1010,411"/>
+<area shape="rect" id="node19" href="$nfs4client_8c.html#a3c0bef4837704adf088855619c62011a" title="EXPORT_SYMBOL_GPL" alt="" coords="844,268,1016,295"/>
+<area shape="rect" id="node23" href="$pnfs__dev_8c.html#a580b48a27275d9a1109e2e773d4fc0ca" title="EXPORT_SYMBOL_GPL" alt="" coords="441,596,613,623"/>
+</map>

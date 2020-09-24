@@ -1,0 +1,36 @@
+<map id="init_reiserfs_fs" name="init_reiserfs_fs">
+<area shape="rect" id="node2" href="$reiserfs_2super_8c.html#a383280e7241ecff259afb2e90b1241b3" title="init_inodecache" alt="" coords="173,125,285,152"/>
+<area shape="rect" id="node7" href="$reiserfs_2procfs_8c.html#aa6341b61041a208e2b0eb7287c05e245" title="reiserfs_proc_info\l_global_init" alt="" coords="167,302,292,343"/>
+<area shape="rect" id="node26" href="$filesystems_8c.html#a12c8edd3583d48417f03f189e05dd601" title="register_filesystem" alt="" coords="163,433,295,460"/>
+<area shape="rect" id="node29" href="$reiserfs_2procfs_8c.html#a1fb38edd571c95049acc76b461806e78" title="reiserfs_proc_info\l_global_done" alt="" coords="167,367,292,409"/>
+<area shape="rect" id="node35" href="$reiserfs_2super_8c.html#ac4d25609cd85ba4cc80e0aa74c6d0ffd" title="destroy_inodecache" alt="" coords="160,484,299,511"/>
+<area shape="rect" id="node3" href="$reiserfs_2super_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="379,79,453,105"/>
+<area shape="rect" id="node4" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="544,56,656,83"/>
+<area shape="rect" id="node5" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="715,56,897,83"/>
+<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="737,5,875,32"/>
+<area shape="rect" id="node8" href="$generic_8c.html#a9b1729c5286127a25729936cf8bbbb50" title="proc_mkdir" alt="" coords="373,309,459,336"/>
+<area shape="rect" id="node9" href="$generic_8c.html#a48b5bb011f8c74b855d5cb1b2fefb64f" title="proc_mkdir_data" alt="" coords="541,208,659,235"/>
+<area shape="rect" id="node20" href="$generic_8c.html#a7d79719f23a3c3e73d8271a6715de507" title="EXPORT_SYMBOL" alt="" coords="1115,512,1253,539"/>
+<area shape="rect" id="node10" href="$generic_8c.html#a97a892152b260d05391f31a1d845848b" title="__proc_create" alt="" coords="754,309,858,336"/>
+<area shape="rect" id="node18" href="$generic_8c.html#ad4ba02a79b849e5b3737a99fbe92579c" title="pde_free" alt="" coords="970,208,1042,235"/>
+<area shape="rect" id="node21" href="$generic_8c.html#a766f247714811cb19fccd997d8d7ea95" title="proc_register" alt="" coords="757,157,855,184"/>
+<area shape="rect" id="node25" href="$generic_8c.html#af81d3c0ef03e109abc827aa18e342cad" title="EXPORT_SYMBOL_GPL" alt="" coords="720,107,892,133"/>
+<area shape="rect" id="node11" href="$generic_8c.html#ac805541e3a2a5dfec6ac085c28493ef8" title="xlate_proc_name" alt="" coords="945,360,1067,387"/>
+<area shape="rect" id="node16" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="959,259,1053,285"/>
+<area shape="rect" id="node17" href="$proc_2internal_8h.html#a5f5657d795e398fe72110f2ebd7c30e9" title="is_empty_pde" alt="" coords="955,309,1057,336"/>
+<area shape="rect" id="node19" href="$generic_8c.html#af6f245c22731ee7b296e49bbd902056e" title="proc_set_user" alt="" coords="954,411,1058,437"/>
+<area shape="rect" id="node12" href="$generic_8c.html#aaca0906d62576dfde30f06ff41aac889" title="__xlate_proc_name" alt="" coords="1117,436,1251,463"/>
+<area shape="rect" id="node15" href="$generic_8c.html#a8b5c59e7a9a19940d8737488377944cb" title="DEFINE_IDA" alt="" coords="1133,360,1235,387"/>
+<area shape="rect" id="node13" href="$generic_8c.html#ab2724533563ca572da288c50d578b83b" title="pde_subdir_find" alt="" coords="1307,436,1420,463"/>
+<area shape="rect" id="node14" href="$generic_8c.html#a23701b8bbb52aa6d975e3fa6f79e4520" title="proc_match" alt="" coords="1473,411,1564,437"/>
+<area shape="rect" id="node22" href="$generic_8c.html#a300e2eae4c0088c3932b1499ba7c2622" title="proc_alloc_inum" alt="" coords="948,56,1064,83"/>
+<area shape="rect" id="node23" href="$generic_8c.html#a9f6b8eaa9a11c9590283c3a54d8d5746" title="pde_subdir_insert" alt="" coords="1301,247,1425,273"/>
+<area shape="rect" id="node24" href="$generic_8c.html#a35b94b9eb0c42fe893f84069c6aab610" title="proc_free_inum" alt="" coords="951,157,1061,184"/>
+<area shape="rect" id="node27" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="361,483,471,509"/>
+<area shape="rect" id="node28" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="347,432,485,459"/>
+<area shape="rect" id="node30" href="$generic_8c.html#a1f634f0cfc13cf7b0f3111edf537c5e7" title="remove_proc_entry" alt="" coords="533,563,667,589"/>
+<area shape="rect" id="node31" href="$proc_2inode_8c.html#a80b810a29a3a12f90cef5caa37c3806e" title="proc_entry_rundown" alt="" coords="737,664,875,691"/>
+<area shape="rect" id="node33" href="$generic_8c.html#a02bfaf0b193f44d5b2ae215290702eb2" title="pde_subdir_first" alt="" coords="749,715,863,741"/>
+<area shape="rect" id="node34" href="$generic_8c.html#abfdf166e13cb29f65f660647d9981b57" title="pde_put" alt="" coords="772,259,840,285"/>
+<area shape="rect" id="node32" href="$proc_2inode_8c.html#af015fb81d0a690c867cec9c265972519" title="close_pdeo" alt="" coords="962,664,1050,691"/>
+</map>

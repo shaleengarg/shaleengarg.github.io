@@ -1,0 +1,24 @@
+<map id="orangefs_inode_type" name="orangefs_inode_type">
+<area shape="rect" id="node2" href="$orangefs-utils_8c.html#adcc673b266b44e5894512a3e6e261254" title="orangefs_inode_is_stale" alt="" coords="196,284,359,311"/>
+<area shape="rect" id="node3" href="$orangefs-utils_8c.html#a1e8286153488b10268b532bfd59bf94a" title="orangefs_inode_getattr" alt="" coords="407,233,561,260"/>
+<area shape="rect" id="node23" href="$orangefs-utils_8c.html#a656e29fe2795f6173d7142244803c8ad" title="orangefs_inode_check\l_changed" alt="" coords="1012,614,1164,655"/>
+<area shape="rect" id="node4" href="$orangefs_2file_8c.html#a56878b9959f0e16b45dda72625fd983a" title="orangefs_file_write_iter" alt="" coords="609,5,765,32"/>
+<area shape="rect" id="node5" href="$orangefs_2file_8c.html#af3ddc705d397308016fe38cc463f9a72" title="orangefs_fault" alt="" coords="635,56,739,83"/>
+<area shape="rect" id="node6" href="$orangefs_2file_8c.html#aff885ae7b40d35cec6997b26a92a3c45" title="orangefs_file_llseek" alt="" coords="619,107,756,133"/>
+<area shape="rect" id="node7" href="$orangefs_2inode_8c.html#a29d1af8cc60a291808e9ee2440036bb7" title="orangefs_setattr_size" alt="" coords="614,157,761,184"/>
+<area shape="rect" id="node9" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="1212,360,1315,387"/>
+<area shape="rect" id="node12" href="$orangefs-kernel_8h.html#a1c83e8dbb11b635c463bf1815c4e23fe" title="orangefs_getattr" alt="" coords="1030,259,1146,285"/>
+<area shape="rect" id="node13" href="$orangefs-kernel_8h.html#ae58d756bf90b98191f9b45a8e7b3a501" title="orangefs_permission" alt="" coords="1017,309,1159,336"/>
+<area shape="rect" id="node14" href="$orangefs-kernel_8h.html#ae248c67448f639eca6a2437cbd684bff" title="orangefs_iget" alt="" coords="637,411,737,437"/>
+<area shape="rect" id="node19" href="$orangefs-kernel_8h.html#afcc143bf6e51f30967915b926f069639" title="orangefs_new_inode" alt="" coords="617,613,758,640"/>
+<area shape="rect" id="node8" href="$orangefs-kernel_8h.html#a1382f694f3a2559cb5c2bb5fd72d9741" title="orangefs_setattr" alt="" coords="1030,157,1146,184"/>
+<area shape="rect" id="node10" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="1363,403,1497,445"/>
+<area shape="rect" id="node11" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="1545,541,1695,568"/>
+<area shape="rect" id="node15" href="$orangefs_2super_8c.html#ac151e8960298c5c1093fdab151605efc" title="orangefs_fh_to_dentry" alt="" coords="813,411,964,437"/>
+<area shape="rect" id="node16" href="$orangefs_2super_8c.html#af0f11001e500202f452bc1c473b9ec9d" title="orangefs_fill_sb" alt="" coords="832,461,945,488"/>
+<area shape="rect" id="node18" href="$orangefs_2namei_8c.html#a5be6d8c81b749b0bc3ca1aa12500b7bc" title="orangefs_lookup" alt="" coords="830,512,947,539"/>
+<area shape="rect" id="node17" href="$orangefs_2super_8c.html#acb317ef56c2948149fb8f789e1e0d52f" title="orangefs_mount" alt="" coords="1031,436,1145,463"/>
+<area shape="rect" id="node20" href="$orangefs_2namei_8c.html#a04b6039e79a31c287a948aeba3e5c7e8" title="orangefs_create" alt="" coords="831,613,946,640"/>
+<area shape="rect" id="node21" href="$orangefs_2namei_8c.html#aa9dcf816c7d372e02165abe50a8471ee" title="orangefs_symlink" alt="" coords="827,664,951,691"/>
+<area shape="rect" id="node22" href="$orangefs_2namei_8c.html#aef115d9437c9794cc6ebb101ae3517b9" title="orangefs_mkdir" alt="" coords="833,715,944,741"/>
+</map>

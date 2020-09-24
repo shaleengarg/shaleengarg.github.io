@@ -1,0 +1,13 @@
+<map id="btrfs_wait_ordered_range" name="btrfs_wait_ordered_range">
+<area shape="rect" id="node2" href="$ctree_8h.html#ae3a0c059de32a53eb7d7ac4abc67079b" title="btrfs_fdatawrite_range" alt="" coords="400,5,551,32"/>
+<area shape="rect" id="node4" href="$ordered-data_8c.html#a76058034a6e86ef9285b70c8072fa38a" title="btrfs_lookup_first\l_ordered_extent" alt="" coords="205,83,327,125"/>
+<area shape="rect" id="node9" href="$ordered-data_8c.html#a08fa2942c9d8616cd5327d7f99d883f3" title="btrfs_put_ordered_extent" alt="" coords="183,149,349,176"/>
+<area shape="rect" id="node12" href="$ordered-data_8c.html#ad9f2e1641c4a25a713eb4fee5971e2f5" title="btrfs_start_ordered\l_extent" alt="" coords="201,201,331,242"/>
+<area shape="rect" id="node3" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="617,31,694,57"/>
+<area shape="rect" id="node5" href="$ordered-data_8c.html#a1ce1980bf84b0ff091ee8d2066e50e6d" title="tree_search" alt="" coords="430,107,521,133"/>
+<area shape="rect" id="node6" href="$ordered-data_8c.html#aa03cc14419be353cd957290fe3a788e0" title="offset_in_entry" alt="" coords="601,81,709,108"/>
+<area shape="rect" id="node7" href="$ordered-data_8c.html#af28576a0e92f352e755be898eb3f9402" title="__tree_search" alt="" coords="603,132,707,159"/>
+<area shape="rect" id="node8" href="$ordered-data_8c.html#a8ed7c0969e3946a8190fb8133ee9a248" title="entry_end" alt="" coords="757,132,836,159"/>
+<area shape="rect" id="node10" href="$ctree_8h.html#af9e99f5f2da448db8a3b1a812e8271ff" title="btrfs_add_delayed_iput" alt="" coords="397,157,553,184"/>
+<area shape="rect" id="node11" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="621,183,690,209"/>
+</map>

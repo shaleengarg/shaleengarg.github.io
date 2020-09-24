@@ -1,0 +1,26 @@
+<map id="disallow_sync_reply" name="disallow_sync_reply">
+<area shape="rect" id="node2" href="$rcom_8h.html#ab689c0902ec5d41223bd9cc5e9c4c10f" title="dlm_rcom_status" alt="" coords="193,129,316,155"/>
+<area shape="rect" id="node24" href="$rcom_8h.html#aa19aa3915c825a0ede75df55a80f2393" title="dlm_rcom_names" alt="" coords="192,191,317,218"/>
+<area shape="rect" id="node3" href="$member_8c.html#ac2088cb8a2b0709a459946dc290ea12b" title="ping_members" alt="" coords="370,147,477,174"/>
+<area shape="rect" id="node17" href="$recover_8c.html#a5f1cec3678aeaad3d80bfdae9997182c" title="wait_status_all" alt="" coords="369,42,478,69"/>
+<area shape="rect" id="node23" href="$recover_8c.html#a5836b30afc8876f20347e2832db6b731" title="wait_status_low" alt="" coords="365,93,481,119"/>
+<area shape="rect" id="node4" href="$member_8h.html#acbd9e09d364c42b0b7d4c2acac377bd8" title="dlm_recover_members" alt="" coords="545,159,699,186"/>
+<area shape="rect" id="node5" href="$recoverd_8c.html#ab62779df96a68ad1ce11df51caddf269" title="ls_recover" alt="" coords="992,114,1075,141"/>
+<area shape="rect" id="node6" href="$recoverd_8c.html#a607f54118d11f07df88de1af7e1daae5" title="do_ls_recovery" alt="" coords="1123,114,1233,141"/>
+<area shape="rect" id="node7" href="$recoverd_8c.html#ae8de24c4786207676edc06653b306a46" title="dlm_recoverd" alt="" coords="1281,114,1381,141"/>
+<area shape="rect" id="node8" href="$recoverd_8h.html#a266e609aac81f71ceec84f01aead7073" title="dlm_recoverd_start" alt="" coords="1429,114,1563,141"/>
+<area shape="rect" id="node9" href="$lockspace_8c.html#a83963ec3c204e4d89fa31424d5b0b600" title="new_lockspace" alt="" coords="1611,114,1723,141"/>
+<area shape="rect" id="node10" href="$lockspace_8c.html#a1c7ae17536c2eb523b3adc588b4d7c38" title="dlm_new_lockspace" alt="" coords="1771,114,1911,141"/>
+<area shape="rect" id="node11" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="2008,38,2079,65"/>
+<area shape="rect" id="node12" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="1959,89,2128,115"/>
+<area shape="rect" id="node15" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="1997,139,2090,166"/>
+<area shape="rect" id="node16" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="1970,190,2117,217"/>
+<area shape="rect" id="node13" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="2176,89,2271,115"/>
+<area shape="rect" id="node14" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="2319,89,2467,115"/>
+<area shape="rect" id="node18" href="$recover_8c.html#a8cd169de7cda5450d07cce43abcf1247" title="wait_status" alt="" coords="577,91,667,118"/>
+<area shape="rect" id="node22" href="$recover_8h.html#a81b7cd145d92025532a2804ce6bb48f0" title="dlm_recover_members_wait" alt="" coords="529,41,715,67"/>
+<area shape="rect" id="node19" href="$recover_8h.html#a1c90179ad92c4ed38fa436cb185d2987" title="dlm_recover_directory_wait" alt="" coords="763,38,944,65"/>
+<area shape="rect" id="node20" href="$recover_8h.html#a7d205cf886a1ef946011e6eb8864ead8" title="dlm_recover_locks_wait" alt="" coords="772,89,935,115"/>
+<area shape="rect" id="node21" href="$recover_8h.html#a5b1ccd89b9a3ec9ebac217a60892365b" title="dlm_recover_done_wait" alt="" coords="774,139,933,166"/>
+<area shape="rect" id="node25" href="$dlm_2dir_8h.html#a92ebd26e62e38ab89f8da6aefac25fa4" title="dlm_recover_directory" alt="" coords="547,233,697,259"/>
+</map>

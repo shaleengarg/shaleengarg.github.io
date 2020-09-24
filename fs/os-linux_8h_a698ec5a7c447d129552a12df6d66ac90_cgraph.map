@@ -1,0 +1,6 @@
+<map id="jffs2_flash_cleanup" name="jffs2_flash_cleanup">
+<area shape="rect" id="node2" href="$wbuf_8c.html#a1bfef1cfd96c5526b8135aabcf292292" title="jffs2_nand_flash_cleanup" alt="" coords="188,5,357,32"/>
+<area shape="rect" id="node3" href="$wbuf_8c.html#aa5861c18f30ea30a5dcc541c1bc9ca38" title="jffs2_dataflash_cleanup" alt="" coords="193,56,352,83"/>
+<area shape="rect" id="node4" href="$wbuf_8c.html#ae9c25864937e8ef3056c5f5c42b37f9a" title="jffs2_nor_wbuf_flash\l_cleanup" alt="" coords="201,107,344,149"/>
+<area shape="rect" id="node5" href="$wbuf_8c.html#ab8c0ded6817043a55560cd6517d2c58a" title="jffs2_ubivol_cleanup" alt="" coords="203,173,343,200"/>
+</map>

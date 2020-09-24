@@ -1,0 +1,30 @@
+<map id="orangefs_fault" name="orangefs_fault">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#a1e8286153488b10268b532bfd59bf94a" title="orangefs_inode_getattr" alt="" coords="157,532,312,559"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#adace367e43c5bcc39c91607a4452e535" title="ORANGEFS_I" alt="" coords="1230,431,1338,457"/>
+<area shape="rect" id="node4" href="$orangefs-kernel_8h.html#a0fcaa10a86b300cf62d698fd6a87eedb" title="get_khandle_from_ino" alt="" coords="1001,481,1151,508"/>
+<area shape="rect" id="node5" href="$orangefs-cache_8c.html#aea1a441643b8e8de279c90184b3d0a47" title="op_alloc" alt="" coords="406,96,477,123"/>
+<area shape="rect" id="node8" href="$orangefs-kernel_8h.html#a8338c3dd4cff906f760af14d7784976e" title="service_operation" alt="" coords="379,227,503,253"/>
+<area shape="rect" id="node13" href="$orangefs-utils_8c.html#adcc673b266b44e5894512a3e6e261254" title="orangefs_inode_is_stale" alt="" coords="360,431,523,457"/>
+<area shape="rect" id="node14" href="$orangefs-utils_8c.html#a7e4d2a48be76162c368b8df51fda31af" title="orangefs_inode_type" alt="" coords="599,380,741,407"/>
+<area shape="rect" id="node15" href="$orangefs-utils_8c.html#a35d133dcf6ab0e074d73920cbc836da8" title="orangefs_make_bad_inode" alt="" coords="581,532,759,559"/>
+<area shape="rect" id="node16" href="$orangefs-kernel_8h.html#a3240753307be6f592ba913df8aac7705" title="is_root_handle" alt="" coords="824,583,931,609"/>
+<area shape="rect" id="node23" href="$orangefs-utils_8c.html#ace190aa39a1324bf54d58b11591b1142" title="orangefs_inode_flags" alt="" coords="369,633,514,660"/>
+<area shape="rect" id="node24" href="$stat_8c.html#aaad2ca9f72ea597e34af1b3a5104f9c6" title="inode_set_bytes" alt="" coords="383,684,500,711"/>
+<area shape="rect" id="node26" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="840,735,915,761"/>
+<area shape="rect" id="node28" href="$orangefs-utils_8c.html#a454465f9e869c23d0d584b865c29f0ac" title="orangefs_inode_perms" alt="" coords="365,785,518,812"/>
+<area shape="rect" id="node29" href="$orangefs-cache_8c.html#a6427cec67a6111012e85e31c6bab5df8" title="op_release" alt="" coords="399,836,484,863"/>
+<area shape="rect" id="node6" href="$orangefs-cache_8c.html#aafd7b643bbd9e93c8bce63391ee7c1b1" title="orangefs_new_tag" alt="" coords="606,45,734,72"/>
+<area shape="rect" id="node7" href="$orangefs-cache_8c.html#a8a102b5f87c53bfde730685934c9e164" title="get_opname_string" alt="" coords="604,96,736,123"/>
+<area shape="rect" id="node9" href="$devorangefs-req_8c.html#a8b2305809117ef60d5ada6c739a8768e" title="__is_daemon_in_service" alt="" coords="587,147,753,173"/>
+<area shape="rect" id="node10" href="$waitqueue_8c.html#a12d06040e19576e013f7e1073842e853" title="wait_for_matching_downcall" alt="" coords="577,197,763,224"/>
+<area shape="rect" id="node11" href="$orangefs-kernel_8h.html#ac9043d9d741f89a668ecf23b6182f953" title="orangefs_normalize\l_to_errno" alt="" coords="603,249,737,290"/>
+<area shape="rect" id="node12" href="$waitqueue_8c.html#aeb24c9a574f115456d667e1a721c672f" title="orangefs_clean_up_interrupted\l_operation" alt="" coords="571,314,769,355"/>
+<area shape="rect" id="node19" href="$bad__inode_8c.html#ab9cc2af6161530b35e5f86e29f977033" title="make_bad_inode" alt="" coords="817,633,937,660"/>
+<area shape="rect" id="node17" href="$orangefs-kernel_8h.html#a91df3d61cc89a1b9cc82bac75d468097" title="ORANGEFS_SB" alt="" coords="1015,583,1137,609"/>
+<area shape="rect" id="node18" href="$protocol_8h.html#a1b25a5e8623cbd6176555d869fd4970e" title="ORANGEFS_khandle_cmp" alt="" coords="985,532,1167,559"/>
+<area shape="rect" id="node20" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="1029,684,1123,711"/>
+<area shape="rect" id="node22" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="1007,633,1145,660"/>
+<area shape="rect" id="node21" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="1215,735,1353,761"/>
+<area shape="rect" id="node25" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="601,684,739,711"/>
+<area shape="rect" id="node27" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="1034,785,1118,812"/>
+</map>

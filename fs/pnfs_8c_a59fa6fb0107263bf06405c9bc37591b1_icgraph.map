@@ -1,0 +1,5 @@
+<map id="pnfs_wait_on_layoutreturn" name="pnfs_wait_on_layoutreturn">
+<area shape="rect" id="node2" href="$nfs4proc_8c.html#afb4423f0080b5cb7df632d0221655aaf" title="nfs4_wait_on_layoutreturn" alt="" coords="228,31,403,57"/>
+<area shape="rect" id="node3" href="$nfs4proc_8c.html#a0f7477675fa15849b039045e4e8d721c" title="nfs4_close_prepare" alt="" coords="467,5,602,32"/>
+<area shape="rect" id="node4" href="$nfs4proc_8c.html#af492ddfb9337d7df0034f07f3e2839f1" title="nfs4_delegreturn_prepare" alt="" coords="451,56,619,83"/>
+</map>

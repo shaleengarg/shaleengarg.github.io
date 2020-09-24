@@ -1,0 +1,8 @@
+<map id="exit_v2_quota_format" name="exit_v2_quota_format">
+<area shape="rect" id="node2" href="$dquot_8c.html#a9877c1f3da5e31e1edd759fdab838a60" title="unregister_quota_format" alt="" coords="391,5,553,32"/>
+<area shape="rect" id="node4" href="$quota__v2_8c.html#a766e95706553d7f71eb703fb084e2bf5" title="module_init" alt="" coords="227,43,315,69"/>
+<area shape="rect" id="node5" href="$quota__v2_8c.html#a1cd3e0c717400e5652c364dcc9ffd300" title="init_v2_quota_format" alt="" coords="200,93,343,120"/>
+<area shape="rect" id="node7" href="$quota__v2_8c.html#ad00e28609d35dc4a99c8b7a958da3981" title="module_exit" alt="" coords="225,144,317,171"/>
+<area shape="rect" id="node3" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="601,43,740,69"/>
+<area shape="rect" id="node6" href="$dquot_8c.html#a1b71cbddfc4aac8774d15a5422c08119" title="register_quota_format" alt="" coords="398,68,546,95"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="quota_setxquota" name="quota_setxquota">
+<area shape="rect" id="node2" href="$kqid_8c.html#a659b690ef6144cc72fa737b302a7f9e7" title="from_kqid" alt="" coords="208,5,287,32"/>
+<area shape="rect" id="node4" href="$quota_2quota_8c.html#a6ee3c931e3ac260921412d51ee6e565c" title="copy_qcinfo_from_xfs\l_dqblk" alt="" coords="172,57,323,98"/>
+<area shape="rect" id="node5" href="$quota_2quota_8c.html#a97bd41ca2d53b684aa7e9cbf4defc820" title="copy_from_xfs_dqblk" alt="" coords="174,123,321,149"/>
+<area shape="rect" id="node3" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="371,5,509,32"/>
+<area shape="rect" id="node6" href="$quota_2quota_8c.html#a4fa6e6face7c1dabb3c0995c77ab1ca4" title="quota_bbtob" alt="" coords="393,123,487,149"/>
+</map>

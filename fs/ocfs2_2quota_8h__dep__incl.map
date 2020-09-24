@@ -1,0 +1,8 @@
+<map id="ocfs2/quota.h" name="ocfs2/quota.h">
+<area shape="rect" id="node2" href="$dlmglue_8c.html" title="ocfs2/dlmglue.c" alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$ocfs2_2file_8c.html" title="ocfs2/file.c" alt="" coords="145,80,231,107"/>
+<area shape="rect" id="node4" href="$ocfs2_2journal_8c.html" title="ocfs2/journal.c" alt="" coords="256,80,363,107"/>
+<area shape="rect" id="node5" href="$quota__global_8c.html" title="ocfs2/quota_global.c" alt="" coords="387,80,530,107"/>
+<area shape="rect" id="node6" href="$quota__local_8c.html" title="ocfs2/quota_local.c" alt="" coords="554,80,689,107"/>
+<area shape="rect" id="node7" href="$ocfs2_2super_8c.html" title="ocfs2/super.c" alt="" coords="713,80,815,107"/>
+</map>

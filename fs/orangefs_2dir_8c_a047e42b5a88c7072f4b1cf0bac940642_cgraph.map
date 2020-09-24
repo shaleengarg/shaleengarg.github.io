@@ -1,0 +1,11 @@
+<map id="do_readdir" name="do_readdir">
+<area shape="rect" id="node2" href="$orangefs-bufmap_8c.html#a1580ff885301aea4fccbabb61c88cd58" title="orangefs_readdir_index_get" alt="" coords="136,85,317,112"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a8338c3dd4cff906f760af14d7784976e" title="service_operation" alt="" coords="165,136,289,163"/>
+<area shape="rect" id="node9" href="$orangefs-bufmap_8c.html#aaeb159454469c338608c027f7d41349e" title="orangefs_readdir_index_put" alt="" coords="136,223,317,249"/>
+<area shape="rect" id="node4" href="$orangefs-cache_8c.html#a8a102b5f87c53bfde730685934c9e164" title="get_opname_string" alt="" coords="399,5,531,32"/>
+<area shape="rect" id="node5" href="$devorangefs-req_8c.html#a8b2305809117ef60d5ada6c739a8768e" title="__is_daemon_in_service" alt="" coords="382,56,547,83"/>
+<area shape="rect" id="node6" href="$waitqueue_8c.html#a12d06040e19576e013f7e1073842e853" title="wait_for_matching_downcall" alt="" coords="371,107,558,133"/>
+<area shape="rect" id="node7" href="$orangefs-kernel_8h.html#ac9043d9d741f89a668ecf23b6182f953" title="orangefs_normalize\l_to_errno" alt="" coords="397,158,532,199"/>
+<area shape="rect" id="node8" href="$waitqueue_8c.html#aeb24c9a574f115456d667e1a721c672f" title="orangefs_clean_up_interrupted\l_operation" alt="" coords="365,223,564,265"/>
+<area shape="rect" id="node10" href="$orangefs-bufmap_8c.html#ae7af37ba2ab97a7a598771c9febc5605" title="put" alt="" coords="445,289,485,316"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ovl_dir_reset" name="ovl_dir_reset">
+<area shape="rect" id="node2" href="$overlayfs_8h.html#a68c8ba258e7cdcab2e8bf7df055261c0" title="ovl_dentry_version_get" alt="" coords="149,7,305,34"/>
+<area shape="rect" id="node4" href="$overlayfs_2readdir_8c.html#ada1dc99cb8cb6c79bdbdf7add4a117dc" title="ovl_cache_put" alt="" coords="174,83,281,110"/>
+<area shape="rect" id="node8" href="$overlayfs_2readdir_8c.html#ad784f24e0537ced3faf568a71dd3c431" title="ovl_dir_is_real" alt="" coords="175,159,280,186"/>
+<area shape="rect" id="node3" href="$ovl__entry_8h.html#aa841e714a900ca921bdda503ee671a34" title="OVL_I" alt="" coords="528,58,587,84"/>
+<area shape="rect" id="node5" href="$overlayfs_8h.html#a1f8cadb66dba03e5ff4ce18a637073e4" title="ovl_dir_cache" alt="" coords="365,32,468,59"/>
+<area shape="rect" id="node6" href="$overlayfs_8h.html#a827f9f1a9885e041a25c07761d4e80d1" title="ovl_set_dir_cache" alt="" coords="353,83,480,110"/>
+<area shape="rect" id="node7" href="$overlayfs_2readdir_8c.html#a09047d75a45b54af4e1ade553c473bd3" title="ovl_cache_free" alt="" coords="361,134,472,160"/>
+<area shape="rect" id="node9" href="$overlayfs_8h.html#af99238fcac7cea10d8b08da07e13ec7a" title="ovl_test_flag" alt="" coords="369,184,465,211"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="persistent_ram_ecc_old" name="persistent_ram_ecc_old">
+<area shape="rect" id="node2" href="$ram__core_8c.html#aa9d0704ff4c39d1f0266c754bf7f9a53" title="persistent_ram_save_old" alt="" coords="213,31,380,57"/>
+<area shape="rect" id="node3" href="$ram_8c.html#a4029861954c83a9dfeea942f7d5b9436" title="ramoops_get_next_prz" alt="" coords="433,5,587,32"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#a3ab1c6918026272d4a8fe8c279df8c39" title="persistent_ram_post_init" alt="" coords="428,56,592,83"/>
+<area shape="rect" id="node4" href="$ram_8c.html#aca4f4ae47164d659a233548fb11709d7" title="ramoops_pstore_read" alt="" coords="640,5,787,32"/>
+<area shape="rect" id="node6" href="$ram__core_8c.html#a95909e93550ea22c708ebdbc74ef5e90" title="persistent_ram_new" alt="" coords="644,56,783,83"/>
+<area shape="rect" id="node7" href="$ram_8c.html#a75982e55619c5db94b99fe9dc2caa529" title="ramoops_init_przs" alt="" coords="835,31,963,57"/>
+<area shape="rect" id="node9" href="$ram_8c.html#ae0b7ec5b1d1c052c4d6fa9f7ea970347" title="ramoops_init_prz" alt="" coords="838,81,959,108"/>
+<area shape="rect" id="node8" href="$ram_8c.html#a23560d3889a2859d02b0d939f20bd6de" title="ramoops_probe" alt="" coords="1011,56,1121,83"/>
+</map>

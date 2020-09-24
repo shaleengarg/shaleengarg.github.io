@@ -1,0 +1,6 @@
+<map id="afs_rx_attach" name="afs_rx_attach">
+<area shape="rect" id="node2" href="$rxrpc_8c.html#a854abf98ed5d55c171f9b5220ee41aeb" title="afs_charge_preallocation" alt="" coords="155,5,321,32"/>
+<area shape="rect" id="node3" href="$afs_2main_8c.html#ab6a4572f7db6bca3bff4781b3dfec4d9" title="afs_net_init" alt="" coords="539,5,628,32"/>
+<area shape="rect" id="node5" href="$rxrpc_8c.html#af70da4c877139da83e188b1e0cac2b1a" title="afs_open_socket" alt="" coords="369,31,491,57"/>
+<area shape="rect" id="node4" href="$afs_2main_8c.html#a6c32b7e048d19484ff1747eabb3cabae" title="afs_init" alt="" coords="676,5,740,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ocfs2_resv_discard" name="ocfs2_resv_discard">
+<area shape="rect" id="node2" href="$reservations_8c.html#a0da735688415da618d04088d007ed3fd" title="__ocfs2_resv_discard" alt="" coords="188,31,337,57"/>
+<area shape="rect" id="node3" href="$reservations_8c.html#afc2501da576b092a84651df700053a0b" title="__ocfs2_resv_trunc" alt="" coords="385,5,521,32"/>
+<area shape="rect" id="node4" href="$reservations_8c.html#af42930a575c5c3f0ccbce557b52fda2f" title="ocfs2_resv_remove" alt="" coords="385,56,521,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="get_proc_net" name="get_proc_net">
+<area shape="rect" id="node2" href="$proc__net_8c.html#a0496e6097ceba82ee581fc060a84c83d" title="seq_open_net" alt="" coords="157,5,260,32"/>
+<area shape="rect" id="node5" href="$proc__net_8c.html#a69f8c13972cc5be3c09cc2fc664863a4" title="single_open_net" alt="" coords="151,56,267,83"/>
+<area shape="rect" id="node3" href="$nfs_2internal_8h.html#af66937214a851f3a5a82b83a4707c795" title="nfs_clients_init" alt="" coords="315,5,424,32"/>
+<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a10f531049a981eae2ae80866bec66b7d" title="nfs_net_init" alt="" coords="472,5,561,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="proc_tgid_net_getattr" name="proc_tgid_net_getattr">
+<area shape="rect" id="node2" href="$proc__net_8c.html#a8eb4cae307554c87083f4f2d0757d0df" title="get_proc_task_net" alt="" coords="197,5,327,32"/>
+<area shape="rect" id="node5" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="211,56,313,83"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="409,5,479,32"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="561,5,633,32"/>
+<area shape="rect" id="node6" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="375,56,513,83"/>
+</map>

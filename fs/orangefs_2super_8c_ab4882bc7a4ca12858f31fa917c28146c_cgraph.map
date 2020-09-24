@@ -1,0 +1,5 @@
+<map id="orangefs_destroy_inode" name="orangefs_destroy_inode">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#adace367e43c5bcc39c91607a4452e535" title="ORANGEFS_I" alt="" coords="411,23,519,50"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a0fcaa10a86b300cf62d698fd6a87eedb" title="get_khandle_from_ino" alt="" coords="213,23,363,50"/>
+<area shape="rect" id="node4" href="$orangefs_2super_8c.html#acaa9ded93a55de9eed524d137baef6a6" title="orangefs_i_callback" alt="" coords="219,74,357,100"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="qgroup_update_counters" name="qgroup_update_counters">
+<area shape="rect" id="node2" href="$ulist_8c.html#a55010872110a7943c51e1eb9bf90fc5f" title="ulist_next" alt="" coords="253,5,332,32"/>
+<area shape="rect" id="node3" href="$qgroup_8c.html#aca9adca70cb98df7608ad74a69f71b09" title="unode_aux_to_qgroup" alt="" coords="218,56,367,83"/>
+<area shape="rect" id="node4" href="$qgroup_8c.html#adce15b866bc8102bbc66bebebc831754" title="btrfs_qgroup_get_old\l_refcnt" alt="" coords="221,107,364,149"/>
+<area shape="rect" id="node5" href="$qgroup_8c.html#a5d6ef776c51d05fbaac851ea7e361e09" title="btrfs_qgroup_get_new\l_refcnt" alt="" coords="217,173,368,214"/>
+<area shape="rect" id="node6" href="$qgroup_8c.html#a8de7f92358f79cc6f5fb0c461b11b7e5" title="qgroup_dirty" alt="" coords="246,239,339,265"/>
+</map>

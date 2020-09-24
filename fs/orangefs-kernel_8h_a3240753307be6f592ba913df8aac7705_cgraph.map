@@ -1,0 +1,6 @@
+<map id="is_root_handle" name="is_root_handle">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#a91df3d61cc89a1b9cc82bac75d468097" title="ORANGEFS_SB" alt="" coords="189,5,312,32"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a0fcaa10a86b300cf62d698fd6a87eedb" title="get_khandle_from_ino" alt="" coords="176,56,325,83"/>
+<area shape="rect" id="node5" href="$protocol_8h.html#a1b25a5e8623cbd6176555d869fd4970e" title="ORANGEFS_khandle_cmp" alt="" coords="160,107,341,133"/>
+<area shape="rect" id="node4" href="$orangefs-kernel_8h.html#adace367e43c5bcc39c91607a4452e535" title="ORANGEFS_I" alt="" coords="389,56,497,83"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="same_sockaddr" name="same_sockaddr">
+<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#a03f9a2042944119e6a2b69463ce7337b" title="_same_data_server_addrs\l_locked" alt="" coords="168,142,343,183"/>
+<area shape="rect" id="node3" href="$pnfs__nfs_8c.html#aa95c368da9113b52084b23af3486874b" title="_data_server_lookup\l_locked" alt="" coords="391,142,533,183"/>
+<area shape="rect" id="node4" href="$pnfs__nfs_8c.html#a63daacd3c2c627599d275d8095e49780" title="nfs4_pnfs_ds_add" alt="" coords="581,149,709,176"/>
+<area shape="rect" id="node5" href="$filelayoutdev_8c.html#a4720608ca51e459157e22424ae774d40" title="nfs4_fl_alloc_deviceid_node" alt="" coords="758,113,943,140"/>
+<area shape="rect" id="node21" href="$flexfilelayoutdev_8c.html#ae551eac69ecaeb425c035ca67e87183e" title="nfs4_ff_alloc_deviceid_node" alt="" coords="757,179,944,205"/>
+<area shape="rect" id="node6" href="$filelayout_8c.html#a45f50659e6dce7df0ae9828f6a2825cb" title="filelayout_alloc_deviceid_node" alt="" coords="992,55,1191,81"/>
+<area shape="rect" id="node7" href="$filelayout_8h.html#aaf914498c5f52de277fda3221e9d0915" title="filelayout_test_devid\l_invalid" alt="" coords="1021,106,1162,147"/>
+<area shape="rect" id="node8" href="$filelayout_8h.html#a979d7d65a3823e42f4e8dbb3e1e2c205" title="filelayout_test_devid\l_unavailable" alt="" coords="1247,99,1389,141"/>
+<area shape="rect" id="node9" href="$filelayout_8c.html#a9aa535a6b53d23db4ec1a2cd2e891e01" title="filelayout_reset_to_mds" alt="" coords="1453,56,1613,83"/>
+<area shape="rect" id="node12" href="$filelayout_8c.html#a84593ee96f36f27f69a5f543be78905f" title="filelayout_check_deviceid" alt="" coords="1447,107,1618,133"/>
+<area shape="rect" id="node16" href="$filelayoutdev_8c.html#ac105634bdd31ec2fbd5a602eeb5fff02" title="nfs4_fl_prepare_ds" alt="" coords="1467,165,1599,192"/>
+<area shape="rect" id="node10" href="$filelayout_8c.html#a792bfe3a83dea5d87d2c2f6b2ecd3edd" title="filelayout_read_prepare" alt="" coords="1671,5,1827,32"/>
+<area shape="rect" id="node11" href="$filelayout_8c.html#a2b9d463e38ade87841881b6ff14380ec" title="filelayout_write_prepare" alt="" coords="1669,56,1828,83"/>
+<area shape="rect" id="node13" href="$filelayout_8c.html#af24fa6785a79ae61b73fd6bd39736587" title="fl_pnfs_update_layout" alt="" coords="1674,107,1823,133"/>
+<area shape="rect" id="node14" href="$filelayout_8c.html#a6e4f6215c069d72867d4817de10f0a11" title="filelayout_pg_init_read" alt="" coords="1890,77,2041,104"/>
+<area shape="rect" id="node15" href="$filelayout_8c.html#a0c9cb211064aa6e9273bfab643102e90" title="filelayout_pg_init\l_write" alt="" coords="1906,129,2025,170"/>
+<area shape="rect" id="node17" href="$filelayout_8c.html#abce10f155961c21deb2a38c06c13ee48" title="filelayout_read_pagelist" alt="" coords="1669,157,1828,184"/>
+<area shape="rect" id="node18" href="$filelayout_8c.html#a978734591e9890e7724eca9d179ea383" title="filelayout_write_pagelist" alt="" coords="1668,208,1829,235"/>
+<area shape="rect" id="node19" href="$filelayout_8c.html#a0922e148882fea18aafa07652be72e52" title="filelayout_initiate\l_commit" alt="" coords="1689,259,1808,301"/>
+<area shape="rect" id="node20" href="$filelayout_8c.html#a2864d9d29f5de9f30c69eb86fca48739" title="filelayout_commit_pagelist" alt="" coords="1877,267,2053,293"/>
+<area shape="rect" id="node22" href="$flexfilelayout_2flexfilelayout_8c.html#abb9c44d0db84a6b6fd6330d3443bd2b5" title="ff_layout_alloc_deviceid_node" alt="" coords="993,179,1189,205"/>
+<area shape="rect" id="node23" href="$flexfilelayout_8h.html#afd0bd3890b2d226f05e4e3015e825572" title="nfs4_ff_layout_ds_version" alt="" coords="1004,241,1179,268"/>
+<area shape="rect" id="node24" href="$flexfilelayout_2flexfilelayout_8c.html#aadec16681f6a2a252e206debebaa8b2c" title="ff_layout_read_pagelist" alt="" coords="1240,216,1396,243"/>
+<area shape="rect" id="node25" href="$flexfilelayout_2flexfilelayout_8c.html#a3ee795a2ec62653ec018695104ee1d67" title="ff_layout_write_pagelist" alt="" coords="1239,267,1397,293"/>
+<area shape="rect" id="node26" href="$flexfilelayout_2flexfilelayout_8c.html#a6d8c871189dc67d9024fb9144837180b" title="ff_layout_initiate\l_commit" alt="" coords="1259,318,1377,359"/>
+<area shape="rect" id="node27" href="$flexfilelayout_2flexfilelayout_8c.html#afec203e64e262b648cd6f5e82723e7ac" title="ff_layout_commit_pagelist" alt="" coords="1445,325,1620,352"/>
+</map>

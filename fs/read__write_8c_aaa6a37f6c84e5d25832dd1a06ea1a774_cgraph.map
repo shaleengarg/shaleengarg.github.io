@@ -1,0 +1,6 @@
+<map id="do_iter_read" name="do_iter_read">
+<area shape="rect" id="node2" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="167,5,274,32"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="149,56,292,83"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="147,107,295,133"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="343,5,464,32"/>
+</map>

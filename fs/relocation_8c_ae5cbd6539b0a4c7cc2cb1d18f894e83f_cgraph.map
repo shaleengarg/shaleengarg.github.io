@@ -1,0 +1,12 @@
+<map id="drop_node_buffer" name="drop_node_buffer">
+<area shape="rect" id="node2" href="$relocation_8c.html#af662d29a997226518395fd109754118b" title="unlock_node_buffer" alt="" coords="176,5,311,32"/>
+<area shape="rect" id="node5" href="$extent__io_8c.html#ac7e005dca0ac3237f4627e4b63468bba" title="free_extent_buffer" alt="" coords="180,56,307,83"/>
+<area shape="rect" id="node3" href="$locking_8c.html#a21b4045191c3f61af033da14c294e7e6" title="btrfs_tree_unlock" alt="" coords="371,5,493,32"/>
+<area shape="rect" id="node4" href="$locking_8c.html#ab6aa419ebd229e967fff79065236cb79" title="btrfs_assert_tree_locked" alt="" coords="553,5,719,32"/>
+<area shape="rect" id="node6" href="$extent__io_8c.html#a1a013751a0b14ce9dfafe8760e418a85" title="extent_buffer_under_io" alt="" coords="767,60,921,87"/>
+<area shape="rect" id="node7" href="$extent__io_8c.html#a45f61ef40dd9a77cf2f49bfa500d2ce6" title="release_extent_buffer" alt="" coords="359,144,505,171"/>
+<area shape="rect" id="node8" href="$extent__io_8c.html#a664832bdb9196f366f7bae8d23fe6491" title="btrfs_release_extent\l_buffer_page" alt="" coords="566,107,706,149"/>
+<area shape="rect" id="node10" href="$extent__io_8c.html#ae5972708be74df23a5a9cafdd514b7c8" title="__free_extent_buffer" alt="" coords="773,203,915,229"/>
+<area shape="rect" id="node11" href="$extent__io_8c.html#a6f899034e3eb7e0649632be9a6cff7ba" title="btrfs_release_extent\l_buffer_rcu" alt="" coords="566,225,706,266"/>
+<area shape="rect" id="node9" href="$extent__io_8h.html#a04dba5c7fecd62f5173fe05d3deba25e" title="num_extent_pages" alt="" coords="778,115,910,141"/>
+</map>

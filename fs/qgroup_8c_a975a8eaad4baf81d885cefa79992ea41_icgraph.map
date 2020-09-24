@@ -1,0 +1,9 @@
+<map id="__del_qgroup_relation" name="__del_qgroup_relation">
+<area shape="rect" id="node2" href="$qgroup_8h.html#a5addb810bd151ccc3f27074dcfa29e97" title="btrfs_del_qgroup_relation" alt="" coords="201,17,368,43"/>
+<area shape="rect" id="node7" href="$qgroup_8h.html#a265669586d0e5ce3f05696383ea69553" title="btrfs_remove_qgroup" alt="" coords="213,71,357,98"/>
+<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a4652de0fea4d27cc830a968e2b0c3c49" title="btrfs_ioctl_qgroup\l_assign" alt="" coords="416,5,541,47"/>
+<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="589,46,668,73"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="716,46,891,73"/>
+<area shape="rect" id="node6" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="939,46,1036,73"/>
+<area shape="rect" id="node8" href="$btrfs_2ioctl_8c.html#a092e6be1c6af1135494168a207433b86" title="btrfs_ioctl_qgroup\l_create" alt="" coords="416,71,541,112"/>
+</map>

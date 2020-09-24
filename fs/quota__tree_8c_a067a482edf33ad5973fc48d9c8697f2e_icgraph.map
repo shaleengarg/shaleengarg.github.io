@@ -1,0 +1,7 @@
+<map id="find_block_dqentry" name="find_block_dqentry">
+<area shape="rect" id="node2" href="$quota__tree_8c.html#a70cb585c3bd4217f14710b51e42c8037" title="find_tree_dqentry" alt="" coords="184,31,307,57"/>
+<area shape="rect" id="node3" href="$quota__tree_8c.html#a6b9ca9938e790361d7d8891c632b64e4" title="find_dqentry" alt="" coords="355,31,448,57"/>
+<area shape="rect" id="node4" href="$quota__tree_8c.html#a422895d4ded416f42ac21779ecfbed7a" title="qtree_read_dquot" alt="" coords="496,31,619,57"/>
+<area shape="rect" id="node5" href="$quota__global_8c.html#ad6bb179ee20b575ef71007f5653b0fb0" title="ocfs2_acquire_dquot" alt="" coords="667,5,809,32"/>
+<area shape="rect" id="node6" href="$quota__v2_8c.html#a0be227310ee45d75e197d57bfa700137" title="v2_read_dquot" alt="" coords="685,56,791,83"/>
+</map>

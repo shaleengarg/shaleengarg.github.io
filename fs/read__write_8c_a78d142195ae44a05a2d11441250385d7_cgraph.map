@@ -1,0 +1,12 @@
+<map id="SYSCALL_DEFINE3" name="SYSCALL_DEFINE3">
+<area shape="rect" id="node2" href="$read__write_8c.html#aaf840818ef57cf9b2f6e153a8e58615b" title="ksys_read" alt="" coords="200,69,283,96"/>
+<area shape="rect" id="node10" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="214,132,269,159"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#ad750736343480b837f9b99a5df09a56d" title="file_pos_read" alt="" coords="341,5,439,32"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#ae2990ccc374ee3c52e0e80f82c95d985" title="vfs_read" alt="" coords="354,56,426,83"/>
+<area shape="rect" id="node9" href="$read__write_8c.html#ab528112d2981ac54b687f6dc3cd53ce5" title="file_pos_write" alt="" coords="339,107,441,133"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="497,31,604,57"/>
+<area shape="rect" id="node7" href="$read__write_8c.html#aaad08cb7a69ffa5dd39ecb2c25be9456" title="__vfs_read" alt="" coords="507,81,594,108"/>
+<area shape="rect" id="node6" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="652,31,773,57"/>
+<area shape="rect" id="node8" href="$read__write_8c.html#a3c8dee4a7ac07ac76e7f2269e90f0993" title="new_sync_read" alt="" coords="656,81,769,108"/>
+<area shape="rect" id="node11" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="331,157,449,184"/>
+</map>

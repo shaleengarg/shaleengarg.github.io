@@ -1,0 +1,11 @@
+<map id="_read_4_write_first_stripe" name="_read_4_write_first_stripe">
+<area shape="rect" id="node2" href="$ore__raid_8c.html#a897d2a534df9f65ab73211703c604023" title="_sp2d_min_pg" alt="" coords="212,5,319,32"/>
+<area shape="rect" id="node3" href="$ore__raid_8c.html#a8096fdd60f8cf582cd0d080acb0bcab6" title="_sp2d_max_pg" alt="" coords="210,56,321,83"/>
+<area shape="rect" id="node4" href="$ore_8c.html#ae964c3688be0194978ad149bdd783852" title="ore_calc_stripe_info" alt="" coords="393,120,532,147"/>
+<area shape="rect" id="node6" href="$ore__raid_8c.html#aeacdc0e947e843738ac797f8c587e872" title="_add_to_r4w_first_page" alt="" coords="185,157,345,184"/>
+<area shape="rect" id="node7" href="$ore__raid_8c.html#a67fbd84f44d354caf9cead89444275c1" title="_add_to_r4w" alt="" coords="415,208,511,235"/>
+<area shape="rect" id="node5" href="$ore_8c.html#a3a40092d96622c018306380323e84327" title="EXPORT_SYMBOL" alt="" coords="580,120,719,147"/>
+<area shape="rect" id="node8" href="$ore__raid_8c.html#a08f6b1e132f2ee7a57e0e5349f1188c2" title="_alloc_read_4_write" alt="" coords="581,183,718,209"/>
+<area shape="rect" id="node10" href="$ore__raid_8c.html#ad93976b12c9014bd15686b0ccacbe1cf" title="_ore_add_sg_seg" alt="" coords="587,233,711,260"/>
+<area shape="rect" id="node9" href="$ore_8c.html#a34941c4da810691be20a6b899ac4a703" title="_ore_get_io_state" alt="" coords="767,183,892,209"/>
+</map>

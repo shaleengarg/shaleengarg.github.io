@@ -1,0 +1,5 @@
+<map id="is_any_reiserfs_magic_string" name="is_any_reiserfs_magic_string">
+<area shape="rect" id="node2" href="$reiserfs_2super_8c.html#a937e529fcad9e49d48f1acadb75dc17e" title="read_super_block" alt="" coords="205,13,329,39"/>
+<area shape="rect" id="node3" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="377,13,501,39"/>
+<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="549,13,667,39"/>
+</map>

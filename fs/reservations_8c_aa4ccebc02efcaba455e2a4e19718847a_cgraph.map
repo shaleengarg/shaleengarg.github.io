@@ -1,0 +1,11 @@
+<map id="ocfs2_resmap_claimed_bits" name="ocfs2_resmap_claimed_bits">
+<area shape="rect" id="node2" href="$reservations_8c.html#a4b71987d7ee9bcb957d109055b907819" title="ocfs2_resmap_disabled" alt="" coords="239,5,397,32"/>
+<area shape="rect" id="node3" href="$reservations_8c.html#a4465fe47cda3837254e11d528e3a006f" title="ocfs2_resv_end" alt="" coords="464,60,579,87"/>
+<area shape="rect" id="node4" href="$reservations_8c.html#a0c17c2967d72780d1fdbecd8891b2ac5" title="ocfs2_adjust_resv_from\l_alloc" alt="" coords="237,107,399,149"/>
+<area shape="rect" id="node8" href="$reservations_8c.html#a973ca551600280f0969ab4f874428eda" title="ocfs2_resv_empty" alt="" coords="253,173,383,200"/>
+<area shape="rect" id="node9" href="$reservations_8c.html#a3185d419788ebbdb5054dd3b4c9f583c" title="ocfs2_resv_mark_lru" alt="" coords="247,224,389,251"/>
+<area shape="rect" id="node10" href="$reservations_8c.html#addf2e708c3cf70641d71b2187b662228" title="ocfs2_check_resmap" alt="" coords="245,275,391,301"/>
+<area shape="rect" id="node5" href="$reservations_8c.html#a0da735688415da618d04088d007ed3fd" title="__ocfs2_resv_discard" alt="" coords="447,115,596,141"/>
+<area shape="rect" id="node6" href="$reservations_8c.html#afc2501da576b092a84651df700053a0b" title="__ocfs2_resv_trunc" alt="" coords="644,89,780,116"/>
+<area shape="rect" id="node7" href="$reservations_8c.html#af42930a575c5c3f0ccbce557b52fda2f" title="ocfs2_resv_remove" alt="" coords="644,140,780,167"/>
+</map>

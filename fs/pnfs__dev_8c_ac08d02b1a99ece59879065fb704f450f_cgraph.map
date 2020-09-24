@@ -1,0 +1,9 @@
+<map id="nfs4_deviceid_purge_client" name="nfs4_deviceid_purge_client">
+<area shape="rect" id="node2" href="$pnfs__dev_8c.html#a441361bb6bd71513b3ea59147f216301" title="_deviceid_purge_client" alt="" coords="195,31,349,57"/>
+<area shape="rect" id="node3" href="$namespace_8c.html#a4786b355a12a9cccbb01d484ce49dfbe" title="HLIST_HEAD" alt="" coords="426,5,531,32"/>
+<area shape="rect" id="node4" href="$pnfs__dev_8c.html#a9947f60f634d516c83f55563b9de55ca" title="nfs4_put_deviceid_node" alt="" coords="397,56,560,83"/>
+<area shape="rect" id="node5" href="$pnfs__dev_8c.html#ad892a7ab19422c51794c8b138e1661f6" title="nfs4_delete_deviceid" alt="" coords="608,56,752,83"/>
+<area shape="rect" id="node8" href="$pnfs__dev_8c.html#a580b48a27275d9a1109e2e773d4fc0ca" title="EXPORT_SYMBOL_GPL" alt="" coords="800,107,972,133"/>
+<area shape="rect" id="node6" href="$pnfs__dev_8c.html#a962443d22d05c3e7d1f8c9de6272dcb3" title="_lookup_deviceid" alt="" coords="825,5,947,32"/>
+<area shape="rect" id="node7" href="$pnfs__dev_8c.html#aa60969b95f08c1b4e646a66803c21db6" title="nfs4_deviceid_hash" alt="" coords="817,56,955,83"/>
+</map>

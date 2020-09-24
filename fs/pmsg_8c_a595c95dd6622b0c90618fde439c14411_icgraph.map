@@ -1,0 +1,5 @@
+<map id="pmsg_devnode" name="pmsg_devnode">
+<area shape="rect" id="node2" href="$pmsg_8c.html#a42f3136f31b5277854d6a3fe268bc520" title="pstore_register_pmsg" alt="" coords="164,5,311,32"/>
+<area shape="rect" id="node3" href="$platform_8c.html#a41474fc2d746cbf31285aa7e7b3918d3" title="pstore_register" alt="" coords="359,5,467,32"/>
+<area shape="rect" id="node4" href="$ram_8c.html#a23560d3889a2859d02b0d939f20bd6de" title="ramoops_probe" alt="" coords="515,5,625,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="o2quo_disk_timeout" name="o2quo_disk_timeout">
+<area shape="rect" id="node2" href="$quorum_8c.html#a7168423d850d4ede8464b4e09e38b779" title="o2quo_fence_self" alt="" coords="192,29,316,56"/>
+<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a2c9160ad7d66f960a1b40eb18ff3b2d8" title="o2hb_stop_all_regions" alt="" coords="364,29,515,56"/>
+<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#aae9d726ce9c58d7e470f5e25f6ef316e" title="EXPORT_SYMBOL_GPL" alt="" coords="563,29,735,56"/>
+</map>

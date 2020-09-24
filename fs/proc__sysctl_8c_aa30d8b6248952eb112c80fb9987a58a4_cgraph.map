@@ -1,0 +1,8 @@
+<map id="proc_sys_poll" name="proc_sys_poll">
+<area shape="rect" id="node2" href="$proc__sysctl_8c.html#ac59e8a86e5a53223669dafaef5414358" title="grab_header" alt="" coords="175,56,268,83"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="361,5,433,32"/>
+<area shape="rect" id="node6" href="$proc__sysctl_8c.html#a6559533c10b2784dde30480cf7fa3063" title="sysctl_head_finish" alt="" coords="156,107,287,133"/>
+<area shape="rect" id="node4" href="$proc__sysctl_8c.html#a00ab308edb4af1f29e7607b412c0f970" title="sysctl_head_grab" alt="" coords="335,56,459,83"/>
+<area shape="rect" id="node5" href="$proc__sysctl_8c.html#ae86756ee907aace55b2e5ceb3547c61e" title="use_table" alt="" coords="507,56,585,83"/>
+<area shape="rect" id="node7" href="$proc__sysctl_8c.html#a13467dc9943f589845f46f23212e9bb5" title="unuse_table" alt="" coords="351,107,443,133"/>
+</map>

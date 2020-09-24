@@ -1,0 +1,10 @@
+<map id="persistent_ram_write" name="persistent_ram_write">
+<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="246,5,301,32"/>
+<area shape="rect" id="node4" href="$ram__core_8c.html#aee11942fa65d9747238b5a8f065c7135" title="buffer_size_add" alt="" coords="216,56,331,83"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#ac5da9d236fa74bff9b420f6818ef22f3" title="buffer_start_add" alt="" coords="215,107,331,133"/>
+<area shape="rect" id="node6" href="$ram__core_8c.html#abdfbd045927ad59225a0d58880ce07d4" title="persistent_ram_update" alt="" coords="196,157,351,184"/>
+<area shape="rect" id="node9" href="$ram__core_8c.html#a37161eb3af8258150ebbe3d40b9810b7" title="persistent_ram_update\l_header_ecc" alt="" coords="413,206,567,247"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="431,5,549,32"/>
+<area shape="rect" id="node7" href="$ram__core_8c.html#af5cdc77301ea40057c3e4817ae61b6b5" title="persistent_ram_update_ecc" alt="" coords="399,155,581,181"/>
+<area shape="rect" id="node8" href="$ram__core_8c.html#a63b2758438c80094d681056af6a02651" title="persistent_ram_encode_rs8" alt="" coords="629,184,812,211"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="__btrfs_add_ordered_extent" name="__btrfs_add_ordered_extent">
+<area shape="rect" id="node2" href="$ordered-data_8h.html#ae09dbff2f39dde08290aed67d3add1a6" title="btrfs_add_ordered_extent" alt="" coords="205,56,375,83"/>
+<area shape="rect" id="node14" href="$ordered-data_8h.html#a87dd02ae41339c491de604b12d4ab0b9" title="btrfs_add_ordered_extent_dio" alt="" coords="193,173,387,200"/>
+<area shape="rect" id="node19" href="$ordered-data_8h.html#a447ab16d0d557d9efd92e49204356ab1" title="btrfs_add_ordered_extent\l_compress" alt="" coords="205,107,375,149"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a6da305688fbd262d12431f6cc43e6146" title="cow_file_range" alt="" coords="459,56,569,83"/>
+<area shape="rect" id="node10" href="$btrfs_2inode_8c.html#a5675e0967c88243c5fd8aa12f5f7c1af" title="run_delalloc_nocow" alt="" coords="668,5,804,32"/>
+<area shape="rect" id="node11" href="$ordered-data_8h.html#ad20568759956e45d96b5e95a067f4eb1" title="btrfs_ordered_inode\l_tree_init" alt="" coords="446,158,582,199"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a74f018b55b86656ed4963ba3df9af6f9" title="submit_compressed_extents" alt="" coords="641,107,831,133"/>
+<area shape="rect" id="node7" href="$btrfs_2inode_8c.html#ac0e7e3ac85c1493a932820dcc802e352" title="run_delalloc_range" alt="" coords="1283,88,1413,115"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a5b23cdd0e70ea05086271f831533147d" title="async_cow_submit" alt="" coords="890,107,1025,133"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#ac61aa5eefe6f2c561396287cc84cc788" title="cow_file_range_async" alt="" coords="1084,107,1235,133"/>
+<area shape="rect" id="node8" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1461,125,1636,152"/>
+<area shape="rect" id="node9" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1684,125,1781,152"/>
+<area shape="rect" id="node12" href="$btrfs_2inode_8c.html#aca4351c60d0a69aec44c5b83c58eeab1" title="btrfs_alloc_inode" alt="" coords="676,161,796,188"/>
+<area shape="rect" id="node13" href="$btrfs_2super_8c.html#a7dda0b70a36d7c3e84ade918df9c872d" title="btrfs_show_devname" alt="" coords="884,161,1031,188"/>
+<area shape="rect" id="node15" href="$btrfs_2inode_8c.html#af0fbf6837f4c6b2478f86a7cd91a3315" title="btrfs_create_dio_extent" alt="" coords="435,224,593,251"/>
+<area shape="rect" id="node16" href="$btrfs_2inode_8c.html#a842c7b6a3573b0986d966d1ae76d7ca6" title="btrfs_new_extent_direct" alt="" coords="655,212,817,239"/>
+<area shape="rect" id="node17" href="$btrfs_2inode_8c.html#a2c5cb67ea30a5cc58b75eb54cef44d83" title="btrfs_get_blocks_direct" alt="" coords="879,212,1036,239"/>
+<area shape="rect" id="node18" href="$btrfs_2inode_8c.html#a1869f90c36006f835e877d01e5a419aa" title="btrfs_direct_IO" alt="" coords="1294,151,1402,177"/>
+</map>

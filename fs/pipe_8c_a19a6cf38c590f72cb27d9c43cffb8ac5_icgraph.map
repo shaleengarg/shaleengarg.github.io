@@ -1,0 +1,10 @@
+<map id="get_pipe_inode" name="get_pipe_inode">
+<area shape="rect" id="node2" href="$pipe_8c.html#a7a46b80545189e79484a92fdc52ab5bc" title="create_pipe_files" alt="" coords="163,31,283,57"/>
+<area shape="rect" id="node3" href="$coredump_8c.html#a26f3fd5ee9248e1c43e1527a0d7107b5" title="umh_pipe_setup" alt="" coords="331,5,448,32"/>
+<area shape="rect" id="node5" href="$pipe_8c.html#aaaae52a8b3138f6f4c161b380210a8c3" title="__do_pipe_flags" alt="" coords="331,56,447,83"/>
+<area shape="rect" id="node4" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="497,5,597,32"/>
+<area shape="rect" id="node6" href="$pipe_8c.html#a09c2037ce2adf2ff5cbf11dc77154dc7" title="do_pipe_flags" alt="" coords="496,56,599,83"/>
+<area shape="rect" id="node7" href="$pipe_8c.html#a08bb2e3a033e08b19a61ff38e6f82659" title="do_pipe2" alt="" coords="510,107,585,133"/>
+<area shape="rect" id="node8" href="$pipe_8c.html#af1ea323f4dfa04692af7bb08b9c17b71" title="SYSCALL_DEFINE2" alt="" coords="647,81,793,108"/>
+<area shape="rect" id="node9" href="$pipe_8c.html#a52ca91eebcfd93464c297cf6f6f8103a" title="SYSCALL_DEFINE1" alt="" coords="647,132,793,159"/>
+</map>

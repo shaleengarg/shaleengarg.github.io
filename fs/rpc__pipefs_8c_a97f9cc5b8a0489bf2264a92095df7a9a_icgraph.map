@@ -1,0 +1,5 @@
+<map id="nfs4blocklayout_register_sb" name="nfs4blocklayout_register_sb">
+<area shape="rect" id="node2" href="$rpc__pipefs_8c.html#ac12ceffe1d38ac9dc3cfff96088ead88" title="rpc_pipefs_event" alt="" coords="271,5,392,32"/>
+<area shape="rect" id="node3" href="$rpc__pipefs_8c.html#a3a78ca77e54a8e5fed1343549bc85633" title="nfs4blocklayout_register_net" alt="" coords="237,56,425,83"/>
+<area shape="rect" id="node4" href="$rpc__pipefs_8c.html#a86355019077253737f3b0ffab1e87f5d" title="nfs4blocklayout_net_init" alt="" coords="473,56,636,83"/>
+</map>

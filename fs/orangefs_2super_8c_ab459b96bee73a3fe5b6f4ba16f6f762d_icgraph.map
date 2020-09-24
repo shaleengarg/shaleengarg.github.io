@@ -1,0 +1,9 @@
+<map id="orangefs_inode_cache_ctor" name="orangefs_inode_cache_ctor">
+<area shape="rect" id="node2" href="$orangefs_2super_8c.html#ab7b9c24fe4072dc60e0e441238d466fb" title="orangefs_inode_cache\l_initialize" alt="" coords="235,31,387,72"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="808,13,911,39"/>
+<area shape="rect" id="node6" href="$orangefs-mod_8c.html#a9addc6afc800829869b322de49d1a319" title="orangefs_init" alt="" coords="435,63,531,90"/>
+<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="991,5,1125,47"/>
+<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="1173,13,1323,39"/>
+<area shape="rect" id="node7" href="$orangefs-mod_8c.html#a1d032a846e41a91bbf925730ee3afe28" title="purge_inprogress_ops" alt="" coords="579,63,728,90"/>
+<area shape="rect" id="node8" href="$devorangefs-req_8c.html#ab6f0208c8d5234794d7cc69d34ccfae3" title="orangefs_devreq_release" alt="" coords="776,63,943,90"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="update_stat_data" name="update_stat_data">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#a30ddb3ce24367e8fb417d778a1f1113c" title="tp_item_head" alt="" coords="186,5,286,32"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#aa5f0b311a6ed68bfb09d068352c9b24d" title="is_statdata_le_ih" alt="" coords="176,56,296,83"/>
+<area shape="rect" id="node11" href="$reiserfs_2inode_8c.html#a50db697c12f4628b5cd2887fc31ba09c" title="inode2sd_v1" alt="" coords="189,157,283,184"/>
+<area shape="rect" id="node17" href="$reiserfs_8h.html#a8f5f18c01d13554cd8e3589f3cf48ffe" title="ih_item_body" alt="" coords="187,208,285,235"/>
+<area shape="rect" id="node18" href="$reiserfs_2inode_8c.html#a33a4d6eee68df44f9fe1bc32e7a15e86" title="inode2sd" alt="" coords="199,107,273,133"/>
+<area shape="rect" id="node3" href="$reiserfs_8h.html#af605ee607cdcf8f8bc2e661160f1d5d5" title="item_head" alt="" coords="375,5,458,32"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="537,5,669,32"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#ad8221357dc80c0f8d4f0425625aac410" title="is_statdata_le_key" alt="" coords="351,56,482,83"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="550,56,657,83"/>
+<area shape="rect" id="node8" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="727,56,847,83"/>
+<area shape="rect" id="node10" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="725,5,848,32"/>
+<area shape="rect" id="node9" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="904,56,1024,83"/>
+<area shape="rect" id="node12" href="$reiserfs_2inode_8c.html#aa50990654d307c65e2406d29fa82e9f7" title="to_fake_used_blocks" alt="" coords="344,107,489,133"/>
+<area shape="rect" id="node16" href="$reiserfs_8h.html#a54c4b0f2afaa082072400dec2264284e" title="REISERFS_I" alt="" coords="366,157,467,184"/>
+<area shape="rect" id="node13" href="$stat_8c.html#af51351c35bfe6e13ddd4351a02d97f43" title="inode_get_bytes" alt="" coords="545,107,662,133"/>
+<area shape="rect" id="node15" href="$reiserfs_2inode_8c.html#a353e9a825795848786bca75dbf432932" title="real_space_diff" alt="" coords="548,157,659,184"/>
+<area shape="rect" id="node14" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="717,107,856,133"/>
+</map>

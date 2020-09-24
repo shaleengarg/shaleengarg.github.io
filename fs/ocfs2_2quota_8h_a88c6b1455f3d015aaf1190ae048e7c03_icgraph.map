@@ -1,0 +1,7 @@
+<map id="ocfs2_sync_dquot" name="ocfs2_sync_dquot">
+<area shape="rect" id="node2" href="$quota__global_8c.html#af409071339c913eadfbb020bd49bac4f" title="ocfs2_sync_dquot_helper" alt="" coords="181,5,352,32"/>
+<area shape="rect" id="node6" href="$quota__global_8c.html#a246349aafee299e6070c65ebac98a4be" title="ocfs2_mark_dquot_dirty" alt="" coords="186,56,347,83"/>
+<area shape="rect" id="node3" href="$quota__global_8c.html#a3fd3ede833d0397b3581295b0a3ea20d" title="qsync_work_fn" alt="" coords="400,5,511,32"/>
+<area shape="rect" id="node4" href="$quota__global_8c.html#ae7036338db1fce20d88e2ce066516c04" title="ocfs2_global_read_info" alt="" coords="559,5,713,32"/>
+<area shape="rect" id="node5" href="$quota__local_8c.html#a990f715c1b700666b5152bacab25139d" title="ocfs2_local_read_info" alt="" coords="761,5,909,32"/>
+</map>

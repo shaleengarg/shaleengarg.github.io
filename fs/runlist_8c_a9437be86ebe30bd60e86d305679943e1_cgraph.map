@@ -1,0 +1,6 @@
+<map id="ntfs_rl_vcn_to_lcn" name="ntfs_rl_vcn_to_lcn">
+<area shape="rect" id="node2" href="$malloc_8h.html#ab6824be4d6e004aa075b1fe66fd0d737" title="ntfs_free" alt="" coords="356,5,429,32"/>
+<area shape="rect" id="node3" href="$malloc_8h.html#a0ec96764a4b9b46c2cd4a78abea5ed5d" title="ntfs_malloc_nofs" alt="" coords="332,68,453,95"/>
+<area shape="rect" id="node5" href="$runlist_8c.html#a7597afce0c5c77abf6cea59dd4c42117" title="ntfs_rl_realloc" alt="" coords="181,31,284,57"/>
+<area shape="rect" id="node4" href="$malloc_8h.html#ade7393d4add4f921117b419938accfb2" title="__ntfs_malloc" alt="" coords="501,68,604,95"/>
+</map>

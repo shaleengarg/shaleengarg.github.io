@@ -1,0 +1,5 @@
+<map id="persistent_ram_old_size" name="persistent_ram_old_size">
+<area shape="rect" id="node2" href="$ram_8c.html#a4029861954c83a9dfeea942f7d5b9436" title="ramoops_get_next_prz" alt="" coords="216,5,371,32"/>
+<area shape="rect" id="node3" href="$ram_8c.html#aca4f4ae47164d659a233548fb11709d7" title="ramoops_pstore_read" alt="" coords="419,56,565,83"/>
+<area shape="rect" id="node4" href="$ram_8c.html#a9fb89062053544ea5e46a52188634c80" title="prz_ok" alt="" coords="263,107,324,133"/>
+</map>

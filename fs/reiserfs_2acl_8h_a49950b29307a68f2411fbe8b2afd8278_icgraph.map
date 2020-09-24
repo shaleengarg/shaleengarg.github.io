@@ -1,0 +1,5 @@
+<map id="reiserfs_acl_chmod" name="reiserfs_acl_chmod">
+<area shape="rect" id="node2" href="$reiserfs_2acl_8h.html#a8ccef80cfe203a867ae77e2b4546a974" title="reiserfs_acl_count" alt="" coords="188,13,316,39"/>
+<area shape="rect" id="node3" href="$xattr__acl_8c.html#a33c48cbc02c9778b16713c5dd1693793" title="reiserfs_posix_acl\l_from_disk" alt="" coords="364,5,491,47"/>
+<area shape="rect" id="node4" href="$xattr__acl_8c.html#a5a1626eb51aaf7ebef58bd025a106e18" title="reiserfs_get_acl" alt="" coords="539,13,653,39"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="process_extent_item" name="process_extent_item">
+<area shape="rect" id="node2" href="$ctree_8h.html#a8d3b0e65dcaa22dc48ecdf44b80834e7" title="btrfs_item_size_nr" alt="" coords="203,5,332,32"/>
+<area shape="rect" id="node5" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="422,64,477,91"/>
+<area shape="rect" id="node7" href="$ref-verify_8c.html#a88c7a84a106ff1e18361ce442ae52810" title="add_tree_block" alt="" coords="212,173,323,200"/>
+<area shape="rect" id="node16" href="$ref-verify_8c.html#ac2183eb08150cbcb01dee9a182238256" title="add_extent_data_ref" alt="" coords="197,224,337,251"/>
+<area shape="rect" id="node17" href="$ref-verify_8c.html#a09623d4975cf9dc433d9ccae345c37cb" title="add_shared_data_ref" alt="" coords="196,275,339,301"/>
+<area shape="rect" id="node18" href="$ctree_8h.html#afbcffd692d8a5f49e66f7901f2275eb2" title="btrfs_extent_inline\l_ref_size" alt="" coords="203,107,331,149"/>
+<area shape="rect" id="node3" href="$ctree_8h.html#aad867f4552c091bfa4750ed550368fdb" title="btrfs_item_nr" alt="" coords="400,5,499,32"/>
+<area shape="rect" id="node4" href="$ctree_8h.html#a3407693b57c548a868dcd19a94286eea" title="btrfs_item_nr_offset" alt="" coords="560,5,699,32"/>
+<area shape="rect" id="node6" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="570,64,689,91"/>
+<area shape="rect" id="node8" href="$ref-verify_8c.html#aeacc18173a366d7ecd0a22c18d000c9d" title="add_block_entry" alt="" coords="391,224,508,251"/>
+<area shape="rect" id="node11" href="$ref-verify_8c.html#a1a7457792ac75dad2b685f031d5364b0" title="lookup_root_entry" alt="" coords="387,173,512,200"/>
+<area shape="rect" id="node14" href="$ref-verify_8c.html#a955803c5d0385e3f420a549ebcf7e6d9" title="insert_ref_entry" alt="" coords="393,275,505,301"/>
+<area shape="rect" id="node9" href="$ref-verify_8c.html#a947a57760ecef298345b3546497ea110" title="insert_block_entry" alt="" coords="565,224,693,251"/>
+<area shape="rect" id="node10" href="$ref-verify_8c.html#a55fdcbe1a0bb35c18ddf1aff8bca1fde" title="insert_root_entry" alt="" coords="570,275,689,301"/>
+<area shape="rect" id="node12" href="$ref-verify_8c.html#aaf71872dcfcf7f47d29ce7409706381a" title="__save_stack_trace" alt="" coords="560,173,699,200"/>
+<area shape="rect" id="node13" href="$ref-verify_8c.html#afb8d8ed2b452f30cedcdcd7d8d69ae75" title="__print_stack_trace" alt="" coords="561,123,697,149"/>
+<area shape="rect" id="node15" href="$ref-verify_8c.html#a8900e178285251a18693393846fbbd31" title="comp_refs" alt="" coords="588,325,671,352"/>
+</map>

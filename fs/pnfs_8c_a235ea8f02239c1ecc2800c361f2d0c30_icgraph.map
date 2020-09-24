@@ -1,0 +1,8 @@
+<map id="pnfs_register_layoutdriver" name="pnfs_register_layoutdriver">
+<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html#a2fed9d10e98b85f1aa87c4063daab474" title="nfs4blocklayout_init" alt="" coords="227,5,365,32"/>
+<area shape="rect" id="node4" href="$filelayout_8c.html#a597687dfcd0c057bac110d8387351b46" title="nfs4filelayout_init" alt="" coords="235,56,357,83"/>
+<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#a671615794992a2677d7067ad7ae82025" title="nfs4flexfilelayout_init" alt="" coords="224,107,368,133"/>
+<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#ab5564c24e3c3b456aa7da7699ba1c136" title="nfs4blocklayout_exit" alt="" coords="419,5,561,32"/>
+<area shape="rect" id="node5" href="$filelayout_8c.html#a4860a3172796d8d3417150a9141f0308" title="nfs4filelayout_exit" alt="" coords="427,56,553,83"/>
+<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a2a6fd62cdadda896ba85410bae5eb547" title="nfs4flexfilelayout_exit" alt="" coords="416,107,564,133"/>
+</map>

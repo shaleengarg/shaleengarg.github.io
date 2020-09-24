@@ -1,0 +1,9 @@
+<map id="le_key2cpu_key" name="le_key2cpu_key">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#addd3f441c6f82ae08002a90f19877170" title="le_key_version" alt="" coords="172,56,281,83"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#abecc4f6ccf3ea24d7c84b1732769f8c2" title="le_key_k_offset" alt="" coords="169,5,284,32"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="173,107,280,133"/>
+<area shape="rect" id="node3" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="336,56,459,83"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#a67e0e7a33f122df8324e635d7d1eed04" title="offset_v2_k_offset" alt="" coords="332,5,463,32"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="337,107,457,133"/>
+<area shape="rect" id="node8" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="511,107,631,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="proc_sys_read" name="proc_sys_read">
+<area shape="rect" id="node2" href="$proc__sysctl_8c.html#abe6cfefc3a1c0058045a07400e2a16e7" title="proc_sys_call_handler" alt="" coords="160,107,311,133"/>
+<area shape="rect" id="node3" href="$proc__sysctl_8c.html#ac59e8a86e5a53223669dafaef5414358" title="grab_header" alt="" coords="377,56,471,83"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="563,5,635,32"/>
+<area shape="rect" id="node7" href="$proc__sysctl_8c.html#a886920b00ecb976050fa2fd2ea74641c" title="sysctl_perm" alt="" coords="377,107,471,133"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="397,157,451,184"/>
+<area shape="rect" id="node11" href="$proc__sysctl_8c.html#a6559533c10b2784dde30480cf7fa3063" title="sysctl_head_finish" alt="" coords="359,208,489,235"/>
+<area shape="rect" id="node5" href="$proc__sysctl_8c.html#a00ab308edb4af1f29e7607b412c0f970" title="sysctl_head_grab" alt="" coords="537,56,661,83"/>
+<area shape="rect" id="node6" href="$proc__sysctl_8c.html#ae86756ee907aace55b2e5ceb3547c61e" title="use_table" alt="" coords="709,56,788,83"/>
+<area shape="rect" id="node8" href="$proc__sysctl_8c.html#a5f9104cd991cb5620374154632353570" title="test_perm" alt="" coords="559,107,639,133"/>
+<area shape="rect" id="node10" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="540,157,659,184"/>
+<area shape="rect" id="node12" href="$proc__sysctl_8c.html#a13467dc9943f589845f46f23212e9bb5" title="unuse_table" alt="" coords="553,208,645,235"/>
+</map>

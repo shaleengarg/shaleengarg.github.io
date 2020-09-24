@@ -1,0 +1,14 @@
+<map id="get_left_neighbor" name="get_left_neighbor">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#a30ddb3ce24367e8fb417d778a1f1113c" title="tp_item_head" alt="" coords="351,5,451,32"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#a3b09748c0965c583099242d6b0b15901" title="tp_item_body" alt="" coords="182,56,282,83"/>
+<area shape="rect" id="node8" href="$reiserfs_8h.html#af0039763222cd55a130cb04b227f84b9" title="is_indirect_le_ih" alt="" coords="175,107,289,133"/>
+<area shape="rect" id="node3" href="$reiserfs_8h.html#af605ee607cdcf8f8bc2e661160f1d5d5" title="item_head" alt="" coords="524,5,607,32"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="667,5,799,32"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#ae31c47945bf7fcdeb2d305fe3d6c18c3" title="item_body" alt="" coords="359,56,442,83"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#a8f5f18c01d13554cd8e3589f3cf48ffe" title="ih_item_body" alt="" coords="516,56,615,83"/>
+<area shape="rect" id="node9" href="$reiserfs_8h.html#ad500ee6be538ab9e5e4c4782444949a9" title="is_indirect_le_key" alt="" coords="337,107,464,133"/>
+<area shape="rect" id="node10" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="512,107,619,133"/>
+<area shape="rect" id="node11" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="673,81,793,108"/>
+<area shape="rect" id="node13" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="671,132,794,159"/>
+<area shape="rect" id="node12" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="847,81,967,108"/>
+</map>

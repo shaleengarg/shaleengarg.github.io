@@ -1,0 +1,8 @@
+<map id="pstore_set_kmsg_bytes" name="pstore_set_kmsg_bytes">
+<area shape="rect" id="node2" href="$pstore_2inode_8c.html#afa10791f9ac690834170789b65d72757" title="parse_options" alt="" coords="244,56,347,83"/>
+<area shape="rect" id="node6" href="$pstore_2internal_8h.html#a0c00326359d012a4e0c21e5f163c3932" title="pstore_unregister_pmsg" alt="" coords="215,107,376,133"/>
+<area shape="rect" id="node3" href="$pstore_2inode_8c.html#aea7321e88bddcf8db22a208ba7e606b0" title="pstore_remount" alt="" coords="449,5,561,32"/>
+<area shape="rect" id="node4" href="$pstore_2inode_8c.html#a1a941df5e64e5388d72ad01ca068eb70" title="pstore_fill_super" alt="" coords="447,56,564,83"/>
+<area shape="rect" id="node5" href="$pstore_2inode_8c.html#af5ca74b98740d3baefff72190910057b" title="pstore_mount" alt="" coords="635,56,736,83"/>
+<area shape="rect" id="node7" href="$pstore_2internal_8h.html#aef7ae4f5a78ba3cb98d35908a45b0156" title="pstore_unregister_ftrace" alt="" coords="424,107,587,133"/>
+</map>

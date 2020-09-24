@@ -1,0 +1,25 @@
+var quota__v1_8c =
+[
+    [ "v2_disk_dqheader", "structv2__disk__dqheader.html", "structv2__disk__dqheader" ],
+    [ "QUOTABLOCK_BITS", "quota__v1_8c.html#a1d5f1d7b6f4c5296a675b09b48e73711", null ],
+    [ "QUOTABLOCK_SIZE", "quota__v1_8c.html#a05affadb9a45fdda93fb537abed2fa8a", null ],
+    [ "V2_INITQMAGICS", "quota__v1_8c.html#a5013fdb80e1ed7cfa02feafa46691012", null ],
+    [ "exit_v1_quota_format", "quota__v1_8c.html#a88a43346538ecf3e370fc828aaa2bc39", null ],
+    [ "init_v1_quota_format", "quota__v1_8c.html#a8ad34c87674a948773053eae950119cd", null ],
+    [ "MODULE_AUTHOR", "quota__v1_8c.html#a3b99428c23240ab802539a6f34ec5879", null ],
+    [ "MODULE_DESCRIPTION", "quota__v1_8c.html#aac7d6db5b4d687761317664db529ee02", null ],
+    [ "module_exit", "quota__v1_8c.html#a843a1c2029913a75e65ea99478a84ea1", null ],
+    [ "module_init", "quota__v1_8c.html#ac26fe189fa5f57dae4aa988afc6c9b7d", null ],
+    [ "MODULE_LICENSE", "quota__v1_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44", null ],
+    [ "v1_check_quota_file", "quota__v1_8c.html#add143507a8b7bbae298480aa8a0adef4", null ],
+    [ "v1_commit_dqblk", "quota__v1_8c.html#af19dcbac096faf6f28684e8002e4f051", null ],
+    [ "v1_disk2mem_dqblk", "quota__v1_8c.html#ab37d7d6b615917b7ebfaa8d73b336529", null ],
+    [ "v1_mem2disk_dqblk", "quota__v1_8c.html#a7426b832296a48e05bfce1ba9a64d407", null ],
+    [ "v1_qbtos", "quota__v1_8c.html#a2b055a63dbdd3d3b2e2a720f1e931975", null ],
+    [ "v1_read_dqblk", "quota__v1_8c.html#ada0ccc6869f8b5a8b53fa601c5967647", null ],
+    [ "v1_read_file_info", "quota__v1_8c.html#a832097821273d50afebec75e23c1bbdf", null ],
+    [ "v1_stoqb", "quota__v1_8c.html#a1bc82a88c1f4a166cb497e586463ff0e", null ],
+    [ "v1_write_file_info", "quota__v1_8c.html#adce1a33edd8eb284aa1152333b89584c", null ],
+    [ "v1_format_ops", "quota__v1_8c.html#a3de91885ab833f870e337690b1b210a4", null ],
+    [ "v1_quota_format", "quota__v1_8c.html#ab30fe4afb2a67ddd296b4f1b6a3eb776", null ]
+];

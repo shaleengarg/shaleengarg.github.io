@@ -1,0 +1,19 @@
+<map id="btrfs/relocation.c" name="btrfs/relocation.c">
+<area shape="rect" id="node8" href="$ctree_8h.html" title="ctree.h" alt="" coords="1897,304,1959,331"/>
+<area shape="rect" id="node33" href="$async-thread_8h.html" title="async&#45;thread.h" alt="" coords="3567,379,3675,405"/>
+<area shape="rect" id="node34" href="$disk-io_8h.html" title="disk&#45;io.h" alt="" coords="3825,80,3895,107"/>
+<area shape="rect" id="node35" href="$transaction_8h.html" title="transaction.h" alt="" coords="1879,80,1977,107"/>
+<area shape="rect" id="node36" href="$btrfs__inode_8h.html" title="btrfs_inode.h" alt="" coords="491,155,589,181"/>
+<area shape="rect" id="node43" href="$volumes_8h.html" title="volumes.h" alt="" coords="3580,304,3663,331"/>
+<area shape="rect" id="node46" href="$locking_8h.html" title="locking.h" alt="" coords="3920,80,3995,107"/>
+<area shape="rect" id="node47" href="$free-space-cache_8h.html" title="free&#45;space&#45;cache.h" alt="" coords="4019,80,4152,107"/>
+<area shape="rect" id="node48" href="$inode-map_8h.html" title="inode&#45;map.h" alt="" coords="4176,80,4269,107"/>
+<area shape="rect" id="node49" href="$qgroup_8h.html" title="qgroup.h" alt="" coords="3356,80,3428,107"/>
+<area shape="rect" id="node50" href="$print-tree_8h.html" title="print&#45;tree.h" alt="" coords="4294,80,4378,107"/>
+<area shape="rect" id="node29" href="$extent__io_8h.html" title="extent_io.h" alt="" coords="659,379,746,405"/>
+<area shape="rect" id="node32" href="$btrfs_2extent__map_8h.html" title="extent_map.h" alt="" coords="432,379,533,405"/>
+<area shape="rect" id="node30" href="$ulist_8h.html" title="ulist.h" alt="" coords="723,453,781,480"/>
+<area shape="rect" id="node42" href="$delayed-ref_8h.html" title="delayed&#45;ref.h" alt="" coords="3279,155,3377,181"/>
+<area shape="rect" id="node38" href="$ordered-data_8h.html" title="ordered&#45;data.h" alt="" coords="397,229,502,256"/>
+<area shape="rect" id="node39" href="$delayed-inode_8h.html" title="delayed&#45;inode.h" alt="" coords="589,229,702,256"/>
+</map>

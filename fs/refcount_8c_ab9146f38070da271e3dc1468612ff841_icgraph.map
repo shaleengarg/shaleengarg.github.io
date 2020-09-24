@@ -1,0 +1,15 @@
+<map id="xfs_scrub_xref_is_cow_staging" name="xfs_scrub_xref_is_cow_staging">
+<area shape="rect" id="node2" href="$xfs_2scrub_2bmap_8c.html#a007afb1fa1289d9ea92d573147120693" title="xfs_scrub_bmap_extent_xref" alt="" coords="209,81,400,108"/>
+<area shape="rect" id="node10" href="$rmap_8c.html#a4f636bec3b5b5dc1545198a2c0a2ed71" title="xfs_scrub_rmapbt_xref" alt="" coords="227,132,382,159"/>
+<area shape="rect" id="node13" href="$scrub_8h.html#aceb5d59c9b9b925f47590887d84de7b6" title="xfs_scrub_quota" alt="" coords="245,183,364,209"/>
+<area shape="rect" id="node3" href="$xfs_2scrub_2bmap_8c.html#a473985f7c76ab6604077f9493f63e27c" title="xfs_scrub_bmap_extent" alt="" coords="448,81,609,108"/>
+<area shape="rect" id="node4" href="$xfs_2scrub_2bmap_8c.html#a1ef45d92fa7f03747976d1294cf61109" title="xfs_scrub_bmapbt_rec" alt="" coords="657,31,812,57"/>
+<area shape="rect" id="node6" href="$xfs_2scrub_2bmap_8c.html#ad507051d7103761fdb69e0fa26f9f807" title="xfs_scrub_bmap" alt="" coords="1063,56,1181,83"/>
+<area shape="rect" id="node5" href="$xfs_2scrub_2bmap_8c.html#af97a8054e62ad5f5b17880159f054aa3" title="xfs_scrub_bmap_btree" alt="" coords="860,31,1015,57"/>
+<area shape="rect" id="node7" href="$scrub_8h.html#af0fca61090342c08a14e93a08f5a59c8" title="xfs_scrub_bmap_data" alt="" coords="1229,5,1380,32"/>
+<area shape="rect" id="node8" href="$scrub_8h.html#ab50208534e77cd39560b29700d9e3887" title="xfs_scrub_bmap_attr" alt="" coords="1233,56,1377,83"/>
+<area shape="rect" id="node9" href="$scrub_8h.html#a09839a0df862dc5219a565d06363f249" title="xfs_scrub_bmap_cow" alt="" coords="1230,107,1379,133"/>
+<area shape="rect" id="node11" href="$rmap_8c.html#ab8a05ab8b390f450d708f55edd09277a" title="xfs_scrub_rmapbt_rec" alt="" coords="453,132,604,159"/>
+<area shape="rect" id="node12" href="$scrub_8h.html#a54a95024c401192401fbcc38a5cc9205" title="xfs_scrub_rmapbt" alt="" coords="671,132,798,159"/>
+<area shape="rect" id="node14" href="$scrub_8h.html#a5d8b096bf6bf4172f95615819219b147" title="xfs_scrub_rtsummary" alt="" coords="455,183,603,209"/>
+</map>

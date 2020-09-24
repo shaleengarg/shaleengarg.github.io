@@ -1,0 +1,15 @@
+<map id="orangefs_inode_setxattr" name="orangefs_inode_setxattr">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#adace367e43c5bcc39c91607a4452e535" title="ORANGEFS_I" alt="" coords="457,56,565,83"/>
+<area shape="rect" id="node3" href="$orangefs_2xattr_8c.html#ab467bf302745bfdf0868842087686bb4" title="convert_to_internal\l_xattr_flags" alt="" coords="242,310,374,351"/>
+<area shape="rect" id="node4" href="$orangefs_2xattr_8c.html#aec5e850914c1fc4f5b73ba5842db9ab0" title="orangefs_inode_removexattr" alt="" coords="215,157,401,184"/>
+<area shape="rect" id="node5" href="$orangefs-cache_8c.html#aea1a441643b8e8de279c90184b3d0a47" title="op_alloc" alt="" coords="476,107,547,133"/>
+<area shape="rect" id="node8" href="$orangefs-kernel_8h.html#a8338c3dd4cff906f760af14d7784976e" title="service_operation" alt="" coords="449,208,573,235"/>
+<area shape="rect" id="node13" href="$orangefs-cache_8c.html#a6427cec67a6111012e85e31c6bab5df8" title="op_release" alt="" coords="469,259,554,285"/>
+<area shape="rect" id="node14" href="$orangefs-kernel_8h.html#a0fcaa10a86b300cf62d698fd6a87eedb" title="get_khandle_from_ino" alt="" coords="233,5,383,32"/>
+<area shape="rect" id="node6" href="$orangefs-cache_8c.html#aafd7b643bbd9e93c8bce63391ee7c1b1" title="orangefs_new_tag" alt="" coords="657,56,785,83"/>
+<area shape="rect" id="node7" href="$orangefs-cache_8c.html#a8a102b5f87c53bfde730685934c9e164" title="get_opname_string" alt="" coords="655,107,787,133"/>
+<area shape="rect" id="node9" href="$devorangefs-req_8c.html#a8b2305809117ef60d5ada6c739a8768e" title="__is_daemon_in_service" alt="" coords="638,289,803,316"/>
+<area shape="rect" id="node10" href="$waitqueue_8c.html#a12d06040e19576e013f7e1073842e853" title="wait_for_matching_downcall" alt="" coords="627,340,814,367"/>
+<area shape="rect" id="node11" href="$orangefs-kernel_8h.html#ac9043d9d741f89a668ecf23b6182f953" title="orangefs_normalize\l_to_errno" alt="" coords="653,158,788,199"/>
+<area shape="rect" id="node12" href="$waitqueue_8c.html#aeb24c9a574f115456d667e1a721c672f" title="orangefs_clean_up_interrupted\l_operation" alt="" coords="621,223,820,265"/>
+</map>

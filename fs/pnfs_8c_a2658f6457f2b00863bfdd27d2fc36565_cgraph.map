@@ -1,0 +1,12 @@
+<map id="pnfs_generic_sync" name="pnfs_generic_sync">
+<area shape="rect" id="node2" href="$pnfs_8c.html#aecd5c3204c43cb3c5fc65d13b538429f" title="pnfs_layoutcommit_inode" alt="" coords="184,181,355,208"/>
+<area shape="rect" id="node11" href="$pnfs_8c.html#a988f879e23537553e2430103eabb3fcf" title="EXPORT_SYMBOL_GPL" alt="" coords="420,283,592,309"/>
+<area shape="rect" id="node3" href="$pnfs_8h.html#a02c3c447f9141c77b89a85bce443fac9" title="pnfs_layoutcommit_outstanding" alt="" coords="403,5,609,32"/>
+<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a87eb4a56e62919e491b117551ec5925d" title="nfs_wait_bit_killable" alt="" coords="437,80,575,107"/>
+<area shape="rect" id="node7" href="$pnfs_8c.html#abd5eb609efc19db4d12e00d7ecec0f58" title="pnfs_list_write_lseg" alt="" coords="437,131,575,157"/>
+<area shape="rect" id="node8" href="$nfs_2inode_8c.html#a81ed57e217c4563faf406fe27093858b" title="nfs_fattr_init" alt="" coords="459,181,553,208"/>
+<area shape="rect" id="node10" href="$pnfs_8c.html#aca64d54ba5325943504023e9fbeab5b7" title="pnfs_clear_layoutcommitting" alt="" coords="412,232,600,259"/>
+<area shape="rect" id="node5" href="$nfs_2inode_8c.html#a8d3239dc78471c1a24077e8df920d5a6" title="nfs_wait_killable" alt="" coords="677,55,795,81"/>
+<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="863,156,1035,183"/>
+<area shape="rect" id="node9" href="$nfs_2inode_8c.html#ad80c28b99f558acae79f418e445df851" title="nfs_inc_attr_generation\l_counter" alt="" coords="657,207,815,249"/>
+</map>

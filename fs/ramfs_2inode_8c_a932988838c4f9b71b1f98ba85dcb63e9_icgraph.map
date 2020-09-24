@@ -1,0 +1,8 @@
+<map id="ramfs_get_inode" name="ramfs_get_inode">
+<area shape="rect" id="node2" href="$ramfs_2inode_8c.html#a5a6cc75ca02d7460c6353d9fd6d01996" title="ramfs_mknod" alt="" coords="179,81,280,108"/>
+<area shape="rect" id="node4" href="$ramfs_2inode_8c.html#a22ddff08c35237ba1cde62e99de73e8e" title="ramfs_symlink" alt="" coords="481,81,588,108"/>
+<area shape="rect" id="node6" href="$ramfs_2inode_8c.html#af0827458aaacdddd65c3017f138c8eb3" title="ramfs_fill_super" alt="" coords="172,208,287,235"/>
+<area shape="rect" id="node3" href="$ramfs_2inode_8c.html#a6c128b520f71aa3430cadba71780af4d" title="ramfs_mkdir" alt="" coords="337,5,431,32"/>
+<area shape="rect" id="node5" href="$ramfs_2inode_8c.html#a90bd639e47230476c351be42bcc0a86d" title="ramfs_create" alt="" coords="335,107,433,133"/>
+<area shape="rect" id="node7" href="$ramfs_2inode_8c.html#ad7471b5e90bd5259c7c120a4510575b9" title="ramfs_mount" alt="" coords="335,208,433,235"/>
+</map>

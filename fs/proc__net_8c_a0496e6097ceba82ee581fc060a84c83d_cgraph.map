@@ -1,0 +1,10 @@
+<map id="seq_open_net" name="seq_open_net">
+<area shape="rect" id="node2" href="$proc__net_8c.html#a3887e34005b2ce827f3e914cbb2e7c2a" title="get_proc_net" alt="" coords="193,56,291,83"/>
+<area shape="rect" id="node6" href="$seq__file_8c.html#aa3460f915ba4e468b62c9dc00238b042" title="__seq_open_private" alt="" coords="173,107,311,133"/>
+<area shape="rect" id="node9" href="$proc__net_8c.html#a50f0666fc4979cbfa9bb149efcc3b64d" title="EXPORT_SYMBOL_GPL" alt="" coords="156,157,328,184"/>
+<area shape="rect" id="node3" href="$proc__net_8c.html#a3c7d8bebfc7122ea962e1208ebf2750c" title="PDE_NET" alt="" coords="376,5,460,32"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#af06d35fcc560b7b9aab608efbf4f4ad8" title="PDE" alt="" coords="393,56,443,83"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="541,56,613,83"/>
+<area shape="rect" id="node7" href="$seq__file_8c.html#ab724d0b6f14722c374b1933b66c913d1" title="seq_open" alt="" coords="379,107,457,133"/>
+<area shape="rect" id="node8" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="508,132,647,159"/>
+</map>

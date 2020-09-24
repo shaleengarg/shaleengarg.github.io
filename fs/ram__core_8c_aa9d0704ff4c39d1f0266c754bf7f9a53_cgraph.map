@@ -1,0 +1,6 @@
+<map id="persistent_ram_save_old" name="persistent_ram_save_old">
+<area shape="rect" id="node2" href="$ram__core_8c.html#afc8a32a64236d2c5ba63931649d30401" title="buffer_size" alt="" coords="476,5,563,32"/>
+<area shape="rect" id="node3" href="$ram__core_8c.html#af3dca5f63fc8613f4158d15d7f8d65bf" title="buffer_start" alt="" coords="256,31,344,57"/>
+<area shape="rect" id="node4" href="$ram__core_8c.html#a6e9cc512817f6f4849bd8b4e097a8f87" title="persistent_ram_ecc_old" alt="" coords="220,81,380,108"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#ac74607c0df291924b042bab5061565ea" title="persistent_ram_decode_rs8" alt="" coords="428,81,611,108"/>
+</map>

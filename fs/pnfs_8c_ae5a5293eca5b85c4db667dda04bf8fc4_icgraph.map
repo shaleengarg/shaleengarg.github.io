@@ -1,0 +1,4 @@
+<map id="pnfs_try_to_write_data" name="pnfs_try_to_write_data">
+<area shape="rect" id="node2" href="$pnfs_8c.html#a2458d67541a23ed08e4458e641d106b3" title="pnfs_do_write" alt="" coords="208,5,311,32"/>
+<area shape="rect" id="node3" href="$pnfs_8c.html#ae34f0a1a10fc880a9d2f5a78a4cb6a46" title="pnfs_generic_pg_writepages" alt="" coords="359,5,545,32"/>
+</map>

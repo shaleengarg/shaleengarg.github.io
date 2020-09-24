@@ -1,0 +1,9 @@
+<map id="sysctl_follow_link" name="sysctl_follow_link">
+<area shape="rect" id="node2" href="$proc__sysctl_8c.html#ab4fd0d1c3b2587c9f9aaff92557d7f60" title="lookup_header_set" alt="" coords="179,5,309,32"/>
+<area shape="rect" id="node3" href="$proc__sysctl_8c.html#a9a3a2f7f68d98afea52cdce0a98ab1d2" title="xlate_dir" alt="" coords="209,56,279,83"/>
+<area shape="rect" id="node5" href="$proc__sysctl_8c.html#a5544e7ac47135cfedd2651edc9a01dfe" title="find_entry" alt="" coords="491,81,569,108"/>
+<area shape="rect" id="node7" href="$proc__sysctl_8c.html#ae86756ee907aace55b2e5ceb3547c61e" title="use_table" alt="" coords="205,157,283,184"/>
+<area shape="rect" id="node8" href="$proc__sysctl_8c.html#a13467dc9943f589845f46f23212e9bb5" title="unuse_table" alt="" coords="198,208,290,235"/>
+<area shape="rect" id="node4" href="$proc__sysctl_8c.html#a93eca38de6d48631c1554fafd9d4fbe2" title="find_subdir" alt="" coords="357,56,443,83"/>
+<area shape="rect" id="node6" href="$proc__sysctl_8c.html#aa75010f354a3d20fd2936c363bf705a3" title="namecmp" alt="" coords="617,81,696,108"/>
+</map>

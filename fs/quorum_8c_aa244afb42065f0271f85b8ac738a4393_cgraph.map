@@ -1,0 +1,7 @@
+<map id="o2quo_make_decision" name="o2quo_make_decision">
+<area shape="rect" id="node2" href="$nodemanager_8c.html#a7d562fbd374c60d7b62e5429c6e9c889" title="o2nm_this_node" alt="" coords="207,29,325,56"/>
+<area shape="rect" id="node4" href="$quorum_8c.html#a7168423d850d4ede8464b4e09e38b779" title="o2quo_fence_self" alt="" coords="204,85,328,112"/>
+<area shape="rect" id="node3" href="$nodemanager_8c.html#a67edc90e86a794e89a46a885ca1a16da" title="EXPORT_SYMBOL_GPL" alt="" coords="376,23,548,49"/>
+<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#a2c9160ad7d66f960a1b40eb18ff3b2d8" title="o2hb_stop_all_regions" alt="" coords="387,97,537,124"/>
+<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#aae9d726ce9c58d7e470f5e25f6ef316e" title="EXPORT_SYMBOL_GPL" alt="" coords="596,97,768,124"/>
+</map>

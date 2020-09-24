@@ -1,0 +1,13 @@
+<map id="quota_bbtob" name="quota_bbtob">
+<area shape="rect" id="node2" href="$quota_2quota_8c.html#a97bd41ca2d53b684aa7e9cbf4defc820" title="copy_from_xfs_dqblk" alt="" coords="147,81,293,108"/>
+<area shape="rect" id="node3" href="$quota_2quota_8c.html#a21075b7e8d53727284ce4a464426a030" title="quota_setxquota" alt="" coords="341,81,460,108"/>
+<area shape="rect" id="node4" href="$quota_2quota_8c.html#aae01cf46a12cdf9aacc9860d56cb3af1" title="do_quotactl" alt="" coords="508,81,597,108"/>
+<area shape="rect" id="node5" href="$quota_2quota_8c.html#a71e6f1049154d2a3d8ff7b832ff1687e" title="kernel_quotactl" alt="" coords="645,81,756,108"/>
+<area shape="rect" id="node6" href="$quota_2quota_8c.html#acead32622ecf597814f80a8e9d7776c3" title="SYSCALL_DEFINE4" alt="" coords="836,56,983,83"/>
+<area shape="rect" id="node7" href="$quota_2compat_8c.html#a521f0febe4ae251503da1be7c5d10d39" title="COMPAT_SYSCALL_DEFINE4" alt="" coords="804,107,1015,133"/>
+<area shape="rect" id="node8" href="$dcookies_8c.html#a17130c3972d93646dffbb5de2acbe2d8" title="SYSCALL_DEFINE3" alt="" coords="1063,5,1209,32"/>
+<area shape="rect" id="node9" href="$read__write_8c.html#a3027081c8ba8c50821f4222c2082badc" title="SYSCALL_DEFINE6" alt="" coords="1063,56,1209,83"/>
+<area shape="rect" id="node10" href="$read__write_8c.html#a8da43315b1f800b22ddfa9b9c2f3b583" title="SYSCALL_DEFINE4" alt="" coords="1063,107,1209,133"/>
+<area shape="rect" id="node11" href="$stat_8c.html#a951314b128b8d6cacc9b662336855209" title="SYSCALL_DEFINE5" alt="" coords="1063,157,1209,184"/>
+<area shape="rect" id="node12" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="1063,208,1209,235"/>
+</map>

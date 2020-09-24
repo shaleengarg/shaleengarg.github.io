@@ -1,0 +1,10 @@
+<map id="proc_sys_permission" name="proc_sys_permission">
+<area shape="rect" id="node2" href="$proc__sysctl_8c.html#ac59e8a86e5a53223669dafaef5414358" title="grab_header" alt="" coords="217,56,311,83"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="403,5,475,32"/>
+<area shape="rect" id="node6" href="$proc__sysctl_8c.html#a886920b00ecb976050fa2fd2ea74641c" title="sysctl_perm" alt="" coords="217,107,311,133"/>
+<area shape="rect" id="node8" href="$proc__sysctl_8c.html#a6559533c10b2784dde30480cf7fa3063" title="sysctl_head_finish" alt="" coords="199,157,329,184"/>
+<area shape="rect" id="node4" href="$proc__sysctl_8c.html#a00ab308edb4af1f29e7607b412c0f970" title="sysctl_head_grab" alt="" coords="377,56,501,83"/>
+<area shape="rect" id="node5" href="$proc__sysctl_8c.html#ae86756ee907aace55b2e5ceb3547c61e" title="use_table" alt="" coords="549,56,628,83"/>
+<area shape="rect" id="node7" href="$proc__sysctl_8c.html#a5f9104cd991cb5620374154632353570" title="test_perm" alt="" coords="399,107,479,133"/>
+<area shape="rect" id="node9" href="$proc__sysctl_8c.html#a13467dc9943f589845f46f23212e9bb5" title="unuse_table" alt="" coords="393,157,485,184"/>
+</map>

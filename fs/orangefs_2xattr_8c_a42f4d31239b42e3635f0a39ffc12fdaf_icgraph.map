@@ -1,0 +1,8 @@
+<map id="orangefs_inode_getxattr" name="orangefs_inode_getxattr">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#aec3c63fab816c0ccbdb735ba7b346502" title="orangefs_get_acl" alt="" coords="219,5,341,32"/>
+<area shape="rect" id="node3" href="$orangefs_2xattr_8c.html#a69c1f8769021f5e4f5cfc17ad27208e6" title="orangefs_xattr_get\l_default" alt="" coords="215,57,345,98"/>
+<area shape="rect" id="node4" href="$orangefs_2file_8c.html#aa8fddd9a1d6fbfaaa168c9c0e8bdbc00" title="orangefs_ioctl" alt="" coords="229,123,331,149"/>
+<area shape="rect" id="node5" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="229,173,331,200"/>
+<area shape="rect" id="node6" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="393,166,528,207"/>
+<area shape="rect" id="node7" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="576,173,725,200"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="vfs_truncate" name="vfs_truncate">
+<area shape="rect" id="node2" href="$interface_8c.html#a6abac48b65eeab65f7cec8a5f1714973" title="cachefiles_invalidate\l_object" alt="" coords="148,5,291,47"/>
+<area shape="rect" id="node3" href="$open_8c.html#a576a02bf12824720ff458e7ed31ba729" title="do_sys_truncate" alt="" coords="160,71,279,98"/>
+<area shape="rect" id="node4" href="$open_8c.html#ab189307915a50de183848c06426208f6" title="SYSCALL_DEFINE2" alt="" coords="339,71,485,98"/>
+<area shape="rect" id="node5" href="$open_8c.html#a49c5a92cdce8cc67a7f2f63cc341da0e" title="SYSCALL_DEFINE2" alt="" coords="533,71,680,98"/>
+</map>

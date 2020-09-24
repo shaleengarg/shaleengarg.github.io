@@ -1,0 +1,10 @@
+<map id="print_extent_item" name="print_extent_item">
+<area shape="rect" id="node2" href="$ctree_8h.html#a8d3b0e65dcaa22dc48ecdf44b80834e7" title="btrfs_item_size_nr" alt="" coords="183,5,313,32"/>
+<area shape="rect" id="node5" href="$ctree_8h.html#af629a64daf06e6689e0aed2d0655b060" title="btrfs_tree_block_key" alt="" coords="177,56,319,83"/>
+<area shape="rect" id="node6" href="$print-tree_8c.html#aea5ef5b6db1c8763fb43b060ed78c99b" title="print_extent_data_ref" alt="" coords="176,107,320,133"/>
+<area shape="rect" id="node7" href="$ctree_8h.html#afbcffd692d8a5f49e66f7901f2275eb2" title="btrfs_extent_inline\l_ref_size" alt="" coords="184,158,312,199"/>
+<area shape="rect" id="node3" href="$ctree_8h.html#aad867f4552c091bfa4750ed550368fdb" title="btrfs_item_nr" alt="" coords="368,5,467,32"/>
+<area shape="rect" id="node4" href="$ctree_8h.html#a3407693b57c548a868dcd19a94286eea" title="btrfs_item_nr_offset" alt="" coords="515,5,653,32"/>
+<area shape="rect" id="node8" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="390,165,445,192"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="525,165,643,192"/>
+</map>

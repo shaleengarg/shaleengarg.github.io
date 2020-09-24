@@ -1,0 +1,5 @@
+<map id="ksys_lseek" name="ksys_lseek">
+<area shape="rect" id="node2" href="$read__write_8c.html#a9f67cb859c7d5c84442126d7ebbf1ef2" title="vfs_llseek" alt="" coords="141,31,223,57"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#a511458a3e7ea82a65f01a4895d41fed4" title="no_llseek" alt="" coords="271,5,348,32"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="396,31,535,57"/>
+</map>

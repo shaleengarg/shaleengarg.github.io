@@ -1,0 +1,6 @@
+<map id="ramoops_pstore_erase" name="ramoops_pstore_erase">
+<area shape="rect" id="node2" href="$ram__core_8c.html#a13bdc88568255c565e1786aca989cc58" title="persistent_ram_free_old" alt="" coords="208,5,369,32"/>
+<area shape="rect" id="node3" href="$ram__core_8c.html#a5aeb14f8b3164e3ee043fc31ed3e231e" title="persistent_ram_zap" alt="" coords="221,56,357,83"/>
+<area shape="rect" id="node4" href="$ram__core_8c.html#a37161eb3af8258150ebbe3d40b9810b7" title="persistent_ram_update\l_header_ecc" alt="" coords="417,49,572,90"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#a63b2758438c80094d681056af6a02651" title="persistent_ram_encode_rs8" alt="" coords="620,56,803,83"/>
+</map>

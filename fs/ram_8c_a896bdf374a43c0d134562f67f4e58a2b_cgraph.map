@@ -1,0 +1,11 @@
+<map id="ramoops_write_kmsg_hdr" name="ramoops_write_kmsg_hdr">
+<area shape="rect" id="node2" href="$ram__core_8c.html#a1ddc0e3d0013e74f44199247a7c89c88" title="persistent_ram_write" alt="" coords="224,107,367,133"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="465,5,519,32"/>
+<area shape="rect" id="node5" href="$ram__core_8c.html#aee11942fa65d9747238b5a8f065c7135" title="buffer_size_add" alt="" coords="435,56,549,83"/>
+<area shape="rect" id="node6" href="$ram__core_8c.html#ac5da9d236fa74bff9b420f6818ef22f3" title="buffer_start_add" alt="" coords="434,107,550,133"/>
+<area shape="rect" id="node7" href="$ram__core_8c.html#abdfbd045927ad59225a0d58880ce07d4" title="persistent_ram_update" alt="" coords="415,157,569,184"/>
+<area shape="rect" id="node10" href="$ram__core_8c.html#a37161eb3af8258150ebbe3d40b9810b7" title="persistent_ram_update\l_header_ecc" alt="" coords="631,206,786,247"/>
+<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="649,5,768,32"/>
+<area shape="rect" id="node8" href="$ram__core_8c.html#af5cdc77301ea40057c3e4817ae61b6b5" title="persistent_ram_update_ecc" alt="" coords="617,155,800,181"/>
+<area shape="rect" id="node9" href="$ram__core_8c.html#a63b2758438c80094d681056af6a02651" title="persistent_ram_encode_rs8" alt="" coords="848,184,1031,211"/>
+</map>

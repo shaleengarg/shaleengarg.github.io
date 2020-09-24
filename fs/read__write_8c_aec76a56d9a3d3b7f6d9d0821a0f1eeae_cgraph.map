@@ -1,0 +1,8 @@
+<map id="do_pwritev" name="do_pwritev">
+<area shape="rect" id="node2" href="$read__write_8c.html#af50b804bc14a48f0fedf02f2381515f2" title="vfs_writev" alt="" coords="139,56,221,83"/>
+<area shape="rect" id="node3" href="$read__write_8c.html#ac50de950a19bc336a8c56ebf099c544e" title="do_iter_write" alt="" coords="269,56,365,83"/>
+<area shape="rect" id="node4" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="434,5,541,32"/>
+<area shape="rect" id="node6" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="416,56,559,83"/>
+<area shape="rect" id="node7" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="413,107,561,133"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="609,5,731,32"/>
+</map>

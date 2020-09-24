@@ -1,0 +1,8 @@
+<map id="remove_from_transaction" name="remove_from_transaction">
+<area shape="rect" id="node2" href="$reiserfs_2journal_8c.html#a34fd5137c415f2f7f9c8a4c156b8ac67" title="get_journal_hash_dev" alt="" coords="223,5,371,32"/>
+<area shape="rect" id="node3" href="$reiserfs_2journal_8c.html#a94efc1270187c07acbe4bd641993568f" title="remove_journal_hash" alt="" coords="224,56,369,83"/>
+<area shape="rect" id="node4" href="$reiserfs_2journal_8c.html#a62a3551da88fc006aa50599a77c0ac4c" title="free_cnode" alt="" coords="253,107,340,133"/>
+<area shape="rect" id="node5" href="$reiserfs_2lock_8c.html#af63261b6e12b43124849723f98ce6bb2" title="reiserfs_check_lock\l_depth" alt="" coords="419,99,557,141"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#a0e265314d75fff703a39c90e48f4462b" title="REISERFS_SB" alt="" coords="617,77,732,104"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#aeadf70ec41303a31671baed14804b5f4" title="reiserfs_lock_check\l_recursive" alt="" coords="605,129,744,170"/>
+</map>

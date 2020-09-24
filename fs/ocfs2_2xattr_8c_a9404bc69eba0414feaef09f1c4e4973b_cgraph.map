@@ -1,0 +1,11 @@
+<map id="ocfs2_xa_bucket_check_space" name="ocfs2_xa_bucket_check_space">
+<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="270,5,325,32"/>
+<area shape="rect" id="node4" href="$ocfs2_2xattr_8c.html#aaeee4a1c60b16f0b5857675e7ee68cd5" title="ocfs2_xa_get_free_start" alt="" coords="216,56,379,83"/>
+<area shape="rect" id="node5" href="$ocfs2_2xattr_8c.html#a97db7da4357b13ffde297950594fedc0" title="ocfs2_xi_entry_usage" alt="" coords="223,107,372,133"/>
+<area shape="rect" id="node6" href="$ocfs2_2xattr_8c.html#a7ceb46d0ae89639b52583cde4bdb4377" title="namevalue_size_xi" alt="" coords="427,132,560,159"/>
+<area shape="rect" id="node8" href="$ocfs2_2xattr_8c.html#ac9a3e736a5f9e6136d2df56c0f72d715" title="ocfs2_xa_can_reuse\l_entry" alt="" coords="226,209,369,250"/>
+<area shape="rect" id="node9" href="$ocfs2_2xattr_8c.html#ad49d4250bada93abff773efd76b9d58a" title="ocfs2_xa_check_space\l_helper" alt="" coords="218,274,377,315"/>
+<area shape="rect" id="node10" href="$ocfs2_2xattr_8c.html#aaa817fb8fda4efc4bc57e424bb182b04" title="ocfs2_bucket_align\l_free_start" alt="" coords="230,339,365,381"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="434,5,553,32"/>
+<area shape="rect" id="node7" href="$ocfs2_2xattr_8c.html#a4195bf5d50259a3e865d19d14707234b" title="namevalue_size" alt="" coords="608,132,724,159"/>
+</map>

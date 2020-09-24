@@ -1,0 +1,7 @@
+<map id="fscache_object_destroy" name="fscache_object_destroy">
+<area shape="rect" id="node2" href="$object-list_8c.html#a538b5de84deb5e7f35b976be54bed93f" title="fscache_objlist_remove" alt="" coords="213,5,372,32"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#a52c671cbce45ee0a8eeb64c1c7e34ff2" title="fscache_cookie_put" alt="" coords="223,56,362,83"/>
+<area shape="rect" id="node6" href="$object_8c.html#a1c2d5ea3b1049e91b99f8ae22f58722b" title="EXPORT_SYMBOL" alt="" coords="223,107,362,133"/>
+<area shape="rect" id="node4" href="$cookie_8c.html#ae13cc52b4966ef43bd2ad897676b4b84" title="fscache_unhash_cookie" alt="" coords="420,31,583,57"/>
+<area shape="rect" id="node5" href="$cookie_8c.html#a1b5f476af45e9022e075097a49bd311d" title="fscache_free_cookie" alt="" coords="430,81,573,108"/>
+</map>

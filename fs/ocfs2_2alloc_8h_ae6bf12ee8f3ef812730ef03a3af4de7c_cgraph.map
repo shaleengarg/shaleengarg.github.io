@@ -1,0 +1,5 @@
+<map id="ocfs2_set_inode_data_inline" name="ocfs2_set_inode_data_inline">
+<area shape="rect" id="node2" href="$ocfs2_2inode_8h.html#ad355602d6e917df63ae06c1734f0f203" title="OCFS2_I" alt="" coords="241,5,319,32"/>
+<area shape="rect" id="node3" href="$ocfs2_2alloc_8c.html#a9fbb05aa83b1c86e504939ed398579b1" title="ocfs2_zero_dinode_id2\l_with_xattr" alt="" coords="203,57,357,98"/>
+<area shape="rect" id="node4" href="$ocfs2__fs_8h.html#a404cf2ea67e7cd0a0aa5f3fa3f9148a3" title="ocfs2_max_inline_data\l_with_xattr" alt="" coords="203,122,357,163"/>
+</map>

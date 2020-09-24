@@ -1,0 +1,12 @@
+<map id="ore_remove" name="ore_remove">
+<area shape="rect" id="node2" href="$ore_8c.html#a6ce28031daabb503133f468fa2f70c2d" title="_ios_od" alt="" coords="166,31,233,57"/>
+<area shape="rect" id="node3" href="$ore_8c.html#a7fab6eb99a37aa913f169f1b7d6f1a54" title="_ios_obj" alt="" coords="164,81,235,108"/>
+<area shape="rect" id="node4" href="$ore_8c.html#a1934139f2a1d1aba2427b7698d535e06" title="ore_io_execute" alt="" coords="144,132,255,159"/>
+<area shape="rect" id="node11" href="$ore_8c.html#a3a40092d96622c018306380323e84327" title="EXPORT_SYMBOL" alt="" coords="449,259,588,285"/>
+<area shape="rect" id="node5" href="$ore_8c.html#a82ce1476203378d5329c767b3483e3d0" title="_sync_done" alt="" coords="306,5,398,32"/>
+<area shape="rect" id="node6" href="$ore_8c.html#afb76b45feae280cee5126ec7203aa4aa" title="_ios_cred" alt="" coords="313,56,391,83"/>
+<area shape="rect" id="node7" href="$ore_8c.html#a8263cf563e4398a3028a2ac9018f6f26" title="_done_io" alt="" coords="315,107,389,133"/>
+<area shape="rect" id="node8" href="$ore_8c.html#aa71ca2b6e9a93d838e14ca4b13808e9d" title="_last_io" alt="" coords="485,132,552,159"/>
+<area shape="rect" id="node9" href="$ore_8c.html#aafa57dd52a0a94330362f79f191742ef" title="ore_check_io" alt="" coords="303,208,401,235"/>
+<area shape="rect" id="node10" href="$ore_8c.html#aaa6fdc25bc89468e5795585bd6a6587b" title="_clear_bio" alt="" coords="478,208,559,235"/>
+</map>

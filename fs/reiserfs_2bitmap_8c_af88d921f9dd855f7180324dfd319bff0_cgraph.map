@@ -1,0 +1,32 @@
+<map id="determine_search_start" name="determine_search_start">
+<area shape="rect" id="node2" href="$reiserfs_2bitmap_8c.html#adac23230b6ad7e63043cad64978e3a4b" title="set_border_in_hint" alt="" coords="243,71,371,98"/>
+<area shape="rect" id="node4" href="$reiserfs_2bitmap_8c.html#afd5df7eaa72ce12b303a8ad5e13570ce" title="displace_new_packing\l_locality" alt="" coords="449,259,603,300"/>
+<area shape="rect" id="node6" href="$reiserfs_2bitmap_8c.html#a8c5abbf4abf85d30c3776f4797abdaab" title="this_blocknr_allocation\l_would_make_it_a_large_file" alt="" coords="212,5,401,47"/>
+<area shape="rect" id="node7" href="$reiserfs_2bitmap_8c.html#aa0f503f0befadc6ae87cdd8c4ab8757c" title="displace_large_file" alt="" coords="461,325,591,351"/>
+<area shape="rect" id="node8" href="$reiserfs_2bitmap_8c.html#a881168e864efddec91757191dcc8a394" title="hash_formatted_node" alt="" coords="453,375,599,402"/>
+<area shape="rect" id="node9" href="$reiserfs_2bitmap_8c.html#a30e47880edcf2c8dbd6e03c6b7d2e63a" title="get_left_neighbor" alt="" coords="246,553,367,579"/>
+<area shape="rect" id="node22" href="$reiserfs_2bitmap_8c.html#a8914556f8fa47d4fbbee8327301ecb7e" title="old_way" alt="" coords="271,603,342,630"/>
+<area shape="rect" id="node23" href="$reiserfs_2bitmap_8c.html#a091bb3b7862abadfb6e28734a99e6569" title="old_hashed_relocation" alt="" coords="451,106,601,133"/>
+<area shape="rect" id="node24" href="$reiserfs_8h.html#a54c4b0f2afaa082072400dec2264284e" title="REISERFS_I" alt="" coords="256,654,357,681"/>
+<area shape="rect" id="node25" href="$reiserfs_2bitmap_8c.html#aa7611c4f10ea7891e692167d1b7ef408" title="hundredth_slices" alt="" coords="247,173,367,199"/>
+<area shape="rect" id="node26" href="$reiserfs_2bitmap_8c.html#adade4f24e55ddf0a1acf924b3ebd0b4b" title="new_hashed_relocation" alt="" coords="227,223,386,250"/>
+<area shape="rect" id="node27" href="$reiserfs_2bitmap_8c.html#a6d21d7d76af6c9e8cd966078e8cf3e91" title="dirid_groups" alt="" coords="261,477,353,503"/>
+<area shape="rect" id="node31" href="$reiserfs_2bitmap_8c.html#a8c2fb35b87a2495384800b63f77eeccb" title="oid_groups" alt="" coords="264,426,349,453"/>
+<area shape="rect" id="node3" href="$reiserfs_8h.html#a0e265314d75fff703a39c90e48f4462b" title="REISERFS_SB" alt="" coords="469,34,583,61"/>
+<area shape="rect" id="node5" href="$hashes_8c.html#aa44a685c4821172e3c0b89df950c3898" title="keyed_hash" alt="" coords="676,266,768,293"/>
+<area shape="rect" id="node10" href="$reiserfs_8h.html#a30ddb3ce24367e8fb417d778a1f1113c" title="tp_item_head" alt="" coords="672,578,772,605"/>
+<area shape="rect" id="node13" href="$reiserfs_8h.html#a3b09748c0965c583099242d6b0b15901" title="tp_item_body" alt="" coords="476,629,576,655"/>
+<area shape="rect" id="node16" href="$reiserfs_8h.html#af0039763222cd55a130cb04b227f84b9" title="is_indirect_le_ih" alt="" coords="469,679,583,706"/>
+<area shape="rect" id="node11" href="$reiserfs_8h.html#af605ee607cdcf8f8bc2e661160f1d5d5" title="item_head" alt="" coords="853,578,936,605"/>
+<area shape="rect" id="node12" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="996,578,1128,605"/>
+<area shape="rect" id="node14" href="$reiserfs_8h.html#ae31c47945bf7fcdeb2d305fe3d6c18c3" title="item_body" alt="" coords="681,629,763,655"/>
+<area shape="rect" id="node15" href="$reiserfs_8h.html#a8f5f18c01d13554cd8e3589f3cf48ffe" title="ih_item_body" alt="" coords="845,629,944,655"/>
+<area shape="rect" id="node17" href="$reiserfs_8h.html#ad500ee6be538ab9e5e4c4782444949a9" title="is_indirect_le_key" alt="" coords="659,679,785,706"/>
+<area shape="rect" id="node18" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="841,679,948,706"/>
+<area shape="rect" id="node19" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="1002,654,1122,681"/>
+<area shape="rect" id="node21" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="1001,705,1123,731"/>
+<area shape="rect" id="node20" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="1176,654,1296,681"/>
+<area shape="rect" id="node28" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="697,477,747,503"/>
+<area shape="rect" id="node29" href="$reiserfs_2bitmap_8c.html#a63c7e66c5a6ae382eacd56fcf1868de7" title="bmap_hash_id" alt="" coords="473,426,579,453"/>
+<area shape="rect" id="node30" href="$reiserfs_8h.html#a11723b717ae0e6ca3ad3c2c7d911f569" title="reiserfs_bmap_count" alt="" coords="651,426,793,453"/>
+</map>

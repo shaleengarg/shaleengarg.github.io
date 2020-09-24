@@ -1,0 +1,7 @@
+<map id="qnx6_get_devblock" name="qnx6_get_devblock">
+<area shape="rect" id="node2" href="$qnx6_2inode_8c.html#ab764881c0fe355ecd97212da7af8a710" title="qnx6_block_map" alt="" coords="188,56,308,83"/>
+<area shape="rect" id="node3" href="$qnx6_2inode_8c.html#a11353035dd39801f09a948d2759ef382" title="qnx6_get_block" alt="" coords="356,56,469,83"/>
+<area shape="rect" id="node4" href="$qnx6_2inode_8c.html#a00d2758143b25cf5115e3029bf7bc947" title="qnx6_readpage" alt="" coords="521,5,631,32"/>
+<area shape="rect" id="node5" href="$qnx6_2inode_8c.html#ad55f689b312374b685719959662da45b" title="qnx6_readpages" alt="" coords="517,56,635,83"/>
+<area shape="rect" id="node6" href="$qnx6_2inode_8c.html#a9c3c73ab75a867410067c89eaa69a4fa" title="qnx6_bmap" alt="" coords="531,107,621,133"/>
+</map>

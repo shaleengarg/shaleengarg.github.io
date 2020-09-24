@@ -1,0 +1,8 @@
+<map id="pid_getattr" name="pid_getattr">
+<area shape="rect" id="node2" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="157,5,259,32"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="173,56,243,83"/>
+<area shape="rect" id="node6" href="$base_8c.html#aae8c6e06e56387940a8666733083fb04" title="has_pid_permissions" alt="" coords="136,107,280,133"/>
+<area shape="rect" id="node7" href="$base_8c.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="144,157,272,184"/>
+<area shape="rect" id="node3" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="328,5,467,32"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="361,56,433,83"/>
+</map>

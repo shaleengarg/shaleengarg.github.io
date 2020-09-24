@@ -1,0 +1,12 @@
+<map id="cache_info_to_inode" name="cache_info_to_inode">
+<area shape="rect" id="node2" href="$ocfs2_2inode_8c.html#af0ceb232587627ba7bf9b1a919541246" title="ocfs2_inode_cache_owner" alt="" coords="198,5,374,32"/>
+<area shape="rect" id="node3" href="$ocfs2_2inode_8c.html#a2eda46a98dd0ce49e61e63477d13804f" title="ocfs2_inode_cache_get\l_super" alt="" coords="207,57,365,98"/>
+<area shape="rect" id="node4" href="$ocfs2_2inode_8c.html#a6dff705c099647b8d6c20eb97d8464fa" title="ocfs2_inode_cache_lock" alt="" coords="203,123,369,149"/>
+<area shape="rect" id="node5" href="$ocfs2_2inode_8c.html#ad43445c24c100548f392e6078d8bd73e" title="ocfs2_inode_cache_unlock" alt="" coords="197,173,375,200"/>
+<area shape="rect" id="node6" href="$ocfs2_2inode_8c.html#a3f1eef40de7bc6e8ad7ca588e32bc63c" title="ocfs2_inode_cache_io_lock" alt="" coords="195,224,377,251"/>
+<area shape="rect" id="node7" href="$ocfs2_2inode_8c.html#a8944941e2e5140e0d08ca1eb57e97aa5" title="ocfs2_inode_cache_io\l_unlock" alt="" coords="211,275,361,317"/>
+<area shape="rect" id="node8" href="$ocfs2_2alloc_8c.html#af9d0dd8e38636ee842f0f641009fcd6e" title="ocfs2_dinode_update\l_clusters" alt="" coords="213,341,359,382"/>
+<area shape="rect" id="node9" href="$ocfs2_2alloc_8c.html#ab736e3efdb4848887b5107f1611af4c3" title="ocfs2_dinode_extent\l_map_insert" alt="" coords="215,406,357,447"/>
+<area shape="rect" id="node10" href="$ocfs2_2alloc_8c.html#aa73547dfa40a652e8fda8d43a1e79644" title="ocfs2_dinode_extent\l_map_truncate" alt="" coords="215,471,357,513"/>
+<area shape="rect" id="node11" href="$ocfs2_2alloc_8c.html#a3d38d2355aa475e9c998fa2c728b92d7" title="ocfs2_dinode_insert\l_check" alt="" coords="217,537,355,578"/>
+</map>

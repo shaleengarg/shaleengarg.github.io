@@ -1,0 +1,25 @@
+var omfs_8h =
+[
+    [ "omfs_sb_info", "structomfs__sb__info.html", "structomfs__sb__info" ],
+    [ "clus_to_blk", "omfs_8h.html#a484837c1a09bb91f87bab89113dafc6b", null ],
+    [ "omfs_allocate_block", "omfs_8h.html#a240a75637a4a50fe7fe1254ff1917b83", null ],
+    [ "omfs_allocate_range", "omfs_8h.html#af635c57b030d3f36cfe0fb72cd6438a7", null ],
+    [ "omfs_bread", "omfs_8h.html#af957add7a8dbd2a4503ec31f7979eab4", null ],
+    [ "omfs_clear_range", "omfs_8h.html#ab01e5065652c0f8e48019c9284d10672", null ],
+    [ "omfs_count_free", "omfs_8h.html#a4777863b7e7508fc18d24163975f39fe", null ],
+    [ "omfs_find_empty_block", "omfs_8h.html#a6912e71be117033dd4b1e97952c08658", null ],
+    [ "omfs_iget", "omfs_8h.html#a6b85e09ffd6ce066f2e9c71c81793007", null ],
+    [ "omfs_is_bad", "omfs_8h.html#a89f79657698741f802e2a4deaf72df06", null ],
+    [ "omfs_make_empty", "omfs_8h.html#a634995adbcea1277fa532ed0c076b4d3", null ],
+    [ "omfs_make_empty_table", "omfs_8h.html#a65b63615793d18399a195c20427485fb", null ],
+    [ "omfs_new_inode", "omfs_8h.html#a2e1af787c56c9c3bf01d978b92b85132", null ],
+    [ "omfs_reserve_block", "omfs_8h.html#a5dd1901300edbc6e66dd3e0740903f90", null ],
+    [ "OMFS_SB", "omfs_8h.html#ad1d7284440ea564afa269e07936e38c1", null ],
+    [ "omfs_shrink_inode", "omfs_8h.html#aaa62f9addd45a01b3208402572f75937", null ],
+    [ "omfs_sync_inode", "omfs_8h.html#aef861b1f03b435a85f2e22a439665f12", null ],
+    [ "omfs_aops", "omfs_8h.html#aa487a2b2360819b693303cb23502b4f6", null ],
+    [ "omfs_dir_inops", "omfs_8h.html#a885633ee72f50b58de1032e4ac63c246", null ],
+    [ "omfs_dir_operations", "omfs_8h.html#a79df059d95b41b5b8b905f6b7e8d3821", null ],
+    [ "omfs_file_inops", "omfs_8h.html#ac0ffcb1a6e34840960234d085c84741c", null ],
+    [ "omfs_file_operations", "omfs_8h.html#a65ff09e456205e5c37235632c5fffa82", null ]
+];

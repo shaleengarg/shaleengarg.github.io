@@ -1,0 +1,23 @@
+<map id="orangefs_dir_iterate" name="orangefs_dir_iterate">
+<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#adace367e43c5bcc39c91607a4452e535" title="ORANGEFS_I" alt="" coords="200,187,308,213"/>
+<area shape="rect" id="node3" href="$orangefs_2dir_8c.html#ae4f3c38a060f66fb1c27f28138773552" title="orangefs_dir_more" alt="" coords="189,237,319,264"/>
+<area shape="rect" id="node20" href="$orangefs_2dir_8c.html#af96709c587873b020348fbb090cdb8d4" title="orangefs_dir_fill" alt="" coords="197,339,311,365"/>
+<area shape="rect" id="node4" href="$orangefs-cache_8c.html#aea1a441643b8e8de279c90184b3d0a47" title="op_alloc" alt="" coords="381,56,452,83"/>
+<area shape="rect" id="node7" href="$orangefs_2dir_8c.html#a047e42b5a88c7072f4b1cf0bac940642" title="do_readdir" alt="" coords="375,187,458,213"/>
+<area shape="rect" id="node16" href="$orangefs_2dir_8c.html#ac21a0ec3e6f1c97ec9490a86a3028e81" title="parse_readdir" alt="" coords="367,237,467,264"/>
+<area shape="rect" id="node19" href="$orangefs-cache_8c.html#a6427cec67a6111012e85e31c6bab5df8" title="op_release" alt="" coords="374,288,459,315"/>
+<area shape="rect" id="node5" href="$orangefs-cache_8c.html#aafd7b643bbd9e93c8bce63391ee7c1b1" title="orangefs_new_tag" alt="" coords="541,5,669,32"/>
+<area shape="rect" id="node6" href="$orangefs-cache_8c.html#a8a102b5f87c53bfde730685934c9e164" title="get_opname_string" alt="" coords="777,41,909,68"/>
+<area shape="rect" id="node8" href="$orangefs-bufmap_8c.html#a1580ff885301aea4fccbabb61c88cd58" title="orangefs_readdir_index_get" alt="" coords="515,136,696,163"/>
+<area shape="rect" id="node9" href="$orangefs-kernel_8h.html#a8338c3dd4cff906f760af14d7784976e" title="service_operation" alt="" coords="543,187,667,213"/>
+<area shape="rect" id="node14" href="$orangefs-bufmap_8c.html#aaeb159454469c338608c027f7d41349e" title="orangefs_readdir_index_put" alt="" coords="515,263,696,289"/>
+<area shape="rect" id="node10" href="$devorangefs-req_8c.html#a8b2305809117ef60d5ada6c739a8768e" title="__is_daemon_in_service" alt="" coords="761,92,926,119"/>
+<area shape="rect" id="node11" href="$waitqueue_8c.html#a12d06040e19576e013f7e1073842e853" title="wait_for_matching_downcall" alt="" coords="750,143,937,169"/>
+<area shape="rect" id="node12" href="$orangefs-kernel_8h.html#ac9043d9d741f89a668ecf23b6182f953" title="orangefs_normalize\l_to_errno" alt="" coords="776,194,911,235"/>
+<area shape="rect" id="node13" href="$waitqueue_8c.html#aeb24c9a574f115456d667e1a721c672f" title="orangefs_clean_up_interrupted\l_operation" alt="" coords="744,259,943,301"/>
+<area shape="rect" id="node15" href="$orangefs-bufmap_8c.html#ae7af37ba2ab97a7a598771c9febc5605" title="put" alt="" coords="823,325,863,352"/>
+<area shape="rect" id="node17" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="578,339,633,365"/>
+<area shape="rect" id="node18" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="784,376,903,403"/>
+<area shape="rect" id="node21" href="$orangefs_2dir_8c.html#a0778fe15b64763a125c68e416e4a76de" title="fill_from_part" alt="" coords="368,389,465,416"/>
+<area shape="rect" id="node22" href="$orangefs-kernel_8h.html#a11db2de3df12d64949b3b54d5e7c0da0" title="orangefs_khandle_to_ino" alt="" coords="522,389,689,416"/>
+</map>

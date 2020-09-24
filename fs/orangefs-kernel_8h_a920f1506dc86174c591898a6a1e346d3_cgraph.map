@@ -1,0 +1,8 @@
+<map id="purge_waiting_ops" name="purge_waiting_ops">
+<area shape="rect" id="node2" href="$orangefs-cache_8c.html#a8a102b5f87c53bfde730685934c9e164" title="get_opname_string" alt="" coords="189,5,321,32"/>
+<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#ae0cf0643310b80f03895f018812a3252" title="set_op_state_purged" alt="" coords="184,56,327,83"/>
+<area shape="rect" id="node4" href="$orangefs-kernel_8h.html#a399f02997947b69f4b0a19b3cb905087" title="put_cancel" alt="" coords="375,56,460,83"/>
+<area shape="rect" id="node5" href="$orangefs-kernel_8h.html#a4708d48cb1c386e44ec29144c82d8267" title="orangefs_bufmap_put" alt="" coords="508,31,655,57"/>
+<area shape="rect" id="node7" href="$orangefs-kernel_8h.html#aa9dc47ef122f83b5ef040ce6a7d92553" title="op_release" alt="" coords="539,81,624,108"/>
+<area shape="rect" id="node6" href="$orangefs-bufmap_8c.html#ae7af37ba2ab97a7a598771c9febc5605" title="put" alt="" coords="703,31,743,57"/>
+</map>

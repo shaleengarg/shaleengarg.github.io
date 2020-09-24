@@ -1,0 +1,13 @@
+<map id="qnx6_put_page" name="qnx6_put_page">
+<area shape="rect" id="node2" href="$qnx6_8h.html#a40cbc6416c03dcb18df2a9a209ba831c" title="qnx6_find_entry" alt="" coords="164,171,279,197"/>
+<area shape="rect" id="node3" href="$qnx6_8h.html#a7169a6f5ea62d4bd82f61e64dd54f55b" title="QNX6_I" alt="" coords="354,233,423,260"/>
+<area shape="rect" id="node4" href="$qnx6_2dir_8c.html#a8774c3ae6ecf12e6f8bd6428680f3f75" title="qnx6_get_page" alt="" coords="333,284,444,311"/>
+<area shape="rect" id="node5" href="$qnx6_2dir_8c.html#a714f95a3120d9f1fc224138c2779a3b8" title="last_entry" alt="" coords="349,183,428,209"/>
+<area shape="rect" id="node6" href="$qnx6_2dir_8c.html#ac578b7e0ff60a84ec0f9b1e9e5d6276c" title="qnx6_match" alt="" coords="509,183,602,209"/>
+<area shape="rect" id="node10" href="$qnx6_2dir_8c.html#a70c2be8d69deda72e756183037e07ae6" title="qnx6_long_match" alt="" coords="327,81,451,108"/>
+<area shape="rect" id="node7" href="$qnx6_8h.html#a4f7286986e304399f46c1b4fb26fb840" title="QNX6_SB" alt="" coords="665,81,748,108"/>
+<area shape="rect" id="node8" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="660,132,753,159"/>
+<area shape="rect" id="node9" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="801,81,884,108"/>
+<area shape="rect" id="node11" href="$qnx6_2dir_8c.html#abd2dae2659d9739d78c254e872782297" title="qnx6_longname" alt="" coords="499,81,612,108"/>
+<area shape="rect" id="node12" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="660,5,753,32"/>
+</map>

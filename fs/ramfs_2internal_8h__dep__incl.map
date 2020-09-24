@@ -1,0 +1,5 @@
+<map id="ramfs/internal.h" name="ramfs/internal.h">
+<area shape="rect" id="node2" href="$file-mmu_8c.html" title="ramfs/file&#45;mmu.c" alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node3" href="$file-nommu_8c.html" title="ramfs/file&#45;nommu.c" alt="" coords="150,80,285,107"/>
+<area shape="rect" id="node4" href="$ramfs_2inode_8c.html" title="ramfs/inode.c" alt="" coords="309,80,411,107"/>
+</map>

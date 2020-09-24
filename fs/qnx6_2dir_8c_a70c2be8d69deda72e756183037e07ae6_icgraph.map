@@ -1,0 +1,11 @@
+<map id="qnx6_long_match" name="qnx6_long_match">
+<area shape="rect" id="node2" href="$qnx6_8h.html#a40cbc6416c03dcb18df2a9a209ba831c" title="qnx6_find_entry" alt="" coords="177,56,292,83"/>
+<area shape="rect" id="node3" href="$qnx6_8h.html#a407cee5640993048262570b2ecb1e843" title="qnx6_lookup" alt="" coords="705,5,799,32"/>
+<area shape="rect" id="node4" href="$qnx6_8h.html#a97d5c08eec6ded9a024d8df0ecf87d6e" title="qnx6_put_page" alt="" coords="340,81,451,108"/>
+<area shape="rect" id="node5" href="$qnx6_2dir_8c.html#a4e74bda24998aa538a38b7aecc0a262b" title="qnx6_dir_longfilename" alt="" coords="499,157,649,184"/>
+<area shape="rect" id="node6" href="$qnx6_2dir_8c.html#a3112c35f84da3bb6435ab66580a3a87f" title="qnx6_readdir" alt="" coords="704,183,800,209"/>
+<area shape="rect" id="node7" href="$qnx6_2inode_8c.html#a017bb2f949a69f45819139984b0a9c46" title="qnx6_checkroot" alt="" coords="517,107,631,133"/>
+<area shape="rect" id="node10" href="$qnx6_8h.html#a47f6519a316c5874c36e3f3776f9087a" title="qnx6_iget" alt="" coords="535,56,613,83"/>
+<area shape="rect" id="node8" href="$qnx6_2inode_8c.html#ab0153b86003cde67cf28cad30736f15a" title="qnx6_fill_super" alt="" coords="697,81,807,108"/>
+<area shape="rect" id="node9" href="$qnx6_2inode_8c.html#aa8c9d79e7188e1b3499add9352d83ad8" title="qnx6_mount" alt="" coords="855,81,948,108"/>
+</map>
