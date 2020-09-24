@@ -1,0 +1,19 @@
+<map id="fat_scan" name="fat_scan">
+<area shape="rect" id="node2" href="$fat_8h.html#a2f7944f9585d2c82131dfd5e102bd5a3" title="fat_scan" alt="" coords="125,204,197,231"/>
+<area shape="rect" id="node3" href="$fat_8h.html#aac1f6cd67da2a96d8f336cb717509079" title="fatwchar_to16" alt="" coords="259,31,363,57"/>
+<area shape="rect" id="node9" href="$namei__msdos_8c.html#ab83ae00be243fe4565c4d786c6859c3d" title="msdos_find" alt="" coords="267,188,356,215"/>
+<area shape="rect" id="node13" href="$namei__msdos_8c.html#a745e83298479e4e0a8bd5eb578c77a9a" title="msdos_create" alt="" coords="259,240,363,267"/>
+<area shape="rect" id="node14" href="$namei__msdos_8c.html#adb705d5f57b4b80899be5053e7f84e83" title="msdos_mkdir" alt="" coords="261,293,361,320"/>
+<area shape="rect" id="node15" href="$namei__msdos_8c.html#ac162198cf9fbdf1b928ae4bdb4a9b136" title="do_msdos_rename" alt="" coords="245,349,377,376"/>
+<area shape="rect" id="node17" href="$namei__vfat_8c.html#ac7d599425edd9641fa22e7bab9624541" title="vfat_find_form" alt="" coords="259,81,364,108"/>
+<area shape="rect" id="node4" href="$namei__vfat_8c.html#aac2299b954846562480529f66bed53c4" title="vfat_build_slots" alt="" coords="628,56,741,83"/>
+<area shape="rect" id="node5" href="$namei__vfat_8c.html#ad80c526a5b5ebbc239b0da5940c1ff8b" title="vfat_add_entry" alt="" coords="789,56,897,83"/>
+<area shape="rect" id="node6" href="$namei__vfat_8c.html#a44e39f6ee6f350528d7820bbf34a1e49" title="vfat_create" alt="" coords="949,5,1036,32"/>
+<area shape="rect" id="node7" href="$namei__vfat_8c.html#a0630335572616aeadb502e0554330ca3" title="vfat_mkdir" alt="" coords="951,56,1034,83"/>
+<area shape="rect" id="node8" href="$namei__vfat_8c.html#a3abe7b2d5a7096ea96388a7850fb9da4" title="vfat_rename" alt="" coords="945,107,1040,133"/>
+<area shape="rect" id="node10" href="$namei__msdos_8c.html#a3a74a5cc2fb0fa05e78bef225dd9a3d6" title="msdos_lookup" alt="" coords="449,137,556,164"/>
+<area shape="rect" id="node11" href="$namei__msdos_8c.html#ab93ab45137a24cc639f0013fa41fb6e5" title="msdos_rmdir" alt="" coords="454,188,551,215"/>
+<area shape="rect" id="node12" href="$namei__msdos_8c.html#a65524898fe35a657a43ea0d08e559546" title="msdos_unlink" alt="" coords="451,239,554,265"/>
+<area shape="rect" id="node16" href="$namei__msdos_8c.html#a57e274e7ed12c03e53c07d8f4079c1c9" title="msdos_rename" alt="" coords="447,349,558,376"/>
+<area shape="rect" id="node18" href="$namei__vfat_8c.html#a25f47c2c8f9ba011607902e332cf8045" title="vfat_create_shortname" alt="" coords="425,81,580,108"/>
+</map>

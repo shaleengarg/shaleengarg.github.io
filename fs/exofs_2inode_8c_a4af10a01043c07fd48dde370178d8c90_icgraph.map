@@ -1,0 +1,10 @@
+<map id="exofs_get_inode" name="exofs_get_inode">
+<area shape="rect" id="node2" href="$exofs_2inode_8c.html#a04e92ac0eaca30ca41b9230ca60e6a2e" title="exofs_iget" alt="" coords="171,81,253,108"/>
+<area shape="rect" id="node3" href="$exofs_2super_8c.html#a08a8884b2db1914994ed34f3dbce3067" title="exofs_fill_super" alt="" coords="316,5,429,32"/>
+<area shape="rect" id="node5" href="$exofs_2super_8c.html#ac9d21744436ce19efb29f47282afab9a" title="exofs_get_parent" alt="" coords="497,56,620,83"/>
+<area shape="rect" id="node7" href="$exofs_2super_8c.html#a8d447e8b3329e8246dcd26747d9f8afa" title="exofs_nfs_get_inode" alt="" coords="301,107,444,133"/>
+<area shape="rect" id="node9" href="$exofs_2namei_8c.html#ac0aaab0616b43c0334d073e0a1ffdd30" title="exofs_lookup" alt="" coords="323,157,422,184"/>
+<area shape="rect" id="node4" href="$exofs_2super_8c.html#a0e31d261657c630b458225ebe799f39c" title="exofs_mount" alt="" coords="510,5,607,32"/>
+<area shape="rect" id="node6" href="$exofs_2super_8c.html#ac1185f869d0098a46d9287e7489092b8" title="exofs_fh_to_parent" alt="" coords="673,107,807,133"/>
+<area shape="rect" id="node8" href="$exofs_2super_8c.html#a4b8534fbcdfe3b96a64c83bc4e7ea6eb" title="exofs_fh_to_dentry" alt="" coords="492,157,625,184"/>
+</map>

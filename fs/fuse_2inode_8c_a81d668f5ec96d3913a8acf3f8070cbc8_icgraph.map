@@ -1,0 +1,6 @@
+<map id="unregister_fuseblk" name="unregister_fuseblk">
+<area shape="rect" id="node2" href="$fuse_2inode_8c.html#a0958561f62bf9022a90a10d922357edb" title="fuse_fs_init" alt="" coords="195,5,285,32"/>
+<area shape="rect" id="node5" href="$fuse_2inode_8c.html#ad0135e955a0e80cb5c5e381a0214efa4" title="fuse_fs_cleanup" alt="" coords="181,56,299,83"/>
+<area shape="rect" id="node3" href="$fuse_2inode_8c.html#a88a89b56034848d33658580bad2c1417" title="fuse_init" alt="" coords="347,5,417,32"/>
+<area shape="rect" id="node4" href="$fuse_2inode_8c.html#ac7a26989a8af7f1176e7ca476e7fe143" title="fuse_exit" alt="" coords="465,31,540,57"/>
+</map>

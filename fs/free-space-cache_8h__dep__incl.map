@@ -1,0 +1,11 @@
+<map id="btrfs/free&#45;space&#45;cache.h" name="btrfs/free&#45;space&#45;cache.h">
+<area shape="rect" id="node2" href="$disk-io_8c.html" title="btrfs/disk&#45;io.c" alt="" coords="5,87,107,114"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html" title="btrfs/extent&#45;tree.c" alt="" coords="131,87,256,114"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html" title="btrfs/free&#45;space&#45;cache.c" alt="" coords="280,87,443,114"/>
+<area shape="rect" id="node5" href="$inode-map_8c.html" title="btrfs/inode&#45;map.c" alt="" coords="467,87,589,114"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html" title="btrfs/inode.c" alt="" coords="614,87,709,114"/>
+<area shape="rect" id="node7" href="$relocation_8c.html" title="btrfs/relocation.c" alt="" coords="733,87,851,114"/>
+<area shape="rect" id="node8" href="$btrfs_2super_8c.html" title="btrfs/super.c" alt="" coords="875,87,970,114"/>
+<area shape="rect" id="node9" href="$btrfs-tests_8c.html" title="btrfs/tests/btrfs&#45;tests.c" alt="" coords="995,87,1149,114"/>
+<area shape="rect" id="node10" href="$free-space-tests_8c.html" title="btrfs/tests/free&#45;space\l&#45;tests.c" alt="" coords="1173,80,1320,121"/>
+</map>

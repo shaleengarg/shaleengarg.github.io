@@ -1,0 +1,9 @@
+<map id="move_lkb" name="move_lkb">
+<area shape="rect" id="node2" href="$dlm_2lock_8c.html#ab1201e3da1dbc4291cd4fd4a88547ca2" title="hold_lkb" alt="" coords="132,5,203,32"/>
+<area shape="rect" id="node3" href="$dlm_2lock_8c.html#aa3174650640ace95f6ab28af1d1e328d" title="del_lkb" alt="" coords="136,56,199,83"/>
+<area shape="rect" id="node4" href="$dlm_2lock_8c.html#a0a3373645b905e4e06bc73273882c0c9" title="unhold_lkb" alt="" coords="267,68,351,95"/>
+<area shape="rect" id="node7" href="$dlm_2lock_8c.html#a24d0136ea952488512b5835db99c8e90" title="add_lkb" alt="" coords="134,157,201,184"/>
+<area shape="rect" id="node5" href="$dlm_2lock_8c.html#a8daaef8aa995c68981b37b44533dfe92" title="kill_lkb" alt="" coords="416,43,479,69"/>
+<area shape="rect" id="node6" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="527,93,625,120"/>
+<area shape="rect" id="node8" href="$dlm_2lock_8c.html#a287cbbd12e509dc3da986c6244b7841a" title="lkb_add_ordered" alt="" coords="251,195,368,221"/>
+</map>

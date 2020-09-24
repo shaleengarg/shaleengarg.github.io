@@ -1,0 +1,11 @@
+<map id="fscache_init_cache" name="fscache_init_cache">
+<area shape="rect" id="node2" href="$fscache_2internal_8h.html#a8a8996026f5d8f12cbbb01f288089c4a" title="fscache_operation_gc" alt="" coords="188,31,337,57"/>
+<area shape="rect" id="node10" href="$fscache_2cache_8c.html#a0ffa14fc777b8ccb08fbd96f0ebf9558" title="EXPORT_SYMBOL" alt="" coords="193,81,332,108"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="429,5,484,32"/>
+<area shape="rect" id="node5" href="$fscache_2internal_8h.html#aae52858a78e36ae08f2098a073e68db6" title="fscache_raise_event" alt="" coords="385,56,528,83"/>
+<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="600,5,719,32"/>
+<area shape="rect" id="node6" href="$fscache_2internal_8h.html#a3d39a831595401a170f4984148482c3a" title="fscache_enqueue_object" alt="" coords="576,56,743,83"/>
+<area shape="rect" id="node7" href="$object_8c.html#a56a15d20f5e28b4e88921cc74fd54057" title="fscache_get_object" alt="" coords="812,5,947,32"/>
+<area shape="rect" id="node8" href="$fscache_2internal_8h.html#ad018e8818f8733cc02afef4b643b3400" title="fscache_object_congested" alt="" coords="791,56,968,83"/>
+<area shape="rect" id="node9" href="$object_8c.html#a049577147beb84269b63d41bcad8743e" title="fscache_put_object" alt="" coords="812,107,947,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="__alloc_dummy_extent_buffer" name="__alloc_dummy_extent_buffer">
+<area shape="rect" id="node2" href="$extent__io_8h.html#a04dba5c7fecd62f5173fe05d3deba25e" title="num_extent_pages" alt="" coords="437,27,569,53"/>
+<area shape="rect" id="node3" href="$extent__io_8c.html#af29fb6d60c0351dc356c9693e3b73d28" title="__alloc_extent_buffer" alt="" coords="226,27,373,53"/>
+<area shape="rect" id="node4" href="$extent__io_8c.html#a7287fa383523fd330773dafb2ff08a59" title="set_extent_buffer_uptodate" alt="" coords="209,77,389,104"/>
+<area shape="rect" id="node5" href="$extent__io_8c.html#ae5972708be74df23a5a9cafdd514b7c8" title="__free_extent_buffer" alt="" coords="229,128,370,155"/>
+</map>

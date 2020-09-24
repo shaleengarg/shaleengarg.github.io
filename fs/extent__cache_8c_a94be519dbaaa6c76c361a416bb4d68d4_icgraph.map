@@ -1,0 +1,7 @@
+<map id="f2fs_drop_extent_tree" name="f2fs_drop_extent_tree">
+<area shape="rect" id="node2" href="$f2fs_2file_8c.html#ae3a7881c4c7d503aaa19cc1388939f8d" title="f2fs_do_collapse" alt="" coords="221,5,341,32"/>
+<area shape="rect" id="node5" href="$f2fs_2file_8c.html#ad8b42ff242ef2fe794c1e9aefe5f645e" title="f2fs_insert_range" alt="" coords="416,56,539,83"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a224ce2f795665ce12f8cd62cd43244cd" title="f2fs_destroy_root_stats" alt="" coords="201,107,360,133"/>
+<area shape="rect" id="node3" href="$f2fs_2file_8c.html#af976ad4bf63da6d2290fdbea1c3b239a" title="f2fs_collapse_range" alt="" coords="408,5,547,32"/>
+<area shape="rect" id="node4" href="$f2fs_2file_8c.html#ae16c5d80656638e1c6c979dcdbcbfa68" title="f2fs_fallocate" alt="" coords="595,31,695,57"/>
+</map>

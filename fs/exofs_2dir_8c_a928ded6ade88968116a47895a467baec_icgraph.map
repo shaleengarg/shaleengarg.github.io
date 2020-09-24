@@ -1,0 +1,22 @@
+<map id="exofs_check_page" name="exofs_check_page">
+<area shape="rect" id="node2" href="$exofs_2dir_8c.html#abf503f62ae20dff97cbf0d43905984e9" title="exofs_get_page" alt="" coords="184,132,299,159"/>
+<area shape="rect" id="node3" href="$exofs_2dir_8c.html#a3fb800dd223e7c0269be8505c14230b7" title="exofs_readdir" alt="" coords="356,31,456,57"/>
+<area shape="rect" id="node4" href="$exofs_8h.html#a2c06fb0262d434e02f3857f3564058d5" title="exofs_find_entry" alt="" coords="347,81,465,108"/>
+<area shape="rect" id="node10" href="$exofs_8h.html#a5d90e06e62240ab9f5bb6fc5b5564f58" title="exofs_dotdot" alt="" coords="357,183,455,209"/>
+<area shape="rect" id="node14" href="$exofs_8h.html#abd84b201afa446c91651bda051ff9f47" title="exofs_add_link" alt="" coords="351,233,461,260"/>
+<area shape="rect" id="node21" href="$exofs_8h.html#a576659dc8ba75c78ce4ed6985a0aacd1" title="exofs_empty_dir" alt="" coords="347,132,465,159"/>
+<area shape="rect" id="node5" href="$exofs_8h.html#adb1971506c2a44eb3e80c50fd17c9877" title="exofs_inode_by_name" alt="" coords="513,5,665,32"/>
+<area shape="rect" id="node7" href="$exofs_2namei_8c.html#a8478d4f959bd23111a24c76681e2b83f" title="exofs_unlink" alt="" coords="542,56,637,83"/>
+<area shape="rect" id="node9" href="$exofs_2namei_8c.html#a0ee41dd79deebf33f1fe543a7a0958f8" title="exofs_rename" alt="" coords="537,157,641,184"/>
+<area shape="rect" id="node6" href="$exofs_2namei_8c.html#ac0aaab0616b43c0334d073e0a1ffdd30" title="exofs_lookup" alt="" coords="725,5,824,32"/>
+<area shape="rect" id="node8" href="$exofs_2namei_8c.html#a102a8b04aa5b8596321a439bffe99869" title="exofs_rmdir" alt="" coords="729,81,820,108"/>
+<area shape="rect" id="node11" href="$exofs_8h.html#a02478b40e05a4316302b7f003f5b21c3" title="exofs_parent_ino" alt="" coords="529,208,650,235"/>
+<area shape="rect" id="node12" href="$exofs_2super_8c.html#ac9d21744436ce19efb29f47282afab9a" title="exofs_get_parent" alt="" coords="713,157,836,184"/>
+<area shape="rect" id="node13" href="$exofs_2super_8c.html#ac1185f869d0098a46d9287e7489092b8" title="exofs_fh_to_parent" alt="" coords="884,157,1017,184"/>
+<area shape="rect" id="node15" href="$exofs_2namei_8c.html#a84a21315059dbb3daa7c7a7f29e46433" title="exofs_add_nondir" alt="" coords="527,259,651,285"/>
+<area shape="rect" id="node20" href="$exofs_2namei_8c.html#a36a3295106abae0528ea76ee7683e96b" title="exofs_mkdir" alt="" coords="543,309,636,336"/>
+<area shape="rect" id="node16" href="$exofs_2namei_8c.html#a883fb5d1dc460c0121c697bc6df38be6" title="exofs_create" alt="" coords="726,309,823,336"/>
+<area shape="rect" id="node17" href="$exofs_2namei_8c.html#afe10c8a97d07755afa8817901e1a6783" title="exofs_mknod" alt="" coords="725,360,825,387"/>
+<area shape="rect" id="node18" href="$exofs_2namei_8c.html#a5aaf8579649c70eb5fe4ff9587187878" title="exofs_symlink" alt="" coords="721,208,828,235"/>
+<area shape="rect" id="node19" href="$exofs_2namei_8c.html#abd4fd6f7821a3b6a11753e4f9c46d999" title="exofs_link" alt="" coords="734,259,815,285"/>
+</map>

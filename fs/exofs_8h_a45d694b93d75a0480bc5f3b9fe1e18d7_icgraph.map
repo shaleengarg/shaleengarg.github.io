@@ -1,0 +1,6 @@
+<map id="exofs_new_inode" name="exofs_new_inode">
+<area shape="rect" id="node2" href="$exofs_2namei_8c.html#a883fb5d1dc460c0121c697bc6df38be6" title="exofs_create" alt="" coords="181,5,278,32"/>
+<area shape="rect" id="node3" href="$exofs_2namei_8c.html#afe10c8a97d07755afa8817901e1a6783" title="exofs_mknod" alt="" coords="179,56,279,83"/>
+<area shape="rect" id="node4" href="$exofs_2namei_8c.html#a5aaf8579649c70eb5fe4ff9587187878" title="exofs_symlink" alt="" coords="176,107,283,133"/>
+<area shape="rect" id="node5" href="$exofs_2namei_8c.html#a36a3295106abae0528ea76ee7683e96b" title="exofs_mkdir" alt="" coords="183,157,276,184"/>
+</map>

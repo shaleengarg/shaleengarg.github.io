@@ -1,0 +1,5 @@
+<map id="efivarfs_destroy" name="efivarfs_destroy">
+<area shape="rect" id="node2" href="$efivarfs_2super_8c.html#a93450b182242ebc83bc15d865fea6aa9" title="efivarfs_fill_super" alt="" coords="168,5,292,32"/>
+<area shape="rect" id="node4" href="$efivarfs_2super_8c.html#aba0881adb8bd0a3a32cdd0540bd4a40e" title="efivarfs_kill_sb" alt="" coords="175,56,285,83"/>
+<area shape="rect" id="node3" href="$efivarfs_2super_8c.html#a4f2fa0d7e3a8acf226ce86d917f860ad" title="efivarfs_mount" alt="" coords="340,5,448,32"/>
+</map>

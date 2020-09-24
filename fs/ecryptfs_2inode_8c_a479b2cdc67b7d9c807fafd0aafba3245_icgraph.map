@@ -1,0 +1,11 @@
+<map id="unlock_dir" name="unlock_dir">
+<area shape="rect" id="node2" href="$ecryptfs_2inode_8c.html#ac50545d926ea09c42dfce2125ed8df9d" title="ecryptfs_do_unlink" alt="" coords="136,56,267,83"/>
+<area shape="rect" id="node5" href="$ecryptfs_2inode_8c.html#a45cc972c14716395dcb08ba69f131dbe" title="ecryptfs_do_create" alt="" coords="135,5,268,32"/>
+<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a1c0f35e7eacc4a93afcb62b0e00db8af" title="ecryptfs_link" alt="" coords="153,107,249,133"/>
+<area shape="rect" id="node7" href="$ecryptfs_2inode_8c.html#ae9629ba2454c02f4efeba467903fb345" title="ecryptfs_symlink" alt="" coords="141,157,262,184"/>
+<area shape="rect" id="node8" href="$ecryptfs_2inode_8c.html#a35a0e534c61e1c4e8e4b7e8a37435a49" title="ecryptfs_mkdir" alt="" coords="147,208,255,235"/>
+<area shape="rect" id="node9" href="$ecryptfs_2inode_8c.html#a08b9b5fcde3d20e18d0590a2cffa8530" title="ecryptfs_rmdir" alt="" coords="149,259,254,285"/>
+<area shape="rect" id="node10" href="$ecryptfs_2inode_8c.html#a3898333419f388ded6c9d7b74b11d95a" title="ecryptfs_mknod" alt="" coords="144,309,259,336"/>
+<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="316,5,428,32"/>
+<area shape="rect" id="node4" href="$ecryptfs_2inode_8c.html#a6f7d4ab22990d4291d9a9ccea3cc8597" title="ecryptfs_unlink" alt="" coords="317,56,427,83"/>
+</map>

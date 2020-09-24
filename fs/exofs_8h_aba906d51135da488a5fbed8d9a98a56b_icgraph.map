@@ -1,0 +1,9 @@
+<map id="wait_obj_created" name="wait_obj_created">
+<area shape="rect" id="node2" href="$exofs_2inode_8c.html#ab1586c4aae1eb4a824ee9198300ccc35" title="writepage_strip" alt="" coords="187,5,298,32"/>
+<area shape="rect" id="node4" href="$exofs_2inode_8c.html#ab4280a63131727755ffffab03866d416" title="exofs_setattr" alt="" coords="193,56,292,83"/>
+<area shape="rect" id="node5" href="$exofs_2inode_8c.html#a7e40d60e682b90c9cd37fad5552593a3" title="exofs_update_inode" alt="" coords="173,107,312,133"/>
+<area shape="rect" id="node8" href="$exofs_2inode_8c.html#a843c8ba85394db3a4b3f547f29a73224" title="exofs_evict_inode" alt="" coords="360,157,487,184"/>
+<area shape="rect" id="node3" href="$exofs_2inode_8c.html#af6e5ea8f08ec9491b3837fb30fe574fe" title="exofs_writepages" alt="" coords="361,5,485,32"/>
+<area shape="rect" id="node6" href="$exofs_2inode_8c.html#a584c9874270536a92cc5313627d1d4f8" title="exofs_write_inode" alt="" coords="360,107,487,133"/>
+<area shape="rect" id="node7" href="$exofs_2super_8c.html#a5fa70c2a857691f01af4836f1245c8b5" title="exofs_statfs" alt="" coords="535,132,629,159"/>
+</map>

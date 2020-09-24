@@ -1,0 +1,18 @@
+<map id="fat_tolower" name="fat_tolower">
+<area shape="rect" id="node2" href="$fat_2dir_8c.html#af8c1bf389066542c246ca9d545911316" title="fat_parse_short" alt="" coords="140,201,252,228"/>
+<area shape="rect" id="node3" href="$fat_8h.html#a5db0f618fff327f154995eeb7f42917a" title="fat_search_long" alt="" coords="300,164,415,191"/>
+<area shape="rect" id="node14" href="$fat_2dir_8c.html#a4f6a297cafc2aff563d1d97e03a1c635" title="__fat_readdir" alt="" coords="309,227,406,253"/>
+<area shape="rect" id="node4" href="$fat_8h.html#aac1f6cd67da2a96d8f336cb717509079" title="fatwchar_to16" alt="" coords="468,85,572,112"/>
+<area shape="rect" id="node10" href="$namei__vfat_8c.html#a4aa5a1ae7384a4a13404814d5e5ce5cf" title="vfat_find" alt="" coords="484,164,556,191"/>
+<area shape="rect" id="node5" href="$namei__vfat_8c.html#aac2299b954846562480529f66bed53c4" title="vfat_build_slots" alt="" coords="625,56,739,83"/>
+<area shape="rect" id="node6" href="$namei__vfat_8c.html#ad80c526a5b5ebbc239b0da5940c1ff8b" title="vfat_add_entry" alt="" coords="787,56,895,83"/>
+<area shape="rect" id="node7" href="$namei__vfat_8c.html#a44e39f6ee6f350528d7820bbf34a1e49" title="vfat_create" alt="" coords="947,5,1033,32"/>
+<area shape="rect" id="node8" href="$namei__vfat_8c.html#a0630335572616aeadb502e0554330ca3" title="vfat_mkdir" alt="" coords="949,56,1031,83"/>
+<area shape="rect" id="node9" href="$namei__vfat_8c.html#a3abe7b2d5a7096ea96388a7850fb9da4" title="vfat_rename" alt="" coords="943,107,1037,133"/>
+<area shape="rect" id="node11" href="$namei__vfat_8c.html#a0f2e93818082f79c3f95c6297b09c14e" title="vfat_lookup" alt="" coords="637,157,727,184"/>
+<area shape="rect" id="node12" href="$namei__vfat_8c.html#a26955d67bec48965e47d3facd0705de5" title="vfat_rmdir" alt="" coords="642,208,722,235"/>
+<area shape="rect" id="node13" href="$namei__vfat_8c.html#ab15168165ae878f372ad9a49e437d767" title="vfat_unlink" alt="" coords="639,259,725,285"/>
+<area shape="rect" id="node15" href="$fat_2dir_8c.html#ad352df04124e9b53d31b2f3f404ee6c3" title="fat_readdir" alt="" coords="479,227,561,253"/>
+<area shape="rect" id="node16" href="$fat_2dir_8c.html#aeb57815296949d719272d57b9096022d" title="fat_ioctl_readdir" alt="" coords="463,284,577,311"/>
+<area shape="rect" id="node17" href="$fat_2dir_8c.html#adda55cae80895555af53d4c577b1b562" title="fat_dir_ioctl" alt="" coords="637,309,727,336"/>
+</map>

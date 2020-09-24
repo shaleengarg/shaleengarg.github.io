@@ -1,0 +1,7 @@
+<map id="ecryptfs_write_metadata_to_xattr" name="ecryptfs_write_metadata_to_xattr">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a42762f9a11a4a605720623e066b37aac" title="ecryptfs_write_metadata" alt="" coords="219,42,384,69"/>
+<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#a6bc52bfbdbdae09b52647394d90fdc70" title="ecryptfs_initialize_file" alt="" coords="432,42,579,69"/>
+<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="627,5,745,47"/>
+<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="630,71,742,98"/>
+<area shape="rect" id="node5" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="793,13,897,39"/>
+</map>

@@ -1,0 +1,28 @@
+var dat_8c =
+[
+    [ "nilfs_dat_info", "structnilfs__dat__info.html", "structnilfs__dat__info" ],
+    [ "NILFS_CNO_MAX", "dat_8c.html#a0496624cc82c01a91d74f588c20b8dc2", null ],
+    [ "NILFS_CNO_MIN", "dat_8c.html#aaff80245bcefbf55be4ac9ea116abeab", null ],
+    [ "nilfs_dat_abort_alloc", "dat_8c.html#a51c3495765ecf051e3877ecd35b04053", null ],
+    [ "nilfs_dat_abort_end", "dat_8c.html#acc248b516243691ab29ecc580788ef2e", null ],
+    [ "nilfs_dat_abort_entry", "dat_8c.html#a7fe751fecf6b5186c035fe92b9a5defb", null ],
+    [ "nilfs_dat_abort_update", "dat_8c.html#a761a88f5aff55130aa34daf1cc4530b5", null ],
+    [ "nilfs_dat_commit_alloc", "dat_8c.html#aec0d4be9c58232055e7bb8221e0bd1d7", null ],
+    [ "nilfs_dat_commit_end", "dat_8c.html#ad0f4cd7c68e6323e5206a1fbd9aa49e4", null ],
+    [ "nilfs_dat_commit_entry", "dat_8c.html#a296b378ada796279b7287ae62e336ada", null ],
+    [ "nilfs_dat_commit_free", "dat_8c.html#a34e46f7f320f80554415b5ea6682f5c5", null ],
+    [ "nilfs_dat_commit_start", "dat_8c.html#a3903209d0d55a07ad50ffcd2be4c84bf", null ],
+    [ "nilfs_dat_commit_update", "dat_8c.html#a7da177f852cc2371e39107f4626c1d73", null ],
+    [ "nilfs_dat_freev", "dat_8c.html#a91e8f9af4bb7b8f3e12f9344f70c058f", null ],
+    [ "nilfs_dat_get_vinfo", "dat_8c.html#a3f5272e9420b7a85207243daace2b072", null ],
+    [ "NILFS_DAT_I", "dat_8c.html#a234f85bcb51231903d007ece17b912f8", null ],
+    [ "nilfs_dat_mark_dirty", "dat_8c.html#a35fc687e41c5d28c8bd9d8df20bbf828", null ],
+    [ "nilfs_dat_move", "dat_8c.html#a5cc452a445de33849399a2cf1cd80e97", null ],
+    [ "nilfs_dat_prepare_alloc", "dat_8c.html#a847699730c6c40488a135453e5c0fe2d", null ],
+    [ "nilfs_dat_prepare_end", "dat_8c.html#a1cb6424a9c8455bb8018d3e635063aee", null ],
+    [ "nilfs_dat_prepare_entry", "dat_8c.html#a9a0c6961600f545f725b7b666c9abb8d", null ],
+    [ "nilfs_dat_prepare_start", "dat_8c.html#a3098732fc2ab7c7f54e01c1a3c53078e", null ],
+    [ "nilfs_dat_prepare_update", "dat_8c.html#a517700076f297593f902270e01ef88c2", null ],
+    [ "nilfs_dat_read", "dat_8c.html#acbbb0065f7b62b891f51d28e9a547a51", null ],
+    [ "nilfs_dat_translate", "dat_8c.html#a1641d48ed89a1de35dda5513abd31cc3", null ]
+];

@@ -1,0 +1,9 @@
+<map id="btrfs_clone_extent_buffer" name="btrfs_clone_extent_buffer">
+<area shape="rect" id="node2" href="$extent__io_8h.html#a04dba5c7fecd62f5173fe05d3deba25e" title="num_extent_pages" alt="" coords="607,5,739,32"/>
+<area shape="rect" id="node3" href="$extent__io_8c.html#af29fb6d60c0351dc356c9693e3b73d28" title="__alloc_extent_buffer" alt="" coords="197,52,344,79"/>
+<area shape="rect" id="node4" href="$extent__io_8c.html#aff53638991957d47ed7598815c2bada2" title="btrfs_release_extent\l_buffer" alt="" coords="201,103,341,145"/>
+<area shape="rect" id="node8" href="$extent__io_8c.html#aef4568c59eeab1fcb0320ce93b13a7fb" title="attach_extent_buffer_page" alt="" coords="183,169,359,196"/>
+<area shape="rect" id="node5" href="$extent__io_8c.html#a664832bdb9196f366f7bae8d23fe6491" title="btrfs_release_extent\l_buffer_page" alt="" coords="407,53,547,94"/>
+<area shape="rect" id="node7" href="$extent__io_8c.html#ae5972708be74df23a5a9cafdd514b7c8" title="__free_extent_buffer" alt="" coords="407,119,548,145"/>
+<area shape="rect" id="node6" href="$extent__io_8c.html#a1a013751a0b14ce9dfafe8760e418a85" title="extent_buffer_under_io" alt="" coords="596,60,751,87"/>
+</map>

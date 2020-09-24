@@ -1,0 +1,5 @@
+<map id="ep_create_wakeup_source" name="ep_create_wakeup_source">
+<area shape="rect" id="node2" href="$eventpoll_8c.html#a82a3f7ce10f1bf94f8adaefe61610357" title="ep_insert" alt="" coords="235,5,309,32"/>
+<area shape="rect" id="node4" href="$eventpoll_8c.html#a6100040ffea80dc8dae42ba596cb9385" title="ep_modify" alt="" coords="231,56,313,83"/>
+<area shape="rect" id="node3" href="$eventpoll_8c.html#ae001bb116245d06fc0cf570f45eb6776" title="SYSCALL_DEFINE4" alt="" coords="361,31,508,57"/>
+</map>

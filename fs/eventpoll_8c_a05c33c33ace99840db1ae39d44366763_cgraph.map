@@ -1,0 +1,27 @@
+<map id="SYSCALL_DEFINE6" name="SYSCALL_DEFINE6">
+<area shape="rect" id="node2" href="$eventpoll_8c.html#aca757c394ca590be453af8acb7027129" title="do_epoll_wait" alt="" coords="200,224,301,251"/>
+<area shape="rect" id="node3" href="$eventpoll_8c.html#adfdfbcb51fc70392c0d855abe639d1f3" title="is_file_epoll" alt="" coords="1053,144,1144,171"/>
+<area shape="rect" id="node4" href="$eventpoll_8c.html#a4510fe0bf97bdff1bfd159343e717a8e" title="ep_poll" alt="" coords="349,304,412,331"/>
+<area shape="rect" id="node5" href="$eventpoll_8c.html#a8b2d42b6b2d320ec090383ab60d00fff" title="ep_set_mstimeout" alt="" coords="483,413,612,440"/>
+<area shape="rect" id="node6" href="$select_8c.html#a34329121d5104f0d2d2b3d973653b2a7" title="select_estimate_accuracy" alt="" coords="460,464,635,491"/>
+<area shape="rect" id="node8" href="$eventpoll_8c.html#a0e180faa58f012fb7d0a4b0ce6d87c3b" title="ep_events_available" alt="" coords="477,195,617,221"/>
+<area shape="rect" id="node9" href="$eventpoll_8c.html#a7a5d6d8c1237a8ee5bb962292a981a4f" title="ep_busy_loop" alt="" coords="496,245,599,272"/>
+<area shape="rect" id="node10" href="$eventpoll_8c.html#aad5f71f54c64308b3618d44fa724e781" title="ep_reset_busy_poll\l_napi_id" alt="" coords="480,297,615,338"/>
+<area shape="rect" id="node11" href="$eventpoll_8c.html#aa0277fd4435518bafd5d6c01770b5cbf" title="ep_send_events" alt="" coords="489,363,606,389"/>
+<area shape="rect" id="node7" href="$select_8c.html#a56de72b94069d65900c0efb1f5b3afc2" title="__estimate_accuracy" alt="" coords="684,464,831,491"/>
+<area shape="rect" id="node12" href="$eventpoll_8c.html#a1749aa51d0e92f646929b3891b4dbf89" title="ep_scan_ready_list" alt="" coords="1031,289,1166,316"/>
+<area shape="rect" id="node18" href="$eventpoll_8c.html#aab188d6eee28e024420e40959b4b6499" title="ep_send_events_proc" alt="" coords="683,388,832,415"/>
+<area shape="rect" id="node13" href="$eventpoll_8c.html#ad230030d160f8c10a3e45436e33b6503" title="LIST_HEAD" alt="" coords="1254,309,1349,336"/>
+<area shape="rect" id="node14" href="$eventpoll_8c.html#ae1c712dbbbc7795cb8c2d9d8ae40ce66" title="ep_is_linked" alt="" coords="1466,208,1561,235"/>
+<area shape="rect" id="node15" href="$eventpoll_8c.html#aefa040e7d61a424986ea45b2f147e5f8" title="ep_pm_stay_awake" alt="" coords="1232,360,1371,387"/>
+<area shape="rect" id="node17" href="$eventpoll_8c.html#a059a419b0772b4d0553dbaee0af8bf53" title="ep_poll_safewake" alt="" coords="1450,259,1577,285"/>
+<area shape="rect" id="node16" href="$eventpoll_8c.html#a5ffbf74d616adb46f5ed04139f41dce2" title="ep_wakeup_source" alt="" coords="1446,385,1581,412"/>
+<area shape="rect" id="node19" href="$eventpoll_8c.html#acf6cff60e50a4b8d6d54c0f4f5110010" title="ep_item_poll" alt="" coords="880,203,975,229"/>
+<area shape="rect" id="node20" href="$eventpoll_8c.html#a58629f5bc9baf2155935dea00ddea172" title="ep_ptable_queue_proc" alt="" coords="1023,195,1175,221"/>
+<area shape="rect" id="node21" href="$eventpoll_8c.html#a9088839d8821250650e31b4ca75f6f9e" title="ep_item_from_epqueue" alt="" coords="1223,157,1380,184"/>
+<area shape="rect" id="node22" href="$eventpoll_8c.html#af14b5a0ae3610985858da14a876077f2" title="ep_poll_callback" alt="" coords="1242,107,1361,133"/>
+<area shape="rect" id="node23" href="$eventpoll_8c.html#abf486b6e9ebf52efbb1fe2181e0b13d3" title="ep_item_from_wait" alt="" coords="1447,5,1579,32"/>
+<area shape="rect" id="node24" href="$eventpoll_8c.html#a04e1136ba8cecb4321f34a24eebca20b" title="ep_set_busy_poll_napi_id" alt="" coords="1428,56,1599,83"/>
+<area shape="rect" id="node25" href="$eventpoll_8c.html#a0d368f7c44db085d8a421edeb8babdf2" title="ep_pm_stay_awake_rcu" alt="" coords="1432,107,1595,133"/>
+<area shape="rect" id="node26" href="$eventpoll_8c.html#a774efd858aae5d0327d180565ea1297d" title="ep_pwq_from_wait" alt="" coords="1448,157,1579,184"/>
+</map>

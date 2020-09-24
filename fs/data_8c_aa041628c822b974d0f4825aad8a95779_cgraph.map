@@ -1,0 +1,30 @@
+<map id="encrypt_one_page" name="encrypt_one_page">
+<area shape="rect" id="node2" href="$f2fs_8h.html#acde26798c7ca9ec96e306023fc9699d7" title="f2fs_encrypted_file" alt="" coords="201,29,333,56"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a916b06e502156bb17b7cc220271729de" title="f2fs_wait_on_block\l_writeback" alt="" coords="199,127,334,169"/>
+<area shape="rect" id="node22" href="$crypto_2crypto_8c.html#a49c93490a4358932673c23b21fbb1d1f" title="fscrypt_encrypt_page" alt="" coords="193,284,340,311"/>
+<area shape="rect" id="node28" href="$data_8c.html#a9741cd28cddcfddf8dfca440cc554496" title="f2fs_flush_merged_writes" alt="" coords="181,385,352,412"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#ab2b0bb50bacb1e82df81f84287d13e1e" title="f2fs_encrypted_inode" alt="" coords="424,5,571,32"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a8826c1c198e1e502d643792da13615d4" title="META_MAPPING" alt="" coords="433,56,561,83"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#a7c699e04b54dbb5f55a350f81fd520da" title="f2fs_wait_on_page_writeback" alt="" coords="400,157,595,184"/>
+<area shape="rect" id="node21" href="$f2fs_8h.html#a767b62b0aebed2a97d79f41acbc6f4c2" title="f2fs_put_page" alt="" coords="445,107,549,133"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a8a8c4c2d892d1eafc69f46df674f974a" title="F2FS_P_SB" alt="" coords="665,132,760,159"/>
+<area shape="rect" id="node11" href="$data_8c.html#a88a12e9f883516d61fb32fee5aa9d9cf" title="f2fs_submit_merged\l_write_cond" alt="" coords="643,201,783,242"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a775eff172a82c770b1982e02e4312eb8" title="F2FS_M_SB" alt="" coords="879,132,977,159"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="1105,132,1196,159"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="1311,132,1390,159"/>
+<area shape="rect" id="node12" href="$data_8c.html#ac0ed6cae26584bf007d2d6d2414c423a" title="__submit_merged_write_cond" alt="" coords="831,279,1025,305"/>
+<area shape="rect" id="node13" href="$data_8c.html#aaf82bab2fc97d4a9352191676a24a9e6" title="has_merged_page" alt="" coords="1087,245,1215,272"/>
+<area shape="rect" id="node17" href="$data_8c.html#a593875a244f0e06ba21750c23b072718" title="__f2fs_submit_merged\l_write" alt="" coords="1073,297,1228,338"/>
+<area shape="rect" id="node14" href="$data_8c.html#a8c668c3fbe27e13dd63b20be7aa6bbe5" title="__has_merged_page" alt="" coords="1279,245,1422,272"/>
+<area shape="rect" id="node15" href="$node_8h.html#a25b4efea4358592966a006ce61c6eca8" title="ino_of_node" alt="" coords="1477,245,1569,272"/>
+<area shape="rect" id="node16" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="1620,245,1720,272"/>
+<area shape="rect" id="node18" href="$data_8c.html#a270fc17649f23406d8ac83e3b321a845" title="__submit_merged_bio" alt="" coords="1276,304,1425,331"/>
+<area shape="rect" id="node19" href="$data_8c.html#a57f8ec8e7d936d32c17825d1dc8f9f41" title="__submit_bio" alt="" coords="1473,304,1572,331"/>
+<area shape="rect" id="node20" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="1624,304,1716,331"/>
+<area shape="rect" id="node23" href="$crypto_2crypto_8c.html#a54b1c5526cd4eccd22ebb1e73c3fc385" title="fscrypt_do_page_crypto" alt="" coords="417,208,578,235"/>
+<area shape="rect" id="node24" href="$crypto_2crypto_8c.html#acd08deb87a35766b62dd8373706cf091" title="fscrypt_get_ctx" alt="" coords="441,259,553,285"/>
+<area shape="rect" id="node25" href="$crypto_2crypto_8c.html#a191e3998d0d9505e9aa78f5d02c0e766" title="EXPORT_SYMBOL" alt="" coords="643,309,782,336"/>
+<area shape="rect" id="node26" href="$crypto_2crypto_8c.html#a1f4b4ee23f3f6ea7869b12de76151f8e" title="fscrypt_alloc_bounce_page" alt="" coords="407,360,587,387"/>
+<area shape="rect" id="node27" href="$crypto_2crypto_8c.html#a664e13aac936b7996a7ded8c10ad2df9" title="fscrypt_release_ctx" alt="" coords="429,411,565,437"/>
+<area shape="rect" id="node29" href="$data_8c.html#a5b9bc773fee216fa84c75e76fef56116" title="f2fs_submit_merged\l_write" alt="" coords="643,407,783,449"/>
+</map>

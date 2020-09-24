@@ -1,0 +1,6 @@
+<map id="exofs_dotdot" name="exofs_dotdot">
+<area shape="rect" id="node2" href="$exofs_8h.html#a02478b40e05a4316302b7f003f5b21c3" title="exofs_parent_ino" alt="" coords="151,5,272,32"/>
+<area shape="rect" id="node5" href="$exofs_2namei_8c.html#a0ee41dd79deebf33f1fe543a7a0958f8" title="exofs_rename" alt="" coords="159,56,263,83"/>
+<area shape="rect" id="node3" href="$exofs_2super_8c.html#ac9d21744436ce19efb29f47282afab9a" title="exofs_get_parent" alt="" coords="320,5,443,32"/>
+<area shape="rect" id="node4" href="$exofs_2super_8c.html#ac1185f869d0098a46d9287e7489092b8" title="exofs_fh_to_parent" alt="" coords="491,5,624,32"/>
+</map>

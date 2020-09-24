@@ -1,0 +1,12 @@
+<map id="9p/fid.h" name="9p/fid.h">
+<area shape="rect" id="node2" href="$9p_2acl_8c.html" title="9p/acl.c" alt="" coords="5,80,73,107"/>
+<area shape="rect" id="node3" href="$fid_8c.html" title="9p/fid.c" alt="" coords="97,80,163,107"/>
+<area shape="rect" id="node4" href="$vfs__addr_8c.html" title="9p/vfs_addr.c" alt="" coords="187,80,289,107"/>
+<area shape="rect" id="node5" href="$vfs__dentry_8c.html" title="9p/vfs_dentry.c" alt="" coords="313,80,425,107"/>
+<area shape="rect" id="node6" href="$vfs__dir_8c.html" title="9p/vfs_dir.c" alt="" coords="449,80,539,107"/>
+<area shape="rect" id="node7" href="$vfs__file_8c.html" title="9p/vfs_file.c" alt="" coords="563,80,657,107"/>
+<area shape="rect" id="node8" href="$vfs__inode_8c.html" title="9p/vfs_inode.c" alt="" coords="681,80,787,107"/>
+<area shape="rect" id="node9" href="$vfs__inode__dotl_8c.html" title="9p/vfs_inode_dotl.c" alt="" coords="812,80,947,107"/>
+<area shape="rect" id="node10" href="$vfs__super_8c.html" title="9p/vfs_super.c" alt="" coords="971,80,1079,107"/>
+<area shape="rect" id="node11" href="$9p_2xattr_8c.html" title="9p/xattr.c" alt="" coords="1103,80,1181,107"/>
+</map>

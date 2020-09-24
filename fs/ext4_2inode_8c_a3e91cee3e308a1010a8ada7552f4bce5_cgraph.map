@@ -1,0 +1,6 @@
+<map id="ext4_invalidatepage" name="ext4_invalidatepage">
+<area shape="rect" id="node2" href="$buffer_8c.html#a5a3a2688e1a990c62395a509a2be034d" title="block_invalidatepage" alt="" coords="191,31,333,57"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a4122ca331def2fc065103b630286b2eb" title="discard_buffer" alt="" coords="381,5,485,32"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="681,31,820,57"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="533,5,633,32"/>
+</map>

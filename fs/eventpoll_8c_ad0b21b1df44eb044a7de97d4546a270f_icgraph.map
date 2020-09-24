@@ -1,0 +1,11 @@
+<map id="ep_unregister_pollwait" name="ep_unregister_pollwait">
+<area shape="rect" id="node2" href="$eventpoll_8c.html#a8eb56461ede0bf759691bfcbb025267b" title="ep_remove" alt="" coords="204,81,291,108"/>
+<area shape="rect" id="node3" href="$eventpoll_8c.html#af917743220971cd0179a9a553965e17a" title="ep_free" alt="" coords="379,31,445,57"/>
+<area shape="rect" id="node10" href="$eventpoll_8c.html#a82a3f7ce10f1bf94f8adaefe61610357" title="ep_insert" alt="" coords="210,132,285,159"/>
+<area shape="rect" id="node8" href="$eventpoll_8c.html#a7e2f6c1f0c1a1e263c7af0b8f42b450b" title="eventpoll_release_file" alt="" coords="339,81,485,108"/>
+<area shape="rect" id="node9" href="$eventpoll_8c.html#ae001bb116245d06fc0cf570f45eb6776" title="SYSCALL_DEFINE4" alt="" coords="339,132,485,159"/>
+<area shape="rect" id="node4" href="$eventpoll_8c.html#afbb57752173c5f5155f775865a75d9bf" title="ep_eventpoll_release" alt="" coords="533,5,677,32"/>
+<area shape="rect" id="node6" href="$eventpoll_8c.html#ae11b1f5b5be837852cf7a79089ca3453" title="do_epoll_create" alt="" coords="549,56,662,83"/>
+<area shape="rect" id="node5" href="$eventpoll_8c.html#af149c14e6af0354b4322e702e6e91b5d" title="ep_eventpoll_poll" alt="" coords="737,5,860,32"/>
+<area shape="rect" id="node7" href="$eventpoll_8c.html#a35cfc10a2ff1ef1f15406c59e7cfba06" title="SYSCALL_DEFINE1" alt="" coords="725,56,872,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ecryptfs_destroy_inode" name="ecryptfs_destroy_inode">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a5240470a17155c25d11458eb2504a7ab" title="ecryptfs_inode_to_private" alt="" coords="443,23,613,50"/>
+<area shape="rect" id="node3" href="$ecryptfs_2crypto_8c.html#a83389a63b87e4af4d99cd464dae97beb" title="ecryptfs_destroy_crypt_stat" alt="" coords="211,23,395,50"/>
+<area shape="rect" id="node4" href="$ecryptfs_2super_8c.html#a45a31a8a616bbcb2aaf7aa130d30e2fc" title="ecryptfs_i_callback" alt="" coords="235,74,370,101"/>
+</map>

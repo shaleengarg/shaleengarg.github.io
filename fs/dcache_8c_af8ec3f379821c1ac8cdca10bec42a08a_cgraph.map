@@ -1,0 +1,6 @@
+<map id="detach_and_collect" name="detach_and_collect">
+<area shape="rect" id="node2" href="$dcache_8c.html#ab9c0fece5c680f2c592413b6d3239ae9" title="__dget_dlock" alt="" coords="190,5,289,32"/>
+<area shape="rect" id="node3" href="$dcache_8c.html#a7043ab7e8420be1ae9f3fb80145671f9" title="select_collect" alt="" coords="188,56,291,83"/>
+<area shape="rect" id="node4" href="$dcache_8c.html#aa69465ec94d92f14786fdce2f5bfb175" title="d_lru_del" alt="" coords="351,31,425,57"/>
+<area shape="rect" id="node5" href="$dcache_8c.html#aec2f4f54045b1e6a267e8d09609977b3" title="d_shrink_add" alt="" coords="339,81,437,108"/>
+</map>

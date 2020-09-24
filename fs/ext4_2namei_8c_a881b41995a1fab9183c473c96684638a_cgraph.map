@@ -1,0 +1,5 @@
+<map id="ext4_generic_delete_entry" name="ext4_generic_delete_entry">
+<area shape="rect" id="node2" href="$ext4_8h.html#af96e643b3e5b9c3a91a8c9981f0232a6" title="ext4_rec_len_to_disk" alt="" coords="192,5,337,32"/>
+<area shape="rect" id="node3" href="$ext4_8h.html#a34f2510638b4330bc3ff0431cf0e0765" title="ext4_rec_len_from_disk" alt="" coords="385,81,545,108"/>
+<area shape="rect" id="node4" href="$ext4_2namei_8c.html#a6c666d1f21e1645013f53c872280fb68" title="ext4_next_entry" alt="" coords="207,107,322,133"/>
+</map>

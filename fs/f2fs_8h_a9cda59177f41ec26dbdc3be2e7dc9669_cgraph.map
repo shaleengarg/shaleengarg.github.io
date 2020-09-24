@@ -1,0 +1,7 @@
+<map id="inode_inc_dirty_pages" name="inode_inc_dirty_pages">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="228,5,293,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a4b20cd3f318e8e62ed4cec6b03530ed6" title="inc_page_count" alt="" coords="204,56,317,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="215,107,306,133"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="365,56,457,83"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="372,107,451,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="__set_data_blkaddr" name="__set_data_blkaddr">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="369,6,469,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a2e7e36ea91927828f300a312b08a5a8b" title="IS_INODE" alt="" coords="203,31,289,58"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#adf012f8b4a141e87533929532a847866" title="f2fs_has_extra_attr" alt="" coords="352,132,487,159"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#aba102f52ce9c86ee0da7fe94c8ad15bb" title="get_extra_isize" alt="" coords="541,183,651,210"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a23f046c39b6ddf0ffbab446c06e5f1a0" title="blkaddr_in_node" alt="" coords="188,132,304,159"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="535,132,657,159"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="705,158,771,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="find_next_inuse" name="find_next_inuse">
+<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#a64b241e184efb5a6e835e9d0f1d2cb3b" title="init_dirty_segmap" alt="" coords="167,5,291,32"/>
+<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#a957f1b78e9c1d89dd84b8e79082bfb68" title="build_dirty_segmap" alt="" coords="339,5,473,32"/>
+<area shape="rect" id="node4" href="$f2fs_2segment_8c.html#afa166763e69e3cc5d86dac43bfafb1e3" title="build_segment_manager" alt="" coords="521,5,684,32"/>
+<area shape="rect" id="node5" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="732,5,835,32"/>
+<area shape="rect" id="node6" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="883,5,969,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="fat_add_entries" name="fat_add_entries">
+<area shape="rect" id="node2" href="$fat_8h.html#aac1f6cd67da2a96d8f336cb717509079" title="fatwchar_to16" alt="" coords="175,31,279,57"/>
+<area shape="rect" id="node4" href="$namei__vfat_8c.html#ad80c526a5b5ebbc239b0da5940c1ff8b" title="vfat_add_entry" alt="" coords="519,56,627,83"/>
+<area shape="rect" id="node8" href="$namei__msdos_8c.html#aaa575f805b3bac80c4b56d9ad22a46bb" title="msdos_add_entry" alt="" coords="164,157,289,184"/>
+<area shape="rect" id="node3" href="$namei__vfat_8c.html#aac2299b954846562480529f66bed53c4" title="vfat_build_slots" alt="" coords="347,31,460,57"/>
+<area shape="rect" id="node5" href="$namei__vfat_8c.html#a44e39f6ee6f350528d7820bbf34a1e49" title="vfat_create" alt="" coords="680,5,767,32"/>
+<area shape="rect" id="node6" href="$namei__vfat_8c.html#a0630335572616aeadb502e0554330ca3" title="vfat_mkdir" alt="" coords="682,56,765,83"/>
+<area shape="rect" id="node7" href="$namei__vfat_8c.html#a3abe7b2d5a7096ea96388a7850fb9da4" title="vfat_rename" alt="" coords="676,107,771,133"/>
+<area shape="rect" id="node9" href="$namei__msdos_8c.html#a745e83298479e4e0a8bd5eb578c77a9a" title="msdos_create" alt="" coords="351,132,455,159"/>
+<area shape="rect" id="node10" href="$namei__msdos_8c.html#adb705d5f57b4b80899be5053e7f84e83" title="msdos_mkdir" alt="" coords="353,183,453,209"/>
+<area shape="rect" id="node11" href="$namei__msdos_8c.html#ac162198cf9fbdf1b928ae4bdb4a9b136" title="do_msdos_rename" alt="" coords="337,233,469,260"/>
+<area shape="rect" id="node12" href="$namei__msdos_8c.html#a57e274e7ed12c03e53c07d8f4079c1c9" title="msdos_rename" alt="" coords="517,233,628,260"/>
+</map>

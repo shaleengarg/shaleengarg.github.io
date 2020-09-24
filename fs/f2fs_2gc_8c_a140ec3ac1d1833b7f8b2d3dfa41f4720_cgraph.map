@@ -1,0 +1,8 @@
+<map id="get_gc_cost" name="get_gc_cost">
+<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="455,56,559,83"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a0cb6f455698330ee766bf6392e28057b" title="get_valid_blocks" alt="" coords="288,5,407,32"/>
+<area shape="rect" id="node7" href="$f2fs_2gc_8c.html#a364894e68edb2c25c06663c8469e0173" title="get_cb_cost" alt="" coords="147,56,240,83"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="607,56,661,83"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="709,56,763,83"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8h.html#a133ba535f58ff0a92717621028cc2779" title="get_sec_entry" alt="" coords="455,5,559,32"/>
+</map>

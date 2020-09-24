@@ -1,0 +1,7 @@
+<map id="copy_strings" name="copy_strings">
+<area shape="rect" id="node2" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="149,5,268,32"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a2ad16003e18c63a8884f90f1743edbe7" title="valid_arg_len" alt="" coords="159,56,258,83"/>
+<area shape="rect" id="node4" href="$exec_8c.html#a74a5738a9e41c16e395881e83e6551b5" title="get_arg_page" alt="" coords="159,107,259,133"/>
+<area shape="rect" id="node5" href="$exec_8c.html#af71e894661e4c0329c95438a737f1183" title="put_arg_page" alt="" coords="159,157,259,184"/>
+<area shape="rect" id="node6" href="$exec_8c.html#a622499f6ac18c6aa4ebbc7a539458577" title="flush_arg_page" alt="" coords="153,208,264,235"/>
+</map>

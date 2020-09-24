@@ -1,0 +1,8 @@
+<map id="get_direct_parent" name="get_direct_parent">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#ae0e2d8866196537b150f2dc0c34a9fa8" title="B_IS_IN_TREE" alt="" coords="191,5,306,32"/>
+<area shape="rect" id="node3" href="$reiserfs_2lock_8c.html#acffafbcd9e9d400a9018c23375afed69" title="reiserfs_write_unlock\l_nested" alt="" coords="176,57,321,98"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ac2f21d8452ec8e7f51270bacf8df7e59" title="__wait_on_buffer" alt="" coords="188,188,309,215"/>
+<area shape="rect" id="node7" href="$reiserfs_2lock_8c.html#a340707d69035995c991dfd2de6693360" title="reiserfs_write_lock\l_nested" alt="" coords="183,122,314,163"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#a0e265314d75fff703a39c90e48f4462b" title="REISERFS_SB" alt="" coords="381,97,496,124"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="369,188,508,215"/>
+</map>

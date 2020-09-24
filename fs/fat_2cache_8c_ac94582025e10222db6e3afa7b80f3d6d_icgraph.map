@@ -1,0 +1,5 @@
+<map id="init_once" name="init_once">
+<area shape="rect" id="node2" href="$fat_8h.html#a87c74b3c603695a3f12e9ec50fabb825" title="fat_cache_init" alt="" coords="128,5,231,32"/>
+<area shape="rect" id="node3" href="$fat_2inode_8c.html#a8eaa4f50faacbe709dbfd6e5dcf97b29" title="init_fat_fs" alt="" coords="279,5,357,32"/>
+<area shape="rect" id="node4" href="$fat_2inode_8c.html#aa980c03ca48389c6a4184794abdd074a" title="exit_fat_fs" alt="" coords="405,5,488,32"/>
+</map>

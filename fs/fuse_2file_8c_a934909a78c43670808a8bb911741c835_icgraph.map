@@ -1,0 +1,6 @@
+<map id="fuse_ioctl_common" name="fuse_ioctl_common">
+<area shape="rect" id="node2" href="$fuse_2dir_8c.html#a35792231d6b2a8a6e194d1635fa1d40f" title="fuse_dir_ioctl" alt="" coords="215,5,313,32"/>
+<area shape="rect" id="node3" href="$fuse_2dir_8c.html#a6a6ab4b48d212c848da416be72126dcc" title="fuse_dir_compat_ioctl" alt="" coords="189,56,339,83"/>
+<area shape="rect" id="node4" href="$fuse_2file_8c.html#a539159245d95b02994b9a598244410a6" title="fuse_file_ioctl" alt="" coords="213,107,315,133"/>
+<area shape="rect" id="node5" href="$fuse_2file_8c.html#aaa5060e19b445340bd339f478eaa5bed" title="fuse_file_compat_ioctl" alt="" coords="188,157,340,184"/>
+</map>

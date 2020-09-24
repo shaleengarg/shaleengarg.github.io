@@ -1,0 +1,6 @@
+<map id="sanity_check_area_boundary" name="sanity_check_area_boundary">
+<area shape="rect" id="node2" href="$f2fs_2super_8c.html#a868e48d0f05d79b6cf6be98c538989bf" title="sanity_check_raw_super" alt="" coords="244,5,411,32"/>
+<area shape="rect" id="node3" href="$f2fs_2super_8c.html#a2135218bf008a374dbcbb7b97a3b0d7e" title="read_raw_super_block" alt="" coords="459,5,611,32"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="659,5,761,32"/>
+<area shape="rect" id="node5" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="809,5,896,32"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="ff_layout_write_prepare_v4" name="ff_layout_write_prepare_v4">
+<area shape="rect" id="node2" href="$nfs4proc_8c.html#a656e3277e84555aa24aa327857e13715" title="nfs4_setup_sequence" alt="" coords="236,173,385,200"/>
+<area shape="rect" id="node10" href="$flexfilelayout_2flexfilelayout_8c.html#a41a4e722c6ca8a9193ea5f69f7a098f3" title="ff_layout_write_prepare\l_common" alt="" coords="232,339,389,381"/>
+<area shape="rect" id="node25" href="$nfs4proc_8c.html#ab52dd00a3f26d96bc2dfa1472bb0c20d" title="nfs4_set_rw_stateid" alt="" coords="241,263,380,289"/>
+<area shape="rect" id="node3" href="$nfs4session_8c.html#a17ac12a5c80edeeeb636251f5e541688" title="nfs4_alloc_slot" alt="" coords="477,56,587,83"/>
+<area shape="rect" id="node7" href="$nfs4proc_8c.html#a057cb01eb2c3d6968079aa64036a77d0" title="nfs4_sequence_process\l_interrupted" alt="" coords="451,107,613,149"/>
+<area shape="rect" id="node8" href="$nfs4proc_8c.html#aaaaf205db83673265b70949daa91e2f2" title="nfs4_sequence_attach_slot" alt="" coords="441,173,623,200"/>
+<area shape="rect" id="node9" href="$nfs4proc_8c.html#a14ace6180e01ee96b1e8c430446a48fe" title="EXPORT_SYMBOL_GPL" alt="" coords="446,224,618,251"/>
+<area shape="rect" id="node4" href="$nfs4session_8c.html#a1b8596f0771e688c405ee009adc830d4" title="nfs4_find_or_create_slot" alt="" coords="689,56,853,83"/>
+<area shape="rect" id="node6" href="$nfs4session_8c.html#a49336b7e8b2d96f81a9b920f587d7a27" title="nfs4_lock_slot" alt="" coords="718,5,825,32"/>
+<area shape="rect" id="node5" href="$nfs4session_8c.html#aa541623176dc49b6d9325d5238ddd4eb" title="nfs4_new_slot" alt="" coords="945,56,1051,83"/>
+<area shape="rect" id="node11" href="$flexfilelayout_2flexfilelayout_8c.html#a29af9855040feb09c2f5bf7f0d0a1765" title="ff_layout_device_unavailable" alt="" coords="437,347,627,373"/>
+<area shape="rect" id="node17" href="$flexfilelayout_2flexfilelayout_8c.html#ae6ae436ec2d82dcfc58e50c3c44f7735" title="ff_layout_write_record\l_layoutstats_start" alt="" coords="457,442,607,483"/>
+<area shape="rect" id="node12" href="$flexfilelayout_8h.html#a9752f9a330bd74073d17fe54fc7e04fc" title="FF_LAYOUT_DEVID_NODE" alt="" coords="675,399,868,425"/>
+<area shape="rect" id="node14" href="$flexfilelayout_8h.html#a355f84ce3a7534574723d873909b7a1c" title="ff_layout_test_devid\l_unavailable" alt="" coords="702,333,841,374"/>
+<area shape="rect" id="node13" href="$flexfilelayout_8h.html#ad3d3c011533c107708d54cf5edae52b9" title="FF_LAYOUT_LSEG" alt="" coords="928,399,1068,425"/>
+<area shape="rect" id="node15" href="$pnfs__dev_8c.html#ab222e711b80bc044c2f6aa9471224c3d" title="nfs4_test_deviceid\l_unavailable" alt="" coords="933,333,1063,374"/>
+<area shape="rect" id="node16" href="$pnfs__dev_8c.html#a580b48a27275d9a1109e2e773d4fc0ca" title="EXPORT_SYMBOL_GPL" alt="" coords="1133,340,1305,367"/>
+<area shape="rect" id="node18" href="$flexfilelayout_2flexfilelayout_8c.html#a53bffb387dc13709e2f6c4874b74d404" title="nfs4_ff_layout_stat\l_io_start_write" alt="" coords="705,501,838,542"/>
+<area shape="rect" id="node24" href="$flexfilelayout_8h.html#ac72d06b3d9f6b8bedef57016ce7cfc00" title="FF_LAYOUT_COMP" alt="" coords="699,449,844,476"/>
+<area shape="rect" id="node19" href="$flexfilelayout_2flexfilelayout_8c.html#a00c91da8c17571354dc952a46bc1e102" title="nfs4_ff_layoutstat\l_start_io" alt="" coords="935,501,1061,542"/>
+<area shape="rect" id="node22" href="$flexfilelayout_2flexfilelayout_8c.html#aca75a72fc087206bbe8ae799ddc4c8cb" title="nfs4_ff_layout_stat\l_io_update_requested" alt="" coords="923,566,1073,607"/>
+<area shape="rect" id="node23" href="$pnfs_8h.html#a70c2fcd58b64f82d91b2bd2283f8372f" title="pnfs_report_layoutstat" alt="" coords="923,449,1073,476"/>
+<area shape="rect" id="node20" href="$flexfilelayout_8h.html#af853e9eed5a206d84f6818870366adea" title="FF_LAYOUT_FROM_HDR" alt="" coords="1128,479,1309,505"/>
+<area shape="rect" id="node21" href="$flexfilelayout_2flexfilelayout_8c.html#a5f6bd8acfbf4eec8f60995c4632540f3" title="nfs4_ff_start_busy\l_timer" alt="" coords="1153,530,1284,571"/>
+<area shape="rect" id="node26" href="$nfs4state_8c.html#a53a0b004cac6ff26731168e84e82cbe7" title="nfs4_select_rw_stateid" alt="" coords="454,275,610,301"/>
+<area shape="rect" id="node27" href="$nfs4state_8c.html#a52b1058ba55ba16d44c70ef75844f6b7" title="nfs4_copy_lock_stateid" alt="" coords="692,164,851,191"/>
+<area shape="rect" id="node32" href="$delegation_8c.html#a8a697f6191d82407ec40b9fc6040cd59" title="nfs4_copy_delegation\l_stateid" alt="" coords="697,215,845,257"/>
+<area shape="rect" id="node35" href="$nfs4state_8c.html#ac8709fbf89c08df183af7bff1b64b605" title="nfs4_copy_open_stateid" alt="" coords="690,281,853,308"/>
+<area shape="rect" id="node28" href="$nfs4state_8c.html#a40d9d441cfde0c789347b439b57d547f" title="__nfs4_find_lock_state" alt="" coords="920,115,1076,141"/>
+<area shape="rect" id="node29" href="$nfs4state_8c.html#a8e0edc9138c5fc3c759029b6c80f1677" title="nfs4_put_lock_state" alt="" coords="929,165,1067,192"/>
+<area shape="rect" id="node30" href="$nfs4state_8c.html#a189518d59bbfc6de8a69bd38273f211b" title="nfs4_free_lock_state" alt="" coords="1147,165,1290,192"/>
+<area shape="rect" id="node31" href="$nfs4state_8c.html#a44ccf42f70dcbfd211125cf839bd75cd" title="nfs4_destroy_seqid\l_counter" alt="" coords="1357,158,1492,199"/>
+<area shape="rect" id="node33" href="$delegation_8c.html#a16680327363a3a6dcd520eb2a96bd586" title="nfs4_is_valid_delegation" alt="" coords="916,216,1080,243"/>
+<area shape="rect" id="node34" href="$delegation_8c.html#ae67d0e2c32997c940e5039c1dab3b2e7" title="nfs_mark_delegation\l_referenced" alt="" coords="927,267,1069,309"/>
+</map>

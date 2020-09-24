@@ -1,0 +1,11 @@
+<map id="remove_lock" name="remove_lock">
+<area shape="rect" id="node2" href="$dlm_2lock_8c.html#aa8c153b80be4151eb54ffccc57e1d833" title="set_lvb_unlock" alt="" coords="149,81,259,108"/>
+<area shape="rect" id="node6" href="$dlm_2lock_8c.html#a55ce312012b54fa6b013325f639d5303" title="_remove_lock" alt="" coords="153,157,255,184"/>
+<area shape="rect" id="node3" href="$dlm__internal_8h.html#aad41ab348123acdbb2f6f4941dc46149" title="rsb_set_flag" alt="" coords="319,5,413,32"/>
+<area shape="rect" id="node4" href="$memory_8c.html#a296cd0ade9f165d66a268dbf6b1c9bd9" title="dlm_allocate_lvb" alt="" coords="307,56,425,83"/>
+<area shape="rect" id="node5" href="$dlm__internal_8h.html#a17061e1356a0f7ed07e5ac7e203b0b51" title="rsb_clear_flag" alt="" coords="315,107,417,133"/>
+<area shape="rect" id="node7" href="$dlm_2lock_8c.html#aa3174650640ace95f6ab28af1d1e328d" title="del_lkb" alt="" coords="335,157,397,184"/>
+<area shape="rect" id="node8" href="$dlm_2lock_8c.html#a0a3373645b905e4e06bc73273882c0c9" title="unhold_lkb" alt="" coords="473,183,557,209"/>
+<area shape="rect" id="node9" href="$dlm_2lock_8c.html#a8daaef8aa995c68981b37b44533dfe92" title="kill_lkb" alt="" coords="605,157,668,184"/>
+<area shape="rect" id="node10" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="716,183,815,209"/>
+</map>

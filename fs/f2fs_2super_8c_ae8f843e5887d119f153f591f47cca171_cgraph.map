@@ -1,0 +1,7 @@
+<map id="kill_f2fs_super" name="kill_f2fs_super">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="183,5,275,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="190,56,269,83"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a4826cbd60f3bf54360d4ce94bae9b914" title="stop_gc_thread" alt="" coords="174,107,285,133"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#aace4fcf4e196dd09d23b1d51a93959d5" title="stop_discard_thread" alt="" coords="160,157,299,184"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="347,157,400,184"/>
+</map>

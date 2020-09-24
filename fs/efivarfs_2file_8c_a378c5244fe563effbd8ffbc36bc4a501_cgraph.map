@@ -1,0 +1,19 @@
+<map id="efivarfs_ioc_setxflags" name="efivarfs_ioc_setxflags">
+<area shape="rect" id="node2" href="$inode_8c.html#a2359f9f4ea541a79ff23035a6c89cb03" title="inode_owner_or_capable" alt="" coords="203,5,368,32"/>
+<area shape="rect" id="node4" href="$namespace_8c.html#abec48677d6bf1090f17dd8b54cdee81d" title="mnt_want_write_file" alt="" coords="216,271,355,297"/>
+<area shape="rect" id="node15" href="$inode_8c.html#abd5f64c5d3de9831c52db188a3825839" title="inode_set_flags" alt="" coords="229,56,342,83"/>
+<area shape="rect" id="node16" href="$namespace_8c.html#a0ce94dc25dc93a0b5e1a9282e43e0a97" title="mnt_drop_write_file" alt="" coords="425,93,559,120"/>
+<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="423,17,561,44"/>
+<area shape="rect" id="node5" href="$namespace_8c.html#af19741fc533f0e0a2acda44e925f80eb" title="may_write_real" alt="" coords="437,372,547,399"/>
+<area shape="rect" id="node6" href="$namespace_8c.html#afc62e617cec97974d570093f778e30e0" title="__mnt_want_write_file" alt="" coords="416,220,568,247"/>
+<area shape="rect" id="node12" href="$namespace_8c.html#a14b50b29ea751e02e86a7c9a2fa01128" title="EXPORT_SYMBOL_GPL" alt="" coords="1148,271,1320,297"/>
+<area shape="rect" id="node7" href="$namespace_8c.html#ae8d4c494f66a0cda8744bf47ebeba01f" title="__mnt_want_write" alt="" coords="621,144,749,171"/>
+<area shape="rect" id="node14" href="$namespace_8c.html#aba77afe1262e538d2854159761e6bcb2" title="mnt_clone_write" alt="" coords="627,220,744,247"/>
+<area shape="rect" id="node8" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="819,119,905,145"/>
+<area shape="rect" id="node9" href="$namespace_8c.html#a24aaa0bb913baa617bc4d19fad011a99" title="mnt_inc_writers" alt="" coords="805,169,919,196"/>
+<area shape="rect" id="node10" href="$namespace_8c.html#a1e8eac40e0b14fb052603f900a411760" title="mnt_is_readonly" alt="" coords="803,68,921,95"/>
+<area shape="rect" id="node13" href="$namespace_8c.html#a6b6223aa5bccbed87645de18e8b0abac" title="mnt_dec_writers" alt="" coords="803,17,921,44"/>
+<area shape="rect" id="node11" href="$namespace_8c.html#ae435f6295042ca4769078d0b11c47713" title="__mnt_is_readonly" alt="" coords="969,220,1100,247"/>
+<area shape="rect" id="node17" href="$namespace_8c.html#ad990c81af66b82e8c66b009dd531b77b" title="__mnt_drop_write" alt="" coords="623,43,748,69"/>
+<area shape="rect" id="node18" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="616,93,755,120"/>
+</map>

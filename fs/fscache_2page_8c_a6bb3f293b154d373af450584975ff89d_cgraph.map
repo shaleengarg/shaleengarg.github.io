@@ -1,0 +1,14 @@
+<map id="fscache_wait_for_operation_activation" name="fscache_wait_for_operation_activation">
+<area shape="rect" id="node2" href="$fscache_2internal_8h.html#a8dee5403771003d0fb09997285fb0dae" title="fscache_cancel_op" alt="" coords="235,56,369,83"/>
+<area shape="rect" id="node3" href="$orangefs-bufmap_8c.html#ae7af37ba2ab97a7a598771c9febc5605" title="put" alt="" coords="481,5,521,32"/>
+<area shape="rect" id="node4" href="$operation_8c.html#a83201421c6568ec30bbd53e66f2f16ff" title="fscache_start_operations" alt="" coords="417,56,585,83"/>
+<area shape="rect" id="node7" href="$operation_8c.html#a5867d82b2ba12929f54781201f5097ea" title="fscache_put_operation" alt="" coords="1028,56,1181,83"/>
+<area shape="rect" id="node5" href="$operation_8c.html#a13c71b4e601334cab1c755a37c7cf627" title="fscache_run_op" alt="" coords="633,5,748,32"/>
+<area shape="rect" id="node6" href="$operation_8c.html#a7a604dce890393870f2a46ebb834a21f" title="fscache_enqueue_operation" alt="" coords="796,5,980,32"/>
+<area shape="rect" id="node13" href="$operation_8c.html#a00ac110d33214ad22210fb27f5aa23b5" title="EXPORT_SYMBOL" alt="" coords="1231,5,1370,32"/>
+<area shape="rect" id="node8" href="$fscache_2internal_8h.html#aae52858a78e36ae08f2098a073e68db6" title="fscache_raise_event" alt="" coords="1229,56,1372,83"/>
+<area shape="rect" id="node9" href="$fscache_2internal_8h.html#a3d39a831595401a170f4984148482c3a" title="fscache_enqueue_object" alt="" coords="1420,56,1587,83"/>
+<area shape="rect" id="node10" href="$object_8c.html#a56a15d20f5e28b4e88921cc74fd54057" title="fscache_get_object" alt="" coords="1656,5,1791,32"/>
+<area shape="rect" id="node11" href="$fscache_2internal_8h.html#ad018e8818f8733cc02afef4b643b3400" title="fscache_object_congested" alt="" coords="1635,56,1812,83"/>
+<area shape="rect" id="node12" href="$object_8c.html#a049577147beb84269b63d41bcad8743e" title="fscache_put_object" alt="" coords="1656,107,1791,133"/>
+</map>

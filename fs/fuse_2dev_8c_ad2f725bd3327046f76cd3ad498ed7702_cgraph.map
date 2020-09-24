@@ -1,0 +1,9 @@
+<map id="fuse_read_interrupt" name="fuse_read_interrupt">
+<area shape="rect" id="node2" href="$fuse_2dev_8c.html#adfadf50ccadcc3d18823e40fabaa4e01" title="fuse_get_unique" alt="" coords="187,43,304,69"/>
+<area shape="rect" id="node3" href="$fuse_2dev_8c.html#a4ad47f3a7c4281fc4b8e32f626cd0682" title="fuse_copy_one" alt="" coords="190,93,301,120"/>
+<area shape="rect" id="node6" href="$fuse_2dev_8c.html#a37d55fe7f59d77bb688f94f17327a905" title="fuse_copy_finish" alt="" coords="503,119,623,145"/>
+<area shape="rect" id="node4" href="$fuse_2dev_8c.html#a57cf84732954f65204993c77f9ccac28" title="fuse_copy_fill" alt="" coords="352,43,455,69"/>
+<area shape="rect" id="node8" href="$fuse_2dev_8c.html#a7d238b53dfc6244771ee8634bac92fec" title="fuse_copy_do" alt="" coords="352,93,455,120"/>
+<area shape="rect" id="node5" href="$fuse_2dev_8c.html#a49b222cf866e43d121efc1be3883148e" title="unlock_request" alt="" coords="507,5,618,32"/>
+<area shape="rect" id="node7" href="$fuse_2dev_8c.html#a40e6e6bef94d0a1408d344d18df4fa79" title="lock_request" alt="" coords="515,56,611,83"/>
+</map>

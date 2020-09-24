@@ -1,0 +1,16 @@
+<map id="fscache_alloc_retrieval" name="fscache_alloc_retrieval">
+<area shape="rect" id="node2" href="$operation_8c.html#a87402c9f130b88e7384bd0d9722f474f" title="fscache_operation_init" alt="" coords="227,111,379,137"/>
+<area shape="rect" id="node12" href="$fscache_2page_8c.html#af299a7beb36f7e5ed8dbecebb6b36b14" title="fscache_do_cancel_retrieval" alt="" coords="210,169,397,196"/>
+<area shape="rect" id="node13" href="$fscache_2page_8c.html#a5ac37c5fc9faaae95218f8f325b7276d" title="fscache_release_retrieval_op" alt="" coords="208,220,399,247"/>
+<area shape="rect" id="node15" href="$fscache_2internal_8h.html#a98b7d506e886609806a8fb358deb0819" title="fscache_get_context" alt="" coords="232,271,375,297"/>
+<area shape="rect" id="node3" href="$operation_8c.html#a056ce321cd1cb3fdebf15c23a9f7cbf0" title="fscache_op_work_func" alt="" coords="458,56,614,83"/>
+<area shape="rect" id="node10" href="$operation_8c.html#a00ac110d33214ad22210fb27f5aa23b5" title="EXPORT_SYMBOL" alt="" coords="877,107,1015,133"/>
+<area shape="rect" id="node11" href="$operation_8c.html#aec6c8a7a085cba1ad72447a7f1f28d57" title="fscache_operation_dummy\l_cancel" alt="" coords="447,158,625,199"/>
+<area shape="rect" id="node4" href="$operation_8c.html#a5867d82b2ba12929f54781201f5097ea" title="fscache_put_operation" alt="" coords="673,56,827,83"/>
+<area shape="rect" id="node5" href="$fscache_2internal_8h.html#aae52858a78e36ae08f2098a073e68db6" title="fscache_raise_event" alt="" coords="875,56,1017,83"/>
+<area shape="rect" id="node6" href="$fscache_2internal_8h.html#a3d39a831595401a170f4984148482c3a" title="fscache_enqueue_object" alt="" coords="1065,56,1232,83"/>
+<area shape="rect" id="node7" href="$object_8c.html#a56a15d20f5e28b4e88921cc74fd54057" title="fscache_get_object" alt="" coords="1301,5,1436,32"/>
+<area shape="rect" id="node8" href="$fscache_2internal_8h.html#ad018e8818f8733cc02afef4b643b3400" title="fscache_object_congested" alt="" coords="1280,56,1457,83"/>
+<area shape="rect" id="node9" href="$object_8c.html#a049577147beb84269b63d41bcad8743e" title="fscache_put_object" alt="" coords="1301,107,1436,133"/>
+<area shape="rect" id="node14" href="$fscache_2internal_8h.html#a260efcfe0a6e69e042ee99bc78c56636" title="fscache_put_context" alt="" coords="465,224,607,251"/>
+</map>

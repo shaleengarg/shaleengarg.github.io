@@ -1,0 +1,8 @@
+<map id="btrfs_readdir_get_delayed_items" name="btrfs_readdir_get_delayed_items">
+<area shape="rect" id="node2" href="$delayed-inode_8c.html#a65a02af30bf83ac7463c0a28820968d3" title="btrfs_get_delayed_node" alt="" coords="233,5,393,32"/>
+<area shape="rect" id="node4" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="275,56,352,83"/>
+<area shape="rect" id="node5" href="$delayed-inode_8c.html#aa605a5288e194e95f07fec51485fc961" title="__btrfs_first_delayed\l_insertion_item" alt="" coords="242,107,385,149"/>
+<area shape="rect" id="node6" href="$delayed-inode_8c.html#a849c5f81273e075a4e5bb50c6925fe00" title="__btrfs_next_delayed_item" alt="" coords="224,173,403,200"/>
+<area shape="rect" id="node7" href="$delayed-inode_8c.html#a01d499f96b9fe807223c6e11f25a3763" title="__btrfs_first_delayed\l_deletion_item" alt="" coords="242,225,385,266"/>
+<area shape="rect" id="node3" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="451,5,523,32"/>
+</map>

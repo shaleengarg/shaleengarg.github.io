@@ -1,0 +1,5 @@
+<map id="nfs4_check_delegation" name="nfs4_check_delegation">
+<area shape="rect" id="node2" href="$delegation_8c.html#a594e7ce77170ce448ddd0c6c2885453c" title="nfs4_do_check_delegation" alt="" coords="208,35,384,61"/>
+<area shape="rect" id="node3" href="$delegation_8c.html#a16680327363a3a6dcd520eb2a96bd586" title="nfs4_is_valid_delegation" alt="" coords="432,5,596,32"/>
+<area shape="rect" id="node4" href="$delegation_8c.html#ae67d0e2c32997c940e5039c1dab3b2e7" title="nfs_mark_delegation\l_referenced" alt="" coords="443,57,585,98"/>
+</map>

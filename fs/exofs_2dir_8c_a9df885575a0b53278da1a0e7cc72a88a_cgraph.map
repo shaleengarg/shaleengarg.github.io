@@ -1,0 +1,11 @@
+<map id="exofs_inode_by_name" name="exofs_inode_by_name">
+<area shape="rect" id="node2" href="$exofs_2dir_8c.html#addb7804949ae61ee46c54a93611abc03" title="exofs_find_entry" alt="" coords="205,157,324,184"/>
+<area shape="rect" id="node7" href="$exofs_2dir_8c.html#a8ea9e324c05c58eee71c4f255f5aa025" title="exofs_put_page" alt="" coords="551,107,665,133"/>
+<area shape="rect" id="node3" href="$exofs_8h.html#af019a6a62b007db81067dbca8a8c66d7" title="exofs_i" alt="" coords="401,5,465,32"/>
+<area shape="rect" id="node4" href="$exofs_2dir_8c.html#abf503f62ae20dff97cbf0d43905984e9" title="exofs_get_page" alt="" coords="376,56,491,83"/>
+<area shape="rect" id="node8" href="$exofs_2dir_8c.html#aafb62477c71ffb38e41b64b3999bb327" title="exofs_last_byte" alt="" coords="376,157,491,184"/>
+<area shape="rect" id="node9" href="$exofs_2dir_8c.html#a9a24c8f792050e95907d1c45ee0df295" title="exofs_match" alt="" coords="385,208,482,235"/>
+<area shape="rect" id="node10" href="$exofs_2dir_8c.html#a8cc08043e672b933160bdd3e26122c81" title="exofs_next_entry" alt="" coords="372,259,495,285"/>
+<area shape="rect" id="node5" href="$exofs_2dir_8c.html#a928ded6ade88968116a47895a467baec" title="exofs_check_page" alt="" coords="543,56,673,83"/>
+<area shape="rect" id="node6" href="$exofs_2dir_8c.html#a3eede7cdccfcb6f13efcbcf56f62398d" title="exofs_chunk_size" alt="" coords="721,56,848,83"/>
+</map>

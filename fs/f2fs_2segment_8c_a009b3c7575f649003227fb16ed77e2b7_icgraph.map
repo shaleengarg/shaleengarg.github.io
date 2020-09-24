@@ -1,0 +1,7 @@
+<map id="discard_dirty_segmap" name="discard_dirty_segmap">
+<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#a7a504b2da674a0d86c465433af3a289d" title="destroy_dirty_segmap" alt="" coords="203,31,353,57"/>
+<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#a68799a158aa6e7d4c17da108fe5f5526" title="destroy_segment_manager" alt="" coords="401,31,580,57"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#aad19a5f9488f11563b29758fa0995681" title="f2fs_put_super" alt="" coords="628,5,736,32"/>
+<area shape="rect" id="node5" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="631,56,733,83"/>
+<area shape="rect" id="node6" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="784,56,871,83"/>
+</map>

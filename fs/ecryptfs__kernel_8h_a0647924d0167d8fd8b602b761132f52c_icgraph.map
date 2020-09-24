@@ -1,0 +1,5 @@
+<map id="ecryptfs_file_to_private" name="ecryptfs_file_to_private">
+<area shape="rect" id="node2" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="228,5,332,32"/>
+<area shape="rect" id="node3" href="$ecryptfs_2file_8c.html#a9cd17edb24424c96a47d5ad3885f469d" title="ecryptfs_release" alt="" coords="221,56,339,83"/>
+<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#acea93098d0fbaaf9bdb664a4e5414d1a" title="ecryptfs_dir_release" alt="" coords="211,107,349,133"/>
+</map>

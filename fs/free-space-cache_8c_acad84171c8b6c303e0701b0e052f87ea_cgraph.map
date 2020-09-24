@@ -1,0 +1,5 @@
+<map id="btrfs_bitmap_cluster" name="btrfs_bitmap_cluster">
+<area shape="rect" id="node2" href="$free-space-cache_8c.html#a09ef0758a72796858a4061a0cbfe0d4a" title="offset_to_bit" alt="" coords="207,5,302,32"/>
+<area shape="rect" id="node3" href="$free-space-cache_8c.html#a5f418a86ac45156a79860615a852d8e9" title="bytes_to_bits" alt="" coords="205,56,305,83"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html#a6e46501afab00d48acc8c9aafbc1bbf3" title="tree_insert_offset" alt="" coords="193,107,316,133"/>
+</map>

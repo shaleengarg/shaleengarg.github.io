@@ -1,0 +1,8 @@
+<map id="xdr_decode_AFSFetchStatus" name="xdr_decode_AFSFetchStatus">
+<area shape="rect" id="node2" href="$fsclient_8c.html#aa1496bc408f01855a914288bd1b9d2c5" title="afs_update_inode_from\l_status" alt="" coords="247,23,404,65"/>
+<area shape="rect" id="node6" href="$fsclient_8c.html#a49fcaf28c2cf2ebe987d6e09b2ee621d" title="xdr_dump_bad" alt="" coords="272,89,379,116"/>
+<area shape="rect" id="node7" href="$afs_2internal_8h.html#a9f11733b71112d1a5eae719097a57978" title="afs_protocol_error" alt="" coords="262,140,389,167"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="452,31,527,57"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="575,5,659,32"/>
+<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="707,31,845,57"/>
+</map>

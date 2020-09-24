@@ -1,0 +1,12 @@
+<map id="nfs4flexfilelayout_exit" name="nfs4flexfilelayout_exit">
+<area shape="rect" id="node2" href="$pnfs_8c.html#a4b68b75cb32db6dbb694f5ed144264ef" title="pnfs_unregister_layoutdriver" alt="" coords="428,17,613,44"/>
+<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#ab1f5fc593193cdf83a225604f04fe0a7" title="MODULE_ALIAS" alt="" coords="229,42,353,69"/>
+<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="219,93,363,120"/>
+<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#afbc57b83dbc9c0c44c5061ef53086ba6" title="MODULE_DESCRIPTION" alt="" coords="201,144,380,170"/>
+<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#af2d874bd68cdd2d0a835ce190f89ec9b" title="module_init" alt="" coords="247,194,335,221"/>
+<area shape="rect" id="node8" href="$flexfilelayout_2flexfilelayout_8c.html#a671615794992a2677d7067ad7ae82025" title="nfs4flexfilelayout_init" alt="" coords="219,245,363,272"/>
+<area shape="rect" id="node11" href="$flexfilelayout_2flexfilelayout_8c.html#a96db0505fdbbf70ff56e13127ae296b5" title="module_exit" alt="" coords="245,296,337,322"/>
+<area shape="rect" id="node3" href="$pnfs_8c.html#a988f879e23537553e2430103eabb3fcf" title="EXPORT_SYMBOL_GPL" alt="" coords="661,42,833,69"/>
+<area shape="rect" id="node9" href="$pnfs_8c.html#a235ea8f02239c1ecc2800c361f2d0c30" title="pnfs_register_layoutdriver" alt="" coords="435,144,606,170"/>
+<area shape="rect" id="node10" href="$pnfs_8c.html#aaba209154c05263d876ef1ec21ed8a73" title="find_pnfs_driver_locked" alt="" coords="668,144,827,170"/>
+</map>

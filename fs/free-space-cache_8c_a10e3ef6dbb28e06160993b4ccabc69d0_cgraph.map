@@ -1,0 +1,12 @@
+<map id="remove_from_bitmap" name="remove_from_bitmap">
+<area shape="rect" id="node2" href="$free-space-cache_8c.html#a65c456ee19e094069b38feac9439f9a9" title="search_bitmap" alt="" coords="385,31,492,57"/>
+<area shape="rect" id="node5" href="$free-space-cache_8c.html#a9f9be29280b267bf617951f5a4e237e2" title="bitmap_clear_bits" alt="" coords="197,81,321,108"/>
+<area shape="rect" id="node9" href="$free-space-cache_8c.html#abf64d8d3551f3ccd1964c956a4d51c3c" title="free_bitmap" alt="" coords="214,132,305,159"/>
+<area shape="rect" id="node3" href="$free-space-cache_8c.html#a09ef0758a72796858a4061a0cbfe0d4a" title="offset_to_bit" alt="" coords="579,5,674,32"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html#a5f418a86ac45156a79860615a852d8e9" title="bytes_to_bits" alt="" coords="577,56,677,83"/>
+<area shape="rect" id="node6" href="$free-space-cache_8c.html#a9de39ee9080161ac68d21103019b7a76" title="__bitmap_clear_bits" alt="" coords="369,81,508,108"/>
+<area shape="rect" id="node7" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="599,107,654,133"/>
+<area shape="rect" id="node8" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="745,107,864,133"/>
+<area shape="rect" id="node10" href="$free-space-cache_8c.html#ae6f7723726e0d433a216f99d55904979" title="unlink_free_space" alt="" coords="375,132,502,159"/>
+<area shape="rect" id="node11" href="$free-space-cache_8c.html#aa9b533bcfe8cbfc50520175df951d27a" title="__unlink_free_space" alt="" coords="556,157,697,184"/>
+</map>

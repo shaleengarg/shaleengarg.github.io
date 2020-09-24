@@ -1,0 +1,10 @@
+<map id="sanity_check_ckpt" name="sanity_check_ckpt">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a7dffbcf93012840e801f5357ebc2669e" title="F2FS_RAW_SUPER" alt="" coords="184,5,331,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="571,81,669,108"/>
+<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#aea59cabbbe928c13475a7b8d330642ba" title="reserved_segments" alt="" coords="189,107,325,133"/>
+<area shape="rect" id="node6" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="219,157,295,184"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a0e41fe42294e84b647d4ca523b98bec0" title="f2fs_cp_error" alt="" coords="208,208,307,235"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="414,107,467,133"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#aa1fbd95eb602ca6a2eeb415faf02e0db" title="is_set_ckpt_flags" alt="" coords="379,183,503,209"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#abb6676bbd589a9ca63ae2dd34a6501f7" title="__is_set_ckpt_flags" alt="" coords="551,183,689,209"/>
+</map>

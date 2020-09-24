@@ -1,0 +1,10 @@
+<map id="DEFINE_DEBUGFS_ATTRIBUTE" name="DEFINE_DEBUGFS_ATTRIBUTE">
+<area shape="rect" id="node2" href="$debugfs_2file_8c.html#a688cbd1b61f034393a5ba10ce32f897a" title="debugfs_u8_get" alt="" coords="298,5,413,32"/>
+<area shape="rect" id="node3" href="$debugfs_2file_8c.html#a6b2c7d49b5ea230413965254fc83b864" title="debugfs_create_ulong" alt="" coords="479,107,628,133"/>
+<area shape="rect" id="node4" href="$debugfs_2file_8c.html#ac8f958c7ed72d9b8325c3952cec2ad02" title="debugfs_u16_get" alt="" coords="295,107,416,133"/>
+<area shape="rect" id="node5" href="$debugfs_2file_8c.html#ae408d338c1b50d1641e4feb8b60046c3" title="debugfs_u32_get" alt="" coords="295,157,416,184"/>
+<area shape="rect" id="node6" href="$debugfs_2file_8c.html#a1d9247542d7251bdbe92b05a561e606c" title="debugfs_u64_get" alt="" coords="295,208,416,235"/>
+<area shape="rect" id="node7" href="$debugfs_2file_8c.html#ad49220359c71fc0ede80482c0525717a" title="debugfs_ulong_get" alt="" coords="290,259,421,285"/>
+<area shape="rect" id="node8" href="$debugfs_2file_8c.html#ad93a856e8678394388dbe13367def59d" title="debugfs_size_t_get" alt="" coords="288,309,423,336"/>
+<area shape="rect" id="node9" href="$debugfs_2file_8c.html#af206661139f8bee9c696d77708539447" title="debugfs_atomic_t_get" alt="" coords="280,360,431,387"/>
+</map>

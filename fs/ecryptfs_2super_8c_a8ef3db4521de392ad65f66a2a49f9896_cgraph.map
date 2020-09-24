@@ -1,0 +1,11 @@
+<map id="ecryptfs_statfs" name="ecryptfs_statfs">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ac2ee045a66c2ebc91f8a5dbc00570d95" title="ecryptfs_dentry_to\l_lower" alt="" coords="178,5,309,47"/>
+<area shape="rect" id="node3" href="$ecryptfs_2crypto_8c.html#a242a3936967823155d280092fcaf8fc7" title="ecryptfs_set_f_namelen" alt="" coords="163,71,324,98"/>
+<area shape="rect" id="node10" href="$ecryptfs__kernel_8h.html#ab0987a55f9bd100b72e69f9dc54d1e39" title="ecryptfs_superblock\l_to_private" alt="" coords="174,123,313,164"/>
+<area shape="rect" id="node4" href="$ecryptfs_2crypto_8c.html#ae54bca868720dfaccd8b4817f93fb70a" title="ecryptfs_get_tfm_and\l_mutex_for_cipher_name" alt="" coords="382,35,550,76"/>
+<area shape="rect" id="node9" href="$ecryptfs_2crypto_8c.html#a0ea9292f17c3b9850cdbf23be411aacb" title="ecryptfs_max_decoded_size" alt="" coords="372,101,560,127"/>
+<area shape="rect" id="node5" href="$ecryptfs_2crypto_8c.html#a546635bf3080054059b6f8cef79ca4c1" title="ecryptfs_tfm_exists" alt="" coords="631,17,768,43"/>
+<area shape="rect" id="node6" href="$ecryptfs_2crypto_8c.html#a41519bf356d367a394b8efb980ee6e51" title="ecryptfs_add_new_key_tfm" alt="" coords="608,67,791,94"/>
+<area shape="rect" id="node7" href="$ecryptfs_2crypto_8c.html#a88557d40f80d1debaac45a30526e9f0e" title="ecryptfs_process_key\l_cipher" alt="" coords="839,60,989,101"/>
+<area shape="rect" id="node8" href="$ecryptfs_2crypto_8c.html#a5901e51bc8f4d9b71eb0c0692e483b6f" title="ecryptfs_crypto_api\l_algify_cipher_name" alt="" coords="1037,60,1179,101"/>
+</map>

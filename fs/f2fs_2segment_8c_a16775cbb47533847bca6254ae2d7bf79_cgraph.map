@@ -1,0 +1,6 @@
+<map id="build_free_segmap" name="build_free_segmap">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a8618342bf5f08a91e956d39efbdb4f2f" title="f2fs_kzalloc" alt="" coords="189,5,281,32"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="209,56,262,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#ae1165e29e3458f6e3f5f23d3318f9fa3" title="f2fs_kvmalloc" alt="" coords="184,107,287,133"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a036c8838aa2eee8ace8e6940d0352a7a" title="f2fs_kmalloc" alt="" coords="335,5,431,32"/>
+</map>

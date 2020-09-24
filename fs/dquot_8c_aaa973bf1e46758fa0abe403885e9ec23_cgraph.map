@@ -1,0 +1,6 @@
+<map id="dqcache_shrink_scan" name="dqcache_shrink_scan">
+<area shape="rect" id="node2" href="$dquot_8c.html#ab0fccd6be289dc0e92c94ddd6ad7e068" title="remove_dquot_hash" alt="" coords="201,5,340,32"/>
+<area shape="rect" id="node3" href="$dquot_8c.html#a3798e2de3b3f80db6fcd2567e64c14c2" title="remove_free_dquot" alt="" coords="204,56,337,83"/>
+<area shape="rect" id="node4" href="$dquot_8c.html#a958babc611f43c4864c20bd1a01505c5" title="remove_inuse" alt="" coords="219,107,322,133"/>
+<area shape="rect" id="node5" href="$dquot_8c.html#a3b6cd0dcb248638973d0ee739d339506" title="do_destroy_dquot" alt="" coords="208,157,333,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ext4_get_journal" name="ext4_get_journal">
+<area shape="rect" id="node2" href="$ext4_2super_8c.html#a8d161f5c939109ce482d03e0f49c83d0" title="ext4_load_journal" alt="" coords="171,5,293,32"/>
+<area shape="rect" id="node3" href="$ext4_2super_8c.html#afbd5bc21c085ba46199b01d9c906c0c4" title="ext4_fill_super" alt="" coords="341,5,448,32"/>
+<area shape="rect" id="node4" href="$ext4_2super_8c.html#a29cf15a2bc142d6643c83291cdd15d86" title="ext4_mount" alt="" coords="496,5,587,32"/>
+</map>

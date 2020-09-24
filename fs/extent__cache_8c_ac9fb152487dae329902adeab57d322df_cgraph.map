@@ -1,0 +1,28 @@
+<map id="f2fs_update_extent_tree_range" name="f2fs_update_extent_tree_range">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="1032,489,1123,516"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="1235,144,1301,171"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="1016,144,1139,171"/>
+<area shape="rect" id="node6" href="$extent__cache_8c.html#a49202cdad516806d6dcd0900d273fa65" title="__drop_largest_extent" alt="" coords="409,144,560,171"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#ac118578b3853482a50926edcb4a15b39" title="set_inode_flag" alt="" coords="1024,245,1131,272"/>
+<area shape="rect" id="node13" href="$extent__cache_8c.html#a35457e8c3f4b94c33081de8338402de4" title="__lookup_rb_tree_ret" alt="" coords="201,363,344,389"/>
+<area shape="rect" id="node14" href="$f2fs_8h.html#a843e361df4da264f86f6db47d2f4acea" title="set_extent_info" alt="" coords="217,413,328,440"/>
+<area shape="rect" id="node15" href="$extent__cache_8c.html#af92a2f9ca2410ac6c5c2fdeaf6f00128" title="__insert_extent_tree" alt="" coords="203,312,343,339"/>
+<area shape="rect" id="node18" href="$f2fs_8h.html#a5db361da7f1bc2d00781b328a81ac937" title="__try_update_largest\l_extent" alt="" coords="413,414,556,455"/>
+<area shape="rect" id="node19" href="$extent__cache_8c.html#a8f9d05e95dfc4d0de28c270b7ecd1d6c" title="__release_extent_node" alt="" coords="407,683,563,709"/>
+<area shape="rect" id="node21" href="$extent__cache_8c.html#a5441f7c5effeb14b633db4d957e9da7c" title="__try_merge_extent_node" alt="" coords="187,523,359,549"/>
+<area shape="rect" id="node25" href="$extent__cache_8c.html#af9faede5da5f010e8bde438147e0cac7" title="__free_extent_tree" alt="" coords="207,733,338,760"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="1229,489,1307,516"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#ac05f284e0e89efa8af4815d17c069dcf" title="f2fs_mark_inode_dirty_sync" alt="" coords="611,271,796,297"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#ac8a36e745fdd4142adf16bb8c806e7ec" title="f2fs_inode_dirtied" alt="" coords="844,245,968,272"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#a4b20cd3f318e8e62ed4cec6b03530ed6" title="inc_page_count" alt="" coords="1021,347,1134,373"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#af345bf9b66bc15454b71b2cb9c4b89b4" title="__mark_inode_dirty_flag" alt="" coords="1187,271,1349,297"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="1222,347,1314,373"/>
+<area shape="rect" id="node16" href="$extent__cache_8c.html#a167d73c6ce47fd8c77882d7526aa16cd" title="__lookup_rb_tree_for\l_insert" alt="" coords="413,246,556,287"/>
+<area shape="rect" id="node17" href="$extent__cache_8c.html#ae5db793cd3ab9ff6121363c97d5e9c94" title="__attach_extent_node" alt="" coords="409,312,560,339"/>
+<area shape="rect" id="node20" href="$extent__cache_8c.html#a2f74326c61da55803872bdd847d8cec5" title="__detach_extent_node" alt="" coords="627,683,780,709"/>
+<area shape="rect" id="node22" href="$f2fs_8h.html#ad86f292f3c5afc397a113b5ef660f96f" title="__is_back_mergeable" alt="" coords="411,531,559,557"/>
+<area shape="rect" id="node24" href="$f2fs_8h.html#ab773234c2145985622656547fcb8a397" title="__is_front_mergeable" alt="" coords="411,480,558,507"/>
+<area shape="rect" id="node23" href="$f2fs_8h.html#a79f3449fbe28000b7c7175c69394355d" title="__is_extent_mergeable" alt="" coords="625,505,781,532"/>
+<area shape="rect" id="node26" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="457,733,512,760"/>
+<area shape="rect" id="node27" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="644,733,763,760"/>
+</map>

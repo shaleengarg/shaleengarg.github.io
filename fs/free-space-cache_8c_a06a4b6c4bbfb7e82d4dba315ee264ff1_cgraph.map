@@ -1,0 +1,18 @@
+<map id="write_pinned_extent_entries" name="write_pinned_extent_entries">
+<area shape="rect" id="node2" href="$extent__io_8c.html#a34edaf46e8ac9d55b218b73a442328b6" title="find_first_extent_bit" alt="" coords="192,111,328,137"/>
+<area shape="rect" id="node12" href="$free-space-cache_8c.html#ae0762dbb52406fa40ac6196d6479aaf8" title="io_ctl_add_entry" alt="" coords="201,220,319,247"/>
+<area shape="rect" id="node3" href="$extent__io_8c.html#aadde8cec886b76ebf3479e96c752665d" title="extent_state_in_tree" alt="" coords="567,28,707,55"/>
+<area shape="rect" id="node6" href="$extent__io_8c.html#a4952d3ab1782287038eb2b068378f0cf" title="free_extent_state" alt="" coords="386,52,509,79"/>
+<area shape="rect" id="node7" href="$extent__io_8c.html#a0d209b399b57dc10932618d6624d82d4" title="find_first_extent_bit\l_state" alt="" coords="379,103,515,145"/>
+<area shape="rect" id="node11" href="$extent__io_8c.html#a5f36b7002f901ce6bee186c8d1a8da42" title="cache_state_if_flags" alt="" coords="376,169,519,196"/>
+<area shape="rect" id="node4" href="$v9fs_8c.html#a962ef1b35907bdda12de2cddce8bc638" title="LIST_HEAD" alt="" coords="783,5,877,32"/>
+<area shape="rect" id="node5" href="$v9fs_8c.html#a00692f7dddc385047f0cf60fbd76d3fb" title="DEFINE_SPINLOCK" alt="" coords="757,56,903,83"/>
+<area shape="rect" id="node8" href="$extent__io_8c.html#a69da98b4b5fc8b28b435f40f0b3ae3d7" title="tree_search" alt="" coords="591,111,682,137"/>
+<area shape="rect" id="node9" href="$extent__io_8c.html#a43d41a48cceb6534327d9d7358aa3f7a" title="tree_search_for_insert" alt="" coords="755,111,905,137"/>
+<area shape="rect" id="node10" href="$extent__io_8c.html#abe467271d634b8343246cb5501b8baa5" title="__etree_search" alt="" coords="953,111,1064,137"/>
+<area shape="rect" id="node13" href="$free-space-cache_8c.html#a51f19602da9ea91e1a3f999b1061c5da" title="io_ctl_set_crc" alt="" coords="396,220,499,247"/>
+<area shape="rect" id="node17" href="$free-space-cache_8c.html#a6c453e82369140026c433085ec15a0d1" title="io_ctl_map_page" alt="" coords="387,271,507,297"/>
+<area shape="rect" id="node14" href="$free-space-cache_8c.html#ab04efc5914b94d4a23464c9704a3435f" title="io_ctl_unmap_page" alt="" coords="569,169,704,196"/>
+<area shape="rect" id="node15" href="$disk-io_8c.html#afefd1a76d3df3a8f54251a3aa9ef057b" title="btrfs_csum_data" alt="" coords="577,220,696,247"/>
+<area shape="rect" id="node16" href="$disk-io_8c.html#af1c87f201f23dab002e655d9c571af52" title="btrfs_csum_final" alt="" coords="577,271,696,297"/>
+</map>

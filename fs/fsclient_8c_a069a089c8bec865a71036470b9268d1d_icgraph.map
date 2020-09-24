@@ -1,0 +1,6 @@
+<map id="xdr_encode_AFS_StoreStatus" name="xdr_encode_AFS_StoreStatus">
+<area shape="rect" id="node2" href="$fsclient_8c.html#a24bfe1075c7fbaf06ec8eb98a63a4d34" title="afs_fs_setattr_size64" alt="" coords="252,5,399,32"/>
+<area shape="rect" id="node3" href="$fsclient_8c.html#a9938abd0d4dd97080be3583ce8b55172" title="afs_fs_setattr_size" alt="" coords="447,56,580,83"/>
+<area shape="rect" id="node4" href="$afs_2internal_8h.html#a0315300baec4a13163f18a797b9c5ca6" title="afs_fs_setattr" alt="" coords="628,81,731,108"/>
+<area shape="rect" id="node5" href="$afs_2internal_8h.html#a536e78f49417b99b9d96f792c1e8ac50" title="afs_setattr" alt="" coords="779,81,863,108"/>
+</map>

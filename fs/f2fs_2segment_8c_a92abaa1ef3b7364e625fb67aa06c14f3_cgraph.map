@@ -1,0 +1,12 @@
+<map id="__punch_discard_cmd" name="__punch_discard_cmd">
+<area shape="rect" id="node2" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="876,152,929,178"/>
+<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#aee54f1020d046a7d0c8816dc6ae9d513" title="__remove_discard_cmd" alt="" coords="207,50,367,77"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#afbb4521a7f8de0b9dc3cda1860e25e15" title="__relocate_discard_cmd" alt="" coords="205,101,368,128"/>
+<area shape="rect" id="node7" href="$f2fs_2segment_8c.html#a80f6997c7423897d39e309707e433d88" title="__insert_discard_tree" alt="" coords="213,181,360,208"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="456,50,532,77"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a94a30ae7ae7150e8d8e9bc5cd4c6ef94" title="__detach_discard_cmd" alt="" coords="416,101,572,128"/>
+<area shape="rect" id="node8" href="$extent__cache_8c.html#a167d73c6ce47fd8c77882d7526aa16cd" title="__lookup_rb_tree_for\l_insert" alt="" coords="423,203,565,244"/>
+<area shape="rect" id="node9" href="$f2fs_2segment_8c.html#a8ed4bc5a487e66d74b2f11197565ed2e" title="__attach_discard_cmd" alt="" coords="417,269,571,296"/>
+<area shape="rect" id="node10" href="$f2fs_2segment_8c.html#a5f9d777683c3ffbd4953e39e7d7a7d9f" title="__create_discard_cmd" alt="" coords="620,265,773,292"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="821,265,984,292"/>
+</map>

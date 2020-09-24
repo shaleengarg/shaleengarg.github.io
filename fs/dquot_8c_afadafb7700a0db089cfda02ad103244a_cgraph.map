@@ -1,0 +1,10 @@
+<map id="dquot_reclaim_space_nodirty" name="dquot_reclaim_space_nodirty">
+<area shape="rect" id="node2" href="$dquot_8c.html#a3976b4c31a850811e334bb0578edf08f" title="dquot_active" alt="" coords="227,5,323,32"/>
+<area shape="rect" id="node3" href="$dquot_8c.html#acb4e4bbc644cf88a5a1371ae7828605b" title="inode_reserved_space" alt="" coords="199,56,351,83"/>
+<area shape="rect" id="node4" href="$stat_8c.html#a887b01aff3a59f23855656b3753e51ce" title="__inode_sub_bytes" alt="" coords="207,107,342,133"/>
+<area shape="rect" id="node6" href="$dquot_8c.html#a78a0deba7a34cea1fc4576102f98db4f" title="i_dquot" alt="" coords="243,157,307,184"/>
+<area shape="rect" id="node7" href="$dquot_8c.html#aeb47aa9889e6fcb20cbb5f661da3663f" title="mark_all_dquot_dirty" alt="" coords="203,208,346,235"/>
+<area shape="rect" id="node9" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="205,259,344,285"/>
+<area shape="rect" id="node5" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="399,107,537,133"/>
+<area shape="rect" id="node8" href="$dquot_8c.html#a2c5ccd10f36967ce8bd8a38da4ebda77" title="mark_dquot_dirty" alt="" coords="407,208,529,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="dirty_segments" name="dirty_segments">
+<area shape="rect" id="node2" href="$f2fs_2debug_8c.html#abe9fe1a7efc83d17a440bdfe424bb17f" title="update_general_status" alt="" coords="194,5,347,32"/>
+<area shape="rect" id="node5" href="$f2fs_2sysfs_8c.html#a6613fb4e706259829d026e7f272c5d22" title="dirty_segments_show" alt="" coords="196,56,345,83"/>
+<area shape="rect" id="node6" href="$nilfs2_2sysfs_8c.html#a905284ade0d2c1142659e8e05cb792d6" title="nilfs_segments_README_show" alt="" coords="164,107,377,133"/>
+<area shape="rect" id="node3" href="$f2fs_2debug_8c.html#a576bdb1cec234d9a8453c9865aad8175" title="stat_show" alt="" coords="425,5,508,32"/>
+<area shape="rect" id="node4" href="$f2fs_2debug_8c.html#ab35d7b758a17c9dd1c8cac75c3657ca1" title="stat_open" alt="" coords="556,5,635,32"/>
+</map>

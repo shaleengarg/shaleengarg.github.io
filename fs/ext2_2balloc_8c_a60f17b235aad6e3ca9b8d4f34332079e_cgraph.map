@@ -1,0 +1,7 @@
+<map id="ext2_try_to_allocate" name="ext2_try_to_allocate">
+<area shape="rect" id="node2" href="$ext2_8h.html#ab31704efc4012f78efcb86d2d016447c" title="ext2_group_first_block_no" alt="" coords="192,5,367,32"/>
+<area shape="rect" id="node3" href="$ext2_8h.html#a13a56b2ca60a1e6edd794961871aa726" title="EXT2_SB" alt="" coords="444,27,524,53"/>
+<area shape="rect" id="node4" href="$ext2_2balloc_8c.html#a0895ac19e4ac79f5590f889de2767001" title="find_next_usable_block" alt="" coords="200,107,359,133"/>
+<area shape="rect" id="node6" href="$ext2_8h.html#ac71c1a4a85e5e6cf9513e224279dcc71" title="sb_bgl_lock" alt="" coords="234,157,325,184"/>
+<area shape="rect" id="node5" href="$ext2_2balloc_8c.html#a4d06f3f39d21b05c81e5481ee67bb925" title="bitmap_search_next\l_usable_block" alt="" coords="415,99,553,141"/>
+</map>

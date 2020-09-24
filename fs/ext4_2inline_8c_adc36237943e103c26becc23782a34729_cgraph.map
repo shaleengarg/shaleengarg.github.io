@@ -1,0 +1,17 @@
+<map id="ext4_get_max_inline_size" name="ext4_get_max_inline_size">
+<area shape="rect" id="node2" href="$ext4_2inode_8c.html#a2a6bdbd0d503d15641be3f78b31baa71" title="ext4_get_inode_loc" alt="" coords="229,157,364,184"/>
+<area shape="rect" id="node16" href="$ext4_2inline_8c.html#aa10f480f942f8a1c43e0130a9043c64f" title="get_max_inline_xattr\l_value_size" alt="" coords="225,209,368,250"/>
+<area shape="rect" id="node3" href="$ext4_2inode_8c.html#a2d26d621ce6b3bec6f7e5063bbabe1f7" title="__ext4_get_inode_loc" alt="" coords="416,157,564,184"/>
+<area shape="rect" id="node4" href="$ext4_2balloc_8c.html#a25075b6d3e6db4fea13fab4092f04f40" title="ext4_get_group_desc" alt="" coords="614,5,761,32"/>
+<area shape="rect" id="node5" href="$ext4_2super_8c.html#a5f20c2693f541db677d3a3b56dacf895" title="ext4_inode_table" alt="" coords="627,56,747,83"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="1061,224,1161,251"/>
+<area shape="rect" id="node8" href="$ext4_2super_8c.html#a2fd84d1fa874156fb1b4099020683564" title="ext4_inode_bitmap" alt="" coords="622,157,753,184"/>
+<area shape="rect" id="node9" href="$ext4_2super_8c.html#a942237570324798df572ce29c84107f5" title="ext4_itable_unused\l_count" alt="" coords="620,209,755,250"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#ade60786fa99b4fbb4cf607434af395db" title="end_buffer_read_sync" alt="" coords="612,275,763,301"/>
+<area shape="rect" id="node12" href="$buffer_8c.html#ab65df498c54845f497bae7afe9222c91" title="submit_bh" alt="" coords="646,325,729,352"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="1229,275,1368,301"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#a85e290b32d9599acd25df3b159392ab7" title="__end_buffer_read_notouch" alt="" coords="811,224,993,251"/>
+<area shape="rect" id="node13" href="$buffer_8c.html#a5fd6f01c5f9cff0945cb999cbefa412d" title="submit_bh_wbc" alt="" coords="845,376,959,403"/>
+<area shape="rect" id="node14" href="$buffer_8c.html#a2463267e7636f2be0fc2b44fb65cb5ba" title="end_bio_bh_io_sync" alt="" coords="1041,376,1181,403"/>
+<area shape="rect" id="node15" href="$buffer_8c.html#aa35a4aa9ac3d40858082aabb83e2a44c" title="guard_bio_eod" alt="" coords="1058,427,1165,453"/>
+</map>

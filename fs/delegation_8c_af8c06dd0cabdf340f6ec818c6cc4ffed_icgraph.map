@@ -1,0 +1,7 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$delegation_8c.html#a67698be01b9376e494c31bc80db0606f" title="nfs_remove_bad_delegation" alt="" coords="225,46,409,73"/>
+<area shape="rect" id="node3" href="$nfs4proc_8c.html#ae19af105c32d970cee3f291071154a73" title="nfs_finish_clear_delegation\l_stateid" alt="" coords="457,39,636,80"/>
+<area shape="rect" id="node4" href="$nfs4proc_8c.html#aee6094cbd71de9755e88be1e5caa77f1" title="nfs40_clear_delegation\l_stateid" alt="" coords="684,5,839,47"/>
+<area shape="rect" id="node6" href="$nfs4proc_8c.html#abebc920de431db695cb051e4e4c69d8c" title="nfs40_test_and_free\l_expired_stateid" alt="" coords="691,71,831,112"/>
+<area shape="rect" id="node5" href="$nfs4proc_8c.html#a2b843f160dee6b11e434083873afb0aa" title="nfs40_open_expired" alt="" coords="887,13,1025,39"/>
+</map>

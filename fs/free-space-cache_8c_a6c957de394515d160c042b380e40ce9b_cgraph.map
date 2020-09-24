@@ -1,0 +1,5 @@
+<map id="__btrfs_remove_free_space_cache_locked" name="__btrfs_remove_free_space_cache_locked">
+<area shape="rect" id="node2" href="$free-space-cache_8c.html#ae6f7723726e0d433a216f99d55904979" title="unlink_free_space" alt="" coords="343,13,469,39"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html#abf64d8d3551f3ccd1964c956a4d51c3c" title="free_bitmap" alt="" coords="204,38,295,65"/>
+<area shape="rect" id="node3" href="$free-space-cache_8c.html#aa9b533bcfe8cbfc50520175df951d27a" title="__unlink_free_space" alt="" coords="517,13,659,39"/>
+</map>

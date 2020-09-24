@@ -1,0 +1,9 @@
+<map id="fscache_cookie_get" name="fscache_cookie_get">
+<area shape="rect" id="node2" href="$fscache_2internal_8h.html#a2c37f4e2ad16db8c773139ecbaa45fc1" title="fscache_hash_cookie" alt="" coords="195,5,343,32"/>
+<area shape="rect" id="node4" href="$netfs_8c.html#a88eadae8f30f6563bae14d45078192b3" title="__fscache_register\l_netfs" alt="" coords="399,46,531,87"/>
+<area shape="rect" id="node5" href="$cookie_8c.html#a6106eda219a9346aaaefbe7e3c7541f1" title="fscache_attach_object" alt="" coords="192,108,345,135"/>
+<area shape="rect" id="node3" href="$cookie_8c.html#a4094b7dcd83b3bd5223354789906f46d" title="__fscache_acquire_cookie" alt="" coords="779,28,955,55"/>
+<area shape="rect" id="node6" href="$cookie_8c.html#a43f4e2fbdfcfacee967facce64af69db" title="fscache_alloc_object" alt="" coords="393,112,537,139"/>
+<area shape="rect" id="node7" href="$cookie_8c.html#ab8b048589dc56beec310015af6248c92" title="fscache_acquire_non\l_index_cookie" alt="" coords="585,75,731,117"/>
+<area shape="rect" id="node8" href="$cookie_8c.html#a5606e2846fa097ecf60b71f666e08b9f" title="__fscache_enable_cookie" alt="" coords="781,83,953,109"/>
+</map>

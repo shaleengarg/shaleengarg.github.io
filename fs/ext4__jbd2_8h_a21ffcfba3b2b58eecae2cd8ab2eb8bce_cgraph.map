@@ -1,0 +1,5 @@
+<map id="ext4_jbd2_inode_add_wait" name="ext4_jbd2_inode_add_wait">
+<area shape="rect" id="node2" href="$ext4__jbd2_8h.html#a78c49cee36d540815bf9f71aa8c2101c" title="ext4_handle_valid" alt="" coords="229,5,356,32"/>
+<area shape="rect" id="node3" href="$jbd2_2transaction_8c.html#a3a59cc306fd9075bf1897233f8f132c3" title="jbd2_journal_inode\l_add_wait" alt="" coords="228,57,357,98"/>
+<area shape="rect" id="node4" href="$jbd2_2transaction_8c.html#a27ca9c778895537e5ab0d4194c1fa2c2" title="jbd2_journal_file_inode" alt="" coords="405,64,559,91"/>
+</map>

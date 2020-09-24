@@ -1,0 +1,25 @@
+<map id="__hfs_ext_write_extent" name="__hfs_ext_write_extent">
+<area shape="rect" id="node2" href="$hfs__fs_8h.html#a9ecc1fdc5f132c5181eeee1caf464fad" title="hfs_ext_write_extent" alt="" coords="221,157,364,184"/>
+<area shape="rect" id="node13" href="$extent_8c.html#a74f4bbc97e7f780ebb891cee132013c7" title="__hfs_ext_cache_extent" alt="" coords="211,208,375,235"/>
+<area shape="rect" id="node3" href="$hfs_2inode_8c.html#a4e7edabff7bc91250af4bffc2ee3444e" title="hfs_write_inode" alt="" coords="436,107,549,133"/>
+<area shape="rect" id="node4" href="$hfs__fs_8h.html#a63da41ab1391cecb94aaee885cb9cb76" title="hfs_extend_file" alt="" coords="615,157,725,184"/>
+<area shape="rect" id="node5" href="$hfsplus__fs_8h.html#a3d02ba73116b39015d0285ed782562c3" title="hfs_bmap_alloc" alt="" coords="782,107,895,133"/>
+<area shape="rect" id="node6" href="$hfs__fs_8h.html#a255a0f7fb9066adb6e2f3646c2d3e426" title="hfs_get_block" alt="" coords="787,157,890,184"/>
+<area shape="rect" id="node7" href="$hfs_2inode_8c.html#a29a72f4609bc321eec3f991f242f09ba" title="hfs_writepage" alt="" coords="953,107,1056,133"/>
+<area shape="rect" id="node8" href="$hfs_2inode_8c.html#a0dd1b3987e7a4d2fb4c63be3769efd0b" title="hfs_readpage" alt="" coords="955,157,1055,184"/>
+<area shape="rect" id="node9" href="$hfs_2inode_8c.html#ae4bab1bcf8f6d7595332459ee1903f8d" title="hfs_write_begin" alt="" coords="948,208,1061,235"/>
+<area shape="rect" id="node10" href="$hfs_2inode_8c.html#a30ea13105ea7e065511e3cd59cc7b672" title="hfs_bmap" alt="" coords="965,5,1044,32"/>
+<area shape="rect" id="node11" href="$hfs_2inode_8c.html#a66b2dae8eed521dc44746336a67e8537" title="hfs_direct_IO" alt="" coords="955,259,1055,285"/>
+<area shape="rect" id="node12" href="$hfs_2inode_8c.html#a7c06cecc16c1d3428fedb381832c8493" title="hfs_writepages" alt="" coords="949,56,1060,83"/>
+<area shape="rect" id="node14" href="$extent_8c.html#a1c17b2e1a35147446b4b270b0a5965fb" title="hfs_ext_read_extent" alt="" coords="423,208,563,235"/>
+<area shape="rect" id="node15" href="$hfs__fs_8h.html#a5a2b8ba1cf7acc9cedd083ca9680b800" title="hfs_file_truncate" alt="" coords="611,259,729,285"/>
+<area shape="rect" id="node16" href="$hfs_2inode_8c.html#afeae250cce1d6e27fd3870b9ff663449" title="hfs_write_failed" alt="" coords="782,208,895,235"/>
+<area shape="rect" id="node17" href="$hfs_2inode_8c.html#aa013f4af36e1477096721af358b89a73" title="hfs_delete_inode" alt="" coords="779,385,899,412"/>
+<area shape="rect" id="node22" href="$hfs_2inode_8c.html#a9d456056dd4ddeab8ea7783ce416e02f" title="hfs_file_release" alt="" coords="782,309,895,336"/>
+<area shape="rect" id="node24" href="$hfs_2inode_8c.html#a4e9f3c73b1363ad55c2e75f5e7d8be0d" title="hfs_inode_setattr" alt="" coords="777,259,900,285"/>
+<area shape="rect" id="node18" href="$hfs_2dir_8c.html#a88f96d74274dd2965c0552764d6c724c" title="hfs_create" alt="" coords="963,411,1046,437"/>
+<area shape="rect" id="node19" href="$hfs_2dir_8c.html#a3fc5a8f55987d75c2860272cf1c6f461" title="hfs_mkdir" alt="" coords="965,461,1044,488"/>
+<area shape="rect" id="node20" href="$hfs_2dir_8c.html#a3c0cf569df72b761ff2b28c50f853d14" title="hfs_remove" alt="" coords="959,360,1050,387"/>
+<area shape="rect" id="node21" href="$hfs_2dir_8c.html#aafc4f50a85e3fc6e53fbf343d5b70fdb" title="hfs_rename" alt="" coords="1109,360,1200,387"/>
+<area shape="rect" id="node23" href="$hfs_2inode_8c.html#ada6c2e06df7d6ebe7c5eb1e8b64acc3a" title="hfs_file_fsync" alt="" coords="953,309,1056,336"/>
+</map>

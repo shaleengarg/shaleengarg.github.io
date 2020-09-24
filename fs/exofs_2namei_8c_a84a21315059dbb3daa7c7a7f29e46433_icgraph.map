@@ -1,0 +1,6 @@
+<map id="exofs_add_nondir" name="exofs_add_nondir">
+<area shape="rect" id="node2" href="$exofs_2namei_8c.html#a883fb5d1dc460c0121c697bc6df38be6" title="exofs_create" alt="" coords="182,5,279,32"/>
+<area shape="rect" id="node3" href="$exofs_2namei_8c.html#afe10c8a97d07755afa8817901e1a6783" title="exofs_mknod" alt="" coords="181,56,281,83"/>
+<area shape="rect" id="node4" href="$exofs_2namei_8c.html#a5aaf8579649c70eb5fe4ff9587187878" title="exofs_symlink" alt="" coords="177,107,284,133"/>
+<area shape="rect" id="node5" href="$exofs_2namei_8c.html#abd4fd6f7821a3b6a11753e4f9c46d999" title="exofs_link" alt="" coords="190,157,271,184"/>
+</map>

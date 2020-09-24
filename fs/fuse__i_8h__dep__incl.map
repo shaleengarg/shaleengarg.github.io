@@ -1,0 +1,10 @@
+<map id="fuse/fuse_i.h" name="fuse/fuse_i.h">
+<area shape="rect" id="node2" href="$fuse_2acl_8c.html" title="fuse/acl.c" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$control_8c.html" title="fuse/control.c" alt="" coords="109,80,210,107"/>
+<area shape="rect" id="node4" href="$cuse_8c.html" title="fuse/cuse.c" alt="" coords="234,80,325,107"/>
+<area shape="rect" id="node5" href="$fuse_2dev_8c.html" title="fuse/dev.c" alt="" coords="349,80,431,107"/>
+<area shape="rect" id="node6" href="$fuse_2dir_8c.html" title="fuse/dir.c" alt="" coords="456,80,532,107"/>
+<area shape="rect" id="node7" href="$fuse_2file_8c.html" title="fuse/file.c" alt="" coords="556,80,635,107"/>
+<area shape="rect" id="node8" href="$fuse_2inode_8c.html" title="fuse/inode.c" alt="" coords="659,80,753,107"/>
+<area shape="rect" id="node9" href="$fuse_2xattr_8c.html" title="fuse/xattr.c" alt="" coords="777,80,865,107"/>
+</map>

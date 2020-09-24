@@ -1,0 +1,17 @@
+<map id="build_dirty_segmap" name="build_dirty_segmap">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a8618342bf5f08a91e956d39efbdb4f2f" title="f2fs_kzalloc" alt="" coords="209,5,301,32"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="848,132,901,159"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a5c13debb7490c6475b5d220a35764d8a" title="f2fs_kvzalloc" alt="" coords="401,411,500,437"/>
+<area shape="rect" id="node7" href="$f2fs_2segment_8c.html#a64b241e184efb5a6e835e9d0f1d2cb3b" title="init_dirty_segmap" alt="" coords="193,208,317,235"/>
+<area shape="rect" id="node16" href="$f2fs_2segment_8c.html#a226f5042f79d15987205e2f11b5a1408" title="init_victim_secmap" alt="" coords="188,360,323,387"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a036c8838aa2eee8ace8e6940d0352a7a" title="f2fs_kmalloc" alt="" coords="403,5,499,32"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#ae1165e29e3458f6e3f5f23d3318f9fa3" title="f2fs_kvmalloc" alt="" coords="579,411,682,437"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#afba5ea72e2d34d08ac7d1be3f03559e0" title="DIRTY_I" alt="" coords="593,284,668,311"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="731,107,800,133"/>
+<area shape="rect" id="node10" href="$f2fs_2segment_8h.html#ad1feb984c3fa02d887e60e2af8404918" title="find_next_inuse" alt="" coords="394,259,507,285"/>
+<area shape="rect" id="node11" href="$f2fs_2segment_8h.html#a0cb6f455698330ee766bf6392e28057b" title="get_valid_blocks" alt="" coords="391,157,510,184"/>
+<area shape="rect" id="node15" href="$f2fs_2segment_8c.html#a052c8b0bfb6ce1e19bc7385a1dc98fe2" title="__locate_dirty_segment" alt="" coords="371,208,531,235"/>
+<area shape="rect" id="node12" href="$f2fs_2segment_8h.html#a133ba535f58ff0a92717621028cc2779" title="get_sec_entry" alt="" coords="579,157,683,184"/>
+<area shape="rect" id="node14" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="579,208,683,235"/>
+<area shape="rect" id="node13" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="738,157,793,184"/>
+</map>

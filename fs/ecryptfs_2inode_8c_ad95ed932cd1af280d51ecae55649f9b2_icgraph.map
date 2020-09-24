@@ -1,0 +1,5 @@
+<map id="ecryptfs_inode_newsize_ok" name="ecryptfs_inode_newsize_ok">
+<area shape="rect" id="node2" href="$ecryptfs_2inode_8c.html#ae6d4593f3f6d169ca3ecc1a07550cec1" title="ecryptfs_truncate" alt="" coords="236,5,359,32"/>
+<area shape="rect" id="node4" href="$ecryptfs_2inode_8c.html#a34946e5592d6ec37a0d9cedef341291d" title="ecryptfs_setattr" alt="" coords="241,56,354,83"/>
+<area shape="rect" id="node3" href="$ecryptfs_2mmap_8c.html#a6a4799f05bb0baa6b8d31732c51a633f" title="ecryptfs_write_begin" alt="" coords="407,5,549,32"/>
+</map>

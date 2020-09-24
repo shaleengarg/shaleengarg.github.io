@@ -1,0 +1,10 @@
+<map id="remove_inode_dquot_ref" name="remove_inode_dquot_ref">
+<area shape="rect" id="node2" href="$dquot_8c.html#a78a0deba7a34cea1fc4576102f98db4f" title="i_dquot" alt="" coords="217,56,281,83"/>
+<area shape="rect" id="node3" href="$dquot_8c.html#a2aa01a944ec93583122cfba511ab8213" title="dqput" alt="" coords="222,107,277,133"/>
+<area shape="rect" id="node4" href="$kqid_8c.html#a659b690ef6144cc72fa737b302a7f9e7" title="from_kqid" alt="" coords="359,5,438,32"/>
+<area shape="rect" id="node6" href="$dquot_8c.html#a7d7167c30206133457a98020aca4d8db" title="dquot_dirty" alt="" coords="355,56,442,83"/>
+<area shape="rect" id="node7" href="$dquot_8c.html#a941b9387b5522454843c8d1d0c90cb84" title="clear_dquot_dirty" alt="" coords="338,107,459,133"/>
+<area shape="rect" id="node8" href="$dquot_8c.html#a812e96c2e7b306212ad099af235b40ad" title="put_dquot_last" alt="" coords="345,157,452,184"/>
+<area shape="rect" id="node9" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="329,208,468,235"/>
+<area shape="rect" id="node5" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="516,5,655,32"/>
+</map>

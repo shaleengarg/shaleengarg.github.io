@@ -1,0 +1,5 @@
+<map id="fsnotify_flush_notify" name="fsnotify_flush_notify">
+<area shape="rect" id="node2" href="$notification_8c.html#a0e938e8367bf79f81e5363728df0ed2f" title="fsnotify_notify_queue\l_is_empty" alt="" coords="196,5,343,47"/>
+<area shape="rect" id="node3" href="$notification_8c.html#abc7591f79eb3318464702216811414b1" title="fsnotify_remove_first\l_event" alt="" coords="197,71,341,112"/>
+<area shape="rect" id="node4" href="$notification_8c.html#a5e441e2aa8aaf5a8ee3e08328504642f" title="fsnotify_destroy_event" alt="" coords="192,137,347,163"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="balance_leaf_finish_node_paste" name="balance_leaf_finish_node_paste">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#af605ee607cdcf8f8bc2e661160f1d5d5" title="item_head" alt="" coords="593,56,676,83"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#ab648f2f3bae0aaef3770bcb18289e0dc" title="is_direntry_le_ih" alt="" coords="577,325,693,352"/>
+<area shape="rect" id="node10" href="$do__balan_8c.html#af247782566f0eff50e746592b80e5957" title="balance_leaf_finish\l_node_paste_dirent" alt="" coords="187,155,321,197"/>
+<area shape="rect" id="node11" href="$do__balan_8c.html#ad20917cd97592ce44d53db08492e75c9" title="buffer_info_init_tbS0" alt="" coords="369,215,511,241"/>
+<area shape="rect" id="node12" href="$lbalance_8c.html#aca9c5b6072c17174bca489858b6588e2" title="leaf_paste_in_buffer" alt="" coords="371,269,509,296"/>
+<area shape="rect" id="node13" href="$prints_8c.html#a11222c7e41f48a276c4082f872894843" title="print_cur_tb" alt="" coords="589,376,680,403"/>
+<area shape="rect" id="node32" href="$reiserfs_8h.html#af0039763222cd55a130cb04b227f84b9" title="is_indirect_le_ih" alt="" coords="197,425,311,452"/>
+<area shape="rect" id="node3" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="762,31,894,57"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#a938f2919fc542842e2ab5dc28f522823" title="is_direntry_le_key" alt="" coords="765,351,891,377"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="969,427,1076,453"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="1157,477,1277,504"/>
+<area shape="rect" id="node9" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="1156,427,1279,453"/>
+<area shape="rect" id="node8" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="1344,477,1464,504"/>
+<area shape="rect" id="node23" href="$lbalance_8c.html#a07a69d819eeff64a782d555c609ff7e7" title="leaf_paste_entries" alt="" coords="376,163,504,189"/>
+<area shape="rect" id="node30" href="$do__balan_8c.html#aac696978370033f8c7d6f2ea8cdb0f14" title="replace_key" alt="" coords="394,61,486,88"/>
+<area shape="rect" id="node14" href="$do__balan_8c.html#a136bfbe4bac47c74a867eb6e07182f9f" title="do_balance_mark_leaf\l_dirty" alt="" coords="559,259,711,301"/>
+<area shape="rect" id="node15" href="$reiserfs_2journal_8c.html#a40f13687a2adeec6d25d2962395663eb" title="journal_mark_dirty" alt="" coords="764,267,892,293"/>
+<area shape="rect" id="node16" href="$reiserfs_2journal_8c.html#ac38f9e09118306b896246ab9f25973be" title="get_cnode" alt="" coords="981,267,1064,293"/>
+<area shape="rect" id="node20" href="$reiserfs_2journal_8c.html#a069ff302af4360c57efe71863665f5b3" title="insert_journal_hash" alt="" coords="955,216,1090,243"/>
+<area shape="rect" id="node21" href="$reiserfs_8h.html#a569175804405d7321879d9d28254e901" title="reiserfs_schedule_old\l_flush" alt="" coords="949,318,1097,359"/>
+<area shape="rect" id="node17" href="$reiserfs_2lock_8c.html#af63261b6e12b43124849723f98ce6bb2" title="reiserfs_check_lock\l_depth" alt="" coords="1148,259,1287,301"/>
+<area shape="rect" id="node18" href="$reiserfs_8h.html#a0e265314d75fff703a39c90e48f4462b" title="REISERFS_SB" alt="" coords="1347,325,1461,352"/>
+<area shape="rect" id="node19" href="$reiserfs_8h.html#aeadf70ec41303a31671baed14804b5f4" title="reiserfs_lock_check\l_recursive" alt="" coords="1335,259,1473,301"/>
+<area shape="rect" id="node22" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="1191,376,1244,403"/>
+<area shape="rect" id="node24" href="$item__ops_8c.html#a22f7949715bc595e682f5a1fcfa365c8" title="old_entry_num" alt="" coords="581,107,688,133"/>
+<area shape="rect" id="node25" href="$reiserfs_8h.html#a1e2b0184009e9c66b7ad1f26a821671d" title="set_le_ih_k_offset" alt="" coords="571,157,699,184"/>
+<area shape="rect" id="node28" href="$reiserfs_8h.html#adc2a2a07fcfa19259b8cb44e250976df" title="sb_from_bi" alt="" coords="591,208,678,235"/>
+<area shape="rect" id="node26" href="$reiserfs_8h.html#aabec935e367343b39df96915f520a9b2" title="set_le_key_k_offset" alt="" coords="759,157,897,184"/>
+<area shape="rect" id="node27" href="$reiserfs_8h.html#aff8b30122f030ef444959232d1882cba" title="set_offset_v2_k_offset" alt="" coords="945,157,1100,184"/>
+<area shape="rect" id="node29" href="$reiserfs_8h.html#a2420bda537e8a3790276f63c901ef0c3" title="sb_from_tb" alt="" coords="785,208,871,235"/>
+<area shape="rect" id="node31" href="$reiserfs_8h.html#a217596f2d243c107da5efba998900f0a" title="internal_key" alt="" coords="589,5,681,32"/>
+<area shape="rect" id="node33" href="$reiserfs_8h.html#ad500ee6be538ab9e5e4c4782444949a9" title="is_indirect_le_key" alt="" coords="377,425,503,452"/>
+</map>

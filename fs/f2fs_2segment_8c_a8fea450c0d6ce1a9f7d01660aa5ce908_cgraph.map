@@ -1,0 +1,16 @@
+<map id="__update_discard_tree_range" name="__update_discard_tree_range">
+<area shape="rect" id="node2" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="919,305,972,332"/>
+<area shape="rect" id="node3" href="$extent__cache_8c.html#a35457e8c3f4b94c33081de8338402de4" title="__lookup_rb_tree_ret" alt="" coords="234,36,377,63"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a23c5c1268e4fd4bad5c9f5fb5346feec" title="__is_discard_back_mergeable" alt="" coords="207,87,404,113"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#afbb4521a7f8de0b9dc3cda1860e25e15" title="__relocate_discard_cmd" alt="" coords="224,137,387,164"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a97f52f690b9e24fe918bab5c05c0ce0d" title="__is_discard_front\l_mergeable" alt="" coords="241,189,369,230"/>
+<area shape="rect" id="node8" href="$f2fs_2segment_8c.html#aee54f1020d046a7d0c8816dc6ae9d513" title="__remove_discard_cmd" alt="" coords="225,255,385,281"/>
+<area shape="rect" id="node11" href="$f2fs_2segment_8c.html#a80f6997c7423897d39e309707e433d88" title="__insert_discard_tree" alt="" coords="232,335,379,361"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a6787a5546891c0680c2ef6609c5a66a2" title="__is_discard_mergeable" alt="" coords="452,95,615,121"/>
+<area shape="rect" id="node9" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="495,204,571,231"/>
+<area shape="rect" id="node10" href="$f2fs_2segment_8c.html#a94a30ae7ae7150e8d8e9bc5cd4c6ef94" title="__detach_discard_cmd" alt="" coords="455,255,611,281"/>
+<area shape="rect" id="node12" href="$extent__cache_8c.html#a167d73c6ce47fd8c77882d7526aa16cd" title="__lookup_rb_tree_for\l_insert" alt="" coords="462,357,605,398"/>
+<area shape="rect" id="node13" href="$f2fs_2segment_8c.html#a8ed4bc5a487e66d74b2f11197565ed2e" title="__attach_discard_cmd" alt="" coords="457,423,610,449"/>
+<area shape="rect" id="node14" href="$f2fs_2segment_8c.html#a5f9d777683c3ffbd4953e39e7d7a7d9f" title="__create_discard_cmd" alt="" coords="663,419,816,445"/>
+<area shape="rect" id="node15" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="864,419,1027,445"/>
+</map>

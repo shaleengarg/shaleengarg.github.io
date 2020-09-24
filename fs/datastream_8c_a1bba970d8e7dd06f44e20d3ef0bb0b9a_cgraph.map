@@ -1,0 +1,9 @@
+<map id="befs_find_brun_indirect" name="befs_find_brun_indirect">
+<area shape="rect" id="node2" href="$befs_8h.html#a2b4a80c2e280b28d9099caca37f79de7" title="iaddr2blockno" alt="" coords="234,5,337,32"/>
+<area shape="rect" id="node3" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="409,107,492,133"/>
+<area shape="rect" id="node4" href="$befs_8h.html#a81095eb49590878250efcedb878b9de8" title="befs_iaddrs_per_block" alt="" coords="209,107,361,133"/>
+<area shape="rect" id="node5" href="$befs_2debug_8c.html#a9adcbde37088a09e232dcb26c882f06d" title="befs_debug" alt="" coords="241,157,330,184"/>
+<area shape="rect" id="node6" href="$befs_2debug_8c.html#a9baf4105a9869a847e645272ae9fdc1a" title="befs_error" alt="" coords="245,208,325,235"/>
+<area shape="rect" id="node7" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="239,259,332,285"/>
+<area shape="rect" id="node8" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="239,309,332,336"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nfs4_ff_layout_stat_io_start_write" name="nfs4_ff_layout_stat_io_start_write">
+<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#ae6ae436ec2d82dcfc58e50c3c44f7735" title="ff_layout_write_record\l_layoutstats_start" alt="" coords="194,42,345,83"/>
+<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#abab1a0cf6cca9be2a7a7fb3adc58bdb1" title="ff_layout_commit_record\l_layoutstats_start" alt="" coords="187,107,352,149"/>
+<area shape="rect" id="node3" href="$flexfilelayout_2flexfilelayout_8c.html#a41a4e722c6ca8a9193ea5f69f7a098f3" title="ff_layout_write_prepare\l_common" alt="" coords="407,42,565,83"/>
+<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#a09c12111342271f0910035424bda382c" title="ff_layout_write_prepare_v3" alt="" coords="627,5,806,32"/>
+<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#a7283c52f62c43cef1fe2e614064ac667" title="ff_layout_write_prepare_v4" alt="" coords="627,56,806,83"/>
+<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a8ba7fb70f5414788c376b02adf7fb677" title="ff_layout_commit_prepare\l_common" alt="" coords="400,107,572,149"/>
+<area shape="rect" id="node8" href="$flexfilelayout_2flexfilelayout_8c.html#a09171491db2f606e44938565708246a8" title="ff_layout_commit_prepare_v3" alt="" coords="620,111,813,137"/>
+<area shape="rect" id="node9" href="$flexfilelayout_2flexfilelayout_8c.html#a09340732442b46f52f71f40ca07dcef0" title="ff_layout_commit_prepare_v4" alt="" coords="620,161,813,188"/>
+</map>

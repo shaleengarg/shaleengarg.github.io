@@ -1,0 +1,5 @@
+<map id="nfs_delegation_find_inode" name="nfs_delegation_find_inode">
+<area shape="rect" id="node2" href="$callback__proc_8c.html#a385b21b58cf43011fa7ba4a914383986" title="nfs4_callback_getattr" alt="" coords="188,5,335,32"/>
+<area shape="rect" id="node4" href="$callback__proc_8c.html#acfaa691c43847f2cafee424870292191" title="nfs4_callback_recall" alt="" coords="191,56,331,83"/>
+<area shape="rect" id="node3" href="$callback__xdr_8c.html#acee5fa4f5a4e91e9f3588c29c80288b2" title="nfs4_callback_compound" alt="" coords="383,31,552,57"/>
+</map>

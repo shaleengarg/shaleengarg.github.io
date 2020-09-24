@@ -1,0 +1,10 @@
+<map id="f2fs_trace_ios" name="f2fs_trace_ios">
+<area shape="rect" id="node2" href="$f2fs_2trace_8c.html#a25ee648b7088a07201fa1cdebb13d3b0" title="__print_last_io" alt="" coords="157,5,264,32"/>
+<area shape="rect" id="node3" href="$f2fs_2trace_8c.html#aced00d16f8922684b0c555f71ead6ada" title="__file_type" alt="" coords="168,56,253,83"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a821e4a50963066ef7a660d6b68bc8f40" title="f2fs_is_atomic_file" alt="" coords="313,5,444,32"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a95ab1215b0ac9f5e025dd0d083f045b0" title="f2fs_is_volatile_file" alt="" coords="312,56,445,83"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="333,107,424,133"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="493,31,616,57"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="664,31,729,57"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="515,107,594,133"/>
+</map>

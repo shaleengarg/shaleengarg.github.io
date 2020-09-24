@@ -1,0 +1,12 @@
+<map id="btrfs_init_btree_inode" name="btrfs_init_btree_inode">
+<area shape="rect" id="node2" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="243,5,317,32"/>
+<area shape="rect" id="node5" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="440,107,517,133"/>
+<area shape="rect" id="node6" href="$extent__io_8c.html#a970fa44d8f72a23cdd8778cd2e683c1c" title="extent_io_tree_init" alt="" coords="216,107,344,133"/>
+<area shape="rect" id="node7" href="$btrfs_2extent__map_8c.html#a1b1d1008de08aae552c72e0c7d4cb7da" title="extent_map_tree_init" alt="" coords="209,157,351,184"/>
+<area shape="rect" id="node8" href="$btrfs__inode_8h.html#a6dbca7618a79b2cb20300b0116b6c323" title="btrfs_insert_inode_hash" alt="" coords="200,208,360,235"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="437,5,521,32"/>
+<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="597,56,736,83"/>
+<area shape="rect" id="node9" href="$btrfs__inode_8h.html#ac2038bbccb9cd9ea9396ec1363403d6d" title="btrfs_inode_hash" alt="" coords="418,157,539,184"/>
+<area shape="rect" id="node10" href="$inode_8c.html#a075adb31e138899c45342da4e383a132" title="__insert_inode_hash" alt="" coords="408,208,549,235"/>
+<area shape="rect" id="node11" href="$inode_8c.html#aa1822403d896f1040c371de082022045" title="hash" alt="" coords="641,208,692,235"/>
+</map>

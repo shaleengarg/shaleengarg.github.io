@@ -1,0 +1,21 @@
+<map id="put_files_struct" name="put_files_struct">
+<area shape="rect" id="node2" href="$file_8c.html#a8ed036008f7b92b9e1abb642becdfb2d" title="reset_files_struct" alt="" coords="164,56,287,83"/>
+<area shape="rect" id="node3" href="$exec_8c.html#ac0b61d55f4dd67a44cf07697a9ed21bf" title="do_execveat_common" alt="" coords="335,31,488,57"/>
+<area shape="rect" id="node8" href="$file_8c.html#abc94befe6034e1acb0a18c34118e9143" title="exit_files" alt="" coords="188,107,263,133"/>
+<area shape="rect" id="node9" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="175,157,275,184"/>
+<area shape="rect" id="node10" href="$fd_8c.html#a2f4af64caf01c0ba06a36ecf7ab80e12" title="seq_show" alt="" coords="185,208,266,235"/>
+<area shape="rect" id="node12" href="$fd_8c.html#aa8d55597d19c3dd2aba76a68166a6b4d" title="tid_fd_revalidate" alt="" coords="167,309,284,336"/>
+<area shape="rect" id="node19" href="$fd_8c.html#afe566eb5d5f043f86e16bdf82671d41d" title="proc_fd_link" alt="" coords="179,259,271,285"/>
+<area shape="rect" id="node20" href="$fd_8c.html#a46a03c5fed3bd8ed2f2a051bd5ed40dc" title="proc_readfd_common" alt="" coords="338,347,485,373"/>
+<area shape="rect" id="node4" href="$exec_8c.html#aa4df1492aba86473a5b3256668c8ef09" title="do_execve" alt="" coords="555,5,641,32"/>
+<area shape="rect" id="node6" href="$exec_8c.html#afd0511a1788a101f505f209989aa44d3" title="do_execveat" alt="" coords="550,56,646,83"/>
+<area shape="rect" id="node5" href="$exec_8c.html#abb5d6a332d69991b1e79797506468d8c" title="SYSCALL_DEFINE3" alt="" coords="708,5,855,32"/>
+<area shape="rect" id="node7" href="$exec_8c.html#a423778c1b4476f5bffe17579704ff820" title="SYSCALL_DEFINE5" alt="" coords="708,56,855,83"/>
+<area shape="rect" id="node11" href="$fd_8c.html#a929fec3fe9aaad7141ef4886fa0d5ff9" title="seq_fdinfo_open" alt="" coords="353,208,470,235"/>
+<area shape="rect" id="node13" href="$fd_8c.html#a704c078a735d0f5ee190bc7a4ca90570" title="proc_fd_instantiate" alt="" coords="345,284,477,311"/>
+<area shape="rect" id="node16" href="$fd_8c.html#a87a8ab263d7a8273000142f119674a1d" title="proc_fdinfo_instantiate" alt="" coords="335,397,488,424"/>
+<area shape="rect" id="node14" href="$fd_8c.html#a7a1649e3ca9814f1672fcfc06ca9062f" title="proc_readfd" alt="" coords="553,315,643,341"/>
+<area shape="rect" id="node15" href="$fd_8c.html#a3e63d724476b3bd5b27ce13cf015fe2e" title="proc_lookupfd" alt="" coords="547,264,649,291"/>
+<area shape="rect" id="node17" href="$fd_8c.html#a9eb47e0993e3a8c4ca8f40c04a8ce4bc" title="proc_lookupfdinfo" alt="" coords="536,416,660,443"/>
+<area shape="rect" id="node18" href="$fd_8c.html#aafd8bad4234e2a9516690a294bb4de5b" title="proc_readfdinfo" alt="" coords="543,365,653,392"/>
+</map>

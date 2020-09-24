@@ -1,0 +1,10 @@
+<map id="check_bg_victims" name="check_bg_victims">
+<area shape="rect" id="node2" href="$f2fs_8h.html#afba5ea72e2d34d08ac7d1be3f03559e0" title="DIRTY_I" alt="" coords="381,5,455,32"/>
+<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#ac5a2e48071a01da6e23c42fc28e32898" title="sec_usage_check" alt="" coords="182,56,309,83"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a7d30f1d8012571b1173fc2d7cda92a83" title="no_fggc_candidate" alt="" coords="180,107,311,133"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="780,31,833,57"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8h.html#a0cb6f455698330ee766bf6392e28057b" title="get_valid_blocks" alt="" coords="359,107,477,133"/>
+<area shape="rect" id="node7" href="$f2fs_2segment_8h.html#a133ba535f58ff0a92717621028cc2779" title="get_sec_entry" alt="" coords="525,56,629,83"/>
+<area shape="rect" id="node9" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="525,107,629,133"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="677,56,732,83"/>
+</map>

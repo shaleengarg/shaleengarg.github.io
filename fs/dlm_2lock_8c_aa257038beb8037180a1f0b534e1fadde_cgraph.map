@@ -1,0 +1,6 @@
+<map id="set_lvb_lock" name="set_lvb_lock">
+<area shape="rect" id="node2" href="$dlm__internal_8h.html#aad41ab348123acdbb2f6f4941dc46149" title="rsb_set_flag" alt="" coords="161,5,254,32"/>
+<area shape="rect" id="node3" href="$memory_8c.html#a296cd0ade9f165d66a268dbf6b1c9bd9" title="dlm_allocate_lvb" alt="" coords="148,56,267,83"/>
+<area shape="rect" id="node4" href="$dlm__internal_8h.html#a17061e1356a0f7ed07e5ac7e203b0b51" title="rsb_clear_flag" alt="" coords="156,107,259,133"/>
+<area shape="rect" id="node5" href="$dlm__internal_8h.html#afacec5b5c3497f50a355359358955015" title="rsb_flag" alt="" coords="173,157,241,184"/>
+</map>

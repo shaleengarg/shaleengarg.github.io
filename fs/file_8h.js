@@ -1,0 +1,25 @@
+var file_8h =
+[
+    [ "ocfs2_file_private", "structocfs2__file__private.html", "structocfs2__file__private" ],
+    [ "ocfs2_add_inode_data", "file_8h.html#a63c093e991f1a910b3ed9f4dd23ee0da", null ],
+    [ "ocfs2_change_file_space", "file_8h.html#af4c99f98a67833a1076658ae4a048697", null ],
+    [ "ocfs2_check_range_for_refcount", "file_8h.html#acfee0720348ffeffd8b6563facfe05fe", null ],
+    [ "ocfs2_extend_allocation", "file_8h.html#a1a3a63f6672ed219114d7c3c07cfa692", null ],
+    [ "ocfs2_extend_no_holes", "file_8h.html#a286882c0771e7dd7cd5bb60e9a635346", null ],
+    [ "ocfs2_getattr", "file_8h.html#aa2c0b9ce34af89de046bafc650f3c536", null ],
+    [ "ocfs2_permission", "file_8h.html#a033ee7e109176e1960d370563ca16933", null ],
+    [ "ocfs2_remove_inode_range", "file_8h.html#a3dd0a2f7984df7c4b3e6eb9261721486", null ],
+    [ "ocfs2_set_inode_size", "file_8h.html#a0d84f95d0f1f99bc06830b807616b882", null ],
+    [ "ocfs2_setattr", "file_8h.html#af5c1379892500b3459265e8626233699", null ],
+    [ "ocfs2_should_update_atime", "file_8h.html#a9f2e58332f3b9abad5c4ca495b25060b", null ],
+    [ "ocfs2_simple_size_update", "file_8h.html#a0b5a1089849c1f0d0993bcee233d0cde", null ],
+    [ "ocfs2_truncate_file", "file_8h.html#a5095e24e4ba4a79cedec44d039b4993b", null ],
+    [ "ocfs2_update_inode_atime", "file_8h.html#aa054399aff1e20fa86b5d8eee6069d44", null ],
+    [ "ocfs2_zero_extend", "file_8h.html#ac93bb34113f817c3ebb8d60810741827", null ],
+    [ "ocfs2_dops", "file_8h.html#a5c2c647236b05d4326887ad8cca4b435", null ],
+    [ "ocfs2_dops_no_plocks", "file_8h.html#a1ae7ce93d4a6051a591824667d71f247", null ],
+    [ "ocfs2_file_iops", "file_8h.html#a910c76785907f9d7315aed9372f02df6", null ],
+    [ "ocfs2_fops", "file_8h.html#ae980dcd1593965ffd7101eb4ac9c05c7", null ],
+    [ "ocfs2_fops_no_plocks", "file_8h.html#a97cbf58f764c8dc9d3daea9c0e570593", null ],
+    [ "ocfs2_special_file_iops", "file_8h.html#abfd608dc6ac44a1d93e5eb7fd185b704", null ]
+];

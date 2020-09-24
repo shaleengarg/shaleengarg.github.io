@@ -1,0 +1,30 @@
+<map id="f2fs_update_extent_cache_range" name="f2fs_update_extent_cache_range">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a5c520ccc0079ed0a9b1be5a387f1d361" title="f2fs_may_extent_tree" alt="" coords="1025,182,1173,208"/>
+<area shape="rect" id="node7" href="$extent__cache_8c.html#ac9fb152487dae329902adeab57d322df" title="f2fs_update_extent\l_tree_range" alt="" coords="187,402,320,444"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="1237,182,1328,208"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="1221,527,1344,554"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="1434,182,1513,208"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="1441,527,1506,554"/>
+<area shape="rect" id="node8" href="$extent__cache_8c.html#a49202cdad516806d6dcd0900d273fa65" title="__drop_largest_extent" alt="" coords="591,578,741,604"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#ac118578b3853482a50926edcb4a15b39" title="set_inode_flag" alt="" coords="1229,375,1336,402"/>
+<area shape="rect" id="node15" href="$extent__cache_8c.html#a35457e8c3f4b94c33081de8338402de4" title="__lookup_rb_tree_ret" alt="" coords="383,106,525,132"/>
+<area shape="rect" id="node16" href="$f2fs_8h.html#a843e361df4da264f86f6db47d2f4acea" title="set_extent_info" alt="" coords="399,156,509,183"/>
+<area shape="rect" id="node17" href="$extent__cache_8c.html#af92a2f9ca2410ac6c5c2fdeaf6f00128" title="__insert_extent_tree" alt="" coords="384,207,524,234"/>
+<area shape="rect" id="node20" href="$f2fs_8h.html#a5db361da7f1bc2d00781b328a81ac937" title="__try_update_largest\l_extent" alt="" coords="595,461,737,502"/>
+<area shape="rect" id="node21" href="$extent__cache_8c.html#a8f9d05e95dfc4d0de28c270b7ecd1d6c" title="__release_extent_node" alt="" coords="588,679,744,706"/>
+<area shape="rect" id="node23" href="$extent__cache_8c.html#a5441f7c5effeb14b633db4d957e9da7c" title="__try_merge_extent_node" alt="" coords="368,410,540,436"/>
+<area shape="rect" id="node27" href="$extent__cache_8c.html#af9faede5da5f010e8bde438147e0cac7" title="__free_extent_tree" alt="" coords="389,730,519,756"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#ac05f284e0e89efa8af4815d17c069dcf" title="f2fs_mark_inode_dirty_sync" alt="" coords="792,460,977,487"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#ac8a36e745fdd4142adf16bb8c806e7ec" title="f2fs_inode_dirtied" alt="" coords="1037,426,1161,452"/>
+<area shape="rect" id="node13" href="$f2fs_8h.html#a4b20cd3f318e8e62ed4cec6b03530ed6" title="inc_page_count" alt="" coords="1226,426,1339,452"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#af345bf9b66bc15454b71b2cb9c4b89b4" title="__mark_inode_dirty_flag" alt="" coords="1392,350,1555,376"/>
+<area shape="rect" id="node14" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="1427,426,1519,452"/>
+<area shape="rect" id="node18" href="$extent__cache_8c.html#a167d73c6ce47fd8c77882d7526aa16cd" title="__lookup_rb_tree_for\l_insert" alt="" coords="595,141,737,182"/>
+<area shape="rect" id="node19" href="$extent__cache_8c.html#ae5db793cd3ab9ff6121363c97d5e9c94" title="__attach_extent_node" alt="" coords="591,207,741,234"/>
+<area shape="rect" id="node22" href="$extent__cache_8c.html#a2f74326c61da55803872bdd847d8cec5" title="__detach_extent_node" alt="" coords="808,679,961,706"/>
+<area shape="rect" id="node24" href="$f2fs_8h.html#ad86f292f3c5afc397a113b5ef660f96f" title="__is_back_mergeable" alt="" coords="592,359,740,386"/>
+<area shape="rect" id="node26" href="$f2fs_8h.html#ab773234c2145985622656547fcb8a397" title="__is_front_mergeable" alt="" coords="593,410,739,436"/>
+<area shape="rect" id="node25" href="$f2fs_8h.html#a79f3449fbe28000b7c7175c69394355d" title="__is_extent_mergeable" alt="" coords="807,406,963,432"/>
+<area shape="rect" id="node28" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="639,730,693,756"/>
+<area shape="rect" id="node29" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="825,730,944,756"/>
+</map>

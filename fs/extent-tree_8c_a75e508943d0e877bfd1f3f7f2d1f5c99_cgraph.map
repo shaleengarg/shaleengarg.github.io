@@ -1,0 +1,5 @@
+<map id="get_alloc_profile_by_root" name="get_alloc_profile_by_root">
+<area shape="rect" id="node2" href="$extent-tree_8c.html#aa3fc5eec559f710720299d9d909ea425" title="get_alloc_profile" alt="" coords="220,13,336,39"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#af5467485aa7250c63dc40050d97bde86" title="btrfs_reduce_alloc\l_profile" alt="" coords="384,5,512,47"/>
+<area shape="rect" id="node4" href="$extent-tree_8c.html#a2d6fd06b907338ed8748602d3ea9d5dc" title="get_restripe_target" alt="" coords="560,13,691,39"/>
+</map>

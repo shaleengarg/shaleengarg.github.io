@@ -1,0 +1,7 @@
+<map id="__wait_discard_cmd_range" name="__wait_discard_cmd_range">
+<area shape="rect" id="node2" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="663,27,717,54"/>
+<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#aee54f1020d046a7d0c8816dc6ae9d513" title="__remove_discard_cmd" alt="" coords="404,78,564,104"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#a2982a13388007ceb074c016872f7c64d" title="__wait_one_discard_bio" alt="" coords="195,27,356,54"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="652,78,728,104"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a94a30ae7ae7150e8d8e9bc5cd4c6ef94" title="__detach_discard_cmd" alt="" coords="612,128,768,155"/>
+</map>

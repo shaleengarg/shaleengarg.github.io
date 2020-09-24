@@ -1,0 +1,6 @@
+<map id="dlm_send_one_domain_exit" name="dlm_send_one_domain_exit">
+<area shape="rect" id="node2" href="$dlmdomain_8c.html#a0caa3e5600466eba793bfdf809920726" title="dlm_begin_exit_domain" alt="" coords="236,5,395,32"/>
+<area shape="rect" id="node5" href="$dlmdomain_8c.html#ac09b2ac9ba7d26b3d318e69f80a1b84e" title="dlm_leave_domain" alt="" coords="250,56,381,83"/>
+<area shape="rect" id="node3" href="$dlmdomain_8c.html#aacb364555224210df2f23eb63808fe46" title="dlm_unregister_domain" alt="" coords="443,31,599,57"/>
+<area shape="rect" id="node4" href="$stack__o2cb_8c.html#aac5d658876cb3c17ae68bc77846d4ff2" title="o2cb_cluster_disconnect" alt="" coords="647,31,813,57"/>
+</map>

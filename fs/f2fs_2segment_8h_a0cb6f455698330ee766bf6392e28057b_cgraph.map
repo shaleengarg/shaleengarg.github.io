@@ -1,0 +1,6 @@
+<map id="get_valid_blocks" name="get_valid_blocks">
+<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#a133ba535f58ff0a92717621028cc2779" title="get_sec_entry" alt="" coords="172,5,276,32"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="172,56,276,83"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="324,31,379,57"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="427,31,480,57"/>
+</map>

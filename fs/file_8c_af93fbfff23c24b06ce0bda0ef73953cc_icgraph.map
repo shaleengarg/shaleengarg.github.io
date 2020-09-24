@@ -1,0 +1,5 @@
+<map id="alloc_fd" name="alloc_fd">
+<area shape="rect" id="node2" href="$file_8c.html#a9ccf4b08b8d82ac09139d7ad20ca3fa1" title="f_dupfd" alt="" coords="120,5,185,32"/>
+<area shape="rect" id="node3" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="233,5,301,32"/>
+<area shape="rect" id="node4" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="349,5,496,32"/>
+</map>

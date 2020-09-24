@@ -1,0 +1,29 @@
+<map id="ecryptfs_superblock_to_private" name="ecryptfs_superblock_to_private">
+<area shape="rect" id="node2" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="1063,490,1181,532"/>
+<area shape="rect" id="node4" href="$ecryptfs_2inode_8c.html#a12d536a3a1a72ba18dcc8ff49a79e9af" title="ecryptfs_lookup" alt="" coords="1065,26,1179,52"/>
+<area shape="rect" id="node5" href="$ecryptfs_2inode_8c.html#ae9629ba2454c02f4efeba467903fb345" title="ecryptfs_symlink" alt="" coords="209,130,331,156"/>
+<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a34946e5592d6ec37a0d9cedef341291d" title="ecryptfs_setattr" alt="" coords="871,227,984,254"/>
+<area shape="rect" id="node7" href="$ecryptfs_2inode_8c.html#a6c79d00b1445b0a82a5cadc0c8374250" title="ecryptfs_getattr_link" alt="" coords="639,602,779,628"/>
+<area shape="rect" id="node8" href="$ecryptfs_2super_8c.html#a8ef3db4521de392ad65f66a2a49f9896" title="ecryptfs_statfs" alt="" coords="215,282,325,308"/>
+<area shape="rect" id="node9" href="$ecryptfs_2super_8c.html#a5d4fe5b6cafb3f9e7655114bb2d1c8b0" title="ecryptfs_show_options" alt="" coords="192,332,348,359"/>
+<area shape="rect" id="node10" href="$ecryptfs_2main_8c.html#afc526befd9b281d81555e8ee7f643d6e" title="ecryptfs_kill_block\l_super" alt="" coords="205,384,335,425"/>
+<area shape="rect" id="node11" href="$ecryptfs__kernel_8h.html#a324be797fb8eff4327b7e380210148df" title="ecryptfs_new_file_context" alt="" coords="400,551,575,578"/>
+<area shape="rect" id="node14" href="$ecryptfs__kernel_8h.html#a812b6c2188d3372592c65ca07923a9ee" title="ecryptfs_i_size_init" alt="" coords="203,79,337,106"/>
+<area shape="rect" id="node18" href="$ecryptfs_2crypto_8c.html#a1971b0423a0e1cbe741f78712d319b20" title="ecryptfs_read_headers_virt" alt="" coords="398,231,577,258"/>
+<area shape="rect" id="node19" href="$ecryptfs__kernel_8h.html#a0f476d4db45796bb804042157fbd93fa" title="ecryptfs_read_metadata" alt="" coords="628,272,791,299"/>
+<area shape="rect" id="node21" href="$ecryptfs__kernel_8h.html#ad92bd4ca5b5dec50558342a288e4da03" title="ecryptfs_decode_and\l_decrypt_filename" alt="" coords="197,653,343,694"/>
+<area shape="rect" id="node26" href="$keystore_8c.html#aea269faf109dfdfbe811ff5af549c8dc" title="ecryptfs_generate_key\l_packet_set" alt="" coords="193,732,347,773"/>
+<area shape="rect" id="node3" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="1229,498,1333,524"/>
+<area shape="rect" id="node12" href="$ecryptfs_2inode_8c.html#a6bc52bfbdbdae09b52647394d90fdc70" title="ecryptfs_initialize_file" alt="" coords="854,552,1001,579"/>
+<area shape="rect" id="node13" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="1066,556,1178,583"/>
+<area shape="rect" id="node15" href="$ecryptfs__kernel_8h.html#a4552d73790c6d028e3c74c1fbd625d66" title="ecryptfs_read_and_validate\l_header_region" alt="" coords="397,49,578,90"/>
+<area shape="rect" id="node20" href="$ecryptfs__kernel_8h.html#a075ee11337256f342fcc9d46af1830d8" title="ecryptfs_read_and_validate\l_xattr_region" alt="" coords="397,114,578,156"/>
+<area shape="rect" id="node16" href="$ecryptfs_2inode_8c.html#a9d396c2fb89ae59f9067f224afd33321" title="ecryptfs_i_size_read" alt="" coords="638,56,781,83"/>
+<area shape="rect" id="node17" href="$ecryptfs_2inode_8c.html#a74a31bd5ba682c414a61bab2ea0b2f76" title="ecryptfs_lookup_interpose" alt="" coords="840,52,1015,79"/>
+<area shape="rect" id="node22" href="$ecryptfs_2file_8c.html#aaee78a54b5aaf1796ee1f1a8afc990ea" title="ecryptfs_filldir" alt="" coords="436,703,539,730"/>
+<area shape="rect" id="node24" href="$ecryptfs_2inode_8c.html#a07fd8a464f9fc168e4a490421ff61cb7" title="ecryptfs_readlink_lower" alt="" coords="408,652,567,679"/>
+<area shape="rect" id="node23" href="$ecryptfs_2file_8c.html#a8997e4f7523880bfe681e8e13a7159cb" title="ecryptfs_readdir" alt="" coords="652,703,767,730"/>
+<area shape="rect" id="node25" href="$ecryptfs_2inode_8c.html#a450e9a3a23567116f4c583f062e5174e" title="ecryptfs_get_link" alt="" coords="649,652,770,679"/>
+<area shape="rect" id="node27" href="$ecryptfs_2crypto_8c.html#a726219be3d26c0f5d0cd3764aaf1dc10" title="ecryptfs_write_headers_virt" alt="" coords="396,754,579,780"/>
+<area shape="rect" id="node28" href="$ecryptfs__kernel_8h.html#a42762f9a11a4a605720623e066b37aac" title="ecryptfs_write_metadata" alt="" coords="627,754,792,780"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="dlm_timeout_warn" name="dlm_timeout_warn">
+<area shape="rect" id="node2" href="$dlm_2netlink_8c.html#a753fe9c341288b11b2a6dd6132f406c0" title="prepare_data" alt="" coords="181,5,279,32"/>
+<area shape="rect" id="node3" href="$dlm_2netlink_8c.html#a0c6a825eb497099b38ab30679f366b0f" title="mk_data" alt="" coords="194,56,266,83"/>
+<area shape="rect" id="node4" href="$dlm_2netlink_8c.html#a42967354597805f1dc2cdc0d40cca0ff" title="fill_data" alt="" coords="197,107,263,133"/>
+<area shape="rect" id="node5" href="$dlm_2netlink_8c.html#a0d4cdae52e463ee3ca8fb12694588a4c" title="send_data" alt="" coords="189,157,271,184"/>
+</map>

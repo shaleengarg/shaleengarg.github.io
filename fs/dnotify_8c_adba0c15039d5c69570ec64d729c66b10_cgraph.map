@@ -1,0 +1,10 @@
+<map id="dnotify_handle_event" name="dnotify_handle_event">
+<area shape="rect" id="node2" href="$fcntl_8c.html#a7b4f7b330f707178ae5513573df6e29e" title="send_sigio" alt="" coords="247,5,331,32"/>
+<area shape="rect" id="node5" href="$dnotify_8c.html#ac8a863f2bd1558cba29b52a5f5cd50d3" title="dnotify_recalc_inode_mask" alt="" coords="199,56,379,83"/>
+<area shape="rect" id="node3" href="$fcntl_8c.html#a3c961d893927e2fa472fb9de853ea225" title="send_sigio_to_task" alt="" coords="433,5,567,32"/>
+<area shape="rect" id="node4" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="659,5,744,32"/>
+<area shape="rect" id="node6" href="$mark_8c.html#ababf71c7ec915b658e782d6a44d0a298" title="fsnotify_recalc_mask" alt="" coords="427,56,573,83"/>
+<area shape="rect" id="node7" href="$mark_8c.html#acb90d9f4d1bdd3963bd0c72f885bbf08" title="__fsnotify_recalc_mask" alt="" coords="621,56,781,83"/>
+<area shape="rect" id="node9" href="$fsnotify_8c.html#a381b619a4feb9289789bf72870a83811" title="__fsnotify_update_child\l_dentry_flags" alt="" coords="622,107,781,149"/>
+<area shape="rect" id="node8" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="829,56,916,83"/>
+</map>

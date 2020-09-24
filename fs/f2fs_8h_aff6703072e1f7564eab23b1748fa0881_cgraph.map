@@ -1,0 +1,30 @@
+<map id="write_data_summaries" name="write_data_summaries">
+<area shape="rect" id="node2" href="$f2fs_8h.html#aa1fbd95eb602ca6a2eeb415faf02e0db" title="is_set_ckpt_flags" alt="" coords="241,56,365,83"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#ae0bb62347a04be5c70f234b3accc536f" title="write_compacted_summaries" alt="" coords="207,208,399,235"/>
+<area shape="rect" id="node28" href="$f2fs_2segment_8c.html#a7cd20d378703ad933141403607bd1fe2" title="write_normal_summaries" alt="" coords="219,157,386,184"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#abb6676bbd589a9ca63ae2dd34a6501f7" title="__is_set_ckpt_flags" alt="" coords="459,56,598,83"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="480,5,577,32"/>
+<area shape="rect" id="node6" href="$f2fs_2checkpoint_8c.html#a2ee2c42611ca9e42be335178af2932ff" title="grab_meta_page" alt="" coords="659,195,777,221"/>
+<area shape="rect" id="node24" href="$f2fs_2segment_8h.html#ab401fc665e34bc211f8ae30b552de703" title="CURSEG_I" alt="" coords="673,271,763,297"/>
+<area shape="rect" id="node26" href="$f2fs_2segment_8h.html#a0ac91e50a53356b23e0e105165c91811" title="curseg_blkoff" alt="" coords="479,259,579,285"/>
+<area shape="rect" id="node27" href="$f2fs_8h.html#a767b62b0aebed2a97d79f41acbc6f4c2" title="f2fs_put_page" alt="" coords="666,107,770,133"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a8826c1c198e1e502d643792da13615d4" title="META_MAPPING" alt="" coords="859,195,987,221"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#aa21991918fdf7636a677390fa8fbab80" title="f2fs_grab_cache_page" alt="" coords="1068,228,1221,255"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#a7c699e04b54dbb5f55a350f81fd520da" title="f2fs_wait_on_page_writeback" alt="" coords="825,144,1020,171"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a775eff172a82c770b1982e02e4312eb8" title="F2FS_M_SB" alt="" coords="1318,105,1415,132"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="1544,105,1635,132"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="1750,105,1829,132"/>
+<area shape="rect" id="node13" href="$f2fs_8h.html#a8a8c4c2d892d1eafc69f46df674f974a" title="F2FS_P_SB" alt="" coords="1097,103,1192,129"/>
+<area shape="rect" id="node14" href="$data_8c.html#a88a12e9f883516d61fb32fee5aa9d9cf" title="f2fs_submit_merged\l_write_cond" alt="" coords="1075,154,1215,195"/>
+<area shape="rect" id="node15" href="$data_8c.html#ac0ed6cae26584bf007d2d6d2414c423a" title="__submit_merged_write_cond" alt="" coords="1269,161,1464,188"/>
+<area shape="rect" id="node16" href="$data_8c.html#aaf82bab2fc97d4a9352191676a24a9e6" title="has_merged_page" alt="" coords="1525,157,1653,184"/>
+<area shape="rect" id="node20" href="$data_8c.html#a593875a244f0e06ba21750c23b072718" title="__f2fs_submit_merged\l_write" alt="" coords="1512,209,1667,250"/>
+<area shape="rect" id="node17" href="$data_8c.html#a8c668c3fbe27e13dd63b20be7aa6bbe5" title="__has_merged_page" alt="" coords="1718,157,1861,184"/>
+<area shape="rect" id="node18" href="$node_8h.html#a25b4efea4358592966a006ce61c6eca8" title="ino_of_node" alt="" coords="1915,157,2007,184"/>
+<area shape="rect" id="node19" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="2059,157,2159,184"/>
+<area shape="rect" id="node21" href="$data_8c.html#a270fc17649f23406d8ac83e3b321a845" title="__submit_merged_bio" alt="" coords="1715,216,1864,243"/>
+<area shape="rect" id="node22" href="$data_8c.html#a57f8ec8e7d936d32c17825d1dc8f9f41" title="__submit_bio" alt="" coords="1912,216,2011,243"/>
+<area shape="rect" id="node23" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="2063,216,2155,243"/>
+<area shape="rect" id="node25" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="896,296,949,323"/>
+<area shape="rect" id="node29" href="$f2fs_2segment_8c.html#a1d879a5346d8bc3608e7a693b26973db" title="write_current_sum_page" alt="" coords="447,157,611,184"/>
+</map>

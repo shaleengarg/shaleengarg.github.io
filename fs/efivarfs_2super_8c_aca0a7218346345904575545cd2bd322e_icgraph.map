@@ -1,0 +1,5 @@
+<map id="efivarfs_alloc_dentry" name="efivarfs_alloc_dentry">
+<area shape="rect" id="node2" href="$efivarfs_2super_8c.html#a4b6b5b4707e78fbf705935f7c939087a" title="efivarfs_callback" alt="" coords="196,5,316,32"/>
+<area shape="rect" id="node3" href="$efivarfs_2super_8c.html#a93450b182242ebc83bc15d865fea6aa9" title="efivarfs_fill_super" alt="" coords="364,5,488,32"/>
+<area shape="rect" id="node4" href="$efivarfs_2super_8c.html#a4f2fa0d7e3a8acf226ce86d917f860ad" title="efivarfs_mount" alt="" coords="536,5,644,32"/>
+</map>

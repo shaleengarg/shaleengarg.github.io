@@ -1,0 +1,7 @@
+<map id="fat_iget" name="fat_iget">
+<area shape="rect" id="node2" href="$fat_8h.html#afb4074c3637b57b356f41a600d5b2ea2" title="MSDOS_SB" alt="" coords="119,5,215,32"/>
+<area shape="rect" id="node3" href="$fat_2inode_8c.html#a126442da637a288baa41f96cb1e0c264" title="fat_hash" alt="" coords="131,56,203,83"/>
+<area shape="rect" id="node4" href="$inode_8c.html#ad2a7d900c04745e54c8d2f3847922a59" title="igrab" alt="" coords="141,107,192,133"/>
+<area shape="rect" id="node5" href="$inode_8c.html#ab5747108c3d9a3f113b72a10a9be6a2f" title="__iget" alt="" coords="303,81,361,108"/>
+<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="263,132,401,159"/>
+</map>

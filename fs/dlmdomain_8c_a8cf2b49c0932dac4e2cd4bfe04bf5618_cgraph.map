@@ -1,0 +1,33 @@
+<map id="dlm_send_regions" name="dlm_send_regions">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#ab0efa6a39d40342632c4f1a7d9e247c1" title="o2hb_global_heartbeat\l_active" alt="" coords="180,170,332,211"/>
+<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#ae0cb49bd6c14213d3d479caa24373b03" title="o2hb_get_all_regions" alt="" coords="184,260,328,287"/>
+<area shape="rect" id="node6" href="$tcp_8c.html#a2e1a8aefbe7ab41d71dbeec8eca4ec8e" title="o2net_send_message" alt="" coords="181,335,331,361"/>
+<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#ad306fd3febbe0e26805f31170d33b316" title="EXPORT_SYMBOL" alt="" coords="399,177,538,204"/>
+<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#aae9d726ce9c58d7e470f5e25f6ef316e" title="EXPORT_SYMBOL_GPL" alt="" coords="383,260,555,287"/>
+<area shape="rect" id="node7" href="$tcp_8c.html#a271f325bf27199f9506395b8d5e926c0" title="o2net_send_message_vec" alt="" coords="380,335,557,361"/>
+<area shape="rect" id="node32" href="$tcp_8c.html#ace0fde64403cc841ecc2b48730eaa29b" title="EXPORT_SYMBOL_GPL" alt="" coords="605,613,777,640"/>
+<area shape="rect" id="node8" href="$tcp_8c.html#a88b8ae01d2df7ec5ed971285551834ad" title="o2net_nn_from_num" alt="" coords="621,5,761,32"/>
+<area shape="rect" id="node9" href="$nodemanager_8c.html#a7d562fbd374c60d7b62e5429c6e9c889" title="o2nm_this_node" alt="" coords="839,37,957,64"/>
+<area shape="rect" id="node11" href="$tcp_8h.html#a5bec4625815ffb4586414423d07715dc" title="o2net_debug_add_nst" alt="" coords="617,157,766,184"/>
+<area shape="rect" id="node12" href="$tcp_8c.html#aa34aa8e71018e7b041a112f05c1c4a15" title="o2net_tx_can_proceed" alt="" coords="615,208,768,235"/>
+<area shape="rect" id="node13" href="$tcp_8c.html#a773991b88eb2e53bb2e677de64736b81" title="o2net_init_msg" alt="" coords="636,259,747,285"/>
+<area shape="rect" id="node14" href="$tcp_8c.html#ae94ac6d9329eec92feadc74e3e2d2b72" title="o2net_prep_nsw" alt="" coords="633,309,750,336"/>
+<area shape="rect" id="node15" href="$tcp_8c.html#a895bc5aa782fe076e02474efba57877a" title="o2net_send_tcp_msg" alt="" coords="618,360,765,387"/>
+<area shape="rect" id="node16" href="$tcp_8c.html#a70acc478fa637115fe764489e4c6006c" title="o2net_nsw_completed" alt="" coords="615,411,767,437"/>
+<area shape="rect" id="node17" href="$tcp_8c.html#a8cbd13f658f6cba12128d72242506a95" title="o2net_sys_err_to_errno" alt="" coords="612,461,771,488"/>
+<area shape="rect" id="node18" href="$tcp_8h.html#ad509dd4d06fa35978d9fa9fba0cf9e44" title="o2net_debug_del_nst" alt="" coords="619,512,764,539"/>
+<area shape="rect" id="node19" href="$tcp_8c.html#a660bce3f4a2f656d76649a251ae8d097" title="sc_put" alt="" coords="661,107,722,133"/>
+<area shape="rect" id="node30" href="$tcp_8c.html#afbd98f12684c5873725d3051c6f3b798" title="o2net_complete_nsw" alt="" coords="619,563,764,589"/>
+<area shape="rect" id="node10" href="$nodemanager_8c.html#a67edc90e86a794e89a46a885ca1a16da" title="EXPORT_SYMBOL_GPL" alt="" coords="1216,31,1388,57"/>
+<area shape="rect" id="node20" href="$tcp_8c.html#a9c86606bd0ca1cd271a9ae5057311f23" title="sc_kref_release" alt="" coords="841,125,955,152"/>
+<area shape="rect" id="node21" href="$nodemanager_8c.html#a1591b6575841947b85cb323060f6dbf3" title="o2nm_undepend_item" alt="" coords="1019,144,1168,171"/>
+<area shape="rect" id="node24" href="$nodemanager_8c.html#a8d7b3ea21a9b60872a394bddd27de7fb" title="o2nm_node_put" alt="" coords="1036,93,1151,120"/>
+<area shape="rect" id="node29" href="$tcp_8h.html#aae4cd4cb0e64ea97716a961dbe3a5e08" title="o2net_debug_del_sc" alt="" coords="1023,195,1164,221"/>
+<area shape="rect" id="node22" href="$configfs_2dir_8c.html#a065ff670aced68c37bc625217922ff04" title="configfs_undepend_item" alt="" coords="1221,156,1383,183"/>
+<area shape="rect" id="node23" href="$configfs_2dir_8c.html#a2d43ef87b4908365f3d98c5680ed65fb" title="EXPORT_SYMBOL" alt="" coords="1436,169,1575,196"/>
+<area shape="rect" id="node25" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="1245,93,1359,120"/>
+<area shape="rect" id="node26" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="1436,17,1575,44"/>
+<area shape="rect" id="node28" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="1436,119,1575,145"/>
+<area shape="rect" id="node27" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="1623,43,1764,69"/>
+<area shape="rect" id="node31" href="$tcp_8c.html#a56e839b4928c9875e50896e99751f965" title="o2net_complete_nsw\l_locked" alt="" coords="825,555,971,597"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="comp_refs" name="comp_refs">
+<area shape="rect" id="node2" href="$delayed-ref_8c.html#aa8c3f00cebe1cebe4e26c467f9f19597" title="comp_tree_refs" alt="" coords="147,5,259,32"/>
+<area shape="rect" id="node3" href="$delayed-ref_8h.html#a2a4e57b0b414a2faea8fec58e11eb308" title="btrfs_delayed_node\l_to_tree_ref" alt="" coords="136,57,271,98"/>
+<area shape="rect" id="node4" href="$delayed-ref_8c.html#af889878996d3525ab5e24612b48905ec" title="comp_data_refs" alt="" coords="146,123,261,149"/>
+<area shape="rect" id="node5" href="$delayed-ref_8h.html#a6d0911aa5ac29a4dba9d229fd2887ac6" title="btrfs_delayed_node\l_to_data_ref" alt="" coords="136,174,271,215"/>
+</map>

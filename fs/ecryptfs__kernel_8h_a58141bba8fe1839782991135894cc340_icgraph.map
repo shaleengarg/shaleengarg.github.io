@@ -1,0 +1,27 @@
+<map id="ecryptfs_write_packet_length" name="ecryptfs_write_packet_length">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ac96ef599ae7878dc4c2459b1f2f3de4b" title="ecryptfs_wait_for_response" alt="" coords="409,71,592,98"/>
+<area shape="rect" id="node3" href="$keystore_8c.html#a139436651ca07d4aa32396fbae14d1f9" title="write_tag_64_packet" alt="" coords="211,13,354,39"/>
+<area shape="rect" id="node11" href="$keystore_8c.html#a98ebf885256c3ac84ee176459d46455c" title="write_tag_66_packet" alt="" coords="211,282,354,309"/>
+<area shape="rect" id="node13" href="$keystore_8c.html#a3526c198eba1a1f96e489796fad16ee8" title="write_tag_1_packet" alt="" coords="662,231,797,258"/>
+<area shape="rect" id="node19" href="$keystore_8c.html#a954c6998fe1c4a445153fda4ff4c1b8e" title="ecryptfs_write_tag\l_70_packet" alt="" coords="218,115,347,156"/>
+<area shape="rect" id="node24" href="$keystore_8c.html#aa635b6e3a4e2bc10bc02d2a3d6636fa9" title="write_tag_11_packet" alt="" coords="658,181,801,207"/>
+<area shape="rect" id="node25" href="$keystore_8c.html#a93f9c9afc806ac6cee810aa85b04f7d6" title="write_tag_3_packet" alt="" coords="433,333,568,359"/>
+<area shape="rect" id="node26" href="$miscdev_8c.html#aaacfe8b20f05523915edd49d2487349e" title="ecryptfs_miscdev_read" alt="" coords="204,383,361,410"/>
+<area shape="rect" id="node4" href="$keystore_8c.html#a5cd91ea24b792d9718c66c4f930ef730" title="decrypt_pki_encrypted\l_session_key" alt="" coords="424,5,577,47"/>
+<area shape="rect" id="node5" href="$keystore_8c.html#a44ad4f9a58b735c6d9891a06df838671" title="ecryptfs_parse_packet_set" alt="" coords="640,38,819,65"/>
+<area shape="rect" id="node6" href="$ecryptfs_2crypto_8c.html#a1971b0423a0e1cbe741f78712d319b20" title="ecryptfs_read_headers_virt" alt="" coords="867,65,1045,91"/>
+<area shape="rect" id="node7" href="$ecryptfs__kernel_8h.html#a0f476d4db45796bb804042157fbd93fa" title="ecryptfs_read_metadata" alt="" coords="1103,67,1266,94"/>
+<area shape="rect" id="node8" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="1732,115,1851,156"/>
+<area shape="rect" id="node10" href="$ecryptfs_2inode_8c.html#a34946e5592d6ec37a0d9cedef341291d" title="ecryptfs_setattr" alt="" coords="1350,67,1463,94"/>
+<area shape="rect" id="node9" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="1899,122,2003,149"/>
+<area shape="rect" id="node12" href="$keystore_8c.html#a97cf4aa86d30a50e38ab1f56f014f1bc" title="pki_encrypt_session_key" alt="" coords="416,282,585,309"/>
+<area shape="rect" id="node14" href="$keystore_8c.html#aea269faf109dfdfbe811ff5af549c8dc" title="ecryptfs_generate_key\l_packet_set" alt="" coords="879,220,1033,261"/>
+<area shape="rect" id="node15" href="$ecryptfs_2crypto_8c.html#a726219be3d26c0f5d0cd3764aaf1dc10" title="ecryptfs_write_headers_virt" alt="" coords="1093,202,1276,229"/>
+<area shape="rect" id="node16" href="$ecryptfs__kernel_8h.html#a42762f9a11a4a605720623e066b37aac" title="ecryptfs_write_metadata" alt="" coords="1324,190,1489,217"/>
+<area shape="rect" id="node17" href="$ecryptfs_2inode_8c.html#a6bc52bfbdbdae09b52647394d90fdc70" title="ecryptfs_initialize_file" alt="" coords="1537,183,1684,210"/>
+<area shape="rect" id="node18" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="1735,183,1847,210"/>
+<area shape="rect" id="node20" href="$ecryptfs_2crypto_8c.html#a7c08ddd3f800324ed36c5f9b4544c870" title="ecryptfs_encrypt_filename" alt="" coords="413,122,588,149"/>
+<area shape="rect" id="node21" href="$ecryptfs__kernel_8h.html#aa0f5463cff0ed1050e3f754759add6d1" title="ecryptfs_encrypt_and\l_encode_filename" alt="" coords="656,115,803,156"/>
+<area shape="rect" id="node22" href="$ecryptfs_2inode_8c.html#a12d536a3a1a72ba18dcc8ff49a79e9af" title="ecryptfs_lookup" alt="" coords="899,117,1013,143"/>
+<area shape="rect" id="node23" href="$ecryptfs_2inode_8c.html#ae9629ba2454c02f4efeba467903fb345" title="ecryptfs_symlink" alt="" coords="895,167,1017,194"/>
+</map>

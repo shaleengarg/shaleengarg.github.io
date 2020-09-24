@@ -1,0 +1,7 @@
+<map id="get_cb_cost" name="get_cb_cost">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="465,28,520,55"/>
+<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="313,28,417,55"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a0cb6f455698330ee766bf6392e28057b" title="get_valid_blocks" alt="" coords="147,79,265,105"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="568,28,621,55"/>
+<area shape="rect" id="node6" href="$f2fs_2segment_8h.html#a133ba535f58ff0a92717621028cc2779" title="get_sec_entry" alt="" coords="313,79,417,105"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="fuse_copy_ioctl_iovec" name="fuse_copy_ioctl_iovec">
+<area shape="rect" id="node2" href="$fuse__i_8h.html#a67ae465328246f3c6edf3ba6e2ab5780" title="fuse_do_ioctl" alt="" coords="204,132,303,159"/>
+<area shape="rect" id="node3" href="$fuse__i_8h.html#a934909a78c43670808a8bb911741c835" title="fuse_ioctl_common" alt="" coords="361,81,495,108"/>
+<area shape="rect" id="node8" href="$cuse_8c.html#a97866ed4c5cffda126dfd50f27aaa23e" title="cuse_file_ioctl" alt="" coords="375,132,481,159"/>
+<area shape="rect" id="node9" href="$cuse_8c.html#af663b1feed649d3b9f2aca276389cf1b" title="cuse_file_compat_ioctl" alt="" coords="351,183,505,209"/>
+<area shape="rect" id="node4" href="$fuse_2dir_8c.html#a35792231d6b2a8a6e194d1635fa1d40f" title="fuse_dir_ioctl" alt="" coords="580,5,679,32"/>
+<area shape="rect" id="node5" href="$fuse_2dir_8c.html#a6a6ab4b48d212c848da416be72126dcc" title="fuse_dir_compat_ioctl" alt="" coords="555,56,704,83"/>
+<area shape="rect" id="node6" href="$fuse_2file_8c.html#a539159245d95b02994b9a598244410a6" title="fuse_file_ioctl" alt="" coords="578,107,681,133"/>
+<area shape="rect" id="node7" href="$fuse_2file_8c.html#aaa5060e19b445340bd339f478eaa5bed" title="fuse_file_compat_ioctl" alt="" coords="553,157,705,184"/>
+</map>

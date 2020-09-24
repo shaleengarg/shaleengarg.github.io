@@ -1,0 +1,5 @@
+<map id="clear_ckpt_flags" name="clear_ckpt_flags">
+<area shape="rect" id="node2" href="$f2fs_8h.html#aa25dca5ea421aad63f0340d546a619c7" title="recover_orphan_inodes" alt="" coords="171,5,327,32"/>
+<area shape="rect" id="node3" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="375,5,477,32"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="525,5,612,32"/>
+</map>

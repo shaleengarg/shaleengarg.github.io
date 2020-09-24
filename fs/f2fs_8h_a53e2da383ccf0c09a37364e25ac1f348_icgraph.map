@@ -1,0 +1,12 @@
+<map id="f2fs_kmem_cache_create" name="f2fs_kmem_cache_create">
+<area shape="rect" id="node2" href="$f2fs_8h.html#afd8d66fd5881bcf984df85211fb9a7f6" title="create_checkpoint_caches" alt="" coords="225,5,403,32"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a03a9923c6dc276fe24bb12cec2b6e697" title="create_extent_cache" alt="" coords="243,188,385,215"/>
+<area shape="rect" id="node7" href="$node_8c.html#af05c4a8f96d02e60ae1a951a3e10f10e" title="create_node_manager\l_caches" alt="" coords="239,57,389,98"/>
+<area shape="rect" id="node8" href="$f2fs_2recovery_8c.html#a27678512f558467924ed7e92009d0840" title="recover_fsync_data" alt="" coords="246,239,382,265"/>
+<area shape="rect" id="node11" href="$f2fs_2segment_8c.html#a778f38779df73ce05f455a284284f9ce" title="create_segment_manager\l_caches" alt="" coords="228,122,400,163"/>
+<area shape="rect" id="node3" href="$f2fs_2super_8c.html#aacb103ff4622ce608fbb5938e4f34108" title="init_f2fs_fs" alt="" coords="487,97,573,124"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#ae740f08837108cb329a391ed9100ab35" title="exit_f2fs_fs" alt="" coords="657,97,748,124"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a224ce2f795665ce12f8cd62cd43244cd" title="f2fs_destroy_root_stats" alt="" coords="451,188,609,215"/>
+<area shape="rect" id="node9" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="479,239,581,265"/>
+<area shape="rect" id="node10" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="659,239,746,265"/>
+</map>

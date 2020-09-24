@@ -1,0 +1,10 @@
+<map id="fat_scan_logstart" name="fat_scan_logstart">
+<area shape="rect" id="node2" href="$fat_8h.html#aac1f6cd67da2a96d8f336cb717509079" title="fatwchar_to16" alt="" coords="187,56,291,83"/>
+<area shape="rect" id="node8" href="$nfs_8c.html#a671d2fb50cf023e6374fbc602077a2f5" title="fat_rebuild_parent" alt="" coords="176,107,301,133"/>
+<area shape="rect" id="node3" href="$namei__vfat_8c.html#aac2299b954846562480529f66bed53c4" title="vfat_build_slots" alt="" coords="349,56,463,83"/>
+<area shape="rect" id="node4" href="$namei__vfat_8c.html#ad80c526a5b5ebbc239b0da5940c1ff8b" title="vfat_add_entry" alt="" coords="511,56,619,83"/>
+<area shape="rect" id="node5" href="$namei__vfat_8c.html#a44e39f6ee6f350528d7820bbf34a1e49" title="vfat_create" alt="" coords="671,5,757,32"/>
+<area shape="rect" id="node6" href="$namei__vfat_8c.html#a0630335572616aeadb502e0554330ca3" title="vfat_mkdir" alt="" coords="673,56,755,83"/>
+<area shape="rect" id="node7" href="$namei__vfat_8c.html#a3abe7b2d5a7096ea96388a7850fb9da4" title="vfat_rename" alt="" coords="667,107,761,133"/>
+<area shape="rect" id="node9" href="$nfs_8c.html#a67c64dfd6029746b42e24bfa3884cb42" title="fat_get_parent" alt="" coords="353,107,459,133"/>
+</map>

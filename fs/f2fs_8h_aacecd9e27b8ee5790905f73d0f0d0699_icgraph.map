@@ -1,0 +1,13 @@
+<map id="f2fs_may_inline_dentry" name="f2fs_may_inline_dentry">
+<area shape="rect" id="node2" href="$f2fs_2namei_8c.html#a0cfcfc97b1616b3d1075ce02f376f845" title="f2fs_new_inode" alt="" coords="232,107,345,133"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#a224ce2f795665ce12f8cd62cd43244cd" title="f2fs_destroy_root_stats" alt="" coords="209,157,368,184"/>
+<area shape="rect" id="node3" href="$f2fs_2namei_8c.html#a2e909836038ec99cc241f466234d734c" title="f2fs_create" alt="" coords="425,5,511,32"/>
+<area shape="rect" id="node4" href="$f2fs_2namei_8c.html#a99c1fdef6124c62be05471e2ce45f037" title="f2fs_symlink" alt="" coords="420,56,516,83"/>
+<area shape="rect" id="node5" href="$f2fs_2namei_8c.html#a3d3e9c5b9ecf219082b3894d0cb83e1e" title="f2fs_mkdir" alt="" coords="427,107,509,133"/>
+<area shape="rect" id="node6" href="$f2fs_2namei_8c.html#a87e36487723157157ab6528962dd8ac0" title="f2fs_mknod" alt="" coords="423,157,513,184"/>
+<area shape="rect" id="node7" href="$f2fs_2namei_8c.html#ab4e24597bbec2a469094519a2d5317ba" title="__f2fs_tmpfile" alt="" coords="416,208,520,235"/>
+<area shape="rect" id="node8" href="$f2fs_2namei_8c.html#a92e070398d6951ee263772ce1e981696" title="f2fs_tmpfile" alt="" coords="594,183,685,209"/>
+<area shape="rect" id="node9" href="$f2fs_2namei_8c.html#a6ef079550b81989d318f04c36b402b4c" title="f2fs_create_whiteout" alt="" coords="568,233,711,260"/>
+<area shape="rect" id="node10" href="$f2fs_2namei_8c.html#a2ffdfb111c8415967e44c0a86c2f1686" title="f2fs_rename" alt="" coords="759,233,853,260"/>
+<area shape="rect" id="node11" href="$f2fs_2namei_8c.html#af8e8ab1ac2c025bc26ef030bca987da0" title="f2fs_rename2" alt="" coords="901,233,1003,260"/>
+</map>

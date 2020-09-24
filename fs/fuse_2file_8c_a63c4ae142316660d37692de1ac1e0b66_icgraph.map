@@ -1,0 +1,20 @@
+<map id="fuse_get_res_by_io" name="fuse_get_res_by_io">
+<area shape="rect" id="node2" href="$fuse_2file_8c.html#ad3f34d068d824cb6d4859c2ddbda1393" title="fuse_aio_complete" alt="" coords="188,411,319,437"/>
+<area shape="rect" id="node12" href="$fuse_2file_8c.html#accac2bad94ddb8570bf6ca5b6c43f9ef" title="fuse_direct_IO" alt="" coords="1353,335,1459,361"/>
+<area shape="rect" id="node3" href="$fuse_2file_8c.html#af9b66aecd6b903bc0ba3e87c5c3f7ca2" title="fuse_aio_complete_req" alt="" coords="367,309,523,336"/>
+<area shape="rect" id="node4" href="$fuse_2file_8c.html#a4f51bdd2079fd6eea3d32af7fa40f95f" title="fuse_async_req_send" alt="" coords="571,259,720,285"/>
+<area shape="rect" id="node5" href="$fuse_2file_8c.html#a28e858650979eedbec7d864d3ee49753" title="fuse_send_read" alt="" coords="769,259,884,285"/>
+<area shape="rect" id="node16" href="$fuse_2file_8c.html#a9c29e8de96c78eff51e861df09570c64" title="fuse_send_write" alt="" coords="768,183,885,209"/>
+<area shape="rect" id="node6" href="$fuse_2file_8c.html#abb6981bb103d30f9469a9fe9d0dbab02" title="fuse_do_readpage" alt="" coords="949,309,1077,336"/>
+<area shape="rect" id="node9" href="$fuse__i_8h.html#a63c173f4bc10093e7020bd91497dcb99" title="fuse_direct_io" alt="" coords="961,183,1064,209"/>
+<area shape="rect" id="node7" href="$fuse_2file_8c.html#a92af077f8e8658131af13ba348365a90" title="fuse_readpage" alt="" coords="1160,360,1267,387"/>
+<area shape="rect" id="node8" href="$fuse_2file_8c.html#a325b282f76307bb975d55e7295a5277e" title="fuse_write_begin" alt="" coords="1153,309,1273,336"/>
+<area shape="rect" id="node10" href="$fuse_2file_8c.html#abd48d8edc829a9fb76e45314896423b9" title="__fuse_direct_read" alt="" coords="1147,56,1279,83"/>
+<area shape="rect" id="node13" href="$fuse_2file_8c.html#af35b7652b07cf2c86fc9307f22601f93" title="fuse_direct_write_iter" alt="" coords="1140,107,1287,133"/>
+<area shape="rect" id="node14" href="$cuse_8c.html#a89003e15106dddcbf39b743f9705ac20" title="cuse_read_iter" alt="" coords="1160,157,1267,184"/>
+<area shape="rect" id="node15" href="$cuse_8c.html#a41d1d7a03c74b51b2b34649f6b54430e" title="cuse_write_iter" alt="" coords="1158,208,1269,235"/>
+<area shape="rect" id="node11" href="$fuse_2file_8c.html#af80e931c989eb44c3e15e1df7f57eac5" title="fuse_direct_read_iter" alt="" coords="1335,56,1477,83"/>
+<area shape="rect" id="node17" href="$fuse_2file_8c.html#a0a1998156c7761b6fb8f8e3dbbb004d2" title="fuse_send_write_pages" alt="" coords="933,57,1092,84"/>
+<area shape="rect" id="node18" href="$fuse_2file_8c.html#a85db9daa4a2b25c16081daec04abe2fd" title="fuse_perform_write" alt="" coords="1147,5,1280,32"/>
+<area shape="rect" id="node19" href="$fuse_2file_8c.html#a1618a062c4aff07d72ee9335c29c707c" title="fuse_file_write_iter" alt="" coords="1341,5,1471,32"/>
+</map>

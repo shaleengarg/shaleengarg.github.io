@@ -1,0 +1,7 @@
+<map id="f2fs_is_drop_cache" name="f2fs_is_drop_cache">
+<area shape="rect" id="node2" href="$data_8c.html#ab96d423ce63bf76e3575b80981c6f7b8" title="__write_data_page" alt="" coords="188,31,319,57"/>
+<area shape="rect" id="node3" href="$data_8c.html#a10d878ea565db5149125825fe0179308" title="f2fs_write_data_page" alt="" coords="375,5,521,32"/>
+<area shape="rect" id="node4" href="$data_8c.html#a60a8eae0999360afaf18590fe9dded3c" title="f2fs_write_cache_pages" alt="" coords="367,56,529,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a8b4c830b35dcab1e2ca481fa2b888599" title="__f2fs_write_data_pages" alt="" coords="577,56,744,83"/>
+<area shape="rect" id="node6" href="$data_8c.html#a4eaf33f19ea6c2c8c12b2c869354266f" title="f2fs_write_data_pages" alt="" coords="792,56,945,83"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="purge_mstcpy_list" name="purge_mstcpy_list">
+<area shape="rect" id="node2" href="$dlm_2lock_8c.html#af59e511def9e6f13c935408e92f6325c" title="is_master_copy" alt="" coords="453,296,568,323"/>
+<area shape="rect" id="node3" href="$dlm_2lock_8c.html#aa3174650640ace95f6ab28af1d1e328d" title="del_lkb" alt="" coords="196,56,259,83"/>
+<area shape="rect" id="node7" href="$dlm_2lock_8c.html#ab4ac2270f8322012c94a638cc292ecc4" title="dlm_put_lkb" alt="" coords="181,119,273,145"/>
+<area shape="rect" id="node4" href="$dlm_2lock_8c.html#a0a3373645b905e4e06bc73273882c0c9" title="unhold_lkb" alt="" coords="321,43,405,69"/>
+<area shape="rect" id="node5" href="$dlm_2lock_8c.html#a8daaef8aa995c68981b37b44533dfe92" title="kill_lkb" alt="" coords="479,43,542,69"/>
+<area shape="rect" id="node6" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="1149,68,1247,95"/>
+<area shape="rect" id="node8" href="$dlm_2lock_8c.html#abdca4d100ac9782bff740adafc316dbc" title="__put_lkb" alt="" coords="324,169,403,196"/>
+<area shape="rect" id="node9" href="$dlm_2lock_8c.html#aa9307e819ff05438b07372f54c040504" title="detach_lkb" alt="" coords="468,195,553,221"/>
+<area shape="rect" id="node16" href="$memory_8c.html#a682fd6b8cb725261d1d6a2585ce34f3c" title="dlm_free_lvb" alt="" coords="849,296,945,323"/>
+<area shape="rect" id="node17" href="$memory_8c.html#aebe6f36c44dda06263c32a1526ddf3a2" title="dlm_free_lkb" alt="" coords="463,144,559,171"/>
+<area shape="rect" id="node10" href="$dlm_2lock_8c.html#af778d5adcca0c404ec3bc197307902b1" title="put_rsb" alt="" coords="616,195,681,221"/>
+<area shape="rect" id="node11" href="$dlm_2lock_8c.html#a87bc4fedd7f2ff1ba8ea2fd283f82e53" title="toss_rsb" alt="" coords="729,195,801,221"/>
+<area shape="rect" id="node12" href="$dlm_2lock_8c.html#a21733208f8044772a456f0c1d0ce10c0" title="dlm_print_rsb" alt="" coords="1148,195,1248,221"/>
+<area shape="rect" id="node13" href="$dlm_2lock_8c.html#a133ab9bac503843ebc9baecaf9bd7ac1" title="rsb_insert" alt="" coords="858,195,937,221"/>
+<area shape="rect" id="node14" href="$dlm_2lock_8c.html#adaf5f84c4313552e11c18da4186b1cf4" title="rsb_cmp" alt="" coords="1011,195,1083,221"/>
+<area shape="rect" id="node15" href="$dlm_2lock_8c.html#a9831a9c1ef8a90e3dfe4cbb84ee14d47" title="dlm_dump_rsb" alt="" coords="993,144,1100,171"/>
+</map>

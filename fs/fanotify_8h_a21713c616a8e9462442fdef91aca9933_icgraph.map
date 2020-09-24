@@ -1,0 +1,7 @@
+<map id="FANOTIFY_PE" name="FANOTIFY_PE">
+<area shape="rect" id="node2" href="$fanotify_8c.html#a16339419ff08bdf451c6b9f8995e50e9" title="fanotify_handle_event" alt="" coords="167,5,316,32"/>
+<area shape="rect" id="node3" href="$fanotify_8c.html#a599c673e8204cfe91a458dd592126f1c" title="fanotify_free_event" alt="" coords="175,56,308,83"/>
+<area shape="rect" id="node4" href="$fanotify__user_8c.html#aa53a97066c0d5be87cae51f3b6401030" title="copy_event_to_user" alt="" coords="172,107,311,133"/>
+<area shape="rect" id="node5" href="$fanotify__user_8c.html#ac5d57126a7f90f5e68352fb13cf84bc6" title="fanotify_read" alt="" coords="364,132,461,159"/>
+<area shape="rect" id="node6" href="$fanotify__user_8c.html#a155ecd16439b55fc22e8323ac0aa4d28" title="fanotify_release" alt="" coords="184,208,299,235"/>
+</map>

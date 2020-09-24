@@ -1,0 +1,16 @@
+<map id="f2fs_stop_checkpoint" name="f2fs_stop_checkpoint">
+<area shape="rect" id="node2" href="$f2fs_8h.html#afd0183853749ddf02fac2eb4bf38ecd4" title="set_ckpt_flags" alt="" coords="232,56,339,83"/>
+<area shape="rect" id="node5" href="$data_8c.html#a9741cd28cddcfddf8dfca440cc554496" title="f2fs_flush_merged_writes" alt="" coords="200,111,371,137"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a1df29979ea88907683cfcdaf1f4e144e" title="__set_ckpt_flags" alt="" coords="428,5,549,32"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="440,56,537,83"/>
+<area shape="rect" id="node6" href="$data_8c.html#a5b9bc773fee216fa84c75e76fef56116" title="f2fs_submit_merged\l_write" alt="" coords="419,107,559,149"/>
+<area shape="rect" id="node7" href="$data_8c.html#ac0ed6cae26584bf007d2d6d2414c423a" title="__submit_merged_write_cond" alt="" coords="607,115,801,141"/>
+<area shape="rect" id="node8" href="$data_8c.html#aaf82bab2fc97d4a9352191676a24a9e6" title="has_merged_page" alt="" coords="863,85,991,112"/>
+<area shape="rect" id="node12" href="$data_8c.html#a593875a244f0e06ba21750c23b072718" title="__f2fs_submit_merged\l_write" alt="" coords="849,137,1004,178"/>
+<area shape="rect" id="node9" href="$data_8c.html#a8c668c3fbe27e13dd63b20be7aa6bbe5" title="__has_merged_page" alt="" coords="1055,85,1198,112"/>
+<area shape="rect" id="node10" href="$node_8h.html#a25b4efea4358592966a006ce61c6eca8" title="ino_of_node" alt="" coords="1253,85,1345,112"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="1396,85,1496,112"/>
+<area shape="rect" id="node13" href="$data_8c.html#a270fc17649f23406d8ac83e3b321a845" title="__submit_merged_bio" alt="" coords="1052,144,1201,171"/>
+<area shape="rect" id="node14" href="$data_8c.html#a57f8ec8e7d936d32c17825d1dc8f9f41" title="__submit_bio" alt="" coords="1249,144,1348,171"/>
+<area shape="rect" id="node15" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="1400,144,1492,171"/>
+</map>

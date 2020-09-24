@@ -1,0 +1,7 @@
+<map id="io_ctl_add_entry" name="io_ctl_add_entry">
+<area shape="rect" id="node2" href="$free-space-cache_8c.html#a51f19602da9ea91e1a3f999b1061c5da" title="io_ctl_set_crc" alt="" coords="179,56,282,83"/>
+<area shape="rect" id="node6" href="$free-space-cache_8c.html#a6c453e82369140026c433085ec15a0d1" title="io_ctl_map_page" alt="" coords="171,107,291,133"/>
+<area shape="rect" id="node3" href="$free-space-cache_8c.html#ab04efc5914b94d4a23464c9704a3435f" title="io_ctl_unmap_page" alt="" coords="339,5,473,32"/>
+<area shape="rect" id="node4" href="$disk-io_8c.html#afefd1a76d3df3a8f54251a3aa9ef057b" title="btrfs_csum_data" alt="" coords="347,56,465,83"/>
+<area shape="rect" id="node5" href="$disk-io_8c.html#af1c87f201f23dab002e655d9c571af52" title="btrfs_csum_final" alt="" coords="347,107,465,133"/>
+</map>

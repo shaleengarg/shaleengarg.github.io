@@ -1,0 +1,28 @@
+var dnode_8c =
+[
+    [ "delete_empty_dnode", "dnode_8c.html#a789a52acdb8c64293bda5397d5fed22a", null ],
+    [ "dnode_last_de", "dnode_8c.html#a4f6cc52ca381316a17c2ceb00995cc65", null ],
+    [ "dnode_pre_last_de", "dnode_8c.html#a28a29b7e4ad15caccd2f760f988058af", null ],
+    [ "fix_up_ptrs", "dnode_8c.html#a3595dc097f3768fe5d62f82119007834", null ],
+    [ "for_all_poss", "dnode_8c.html#af14c09ef2910cde314047780a3f91c8c", null ],
+    [ "get_pos", "dnode_8c.html#a9a3485f6cef754b66e4b7a3564baca49", null ],
+    [ "hpfs_add_de", "dnode_8c.html#aa26eab4515c8782ca079bee1c43d456a", null ],
+    [ "hpfs_add_dirent", "dnode_8c.html#ad621e081ed8cc8fa1cb9648d14faf930", null ],
+    [ "hpfs_add_pos", "dnode_8c.html#a37d6fd65d0e8bdaa4ead2a670d8723cc", null ],
+    [ "hpfs_add_to_dnode", "dnode_8c.html#a2e369f6f9ff0dd7406baf81936f9f2d5", null ],
+    [ "hpfs_count_dnodes", "dnode_8c.html#a03685d1fc6a2f94d9c5a7769e638ab9b", null ],
+    [ "hpfs_de_as_down_as_possible", "dnode_8c.html#ace527cfda6c749baaf1c7a3de9cefda4", null ],
+    [ "hpfs_del_pos", "dnode_8c.html#abf0d921279b29177203c65023aacfe07", null ],
+    [ "hpfs_delete_de", "dnode_8c.html#a70019f3675814e0ab1ca6faaa9935d67", null ],
+    [ "hpfs_pos_del", "dnode_8c.html#abf7e3293be35e4e5bcaccb668418f809", null ],
+    [ "hpfs_pos_ins", "dnode_8c.html#a94463ebdb2a626c5ac34f4c8f8efcd75", null ],
+    [ "hpfs_pos_subst", "dnode_8c.html#a9be1f58d0a4ee6af8ade6d4d369f41e6", null ],
+    [ "hpfs_remove_dirent", "dnode_8c.html#a218e715b2131a8738a5ea62c5fe5dd32", null ],
+    [ "hpfs_remove_dtree", "dnode_8c.html#a2759cff8f8f8e87039aaf314d9f07314", null ],
+    [ "map_dirent", "dnode_8c.html#a38f2d10c93351cab7f8b6c6912314374", null ],
+    [ "map_fnode_dirent", "dnode_8c.html#a526f7ae7d20e5f38a7de3722d76eed01", null ],
+    [ "map_nth_dirent", "dnode_8c.html#add00eb34cbe1a73dee2bbd5dd5b8e16f", null ],
+    [ "map_pos_dirent", "dnode_8c.html#a47076226dacdf48ee40a88fe283340b6", null ],
+    [ "move_to_top", "dnode_8c.html#a8fdb1fcc1238ac07303292709d5f2f0c", null ],
+    [ "set_last_pointer", "dnode_8c.html#a265ce40e78979cdd6deed416ff744fc9", null ]
+];

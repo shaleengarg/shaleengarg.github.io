@@ -1,0 +1,14 @@
+<map id="has_not_enough_free_secs" name="has_not_enough_free_secs">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a21274970a1ecd55f1d2967bff2288454" title="get_blocktype_secs" alt="" coords="255,133,394,160"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a0233fb27dc3ca25611a05d87ecec1fdc" title="is_sbi_flag_set" alt="" coords="270,32,379,59"/>
+<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a1a4a25872ae45545341a37aefba6aef7" title="free_sections" alt="" coords="477,7,577,33"/>
+<area shape="rect" id="node8" href="$f2fs_2segment_8h.html#ac08f83887aabacf8c8e8c74fce969f1f" title="reserved_sections" alt="" coords="463,83,591,109"/>
+<area shape="rect" id="node10" href="$f2fs_2segment_8h.html#a18db2b70aa11cd2d5ff0035262d862eb" title="has_curseg_enough_space" alt="" coords="235,184,415,211"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#ab9b89fbc6698715c48d39b8872a9d6ab" title="get_pages" alt="" coords="485,133,568,160"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="672,23,741,49"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="823,121,876,148"/>
+<area shape="rect" id="node9" href="$f2fs_2segment_8h.html#aea59cabbbe928c13475a7b8d330642ba" title="reserved_segments" alt="" coords="639,89,775,116"/>
+<area shape="rect" id="node11" href="$f2fs_2segment_8h.html#ab401fc665e34bc211f8ae30b552de703" title="CURSEG_I" alt="" coords="661,209,752,236"/>
+<area shape="rect" id="node12" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="475,184,579,211"/>
+<area shape="rect" id="node13" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="679,147,734,173"/>
+</map>

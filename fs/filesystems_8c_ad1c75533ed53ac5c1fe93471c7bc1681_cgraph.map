@@ -1,0 +1,6 @@
+<map id="get_fs_type" name="get_fs_type">
+<area shape="rect" id="node2" href="$filesystems_8c.html#a51454a9ff253c717960e9f63a3cb4565" title="__get_fs_type" alt="" coords="161,5,265,32"/>
+<area shape="rect" id="node4" href="$filesystems_8c.html#a102b0894c471011979a6ef8e6ee76e69" title="put_filesystem" alt="" coords="160,56,267,83"/>
+<area shape="rect" id="node5" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="144,107,283,133"/>
+<area shape="rect" id="node3" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="331,5,441,32"/>
+</map>

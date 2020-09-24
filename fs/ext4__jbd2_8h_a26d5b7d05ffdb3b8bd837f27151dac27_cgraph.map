@@ -1,0 +1,6 @@
+<map id="ext4_journal_free_reserved" name="ext4_journal_free_reserved">
+<area shape="rect" id="node2" href="$ext4__jbd2_8h.html#a78c49cee36d540815bf9f71aa8c2101c" title="ext4_handle_valid" alt="" coords="257,5,384,32"/>
+<area shape="rect" id="node3" href="$jbd2_2transaction_8c.html#a0b60332cc8afdfe46ac5ddae0d85748b" title="jbd2_journal_free_reserved" alt="" coords="232,56,409,83"/>
+<area shape="rect" id="node4" href="$jbd2_2transaction_8c.html#af280ccc8a6dd9808ca132244d7b55eb2" title="sub_reserved_credits" alt="" coords="457,31,604,57"/>
+<area shape="rect" id="node5" href="$jbd2_2transaction_8c.html#a7eb1a00a20ab8c759702a530a8bde136" title="EXPORT_SYMBOL" alt="" coords="461,81,600,108"/>
+</map>

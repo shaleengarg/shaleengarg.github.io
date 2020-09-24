@@ -1,0 +1,21 @@
+<map id="DEFINE_MUTEX" name="DEFINE_MUTEX">
+<area shape="rect" id="node2" href="$kernfs_2inode_8c.html#aa9f3eff59b54ec6854ecbc6408b5449a" title="kernfs_iattrs" alt="" coords="180,448,275,475"/>
+<area shape="rect" id="node3" href="$kernfs_2inode_8c.html#a3e26039a7da11a6615e71a58b94431f5" title="__kernfs_setattr" alt="" coords="349,284,465,311"/>
+<area shape="rect" id="node14" href="$kernfs-internal_8h.html#ac0f5306620b4a723247db57d4fc03c85" title="kernfs_iop_listxattr" alt="" coords="919,461,1051,488"/>
+<area shape="rect" id="node18" href="$kernfs_2inode_8c.html#a6f327b9846cdbead683a80d2da28b2a3" title="kernfs_xattr_get" alt="" coords="349,448,465,475"/>
+<area shape="rect" id="node19" href="$kernfs_2inode_8c.html#a8d41e939716daec708fc71c64f8b47a1" title="kernfs_xattr_set" alt="" coords="349,499,465,525"/>
+<area shape="rect" id="node20" href="$kernfs_2inode_8c.html#a93cc292adacb76b5eb84ef3468625f12" title="kernfs_security_xattr_set" alt="" coords="323,549,492,576"/>
+<area shape="rect" id="node4" href="$kernfs_2inode_8c.html#a7b53e220f94e6ad7fde8a2eee1199576" title="kernfs_setattr" alt="" coords="552,233,655,260"/>
+<area shape="rect" id="node6" href="$kernfs-internal_8h.html#a4eea4e3d7b9c61cee8967c81d5100309" title="kernfs_iop_setattr" alt="" coords="540,284,667,311"/>
+<area shape="rect" id="node5" href="$sysfs_2file_8c.html#a9400db43d780e72e3dcdd5ece8c9df0a" title="sysfs_chmod_file" alt="" coords="721,233,845,260"/>
+<area shape="rect" id="node7" href="$kernfs-internal_8h.html#a18e703e1aa2e3c93b798f8aaab86c843" title="kernfs_dentry_node" alt="" coords="715,284,851,311"/>
+<area shape="rect" id="node8" href="$kernfs_2dir_8c.html#ac938d4a1ce17a998af4afb7f352ed386" title="kernfs_dop_revalidate" alt="" coords="911,5,1060,32"/>
+<area shape="rect" id="node9" href="$kernfs_2dir_8c.html#a24916f6d5bc5be5ce2b49e0f2a4d0218" title="kernfs_node_from_dentry" alt="" coords="901,56,1070,83"/>
+<area shape="rect" id="node10" href="$kernfs_2dir_8c.html#a88f52d9d8ee0afa3fea8c665d73654a8" title="kernfs_iop_rmdir" alt="" coords="926,107,1045,133"/>
+<area shape="rect" id="node11" href="$kernfs_2dir_8c.html#a413f462e25194deb03f0f1e16eecb836" title="kernfs_iop_rename" alt="" coords="919,157,1051,184"/>
+<area shape="rect" id="node12" href="$kernfs_2dir_8c.html#a1fb1ded2365373daf0fae2e8cf579f36" title="kernfs_fop_readdir" alt="" coords="921,208,1050,235"/>
+<area shape="rect" id="node13" href="$kernfs_2file_8c.html#a2efbd5aaddfb4648268a025b5e33f0c2" title="kernfs_fop_poll" alt="" coords="930,259,1041,285"/>
+<area shape="rect" id="node15" href="$kernfs_2mount_8c.html#a3baa7b4b533af9d44317848c1f408847" title="kernfs_sop_show_options" alt="" coords="899,309,1072,336"/>
+<area shape="rect" id="node16" href="$kernfs_2mount_8c.html#ab860959c73842907f2dd8782a065de80" title="kernfs_sop_show_path" alt="" coords="907,360,1063,387"/>
+<area shape="rect" id="node17" href="$kernfs_2mount_8c.html#ae993d1a5e2f85d671ac1f6504cafebb7" title="kernfs_get_parent_dentry" alt="" coords="901,411,1070,437"/>
+</map>

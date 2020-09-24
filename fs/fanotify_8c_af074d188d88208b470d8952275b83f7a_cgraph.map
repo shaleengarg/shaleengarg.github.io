@@ -1,0 +1,10 @@
+<map id="fanotify_alloc_event" name="fanotify_alloc_event">
+<area shape="rect" id="node2" href="$fanotify_8h.html#ad61bc1a2c26f4cf8e40ecb80727506f0" title="fanotify_is_perm_event" alt="" coords="192,5,349,32"/>
+<area shape="rect" id="node3" href="$notification_8c.html#a0c983a6884752ff60d94f7c1cb451e12" title="fsnotify_init_event" alt="" coords="207,56,335,83"/>
+<area shape="rect" id="node4" href="$namei_8c.html#aca991eb43282962e69e41e61a798be34" title="path_get" alt="" coords="235,107,307,133"/>
+<area shape="rect" id="node5" href="$namespace_8c.html#a81f04ef8722037c651b6d4775b6117a5" title="mntget" alt="" coords="435,81,498,108"/>
+<area shape="rect" id="node9" href="$namei_8c.html#ab6c058e9d297eedc75d075f53d48d3f5" title="EXPORT_SYMBOL" alt="" coords="397,132,536,159"/>
+<area shape="rect" id="node6" href="$namespace_8c.html#a6f4abf87f4f266868477f4308911c8e0" title="mnt_add_count" alt="" coords="598,31,709,57"/>
+<area shape="rect" id="node7" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="610,81,697,108"/>
+<area shape="rect" id="node8" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="584,132,723,159"/>
+</map>

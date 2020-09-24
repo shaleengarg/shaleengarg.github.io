@@ -1,0 +1,8 @@
+<map id="unregister_binfmt" name="unregister_binfmt">
+<area shape="rect" id="node2" href="$binfmt__aout_8c.html#a5c58e27a1a089e6b99958a39957768cb" title="exit_aout_binfmt" alt="" coords="188,5,307,32"/>
+<area shape="rect" id="node3" href="$binfmt__elf_8c.html#a95ecbd8a84e0416ee18526ec6c08b778" title="exit_elf_binfmt" alt="" coords="194,56,301,83"/>
+<area shape="rect" id="node4" href="$binfmt__elf__fdpic_8c.html#aa837381a21d13a772569911e35761c03" title="exit_elf_fdpic_binfmt" alt="" coords="176,107,319,133"/>
+<area shape="rect" id="node5" href="$binfmt__em86_8c.html#a91a248086a4909ede700e68c53a00ac2" title="exit_em86_binfmt" alt="" coords="185,157,310,184"/>
+<area shape="rect" id="node6" href="$binfmt__misc_8c.html#a707e97f6855c7b933be1cf30fee899a2" title="exit_misc_binfmt" alt="" coords="187,208,308,235"/>
+<area shape="rect" id="node7" href="$binfmt__script_8c.html#a943e938a92b243f86441eedcfd604a50" title="exit_script_binfmt" alt="" coords="185,259,310,285"/>
+</map>

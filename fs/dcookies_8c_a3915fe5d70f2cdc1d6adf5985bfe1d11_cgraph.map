@@ -1,0 +1,11 @@
+<map id="alloc_dcookie" name="alloc_dcookie">
+<area shape="rect" id="node2" href="$namei_8c.html#aca991eb43282962e69e41e61a798be34" title="path_get" alt="" coords="170,107,242,133"/>
+<area shape="rect" id="node8" href="$dcookies_8c.html#a1d89d88277b8942bca548914cb05509c" title="hash_dcookie" alt="" coords="155,157,257,184"/>
+<area shape="rect" id="node3" href="$namespace_8c.html#a81f04ef8722037c651b6d4775b6117a5" title="mntget" alt="" coords="343,56,406,83"/>
+<area shape="rect" id="node7" href="$namei_8c.html#ab6c058e9d297eedc75d075f53d48d3f5" title="EXPORT_SYMBOL" alt="" coords="305,107,444,133"/>
+<area shape="rect" id="node4" href="$namespace_8c.html#a6f4abf87f4f266868477f4308911c8e0" title="mnt_add_count" alt="" coords="506,5,617,32"/>
+<area shape="rect" id="node5" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="518,56,605,83"/>
+<area shape="rect" id="node6" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="492,107,631,133"/>
+<area shape="rect" id="node9" href="$dcookies_8c.html#a248b9d22440db44a2cc965054d823163" title="dcookie_hash" alt="" coords="323,157,426,184"/>
+<area shape="rect" id="node10" href="$dcookies_8c.html#a139edce5fb96ec5b841f7eb6c41407cd" title="dcookie_value" alt="" coords="322,208,427,235"/>
+</map>

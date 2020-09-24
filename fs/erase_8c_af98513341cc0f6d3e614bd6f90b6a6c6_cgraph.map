@@ -1,0 +1,8 @@
+<map id="jffs2_free_jeb_node_refs" name="jffs2_free_jeb_node_refs">
+<area shape="rect" id="node2" href="$malloc_8c.html#a3ed501ddd6113cd1a26140e1e0d585ca" title="jffs2_free_refblock" alt="" coords="233,13,363,39"/>
+<area shape="rect" id="node3" href="$erase_8c.html#aba2081764c7d46d257ff6b8ecaaac648" title="jffs2_remove_node_refs\l_from_ino_list" alt="" coords="217,64,379,105"/>
+<area shape="rect" id="node4" href="$jffs2_2xattr_8c.html#a11aa0170617064eeda6a206aa4ea4690" title="jffs2_release_xattr\l_datum" alt="" coords="437,5,567,47"/>
+<area shape="rect" id="node5" href="$jffs2_2xattr_8c.html#a08d44196e655bc06001b18971dca4fe1" title="jffs2_release_xattr_ref" alt="" coords="427,71,577,98"/>
+<area shape="rect" id="node6" href="$nodelist_8c.html#aa0176cea494d87d3c51766a37140dc18" title="jffs2_del_ino_cache" alt="" coords="433,122,571,149"/>
+<area shape="rect" id="node7" href="$malloc_8c.html#a3051762b89b1a402dc582639f7b6fd67" title="jffs2_free_inode_cache" alt="" coords="625,122,781,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="get_checkpoint_version" name="get_checkpoint_version">
+<area shape="rect" id="node2" href="$f2fs_2checkpoint_8c.html#a9b5d83df7ae299b65cd9673c6e3554ec" title="validate_checkpoint" alt="" coords="212,5,349,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#abe3dd832265be0b49eebdece24a2af8c" title="get_valid_checkpoint" alt="" coords="397,5,541,32"/>
+<area shape="rect" id="node4" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="589,5,692,32"/>
+<area shape="rect" id="node5" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="740,5,827,32"/>
+</map>

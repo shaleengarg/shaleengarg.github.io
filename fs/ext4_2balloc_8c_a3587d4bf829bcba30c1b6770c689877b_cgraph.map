@@ -1,0 +1,5 @@
+<map id="ext4_valid_block_bitmap" name="ext4_valid_block_bitmap">
+<area shape="rect" id="node2" href="$ext4_2super_8c.html#a14cdb5bb2b294d30fad533a4fe5c58c1" title="ext4_block_bitmap" alt="" coords="219,5,349,32"/>
+<area shape="rect" id="node3" href="$ext4_2super_8c.html#a2fd84d1fa874156fb1b4099020683564" title="ext4_inode_bitmap" alt="" coords="219,56,349,83"/>
+<area shape="rect" id="node4" href="$ext4_2super_8c.html#a5f20c2693f541db677d3a3b56dacf895" title="ext4_inode_table" alt="" coords="224,107,344,133"/>
+</map>

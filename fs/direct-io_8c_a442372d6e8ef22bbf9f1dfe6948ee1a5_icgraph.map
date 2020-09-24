@@ -1,0 +1,12 @@
+<map id="dio_await_completion" name="dio_await_completion">
+<area shape="rect" id="node2" href="$direct-io_8c.html#a0bd7369bfe79a1578a4e54d0e7f50d43" title="do_blockdev_direct_IO" alt="" coords="200,107,355,133"/>
+<area shape="rect" id="node3" href="$direct-io_8c.html#aabdad3ee6de8cb8fa1ac7d5509eb8eff" title="__blockdev_direct_IO" alt="" coords="403,107,551,133"/>
+<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a1869f90c36006f835e877d01e5a419aa" title="btrfs_direct_IO" alt="" coords="616,5,724,32"/>
+<area shape="rect" id="node7" href="$ext4_2inode_8c.html#a33acb88c3491f6a3b92cc45fe78064df" title="ext4_direct_IO_write" alt="" coords="599,56,741,83"/>
+<area shape="rect" id="node9" href="$ext4_2inode_8c.html#ac6db1ecdc7a5342fd64364469391982b" title="ext4_direct_IO_read" alt="" coords="601,107,739,133"/>
+<area shape="rect" id="node10" href="$gfs2_2aops_8c.html#ac6f1df18ba9aeb0217f49b17c681fca6" title="gfs2_direct_IO" alt="" coords="617,157,723,184"/>
+<area shape="rect" id="node11" href="$ocfs2_2aops_8c.html#a34403509b19366144ea3c92c7f2760c8" title="ocfs2_direct_IO" alt="" coords="613,208,727,235"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="789,5,964,32"/>
+<area shape="rect" id="node6" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1012,5,1109,32"/>
+<area shape="rect" id="node8" href="$ext4_2inode_8c.html#a7dac5e6be8890bb8c51b3017341714f5" title="ext4_direct_IO" alt="" coords="823,81,930,108"/>
+</map>

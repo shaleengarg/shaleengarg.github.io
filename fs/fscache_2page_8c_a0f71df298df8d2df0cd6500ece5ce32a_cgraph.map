@@ -1,0 +1,27 @@
+<map id="__fscache_alloc_page" name="__fscache_alloc_page">
+<area shape="rect" id="node2" href="$fscache_2page_8c.html#afa5e5c8695b0bc405c1d39d2bcf6d52a" title="fscache_wait_for_deferred\l_lookup" alt="" coords="207,99,382,141"/>
+<area shape="rect" id="node3" href="$fscache_2page_8c.html#ac08d1895918de3b336cb2fd3ab5619ca" title="fscache_alloc_retrieval" alt="" coords="630,99,785,125"/>
+<area shape="rect" id="node18" href="$fscache_2internal_8h.html#a3551fd5404f59b8612a61f57ab563216" title="fscache_submit_op" alt="" coords="433,216,568,243"/>
+<area shape="rect" id="node23" href="$fscache_2page_8c.html#a6bb3f293b154d373af450584975ff89d" title="fscache_wait_for_operation\l_activation" alt="" coords="204,267,385,309"/>
+<area shape="rect" id="node26" href="$fscache_2page_8c.html#a834dc3d0d533b4bd4ed4241f79a0b377" title="EXPORT_SYMBOL" alt="" coords="225,333,364,360"/>
+<area shape="rect" id="node4" href="$operation_8c.html#a87402c9f130b88e7384bd0d9722f474f" title="fscache_operation_init" alt="" coords="866,107,1018,133"/>
+<area shape="rect" id="node14" href="$fscache_2page_8c.html#af299a7beb36f7e5ed8dbecebb6b36b14" title="fscache_do_cancel_retrieval" alt="" coords="849,56,1035,83"/>
+<area shape="rect" id="node15" href="$fscache_2page_8c.html#a5ac37c5fc9faaae95218f8f325b7276d" title="fscache_release_retrieval_op" alt="" coords="847,165,1037,192"/>
+<area shape="rect" id="node17" href="$fscache_2internal_8h.html#a98b7d506e886609806a8fb358deb0819" title="fscache_get_context" alt="" coords="871,5,1013,32"/>
+<area shape="rect" id="node5" href="$operation_8c.html#a056ce321cd1cb3fdebf15c23a9f7cbf0" title="fscache_op_work_func" alt="" coords="1099,115,1255,141"/>
+<area shape="rect" id="node12" href="$operation_8c.html#a00ac110d33214ad22210fb27f5aa23b5" title="EXPORT_SYMBOL" alt="" coords="1521,191,1659,217"/>
+<area shape="rect" id="node13" href="$operation_8c.html#aec6c8a7a085cba1ad72447a7f1f28d57" title="fscache_operation_dummy\l_cancel" alt="" coords="1088,49,1267,90"/>
+<area shape="rect" id="node6" href="$operation_8c.html#a5867d82b2ba12929f54781201f5097ea" title="fscache_put_operation" alt="" coords="1317,241,1471,268"/>
+<area shape="rect" id="node7" href="$fscache_2internal_8h.html#aae52858a78e36ae08f2098a073e68db6" title="fscache_raise_event" alt="" coords="1519,241,1661,268"/>
+<area shape="rect" id="node8" href="$fscache_2internal_8h.html#a3d39a831595401a170f4984148482c3a" title="fscache_enqueue_object" alt="" coords="1709,241,1876,268"/>
+<area shape="rect" id="node9" href="$object_8c.html#a56a15d20f5e28b4e88921cc74fd54057" title="fscache_get_object" alt="" coords="1945,191,2080,217"/>
+<area shape="rect" id="node10" href="$fscache_2internal_8h.html#ad018e8818f8733cc02afef4b643b3400" title="fscache_object_congested" alt="" coords="1924,241,2101,268"/>
+<area shape="rect" id="node11" href="$object_8c.html#a049577147beb84269b63d41bcad8743e" title="fscache_put_object" alt="" coords="1945,292,2080,319"/>
+<area shape="rect" id="node16" href="$fscache_2internal_8h.html#a260efcfe0a6e69e042ee99bc78c56636" title="fscache_put_context" alt="" coords="1106,165,1249,192"/>
+<area shape="rect" id="node19" href="$operation_8c.html#a83201421c6568ec30bbd53e66f2f16ff" title="fscache_start_operations" alt="" coords="623,267,791,293"/>
+<area shape="rect" id="node20" href="$operation_8c.html#a13c71b4e601334cab1c755a37c7cf627" title="fscache_run_op" alt="" coords="885,216,999,243"/>
+<area shape="rect" id="node22" href="$operation_8c.html#afe6e3e26c54cbeea4be0f80be2b430fd" title="fscache_report_unexpected\l_submission" alt="" coords="616,150,799,191"/>
+<area shape="rect" id="node21" href="$operation_8c.html#a7a604dce890393870f2a46ebb834a21f" title="fscache_enqueue_operation" alt="" coords="1085,216,1269,243"/>
+<area shape="rect" id="node24" href="$fscache_2internal_8h.html#a8dee5403771003d0fb09997285fb0dae" title="fscache_cancel_op" alt="" coords="433,296,568,323"/>
+<area shape="rect" id="node25" href="$orangefs-bufmap_8c.html#ae7af37ba2ab97a7a598771c9febc5605" title="put" alt="" coords="687,368,727,395"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="ecryptfs_write" name="ecryptfs_write">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a5240470a17155c25d11458eb2504a7ab" title="ecryptfs_inode_to_private" alt="" coords="788,323,959,349"/>
+<area shape="rect" id="node3" href="$ecryptfs__kernel_8h.html#aca1df323be205e111a6dfc298c4edada" title="ecryptfs_get_locked_page" alt="" coords="157,203,332,229"/>
+<area shape="rect" id="node4" href="$ecryptfs_2crypto_8c.html#a26de129ca477fc9762d6750b5020914f" title="ecryptfs_encrypt_page" alt="" coords="380,152,535,179"/>
+<area shape="rect" id="node22" href="$ecryptfs_2read__write_8c.html#a0b63d7743285b6e930dd7a651ba92ada" title="ecryptfs_write_lower\l_page_segment" alt="" coords="173,254,316,295"/>
+<area shape="rect" id="node24" href="$ecryptfs__kernel_8h.html#ae7f11bbda657ce45e00bcea3c689260b" title="ecryptfs_write_inode\l_size_to_metadata" alt="" coords="173,319,316,361"/>
+<area shape="rect" id="node5" href="$ecryptfs_2crypto_8c.html#a3732d78983618c24dfa609679d089807" title="crypt_extent" alt="" coords="611,81,705,108"/>
+<area shape="rect" id="node12" href="$ecryptfs_2crypto_8c.html#ad12963ad5b68a9cf6293be7143d194ac" title="lower_offset_for_page" alt="" coords="583,132,733,159"/>
+<area shape="rect" id="node14" href="$ecryptfs__kernel_8h.html#abcca60d451f0a0e8ae33d8738d662fd7" title="ecryptfs_write_lower" alt="" coords="587,233,729,260"/>
+<area shape="rect" id="node6" href="$ecryptfs_2crypto_8c.html#aa4738f6aeb7582859b83cdbc08285349" title="ecryptfs_derive_iv" alt="" coords="809,81,937,108"/>
+<area shape="rect" id="node10" href="$ecryptfs_2crypto_8c.html#a5e8c886dee08f09877d14958da5378ce" title="crypt_scatterlist" alt="" coords="816,31,931,57"/>
+<area shape="rect" id="node7" href="$ecryptfs_2debug_8c.html#a045879c3d789610d64a216956beeaf09" title="ecryptfs_dump_hex" alt="" coords="1025,56,1161,83"/>
+<area shape="rect" id="node8" href="$ecryptfs_2crypto_8c.html#afe9ebb3f8af0e14969d856f179bccc8d" title="ecryptfs_calculate_md5" alt="" coords="1013,107,1173,133"/>
+<area shape="rect" id="node9" href="$ecryptfs_2crypto_8c.html#a726904aa633b92bfbeed8630f90d532d" title="ecryptfs_hash_digest" alt="" coords="1221,107,1368,133"/>
+<area shape="rect" id="node11" href="$ecryptfs_2crypto_8c.html#a4ab616c4970b99d534139e9a1a08324a" title="extent_crypt_complete" alt="" coords="1016,5,1171,32"/>
+<area shape="rect" id="node13" href="$ecryptfs__kernel_8h.html#ab2813066482c96f346fbf23e1eba0d8f" title="ecryptfs_lower_header_size" alt="" coords="781,132,965,159"/>
+<area shape="rect" id="node15" href="$read__write_8c.html#ac6f49e41c807d8118fbf37d68ca28a74" title="kernel_write" alt="" coords="827,259,919,285"/>
+<area shape="rect" id="node16" href="$read__write_8c.html#a23ff4bbdd012c1944bd2366c76c1371c" title="vfs_write" alt="" coords="1056,284,1131,311"/>
+<area shape="rect" id="node21" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="1024,233,1163,260"/>
+<area shape="rect" id="node17" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="1241,259,1348,285"/>
+<area shape="rect" id="node19" href="$read__write_8c.html#afa78d288f1d4bb4b053c65e1b0155dbd" title="__vfs_write" alt="" coords="1250,309,1339,336"/>
+<area shape="rect" id="node18" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="1416,259,1537,285"/>
+<area shape="rect" id="node20" href="$read__write_8c.html#a4b2f4ef6718d3c4726de9b775fb4ea0f" title="new_sync_write" alt="" coords="1419,309,1535,336"/>
+<area shape="rect" id="node23" href="$ecryptfs_2read__write_8c.html#abcca60d451f0a0e8ae33d8738d662fd7" title="ecryptfs_write_lower" alt="" coords="587,284,729,311"/>
+<area shape="rect" id="node25" href="$ecryptfs_2mmap_8c.html#a528f4af2fcdb491f72647ffc136b862a" title="ecryptfs_write_inode\l_size_to_xattr" alt="" coords="386,458,529,499"/>
+<area shape="rect" id="node33" href="$ecryptfs_2mmap_8c.html#a0b74e0ca76af820971547c9fca1d36d9" title="ecryptfs_write_inode\l_size_to_header" alt="" coords="386,269,529,310"/>
+<area shape="rect" id="node26" href="$xattr_8c.html#a1ff7c8af792a48852857133789fd641f" title="__vfs_getxattr" alt="" coords="605,537,711,564"/>
+<area shape="rect" id="node32" href="$xattr_8c.html#a55ad17598a3f01cbfdc3e2205c4ddf61" title="__vfs_setxattr" alt="" coords="605,487,711,513"/>
+<area shape="rect" id="node27" href="$xattr_8c.html#a2493c428b6ebfafab005c15b05d82d1c" title="xattr_resolve_name" alt="" coords="805,537,941,564"/>
+<area shape="rect" id="node31" href="$xattr_8c.html#a57b6079645d9335c929506d64d398859" title="EXPORT_SYMBOL" alt="" coords="804,487,943,513"/>
+<area shape="rect" id="node28" href="$bad__inode_8c.html#a7db3c62ffb9390ef7191a63e19073333" title="is_bad_inode" alt="" coords="1044,563,1143,589"/>
+<area shape="rect" id="node30" href="$xattr_8c.html#a982179d3df182fe48e35c17858bd7812" title="strcmp_prefix" alt="" coords="1043,512,1144,539"/>
+<area shape="rect" id="node29" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="1225,563,1364,589"/>
+</map>

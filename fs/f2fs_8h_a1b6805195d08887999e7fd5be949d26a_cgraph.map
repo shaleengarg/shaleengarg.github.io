@@ -1,0 +1,6 @@
+<map id="disable_nat_bits" name="disable_nat_bits">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="189,5,281,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a897735bc95b06bb72a78024dd397ec9c" title="__clear_ckpt_flags" alt="" coords="169,56,300,83"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="186,107,283,133"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="207,157,262,184"/>
+</map>

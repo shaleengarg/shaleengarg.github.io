@@ -1,0 +1,25 @@
+<map id="__dquot_initialize" name="__dquot_initialize">
+<area shape="rect" id="node2" href="$dquot_8c.html#a3976b4c31a850811e334bb0578edf08f" title="dquot_active" alt="" coords="201,207,297,234"/>
+<area shape="rect" id="node3" href="$dquot_8c.html#a78a0deba7a34cea1fc4576102f98db4f" title="i_dquot" alt="" coords="217,258,281,284"/>
+<area shape="rect" id="node4" href="$dquot_8c.html#af5fd22ed05ec90b99b1d95c8e3bd706a" title="dqget" alt="" coords="221,308,276,335"/>
+<area shape="rect" id="node21" href="$dquot_8c.html#afd94950be28f2c588ff1851fa0fb510e" title="inode_get_rsv_space" alt="" coords="176,428,321,455"/>
+<area shape="rect" id="node22" href="$dquot_8c.html#acc2d91cd6a6c6d0116a9d034a68ffc69" title="__inode_get_rsv_space" alt="" coords="369,511,528,538"/>
+<area shape="rect" id="node24" href="$dquot_8c.html#ad28ae8e1c2474b256640e80ef804ace2" title="dqput_all" alt="" coords="211,366,286,392"/>
+<area shape="rect" id="node5" href="$dquot_8c.html#a2a81566878074b3568bc5b9bcb93fad3" title="hashfn" alt="" coords="621,131,683,158"/>
+<area shape="rect" id="node8" href="$dquot_8c.html#a0f43407dc7c10f2878a30d798a1644df" title="find_dquot" alt="" coords="611,24,693,51"/>
+<area shape="rect" id="node10" href="$dquot_8c.html#aebd8441cf9d1ca1a391139e3ccce84df" title="get_empty_dquot" alt="" coords="387,207,510,234"/>
+<area shape="rect" id="node11" href="$dquot_8c.html#a07855337f11bd479bec01a810d5284a2" title="put_inuse" alt="" coords="409,258,488,284"/>
+<area shape="rect" id="node12" href="$dquot_8c.html#ae7b7e5ac1a9857f49b9c04b42a4dd9a7" title="insert_dquot_hash" alt="" coords="385,106,513,132"/>
+<area shape="rect" id="node13" href="$dquot_8c.html#a3798e2de3b3f80db6fcd2567e64c14c2" title="remove_free_dquot" alt="" coords="382,359,515,386"/>
+<area shape="rect" id="node14" href="$dquot_8c.html#a13e55e19def365bef6b8a162a5abf0dc" title="wait_on_dquot" alt="" coords="395,410,502,436"/>
+<area shape="rect" id="node15" href="$dquot_8c.html#a2aa01a944ec93583122cfba511ab8213" title="dqput" alt="" coords="421,460,476,487"/>
+<area shape="rect" id="node19" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="583,308,721,335"/>
+<area shape="rect" id="node20" href="$dquot_8c.html#a3b6cd0dcb248638973d0ee739d339506" title="do_destroy_dquot" alt="" coords="386,55,511,82"/>
+<area shape="rect" id="node6" href="$kqid_8c.html#a659b690ef6144cc72fa737b302a7f9e7" title="from_kqid" alt="" coords="776,131,855,158"/>
+<area shape="rect" id="node7" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="903,106,1041,132"/>
+<area shape="rect" id="node9" href="$kqid_8c.html#a80a6787acedb72c2d0e243a3d18127f4" title="qid_eq" alt="" coords="785,62,845,88"/>
+<area shape="rect" id="node16" href="$dquot_8c.html#a7d7167c30206133457a98020aca4d8db" title="dquot_dirty" alt="" coords="609,359,695,386"/>
+<area shape="rect" id="node17" href="$dquot_8c.html#a941b9387b5522454843c8d1d0c90cb84" title="clear_dquot_dirty" alt="" coords="591,410,713,436"/>
+<area shape="rect" id="node18" href="$dquot_8c.html#a812e96c2e7b306212ad099af235b40ad" title="put_dquot_last" alt="" coords="599,460,705,487"/>
+<area shape="rect" id="node23" href="$dquot_8c.html#acb4e4bbc644cf88a5a1371ae7828605b" title="inode_reserved_space" alt="" coords="576,562,728,588"/>
+</map>

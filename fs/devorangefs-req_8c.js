@@ -1,0 +1,26 @@
+var devorangefs_req_8c =
+[
+    [ "DUMP_DEVICE_ERROR", "devorangefs-req_8c.html#aa74d1dd59756d3d84bd3d8b4b89b9087", null ],
+    [ "__is_daemon_in_service", "devorangefs-req_8c.html#a8b2305809117ef60d5ada6c739a8768e", null ],
+    [ "check_ioctl_command", "devorangefs-req_8c.html#a5ebebeae044ad2ea07550e0b414a7fe9", null ],
+    [ "DEFINE_MUTEX", "devorangefs-req_8c.html#a871ea9bcfa6854a7c64be3a490ab8afd", null ],
+    [ "dispatch_ioctl_command", "devorangefs-req_8c.html#af749a7bd2ec8b2aba4b25d32693a5d2c", null ],
+    [ "fs_mount_pending", "devorangefs-req_8c.html#af8d6e67332618f2e6c9d8134cbe15fb6", null ],
+    [ "hash_func", "devorangefs-req_8c.html#a62d01cdd5ce406e67cea64964dc54b46", null ],
+    [ "is_daemon_in_service", "devorangefs-req_8c.html#ac084c865dfb62faa7249ce64deca83d9", null ],
+    [ "mark_all_pending_mounts", "devorangefs-req_8c.html#a39742d44c52cc448d154d30bd03b98f2", null ],
+    [ "orangefs_dev_cleanup", "devorangefs-req_8c.html#af4b8aa1e5ed1e7e080f8958860c105c3", null ],
+    [ "orangefs_dev_init", "devorangefs-req_8c.html#a9a0610650f886b053635e1c212004aeb", null ],
+    [ "orangefs_devreq_add_op", "devorangefs-req_8c.html#ade2f6c51cfb7a9302ef7c4606c208186", null ],
+    [ "orangefs_devreq_ioctl", "devorangefs-req_8c.html#a2b8d16f4dbc6403ba0c64a0757e1beea", null ],
+    [ "orangefs_devreq_open", "devorangefs-req_8c.html#afc5e89694c136284d8861b7858ea7223", null ],
+    [ "orangefs_devreq_poll", "devorangefs-req_8c.html#a8cf3c437625000b006972ced68afcc15", null ],
+    [ "orangefs_devreq_read", "devorangefs-req_8c.html#a633ea4adb2c9ee1bb296307531f6946b", null ],
+    [ "orangefs_devreq_release", "devorangefs-req_8c.html#ab6f0208c8d5234794d7cc69d34ccfae3", null ],
+    [ "orangefs_devreq_remove_op", "devorangefs-req_8c.html#a544ad6c98ead371da93959228f59e798", null ],
+    [ "orangefs_devreq_write_iter", "devorangefs-req_8c.html#aea82c80ca5c346794962a9621fb4ec2c", null ],
+    [ "open_access_count", "devorangefs-req_8c.html#a06876c5beef58c549aa8f60c7d46f61c", null ],
+    [ "orangefs_dev_major", "devorangefs-req_8c.html#a11773e1b0cea96a0334efca355e9a625", null ],
+    [ "orangefs_devreq_file_operations", "devorangefs-req_8c.html#a5b5e2294157bb2731f3e256232eb3232", null ],
+    [ "orangefs_userspace_version", "devorangefs-req_8c.html#a9b51af4d54713c225c9b53f497a1551b", null ]
+];

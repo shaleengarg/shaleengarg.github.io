@@ -1,0 +1,14 @@
+<map id="ff_layout_encode_layoutreturn" name="ff_layout_encode_layoutreturn">
+<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#a7896027668a930baa7195dacda181084" title="ff_layout_encode_ioerr" alt="" coords="256,15,409,42"/>
+<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#a7507d88e509e12edee7a64dbcaf2547b" title="ff_layout_encode_iostats\l_array" alt="" coords="249,68,416,109"/>
+<area shape="rect" id="node3" href="$flexfilelayout_8h.html#af7ab865dcd7c3a2f25920368f67d3579" title="ff_layout_encode_ds\l_ioerr" alt="" coords="464,5,607,47"/>
+<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#aa5e731dca33ace8f6269b2bbe3ae4a03" title="ff_layout_encode_ff\l_iostat" alt="" coords="467,71,603,112"/>
+<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#a11e2d042f5a224e9e7fac1b4f247aec0" title="ff_layout_encode_ff\l_iostat_head" alt="" coords="655,27,791,68"/>
+<area shape="rect" id="node8" href="$flexfilelayout_2flexfilelayout_8c.html#a24d0c80e8bcf020401c596faea7bd30c" title="ff_layout_encode_ff\l_layoutupdate" alt="" coords="655,103,791,144"/>
+<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a2e97a3560d7e1904d702ec9f343873fe" title="encode_opaque_fixed" alt="" coords="850,22,998,49"/>
+<area shape="rect" id="node9" href="$flexfilelayout_2flexfilelayout_8c.html#ab9bfb8e2fdd8c6d2d68e614360f36852" title="ff_layout_encode_netaddr" alt="" coords="839,73,1009,99"/>
+<area shape="rect" id="node12" href="$flexfilelayout_2flexfilelayout_8c.html#ae37c232b8bb9bb790f5c3b21d8c7002d" title="ff_layout_encode_io\l_latency" alt="" coords="855,124,993,165"/>
+<area shape="rect" id="node13" href="$flexfilelayout_2flexfilelayout_8c.html#a1e62fcbdec25a9d8f3a4c36addf30d58" title="ff_layout_encode_nfstime" alt="" coords="1061,157,1231,183"/>
+<area shape="rect" id="node10" href="$flexfilelayout_2flexfilelayout_8c.html#ab2f8554795997df0caa029ebcc3fe4ff" title="ff_layout_ntop4" alt="" coords="1091,47,1201,74"/>
+<area shape="rect" id="node11" href="$flexfilelayout_2flexfilelayout_8c.html#a9ebc9d09787c7cf8ef50a7118abe7c99" title="ff_layout_ntop6_noscopeid" alt="" coords="1057,98,1235,125"/>
+</map>

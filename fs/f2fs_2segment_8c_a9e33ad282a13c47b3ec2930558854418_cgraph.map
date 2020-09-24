@@ -1,0 +1,6 @@
+<map id="set_prefree_as_free_segments" name="set_prefree_as_free_segments">
+<area shape="rect" id="node2" href="$f2fs_8h.html#afba5ea72e2d34d08ac7d1be3f03559e0" title="DIRTY_I" alt="" coords="379,5,453,32"/>
+<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#a32cf13c5e6acdc30ec9e62489cbcb1b4" title="__set_test_and_free" alt="" coords="191,56,331,83"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="501,31,555,57"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="381,56,451,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nr_pages_to_skip" name="nr_pages_to_skip">
+<area shape="rect" id="node2" href="$f2fs_2checkpoint_8c.html#aaacb6127fd7d7dab6278e3be1d00f155" title="f2fs_write_meta_pages" alt="" coords="182,5,339,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a8b4c830b35dcab1e2ca481fa2b888599" title="__f2fs_write_data_pages" alt="" coords="177,56,344,83"/>
+<area shape="rect" id="node5" href="$node_8c.html#aedb122be888aea5857189caa0a9757fe" title="f2fs_write_node_pages" alt="" coords="183,107,339,133"/>
+<area shape="rect" id="node4" href="$data_8c.html#a4eaf33f19ea6c2c8c12b2c869354266f" title="f2fs_write_data_pages" alt="" coords="392,56,545,83"/>
+</map>

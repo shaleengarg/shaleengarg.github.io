@@ -1,0 +1,11 @@
+<map id="debugfs_file_put" name="debugfs_file_put">
+<area shape="rect" id="node2" href="$debugfs_2file_8c.html#a5df419e4fe3514fa6b9f2b91be62abd8" title="open_proxy_open" alt="" coords="188,5,312,32"/>
+<area shape="rect" id="node3" href="$debugfs_2file_8c.html#a000ab4a827d51f63169dff035ccc6960" title="full_proxy_poll" alt="" coords="197,56,303,83"/>
+<area shape="rect" id="node5" href="$debugfs_2file_8c.html#a1fcfbc7514ee6e39f4b5277b6c0f6f36" title="full_proxy_open" alt="" coords="573,81,687,108"/>
+<area shape="rect" id="node6" href="$debugfs_2file_8c.html#ae8d98101363c808e091a028073cae4a7" title="debugfs_attr_read" alt="" coords="187,157,313,184"/>
+<area shape="rect" id="node7" href="$debugfs_2file_8c.html#a20e87e18ea3a24c993f2779b316c07ab" title="debugfs_attr_write" alt="" coords="185,208,315,235"/>
+<area shape="rect" id="node8" href="$debugfs_2file_8c.html#a35f0a0074748f4de15b1503d1b3d58de" title="debugfs_read_file_bool" alt="" coords="173,259,327,285"/>
+<area shape="rect" id="node9" href="$debugfs_2file_8c.html#a7a37ae8fb47ead52c1bf854c6acf93b8" title="debugfs_write_file_bool" alt="" coords="171,309,329,336"/>
+<area shape="rect" id="node10" href="$debugfs_2file_8c.html#ae8def105a1f3b95ddce99c6822beca70" title="read_file_blob" alt="" coords="199,360,301,387"/>
+<area shape="rect" id="node4" href="$debugfs_2file_8c.html#aadeff1fe8eec9eb9e050d96103b45ade" title="__full_proxy_fops_init" alt="" coords="377,56,525,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="f2fs_build_stats" name="f2fs_build_stats">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a7dffbcf93012840e801f5357ebc2669e" title="F2FS_RAW_SUPER" alt="" coords="168,5,315,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a8618342bf5f08a91e956d39efbdb4f2f" title="f2fs_kzalloc" alt="" coords="195,56,287,83"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a036c8838aa2eee8ace8e6940d0352a7a" title="f2fs_kmalloc" alt="" coords="363,56,459,83"/>
+</map>

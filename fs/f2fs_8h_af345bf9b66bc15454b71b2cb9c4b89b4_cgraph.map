@@ -1,0 +1,11 @@
+<map id="__mark_inode_dirty_flag" name="__mark_inode_dirty_flag">
+<area shape="rect" id="node2" href="$f2fs_8h.html#ac05f284e0e89efa8af4815d17c069dcf" title="f2fs_mark_inode_dirty_sync" alt="" coords="216,56,401,83"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="621,56,744,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#ac8a36e745fdd4142adf16bb8c806e7ec" title="f2fs_inode_dirtied" alt="" coords="449,107,573,133"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="805,56,871,83"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="637,157,728,184"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#ac118578b3853482a50926edcb4a15b39" title="set_inode_flag" alt="" coords="629,5,736,32"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a4b20cd3f318e8e62ed4cec6b03530ed6" title="inc_page_count" alt="" coords="626,208,739,235"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="799,157,877,184"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="792,208,884,235"/>
+</map>

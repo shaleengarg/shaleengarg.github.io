@@ -1,0 +1,6 @@
+<map id="ecryptfs_interpose" name="ecryptfs_interpose">
+<area shape="rect" id="node2" href="$ecryptfs_2inode_8c.html#a1c0f35e7eacc4a93afcb62b0e00db8af" title="ecryptfs_link" alt="" coords="195,5,291,32"/>
+<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#ae9629ba2454c02f4efeba467903fb345" title="ecryptfs_symlink" alt="" coords="183,56,304,83"/>
+<area shape="rect" id="node4" href="$ecryptfs_2inode_8c.html#a35a0e534c61e1c4e8e4b7e8a37435a49" title="ecryptfs_mkdir" alt="" coords="189,107,297,133"/>
+<area shape="rect" id="node5" href="$ecryptfs_2inode_8c.html#a3898333419f388ded6c9d7b74b11d95a" title="ecryptfs_mknod" alt="" coords="186,157,301,184"/>
+</map>

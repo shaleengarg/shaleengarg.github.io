@@ -1,0 +1,19 @@
+<map id="fscache_withdraw_all_objects" name="fscache_withdraw_all_objects">
+<area shape="rect" id="node2" href="$fscache_2cache_8c.html#aabb1621631121d78ed3956f6e2d4a7af" title="fscache_withdraw_cache" alt="" coords="200,265,369,292"/>
+<area shape="rect" id="node3" href="$cachefiles_2internal_8h.html#a76e751cd300bbc33258d1f7af2c3f2d1" title="cachefiles_daemon_unbind" alt="" coords="417,265,596,292"/>
+<area shape="rect" id="node4" href="$cachefiles_2internal_8h.html#a0752ef602fe821eb83ee8fd1218f39c9" title="cachefiles_state_changed" alt="" coords="649,240,822,267"/>
+<area shape="rect" id="node18" href="$daemon_8c.html#a614ed464645b1bd292aa74fc4957ef12" title="cachefiles_daemon_release" alt="" coords="644,291,827,317"/>
+<area shape="rect" id="node5" href="$cachefiles_2namei_8c.html#acf3ab3e53fc0c9258697087347b8f906" title="cachefiles_mark_object\l_inactive" alt="" coords="875,74,1033,115"/>
+<area shape="rect" id="node9" href="$cachefiles_2internal_8h.html#a824376f681102f3ba28b537486e5b4b9" title="cachefiles_has_space" alt="" coords="879,240,1029,267"/>
+<area shape="rect" id="node6" href="$cachefiles_2namei_8c.html#a7e43126fd60d2e219e5a4f736579ed2e" title="cachefiles_walk_to\l_object" alt="" coords="1099,57,1232,98"/>
+<area shape="rect" id="node8" href="$interface_8c.html#a114f4c1128ad29989dc0bb7514aa623c" title="cachefiles_drop_object" alt="" coords="1088,5,1243,32"/>
+<area shape="rect" id="node7" href="$interface_8c.html#a8fbee02df395f0f141e7233af061bd5f" title="cachefiles_lookup_object" alt="" coords="1297,64,1465,91"/>
+<area shape="rect" id="node10" href="$cachefiles_2namei_8c.html#a665df09c865a898ad11432eccff09806" title="cachefiles_get_directory" alt="" coords="1084,473,1247,500"/>
+<area shape="rect" id="node11" href="$bind_8c.html#aad3d92320d96c377d778be4eeac70493" title="cachefiles_daemon_add\l_cache" alt="" coords="1300,458,1463,499"/>
+<area shape="rect" id="node13" href="$daemon_8c.html#ab639c72d60844a1657e85d5b6a5e9c05" title="cachefiles_daemon_read" alt="" coords="1082,240,1249,267"/>
+<area shape="rect" id="node14" href="$rdwr_8c.html#a589aac7a774a78761fe56884404d9e97" title="cachefiles_read_or\l_alloc_page" alt="" coords="1100,291,1231,333"/>
+<area shape="rect" id="node15" href="$rdwr_8c.html#a473a0101162d6fa586ad7cd93d23ce62" title="cachefiles_read_or\l_alloc_pages" alt="" coords="1100,357,1231,398"/>
+<area shape="rect" id="node16" href="$rdwr_8c.html#ab917ae80357b0663842d1952a42e77a1" title="cachefiles_allocate_page" alt="" coords="1081,423,1249,449"/>
+<area shape="rect" id="node17" href="$rdwr_8c.html#a9c4b770b4ad1f1e8a4b9fab46d2ce68f" title="cachefiles_allocate\l_pages" alt="" coords="1099,174,1232,215"/>
+<area shape="rect" id="node12" href="$cachefiles_2internal_8h.html#ad855c7d800f5e88a84f826170bc3baf6" title="cachefiles_daemon_bind" alt="" coords="1513,495,1679,521"/>
+</map>

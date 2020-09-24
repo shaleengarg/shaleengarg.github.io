@@ -1,0 +1,14 @@
+<map id="f2fs_shrink_scan" name="f2fs_shrink_scan">
+<area shape="rect" id="node2" href="$extent__cache_8c.html#ac7cd1e383c42adc1ef540a363a67ff5a" title="f2fs_shrink_extent_tree" alt="" coords="175,107,333,133"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#aae07d50f0d0e5744250b64704dee88e3" title="try_to_free_nats" alt="" coords="196,183,312,209"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#a4faacf5ce8a149e09d04668341530ced" title="try_to_free_nids" alt="" coords="197,259,311,285"/>
+<area shape="rect" id="node3" href="$extent__cache_8c.html#af9faede5da5f010e8bde438147e0cac7" title="__free_extent_tree" alt="" coords="393,56,523,83"/>
+<area shape="rect" id="node7" href="$extent__cache_8c.html#a2f74326c61da55803872bdd847d8cec5" title="__detach_extent_node" alt="" coords="787,81,940,108"/>
+<area shape="rect" id="node4" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="633,5,688,32"/>
+<area shape="rect" id="node6" href="$extent__cache_8c.html#a8f9d05e95dfc4d0de28c270b7ecd1d6c" title="__release_extent_node" alt="" coords="583,56,739,83"/>
+<area shape="rect" id="node5" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="804,5,923,32"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="633,259,688,285"/>
+<area shape="rect" id="node10" href="$node_8c.html#ac28bf557a539ad19480ecf8890162a3d" title="__del_from_nat_cache" alt="" coords="381,157,535,184"/>
+<area shape="rect" id="node11" href="$node_8c.html#a983c61f9dd9352e4be7ea9d65b63b2c6" title="__free_nat_entry" alt="" coords="601,157,720,184"/>
+<area shape="rect" id="node13" href="$node_8c.html#a626fae3637c25c81e6e40dcb531f99d3" title="__remove_free_nid" alt="" coords="392,309,524,336"/>
+</map>

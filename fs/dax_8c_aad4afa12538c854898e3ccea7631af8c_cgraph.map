@@ -1,0 +1,16 @@
+<map id="dax_insert_pfn_mkwrite" name="dax_insert_pfn_mkwrite">
+<area shape="rect" id="node2" href="$dax_8c.html#a8153b1d35af33435d733fabb988ef489" title="get_unlocked_mapping\l_entry" alt="" coords="403,63,557,105"/>
+<area shape="rect" id="node7" href="$dax_8c.html#a023667690b696ddb57969b91bc1c7dbf" title="dax_is_pmd_entry" alt="" coords="1041,271,1169,297"/>
+<area shape="rect" id="node8" href="$dax_8c.html#aaaa87495383d5f069083dbc64d1d5283" title="dax_is_pte_entry" alt="" coords="223,325,345,352"/>
+<area shape="rect" id="node9" href="$dax_8c.html#a3c00d2d5f4a80a96cfe5003218fbef36" title="put_unlocked_mapping\l_entry" alt="" coords="403,209,557,250"/>
+<area shape="rect" id="node11" href="$dax_8c.html#afe528bcd9ae6e50d9e182ae0b4610ea7" title="lock_slot" alt="" coords="247,376,321,403"/>
+<area shape="rect" id="node12" href="$dax_8c.html#a73c8a1bf581f8faa552f3f95049753b1" title="dax_fault_return" alt="" coords="227,427,341,453"/>
+<area shape="rect" id="node13" href="$dax_8c.html#a366c0f26d42dc57c775cb908ac251489" title="put_locked_mapping\l_entry" alt="" coords="213,146,355,187"/>
+<area shape="rect" id="node3" href="$dax_8c.html#add5a75c32de40efdc009962b43c07347" title="wake_exceptional_entry_func" alt="" coords="605,5,800,32"/>
+<area shape="rect" id="node4" href="$dax_8c.html#abf566701fabd4672b937765774c8fc5a" title="slot_locked" alt="" coords="659,107,747,133"/>
+<area shape="rect" id="node5" href="$dax_8c.html#a7c8224c4af49153dae4f2680333192df" title="dax_entry_waitqueue" alt="" coords="848,216,993,243"/>
+<area shape="rect" id="node6" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="1080,216,1131,243"/>
+<area shape="rect" id="node10" href="$dax_8c.html#a88e2d48462303d5e65a8ec63ee6d998b" title="dax_wake_mapping_entry\l_waiter" alt="" coords="616,209,789,250"/>
+<area shape="rect" id="node14" href="$dax_8c.html#aa4cf6eed2448c36557855b4e84aa9455" title="dax_unlock_mapping\l_entry" alt="" coords="408,143,552,185"/>
+<area shape="rect" id="node15" href="$dax_8c.html#aa6d815969f41145563c01b972623052c" title="unlock_slot" alt="" coords="659,157,747,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="fuse_change_attributes" name="fuse_change_attributes">
+<area shape="rect" id="node2" href="$fuse__i_8h.html#a36744de399662b578724a0a827991041" title="get_fuse_conn" alt="" coords="423,5,529,32"/>
+<area shape="rect" id="node4" href="$fuse__i_8h.html#ab68730f18ea249970c11d0a575877886" title="get_fuse_inode" alt="" coords="421,56,531,83"/>
+<area shape="rect" id="node5" href="$fuse_2inode_8c.html#a627427479cf2f6b17d272f8fc37b6e64" title="fuse_change_attributes\l_common" alt="" coords="211,106,368,147"/>
+<area shape="rect" id="node3" href="$fuse__i_8h.html#a5d758a1dafcc483158833aaa6fe8ef22" title="get_fuse_conn_super" alt="" coords="584,5,731,32"/>
+<area shape="rect" id="node6" href="$fuse_2inode_8c.html#afb6b38d6f3c2af7929aa4a6380718998" title="fuse_squash_ino" alt="" coords="416,111,536,137"/>
+<area shape="rect" id="node7" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="439,161,513,188"/>
+<area shape="rect" id="node8" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="615,187,699,213"/>
+<area shape="rect" id="node9" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="779,161,917,188"/>
+</map>

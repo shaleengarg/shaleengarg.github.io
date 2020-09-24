@@ -1,0 +1,13 @@
+<map id="__get_segment_type" name="__get_segment_type">
+<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#ab826e4b5d3fb0ecc4f576a8b62028e75" title="__get_segment_type_2" alt="" coords="196,5,353,32"/>
+<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#a8ef5149ad1fefc0091d66a790b7d7b44" title="__get_segment_type_4" alt="" coords="196,56,353,83"/>
+<area shape="rect" id="node8" href="$f2fs_2segment_8c.html#a376a903a54a51bb32e622c1464d0187f" title="__get_segment_type_6" alt="" coords="196,107,353,133"/>
+<area shape="rect" id="node4" href="$node_8h.html#a00cb1095b69ed24f42d0f0892d6bad13" title="IS_DNODE" alt="" coords="427,56,518,83"/>
+<area shape="rect" id="node5" href="$node_8h.html#a6e2504e50fd5503fac18e580a94ad426" title="ofs_of_node" alt="" coords="617,31,710,57"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#aed18e7670f13cf639dda3164c86b9e78" title="f2fs_has_xattr_block" alt="" coords="592,81,735,108"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="783,31,883,57"/>
+<area shape="rect" id="node9" href="$node_8h.html#a3d98886309a9108bbee2c8bbec50bde5" title="is_cold_data" alt="" coords="425,107,520,133"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="411,157,534,184"/>
+<area shape="rect" id="node12" href="$f2fs_2segment_8c.html#a8874c84265db90ef17cbd75e2592cef0" title="rw_hint_to_seg_type" alt="" coords="401,208,544,235"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="631,157,696,184"/>
+</map>

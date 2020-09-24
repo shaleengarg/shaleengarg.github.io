@@ -1,0 +1,12 @@
+<map id="ext4_get_bitmap" name="ext4_get_bitmap">
+<area shape="rect" id="node2" href="$buffer_8c.html#a7b0cdad45bd4bd8a2c448eb9aae7a036" title="bh_uptodate_or_lock" alt="" coords="553,337,696,363"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a9eecb9b0e2ab4cf8f375d735cba57288" title="bh_submit_read" alt="" coords="172,210,287,237"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="784,261,884,287"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="952,185,1091,211"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#ade60786fa99b4fbb4cf607434af395db" title="end_buffer_read_sync" alt="" coords="335,210,485,237"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#ab65df498c54845f497bae7afe9222c91" title="submit_bh" alt="" coords="369,134,451,161"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a85e290b32d9599acd25df3b159392ab7" title="__end_buffer_read_notouch" alt="" coords="533,235,716,262"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a5fd6f01c5f9cff0945cb999cbefa412d" title="submit_bh_wbc" alt="" coords="568,83,681,110"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a2463267e7636f2be0fc2b44fb65cb5ba" title="end_bio_bh_io_sync" alt="" coords="764,83,904,110"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#aa35a4aa9ac3d40858082aabb83e2a44c" title="guard_bio_eod" alt="" coords="781,33,887,59"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ff_layout_encode_layoutstats" name="ff_layout_encode_layoutstats">
+<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#a24d0c80e8bcf020401c596faea7bd30c" title="ff_layout_encode_ff\l_layoutupdate" alt="" coords="245,82,381,123"/>
+<area shape="rect" id="node3" href="$flexfilelayout_2flexfilelayout_8c.html#ab9bfb8e2fdd8c6d2d68e614360f36852" title="ff_layout_encode_netaddr" alt="" coords="429,31,600,57"/>
+<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#ae37c232b8bb9bb790f5c3b21d8c7002d" title="ff_layout_encode_io\l_latency" alt="" coords="445,82,584,123"/>
+<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a1e62fcbdec25a9d8f3a4c36addf30d58" title="ff_layout_encode_nfstime" alt="" coords="651,115,822,141"/>
+<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#ab2f8554795997df0caa029ebcc3fe4ff" title="ff_layout_ntop4" alt="" coords="681,5,792,32"/>
+<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#a9ebc9d09787c7cf8ef50a7118abe7c99" title="ff_layout_ntop6_noscopeid" alt="" coords="648,56,825,83"/>
+</map>

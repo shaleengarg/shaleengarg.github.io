@@ -1,0 +1,7 @@
+<map id="check_cache_empty" name="check_cache_empty">
+<area shape="rect" id="node2" href="$free-space-tests_8c.html#a676f633d8b6b054955bf64556a23f83a" title="test_steal_space_from\l_bitmap_to_extent" alt="" coords="196,5,351,47"/>
+<area shape="rect" id="node3" href="$free-space-tests_8c.html#a08163474782046074020e34f676a254d" title="btrfs_test_free_space\l_cache" alt="" coords="399,5,547,47"/>
+<area shape="rect" id="node4" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="595,13,745,39"/>
+<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="793,13,884,39"/>
+<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="932,13,1027,39"/>
+</map>

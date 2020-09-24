@@ -1,0 +1,8 @@
+<map id="hfs_get_block" name="hfs_get_block">
+<area shape="rect" id="node2" href="$hfs_2inode_8c.html#a29a72f4609bc321eec3f991f242f09ba" title="hfs_writepage" alt="" coords="161,5,264,32"/>
+<area shape="rect" id="node3" href="$hfs_2inode_8c.html#a0dd1b3987e7a4d2fb4c63be3769efd0b" title="hfs_readpage" alt="" coords="163,56,263,83"/>
+<area shape="rect" id="node4" href="$hfs_2inode_8c.html#ae4bab1bcf8f6d7595332459ee1903f8d" title="hfs_write_begin" alt="" coords="156,107,269,133"/>
+<area shape="rect" id="node5" href="$hfs_2inode_8c.html#a30ea13105ea7e065511e3cd59cc7b672" title="hfs_bmap" alt="" coords="173,157,252,184"/>
+<area shape="rect" id="node6" href="$hfs_2inode_8c.html#a66b2dae8eed521dc44746336a67e8537" title="hfs_direct_IO" alt="" coords="163,208,263,235"/>
+<area shape="rect" id="node7" href="$hfs_2inode_8c.html#a7c06cecc16c1d3428fedb381832c8493" title="hfs_writepages" alt="" coords="157,259,268,285"/>
+</map>

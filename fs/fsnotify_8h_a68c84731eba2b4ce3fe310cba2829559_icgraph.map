@@ -1,0 +1,12 @@
+<map id="fsnotify_wait_marks_destroyed" name="fsnotify_wait_marks_destroyed">
+<area shape="rect" id="node2" href="$fsnotify_8h.html#a567c368a44e10d4547bfaaed15e3e1c9" title="fsnotify_clear_marks\l_by_mount" alt="" coords="198,44,341,85"/>
+<area shape="rect" id="node4" href="$notify_2group_8c.html#a4b94ad98d8864ddc25a5d89c09f73a3d" title="fsnotify_destroy_group" alt="" coords="192,147,347,174"/>
+<area shape="rect" id="node3" href="$fsnotify_8c.html#adb0f988d58284e79fd5b2bf0f5605502" title="__fsnotify_vfsmount\l_delete" alt="" coords="398,5,538,47"/>
+<area shape="rect" id="node5" href="$fanotify__user_8c.html#a155ecd16439b55fc22e8323ac0aa4d28" title="fanotify_release" alt="" coords="411,71,525,98"/>
+<area shape="rect" id="node6" href="$fanotify__user_8c.html#a2db9d9a71af080619cb6a3c7f0bc2278" title="SYSCALL_DEFINE2" alt="" coords="395,122,541,149"/>
+<area shape="rect" id="node7" href="$inotify__user_8c.html#a64bc9edaa71f57146895831e700a36f1" title="inotify_release" alt="" coords="415,173,521,199"/>
+<area shape="rect" id="node8" href="$inotify__user_8c.html#a9de8db95f4e23b6c9315bd003fe76463" title="inotify_new_group" alt="" coords="405,223,531,250"/>
+<area shape="rect" id="node9" href="$inotify__user_8c.html#abdfb40ae17619995270fd3693034b29e" title="do_inotify_init" alt="" coords="589,249,692,275"/>
+<area shape="rect" id="node10" href="$inotify__user_8c.html#a39839e33c7872b713a2e5e08776401a2" title="SYSCALL_DEFINE1" alt="" coords="740,223,887,250"/>
+<area shape="rect" id="node11" href="$inotify__user_8c.html#a6bb66b1348985ca75bbbbbb61a567521" title="SYSCALL_DEFINE0" alt="" coords="740,274,887,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fasync_add_entry" name="fasync_add_entry">
+<area shape="rect" id="node2" href="$fcntl_8c.html#a3e716b98070a562de397a2d688c649b1" title="fasync_alloc" alt="" coords="199,5,294,32"/>
+<area shape="rect" id="node3" href="$fcntl_8c.html#acb7b4748408326c0d7fc1b9f7c64af22" title="fasync_insert_entry" alt="" coords="179,56,315,83"/>
+<area shape="rect" id="node4" href="$fcntl_8c.html#a7bf007bc6c37f48dd44f95967c3829df" title="fasync_free" alt="" coords="201,107,292,133"/>
+</map>

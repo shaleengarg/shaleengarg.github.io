@@ -1,0 +1,11 @@
+<map id="ecryptfs_read_xattr_region" name="ecryptfs_read_xattr_region">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a5240470a17155c25d11458eb2504a7ab" title="ecryptfs_inode_to_private" alt="" coords="399,5,569,32"/>
+<area shape="rect" id="node3" href="$ecryptfs__kernel_8h.html#a4074bdd2d3ef8504a93fd2cfee910e75" title="ecryptfs_getxattr_lower" alt="" coords="190,81,349,108"/>
+<area shape="rect" id="node10" href="$ecryptfs__kernel_8h.html#a113da429d81deb7cc5d4c4536e72a92c" title="ecryptfs_inode_to_lower" alt="" coords="188,31,351,57"/>
+<area shape="rect" id="node4" href="$xattr_8c.html#a1ff7c8af792a48852857133789fd641f" title="__vfs_getxattr" alt="" coords="431,81,537,108"/>
+<area shape="rect" id="node5" href="$xattr_8c.html#a2493c428b6ebfafab005c15b05d82d1c" title="xattr_resolve_name" alt="" coords="619,56,755,83"/>
+<area shape="rect" id="node9" href="$xattr_8c.html#a57b6079645d9335c929506d64d398859" title="EXPORT_SYMBOL" alt="" coords="617,107,756,133"/>
+<area shape="rect" id="node6" href="$bad__inode_8c.html#a7db3c62ffb9390ef7191a63e19073333" title="is_bad_inode" alt="" coords="805,31,904,57"/>
+<area shape="rect" id="node8" href="$xattr_8c.html#a982179d3df182fe48e35c17858bd7812" title="strcmp_prefix" alt="" coords="804,81,905,108"/>
+<area shape="rect" id="node7" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="953,31,1092,57"/>
+</map>

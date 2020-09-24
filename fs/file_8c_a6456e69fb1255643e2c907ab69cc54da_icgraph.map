@@ -1,0 +1,8 @@
+<map id="do_dup2" name="do_dup2">
+<area shape="rect" id="node2" href="$file_8c.html#a0342779f4c169df8d40933b0619c0d3e" title="replace_fd" alt="" coords="125,5,208,32"/>
+<area shape="rect" id="node5" href="$file_8c.html#a545387b541aedf6b0b703c9d6e147440" title="ksys_dup3" alt="" coords="124,56,209,83"/>
+<area shape="rect" id="node3" href="$coredump_8c.html#a26f3fd5ee9248e1c43e1527a0d7107b5" title="umh_pipe_setup" alt="" coords="272,5,389,32"/>
+<area shape="rect" id="node4" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="452,5,552,32"/>
+<area shape="rect" id="node6" href="$file_8c.html#a4ea373156be9cd35eb7f1b01cf0c38b5" title="SYSCALL_DEFINE3" alt="" coords="257,56,404,83"/>
+<area shape="rect" id="node7" href="$file_8c.html#aed721f51e75494c50b4d1b2bbb70c641" title="SYSCALL_DEFINE2" alt="" coords="257,107,404,133"/>
+</map>

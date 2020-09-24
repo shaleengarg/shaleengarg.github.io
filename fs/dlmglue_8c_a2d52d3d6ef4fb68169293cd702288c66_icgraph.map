@@ -1,0 +1,9 @@
+<map id="ocfs2_get_lockres_osb" name="ocfs2_get_lockres_osb">
+<area shape="rect" id="node2" href="$dlmglue_8c.html#a28e20f18642692c468f795a3053c3153" title="ocfs2_blocking_ast" alt="" coords="209,5,344,32"/>
+<area shape="rect" id="node3" href="$dlmglue_8c.html#aa78274cb016bcbce412c3e84204427b3" title="ocfs2_locking_ast" alt="" coords="213,56,340,83"/>
+<area shape="rect" id="node4" href="$dlmglue_8c.html#a5c00abf7cc8ed110203c2954e44e36c8" title="ocfs2_unlock_ast" alt="" coords="215,107,339,133"/>
+<area shape="rect" id="node5" href="$dlmglue_8c.html#a796373a589cad6142cef35ccad196120" title="ocfs2_flock_handle\l_signal" alt="" coords="209,158,344,199"/>
+<area shape="rect" id="node6" href="$dlmglue_8h.html#a58203339cb9dec414693c4521285960c" title="ocfs2_file_lock" alt="" coords="392,165,501,192"/>
+<area shape="rect" id="node7" href="$ocfs2_2locks_8c.html#ad383c7a718ce5dc4d8db6b0df86cc279" title="ocfs2_do_flock" alt="" coords="549,165,660,192"/>
+<area shape="rect" id="node8" href="$locks_8h.html#a35fa1a11e4feb7ca853eafc983544d2e" title="ocfs2_flock" alt="" coords="708,165,797,192"/>
+</map>

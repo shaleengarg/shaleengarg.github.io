@@ -1,0 +1,6 @@
+<map id="dlm_alloc_pagevec" name="dlm_alloc_pagevec">
+<area shape="rect" id="node2" href="$dlmdomain_8c.html#ae7084cc4198646ba07695d8ff70c7589" title="dlm_free_pagevec" alt="" coords="236,5,364,32"/>
+<area shape="rect" id="node3" href="$dlmdomain_8c.html#aff6c128d97ec60c89484ef7ec1010ccd" title="DEFINE_SPINLOCK" alt="" coords="227,56,373,83"/>
+<area shape="rect" id="node4" href="$dlmdomain_8c.html#a27e056225d590b0579c93f6bbd34fdd5" title="LIST_HEAD" alt="" coords="253,107,347,133"/>
+<area shape="rect" id="node5" href="$dlmdomain_8c.html#ae07d5761bae8abf62572f8e2df821ced" title="DECLARE_WAIT_QUEUE_HEAD" alt="" coords="187,157,413,184"/>
+</map>

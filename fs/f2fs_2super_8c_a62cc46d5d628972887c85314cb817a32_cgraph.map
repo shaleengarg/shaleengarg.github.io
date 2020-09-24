@@ -1,0 +1,9 @@
+<map id="f2fs_freeze" name="f2fs_freeze">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a433912635a7fb7c70dcf942a26f35c49" title="f2fs_readonly" alt="" coords="145,5,245,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a0e41fe42294e84b647d4ca523b98bec0" title="f2fs_cp_error" alt="" coords="145,56,244,83"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="155,107,234,133"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a0233fb27dc3ca25611a05d87ecec1fdc" title="is_sbi_flag_set" alt="" coords="140,157,249,184"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#aa1fbd95eb602ca6a2eeb415faf02e0db" title="is_set_ckpt_flags" alt="" coords="297,56,421,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#abb6676bbd589a9ca63ae2dd34a6501f7" title="__is_set_ckpt_flags" alt="" coords="469,31,608,57"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="490,81,587,108"/>
+</map>

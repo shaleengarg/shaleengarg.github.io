@@ -1,0 +1,8 @@
+<map id="efs/efs.h" name="efs/efs.h">
+<area shape="rect" id="node2" href="$efs_2dir_8c.html" title="efs/dir.c" alt="" coords="5,80,75,107"/>
+<area shape="rect" id="node3" href="$efs_2file_8c.html" title="efs/file.c" alt="" coords="99,80,171,107"/>
+<area shape="rect" id="node4" href="$efs_2inode_8c.html" title="efs/inode.c" alt="" coords="195,80,282,107"/>
+<area shape="rect" id="node5" href="$efs_2namei_8c.html" title="efs/namei.c" alt="" coords="307,80,397,107"/>
+<area shape="rect" id="node6" href="$efs_2super_8c.html" title="efs/super.c" alt="" coords="422,80,509,107"/>
+<area shape="rect" id="node7" href="$efs_2symlink_8c.html" title="efs/symlink.c" alt="" coords="533,80,633,107"/>
+</map>

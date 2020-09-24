@@ -1,0 +1,5 @@
+<map id="transfer_args_to_stack" name="transfer_args_to_stack">
+<area shape="rect" id="node2" href="$binfmt__elf__fdpic_8c.html#aca075de9404d058a2f0e918f8b9adb4c" title="create_elf_fdpic_tables" alt="" coords="208,5,364,32"/>
+<area shape="rect" id="node4" href="$binfmt__flat_8c.html#a936696a14973b1640876d30857fe4c24" title="load_flat_binary" alt="" coords="229,56,343,83"/>
+<area shape="rect" id="node3" href="$binfmt__elf__fdpic_8c.html#a50a91a9ffb626861af3795de158b5103" title="load_elf_fdpic_binary" alt="" coords="412,5,556,32"/>
+</map>

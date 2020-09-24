@@ -1,0 +1,7 @@
+<map id="squashfs_comp_opts" name="squashfs_comp_opts">
+<area shape="rect" id="node2" href="$decompressor_8c.html#a8add7f4d4e22ffdf53cf22c1dfcfa550" title="get_comp_opts" alt="" coords="200,13,311,39"/>
+<area shape="rect" id="node3" href="$squashfs_8h.html#aee77e33b462fca800e733618c469771b" title="squashfs_decompressor\l_setup" alt="" coords="359,5,523,47"/>
+<area shape="rect" id="node4" href="$squashfs_2super_8c.html#a48ba1323faf987f31cbbad8b50ed27ed" title="squashfs_fill_super" alt="" coords="571,13,705,39"/>
+<area shape="rect" id="node5" href="$squashfs_2super_8c.html#a83e0fd973f1099e80ee1690fa32a3c62" title="squashfs_mount" alt="" coords="753,13,872,39"/>
+<area shape="rect" id="node6" href="$squashfs_2super_8c.html#a1023ee8c3db7502a0b46b0194566d3c2" title="squashfs_destroy_inode" alt="" coords="920,13,1083,39"/>
+</map>

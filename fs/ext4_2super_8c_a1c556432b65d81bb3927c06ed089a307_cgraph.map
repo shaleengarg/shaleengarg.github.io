@@ -1,0 +1,16 @@
+<map id="ext4_sync_fs" name="ext4_sync_fs">
+<area shape="rect" id="node2" href="$ext4_8h.html#a79d9f5f3b67b075c3c2078ecda6dae44" title="ext4_forced_shutdown" alt="" coords="158,91,311,117"/>
+<area shape="rect" id="node3" href="$dquot_8c.html#a55fbbb23328fdb2c13c490b0b3257d83" title="dquot_writeback_dquots" alt="" coords="153,141,316,168"/>
+<area shape="rect" id="node11" href="$jbd2_2journal_8c.html#a92b6dbe139f2303edc694ad69f905897" title="jbd2_trans_will_send\l_data_barrier" alt="" coords="163,193,306,234"/>
+<area shape="rect" id="node13" href="$jbd2_2journal_8c.html#aedf2f8bee2c3d4f03764521ee5d9a36d" title="jbd2_journal_start\l_commit" alt="" coords="173,258,297,299"/>
+<area shape="rect" id="node15" href="$jbd2_2journal_8c.html#ab439c5e9596df21b2c724b98aef5176a" title="jbd2_log_wait_commit" alt="" coords="159,324,310,351"/>
+<area shape="rect" id="node4" href="$dquot_8c.html#a941b9387b5522454843c8d1d0c90cb84" title="clear_dquot_dirty" alt="" coords="587,5,709,32"/>
+<area shape="rect" id="node5" href="$dquot_8c.html#a2aa01a944ec93583122cfba511ab8213" title="dqput" alt="" coords="420,107,475,133"/>
+<area shape="rect" id="node10" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="579,208,717,235"/>
+<area shape="rect" id="node6" href="$kqid_8c.html#a659b690ef6144cc72fa737b302a7f9e7" title="from_kqid" alt="" coords="609,56,687,83"/>
+<area shape="rect" id="node8" href="$dquot_8c.html#a7d7167c30206133457a98020aca4d8db" title="dquot_dirty" alt="" coords="605,107,691,133"/>
+<area shape="rect" id="node9" href="$dquot_8c.html#a812e96c2e7b306212ad099af235b40ad" title="put_dquot_last" alt="" coords="595,157,701,184"/>
+<area shape="rect" id="node7" href="$kqid_8c.html#a279efec5eb2375a784fb3e3b651c3be1" title="EXPORT_SYMBOL" alt="" coords="765,56,904,83"/>
+<area shape="rect" id="node12" href="$jbd2_2journal_8c.html#a9ff48547d9a636e1d5bdb574bbfe19be" title="EXPORT_SYMBOL" alt="" coords="378,208,517,235"/>
+<area shape="rect" id="node14" href="$jbd2_2journal_8c.html#a287143a795d0e0cd3faa439229d1f949" title="__jbd2_log_start_commit" alt="" coords="364,265,531,292"/>
+</map>

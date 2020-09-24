@@ -1,0 +1,12 @@
+<map id="fat_sync_bhs" name="fat_sync_bhs">
+<area shape="rect" id="node2" href="$buffer_8c.html#a6ccd81c506f66a399d3643edc62b173e" title="write_dirty_buffer" alt="" coords="153,65,276,92"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="547,36,647,62"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="717,94,855,121"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#aac5852df82371e20e891b02a37461248" title="end_buffer_write_sync" alt="" coords="324,94,477,121"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#ab65df498c54845f497bae7afe9222c91" title="submit_bh" alt="" coords="359,254,442,281"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a15c60a53f942f27f505098848dda3f3e" title="buffer_io_error" alt="" coords="544,204,649,230"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a0c5a9b93af2e1cc8bdeb45d23f5fd4fd" title="mark_buffer_write_io\l_error" alt="" coords="525,87,668,128"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a5fd6f01c5f9cff0945cb999cbefa412d" title="submit_bh_wbc" alt="" coords="540,305,653,332"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a2463267e7636f2be0fc2b44fb65cb5ba" title="end_bio_bh_io_sync" alt="" coords="716,330,856,357"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#aa35a4aa9ac3d40858082aabb83e2a44c" title="guard_bio_eod" alt="" coords="733,280,839,306"/>
+</map>

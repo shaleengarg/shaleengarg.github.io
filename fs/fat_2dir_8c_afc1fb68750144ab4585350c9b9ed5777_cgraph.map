@@ -1,0 +1,9 @@
+<map id="fat_uni_to_x8" name="fat_uni_to_x8">
+<area shape="rect" id="node2" href="$fat_8h.html#afb4074c3637b57b356f41a600d5b2ea2" title="MSDOS_SB" alt="" coords="315,157,411,184"/>
+<area shape="rect" id="node3" href="$nls__base_8c.html#a39b96130a8a569652acaafa049768a89" title="utf16s_to_utf8s" alt="" coords="153,81,265,108"/>
+<area shape="rect" id="node7" href="$fat_2dir_8c.html#a885251d2bd756342fba76fab4eed9760" title="uni16_to_x8" alt="" coords="163,196,255,223"/>
+<area shape="rect" id="node4" href="$nls__base_8c.html#ad806af1e8e7e66a65c53fbdb0b2ca36e" title="get_utf16" alt="" coords="325,56,401,83"/>
+<area shape="rect" id="node5" href="$nls__base_8c.html#a5840e4ae16cca75c47d7b0133959ebdf" title="utf32_to_utf8" alt="" coords="313,5,412,32"/>
+<area shape="rect" id="node6" href="$nls__base_8c.html#a2c440fcf315dd54d6ae38a741aa24d74" title="EXPORT_SYMBOL" alt="" coords="460,56,599,83"/>
+<area shape="rect" id="node8" href="$fat_2misc_8c.html#a30f5d4f98f92a2175bf47f03e2a7be8e" title="fat_msg" alt="" coords="328,208,397,235"/>
+</map>

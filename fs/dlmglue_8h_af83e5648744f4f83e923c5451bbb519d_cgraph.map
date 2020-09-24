@@ -1,0 +1,10 @@
+<map id="ocfs2_file_lock_res_init" name="ocfs2_file_lock_res_init">
+<area shape="rect" id="node2" href="$ocfs2_2inode_8h.html#ad355602d6e917df63ae06c1734f0f203" title="OCFS2_I" alt="" coords="258,5,335,32"/>
+<area shape="rect" id="node3" href="$dlmglue_8c.html#a921be977b509be3d94adbde9aef04fae" title="ocfs2_lock_res_init_once" alt="" coords="212,56,381,83"/>
+<area shape="rect" id="node4" href="$dlmglue_8c.html#a0a0d04c4edcd1ffb9c1b722c9b183ad3" title="ocfs2_build_lock_name" alt="" coords="217,107,376,133"/>
+<area shape="rect" id="node7" href="$dlmglue_8c.html#a08e1a5f13a8b4fca8a256fdaf1ae3299" title="ocfs2_lock_res_init\l_common" alt="" coords="229,158,364,199"/>
+<area shape="rect" id="node5" href="$ocfs2__lockid_8h.html#a0a3f806947ca0aedea3e523f092d8b9a" title="ocfs2_lock_type_char" alt="" coords="447,57,596,84"/>
+<area shape="rect" id="node6" href="$dlmglue_8c.html#a0f597e09eeefacb8a0ef94984f1cc663" title="DEFINE_SPINLOCK" alt="" coords="448,108,595,135"/>
+<area shape="rect" id="node8" href="$dlmglue_8c.html#a33450712e2c6787aa29ff06de1003c82" title="ocfs2_add_lockres_tracking" alt="" coords="429,163,613,189"/>
+<area shape="rect" id="node9" href="$dlmglue_8c.html#a6f0334d5bd7f4db6f82d49fb52817190" title="ocfs2_init_lock_stats" alt="" coords="449,213,594,240"/>
+</map>

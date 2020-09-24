@@ -1,0 +1,6 @@
+<map id="get_orlov_stats" name="get_orlov_stats">
+<area shape="rect" id="node2" href="$ext4_2balloc_8c.html#a25075b6d3e6db4fea13fab4092f04f40" title="ext4_get_group_desc" alt="" coords="175,5,321,32"/>
+<area shape="rect" id="node3" href="$ext4_2super_8c.html#a6e57c4f600ff38c1c7b4b6acc5d00f3f" title="ext4_free_inodes_count" alt="" coords="168,56,328,83"/>
+<area shape="rect" id="node4" href="$ext4_2super_8c.html#acde7ca6fb08b2c3413dde40c235670e9" title="ext4_free_group_clusters" alt="" coords="164,107,332,133"/>
+<area shape="rect" id="node5" href="$ext4_2super_8c.html#a43a46d82099cbf339d983d6cbf24893b" title="ext4_used_dirs_count" alt="" coords="173,157,323,184"/>
+</map>

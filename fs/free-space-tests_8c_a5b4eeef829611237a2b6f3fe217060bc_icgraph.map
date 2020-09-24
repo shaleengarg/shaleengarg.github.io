@@ -1,0 +1,8 @@
+<map id="check_num_extents_and_bitmaps" name="check_num_extents_and_bitmaps">
+<area shape="rect" id="node2" href="$free-space-tests_8c.html#aab816142c4018dfd69d358d8739f5c88" title="check_cache_empty" alt="" coords="220,5,363,32"/>
+<area shape="rect" id="node3" href="$free-space-tests_8c.html#a676f633d8b6b054955bf64556a23f83a" title="test_steal_space_from\l_bitmap_to_extent" alt="" coords="411,23,565,65"/>
+<area shape="rect" id="node4" href="$free-space-tests_8c.html#a08163474782046074020e34f676a254d" title="btrfs_test_free_space\l_cache" alt="" coords="613,23,761,65"/>
+<area shape="rect" id="node5" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="809,31,960,57"/>
+<area shape="rect" id="node6" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="1008,31,1099,57"/>
+<area shape="rect" id="node7" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="1147,31,1241,57"/>
+</map>

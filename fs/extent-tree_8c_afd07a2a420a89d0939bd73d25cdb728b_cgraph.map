@@ -1,0 +1,5 @@
+<map id="init_global_block_rsv" name="init_global_block_rsv">
+<area shape="rect" id="node2" href="$extent-tree_8c.html#ab5b75b50b8296c727405cbbd69a1a2c0" title="__find_space_info" alt="" coords="215,5,342,32"/>
+<area shape="rect" id="node3" href="$extent-tree_8c.html#aba606a6e189a200353ea592a5aee2121" title="update_global_block_rsv" alt="" coords="196,56,361,83"/>
+<area shape="rect" id="node4" href="$extent-tree_8c.html#a81b7d9c3ff801b90a5a078f917b12de0" title="btrfs_space_info_used" alt="" coords="409,56,563,83"/>
+</map>

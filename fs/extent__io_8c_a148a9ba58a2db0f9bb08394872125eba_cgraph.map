@@ -1,0 +1,14 @@
+<map id="find_extent_buffer" name="find_extent_buffer">
+<area shape="rect" id="node2" href="$extent__io_8c.html#a8f8971b21a75989268a2f29358acdc99" title="mark_extent_buffer\l_accessed" alt="" coords="193,54,328,95"/>
+<area shape="rect" id="node3" href="$extent__io_8c.html#a6e26dec26763b7741a63be23ffed4b34" title="check_buffer_tree_ref" alt="" coords="393,5,541,32"/>
+<area shape="rect" id="node5" href="$extent__io_8h.html#a29abd63bd8d61dbce1e013e2d13f9e8e" title="alloc_test_extent_buffer" alt="" coords="180,120,341,147"/>
+<area shape="rect" id="node6" href="$extent__io_8c.html#a4260e72c84f6e638112280d3d1f459f7" title="alloc_dummy_extent\l_buffer" alt="" coords="189,171,332,213"/>
+<area shape="rect" id="node11" href="$extent__io_8c.html#aff53638991957d47ed7598815c2bada2" title="btrfs_release_extent\l_buffer" alt="" coords="397,255,537,297"/>
+<area shape="rect" id="node4" href="$extent__io_8h.html#a04dba5c7fecd62f5173fe05d3deba25e" title="num_extent_pages" alt="" coords="833,161,965,188"/>
+<area shape="rect" id="node7" href="$extent__io_8c.html#a5c3e12883e4c0c238d99d23f19bb1df3" title="__alloc_dummy_extent\l_buffer" alt="" coords="389,171,545,213"/>
+<area shape="rect" id="node8" href="$extent__io_8c.html#af29fb6d60c0351dc356c9693e3b73d28" title="__alloc_extent_buffer" alt="" coords="610,161,757,188"/>
+<area shape="rect" id="node9" href="$extent__io_8c.html#a7287fa383523fd330773dafb2ff08a59" title="set_extent_buffer_uptodate" alt="" coords="593,212,773,239"/>
+<area shape="rect" id="node10" href="$extent__io_8c.html#ae5972708be74df23a5a9cafdd514b7c8" title="__free_extent_buffer" alt="" coords="613,263,754,289"/>
+<area shape="rect" id="node12" href="$extent__io_8c.html#a664832bdb9196f366f7bae8d23fe6491" title="btrfs_release_extent\l_buffer_page" alt="" coords="613,314,753,355"/>
+<area shape="rect" id="node13" href="$extent__io_8c.html#a1a013751a0b14ce9dfafe8760e418a85" title="extent_buffer_under_io" alt="" coords="821,321,976,348"/>
+</map>

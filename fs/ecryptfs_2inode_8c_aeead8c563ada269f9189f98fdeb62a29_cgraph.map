@@ -1,0 +1,11 @@
+<map id="ecryptfs_removexattr" name="ecryptfs_removexattr">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ac2ee045a66c2ebc91f8a5dbc00570d95" title="ecryptfs_dentry_to\l_lower" alt="" coords="215,5,345,47"/>
+<area shape="rect" id="node3" href="$ecryptfs__kernel_8h.html#a113da429d81deb7cc5d4c4536e72a92c" title="ecryptfs_inode_to_lower" alt="" coords="199,71,361,98"/>
+<area shape="rect" id="node5" href="$xattr_8c.html#a520984aa88122a22c006a27ed1a231dd" title="__vfs_removexattr" alt="" coords="215,122,345,149"/>
+<area shape="rect" id="node4" href="$ecryptfs__kernel_8h.html#a5240470a17155c25d11458eb2504a7ab" title="ecryptfs_inode_to_private" alt="" coords="409,71,580,98"/>
+<area shape="rect" id="node6" href="$xattr_8c.html#a2493c428b6ebfafab005c15b05d82d1c" title="xattr_resolve_name" alt="" coords="427,122,563,149"/>
+<area shape="rect" id="node10" href="$xattr_8c.html#a57b6079645d9335c929506d64d398859" title="EXPORT_SYMBOL" alt="" coords="425,173,564,199"/>
+<area shape="rect" id="node7" href="$bad__inode_8c.html#a7db3c62ffb9390ef7191a63e19073333" title="is_bad_inode" alt="" coords="629,97,728,123"/>
+<area shape="rect" id="node9" href="$xattr_8c.html#a982179d3df182fe48e35c17858bd7812" title="strcmp_prefix" alt="" coords="628,147,729,174"/>
+<area shape="rect" id="node8" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="777,97,916,123"/>
+</map>

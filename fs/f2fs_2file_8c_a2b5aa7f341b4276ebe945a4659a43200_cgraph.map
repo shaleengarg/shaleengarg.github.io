@@ -1,0 +1,35 @@
+<map id="f2fs_ioc_setflags" name="f2fs_ioc_setflags">
+<area shape="rect" id="node2" href="$inode_8c.html#a2359f9f4ea541a79ff23035a6c89cb03" title="inode_owner_or_capable" alt="" coords="175,157,340,184"/>
+<area shape="rect" id="node4" href="$namespace_8c.html#abec48677d6bf1090f17dd8b54cdee81d" title="mnt_want_write_file" alt="" coords="188,651,327,677"/>
+<area shape="rect" id="node15" href="$f2fs_2file_8c.html#a03dd3148420c70468c9423b2b6bee2b2" title="__f2fs_ioc_setflags" alt="" coords="190,321,325,348"/>
+<area shape="rect" id="node32" href="$namespace_8c.html#a0ce94dc25dc93a0b5e1a9282e43e0a97" title="mnt_drop_write_file" alt="" coords="397,904,531,931"/>
+<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="822,195,961,221"/>
+<area shape="rect" id="node5" href="$namespace_8c.html#af19741fc533f0e0a2acda44e925f80eb" title="may_write_real" alt="" coords="409,625,519,652"/>
+<area shape="rect" id="node6" href="$namespace_8c.html#afc62e617cec97974d570093f778e30e0" title="__mnt_want_write_file" alt="" coords="388,676,540,703"/>
+<area shape="rect" id="node12" href="$namespace_8c.html#a14b50b29ea751e02e86a7c9a2fa01128" title="EXPORT_SYMBOL_GPL" alt="" coords="1211,676,1383,703"/>
+<area shape="rect" id="node7" href="$namespace_8c.html#ae8d4c494f66a0cda8744bf47ebeba01f" title="__mnt_want_write" alt="" coords="605,701,733,728"/>
+<area shape="rect" id="node14" href="$namespace_8c.html#aba77afe1262e538d2854159761e6bcb2" title="mnt_clone_write" alt="" coords="611,651,728,677"/>
+<area shape="rect" id="node8" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="848,701,935,728"/>
+<area shape="rect" id="node9" href="$namespace_8c.html#a24aaa0bb913baa617bc4d19fad011a99" title="mnt_inc_writers" alt="" coords="834,651,949,677"/>
+<area shape="rect" id="node10" href="$namespace_8c.html#a1e8eac40e0b14fb052603f900a411760" title="mnt_is_readonly" alt="" coords="833,752,950,779"/>
+<area shape="rect" id="node13" href="$namespace_8c.html#a6b6223aa5bccbed87645de18e8b0abac" title="mnt_dec_writers" alt="" coords="832,803,951,829"/>
+<area shape="rect" id="node11" href="$namespace_8c.html#ae435f6295042ca4769078d0b11c47713" title="__mnt_is_readonly" alt="" coords="1032,676,1163,703"/>
+<area shape="rect" id="node16" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="1444,321,1509,348"/>
+<area shape="rect" id="node17" href="$f2fs_8h.html#ae41e89d77d5f63577cd64741653bc934" title="f2fs_mask_flags" alt="" coords="405,397,523,424"/>
+<area shape="rect" id="node18" href="$f2fs_8h.html#ac118578b3853482a50926edcb4a15b39" title="set_inode_flag" alt="" coords="411,347,517,373"/>
+<area shape="rect" id="node20" href="$f2fs_8h.html#ac05f284e0e89efa8af4815d17c069dcf" title="f2fs_mark_inode_dirty_sync" alt="" coords="799,423,984,449"/>
+<area shape="rect" id="node27" href="$f2fs_8h.html#ae0a0bddfc0bedddcfcf551dc3574bd37" title="clear_inode_flag" alt="" coords="406,296,522,323"/>
+<area shape="rect" id="node28" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="622,245,717,272"/>
+<area shape="rect" id="node29" href="$f2fs_8h.html#ab3742e62cbba39033616774625b5ba93" title="f2fs_set_inode_flags" alt="" coords="393,169,535,196"/>
+<area shape="rect" id="node19" href="$f2fs_8h.html#af345bf9b66bc15454b71b2cb9c4b89b4" title="__mark_inode_dirty_flag" alt="" coords="588,397,751,424"/>
+<area shape="rect" id="node21" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="1235,397,1358,424"/>
+<area shape="rect" id="node22" href="$f2fs_8h.html#ac8a36e745fdd4142adf16bb8c806e7ec" title="f2fs_inode_dirtied" alt="" coords="1035,448,1159,475"/>
+<area shape="rect" id="node23" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="1251,499,1342,525"/>
+<area shape="rect" id="node25" href="$f2fs_8h.html#a4b20cd3f318e8e62ed4cec6b03530ed6" title="inc_page_count" alt="" coords="1240,549,1353,576"/>
+<area shape="rect" id="node24" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="1437,499,1516,525"/>
+<area shape="rect" id="node26" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="1431,549,1523,576"/>
+<area shape="rect" id="node30" href="$f2fs_8h.html#ab2b0bb50bacb1e82df81f84287d13e1e" title="f2fs_encrypted_inode" alt="" coords="596,144,743,171"/>
+<area shape="rect" id="node31" href="$inode_8c.html#abd5f64c5d3de9831c52db188a3825839" title="inode_set_flags" alt="" coords="613,195,726,221"/>
+<area shape="rect" id="node33" href="$namespace_8c.html#ad990c81af66b82e8c66b009dd531b77b" title="__mnt_drop_write" alt="" coords="607,803,732,829"/>
+<area shape="rect" id="node34" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="600,904,739,931"/>
+</map>

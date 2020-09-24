@@ -1,0 +1,9 @@
+<map id="btrfs_dev_replace_update_device_in_mapping_tree" name="btrfs_dev_replace_update_device_in_mapping_tree">
+<area shape="rect" id="node2" href="$btrfs_2extent__map_8c.html#adc0e39ee8a78534e8329b6f612c040a0" title="lookup_extent_mapping" alt="" coords="224,56,383,83"/>
+<area shape="rect" id="node7" href="$btrfs_2extent__map_8c.html#ab41ea4f4bff6e04c5ee086967afc0b57" title="free_extent_map" alt="" coords="244,107,363,133"/>
+<area shape="rect" id="node3" href="$btrfs_2extent__map_8c.html#af36ca4f880c56dc8a92684abc2db576e" title="__lookup_extent_mapping" alt="" coords="431,56,604,83"/>
+<area shape="rect" id="node4" href="$btrfs_2extent__map_8c.html#a907569c6732e2702e1dedf9c0779129a" title="range_end" alt="" coords="663,5,745,32"/>
+<area shape="rect" id="node5" href="$btrfs_2extent__map_8c.html#abe5fa1b21db40e4c1ca4226364e4cc80" title="__tree_search" alt="" coords="652,56,756,83"/>
+<area shape="rect" id="node6" href="$btrfs_2extent__map_8h.html#a2ea46678c185fd0d0fdb91c1284cf0fb" title="extent_map_end" alt="" coords="804,81,923,108"/>
+<area shape="rect" id="node8" href="$btrfs_2extent__map_8h.html#a9d4a227dc84f87cd0204c51dac831c62" title="extent_map_in_tree" alt="" coords="449,107,585,133"/>
+</map>

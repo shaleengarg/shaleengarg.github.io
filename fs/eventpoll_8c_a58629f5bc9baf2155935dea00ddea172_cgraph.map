@@ -1,0 +1,10 @@
+<map id="ep_ptable_queue_proc" name="ep_ptable_queue_proc">
+<area shape="rect" id="node2" href="$eventpoll_8c.html#a9088839d8821250650e31b4ca75f6f9e" title="ep_item_from_epqueue" alt="" coords="205,81,363,108"/>
+<area shape="rect" id="node3" href="$eventpoll_8c.html#af14b5a0ae3610985858da14a876077f2" title="ep_poll_callback" alt="" coords="225,132,343,159"/>
+<area shape="rect" id="node4" href="$eventpoll_8c.html#abf486b6e9ebf52efbb1fe2181e0b13d3" title="ep_item_from_wait" alt="" coords="430,5,562,32"/>
+<area shape="rect" id="node5" href="$eventpoll_8c.html#a04e1136ba8cecb4321f34a24eebca20b" title="ep_set_busy_poll_napi_id" alt="" coords="411,56,581,83"/>
+<area shape="rect" id="node6" href="$eventpoll_8c.html#ae1c712dbbbc7795cb8c2d9d8ae40ce66" title="ep_is_linked" alt="" coords="449,107,543,133"/>
+<area shape="rect" id="node7" href="$eventpoll_8c.html#a0d368f7c44db085d8a421edeb8babdf2" title="ep_pm_stay_awake_rcu" alt="" coords="415,157,577,184"/>
+<area shape="rect" id="node8" href="$eventpoll_8c.html#a059a419b0772b4d0553dbaee0af8bf53" title="ep_poll_safewake" alt="" coords="433,208,559,235"/>
+<area shape="rect" id="node9" href="$eventpoll_8c.html#a774efd858aae5d0327d180565ea1297d" title="ep_pwq_from_wait" alt="" coords="431,259,561,285"/>
+</map>

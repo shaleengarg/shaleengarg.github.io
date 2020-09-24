@@ -1,0 +1,6 @@
+<map id="bitmap_set_bits" name="bitmap_set_bits">
+<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="191,5,245,32"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html#a09ef0758a72796858a4061a0cbfe0d4a" title="offset_to_bit" alt="" coords="171,56,265,83"/>
+<area shape="rect" id="node5" href="$free-space-cache_8c.html#a5f418a86ac45156a79860615a852d8e9" title="bytes_to_bits" alt="" coords="168,107,268,133"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="316,5,435,32"/>
+</map>

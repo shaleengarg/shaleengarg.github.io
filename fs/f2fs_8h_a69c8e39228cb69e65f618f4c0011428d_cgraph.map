@@ -1,0 +1,25 @@
+<map id="write_node_summaries" name="write_node_summaries">
+<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#a7cd20d378703ad933141403607bd1fe2" title="write_normal_summaries" alt="" coords="209,107,376,133"/>
+<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#a1d879a5346d8bc3608e7a693b26973db" title="write_current_sum_page" alt="" coords="424,107,588,133"/>
+<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#ab401fc665e34bc211f8ae30b552de703" title="CURSEG_I" alt="" coords="650,31,741,57"/>
+<area shape="rect" id="node6" href="$f2fs_2checkpoint_8c.html#a2ee2c42611ca9e42be335178af2932ff" title="grab_meta_page" alt="" coords="636,107,755,133"/>
+<area shape="rect" id="node24" href="$f2fs_8h.html#a767b62b0aebed2a97d79f41acbc6f4c2" title="f2fs_put_page" alt="" coords="643,183,747,209"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="873,5,927,32"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a8826c1c198e1e502d643792da13615d4" title="META_MAPPING" alt="" coords="836,56,964,83"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#aa21991918fdf7636a677390fa8fbab80" title="f2fs_grab_cache_page" alt="" coords="1045,157,1199,184"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#a7c699e04b54dbb5f55a350f81fd520da" title="f2fs_wait_on_page_writeback" alt="" coords="803,107,997,133"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a775eff172a82c770b1982e02e4312eb8" title="F2FS_M_SB" alt="" coords="1295,183,1393,209"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="1521,183,1612,209"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="1727,183,1806,209"/>
+<area shape="rect" id="node13" href="$f2fs_8h.html#a8a8c4c2d892d1eafc69f46df674f974a" title="F2FS_P_SB" alt="" coords="1075,208,1169,235"/>
+<area shape="rect" id="node14" href="$data_8c.html#a88a12e9f883516d61fb32fee5aa9d9cf" title="f2fs_submit_merged\l_write_cond" alt="" coords="1052,91,1192,133"/>
+<area shape="rect" id="node15" href="$data_8c.html#ac0ed6cae26584bf007d2d6d2414c423a" title="__submit_merged_write_cond" alt="" coords="1247,99,1441,125"/>
+<area shape="rect" id="node16" href="$data_8c.html#aaf82bab2fc97d4a9352191676a24a9e6" title="has_merged_page" alt="" coords="1503,116,1631,143"/>
+<area shape="rect" id="node20" href="$data_8c.html#a593875a244f0e06ba21750c23b072718" title="__f2fs_submit_merged\l_write" alt="" coords="1489,50,1644,91"/>
+<area shape="rect" id="node17" href="$data_8c.html#a8c668c3fbe27e13dd63b20be7aa6bbe5" title="__has_merged_page" alt="" coords="1695,116,1838,143"/>
+<area shape="rect" id="node18" href="$node_8h.html#a25b4efea4358592966a006ce61c6eca8" title="ino_of_node" alt="" coords="1893,116,1985,143"/>
+<area shape="rect" id="node19" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="2036,116,2136,143"/>
+<area shape="rect" id="node21" href="$data_8c.html#a270fc17649f23406d8ac83e3b321a845" title="__submit_merged_bio" alt="" coords="1692,57,1841,84"/>
+<area shape="rect" id="node22" href="$data_8c.html#a57f8ec8e7d936d32c17825d1dc8f9f41" title="__submit_bio" alt="" coords="1889,57,1988,84"/>
+<area shape="rect" id="node23" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="2040,57,2132,84"/>
+</map>

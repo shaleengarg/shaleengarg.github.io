@@ -1,0 +1,4 @@
+<map id="btrfs_alloc_root" name="btrfs_alloc_root">
+<area shape="rect" id="node2" href="$disk-io_8c.html#aacf54ca19f7cbab49b46ec618d893dec" title="__setup_root" alt="" coords="164,5,261,32"/>
+<area shape="rect" id="node3" href="$extent__io_8c.html#a970fa44d8f72a23cdd8778cd2e683c1c" title="extent_io_tree_init" alt="" coords="309,5,437,32"/>
+</map>

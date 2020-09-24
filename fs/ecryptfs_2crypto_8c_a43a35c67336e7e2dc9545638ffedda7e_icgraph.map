@@ -1,0 +1,7 @@
+<map id="ecryptfs_set_default_crypt_stat_vals" name="ecryptfs_set_default_crypt_stat_vals">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a324be797fb8eff4327b7e380210148df" title="ecryptfs_new_file_context" alt="" coords="193,42,368,69"/>
+<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#a6bc52bfbdbdae09b52647394d90fdc70" title="ecryptfs_initialize_file" alt="" coords="416,42,563,69"/>
+<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="611,5,729,47"/>
+<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="614,71,726,98"/>
+<area shape="rect" id="node5" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="777,13,881,39"/>
+</map>

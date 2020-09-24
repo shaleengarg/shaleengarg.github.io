@@ -1,0 +1,13 @@
+<map id="ocfs2_create_new_lock" name="ocfs2_create_new_lock">
+<area shape="rect" id="node2" href="$dlmglue_8c.html#abc90cbec96bfe0b692d9a781ec798723" title="lockres_or_flags" alt="" coords="614,22,731,48"/>
+<area shape="rect" id="node4" href="$dlmglue_8c.html#a04d000f24844b0be6009bba0ccbb55f9" title="ocfs2_lock_create" alt="" coords="212,84,340,111"/>
+<area shape="rect" id="node3" href="$dlmglue_8c.html#a2f5ae82be6decde9f94541fcdf939d75" title="lockres_set_flags" alt="" coords="1028,140,1152,167"/>
+<area shape="rect" id="node5" href="$dlmglue_8c.html#ab25bcf9d4de96c53cdbcfdcccfa74f54" title="lockres_set_pending" alt="" coords="393,47,534,74"/>
+<area shape="rect" id="node6" href="$stackglue_8c.html#abcc03082f5844e9d4a6c19ddc3249131" title="ocfs2_dlm_lock" alt="" coords="407,122,520,148"/>
+<area shape="rect" id="node8" href="$dlmglue_8c.html#a57af20088d743da331d9bad5c5f905d7" title="lockres_clear_pending" alt="" coords="388,172,539,199"/>
+<area shape="rect" id="node12" href="$dlmglue_8c.html#a566034c585bf11c1a1d496d66bab9586" title="ocfs2_recover_from\l_dlm_error" alt="" coords="604,221,741,262"/>
+<area shape="rect" id="node7" href="$stackglue_8c.html#a15052933b776705ee3821e1804f38e1f" title="EXPORT_SYMBOL_GPL" alt="" coords="587,119,759,146"/>
+<area shape="rect" id="node9" href="$dlmglue_8c.html#a78422d0adcd56812aa2bd9d153a77488" title="__lockres_clear_pending" alt="" coords="590,170,755,196"/>
+<area shape="rect" id="node10" href="$dlmglue_8c.html#a71013118b51255ce41c8148bd3ae1256" title="lockres_clear_flags" alt="" coords="826,199,961,226"/>
+<area shape="rect" id="node11" href="$dlmglue_8c.html#adab2a2238011759a09a4406d6a93bed8" title="ocfs2_wake_downconvert\l_thread" alt="" coords="807,133,980,174"/>
+</map>

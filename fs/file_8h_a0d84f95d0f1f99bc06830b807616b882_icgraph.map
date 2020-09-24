@@ -1,0 +1,37 @@
+<map id="ocfs2_set_inode_size" name="ocfs2_set_inode_size">
+<area shape="rect" id="node2" href="$file_8h.html#a0b5a1089849c1f0d0993bcee233d0cde" title="ocfs2_simple_size_update" alt="" coords="201,123,377,149"/>
+<area shape="rect" id="node30" href="$namei_8h.html#a0b4d76071f1bc9b725d62b40e38ad0d1" title="ocfs2_del_inode_from\l_orphan" alt="" coords="215,275,364,317"/>
+<area shape="rect" id="node34" href="$ocfs2_2aops_8c.html#ae785827a2b62b295dea34574efcaeed4" title="ocfs2_dio_end_io_write" alt="" coords="425,341,584,368"/>
+<area shape="rect" id="node3" href="$ocfs2_2file_8c.html#a036f93658584b3bf043fb99bc004a82d" title="ocfs2_extend_file" alt="" coords="443,173,567,200"/>
+<area shape="rect" id="node5" href="$quota__global_8c.html#a64dd2136556b26382d6079bb8ef77b00" title="ocfs2_quota_write" alt="" coords="441,5,569,32"/>
+<area shape="rect" id="node6" href="$quota__local_8c.html#a69678330f53909990329af8c06f5dee0" title="ocfs2_local_quota_add\l_chunk" alt="" coords="427,57,582,98"/>
+<area shape="rect" id="node7" href="$quota__local_8c.html#a4f5cb31f25853e535ff9d96c75b55d09" title="ocfs2_extend_local\l_quota_file" alt="" coords="646,93,781,134"/>
+<area shape="rect" id="node4" href="$file_8h.html#af5c1379892500b3459265e8626233699" title="ocfs2_setattr" alt="" coords="664,173,763,200"/>
+<area shape="rect" id="node8" href="$quota__local_8c.html#ab9b675ca1ebfc1283e35b9b043665fe2" title="ocfs2_create_local\l_dquot" alt="" coords="843,93,973,134"/>
+<area shape="rect" id="node9" href="$ocfs2_2quota_8h.html#a4bdd398b5685cb125a06aa5e27b30a1c" title="ocfs2_global_release\l_dquot" alt="" coords="1021,137,1165,178"/>
+<area shape="rect" id="node29" href="$quota__global_8c.html#ad6bb179ee20b575ef71007f5653b0fb0" title="ocfs2_acquire_dquot" alt="" coords="1022,85,1165,112"/>
+<area shape="rect" id="node10" href="$quota__global_8c.html#a07c2c8e202275e37e4febcf5d194e3dd" title="ocfs2_release_dquot" alt="" coords="1213,173,1356,200"/>
+<area shape="rect" id="node11" href="$quota__local_8c.html#abab370e3351647a1152378d977e44d9d" title="ocfs2_recover_local\l_quota_file" alt="" coords="1215,107,1354,149"/>
+<area shape="rect" id="node12" href="$quota__local_8c.html#a0060584c1ddea53f7db0ffab9e5dedf4" title="ocfs2_finish_quota\l_recovery" alt="" coords="1417,121,1548,162"/>
+<area shape="rect" id="node13" href="$journal_8h.html#af2c9c1b7d9fba66a98c7b8d1399add60" title="ocfs2_complete_recovery" alt="" coords="1609,169,1780,196"/>
+<area shape="rect" id="node14" href="$ocfs2_2super_8c.html#acde5a063bcd0ae6340db5ad59b6230ba" title="ocfs2_initialize_super" alt="" coords="1828,143,1975,169"/>
+<area shape="rect" id="node17" href="$journal_8h.html#a1f4038c3558ccccf97b75aeeb079c898" title="ocfs2_ci_set_new" alt="" coords="1838,195,1965,221"/>
+<area shape="rect" id="node15" href="$ocfs2_2super_8c.html#aae09c84567eb36b012612fa7f187c3ee" title="ocfs2_fill_super" alt="" coords="2045,140,2159,167"/>
+<area shape="rect" id="node16" href="$ocfs2_2super_8c.html#aca38f76e33cde96ed91b51148bcdc947" title="ocfs2_mount" alt="" coords="2253,136,2351,163"/>
+<area shape="rect" id="node18" href="$ocfs2_2namei_8c.html#abfcd967c07c863371ac05be77b16c47b" title="__ocfs2_mknod_locked" alt="" coords="2023,195,2181,221"/>
+<area shape="rect" id="node19" href="$ocfs2_2namei_8c.html#a3431706f8cc24382fc0c00d07f95c24b" title="ocfs2_mknod_locked" alt="" coords="2229,253,2375,280"/>
+<area shape="rect" id="node24" href="$namei_8h.html#a33ecd2392f71252d3c6e3b31f53ae74a" title="ocfs2_create_inode\l_in_orphan" alt="" coords="2235,187,2369,229"/>
+<area shape="rect" id="node20" href="$ocfs2_2namei_8c.html#a5a8fa945d08fb2eafc24f39630a6fa17" title="ocfs2_mknod" alt="" coords="2426,249,2526,276"/>
+<area shape="rect" id="node23" href="$ocfs2_2namei_8c.html#a0089f75e44a9fd46e4b5f8b313d0af1e" title="ocfs2_symlink" alt="" coords="2423,300,2529,327"/>
+<area shape="rect" id="node21" href="$ocfs2_2namei_8c.html#a2cfeba05a2658265d1b4f4d135fe8a95" title="ocfs2_mkdir" alt="" coords="2591,247,2685,273"/>
+<area shape="rect" id="node22" href="$ocfs2_2namei_8c.html#a5941207e141e5d428728f560689f1398" title="ocfs2_create" alt="" coords="2589,297,2687,324"/>
+<area shape="rect" id="node25" href="$refcounttree_8c.html#a101167830b0fff3f5d3811f8d17eafb3" title="ocfs2_reflink" alt="" coords="2428,195,2524,221"/>
+<area shape="rect" id="node26" href="$refcounttree_8c.html#a361ae2a79adeb5fe8a05c925e48b2c1a" title="ocfs2_vfs_reflink" alt="" coords="2577,195,2699,221"/>
+<area shape="rect" id="node27" href="$refcounttree_8h.html#aea81895d4cf45213d159bb7062179172" title="ocfs2_reflink_ioctl" alt="" coords="2747,195,2873,221"/>
+<area shape="rect" id="node28" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="2921,195,3007,221"/>
+<area shape="rect" id="node31" href="$namei_8h.html#a9d23468f45a1c03b6102ea7f6796829e" title="ocfs2_add_inode_to\l_orphan" alt="" coords="435,275,574,317"/>
+<area shape="rect" id="node36" href="$ocfs2_2journal_8c.html#a1ec7d1a5692c51e500d209f9f1bbf7dd" title="ocfs2_recover_orphans" alt="" coords="1404,199,1561,225"/>
+<area shape="rect" id="node32" href="$ocfs2_2aops_8c.html#a62285e9f85b08e2890ad6d40f73fbe3a" title="ocfs2_dio_wr_get_block" alt="" coords="632,287,795,313"/>
+<area shape="rect" id="node33" href="$ocfs2_2aops_8c.html#a34403509b19366144ea3c92c7f2760c8" title="ocfs2_direct_IO" alt="" coords="851,312,965,339"/>
+<area shape="rect" id="node35" href="$ocfs2_2aops_8c.html#a45fc9a27cbdbe5974a590b1333248c77" title="ocfs2_dio_end_io" alt="" coords="652,339,775,365"/>
+</map>

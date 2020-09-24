@@ -1,0 +1,15 @@
+<map id="build_sit_info" name="build_sit_info">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a7dffbcf93012840e801f5357ebc2669e" title="F2FS_RAW_SUPER" alt="" coords="487,183,633,209"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a8618342bf5f08a91e956d39efbdb4f2f" title="f2fs_kzalloc" alt="" coords="163,5,255,32"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="183,107,236,133"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#a5c13debb7490c6475b5d220a35764d8a" title="f2fs_kvzalloc" alt="" coords="160,56,259,83"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a9950694608ca4299c7199d648974c035" title="f2fs_discard_en" alt="" coords="152,208,267,235"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a83ac0b6590c66024dd5262b491a767ee" title="__bitmap_size" alt="" coords="323,360,430,387"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#a0628bfc6240b099d4dea1af398b8a0ef" title="__bitmap_ptr" alt="" coords="161,259,258,285"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a036c8838aa2eee8ace8e6940d0352a7a" title="f2fs_kmalloc" alt="" coords="329,5,425,32"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#ae1165e29e3458f6e3f5f23d3318f9fa3" title="f2fs_kvmalloc" alt="" coords="325,56,428,83"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="511,309,609,336"/>
+<area shape="rect" id="node12" href="$f2fs_8h.html#aa1fbd95eb602ca6a2eeb415faf02e0db" title="is_set_ckpt_flags" alt="" coords="315,259,439,285"/>
+<area shape="rect" id="node14" href="$f2fs_8h.html#ace68ed974400fee5bead36282f486df1" title="__cp_payload" alt="" coords="325,208,428,235"/>
+<area shape="rect" id="node13" href="$f2fs_8h.html#abb6676bbd589a9ca63ae2dd34a6501f7" title="__is_set_ckpt_flags" alt="" coords="491,259,629,285"/>
+</map>

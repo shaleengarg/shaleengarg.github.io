@@ -1,0 +1,6 @@
+<map id="btrfs_remove_delayed_node" name="btrfs_remove_delayed_node">
+<area shape="rect" id="node2" href="$delayed-inode_8c.html#ae41987e5af596d25876eee9105ba4fd4" title="btrfs_release_delayed_node" alt="" coords="239,31,423,57"/>
+<area shape="rect" id="node3" href="$delayed-inode_8c.html#a51d5018ea68df7e8eed9847b35fa987e" title="__btrfs_release_delayed_node" alt="" coords="471,31,669,57"/>
+<area shape="rect" id="node4" href="$delayed-inode_8c.html#a0e2f539ab0f4224ea20e730b1ce92f0c" title="btrfs_queue_delayed_node" alt="" coords="724,5,901,32"/>
+<area shape="rect" id="node5" href="$delayed-inode_8c.html#a7dc0d496a3e3aac602124f28f213c1b5" title="btrfs_dequeue_delayed_node" alt="" coords="717,56,908,83"/>
+</map>

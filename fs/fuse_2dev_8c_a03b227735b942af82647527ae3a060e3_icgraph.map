@@ -1,0 +1,6 @@
+<map id="fuse_copy_init" name="fuse_copy_init">
+<area shape="rect" id="node2" href="$fuse_2dev_8c.html#a23f799ab8df04f4b4426d367a99210ec" title="fuse_dev_read" alt="" coords="182,5,289,32"/>
+<area shape="rect" id="node3" href="$fuse_2dev_8c.html#a8925002fd5f97208a907f7ab5eb15497" title="fuse_dev_splice_read" alt="" coords="161,56,309,83"/>
+<area shape="rect" id="node4" href="$fuse_2dev_8c.html#a7c53fba56d0048fb9f7b064f1c51710a" title="fuse_dev_write" alt="" coords="180,107,291,133"/>
+<area shape="rect" id="node5" href="$fuse_2dev_8c.html#a5a934876338b1b8c7d5ca55ebcfea1be" title="fuse_dev_splice_write" alt="" coords="160,157,311,184"/>
+</map>

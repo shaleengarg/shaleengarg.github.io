@@ -1,0 +1,7 @@
+<map id="receive_rcom_lock_args" name="receive_rcom_lock_args">
+<area shape="rect" id="node2" href="$dlm_2lock_8c.html#af965a4c9eb577510ca1c56147fb13acd" title="fake_bastfn" alt="" coords="236,5,327,32"/>
+<area shape="rect" id="node3" href="$dlm_2lock_8c.html#a547fa515db73b5e6c839506947368afd" title="fake_astfn" alt="" coords="240,56,323,83"/>
+<area shape="rect" id="node4" href="$memory_8c.html#a296cd0ade9f165d66a268dbf6b1c9bd9" title="dlm_allocate_lvb" alt="" coords="222,107,341,133"/>
+<area shape="rect" id="node5" href="$dlm_2lock_8c.html#a19d0bae79c1ac962c0dede44a875be99" title="middle_conversion" alt="" coords="216,157,347,184"/>
+<area shape="rect" id="node6" href="$dlm__internal_8h.html#aad41ab348123acdbb2f6f4941dc46149" title="rsb_set_flag" alt="" coords="235,208,328,235"/>
+</map>

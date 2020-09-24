@@ -1,0 +1,7 @@
+<map id="find_free_space" name="find_free_space">
+<area shape="rect" id="node2" href="$free-space-cache_8c.html#a09e5d1721e28f5eacfa1ebad5b6194d1" title="tree_search_offset" alt="" coords="168,5,299,32"/>
+<area shape="rect" id="node3" href="$free-space-cache_8c.html#ad6166c89663bd722b0364ae0b8d0e879" title="offset_to_bitmap" alt="" coords="174,56,293,83"/>
+<area shape="rect" id="node4" href="$free-space-cache_8c.html#a65c456ee19e094069b38feac9439f9a9" title="search_bitmap" alt="" coords="180,107,287,133"/>
+<area shape="rect" id="node5" href="$free-space-cache_8c.html#a09ef0758a72796858a4061a0cbfe0d4a" title="offset_to_bit" alt="" coords="349,81,444,108"/>
+<area shape="rect" id="node6" href="$free-space-cache_8c.html#a5f418a86ac45156a79860615a852d8e9" title="bytes_to_bits" alt="" coords="347,132,447,159"/>
+</map>

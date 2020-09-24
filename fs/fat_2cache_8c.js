@@ -1,0 +1,26 @@
+var fat_2cache_8c =
+[
+    [ "fat_cache", "structfat__cache.html", "structfat__cache" ],
+    [ "fat_cache_id", "structfat__cache__id.html", "structfat__cache__id" ],
+    [ "FAT_MAX_CACHE", "fat_2cache_8c.html#ab0dcab0f560ea5b807c4eb83cc90a279", null ],
+    [ "__fat_cache_inval_inode", "fat_2cache_8c.html#a64c65ae9ddf5dee4530167728c4d0512", null ],
+    [ "cache_contiguous", "fat_2cache_8c.html#a320a1c517cce230571a47da823df4e08", null ],
+    [ "cache_init", "fat_2cache_8c.html#a4a2f3710926e19034e23829bc525ac2a", null ],
+    [ "fat_bmap", "fat_2cache_8c.html#ad048ee119cf43db12c8d019a91e86917", null ],
+    [ "fat_bmap_cluster", "fat_2cache_8c.html#a18dff66ee795b414d47c57680a0df71f", null ],
+    [ "fat_cache_add", "fat_2cache_8c.html#a0e2f72179bd523a8aebfce70d7bd1b8b", null ],
+    [ "fat_cache_alloc", "fat_2cache_8c.html#aa9d2a0f1851e1bfbe92b8c922539a3d4", null ],
+    [ "fat_cache_destroy", "fat_2cache_8c.html#afe19d5befb9b9fe86407195e4c29dac9", null ],
+    [ "fat_cache_free", "fat_2cache_8c.html#aa3f7aa1152d0c9e4ca29c29aa3b4460e", null ],
+    [ "fat_cache_init", "fat_2cache_8c.html#a3348c579896f6c6418ee5e764e02ed9b", null ],
+    [ "fat_cache_inval_inode", "fat_2cache_8c.html#a87af433b09f2f6af0dca2dc4a2a2e969", null ],
+    [ "fat_cache_lookup", "fat_2cache_8c.html#a0aef503d4e94cb2a6777eb588963be8b", null ],
+    [ "fat_cache_merge", "fat_2cache_8c.html#a9ce20c9f0ae4be526fa7ff6280f44ca3", null ],
+    [ "fat_cache_update_lru", "fat_2cache_8c.html#ad6fef87fdb6a8d3e9847c33997b4ed64", null ],
+    [ "fat_get_cluster", "fat_2cache_8c.html#ac6c3c54412c0a800314510568d412278", null ],
+    [ "fat_get_mapped_cluster", "fat_2cache_8c.html#a355592d750195fcdacf229dc9ce74fed", null ],
+    [ "fat_max_cache", "fat_2cache_8c.html#a1780b64d65c584074ebd557e94855fc1", null ],
+    [ "init_once", "fat_2cache_8c.html#ac94582025e10222db6e3afa7b80f3d6d", null ],
+    [ "is_exceed_eof", "fat_2cache_8c.html#ac5a94d86f18326af869d8cfa12599159", null ],
+    [ "fat_cache_cachep", "fat_2cache_8c.html#a2d509bdc8976de4531a3bc3f8b4ad686", null ]
+];
