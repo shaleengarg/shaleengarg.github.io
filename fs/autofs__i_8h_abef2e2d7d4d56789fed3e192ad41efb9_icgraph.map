@@ -1,0 +1,19 @@
+<map id="autofs4_expire_run" name="autofs4_expire_run">
+<area shape="rect" id="node2" href="$autofs__i_8h.html#a16a953dc14513a507fea1e6ea232fc86" title="autofs4_oz_mode" alt="" coords="185,284,311,311"/>
+<area shape="rect" id="node17" href="$autofs4_2root_8c.html#a2d2fbebc9524e6e3f1f46d5bb320a3ce" title="autofs4_root_ioctl\l_unlocked" alt="" coords="369,513,495,554"/>
+<area shape="rect" id="node3" href="$autofs4_2symlink_8c.html#a1d5e28cbaac93577ce7c38431ac51d36" title="autofs4_get_link" alt="" coords="373,5,491,32"/>
+<area shape="rect" id="node4" href="$dev-ioctl_8c.html#a37310baaef7cd474b06beb78966bd794" title="_autofs_dev_ioctl" alt="" coords="370,56,494,83"/>
+<area shape="rect" id="node9" href="$autofs4_2root_8c.html#a7202d093aa666ae9d24ffbbcb6a584f9" title="autofs4_dir_open" alt="" coords="371,107,493,133"/>
+<area shape="rect" id="node10" href="$autofs4_2root_8c.html#aa485740cf03e89c97e575f1129970d92" title="autofs4_d_automount" alt="" coords="359,157,505,184"/>
+<area shape="rect" id="node11" href="$autofs4_2root_8c.html#a97e6fc823a5a8403d3f65205c470d7fd" title="autofs4_d_manage" alt="" coords="366,208,498,235"/>
+<area shape="rect" id="node12" href="$autofs4_2root_8c.html#aa3e67dbe636574aab576a58e1095dce3" title="autofs4_lookup" alt="" coords="377,259,487,285"/>
+<area shape="rect" id="node13" href="$autofs4_2root_8c.html#a282727491c49b8f5e5eebee51755b38b" title="autofs4_dir_symlink" alt="" coords="363,309,501,336"/>
+<area shape="rect" id="node14" href="$autofs4_2root_8c.html#adee3aa2c0d7c27bfb8c48e2b0836416b" title="autofs4_dir_unlink" alt="" coords="369,360,495,387"/>
+<area shape="rect" id="node15" href="$autofs4_2root_8c.html#acfeee45df464af1e2483faaa168bd088" title="autofs4_dir_rmdir" alt="" coords="371,411,493,437"/>
+<area shape="rect" id="node16" href="$autofs4_2root_8c.html#adb55aeda4a2f7f34f0d62ee4aaab3595" title="autofs4_dir_mkdir" alt="" coords="369,461,495,488"/>
+<area shape="rect" id="node5" href="$dev-ioctl_8c.html#a2b7e82ce3e1444de3fbacaffc5af1fbe" title="autofs_dev_ioctl" alt="" coords="557,31,675,57"/>
+<area shape="rect" id="node6" href="$dev-ioctl_8c.html#aa4985777d57507d07be423fa220b9189" title="check_dev_ioctl_version" alt="" coords="727,31,892,57"/>
+<area shape="rect" id="node8" href="$dev-ioctl_8c.html#a14cde5a19367052a7b348817212a1c78" title="copy_dev_ioctl" alt="" coords="755,81,864,108"/>
+<area shape="rect" id="node7" href="$dev-ioctl_8c.html#a54da6ea4e9299e3643d1d37f284b4ed8" title="validate_dev_ioctl" alt="" coords="940,81,1067,108"/>
+<area shape="rect" id="node18" href="$autofs4_2root_8c.html#a949535089d5b056dfe698ac9bb96c6dd" title="autofs4_root_ioctl" alt="" coords="553,520,679,547"/>
+</map>

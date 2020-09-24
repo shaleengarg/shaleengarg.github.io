@@ -1,0 +1,17 @@
+<map id="adfs_iget" name="adfs_iget">
+<area shape="rect" id="node2" href="$inode_8c.html#ae03a9f08d4efbf91ff44e29c1369314e" title="new_inode" alt="" coords="157,81,241,108"/>
+<area shape="rect" id="node10" href="$adfs_8h.html#acb83a8b1bcf495d9f3f84f82abb484ae" title="ADFS_SB" alt="" coords="344,233,427,260"/>
+<area shape="rect" id="node11" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="549,157,623,184"/>
+<area shape="rect" id="node13" href="$adfs_8h.html#a70f4a7b87aaf800b01b36fce466dfff4" title="ADFS_I" alt="" coords="351,309,420,336"/>
+<area shape="rect" id="node14" href="$adfs_2inode_8c.html#a68099e5c225611beae35888f3b3a1014" title="adfs_atts2mode" alt="" coords="142,259,257,285"/>
+<area shape="rect" id="node15" href="$adfs_2inode_8c.html#a18229097e8501a85708bd9493c389119" title="adfs_adfs2unix_time" alt="" coords="128,360,271,387"/>
+<area shape="rect" id="node3" href="$inode_8c.html#aeddf64c5c9fa914485838a6db9201936" title="new_inode_pseudo" alt="" coords="319,56,452,83"/>
+<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="893,157,1032,184"/>
+<area shape="rect" id="node8" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="322,5,449,32"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a6328f7a2621c5365a1df969e8c7ab998" title="alloc_inode" alt="" coords="543,56,629,83"/>
+<area shape="rect" id="node5" href="$inode_8c.html#a844185001176cf3da6e2195a24931015" title="inode_init_always" alt="" coords="720,56,845,83"/>
+<area shape="rect" id="node6" href="$inode_8c.html#a585882dc429befcbe4638a49bc11dff6" title="no_open" alt="" coords="927,56,998,83"/>
+<area shape="rect" id="node9" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="500,5,672,32"/>
+<area shape="rect" id="node12" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="741,157,825,184"/>
+<area shape="rect" id="node16" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="735,309,830,336"/>
+</map>

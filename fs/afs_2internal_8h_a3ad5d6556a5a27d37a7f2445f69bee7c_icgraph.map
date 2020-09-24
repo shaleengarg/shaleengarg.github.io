@@ -1,0 +1,6 @@
+<map id="afs_sock2net" name="afs_sock2net">
+<area shape="rect" id="node2" href="$rxrpc_8c.html#a621136aad7292c0deaca88291f21665a" title="afs_rx_new_call" alt="" coords="153,5,269,32"/>
+<area shape="rect" id="node3" href="$rxrpc_8c.html#af70da4c877139da83e188b1e0cac2b1a" title="afs_open_socket" alt="" coords="317,5,439,32"/>
+<area shape="rect" id="node4" href="$afs_2main_8c.html#ab6a4572f7db6bca3bff4781b3dfec4d9" title="afs_net_init" alt="" coords="487,5,576,32"/>
+<area shape="rect" id="node5" href="$afs_2main_8c.html#a6c32b7e048d19484ff1747eabb3cabae" title="afs_init" alt="" coords="624,5,688,32"/>
+</map>

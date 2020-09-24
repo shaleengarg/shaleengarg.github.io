@@ -1,0 +1,9 @@
+<map id="afs_put_sysnames" name="afs_put_sysnames">
+<area shape="rect" id="node2" href="$afs_2dir_8c.html#a49e77eb29765ce423e0cff98582a2b90" title="afs_lookup_atsys" alt="" coords="214,5,338,32"/>
+<area shape="rect" id="node4" href="$afs_2main_8c.html#ab6a4572f7db6bca3bff4781b3dfec4d9" title="afs_net_init" alt="" coords="231,56,321,83"/>
+<area shape="rect" id="node6" href="$afs_2main_8c.html#a5bc529a1155c92624e7627877eef8d60" title="afs_net_exit" alt="" coords="229,107,323,133"/>
+<area shape="rect" id="node8" href="$afs_2proc_8c.html#acc8a630895ab07d32197534407963680" title="afs_proc_sysname_release" alt="" coords="185,157,367,184"/>
+<area shape="rect" id="node3" href="$afs_2dir_8c.html#a6b3edbd1d9d4b2ee14ea511c9ab4a86a" title="afs_lookup" alt="" coords="415,5,500,32"/>
+<area shape="rect" id="node5" href="$afs_2main_8c.html#a6c32b7e048d19484ff1747eabb3cabae" title="afs_init" alt="" coords="425,56,489,83"/>
+<area shape="rect" id="node7" href="$afs_2main_8c.html#a5dd54d3d55e89898260d8186a131e1d3" title="afs_exit" alt="" coords="423,107,491,133"/>
+</map>

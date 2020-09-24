@@ -1,0 +1,6 @@
+<map id="affs_add_entry" name="affs_add_entry">
+<area shape="rect" id="node2" href="$affs_2namei_8c.html#aaa1e47ae234bb6f6147adce8bd03bb76" title="affs_create" alt="" coords="166,5,253,32"/>
+<area shape="rect" id="node3" href="$affs_2namei_8c.html#a53e72d4a7fa2277e478cc0e089ac1e4b" title="affs_mkdir" alt="" coords="168,56,251,83"/>
+<area shape="rect" id="node4" href="$affs_2namei_8c.html#a5e78c73fa8f0a24030ad4fb5ddf10cfc" title="affs_symlink" alt="" coords="161,107,257,133"/>
+<area shape="rect" id="node5" href="$affs_2namei_8c.html#a3a27cf104087df6d4fcb86bfff84b67c" title="affs_link" alt="" coords="174,157,245,184"/>
+</map>

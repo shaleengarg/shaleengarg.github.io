@@ -1,0 +1,8 @@
+<map id="afs/afs_fs.h" name="afs/afs_fs.h">
+<area shape="rect" id="node2" href="$addr__list_8c.html" title="afs/addr_list.c" alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$fsclient_8c.html" title="afs/fsclient.c" alt="" coords="134,80,231,107"/>
+<area shape="rect" id="node4" href="$afs_2misc_8c.html" title="afs/misc.c" alt="" coords="256,80,339,107"/>
+<area shape="rect" id="node5" href="$rotate_8c.html" title="afs/rotate.c" alt="" coords="363,80,451,107"/>
+<area shape="rect" id="node6" href="$server_8c.html" title="afs/server.c" alt="" coords="475,80,565,107"/>
+<area shape="rect" id="node7" href="$vlclient_8c.html" title="afs/vlclient.c" alt="" coords="589,80,685,107"/>
+</map>

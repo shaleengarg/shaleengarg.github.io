@@ -1,0 +1,7 @@
+<map id="ntfs_attr_find" name="ntfs_attr_find">
+<area shape="rect" id="node2" href="$name_8c.html#a6f3e259198a4231f3429f98f2bf02b23" title="upcase" alt="" coords="197,5,261,32"/>
+<area shape="rect" id="node3" href="$ntfs_8h.html#aa9de56ad5f4ccba2f91e7bbf3c873910" title="ntfs_are_names_equal" alt="" coords="152,56,305,83"/>
+<area shape="rect" id="node6" href="$ntfs_8h.html#a7abc16b0931427fa8b0500dc0f316f0f" title="ntfs_collate_names" alt="" coords="161,107,296,133"/>
+<area shape="rect" id="node4" href="$unistr_8c.html#a1823d06fadfd193c1d66bc85d1df1fb2" title="ntfs_ucsncmp" alt="" coords="367,31,471,57"/>
+<area shape="rect" id="node5" href="$unistr_8c.html#aec0167aec7bdb1b1b1f5e586f3006530" title="ntfs_ucsncasecmp" alt="" coords="353,81,485,108"/>
+</map>

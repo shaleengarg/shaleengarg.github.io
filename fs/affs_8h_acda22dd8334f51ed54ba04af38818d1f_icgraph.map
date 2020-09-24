@@ -1,0 +1,10 @@
+<map id="affs_free_prealloc" name="affs_free_prealloc">
+<area shape="rect" id="node2" href="$affs_2file_8c.html#ae55aadbc85ad913bb87e107c6a997a25" title="affs_file_release" alt="" coords="351,5,469,32"/>
+<area shape="rect" id="node3" href="$affs_2file_8c.html#a9818712ebae9a8c54bedfa9969624091" title="affs_truncate" alt="" coords="188,93,287,120"/>
+<area shape="rect" id="node8" href="$affs_2inode_8c.html#a847fc7cdcca1735505001d18c90da8de" title="affs_evict_inode" alt="" coords="351,157,469,184"/>
+<area shape="rect" id="node9" href="$affs_2inode_8c.html#a6a64c05c9e6276eb653e498f8f2a1bee" title="affs_write_inode" alt="" coords="179,195,296,221"/>
+<area shape="rect" id="node4" href="$affs_2file_8c.html#a2ff7df614fe1f14bc030e92136663310" title="affs_write_failed" alt="" coords="351,56,469,83"/>
+<area shape="rect" id="node7" href="$affs_2inode_8c.html#a975aba0ff3879dfd62557d80eaa0aeb7" title="affs_notify_change" alt="" coords="344,107,476,133"/>
+<area shape="rect" id="node5" href="$affs_2file_8c.html#aa77dcf009d969de3a5276c76dcf7feb4" title="affs_direct_IO" alt="" coords="531,31,635,57"/>
+<area shape="rect" id="node6" href="$affs_2file_8c.html#af83bbaef7f7025a660b283d8f45d271f" title="affs_write_begin" alt="" coords="524,81,641,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="afs_release" name="afs_release">
+<area shape="rect" id="node2" href="$afs_2internal_8h.html#a4319ab62063070e450460f28d1b250f3" title="AFS_FS_I" alt="" coords="171,5,253,32"/>
+<area shape="rect" id="node3" href="$sync_8c.html#afccf0b8bd0e71e4a5872e15fb493d987" title="vfs_fsync" alt="" coords="173,56,251,83"/>
+<area shape="rect" id="node6" href="$afs_2file_8c.html#a79ff0e8338df7bf6ad59dd0883b40f68" title="afs_put_wb_key" alt="" coords="330,107,447,133"/>
+<area shape="rect" id="node7" href="$afs_2internal_8h.html#aecebd1d4371408361caef0ecd8d3d402" title="afs_prune_wb_keys" alt="" coords="143,157,281,184"/>
+<area shape="rect" id="node4" href="$sync_8c.html#ae306f1702cb8dc8c79c3388afc632a4f" title="vfs_fsync_range" alt="" coords="329,5,448,32"/>
+<area shape="rect" id="node5" href="$sync_8c.html#a362b873c39d0612c99510b5d04c18cfc" title="EXPORT_SYMBOL" alt="" coords="496,31,635,57"/>
+<area shape="rect" id="node8" href="$v9fs_8c.html#a962ef1b35907bdda12de2cddce8bc638" title="LIST_HEAD" alt="" coords="341,157,436,184"/>
+</map>

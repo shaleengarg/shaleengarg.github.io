@@ -1,0 +1,5 @@
+<map id="afs_drop_inode" name="afs_drop_inode">
+<area shape="rect" id="node2" href="$afs_2internal_8h.html#a4319ab62063070e450460f28d1b250f3" title="AFS_FS_I" alt="" coords="195,5,277,32"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a00a939bca25721c8cf44fec79e722e5b" title="generic_delete_inode" alt="" coords="164,56,308,83"/>
+<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="356,56,495,83"/>
+</map>

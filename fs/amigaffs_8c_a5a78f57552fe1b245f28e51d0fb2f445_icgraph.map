@@ -1,0 +1,10 @@
+<map id="affs_copy_name" name="affs_copy_name">
+<area shape="rect" id="node2" href="$affs_2inode_8c.html#aaa8a7eee45b787008e56854fc7e4e73d" title="affs_add_entry" alt="" coords="172,107,280,133"/>
+<area shape="rect" id="node7" href="$affs_2namei_8c.html#ad13f75579d419a63a3fbaa940522fb52" title="affs_rename" alt="" coords="179,157,273,184"/>
+<area shape="rect" id="node9" href="$affs_2namei_8c.html#a113e745dbd0e2dfc69f5b414b740a361" title="affs_xrename" alt="" coords="175,208,277,235"/>
+<area shape="rect" id="node3" href="$affs_2namei_8c.html#aaa1e47ae234bb6f6147adce8bd03bb76" title="affs_create" alt="" coords="335,5,422,32"/>
+<area shape="rect" id="node4" href="$affs_2namei_8c.html#a53e72d4a7fa2277e478cc0e089ac1e4b" title="affs_mkdir" alt="" coords="337,56,420,83"/>
+<area shape="rect" id="node5" href="$affs_2namei_8c.html#a5e78c73fa8f0a24030ad4fb5ddf10cfc" title="affs_symlink" alt="" coords="331,107,427,133"/>
+<area shape="rect" id="node6" href="$affs_2namei_8c.html#a3a27cf104087df6d4fcb86bfff84b67c" title="affs_link" alt="" coords="343,157,414,184"/>
+<area shape="rect" id="node8" href="$affs_2namei_8c.html#aabf53ce560e2da8a825047dc57a4b34a" title="affs_rename2" alt="" coords="328,208,429,235"/>
+</map>

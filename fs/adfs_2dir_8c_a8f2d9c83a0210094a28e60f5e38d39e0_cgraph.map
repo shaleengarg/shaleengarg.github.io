@@ -1,0 +1,31 @@
+<map id="adfs_lookup" name="adfs_lookup">
+<area shape="rect" id="node2" href="$adfs_2dir_8c.html#a6851699e7013417181bf10b4b3a42e4e" title="adfs_dir_lookup_byname" alt="" coords="268,309,435,336"/>
+<area shape="rect" id="node6" href="$adfs_8h.html#ab4585d0bf6c9403c108bd9f714ec5051" title="adfs_iget" alt="" coords="145,208,220,235"/>
+<area shape="rect" id="node20" href="$dcache_8c.html#aeab27370546d71c098fb7a85a990f98a" title="d_add" alt="" coords="154,537,211,564"/>
+<area shape="rect" id="node3" href="$adfs_8h.html#acb83a8b1bcf495d9f3f84f82abb484ae" title="ADFS_SB" alt="" coords="525,259,607,285"/>
+<area shape="rect" id="node4" href="$adfs_8h.html#a70f4a7b87aaf800b01b36fce466dfff4" title="ADFS_I" alt="" coords="531,208,601,235"/>
+<area shape="rect" id="node5" href="$adfs_2dir_8c.html#a6124fedfed1c9e26e0683604506ca0f5" title="adfs_match" alt="" coords="521,309,611,336"/>
+<area shape="rect" id="node7" href="$inode_8c.html#ae03a9f08d4efbf91ff44e29c1369314e" title="new_inode" alt="" coords="309,56,393,83"/>
+<area shape="rect" id="node15" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="746,259,821,285"/>
+<area shape="rect" id="node17" href="$adfs_2inode_8c.html#a68099e5c225611beae35888f3b3a1014" title="adfs_atts2mode" alt="" coords="294,208,409,235"/>
+<area shape="rect" id="node18" href="$adfs_2inode_8c.html#a18229097e8501a85708bd9493c389119" title="adfs_adfs2unix_time" alt="" coords="280,107,423,133"/>
+<area shape="rect" id="node8" href="$inode_8c.html#aeddf64c5c9fa914485838a6db9201936" title="new_inode_pseudo" alt="" coords="499,5,633,32"/>
+<area shape="rect" id="node12" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="1091,157,1229,184"/>
+<area shape="rect" id="node13" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="503,56,629,83"/>
+<area shape="rect" id="node9" href="$inode_8c.html#a6328f7a2621c5365a1df969e8c7ab998" title="alloc_inode" alt="" coords="740,5,827,32"/>
+<area shape="rect" id="node10" href="$inode_8c.html#a844185001176cf3da6e2195a24931015" title="inode_init_always" alt="" coords="917,31,1043,57"/>
+<area shape="rect" id="node11" href="$inode_8c.html#a585882dc429befcbe4638a49bc11dff6" title="no_open" alt="" coords="1125,31,1195,57"/>
+<area shape="rect" id="node14" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="697,56,869,83"/>
+<area shape="rect" id="node16" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="938,208,1022,235"/>
+<area shape="rect" id="node19" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="933,157,1027,184"/>
+<area shape="rect" id="node21" href="$dcache_8c.html#abb6a3303d1974ff6c85fff733082b373" title="__d_add" alt="" coords="316,537,387,564"/>
+<area shape="rect" id="node25" href="$dcache_8c.html#aeb5ec7bdf3301140d66dd18ae638685c" title="EXPORT_SYMBOL" alt="" coords="714,689,853,716"/>
+<area shape="rect" id="node22" href="$dcache_8c.html#a67880d7546b4393328ac29ff938936b5" title="start_dir_add" alt="" coords="517,563,615,589"/>
+<area shape="rect" id="node23" href="$dcache_8c.html#ac90906735bbd206bdb4377d23e912f59" title="__d_lookup_done" alt="" coords="505,613,627,640"/>
+<area shape="rect" id="node26" href="$dcache_8c.html#a990fb9ad584b8c9f0a0167ca94d6a01f" title="d_flags_for_inode" alt="" coords="504,664,628,691"/>
+<area shape="rect" id="node27" href="$dcache_8c.html#a95f527a9dc7c279bc6db816cd2899632" title="__d_set_inode_and_type" alt="" coords="483,411,649,437"/>
+<area shape="rect" id="node28" href="$dcache_8c.html#a2d2532129535ba9b31756c8976f6ea17" title="__d_rehash" alt="" coords="521,461,611,488"/>
+<area shape="rect" id="node30" href="$dcache_8c.html#a2e1585eb822297f29ebde3fa1cbbc54c" title="end_dir_add" alt="" coords="520,512,612,539"/>
+<area shape="rect" id="node24" href="$dcache_8c.html#a4a6ac0e37bb2a82bb57c9c1e917e9706" title="in_lookup_hash" alt="" coords="727,613,839,640"/>
+<area shape="rect" id="node29" href="$dcache_8c.html#ad0da24b939325fb96de67394f99b2766" title="d_hash" alt="" coords="751,461,815,488"/>
+</map>

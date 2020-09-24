@@ -1,0 +1,29 @@
+<map id="afs/internal.h" name="afs/internal.h">
+<area shape="rect" id="node2" href="$addr__list_8c.html" title="afs/addr_list.c" alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$afs_2cache_8c.html" title="afs/cache.c" alt="" coords="133,80,224,107"/>
+<area shape="rect" id="node4" href="$afs_2callback_8c.html" title="afs/callback.c" alt="" coords="249,80,351,107"/>
+<area shape="rect" id="node5" href="$cell_8c.html" title="afs/cell.c" alt="" coords="376,80,451,107"/>
+<area shape="rect" id="node6" href="$cmservice_8c.html" title="afs/cmservice.c" alt="" coords="475,80,589,107"/>
+<area shape="rect" id="node7" href="$afs_2dir_8c.html" title="afs/dir.c" alt="" coords="613,80,683,107"/>
+<area shape="rect" id="node8" href="$dir__edit_8c.html" title="afs/dir_edit.c" alt="" coords="707,80,805,107"/>
+<area shape="rect" id="node9" href="$dynroot_8c.html" title="afs/dynroot.c" alt="" coords="829,80,928,107"/>
+<area shape="rect" id="node10" href="$afs_2file_8c.html" title="afs/file.c" alt="" coords="952,80,1024,107"/>
+<area shape="rect" id="node11" href="$flock_8c.html" title="afs/flock.c" alt="" coords="1048,80,1131,107"/>
+<area shape="rect" id="node12" href="$fsclient_8c.html" title="afs/fsclient.c" alt="" coords="1155,80,1253,107"/>
+<area shape="rect" id="node13" href="$afs_2inode_8c.html" title="afs/inode.c" alt="" coords="1277,80,1363,107"/>
+<area shape="rect" id="node14" href="$afs_2main_8c.html" title="afs/main.c" alt="" coords="1388,80,1471,107"/>
+<area shape="rect" id="node15" href="$afs_2misc_8c.html" title="afs/misc.c" alt="" coords="1495,80,1577,107"/>
+<area shape="rect" id="node16" href="$mntpt_8c.html" title="afs/mntpt.c" alt="" coords="1601,80,1689,107"/>
+<area shape="rect" id="node17" href="$netdevices_8c.html" title="afs/netdevices.c" alt="" coords="1714,80,1833,107"/>
+<area shape="rect" id="node18" href="$afs_2proc_8c.html" title="afs/proc.c" alt="" coords="1856,80,1936,107"/>
+<area shape="rect" id="node19" href="$rotate_8c.html" title="afs/rotate.c" alt="" coords="1960,80,2048,107"/>
+<area shape="rect" id="node20" href="$rxrpc_8c.html" title="afs/rxrpc.c" alt="" coords="2073,80,2157,107"/>
+<area shape="rect" id="node21" href="$afs_2security_8c.html" title="afs/security.c" alt="" coords="2181,80,2283,107"/>
+<area shape="rect" id="node22" href="$server_8c.html" title="afs/server.c" alt="" coords="2307,80,2397,107"/>
+<area shape="rect" id="node23" href="$server__list_8c.html" title="afs/server_list.c" alt="" coords="2421,80,2536,107"/>
+<area shape="rect" id="node24" href="$afs_2super_8c.html" title="afs/super.c" alt="" coords="2561,80,2647,107"/>
+<area shape="rect" id="node25" href="$vlclient_8c.html" title="afs/vlclient.c" alt="" coords="2672,80,2768,107"/>
+<area shape="rect" id="node26" href="$volume_8c.html" title="afs/volume.c" alt="" coords="2793,80,2890,107"/>
+<area shape="rect" id="node27" href="$afs_2write_8c.html" title="afs/write.c" alt="" coords="2915,80,2997,107"/>
+<area shape="rect" id="node28" href="$afs_2xattr_8c.html" title="afs/xattr.c" alt="" coords="3022,80,3103,107"/>
+</map>

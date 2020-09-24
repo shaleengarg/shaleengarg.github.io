@@ -1,0 +1,68 @@
+var afs_8h =
+[
+    [ "afs_fid", "structafs__fid.html", "structafs__fid" ],
+    [ "afs_callback", "structafs__callback.html", "structafs__callback" ],
+    [ "afs_callback_break", "structafs__callback__break.html", "structafs__callback__break" ],
+    [ "afs_uuid", "structafs__uuid.html", "structafs__uuid" ],
+    [ "afs_volume_info", "structafs__volume__info.html", "structafs__volume__info" ],
+    [ "afs_file_status", "structafs__file__status.html", "structafs__file__status" ],
+    [ "afs_volsync", "structafs__volsync.html", "structafs__volsync" ],
+    [ "afs_volume_status", "structafs__volume__status.html", "structafs__volume__status" ],
+    [ "afs_uuid__xdr", "structafs__uuid____xdr.html", "structafs__uuid____xdr" ],
+    [ "AFS_ACE_ADMINISTER", "afs_8h.html#a812bd344bcaec8a2f159f78d7903c18d", null ],
+    [ "AFS_ACE_DELETE", "afs_8h.html#a60fdff787cf10f2ff04190e9029e1554", null ],
+    [ "AFS_ACE_INSERT", "afs_8h.html#a8e2e1a414ce48bd9f55a8a835eca1861", null ],
+    [ "AFS_ACE_LOCK", "afs_8h.html#a92cbd881e6ba1cdb38281eeeff0a7713", null ],
+    [ "AFS_ACE_LOOKUP", "afs_8h.html#a883849eb4296a0b6d8d6aef3c3d6b08c", null ],
+    [ "AFS_ACE_READ", "afs_8h.html#a27b994ccf1c69bef7a7760af34e11004", null ],
+    [ "AFS_ACE_USER_A", "afs_8h.html#a9b438f40c1b54ff92eb0f284a35aa409", null ],
+    [ "AFS_ACE_USER_B", "afs_8h.html#a763e436e6cc09e3e1e20a63f064f83c7", null ],
+    [ "AFS_ACE_USER_C", "afs_8h.html#a21fa065531ce557569ceb5e4b670effc", null ],
+    [ "AFS_ACE_USER_D", "afs_8h.html#ad2cfc6a5c0c639975c39b855fd5857b0", null ],
+    [ "AFS_ACE_USER_E", "afs_8h.html#a908ad455e62c71f16c185ed207dce15d", null ],
+    [ "AFS_ACE_USER_F", "afs_8h.html#acf18c82605aee1b2db2d7ce53fe8dab9", null ],
+    [ "AFS_ACE_USER_G", "afs_8h.html#aeebc0a13c88304c9afe2f77ee7b81997", null ],
+    [ "AFS_ACE_USER_H", "afs_8h.html#a0cee441b50ad716553695e470a0ea562", null ],
+    [ "AFS_ACE_WRITE", "afs_8h.html#ae5d5f7b9204749d59359edf5d7773e6f", null ],
+    [ "AFS_BLOCK_SIZE", "afs_8h.html#ac8c51d2fd8013bc7827934393cc30cf2", null ],
+    [ "AFS_LOCKWAIT", "afs_8h.html#a4e5b29552c1a648ab0eee92df7437f8c", null ],
+    [ "AFS_MAXCELLNAME", "afs_8h.html#a9a5909f5bf5f9cee71db9857d56ac6d7", null ],
+    [ "AFS_MAXNSERVERS", "afs_8h.html#a1421463052e9687db86797e3822ac6c2", null ],
+    [ "AFS_MAXTYPES", "afs_8h.html#ae46199f422e01f541cea26e525073cb8", null ],
+    [ "AFS_MAXVOLNAME", "afs_8h.html#a85b5c14d53d23e0691fdb9e4b7436051", null ],
+    [ "AFS_NMAXNSERVERS", "afs_8h.html#a9f07894137cd63346bac9386847a971c", null ],
+    [ "AFS_SET_GROUP", "afs_8h.html#a3fc5c70895070c27a23ec3047dafc81f", null ],
+    [ "AFS_SET_MODE", "afs_8h.html#a0b28353042c038b09ebec46224bd5ae1", null ],
+    [ "AFS_SET_MTIME", "afs_8h.html#a8d0cb23d6c528fbb8a9910aff6a8fec3", null ],
+    [ "AFS_SET_OWNER", "afs_8h.html#ae05126e29992c16c9b0fa256d66f37a2", null ],
+    [ "AFS_SET_SEG_SIZE", "afs_8h.html#a35821c683b9df220a10832c339cabb1e", null ],
+    [ "AFSCBMAX", "afs_8h.html#aafa953ba66144ada8288c9a526d5dd31", null ],
+    [ "AFSNAMEMAX", "afs_8h.html#a796fd78c6659a98fcff9dab63989d46e", null ],
+    [ "AFSOPAQUEMAX", "afs_8h.html#a1cc4d22e176a965eae4af1c30fb439f2", null ],
+    [ "AFSPATHMAX", "afs_8h.html#a5e04696f951f48de118addfef1928976", null ],
+    [ "afs_access_t", "afs_8h.html#a975ee1160d2a1bb3c3d05ea22e14d92c", null ],
+    [ "afs_dataversion_t", "afs_8h.html#aab88bfc3233e1bad3f1d01aea9473a9d", null ],
+    [ "afs_vnodeid_t", "afs_8h.html#a93029276d45b2544dfe41daacb23f437", null ],
+    [ "afs_volid_t", "afs_8h.html#a3e19cd9d7c90a908385ff4a7eaa647a2", null ],
+    [ "__attribute__", "afs_8h.html#a4ebb2d5cf586a296b3b845f639621f9e", [
+      [ "AFSVL_RWVOL", "afs_8h.html#a4ebb2d5cf586a296b3b845f639621f9eaecc2ad9af27bdf43293854f0a209aeb8", null ],
+      [ "AFSVL_ROVOL", "afs_8h.html#a4ebb2d5cf586a296b3b845f639621f9ea5c097f556718bbab851c6df5291ada85", null ],
+      [ "AFSVL_BACKVOL", "afs_8h.html#a4ebb2d5cf586a296b3b845f639621f9ea13c4c6dee4e1f7113c838ac5f416f5da", null ]
+    ] ],
+    [ "afs_callback_type_t", "afs_8h.html#ac4d43b1715e16e501c33504e24c4616c", [
+      [ "AFSCM_CB_UNTYPED", "afs_8h.html#ac4d43b1715e16e501c33504e24c4616ca3c59634d2fca30e8f7e93d692323cb37", null ],
+      [ "AFSCM_CB_EXCLUSIVE", "afs_8h.html#ac4d43b1715e16e501c33504e24c4616ca1f57efcff956bd22a585c99818c263d3", null ],
+      [ "AFSCM_CB_SHARED", "afs_8h.html#ac4d43b1715e16e501c33504e24c4616ca0336c751a191135ed1990e15627f5700", null ],
+      [ "AFSCM_CB_DROPPED", "afs_8h.html#ac4d43b1715e16e501c33504e24c4616cad3bec1b55cf3d85537577b918be54139", null ]
+    ] ],
+    [ "afs_file_type_t", "afs_8h.html#aedf373477dfeef67771f61054fd3b1c3", [
+      [ "AFS_FTYPE_INVALID", "afs_8h.html#aedf373477dfeef67771f61054fd3b1c3aceece59fe409bdf2d1e2cc06c2fabb72", null ],
+      [ "AFS_FTYPE_FILE", "afs_8h.html#aedf373477dfeef67771f61054fd3b1c3a6643e7e16e679ac4d5ffcce4e0a14c77", null ],
+      [ "AFS_FTYPE_DIR", "afs_8h.html#aedf373477dfeef67771f61054fd3b1c3afa19506deff401036abaab1630fbc8c9", null ],
+      [ "AFS_FTYPE_SYMLINK", "afs_8h.html#aedf373477dfeef67771f61054fd3b1c3a9601cb5252b2b3f63b1a9b9731a26e51", null ]
+    ] ],
+    [ "afs_lock_type_t", "afs_8h.html#a38e93ddc172f1f186bd8047fe754c10e", [
+      [ "AFS_LOCK_READ", "afs_8h.html#a38e93ddc172f1f186bd8047fe754c10ea4a008394db9a0fb6b474d94d57b58eb5", null ],
+      [ "AFS_LOCK_WRITE", "afs_8h.html#a38e93ddc172f1f186bd8047fe754c10ea004d98e9d524f50807fa3532cdb5d0df", null ]
+    ] ]
+];

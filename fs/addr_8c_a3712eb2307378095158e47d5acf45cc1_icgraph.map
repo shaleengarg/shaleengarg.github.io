@@ -1,0 +1,4 @@
+<map id="ceph_update_writeable_page" name="ceph_update_writeable_page">
+<area shape="rect" id="node2" href="$addr_8c.html#a0eaf4bcdb46491382485ea5ae7aa5be1" title="ceph_write_begin" alt="" coords="252,5,375,32"/>
+<area shape="rect" id="node3" href="$addr_8c.html#a6c044271600cc580bff68ac3b8bd9510" title="ceph_page_mkwrite" alt="" coords="244,56,383,83"/>
+</map>

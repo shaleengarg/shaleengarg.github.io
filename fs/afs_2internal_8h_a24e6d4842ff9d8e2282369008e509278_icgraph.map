@@ -1,0 +1,9 @@
+<map id="afs_fs_store_data" name="afs_fs_store_data">
+<area shape="rect" id="node2" href="$afs_2write_8c.html#a9816ea2812b33b7ad9472a89d23e5249" title="afs_store_data" alt="" coords="180,77,288,104"/>
+<area shape="rect" id="node3" href="$afs_2write_8c.html#aaa4470df2f42dc16be6b560a28e9bd88" title="afs_write_back_from\l_locked_page" alt="" coords="336,41,479,82"/>
+<area shape="rect" id="node8" href="$afs_2write_8c.html#a14e63c90f5dde4906828c6cd732780b5" title="afs_launder_page" alt="" coords="541,107,665,133"/>
+<area shape="rect" id="node4" href="$afs_2write_8c.html#a0d6ad08cc99ee7154c2ae33e05da373d" title="afs_writepage" alt="" coords="731,5,833,32"/>
+<area shape="rect" id="node6" href="$afs_2write_8c.html#aa179733048d3b13dd915cab2e043c74d" title="afs_writepages_region" alt="" coords="527,56,679,83"/>
+<area shape="rect" id="node5" href="$afs_2internal_8h.html#aa17ecdfdc40e832aab227209a9f0119a" title="__afs_get_volume" alt="" coords="885,56,1013,83"/>
+<area shape="rect" id="node7" href="$afs_2write_8c.html#a5436b5fc554bd128168f1dfaec0754b1" title="afs_writepages" alt="" coords="727,56,837,83"/>
+</map>

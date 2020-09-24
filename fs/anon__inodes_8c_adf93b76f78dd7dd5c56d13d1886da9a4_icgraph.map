@@ -1,0 +1,20 @@
+<map id="anon_inode_getfile" name="anon_inode_getfile">
+<area shape="rect" id="node2" href="$anon__inodes_8c.html#a1bc47c4f2979d49e1aa6c0f84644dbf1" title="anon_inode_getfd" alt="" coords="184,208,308,235"/>
+<area shape="rect" id="node18" href="$eventpoll_8c.html#ae11b1f5b5be837852cf7a79089ca3453" title="do_epoll_create" alt="" coords="189,309,303,336"/>
+<area shape="rect" id="node3" href="$eventfd_8c.html#a8e56875cf51bd5ab96810fb92295430c" title="do_eventfd" alt="" coords="388,56,475,83"/>
+<area shape="rect" id="node6" href="$fanotify__user_8c.html#a2db9d9a71af080619cb6a3c7f0bc2278" title="SYSCALL_DEFINE2" alt="" coords="358,107,505,133"/>
+<area shape="rect" id="node7" href="$inotify__user_8c.html#abdfb40ae17619995270fd3693034b29e" title="do_inotify_init" alt="" coords="380,157,483,184"/>
+<area shape="rect" id="node10" href="$signalfd_8c.html#a64e324a75ee1806b275ccdca00dfe89d" title="do_signalfd4" alt="" coords="384,208,479,235"/>
+<area shape="rect" id="node13" href="$userfaultfd_8c.html#a1893e69128d6c0c4872e413d18970eeb" title="resolve_userfault_fork" alt="" coords="356,259,507,285"/>
+<area shape="rect" id="node17" href="$userfaultfd_8c.html#a506a915daf50a5b95cafdc48b2d4f1e0" title="SYSCALL_DEFINE1" alt="" coords="358,309,505,336"/>
+<area shape="rect" id="node4" href="$eventfd_8c.html#a6bf3ef42c3cd74727aa9b8b3c04824ce" title="SYSCALL_DEFINE2" alt="" coords="555,5,701,32"/>
+<area shape="rect" id="node5" href="$eventfd_8c.html#aec2200638bb420250bf80228b3c038d0" title="SYSCALL_DEFINE1" alt="" coords="555,56,701,83"/>
+<area shape="rect" id="node8" href="$inotify__user_8c.html#a39839e33c7872b713a2e5e08776401a2" title="SYSCALL_DEFINE1" alt="" coords="555,107,701,133"/>
+<area shape="rect" id="node9" href="$inotify__user_8c.html#a6bb66b1348985ca75bbbbbb61a567521" title="SYSCALL_DEFINE0" alt="" coords="555,157,701,184"/>
+<area shape="rect" id="node11" href="$signalfd_8c.html#a9a2a9cb2cbca5c8f05a7f23391f47474" title="SYSCALL_DEFINE4" alt="" coords="555,208,701,235"/>
+<area shape="rect" id="node12" href="$signalfd_8c.html#a8ba7f54246b6abb63190cc6cb3e9827f" title="SYSCALL_DEFINE3" alt="" coords="555,259,701,285"/>
+<area shape="rect" id="node14" href="$userfaultfd_8c.html#a93163998cdc0d2e85518391fc7fd56a9" title="userfaultfd_ctx_read" alt="" coords="558,309,698,336"/>
+<area shape="rect" id="node15" href="$userfaultfd_8c.html#a9aea150380b8eaa3186058be040a370a" title="userfaultfd_read" alt="" coords="749,309,864,336"/>
+<area shape="rect" id="node16" href="$userfaultfd_8c.html#a5f6bd2d87ee717b7f3853b334775cfa6" title="userfaultfd_ioctl" alt="" coords="912,309,1027,336"/>
+<area shape="rect" id="node19" href="$eventpoll_8c.html#a35cfc10a2ff1ef1f15406c59e7cfba06" title="SYSCALL_DEFINE1" alt="" coords="358,360,505,387"/>
+</map>

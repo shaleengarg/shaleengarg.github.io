@@ -1,0 +1,9 @@
+<map id="hfsplus_find_attr" name="hfsplus_find_attr">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="741,29,851,56"/>
+<area shape="rect" id="node3" href="$attributes_8c.html#ae9f730beb417c4907c7ec8bbd2cc27da" title="hfsplus_attr_build_key" alt="" coords="181,41,333,68"/>
+<area shape="rect" id="node7" href="$lus_2bfind_8c.html#abd29e75a990354883bc8e9e55fcdcacf" title="hfs_find_rec_by_key" alt="" coords="186,92,329,119"/>
+<area shape="rect" id="node8" href="$lus_2bfind_8c.html#af94205166bb3955297a3fe1ac715c6ad" title="hfs_find_1st_rec_by_cnid" alt="" coords="172,143,343,169"/>
+<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#a28ada23aec6185bcc5a268c8831523f6" title="hfsplus_asc2uni" alt="" coords="391,55,507,81"/>
+<area shape="rect" id="node5" href="$hfsplus_2unicode_8c.html#a74e1c9c59b7a9abee291e2533c6a0fa5" title="asc2unichar" alt="" coords="578,80,670,107"/>
+<area shape="rect" id="node6" href="$hfsplus_2unicode_8c.html#af3eba2448cb5baf76cab915a78c4fed5" title="decompose_unichar" alt="" coords="555,131,693,157"/>
+</map>

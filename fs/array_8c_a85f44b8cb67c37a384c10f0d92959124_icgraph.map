@@ -1,0 +1,7 @@
+<map id="collect_sigign_sigcatch" name="collect_sigign_sigcatch">
+<area shape="rect" id="node2" href="$array_8c.html#ae588cb08789dea1e3c6d08b2421baef5" title="task_sig" alt="" coords="224,5,295,32"/>
+<area shape="rect" id="node4" href="$array_8c.html#a94120bfcd04df1431ef2bd0509f4844b" title="do_task_stat" alt="" coords="211,56,308,83"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#aa8a30438e03391929f1796a26b49e0e2" title="proc_pid_status" alt="" coords="356,5,471,32"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#abf6fbb3a82a73657b589b75d00dabaeb" title="proc_tid_stat" alt="" coords="365,56,462,83"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#abbcc25d9c98875fffe5d89583e6a1377" title="proc_tgid_stat" alt="" coords="361,107,465,133"/>
+</map>
