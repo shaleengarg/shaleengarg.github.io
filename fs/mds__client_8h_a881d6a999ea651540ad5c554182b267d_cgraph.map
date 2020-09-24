@@ -1,0 +1,7 @@
+<map id="ceph_invalidate_dir_request" name="ceph_invalidate_dir_request">
+<area shape="rect" id="node2" href="$ceph_2super_8h.html#aeb480f431f9be0ace231cae7f549f458" title="ceph_dir_clear_complete" alt="" coords="187,52,353,79"/>
+<area shape="rect" id="node5" href="$ceph_2dir_8c.html#a171ad59b0cee15811a1f3658f987e049" title="ceph_invalidate_dentry\l_lease" alt="" coords="193,103,347,145"/>
+<area shape="rect" id="node3" href="$ceph_2super_8h.html#a70e8735349909cd6a19f2c09888c42f9" title="__ceph_dir_clear_complete" alt="" coords="401,5,581,32"/>
+<area shape="rect" id="node4" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="447,56,535,83"/>
+<area shape="rect" id="node6" href="$ceph_2super_8h.html#a6ddd70137143052b74727ba4c2a0c35c" title="ceph_dentry" alt="" coords="445,111,538,137"/>
+</map>

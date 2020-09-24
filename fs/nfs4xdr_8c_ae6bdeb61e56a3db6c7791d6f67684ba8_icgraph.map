@@ -1,0 +1,5 @@
+<map id="encode_renew" name="encode_renew">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a5b83f99d5e514a944bf8ad3e60838ce3" title="nfs4_xdr_enc_renew" alt="" coords="178,5,321,32"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#aefed7eaabb645ee7971a77cefeb32a27" title="nfs4_xdr_enc_fs_locations" alt="" coords="161,56,338,83"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#afbf626829fb0a9e74e385e5330691bc1" title="nfs4_xdr_enc_fsid_present" alt="" coords="160,107,339,133"/>
+</map>

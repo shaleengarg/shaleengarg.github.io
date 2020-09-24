@@ -1,0 +1,5 @@
+<map id="jffs2_free_ino_caches" name="jffs2_free_ino_caches">
+<area shape="rect" id="node2" href="$jffs2_2xattr_8c.html#a04079b571b84dc4625ba63b54b6a4daf" title="jffs2_xattr_free_inode" alt="" coords="207,5,354,32"/>
+<area shape="rect" id="node4" href="$malloc_8c.html#a3051762b89b1a402dc582639f7b6fd67" title="jffs2_free_inode_cache" alt="" coords="203,56,359,83"/>
+<area shape="rect" id="node3" href="$jffs2_2xattr_8c.html#a0e0610c97d4b7da6b4fc6a08df1a2b70" title="unload_xattr_datum" alt="" coords="407,5,543,32"/>
+</map>

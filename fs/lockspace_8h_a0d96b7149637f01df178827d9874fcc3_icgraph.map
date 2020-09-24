@@ -1,0 +1,6 @@
+<map id="dlm_find_lockspace_device" name="dlm_find_lockspace_device">
+<area shape="rect" id="node2" href="$user_8c.html#a52bbc2eb34eefac21ddaba8178f1271a" title="device_remove_lockspace" alt="" coords="191,5,367,32"/>
+<area shape="rect" id="node5" href="$user_8c.html#ae551618a4770b820ca8e41cc4b1cfa48" title="device_open" alt="" coords="415,56,509,83"/>
+<area shape="rect" id="node3" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="415,5,509,32"/>
+<area shape="rect" id="node4" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="557,31,705,57"/>
+</map>

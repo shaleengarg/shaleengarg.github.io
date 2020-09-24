@@ -1,0 +1,11 @@
+<map id="nilfs_btree_node_move_left" name="nilfs_btree_node_move_left">
+<area shape="rect" id="node2" href="$nilfs2_2btree_8c.html#a2f2464e9763b55cb611126f613adaf3d" title="nilfs_btree_carry_left" alt="" coords="240,13,383,39"/>
+<area shape="rect" id="node5" href="$nilfs2_2btree_8c.html#a0ac5feb241d6a3b1c178f409908f5497" title="nilfs_btree_borrow\l_right" alt="" coords="247,64,375,105"/>
+<area shape="rect" id="node8" href="$nilfs2_2btree_8c.html#a3de8c6d593b3851a03f8cb9b52245bb4" title="nilfs_btree_concat_left" alt="" coords="235,130,388,157"/>
+<area shape="rect" id="node9" href="$nilfs2_2btree_8c.html#ac4156938f93f2e44e1076ca3810c3a25" title="nilfs_btree_concat\l_right" alt="" coords="247,181,375,223"/>
+<area shape="rect" id="node10" href="$nilfs2_2btree_8c.html#ae3063dc8eb150a857d545e8d9076ef4f" title="nilfs_btree_shrink" alt="" coords="249,247,373,274"/>
+<area shape="rect" id="node3" href="$nilfs2_2btree_8c.html#a71d1a6d2874fdc13d428d7da5d7d84bb" title="nilfs_btree_prepare\l_insert" alt="" coords="436,5,568,47"/>
+<area shape="rect" id="node4" href="$nilfs2_2btree_8c.html#afd2f07407c4ad2572eea768400f11f10" title="nilfs_btree_insert" alt="" coords="617,13,739,39"/>
+<area shape="rect" id="node6" href="$nilfs2_2btree_8c.html#a2498f62cd2915f3f4516a673b3d5336f" title="nilfs_btree_prepare\l_delete" alt="" coords="436,152,568,193"/>
+<area shape="rect" id="node7" href="$nilfs2_2btree_8c.html#a630b85be84e4873d685e98e3f9a78f1f" title="nilfs_btree_delete" alt="" coords="616,159,740,186"/>
+</map>

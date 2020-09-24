@@ -1,0 +1,5 @@
+<map id="nfs_need_revalidate_inode" name="nfs_need_revalidate_inode">
+<area shape="rect" id="node2" href="$nfs_2inode_8c.html#ad0d870c4314e6337f2febbb4e7f06dec" title="nfs_attribute_cache\l_expired" alt="" coords="192,35,328,76"/>
+<area shape="rect" id="node3" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="379,5,517,47"/>
+<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a278a8e4690e5fdf814f16cd97c20140a" title="nfs_attribute_timeout" alt="" coords="376,71,520,98"/>
+</map>

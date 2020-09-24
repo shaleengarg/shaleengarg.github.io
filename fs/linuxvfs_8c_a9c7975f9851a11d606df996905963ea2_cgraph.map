@@ -1,0 +1,15 @@
+<map id="befs_get_block" name="befs_get_block">
+<area shape="rect" id="node2" href="$befs_8h.html#ada4b0769206d0ffe42afd4e4eb225c55" title="BEFS_I" alt="" coords="191,15,259,42"/>
+<area shape="rect" id="node3" href="$befs_2debug_8c.html#a9adcbde37088a09e232dcb26c882f06d" title="befs_debug" alt="" coords="586,218,675,245"/>
+<area shape="rect" id="node4" href="$befs_2debug_8c.html#a9baf4105a9869a847e645272ae9fdc1a" title="befs_error" alt="" coords="591,421,671,447"/>
+<area shape="rect" id="node5" href="$datastream_8c.html#a1a354db4059164f1ec7b7ddd148db0f2" title="befs_fblock2brun" alt="" coords="164,269,285,295"/>
+<area shape="rect" id="node9" href="$befs_8h.html#a2b4a80c2e280b28d9099caca37f79de7" title="iaddr2blockno" alt="" coords="579,66,682,93"/>
+<area shape="rect" id="node6" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="755,142,837,169"/>
+<area shape="rect" id="node7" href="$datastream_8c.html#ab796b76732de65e1dcafe630ecca9405" title="befs_find_brun_direct" alt="" coords="347,319,493,346"/>
+<area shape="rect" id="node8" href="$datastream_8c.html#a1bba970d8e7dd06f44e20d3ef0bb0b9a" title="befs_find_brun_indirect" alt="" coords="342,269,498,295"/>
+<area shape="rect" id="node13" href="$datastream_8c.html#a9c06b962a566f378fbfba7a39d62bf1d" title="befs_find_brun_dblindirect" alt="" coords="333,167,507,194"/>
+<area shape="rect" id="node10" href="$befs_8h.html#a81095eb49590878250efcedb878b9de8" title="befs_iaddrs_per_block" alt="" coords="555,167,707,194"/>
+<area shape="rect" id="node11" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="584,370,677,397"/>
+<area shape="rect" id="node12" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="584,269,677,295"/>
+<area shape="rect" id="node14" href="$befs_2endian_8h.html#a13e7cd2d34be798771b754b84053c63d" title="fsrun_to_cpu" alt="" coords="582,117,679,143"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ext4_mb_use_preallocated" name="ext4_mb_use_preallocated">
+<area shape="rect" id="node2" href="$mballoc_8c.html#a11cbe11118fa4acb14ff30819f505a07" title="ext4_mb_use_inode_pa" alt="" coords="239,5,397,32"/>
+<area shape="rect" id="node4" href="$mballoc_8h.html#a5dcbc664637c42cf18f65506f728e0c8" title="ext4_grp_offs_to_block" alt="" coords="239,56,397,83"/>
+<area shape="rect" id="node5" href="$mballoc_8c.html#ab8b63455561f9b64b3b8eeb7f13940ce" title="ext4_mb_check_group_pa" alt="" coords="231,107,405,133"/>
+<area shape="rect" id="node6" href="$mballoc_8c.html#a2df8edecb0759b95fdf5d60c19942c46" title="ext4_mb_use_group_pa" alt="" coords="238,157,398,184"/>
+<area shape="rect" id="node3" href="$ext4_2balloc_8c.html#a76c7f04d0e6fdcb93af845697cb3302d" title="ext4_get_group_no_and\l_offset" alt="" coords="453,74,613,115"/>
+</map>

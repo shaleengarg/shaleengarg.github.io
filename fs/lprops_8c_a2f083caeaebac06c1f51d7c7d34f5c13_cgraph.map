@@ -1,0 +1,33 @@
+<map id="change_category" name="change_category">
+<area shape="rect" id="node2" href="$lprops_8c.html#a7a2c9edc0537908ba98fe9a7ab5659d8" title="ubifs_categorize_lprops" alt="" coords="1457,657,1616,683"/>
+<area shape="rect" id="node3" href="$lprops_8c.html#a1b58cb9915dbbdf9ac60e7a1369d05ab" title="adjust_lpt_heap" alt="" coords="587,150,701,177"/>
+<area shape="rect" id="node5" href="$lprops_8c.html#a88d9d4b260ebb86abbc16675b951f2c1" title="ubifs_remove_from_cat" alt="" coords="175,226,333,253"/>
+<area shape="rect" id="node29" href="$lprops_8c.html#a664f531f8332b3c53d93e25c4e688e09" title="ubifs_add_to_cat" alt="" coords="1278,302,1399,329"/>
+<area shape="rect" id="node4" href="$lprops_8c.html#ad0f7bf66835597d0e8e171b0c91b57be" title="get_heap_comp_val" alt="" coords="1843,99,1981,126"/>
+<area shape="rect" id="node6" href="$lprops_8c.html#a94e67294df31694767c10db81d4fbd47" title="remove_from_lpt_heap" alt="" coords="381,201,536,227"/>
+<area shape="rect" id="node7" href="$lprops_8c.html#a715a0be6e5e1b99a7bf830fca61a84e2" title="dbg_check_heap" alt="" coords="584,201,704,227"/>
+<area shape="rect" id="node8" href="$ubifs_2debug_8h.html#ad9c4d68015fb8802b1553a53880d43cc" title="dbg_is_chk_gen" alt="" coords="759,49,875,75"/>
+<area shape="rect" id="node9" href="$ubifs_2debug_8h.html#ab66d4ac998d5cd15774f5a22d366e1f1" title="dbg_is_chk_lprops" alt="" coords="752,99,883,126"/>
+<area shape="rect" id="node10" href="$lpt_8c.html#af1c4868152bb6ea9ae7c87e7dad9cede" title="ubifs_lpt_lookup" alt="" coords="759,555,875,582"/>
+<area shape="rect" id="node14" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="1693,733,1765,759"/>
+<area shape="rect" id="node32" href="$ubifs_2debug_8c.html#a5600b63b8362df17ed46c4e20784fb6c" title="ubifs_dump_heap" alt="" coords="755,201,879,227"/>
+<area shape="rect" id="node11" href="$lpt_8c.html#a6d9ea5f42b955fdb68064bc37bd9540d" title="ubifs_read_nnode" alt="" coords="1096,758,1220,785"/>
+<area shape="rect" id="node20" href="$lpt_8c.html#a7fd536e4a29b47a6485fc3931f91857b" title="ubifs_get_nnode" alt="" coords="931,758,1048,785"/>
+<area shape="rect" id="node21" href="$lpt_8c.html#ad8f891756dae6c6dceeb51fb917b023b" title="ubifs_get_pnode" alt="" coords="931,530,1048,557"/>
+<area shape="rect" id="node12" href="$lpt_8c.html#a9f9e5388fe8c2966b4517e0b243b9ce6" title="calc_nnode_num_from\l_parent" alt="" coords="1460,1012,1613,1053"/>
+<area shape="rect" id="node13" href="$ubifs_2io_8c.html#ab6a2a3c4a79d6d4c52350540437d3cb3" title="ubifs_leb_read" alt="" coords="1285,707,1392,734"/>
+<area shape="rect" id="node15" href="$lpt_8c.html#a0d29b2eba67308c09e6c7e05ad2b63b1" title="ubifs_unpack_nnode" alt="" coords="1268,859,1409,886"/>
+<area shape="rect" id="node19" href="$lpt_8c.html#ad905cc71245ecfb3152a844c581d3e12" title="validate_nnode" alt="" coords="1284,1005,1393,1031"/>
+<area shape="rect" id="node16" href="$lpt_8c.html#a96436eaf7459ebef6525d09761a38d2c" title="check_lpt_type" alt="" coords="1481,809,1592,835"/>
+<area shape="rect" id="node17" href="$lpt_8c.html#af769280c22d887914ee95e9c2e4cc7de" title="ubifs_unpack_bits" alt="" coords="1666,885,1793,911"/>
+<area shape="rect" id="node18" href="$lpt_8c.html#ac0dcb63535a53346f5364a21cd948dec" title="check_lpt_crc" alt="" coords="1485,859,1588,886"/>
+<area shape="rect" id="node22" href="$lpt_8c.html#a1e838b76fdfdb8c75cbd35ed51bad53c" title="read_pnode" alt="" coords="1113,530,1203,557"/>
+<area shape="rect" id="node28" href="$lpt_8c.html#a50862af12cdded0c2e3be8cea516be8e" title="update_cats" alt="" coords="1111,429,1205,455"/>
+<area shape="rect" id="node23" href="$lpt_8c.html#afaa9919aea45f990f706d5a19a7de403" title="calc_pnode_num_from\l_parent" alt="" coords="1460,417,1613,459"/>
+<area shape="rect" id="node24" href="$lpt_8c.html#a7d13c8b402e5a787d5f689a01f01725d" title="unpack_pnode" alt="" coords="1285,809,1392,835"/>
+<area shape="rect" id="node25" href="$lpt_8c.html#aa9b770e270a9dd0d3fa430bcca3eb9b1" title="validate_pnode" alt="" coords="1284,505,1393,531"/>
+<area shape="rect" id="node26" href="$lpt_8c.html#a60013b08dd0072dd2a70f499427a67d0" title="set_pnode_lnum" alt="" coords="1280,454,1397,481"/>
+<area shape="rect" id="node27" href="$ubifs_2debug_8c.html#ab2224f946272a25cfacf2607c6502818" title="ubifs_dump_pnode" alt="" coords="1273,403,1404,430"/>
+<area shape="rect" id="node30" href="$lprops_8c.html#afab6b8531eed73f29803f3f00ecb646e" title="add_to_lpt_heap" alt="" coords="1478,150,1595,177"/>
+<area shape="rect" id="node31" href="$lprops_8c.html#aa85b7d6ee17c895f4a592398484654bb" title="move_up_lpt_heap" alt="" coords="1664,150,1795,177"/>
+</map>

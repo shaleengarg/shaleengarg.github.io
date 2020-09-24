@@ -1,0 +1,9 @@
+<map id="o2nm_cluster_group_drop_item" name="o2nm_cluster_group_drop_item">
+<area shape="rect" id="node2" href="$nodemanager_8c.html#a6bb25185734998a9302cd84b228fcc7a" title="to_o2nm_cluster" alt="" coords="215,5,333,32"/>
+<area shape="rect" id="node3" href="$configfs_2dir_8c.html#aa6d702a539f67e7863ca66d2583b2a35" title="configfs_remove_default\l_groups" alt="" coords="192,107,356,149"/>
+<area shape="rect" id="node4" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="416,60,531,87"/>
+<area shape="rect" id="node8" href="$configfs_2dir_8c.html#a2d43ef87b4908365f3d98c5680ed65fb" title="EXPORT_SYMBOL" alt="" coords="404,115,543,141"/>
+<area shape="rect" id="node5" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="591,9,729,36"/>
+<area shape="rect" id="node7" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="591,60,729,87"/>
+<area shape="rect" id="node6" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="777,60,919,87"/>
+</map>

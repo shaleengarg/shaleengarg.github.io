@@ -1,0 +1,9 @@
+<map id="minix_add_link" name="minix_add_link">
+<area shape="rect" id="node2" href="$minix_2namei_8c.html#ab4d1ee6c9ffcf9052cc550bbbdabebbc" title="add_nondir" alt="" coords="170,56,255,83"/>
+<area shape="rect" id="node7" href="$minix_2namei_8c.html#ad99d2a4c8058fafaecb0e3db6861e45e" title="minix_mkdir" alt="" coords="167,107,259,133"/>
+<area shape="rect" id="node8" href="$minix_2namei_8c.html#aca794ccd60526dd7458a11c3078c947b" title="minix_rename" alt="" coords="161,157,264,184"/>
+<area shape="rect" id="node3" href="$minix_2namei_8c.html#a29fdc0cbe156794dde13dcd971ea3601" title="minix_mknod" alt="" coords="315,5,414,32"/>
+<area shape="rect" id="node5" href="$minix_2namei_8c.html#ae368e220e70a32d2c1a2342ef9302058" title="minix_symlink" alt="" coords="312,56,417,83"/>
+<area shape="rect" id="node6" href="$minix_2namei_8c.html#adf5b7f94bfcd26561d7ff794640d3cfe" title="minix_link" alt="" coords="325,107,405,133"/>
+<area shape="rect" id="node4" href="$minix_2namei_8c.html#a4bcb6a1dc8b541ab7b5b1723d603ccd1" title="minix_create" alt="" coords="465,5,561,32"/>
+</map>

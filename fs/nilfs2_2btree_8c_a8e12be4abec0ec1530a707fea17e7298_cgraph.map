@@ -1,0 +1,9 @@
+<map id="nilfs_btree_init" name="nilfs_btree_init">
+<area shape="rect" id="node2" href="$nilfs2_2btree_8c.html#a60fb1455ef3bef9737a4de47cbc2641a" title="__nilfs_btree_init" alt="" coords="179,24,299,51"/>
+<area shape="rect" id="node4" href="$nilfs2_2btree_8c.html#a89d82007326260ecfcb26412f299297a" title="nilfs_btree_root_broken" alt="" coords="160,111,317,137"/>
+<area shape="rect" id="node8" href="$nilfs2_2btree_8c.html#a17a122f397fd12734d718b7264231e4d" title="nilfs_btree_get_root" alt="" coords="171,161,307,188"/>
+<area shape="rect" id="node3" href="$nilfs2_2btree_8c.html#a6b425e1129c6131fb5f0d7018d2c6bb4" title="nilfs_btree_node_size" alt="" coords="365,5,513,32"/>
+<area shape="rect" id="node5" href="$nilfs2_2btree_8c.html#a427bb91c91c14dc89a2bfdcbadace0c9" title="nilfs_btree_node_get\l_level" alt="" coords="368,57,511,98"/>
+<area shape="rect" id="node6" href="$nilfs2_2btree_8c.html#acd55e7ca4162de408cc1094902494abd" title="nilfs_btree_node_get\l_flags" alt="" coords="368,122,511,163"/>
+<area shape="rect" id="node7" href="$nilfs2_2btree_8c.html#a55d2c414d2839e3ab8aa38e93df992e8" title="nilfs_btree_node_get\l_nchildren" alt="" coords="368,187,511,229"/>
+</map>

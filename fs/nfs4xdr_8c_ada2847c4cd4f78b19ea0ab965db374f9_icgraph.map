@@ -1,0 +1,5 @@
+<map id="decode_renew" name="decode_renew">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a81400d2cb4d0e3661786155e7e2c05bc" title="nfs4_xdr_dec_renew" alt="" coords="178,5,321,32"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ae49cbd973d2ebc2c53bf838e2467149c" title="nfs4_xdr_dec_fs_locations" alt="" coords="161,56,338,83"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aa739013b24939a07ab7c3bf13321daea" title="nfs4_xdr_dec_fsid_present" alt="" coords="160,107,339,133"/>
+</map>

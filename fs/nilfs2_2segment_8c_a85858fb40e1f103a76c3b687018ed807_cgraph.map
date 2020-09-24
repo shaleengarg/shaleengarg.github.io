@@ -1,0 +1,11 @@
+<map id="nilfs_segctor_add_super_root" name="nilfs_segctor_add_super_root">
+<area shape="rect" id="node2" href="$nilfs2_2segment_8c.html#a9807a7126231dfa8ee7d7f91ba3fc7e1" title="nilfs_segctor_feed\l_segment" alt="" coords="251,26,379,67"/>
+<area shape="rect" id="node9" href="$segbuf_8c.html#a2c98ed4ccb2e713f1fc449ff36ac9b9f" title="nilfs_segbuf_extend\l_payload" alt="" coords="245,91,384,133"/>
+<area shape="rect" id="node3" href="$nilfs2_2segment_8c.html#a39bd4ec246077eb3f8a8974c17457006" title="nilfs_segctor_reset\l_segment_buffer" alt="" coords="452,26,584,67"/>
+<area shape="rect" id="node4" href="$nilfs_8h.html#aa2547b587fff139262e053241c6d5165" title="nilfs_doing_gc" alt="" coords="663,8,769,35"/>
+<area shape="rect" id="node6" href="$segbuf_8c.html#a5ee5009cc612b5a410f25e9c32460da1" title="nilfs_segbuf_reset" alt="" coords="652,60,780,87"/>
+<area shape="rect" id="node5" href="$nilfs_8h.html#a0e51be0290a47aca596f1257148b18d1" title="nilfs_test_transaction_flag" alt="" coords="828,5,1003,32"/>
+<area shape="rect" id="node7" href="$segbuf_8c.html#af529ffec555c692ff70870d893d799f0" title="nilfs_segbuf_extend\l_segsum" alt="" coords="846,57,985,98"/>
+<area shape="rect" id="node8" href="$segbuf_8h.html#aae7eabeb766f1247fd2c136a0207ca2c" title="nilfs_segbuf_add_segsum\l_buffer" alt="" coords="1051,57,1224,98"/>
+<area shape="rect" id="node10" href="$segbuf_8h.html#a32be375a039ed730165de935b4a90eab" title="nilfs_segbuf_add_payload\l_buffer" alt="" coords="432,91,604,133"/>
+</map>

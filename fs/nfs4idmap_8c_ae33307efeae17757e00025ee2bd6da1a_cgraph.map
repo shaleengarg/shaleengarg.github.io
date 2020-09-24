@@ -1,0 +1,6 @@
+<map id="nfs_idmap_legacy_upcall" name="nfs_idmap_legacy_upcall">
+<area shape="rect" id="node2" href="$nfs4idmap_8c.html#a67d6518c1a78b4809ce38134e6e7d973" title="nfs_idmap_prepare_message" alt="" coords="221,5,413,32"/>
+<area shape="rect" id="node3" href="$nfs4idmap_8c.html#a30f1068e879bba10e20791b0e3007cb5" title="nfs_idmap_prepare_pipe\l_upcall" alt="" coords="236,57,399,98"/>
+<area shape="rect" id="node4" href="$nfs4idmap_8c.html#a9bb53eb09d31fc79089ab5036cbae2ac" title="nfs_idmap_abort_pipe\l_upcall" alt="" coords="243,122,392,163"/>
+<area shape="rect" id="node5" href="$nfs4idmap_8c.html#a47e5894f75ce96ae9cf3702fb64958e6" title="nfs_idmap_complete\l_pipe_upcall_locked" alt="" coords="461,122,604,163"/>
+</map>

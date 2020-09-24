@@ -1,0 +1,7 @@
+<map id="dirty_cow_pnode" name="dirty_cow_pnode">
+<area shape="rect" id="node2" href="$lpt_8c.html#a0e19e0a4226ca2a2502accf8a120c9fd" title="add_pnode_dirt" alt="" coords="173,5,284,32"/>
+<area shape="rect" id="node4" href="$lpt_8c.html#a1c3d339c703cc7819cf15ac8fbd2c911" title="replace_cats" alt="" coords="181,56,277,83"/>
+<area shape="rect" id="node3" href="$lpt_8c.html#ae5e7ec1ecf58650a45f5ffb5d4029d10" title="ubifs_add_lpt_dirt" alt="" coords="332,5,456,32"/>
+<area shape="rect" id="node5" href="$lprops_8c.html#a4a2c2b7e688877c1df8d8f4d49e1728a" title="ubifs_replace_cat" alt="" coords="332,56,456,83"/>
+<area shape="rect" id="node6" href="$lprops_8c.html#a0b65160e0da643b5257b811348f16321" title="lpt_heap_replace" alt="" coords="504,56,624,83"/>
+</map>

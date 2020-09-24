@@ -1,0 +1,5 @@
+<map id="nfsd_return_dirop" name="nfsd_return_dirop">
+<area shape="rect" id="node2" href="$nfsproc_8c.html#a668e9ea6781b082c754376aa1cc74d49" title="nfsd_proc_lookup" alt="" coords="176,5,300,32"/>
+<area shape="rect" id="node3" href="$nfsproc_8c.html#a5c4fd8d1f6bdbeb9f4baed76fac2b67d" title="nfsd_proc_create" alt="" coords="177,56,299,83"/>
+<area shape="rect" id="node4" href="$nfsproc_8c.html#aa7606490b7984f0b7e0f3daa89f51b43" title="nfsd_proc_mkdir" alt="" coords="179,107,297,133"/>
+</map>

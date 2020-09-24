@@ -1,0 +1,7 @@
+<map id="nilfs_transaction_begin" name="nilfs_transaction_begin">
+<area shape="rect" id="node2" href="$nilfs2_2segment_8c.html#ada0ba1bf162679380f6096c9f83b94ea" title="nilfs_prepare_segment_lock" alt="" coords="208,5,392,32"/>
+<area shape="rect" id="node3" href="$the__nilfs_8c.html#a137faca9117bfef2a2264ccf3a9aa809" title="nilfs_near_disk_full" alt="" coords="233,56,367,83"/>
+<area shape="rect" id="node4" href="$sufile_8c.html#a50c0d7ff8c8bf821d281286007c39cd5" title="nilfs_sufile_get_ncleansegs" alt="" coords="440,56,623,83"/>
+<area shape="rect" id="node5" href="$sufile_8c.html#acbb532a1df92111d05a67092edbfd65b" title="NILFS_SUI" alt="" coords="671,56,761,83"/>
+<area shape="rect" id="node6" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="809,56,905,83"/>
+</map>

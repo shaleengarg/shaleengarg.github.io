@@ -1,0 +1,5 @@
+<map id="nfsd_cache_size_limit" name="nfsd_cache_size_limit">
+<area shape="rect" id="node2" href="$nfscache_8c.html#aa84bae521feab571bd4489750cbb3e28" title="nfsd_reply_cache_init" alt="" coords="204,5,352,32"/>
+<area shape="rect" id="node3" href="$nfsctl_8c.html#aa0941342590aaedb1394dec40ce23c76" title="init_nfsd" alt="" coords="400,5,471,32"/>
+<area shape="rect" id="node4" href="$nfsctl_8c.html#a89e963bef8069b15f9d216deb6d5a52a" title="exit_nfsd" alt="" coords="519,5,593,32"/>
+</map>

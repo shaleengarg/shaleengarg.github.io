@@ -1,0 +1,12 @@
+<map id="nfs_dns_resolve_name" name="nfs_dns_resolve_name">
+<area shape="rect" id="node2" href="$nfs_2dns__resolve_8c.html#a5a44915a9bbeb2acb3f0b6b7f9f8b101" title="do_cache_lookup_wait" alt="" coords="209,122,364,149"/>
+<area shape="rect" id="node3" href="$cache__lib_8c.html#a5ae2204fe458469562201caf0c3952b7" title="nfs_cache_defer_req\l_alloc" alt="" coords="425,5,567,47"/>
+<area shape="rect" id="node6" href="$cache__lib_8c.html#a5829955a97bf6583b98964c541d1d11f" title="nfs_cache_defer_req_put" alt="" coords="1023,45,1191,71"/>
+<area shape="rect" id="node7" href="$nfs_2dns__resolve_8c.html#a6002c9fdeb29a030a5cde208c1c1fbef" title="do_cache_lookup" alt="" coords="435,122,557,149"/>
+<area shape="rect" id="node10" href="$cache__lib_8c.html#a8e85e30d54cbf665b67b64d3911eb6f7" title="nfs_cache_wait_for\l_upcall" alt="" coords="429,173,563,215"/>
+<area shape="rect" id="node11" href="$nfs_2dns__resolve_8c.html#af48be67fe822896f7ab29d9bea989880" title="do_cache_lookup_nowait" alt="" coords="412,239,580,266"/>
+<area shape="rect" id="node4" href="$cache__lib_8c.html#a395cba7cb57861e223b9d3164330bef5" title="nfs_dns_cache_defer" alt="" coords="628,17,775,43"/>
+<area shape="rect" id="node5" href="$cache__lib_8c.html#a92d0251148da2693946ae0f7e68ec6db" title="nfs_dns_cache_revisit" alt="" coords="823,18,975,45"/>
+<area shape="rect" id="node8" href="$nfs_2dns__resolve_8c.html#adbfbca38ab481b069a855099d0a93ef6" title="nfs_dns_lookup" alt="" coords="645,181,758,207"/>
+<area shape="rect" id="node9" href="$nfs_2dns__resolve_8c.html#a38254beab48c49147ca17a22fb6ac843" title="nfs_dns_hash" alt="" coords="847,181,950,207"/>
+</map>

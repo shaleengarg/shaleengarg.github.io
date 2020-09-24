@@ -1,0 +1,10 @@
+<map id="nfs_probe_fsinfo" name="nfs_probe_fsinfo">
+<area shape="rect" id="node2" href="$client_8c.html#a9c88365e80cfad1f3ede0423228a65eb" title="nfs_server_set_fsinfo" alt="" coords="351,20,498,47"/>
+<area shape="rect" id="node5" href="$nfs_2inode_8c.html#a81ed57e217c4563faf406fe27093858b" title="nfs_fattr_init" alt="" coords="377,101,472,128"/>
+<area shape="rect" id="node8" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="339,156,511,183"/>
+<area shape="rect" id="node9" href="$client_8c.html#aa0121f4362587b55241745efebe81222" title="nfs_probe_fsinfo" alt="" coords="172,63,291,89"/>
+<area shape="rect" id="node3" href="$nfs_2internal_8h.html#aad6da791288dfde31f8d87aec0277e9b" title="nfs_block_size" alt="" coords="583,21,692,48"/>
+<area shape="rect" id="node4" href="$nfs_2internal_8h.html#a768fb2215312ac703b0c1cc469a1090a" title="nfs_block_bits" alt="" coords="797,7,903,33"/>
+<area shape="rect" id="node6" href="$nfs_2inode_8c.html#ad80c28b99f558acae79f418e445df851" title="nfs_inc_attr_generation\l_counter" alt="" coords="559,123,716,165"/>
+<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="764,87,936,113"/>
+</map>

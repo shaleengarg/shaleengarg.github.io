@@ -1,0 +1,5 @@
+<map id="nilfs_palloc_bitmap_blkoff" name="nilfs_palloc_bitmap_blkoff">
+<area shape="rect" id="node2" href="$nilfs2_2alloc_8c.html#a311c71ab31da7903a8a0ec492e1b8c66" title="nilfs_palloc_groups\l_per_desc_block" alt="" coords="396,5,529,47"/>
+<area shape="rect" id="node3" href="$nilfs2_2alloc_8c.html#a9e6fc04ad7375ca78f8b38b69bc2131b" title="nilfs_palloc_desc_blkoff" alt="" coords="187,53,348,79"/>
+<area shape="rect" id="node4" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="415,82,511,109"/>
+</map>

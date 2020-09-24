@@ -1,0 +1,7 @@
+<map id="jffs2_scan_classify_jeb" name="jffs2_scan_classify_jeb">
+<area shape="rect" id="node2" href="$nodelist_8h.html#a2235e2eece61b1bd0e54ee9cf914825e" title="ref_next" alt="" coords="259,5,328,32"/>
+<area shape="rect" id="node3" href="$nodelist_8c.html#a39255988c1c9b27221805f715c1acc2e" title="jffs2_scan_dirty_space" alt="" coords="215,56,371,83"/>
+<area shape="rect" id="node4" href="$nodelist_8c.html#ae2d47d02616e1d68fcc8aee61cd466b1" title="jffs2_link_node_ref" alt="" coords="433,81,563,108"/>
+<area shape="rect" id="node5" href="$jffs2_2xattr_8c.html#ad86d1aaa0d05d4c1eabc384f7de72c39" title="jffs2_setup_xattr_datum" alt="" coords="212,157,375,184"/>
+<area shape="rect" id="node6" href="$jffs2_2xattr_8c.html#a23baf8bee8dcb4bb3af0dd3d138cf095" title="jffs2_find_xattr_datum" alt="" coords="423,157,573,184"/>
+</map>

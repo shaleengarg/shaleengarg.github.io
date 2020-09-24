@@ -1,0 +1,16 @@
+<map id="jffs2_scan_dirty_space" name="jffs2_scan_dirty_space">
+<area shape="rect" id="node2" href="$jffs2_2scan_8c.html#af8f5235fab4f426b8975daf936c613d2" title="file_dirty" alt="" coords="709,23,780,50"/>
+<area shape="rect" id="node3" href="$jffs2_2scan_8c.html#a90e32d21fe1b8891d0c91c6f421ef1dd" title="jffs2_scan_medium" alt="" coords="1080,74,1215,101"/>
+<area shape="rect" id="node9" href="$jffs2_2scan_8c.html#ac036163a78eba408585e708afda8d399" title="jffs2_scan_classify_jeb" alt="" coords="432,277,591,303"/>
+<area shape="rect" id="node10" href="$jffs2_2scan_8c.html#a7bbf7f32dbe6195cf4cb26274c11f7fb" title="jffs2_scan_eraseblock" alt="" coords="880,302,1032,329"/>
+<area shape="rect" id="node11" href="$summary_8c.html#ade59d52e11dfd5c77d985ec1f633642e" title="jffs2_sum_scan_sumnode" alt="" coords="657,226,832,253"/>
+<area shape="rect" id="node12" href="$jffs2_2scan_8c.html#a937690f93cd579de595ba9aa58f269e6" title="jffs2_scan_inode_node" alt="" coords="434,429,589,455"/>
+<area shape="rect" id="node13" href="$jffs2_2scan_8c.html#adaab2bca700a2dcb3e16ac66d14189c3" title="jffs2_scan_dirent_node" alt="" coords="209,327,365,354"/>
+<area shape="rect" id="node14" href="$summary_8c.html#a8658155cb2c8911e63a798bc91afa077" title="sum_link_node_ref" alt="" coords="222,226,353,253"/>
+<area shape="rect" id="node4" href="$build_8c.html#a6a125309aed46b9b1e8a7ac2e0ea9fc4" title="jffs2_build_filesystem" alt="" coords="1263,74,1411,101"/>
+<area shape="rect" id="node5" href="$nodelist_8h.html#ace445086ae828460cfec2eafe668b0bc" title="jffs2_do_mount_fs" alt="" coords="1459,74,1588,101"/>
+<area shape="rect" id="node6" href="$os-linux_8h.html#a0e271945f00995017090113d6804a430" title="jffs2_do_fill_super" alt="" coords="1636,74,1763,101"/>
+<area shape="rect" id="node7" href="$jffs2_2super_8c.html#ac626c42b039c451fa8759a92155a1773" title="jffs2_fill_super" alt="" coords="1811,74,1917,101"/>
+<area shape="rect" id="node8" href="$jffs2_2super_8c.html#a5399bb9f4f9d0a5a5f5f3014ec42876a" title="jffs2_mount" alt="" coords="1965,74,2056,101"/>
+<area shape="rect" id="node15" href="$summary_8c.html#a451f4c6e0978f4e3ba755ea1b69150e4" title="jffs2_sum_process_sum_data" alt="" coords="413,175,609,202"/>
+</map>

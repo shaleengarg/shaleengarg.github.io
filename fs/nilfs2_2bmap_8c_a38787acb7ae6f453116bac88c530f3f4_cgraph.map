@@ -1,0 +1,5 @@
+<map id="nilfs_bmap_init_gc" name="nilfs_bmap_init_gc">
+<area shape="rect" id="node2" href="$nilfs_8h.html#ab02aecb562f6c74a04aad6d769ac9f1e" title="NILFS_BMAP_I" alt="" coords="189,5,305,32"/>
+<area shape="rect" id="node3" href="$nilfs2_2btree_8c.html#a31c310a33d6e623a9a7c15f6e2722200" title="nilfs_btree_init_gc" alt="" coords="184,56,311,83"/>
+<area shape="rect" id="node4" href="$nilfs2_2btree_8c.html#a6b425e1129c6131fb5f0d7018d2c6bb4" title="nilfs_btree_node_size" alt="" coords="359,56,507,83"/>
+</map>

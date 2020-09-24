@@ -1,0 +1,5 @@
+<map id="jffs2_scan_make_ino_cache" name="jffs2_scan_make_ino_cache">
+<area shape="rect" id="node2" href="$nodelist_8c.html#a885b269cad17a1c5af0cd9e199526fb0" title="jffs2_get_ino_cache" alt="" coords="210,5,349,32"/>
+<area shape="rect" id="node3" href="$malloc_8c.html#a52260c4fff75f799a864e7e49a5f6be0" title="jffs2_alloc_inode_cache" alt="" coords="199,56,360,83"/>
+<area shape="rect" id="node4" href="$nodelist_8c.html#a9e1f8e5b445c30ab4c280c2608ee0f6f" title="jffs2_add_ino_cache" alt="" coords="209,107,350,133"/>
+</map>

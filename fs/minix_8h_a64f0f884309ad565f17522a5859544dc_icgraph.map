@@ -1,0 +1,12 @@
+<map id="minix_V2_raw_inode" name="minix_V2_raw_inode">
+<area shape="rect" id="node2" href="$minix_2inode_8c.html#a740b4a6d37f277f48bfc87648ca33db3" title="V2_minix_iget" alt="" coords="224,31,328,57"/>
+<area shape="rect" id="node7" href="$minix_2inode_8c.html#a70937682e70e63f72b5046908207a78e" title="V2_minix_update_inode" alt="" coords="196,81,356,108"/>
+<area shape="rect" id="node9" href="$minix_2bitmap_8c.html#ad6544c9ab47d34391ca288380f05d963" title="minix_clear_inode" alt="" coords="213,132,339,159"/>
+<area shape="rect" id="node3" href="$minix_8h.html#a6bed32233f9dfbe77a3da693f780969d" title="minix_iget" alt="" coords="427,31,508,57"/>
+<area shape="rect" id="node4" href="$minix_2inode_8c.html#ac732d256cd024354ba42d38dff0c0007" title="minix_fill_super" alt="" coords="586,5,698,32"/>
+<area shape="rect" id="node6" href="$minix_2namei_8c.html#a3acea20df0a5675ea227c846485aa91b" title="minix_lookup" alt="" coords="593,56,691,83"/>
+<area shape="rect" id="node5" href="$minix_2inode_8c.html#afdad323ae28ba594e96bd8f79837a5c7" title="minix_mount" alt="" coords="753,5,849,32"/>
+<area shape="rect" id="node8" href="$minix_2inode_8c.html#a282a9f905c7be205e2f5ba3b342a9f05" title="minix_write_inode" alt="" coords="404,81,531,108"/>
+<area shape="rect" id="node10" href="$minix_8h.html#af8e8cac73dae9a38873ac818d21a8e78" title="minix_free_inode" alt="" coords="407,132,527,159"/>
+<area shape="rect" id="node11" href="$minix_2inode_8c.html#aa46ad55c28e852b3f20a1cab3edeeebc" title="minix_evict_inode" alt="" coords="579,132,705,159"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="init_free_nid_cache" name="init_free_nid_cache">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="210,5,265,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a8618342bf5f08a91e956d39efbdb4f2f" title="f2fs_kzalloc" alt="" coords="191,56,283,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a5c13debb7490c6475b5d220a35764d8a" title="f2fs_kvzalloc" alt="" coords="188,107,287,133"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a036c8838aa2eee8ace8e6940d0352a7a" title="f2fs_kmalloc" alt="" coords="338,56,434,83"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#ae1165e29e3458f6e3f5f23d3318f9fa3" title="f2fs_kvmalloc" alt="" coords="335,107,437,133"/>
+</map>

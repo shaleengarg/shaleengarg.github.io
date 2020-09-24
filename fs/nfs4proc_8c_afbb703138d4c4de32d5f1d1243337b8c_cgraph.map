@@ -1,0 +1,12 @@
+<map id="_nfs4_proc_getlk" name="_nfs4_proc_getlk">
+<area shape="rect" id="node2" href="$nfs4state_8c.html#a5ab693cde73eced00be4f7c3b41d1e5b" title="nfs4_set_lock_state" alt="" coords="175,56,313,83"/>
+<area shape="rect" id="node9" href="$nfs4proc_8c.html#af94c95f510cba048faefda6f3f70e4c3" title="nfs4_call_sync" alt="" coords="189,107,299,133"/>
+<area shape="rect" id="node3" href="$nfs4state_8c.html#ab7fcdc9d8c76950d58a5c9ce68de6e85" title="nfs4_get_lock_state" alt="" coords="378,56,517,83"/>
+<area shape="rect" id="node4" href="$nfs4state_8c.html#a40d9d441cfde0c789347b439b57d547f" title="__nfs4_find_lock_state" alt="" coords="581,5,737,32"/>
+<area shape="rect" id="node5" href="$nfs4state_8c.html#ae87b3488eef3497ce00a656be7b2fcfc" title="nfs4_alloc_lock_state" alt="" coords="585,56,733,83"/>
+<area shape="rect" id="node7" href="$nfs4state_8c.html#a189518d59bbfc6de8a69bd38273f211b" title="nfs4_free_lock_state" alt="" coords="588,108,731,135"/>
+<area shape="rect" id="node6" href="$nfs4state_8c.html#afdeb16a8ca2ac4f4370a596206d45a75" title="nfs4_init_seqid_counter" alt="" coords="785,53,944,80"/>
+<area shape="rect" id="node8" href="$nfs4state_8c.html#a44ccf42f70dcbfd211125cf839bd75cd" title="nfs4_destroy_seqid\l_counter" alt="" coords="797,105,932,146"/>
+<area shape="rect" id="node10" href="$nfs4proc_8c.html#abc9fb286c7d6320d28bfc792735f28c2" title="nfs4_init_sequence" alt="" coords="380,107,515,133"/>
+<area shape="rect" id="node11" href="$nfs4proc_8c.html#a6f902de876022de36aec8f6ef9e5df4c" title="nfs4_call_sync_sequence" alt="" coords="361,157,533,184"/>
+</map>

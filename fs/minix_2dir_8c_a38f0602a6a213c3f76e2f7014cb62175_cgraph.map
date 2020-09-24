@@ -1,0 +1,9 @@
+<map id="minix_inode_by_name" name="minix_inode_by_name">
+<area shape="rect" id="node2" href="$minix_2dir_8c.html#a0a93286640c87ae8c1f06afaecbfa610" title="minix_find_entry" alt="" coords="204,132,321,159"/>
+<area shape="rect" id="node3" href="$minix_8h.html#ac6ba967944dbe453727e50ba682dd6a7" title="minix_sb" alt="" coords="393,5,467,32"/>
+<area shape="rect" id="node8" href="$minix_2dir_8c.html#a8a2518c7127aa9d817bd805d7c6794ba" title="dir_put_page" alt="" coords="382,259,478,285"/>
+<area shape="rect" id="node4" href="$minix_2dir_8c.html#a6202d41231b7e58d85c2916a087582a4" title="dir_get_page" alt="" coords="382,56,478,83"/>
+<area shape="rect" id="node5" href="$minix_2dir_8c.html#a8ba9f5eaa26168978d0325463bf94b7b" title="minix_last_byte" alt="" coords="373,107,487,133"/>
+<area shape="rect" id="node6" href="$minix_2dir_8c.html#af19a4c62bb0c36429823c99fee07e2be" title="minix_next_entry" alt="" coords="369,157,491,184"/>
+<area shape="rect" id="node7" href="$minix_2dir_8c.html#a1d6dd19f2742c5ea7ea3c67bbb4e5d33" title="namecompare" alt="" coords="378,208,482,235"/>
+</map>

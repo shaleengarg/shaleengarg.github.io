@@ -1,0 +1,10 @@
+<map id="scan_get_nnode" name="scan_get_nnode">
+<area shape="rect" id="node2" href="$lpt_8c.html#a9f9e5388fe8c2966b4517e0b243b9ce6" title="calc_nnode_num_from\l_parent" alt="" coords="360,5,513,47"/>
+<area shape="rect" id="node3" href="$ubifs_2io_8c.html#ab6a2a3c4a79d6d4c52350540437d3cb3" title="ubifs_leb_read" alt="" coords="188,103,295,130"/>
+<area shape="rect" id="node5" href="$lpt_8c.html#a0d29b2eba67308c09e6c7e05ad2b63b1" title="ubifs_unpack_nnode" alt="" coords="171,158,312,185"/>
+<area shape="rect" id="node9" href="$lpt_8c.html#ad905cc71245ecfb3152a844c581d3e12" title="validate_nnode" alt="" coords="187,53,296,79"/>
+<area shape="rect" id="node4" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="589,143,661,170"/>
+<area shape="rect" id="node6" href="$lpt_8c.html#a96436eaf7459ebef6525d09761a38d2c" title="check_lpt_type" alt="" coords="381,143,492,170"/>
+<area shape="rect" id="node7" href="$lpt_8c.html#af769280c22d887914ee95e9c2e4cc7de" title="ubifs_unpack_bits" alt="" coords="561,194,688,221"/>
+<area shape="rect" id="node8" href="$lpt_8c.html#ac0dcb63535a53346f5364a21cd948dec" title="check_lpt_crc" alt="" coords="385,194,488,221"/>
+</map>

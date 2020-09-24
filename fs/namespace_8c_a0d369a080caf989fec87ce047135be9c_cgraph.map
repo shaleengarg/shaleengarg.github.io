@@ -1,0 +1,6 @@
+<map id="get_mountpoint" name="get_mountpoint">
+<area shape="rect" id="node2" href="$namespace_8c.html#aed4fb765e6c93da1b4817c73a2ed3353" title="lookup_mountpoint" alt="" coords="164,56,295,83"/>
+<area shape="rect" id="node3" href="$namespace_8c.html#a2d3a9e88250f710afd17e90b1c2c47f6" title="mp_hash" alt="" coords="343,5,417,32"/>
+<area shape="rect" id="node5" href="$dcache_8c.html#a985a93b3ed6b4e088567b072c60293f7" title="d_set_mounted" alt="" coords="174,107,285,133"/>
+<area shape="rect" id="node4" href="$namespace_8c.html#a512f7479be3deaff9f96119c68e879d0" title="m_hash" alt="" coords="346,56,414,83"/>
+</map>

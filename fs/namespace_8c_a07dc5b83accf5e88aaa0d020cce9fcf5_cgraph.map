@@ -1,0 +1,6 @@
+<map id="invent_group_ids" name="invent_group_ids">
+<area shape="rect" id="node2" href="$namespace_8c.html#aef388493bc383b84b07b69ccb3e3cc37" title="next_mnt" alt="" coords="393,5,469,32"/>
+<area shape="rect" id="node3" href="$namespace_8c.html#aac04e8c161176df04247f98a300855cd" title="mnt_alloc_group_id" alt="" coords="173,31,308,57"/>
+<area shape="rect" id="node4" href="$namespace_8c.html#a2cec975b8dbe5c9c3ce74d1a64e2b462" title="cleanup_group_ids" alt="" coords="175,81,306,108"/>
+<area shape="rect" id="node5" href="$namespace_8c.html#ae5bf3f98006b3f63c3dc6c8c3006e86f" title="mnt_release_group_id" alt="" coords="356,81,505,108"/>
+</map>

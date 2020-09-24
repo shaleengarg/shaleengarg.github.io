@@ -1,0 +1,5 @@
+<map id="nfs40_shutdown_client" name="nfs40_shutdown_client">
+<area shape="rect" id="node2" href="$nfs4session_8c.html#a81dee52b1522036bf3833aa6c28b29a9" title="nfs4_shutdown_slot\l_table" alt="" coords="208,5,347,47"/>
+<area shape="rect" id="node3" href="$nfs4session_8c.html#a03aab2db5e47f99e1367a1f90c2551c1" title="nfs4_release_slot_table" alt="" coords="395,13,553,39"/>
+<area shape="rect" id="node4" href="$nfs4session_8c.html#acf2c3aa0b3f4d7303ad109e7b0a24976" title="nfs4_shrink_slot_table" alt="" coords="601,13,753,39"/>
+</map>

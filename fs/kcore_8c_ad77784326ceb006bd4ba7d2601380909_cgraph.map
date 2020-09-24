@@ -1,0 +1,8 @@
+<map id="__kcore_update_ram" name="__kcore_update_ram">
+<area shape="rect" id="node2" href="$kcore_8c.html#ae368f061e197b75fb8232238a3543892" title="LIST_HEAD" alt="" coords="389,6,484,33"/>
+<area shape="rect" id="node3" href="$kcore_8c.html#a78c852a9ba0250e49587a7b5f0f26e38" title="get_kcore_size" alt="" coords="205,31,316,58"/>
+<area shape="rect" id="node4" href="$kcore_8c.html#ac96965e9f29606545dfa5ffe0c37a88d" title="free_kclist_ents" alt="" coords="379,133,494,159"/>
+<area shape="rect" id="node5" href="$kcore_8c.html#a95945c011d8e6ab0149fabf651826dc6" title="kcore_update_ram" alt="" coords="196,82,325,109"/>
+<area shape="rect" id="node7" href="$kcore_8c.html#a3a46c730f8b429649ce6fee824c18509" title="get_sparsemem_vmemmap_info" alt="" coords="548,133,759,159"/>
+<area shape="rect" id="node6" href="$kcore_8c.html#a883bbd2fb9f7edd14c485ab1ea46bb26" title="kclist_add_private" alt="" coords="373,82,500,109"/>
+</map>

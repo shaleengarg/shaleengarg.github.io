@@ -1,0 +1,14 @@
+<map id="decode_change_info" name="decode_change_info">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a79b61fc70214301f2404c8773614b8ac" title="decode_create" alt="" coords="199,12,305,39"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a5bc973c69fd6b3c6421eced21249caa2" title="decode_link" alt="" coords="207,69,297,96"/>
+<area shape="rect" id="node7" href="$nfs4xdr_8c.html#a325524ebd791868dade3ec9e25e3c3ff" title="decode_open" alt="" coords="203,132,301,159"/>
+<area shape="rect" id="node10" href="$nfs4xdr_8c.html#afa997da5bde7346327f7f3abde5f852b" title="decode_remove" alt="" coords="195,183,309,209"/>
+<area shape="rect" id="node12" href="$nfs4xdr_8c.html#a5f0ec86676eeb717c339836d1dc8872c" title="decode_rename" alt="" coords="195,233,309,260"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a97cf962b482c1ce30f94c992687833bb" title="nfs4_xdr_dec_create" alt="" coords="373,5,516,32"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a4c0d1a2e863db2316be753ebba76589a" title="nfs4_xdr_dec_symlink" alt="" coords="580,5,732,32"/>
+<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a20137b55f453eb908bbd97c1a7f3c09d" title="nfs4_xdr_dec_link" alt="" coords="381,56,508,83"/>
+<area shape="rect" id="node8" href="$nfs4xdr_8c.html#ae75f94182733d5f38a322b751a4a3d03" title="nfs4_xdr_dec_open" alt="" coords="377,107,512,133"/>
+<area shape="rect" id="node9" href="$nfs4xdr_8c.html#a7908acb35fe5153c15681f77e66d6b98" title="nfs4_xdr_dec_open_noattr" alt="" coords="357,157,532,184"/>
+<area shape="rect" id="node11" href="$nfs4xdr_8c.html#a5069514fc48eed423c13a3d82107771e" title="nfs4_xdr_dec_remove" alt="" coords="369,208,520,235"/>
+<area shape="rect" id="node13" href="$nfs4xdr_8c.html#acf394542bcc212be34fcdba0410f4bde" title="nfs4_xdr_dec_rename" alt="" coords="369,259,520,285"/>
+</map>

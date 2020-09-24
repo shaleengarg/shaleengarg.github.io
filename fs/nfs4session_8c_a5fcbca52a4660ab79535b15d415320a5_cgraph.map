@@ -1,0 +1,7 @@
+<map id="nfs4_realloc_slot_table" name="nfs4_realloc_slot_table">
+<area shape="rect" id="node2" href="$nfs4session_8c.html#a11fa12a28f06c917af977183b8253884" title="nfs4_grow_slot_table" alt="" coords="209,5,354,32"/>
+<area shape="rect" id="node5" href="$nfs4session_8c.html#a41837442a15f21461dedd7305085fad4" title="nfs4_reset_slot_table" alt="" coords="208,56,355,83"/>
+<area shape="rect" id="node3" href="$nfs4session_8c.html#a1b8596f0771e688c405ee009adc830d4" title="nfs4_find_or_create_slot" alt="" coords="403,5,567,32"/>
+<area shape="rect" id="node4" href="$nfs4session_8c.html#aa541623176dc49b6d9325d5238ddd4eb" title="nfs4_new_slot" alt="" coords="615,5,721,32"/>
+<area shape="rect" id="node6" href="$nfs4session_8c.html#acf2c3aa0b3f4d7303ad109e7b0a24976" title="nfs4_shrink_slot_table" alt="" coords="409,56,561,83"/>
+</map>

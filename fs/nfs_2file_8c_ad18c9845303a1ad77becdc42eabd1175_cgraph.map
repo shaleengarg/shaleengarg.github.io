@@ -1,0 +1,7 @@
+<map id="nfs_file_flush" name="nfs_file_flush">
+<area shape="rect" id="node2" href="$iostat_8h.html#a827fa3b79055f4019a86f1f7dc3ba732" title="nfs_inc_stats" alt="" coords="152,5,252,32"/>
+<area shape="rect" id="node4" href="$sync_8c.html#afccf0b8bd0e71e4a5872e15fb493d987" title="vfs_fsync" alt="" coords="163,56,241,83"/>
+<area shape="rect" id="node3" href="$iostat_8h.html#af6c43e25d4518ea95856ae498ba92e58" title="nfs_inc_server_stats" alt="" coords="300,5,443,32"/>
+<area shape="rect" id="node5" href="$sync_8c.html#ae306f1702cb8dc8c79c3388afc632a4f" title="vfs_fsync_range" alt="" coords="312,56,431,83"/>
+<area shape="rect" id="node6" href="$sync_8c.html#a362b873c39d0612c99510b5d04c18cfc" title="EXPORT_SYMBOL" alt="" coords="491,81,629,108"/>
+</map>

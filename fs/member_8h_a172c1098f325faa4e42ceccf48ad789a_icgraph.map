@@ -1,0 +1,36 @@
+<map id="dlm_slots_version" name="dlm_slots_version">
+<area shape="rect" id="node2" href="$member_8h.html#aece50b8e50ad8d510302aebca2825199" title="dlm_slot_save" alt="" coords="198,109,305,136"/>
+<area shape="rect" id="node21" href="$member_8h.html#a1b29f82b8e85fbb28a5ae39c6f67fd2d" title="dlm_slots_copy_in" alt="" coords="371,160,501,187"/>
+<area shape="rect" id="node22" href="$rcom_8c.html#a6a0dbf31fae5d489d0e24ac975b1a2b6" title="receive_rcom_status" alt="" coords="180,211,323,237"/>
+<area shape="rect" id="node3" href="$recover_8c.html#a5f1cec3678aeaad3d80bfdae9997182c" title="wait_status_all" alt="" coords="381,109,491,136"/>
+<area shape="rect" id="node4" href="$recover_8c.html#a8cd169de7cda5450d07cce43abcf1247" title="wait_status" alt="" coords="597,81,687,108"/>
+<area shape="rect" id="node20" href="$recover_8h.html#a81b7cd145d92025532a2804ce6bb48f0" title="dlm_recover_members_wait" alt="" coords="549,157,735,184"/>
+<area shape="rect" id="node5" href="$recover_8h.html#a1c90179ad92c4ed38fa436cb185d2987" title="dlm_recover_directory_wait" alt="" coords="783,5,964,32"/>
+<area shape="rect" id="node18" href="$recover_8h.html#a7d205cf886a1ef946011e6eb8864ead8" title="dlm_recover_locks_wait" alt="" coords="792,56,955,83"/>
+<area shape="rect" id="node19" href="$recover_8h.html#a5b1ccd89b9a3ec9ebac217a60892365b" title="dlm_recover_done_wait" alt="" coords="794,107,953,133"/>
+<area shape="rect" id="node6" href="$recoverd_8c.html#ab62779df96a68ad1ce11df51caddf269" title="ls_recover" alt="" coords="1037,85,1119,112"/>
+<area shape="rect" id="node7" href="$recoverd_8c.html#a607f54118d11f07df88de1af7e1daae5" title="do_ls_recovery" alt="" coords="1217,85,1328,112"/>
+<area shape="rect" id="node8" href="$recoverd_8c.html#ae8de24c4786207676edc06653b306a46" title="dlm_recoverd" alt="" coords="1429,92,1529,119"/>
+<area shape="rect" id="node9" href="$recoverd_8h.html#a266e609aac81f71ceec84f01aead7073" title="dlm_recoverd_start" alt="" coords="1605,95,1739,121"/>
+<area shape="rect" id="node10" href="$lockspace_8c.html#a83963ec3c204e4d89fa31424d5b0b600" title="new_lockspace" alt="" coords="1981,99,2093,125"/>
+<area shape="rect" id="node11" href="$lockspace_8c.html#a1c7ae17536c2eb523b3adc588b4d7c38" title="dlm_new_lockspace" alt="" coords="2141,124,2281,151"/>
+<area shape="rect" id="node12" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="2379,48,2449,75"/>
+<area shape="rect" id="node13" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="2329,99,2499,125"/>
+<area shape="rect" id="node16" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="2367,149,2461,176"/>
+<area shape="rect" id="node17" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="2341,200,2487,227"/>
+<area shape="rect" id="node14" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="2547,99,2641,125"/>
+<area shape="rect" id="node15" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="2689,99,2837,125"/>
+<area shape="rect" id="node23" href="$rcom_8h.html#a13afb732128fb423bdfde1651593580b" title="dlm_receive_rcom" alt="" coords="372,212,500,239"/>
+<area shape="rect" id="node24" href="$lock_8h.html#a36d4408472d4aa99002b5e444b91d5d9" title="dlm_receive_buffer" alt="" coords="576,212,708,239"/>
+<area shape="rect" id="node25" href="$midcomms_8h.html#ad4a216348309de90691e9d442716c2fa" title="dlm_process_incoming\l_buffer" alt="" coords="796,209,951,250"/>
+<area shape="rect" id="node26" href="$lowcomms_8c.html#aff57c96224a248e44a8f383c22065a97" title="receive_from_sock" alt="" coords="1012,216,1144,243"/>
+<area shape="rect" id="node27" href="$lowcomms_8c.html#ac6f8840a549ba4d464268b93bddae07b" title="tcp_accept_from_sock" alt="" coords="1195,136,1350,163"/>
+<area shape="rect" id="node32" href="$lowcomms_8c.html#ac1e5015e9597e8ed78da4430b64c03a0" title="sctp_accept_from_sock" alt="" coords="1192,237,1353,264"/>
+<area shape="rect" id="node34" href="$lowcomms_8c.html#a16f1d87f3f36fb645309e3d159600302" title="sctp_connect_to_sock" alt="" coords="1196,288,1349,315"/>
+<area shape="rect" id="node35" href="$lowcomms_8c.html#ac611f070a1bc03e0beae1ac40d17d78d" title="tcp_connect_to_sock" alt="" coords="1199,187,1346,213"/>
+<area shape="rect" id="node28" href="$lowcomms_8c.html#a4badb7bf1131fcb0764ecdbf88e2f199" title="tcp_create_listen_sock" alt="" coords="1401,149,1557,176"/>
+<area shape="rect" id="node29" href="$lowcomms_8c.html#a208bb61596f9b2b4988b6abb3f602f8d" title="tcp_listen_for_all" alt="" coords="1612,149,1732,176"/>
+<area shape="rect" id="node30" href="$lowcomms_8h.html#a0a53f67652d780712a53e424e274da08" title="dlm_lowcomms_start" alt="" coords="1787,149,1933,176"/>
+<area shape="rect" id="node31" href="$lockspace_8c.html#ad4ff3ba979424c041d82640e80b15715" title="threads_start" alt="" coords="1988,149,2087,176"/>
+<area shape="rect" id="node33" href="$lowcomms_8c.html#a9514ff04fa3af233bb4a39d458d73d46" title="sctp_listen_for_all" alt="" coords="1416,237,1543,264"/>
+</map>

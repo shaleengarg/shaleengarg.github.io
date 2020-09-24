@@ -1,0 +1,16 @@
+<map id="hfsplus_rename_cat" name="hfsplus_rename_cat">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="772,162,881,189"/>
+<area shape="rect" id="node3" href="$lus_2catalog_8c.html#ac9a7d40f3fbad19f5fb1a58667dca8e5" title="hfsplus_cat_build_key" alt="" coords="196,102,347,129"/>
+<area shape="rect" id="node7" href="$lus_2bfind_8c.html#abd29e75a990354883bc8e9e55fcdcacf" title="hfs_find_rec_by_key" alt="" coords="200,372,343,398"/>
+<area shape="rect" id="node8" href="$lus_2catalog_8c.html#a43a49eca48e3942d9ecc3fb4b29f5787" title="hfsplus_subfolders_inc" alt="" coords="194,321,349,348"/>
+<area shape="rect" id="node10" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="224,422,319,449"/>
+<area shape="rect" id="node12" href="$lus_2catalog_8c.html#ac140162af32c0c62078ae5f5bb68224e" title="hfsplus_subfolders_dec" alt="" coords="192,204,351,230"/>
+<area shape="rect" id="node13" href="$lus_2catalog_8c.html#a382c4e2e5acd8e7a9e22f6f781ee37d3" title="hfsplus_cat_build_key\l_with_cnid" alt="" coords="196,474,347,515"/>
+<area shape="rect" id="node14" href="$lus_2catalog_8c.html#adfb890d41d7171acc01cfec33e8c80b0" title="hfsplus_fill_cat_thread" alt="" coords="195,153,347,180"/>
+<area shape="rect" id="node15" href="$hfsplus__fs_8h.html#a3025a5af56e2038185f558f2123e0fca" title="hfsplus_mark_inode\l_dirty" alt="" coords="202,255,341,296"/>
+<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#a28ada23aec6185bcc5a268c8831523f6" title="hfsplus_asc2uni" alt="" coords="410,112,526,138"/>
+<area shape="rect" id="node5" href="$hfsplus_2unicode_8c.html#a74e1c9c59b7a9abee291e2533c6a0fa5" title="asc2unichar" alt="" coords="609,162,701,189"/>
+<area shape="rect" id="node6" href="$hfsplus_2unicode_8c.html#af3eba2448cb5baf76cab915a78c4fed5" title="decompose_unichar" alt="" coords="585,112,724,138"/>
+<area shape="rect" id="node9" href="$hfsplus__fs_8h.html#a871906844552b3b3ec070e1caaec9ed5" title="HFSPLUS_I" alt="" coords="421,264,515,290"/>
+<area shape="rect" id="node11" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="399,422,537,449"/>
+</map>

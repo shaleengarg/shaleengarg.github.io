@@ -1,0 +1,7 @@
+<map id="nsm_get_handle" name="nsm_get_handle">
+<area shape="rect" id="node2" href="$mon_8c.html#aa29bc2b6eb2eb4d7e63fd6a858bb82c6" title="nsm_lookup_hostname" alt="" coords="171,5,327,32"/>
+<area shape="rect" id="node3" href="$mon_8c.html#a3ffec6c0d9ecb93fdc97829dd25300e8" title="nsm_lookup_addr" alt="" coords="187,56,311,83"/>
+<area shape="rect" id="node5" href="$mon_8c.html#ac856e133e4b85a1c4e752f6d0807615f" title="nsm_create_handle" alt="" coords="181,107,316,133"/>
+<area shape="rect" id="node4" href="$mon_8c.html#a71728f2477d6935d32d7c69c71ace0f3" title="nsm_addr" alt="" coords="394,56,473,83"/>
+<area shape="rect" id="node6" href="$mon_8c.html#aaa06c02055fc70754256f7046697a852" title="nsm_init_private" alt="" coords="375,107,492,133"/>
+</map>

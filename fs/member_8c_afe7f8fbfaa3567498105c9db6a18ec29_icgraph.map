@@ -1,0 +1,16 @@
+<map id="add_ordered_member" name="add_ordered_member">
+<area shape="rect" id="node2" href="$member_8c.html#af517931594a264d18f7f4944f68289eb" title="dlm_add_member" alt="" coords="200,81,325,108"/>
+<area shape="rect" id="node3" href="$member_8h.html#acbd9e09d364c42b0b7d4c2acac377bd8" title="dlm_recover_members" alt="" coords="373,81,528,108"/>
+<area shape="rect" id="node4" href="$recoverd_8c.html#ab62779df96a68ad1ce11df51caddf269" title="ls_recover" alt="" coords="576,81,659,108"/>
+<area shape="rect" id="node5" href="$recoverd_8c.html#a607f54118d11f07df88de1af7e1daae5" title="do_ls_recovery" alt="" coords="707,81,817,108"/>
+<area shape="rect" id="node6" href="$recoverd_8c.html#ae8de24c4786207676edc06653b306a46" title="dlm_recoverd" alt="" coords="865,81,965,108"/>
+<area shape="rect" id="node7" href="$recoverd_8h.html#a266e609aac81f71ceec84f01aead7073" title="dlm_recoverd_start" alt="" coords="1013,81,1147,108"/>
+<area shape="rect" id="node8" href="$lockspace_8c.html#a83963ec3c204e4d89fa31424d5b0b600" title="new_lockspace" alt="" coords="1195,81,1307,108"/>
+<area shape="rect" id="node9" href="$lockspace_8c.html#a1c7ae17536c2eb523b3adc588b4d7c38" title="dlm_new_lockspace" alt="" coords="1355,81,1495,108"/>
+<area shape="rect" id="node10" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="1592,5,1663,32"/>
+<area shape="rect" id="node11" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="1543,56,1712,83"/>
+<area shape="rect" id="node14" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="1581,107,1674,133"/>
+<area shape="rect" id="node15" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="1554,157,1701,184"/>
+<area shape="rect" id="node12" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="1760,56,1855,83"/>
+<area shape="rect" id="node13" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="1903,56,2051,83"/>
+</map>

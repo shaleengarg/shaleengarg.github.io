@@ -1,0 +1,7 @@
+<map id="nfs_revalidate_mapping_rcu" name="nfs_revalidate_mapping_rcu">
+<area shape="rect" id="node2" href="$nfs_2inode_8c.html#ae435442152e91334c8d8dad5cedafb01" title="nfs_mapping_need_revalidate\l_inode" alt="" coords="237,39,432,80"/>
+<area shape="rect" id="node3" href="$nfs_2inode_8c.html#ac7ad9c139c359146b96a7d49d6507c22" title="nfs_check_cache_invalid" alt="" coords="480,46,648,73"/>
+<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a2a2025ce202dd7229104e87117e71e0b" title="nfs_check_cache_invalid\l_delegated" alt="" coords="696,5,864,47"/>
+<area shape="rect" id="node5" href="$nfs_2inode_8c.html#ab84d1b1101784069ad88296ec9fe3615" title="nfs_check_cache_invalid\l_not_delegated" alt="" coords="696,71,864,112"/>
+<area shape="rect" id="node6" href="$nfs_2inode_8c.html#a278a8e4690e5fdf814f16cd97c20140a" title="nfs_attribute_timeout" alt="" coords="912,78,1056,105"/>
+</map>

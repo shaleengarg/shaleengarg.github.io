@@ -1,0 +1,6 @@
+<map id="simple_statfs" name="simple_statfs">
+<area shape="rect" id="node2" href="$vfs__super_8c.html#a82e083085675a9ef9f1d1ceeb8ec28f1" title="v9fs_statfs" alt="" coords="181,5,268,32"/>
+<area shape="rect" id="node3" href="$ramfs_2inode_8c.html#a128c9bf31387442042443614db20f637" title="ramfs_show_options" alt="" coords="153,56,296,83"/>
+<area shape="rect" id="node4" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="168,107,281,133"/>
+<area shape="rect" id="node5" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="344,107,441,133"/>
+</map>

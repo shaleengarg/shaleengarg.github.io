@@ -1,0 +1,10 @@
+<map id="nfs4_init_clientid" name="nfs4_init_clientid">
+<area shape="rect" id="node2" href="$nfs4proc_8c.html#acf5c22e1a4887fb87fd3736d251f6dcb" title="nfs4_proc_setclientid" alt="" coords="172,96,317,123"/>
+<area shape="rect" id="node8" href="$nfs4proc_8c.html#a256a9f331a78caa3f5f232dbf5d20210" title="nfs4_proc_setclientid\l_confirm" alt="" coords="172,147,317,189"/>
+<area shape="rect" id="node9" href="$nfs4renewd_8c.html#a310ca8b48299c203fdc88605c47d0773" title="nfs4_schedule_state\l_renewal" alt="" coords="173,213,316,254"/>
+<area shape="rect" id="node3" href="$nfs4proc_8c.html#a417357c616ab0ef0ee1cbc2159d52b1a" title="nfs4_init_boot_verifier" alt="" coords="370,5,519,32"/>
+<area shape="rect" id="node4" href="$nfs4proc_8c.html#a6ef7ae74d00c26475a17cbc694a73a25" title="nfs4_init_uniform_client\l_string" alt="" coords="365,57,524,98"/>
+<area shape="rect" id="node6" href="$nfs4proc_8c.html#a9356fded9dd80c309cc209c9c074456d" title="nfs4_init_nonuniform\l_client_string" alt="" coords="373,122,516,163"/>
+<area shape="rect" id="node7" href="$nfs4proc_8c.html#a7ac52cc2a7bdc46cd5cb4c0ba56db5bf" title="nfs4_init_callback\l_netid" alt="" coords="381,187,508,229"/>
+<area shape="rect" id="node5" href="$nfs4proc_8c.html#a2a2363cb0915924a9002a83d5fc711a3" title="nfs4_init_uniquifier\l_client_string" alt="" coords="572,57,703,98"/>
+</map>

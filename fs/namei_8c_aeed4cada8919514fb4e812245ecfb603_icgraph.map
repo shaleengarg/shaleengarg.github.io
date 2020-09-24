@@ -1,0 +1,12 @@
+<map id="readlink_copy" name="readlink_copy">
+<area shape="rect" id="node2" href="$namei_8c.html#ac29f589e95fcac768d9c6f57c154782e" title="generic_readlink" alt="" coords="158,81,274,108"/>
+<area shape="rect" id="node10" href="$namei_8c.html#a14ec44a472194d566ed6215ebfcd22b7" title="page_readlink" alt="" coords="165,132,267,159"/>
+<area shape="rect" id="node11" href="$namespaces_8c.html#a0f415f1cd445953534f82f0528844d91" title="proc_ns_readlink" alt="" coords="156,183,276,209"/>
+<area shape="rect" id="node3" href="$namei_8c.html#a66f6c0e5d4eaa3bdf93421b1a0b131bf" title="vfs_readlink" alt="" coords="324,81,416,108"/>
+<area shape="rect" id="node4" href="$stat_8c.html#a7405cdb03839317d136bf6a97e4c19dd" title="do_readlinkat" alt="" coords="494,56,593,83"/>
+<area shape="rect" id="node7" href="$xfs__ioctl_8h.html#a990f316365705b118180e6cd2068c9ec" title="xfs_readlink_by_handle" alt="" coords="464,107,623,133"/>
+<area shape="rect" id="node5" href="$stat_8c.html#a08126f2d319d9b54eb7bd8de1bd120c5" title="SYSCALL_DEFINE4" alt="" coords="671,5,817,32"/>
+<area shape="rect" id="node6" href="$stat_8c.html#a92eecafe20a7870217bbce3e2ede485f" title="SYSCALL_DEFINE3" alt="" coords="671,56,817,83"/>
+<area shape="rect" id="node8" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="697,107,791,133"/>
+<area shape="rect" id="node9" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="865,132,1011,159"/>
+</map>

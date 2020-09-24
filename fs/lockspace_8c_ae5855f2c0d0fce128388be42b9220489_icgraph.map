@@ -1,0 +1,12 @@
+<map id="find_ls_to_scan" name="find_ls_to_scan">
+<area shape="rect" id="node2" href="$lockspace_8c.html#a50a27f47ae65fd5a846b05d1113fe02d" title="dlm_scand" alt="" coords="167,81,252,108"/>
+<area shape="rect" id="node3" href="$lockspace_8c.html#a5231318756dde615f52e63409485d96c" title="dlm_scand_start" alt="" coords="300,81,419,108"/>
+<area shape="rect" id="node4" href="$lockspace_8c.html#ad4ff3ba979424c041d82640e80b15715" title="threads_start" alt="" coords="467,81,565,108"/>
+<area shape="rect" id="node5" href="$lockspace_8c.html#a1c7ae17536c2eb523b3adc588b4d7c38" title="dlm_new_lockspace" alt="" coords="613,81,753,108"/>
+<area shape="rect" id="node6" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="851,5,921,32"/>
+<area shape="rect" id="node7" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="801,56,971,83"/>
+<area shape="rect" id="node10" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="839,107,933,133"/>
+<area shape="rect" id="node11" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="813,157,959,184"/>
+<area shape="rect" id="node8" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="1019,56,1113,83"/>
+<area shape="rect" id="node9" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="1161,56,1309,83"/>
+</map>

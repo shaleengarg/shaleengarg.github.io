@@ -1,0 +1,12 @@
+<map id="cache_nat_entry" name="cache_nat_entry">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="215,5,270,32"/>
+<area shape="rect" id="node3" href="$node_8c.html#a4cdd73e7d5577dd53227270c5ba61ec9" title="__alloc_nat_entry" alt="" coords="181,56,305,83"/>
+<area shape="rect" id="node7" href="$node_8c.html#ac105ce2e520710c77e561a3152b612d0" title="__lookup_nat_cache" alt="" coords="172,107,313,133"/>
+<area shape="rect" id="node8" href="$node_8c.html#a4a6e0e761300e06f8c5770f0eaaff3ac" title="__init_nat_entry" alt="" coords="185,157,300,184"/>
+<area shape="rect" id="node11" href="$node_8c.html#a983c61f9dd9352e4be7ea9d65b63b2c6" title="__free_nat_entry" alt="" coords="183,208,302,235"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="362,31,525,57"/>
+<area shape="rect" id="node5" href="$node_8h.html#a4b8647345be1b53df4efe56e314bd4a5" title="nat_reset_flag" alt="" coords="391,81,495,108"/>
+<area shape="rect" id="node6" href="$node_8h.html#abdc724f8c3a56d9d60c0a3f4a5adebe7" title="set_nat_flag" alt="" coords="573,81,667,108"/>
+<area shape="rect" id="node9" href="$f2fs_8h.html#a90a18d7de1830c9d037348df90f37dce" title="f2fs_radix_tree_insert" alt="" coords="370,157,517,184"/>
+<area shape="rect" id="node10" href="$node_8h.html#a7990480957c627cede68cf3fbf20c00b" title="node_info_from_raw_nat" alt="" coords="361,208,525,235"/>
+</map>

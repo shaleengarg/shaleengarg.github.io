@@ -1,0 +1,11 @@
+<map id="_nfs4_server_capabilities" name="_nfs4_server_capabilities">
+<area shape="rect" id="node2" href="$nfs4proc_8c.html#ae49f4ecb36d5d5c434b13a1eb3f3ec90" title="nfs4_server_capabilities" alt="" coords="223,60,385,87"/>
+<area shape="rect" id="node3" href="$nfs4proc_8c.html#aeaf2f4db2741f0c94403ac9b52df359d" title="nfs4_proc_get_rootfh" alt="" coords="433,35,577,61"/>
+<area shape="rect" id="node10" href="$nfs4proc_8c.html#aaf5efcb2bbe74fcb5866532b440d5317" title="nfs4_proc_get_root" alt="" coords="439,85,572,112"/>
+<area shape="rect" id="node4" href="$nfs4getroot_8c.html#a8b169eba837668641d36e9c785bde9ce" title="nfs4_get_rootfh" alt="" coords="625,35,737,61"/>
+<area shape="rect" id="node5" href="$nfs4client_8c.html#a9a6d260686511ea21f60e064ea08b9d4" title="nfs4_server_common\l_setup" alt="" coords="785,27,932,69"/>
+<area shape="rect" id="node6" href="$nfs4client_8c.html#acdee644958f1b84bc87b9cc359c3841b" title="nfs4_create_server" alt="" coords="982,5,1115,32"/>
+<area shape="rect" id="node8" href="$nfs4client_8c.html#ae47bbbb9897bd93853fcc2f3935ec01f" title="nfs4_create_referral\l_server" alt="" coords="980,57,1117,98"/>
+<area shape="rect" id="node7" href="$nfs4super_8c.html#add9ea0e95448084a9a18e8ce8b145a8f" title="nfs4_remote_mount" alt="" coords="1167,5,1305,32"/>
+<area shape="rect" id="node9" href="$nfs4super_8c.html#a80c028d31cf423d32a389da609c9c87f" title="nfs4_remote_referral\l_mount" alt="" coords="1165,57,1307,98"/>
+</map>

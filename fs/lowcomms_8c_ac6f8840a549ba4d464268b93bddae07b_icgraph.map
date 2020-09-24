@@ -1,0 +1,13 @@
+<map id="tcp_accept_from_sock" name="tcp_accept_from_sock">
+<area shape="rect" id="node2" href="$lowcomms_8c.html#a4badb7bf1131fcb0764ecdbf88e2f199" title="tcp_create_listen_sock" alt="" coords="208,81,364,108"/>
+<area shape="rect" id="node3" href="$lowcomms_8c.html#a208bb61596f9b2b4988b6abb3f602f8d" title="tcp_listen_for_all" alt="" coords="412,81,532,108"/>
+<area shape="rect" id="node4" href="$lowcomms_8h.html#a0a53f67652d780712a53e424e274da08" title="dlm_lowcomms_start" alt="" coords="580,81,727,108"/>
+<area shape="rect" id="node5" href="$lockspace_8c.html#ad4ff3ba979424c041d82640e80b15715" title="threads_start" alt="" coords="775,81,873,108"/>
+<area shape="rect" id="node6" href="$lockspace_8c.html#a1c7ae17536c2eb523b3adc588b4d7c38" title="dlm_new_lockspace" alt="" coords="921,81,1061,108"/>
+<area shape="rect" id="node7" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="1159,5,1229,32"/>
+<area shape="rect" id="node8" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="1109,56,1279,83"/>
+<area shape="rect" id="node11" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="1147,107,1241,133"/>
+<area shape="rect" id="node12" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="1121,157,1267,184"/>
+<area shape="rect" id="node9" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="1327,56,1421,83"/>
+<area shape="rect" id="node10" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="1469,56,1617,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="LIST_HEAD" name="LIST_HEAD">
+<area shape="rect" id="node2" href="$kcore_8c.html#ad77784326ceb006bd4ba7d2601380909" title="__kcore_update_ram" alt="" coords="148,31,291,57"/>
+<area shape="rect" id="node3" href="$kcore_8c.html#a95945c011d8e6ab0149fabf651826dc6" title="kcore_update_ram" alt="" coords="339,31,468,57"/>
+<area shape="rect" id="node4" href="$kcore_8c.html#a949e9748b4214f71ac27e3226767ef62" title="open_kcore" alt="" coords="527,5,616,32"/>
+<area shape="rect" id="node5" href="$kcore_8c.html#a0c8f592df2f895e8732d81530aad6944" title="proc_kcore_init" alt="" coords="516,56,627,83"/>
+</map>

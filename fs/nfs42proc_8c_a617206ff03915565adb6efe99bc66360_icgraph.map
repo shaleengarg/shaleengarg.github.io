@@ -1,0 +1,8 @@
+<map id="nfs42_layoutstat_release" name="nfs42_layoutstat_release">
+<area shape="rect" id="node2" href="$nfs42proc_8c.html#a1577107909b764f821abcd147ef5db98" title="nfs42_proc_layoutstats\l_generic" alt="" coords="220,23,377,65"/>
+<area shape="rect" id="node3" href="$pnfs_8c.html#a4aa19f69fe0f867dc7b3e52601a7a7cd" title="pnfs_mdsthreshold_alloc" alt="" coords="425,31,592,57"/>
+<area shape="rect" id="node4" href="$nfs4proc_8c.html#a42bc234737bac5a3112d6f2a4d21821f" title="_nfs4_do_open" alt="" coords="640,31,751,57"/>
+<area shape="rect" id="node5" href="$nfs4proc_8c.html#a4d76e21426c2445eb232093cae7fcb87" title="nfs4_do_open" alt="" coords="799,31,901,57"/>
+<area shape="rect" id="node6" href="$nfs4proc_8c.html#ae5867549d21e71ae3e3bd25c9f84f76a" title="nfs4_atomic_open" alt="" coords="949,5,1077,32"/>
+<area shape="rect" id="node7" href="$nfs4proc_8c.html#a0832ef444b1654fc2b2c6a24563138b6" title="nfs4_proc_create" alt="" coords="952,56,1075,83"/>
+</map>

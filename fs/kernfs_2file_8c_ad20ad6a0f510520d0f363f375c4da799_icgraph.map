@@ -1,0 +1,5 @@
+<map id="kernfs_seq_stop_active" name="kernfs_seq_stop_active">
+<area shape="rect" id="node2" href="$kernfs_2file_8c.html#a55d591c534ef8e79db520410aeb230fd" title="kernfs_seq_start" alt="" coords="213,5,332,32"/>
+<area shape="rect" id="node3" href="$kernfs_2file_8c.html#acdd505fdd7fd96ca486067433cdf43be" title="kernfs_seq_next" alt="" coords="213,56,332,83"/>
+<area shape="rect" id="node4" href="$kernfs_2file_8c.html#a86a6387dd0d3c585d081456d05b2088f" title="kernfs_seq_stop" alt="" coords="213,107,332,133"/>
+</map>

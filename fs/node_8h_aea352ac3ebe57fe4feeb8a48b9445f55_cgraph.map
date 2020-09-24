@@ -1,0 +1,12 @@
+<map id="is_recoverable_dnode" name="is_recoverable_dnode">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="222,5,319,32"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a8a8c4c2d892d1eafc69f46df674f974a" title="F2FS_P_SB" alt="" coords="223,56,318,83"/>
+<area shape="rect" id="node7" href="$f2fs_8h.html#a9dc76e28efb9a0768daa3d02691ef8c7" title="cur_cp_version" alt="" coords="215,107,326,133"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#abb6676bbd589a9ca63ae2dd34a6501f7" title="__is_set_ckpt_flags" alt="" coords="201,157,340,184"/>
+<area shape="rect" id="node9" href="$node_8h.html#a38b71381d1b414d80c68059d5c3650e3" title="cpver_of_node" alt="" coords="217,208,324,235"/>
+<area shape="rect" id="node11" href="$f2fs_8h.html#aa6c39a96655ae37af10bcfbb7f487e18" title="cur_cp_crc" alt="" coords="227,259,314,285"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a775eff172a82c770b1982e02e4312eb8" title="F2FS_M_SB" alt="" coords="389,56,487,83"/>
+<area shape="rect" id="node5" href="$f2fs_8h.html#a401c9a99f2ac6e5c446f831295a145b7" title="F2FS_I_SB" alt="" coords="536,56,627,83"/>
+<area shape="rect" id="node6" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="675,56,753,83"/>
+<area shape="rect" id="node10" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="388,208,488,235"/>
+</map>

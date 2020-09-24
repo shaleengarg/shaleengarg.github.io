@@ -1,0 +1,6 @@
+<map id="nilfs_forget_buffer" name="nilfs_forget_buffer">
+<area shape="rect" id="node2" href="$nilfs2_2page_8c.html#ae480881857e8afeef790a92ae1772630" title="nilfs_page_buffers\l_clean" alt="" coords="181,5,309,47"/>
+<area shape="rect" id="node3" href="$nilfs2_2page_8c.html#a6236b3bde5556e05843d2c5e34074b65" title="__nilfs_clear_page\l_dirty" alt="" coords="180,71,311,112"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="195,137,295,163"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="359,137,497,163"/>
+</map>

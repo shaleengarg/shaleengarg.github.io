@@ -1,0 +1,6 @@
+<map id="nilfs_bmap_do_truncate" name="nilfs_bmap_do_truncate">
+<area shape="rect" id="node2" href="$nilfs2_2bmap_8c.html#a54e619b4cf86165cb313e3e79ddc1964" title="nilfs_bmap_do_delete" alt="" coords="213,31,361,57"/>
+<area shape="rect" id="node3" href="$nilfs2_2direct_8c.html#ae7a4e867b8728ea6f0c276b68f537479" title="nilfs_direct_delete\l_and_convert" alt="" coords="409,23,536,65"/>
+<area shape="rect" id="node4" href="$nilfs2_2direct_8c.html#af7a09b01970bcd0a5aa1467aa705f5fe" title="nilfs_direct_dptrs" alt="" coords="584,5,705,32"/>
+<area shape="rect" id="node5" href="$nilfs2_2direct_8c.html#aeecaf45244f88e4286516e9b26ff6afd" title="nilfs_direct_init" alt="" coords="590,56,699,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nilfs_test_metadata_dirty" name="nilfs_test_metadata_dirty">
+<area shape="rect" id="node2" href="$mdt_8c.html#a86b797da36e5aea598fe6f1f3f526aa4" title="nilfs_mdt_fetch_dirty" alt="" coords="189,64,332,91"/>
+<area shape="rect" id="node7" href="$nilfs_8h.html#aa2547b587fff139262e053241c6d5165" title="nilfs_doing_gc" alt="" coords="208,119,313,145"/>
+<area shape="rect" id="node3" href="$nilfs_8h.html#a4f06a82c20559c61e8f30eac6bad1001" title="NILFS_I" alt="" coords="432,5,503,32"/>
+<area shape="rect" id="node4" href="$nilfs2_2bmap_8c.html#ac6183fc85d304f3be2788b7d5fd0771c" title="nilfs_bmap_test_and\l_clear_dirty" alt="" coords="396,57,539,98"/>
+<area shape="rect" id="node5" href="$nilfs2_2bmap_8h.html#a5399d2acb05251b7a62d8895ba4d4027" title="nilfs_bmap_dirty" alt="" coords="620,39,737,65"/>
+<area shape="rect" id="node6" href="$nilfs2_2bmap_8h.html#acdd57fe8b71bb70aaf1a0cb3c0ad79d6" title="nilfs_bmap_clear_dirty" alt="" coords="603,89,755,116"/>
+<area shape="rect" id="node8" href="$nilfs_8h.html#a0e51be0290a47aca596f1257148b18d1" title="nilfs_test_transaction_flag" alt="" coords="380,123,555,149"/>
+</map>

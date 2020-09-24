@@ -1,0 +1,12 @@
+<map id="nilfs_copy_back_pages" name="nilfs_copy_back_pages">
+<area shape="rect" id="node2" href="$nilfs2_2page_8c.html#ae10da2cefd33c9affe7f4960fa4cc712" title="nilfs_copy_page" alt="" coords="212,233,328,260"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a4844b8163e94b4a214fbf85d86fe88d0" title="create_empty_buffers" alt="" coords="376,208,524,235"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="587,259,687,285"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a94ca9132735bfcb0b0b2ae9531461cc8" title="alloc_page_buffers" alt="" coords="572,107,703,133"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="971,107,1109,133"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a981702f40cf45ec9b31ad0139bef0ad4" title="alloc_buffer_head" alt="" coords="775,5,899,32"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a3b86ea46b7b35adeb32cc031574c6caf" title="set_bh_page" alt="" coords="789,107,885,133"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="777,56,896,83"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="751,157,923,184"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="983,31,1097,57"/>
+</map>

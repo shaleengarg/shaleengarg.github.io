@@ -1,0 +1,5 @@
+<map id="decode_fhandle" name="decode_fhandle">
+<area shape="rect" id="node2" href="$nfs2xdr_8c.html#adf772483a13836278649bfa430472382" title="decode_diropok" alt="" coords="167,5,280,32"/>
+<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a494ad45591e61f22c991315970e668b5" title="decode_diropres" alt="" coords="328,5,445,32"/>
+<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ab0c535b51ead7cf6a8d0408b12f1c754" title="nfs2_xdr_dec_diropres" alt="" coords="493,5,647,32"/>
+</map>

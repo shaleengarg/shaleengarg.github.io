@@ -1,0 +1,6 @@
+<map id="kernfs_iop_mkdir" name="kernfs_iop_mkdir">
+<area shape="rect" id="node2" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="360,5,447,32"/>
+<area shape="rect" id="node3" href="$kernfs_2dir_8c.html#acb30a8df494e7cca56095d943ac08b7e" title="kernfs_get_active" alt="" coords="175,81,300,108"/>
+<area shape="rect" id="node5" href="$kernfs_2dir_8c.html#a7f9d22e0386c7a16116127ed20fb04cc" title="kernfs_put_active" alt="" coords="175,31,300,57"/>
+<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#a11cf3bfb36050dd88b5c5b271164f527" title="kernfs_lockdep" alt="" coords="348,68,459,95"/>
+</map>

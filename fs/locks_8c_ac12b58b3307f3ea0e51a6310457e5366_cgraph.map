@@ -1,0 +1,6 @@
+<map id="locks_dispose_list" name="locks_dispose_list">
+<area shape="rect" id="node2" href="$locks_8c.html#a3946eda3effdd575cb8fb0a1e20c267c" title="locks_free_lock" alt="" coords="183,31,296,57"/>
+<area shape="rect" id="node3" href="$locks_8c.html#a8fd94e778fd9f51467c83f045029c2d1" title="locks_release_private" alt="" coords="344,5,492,32"/>
+<area shape="rect" id="node5" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="349,56,487,83"/>
+<area shape="rect" id="node4" href="$locks_8c.html#ae0e51117f92ae6dc5ccfbaa60aaa53f1" title="EXPORT_SYMBOL_GPL" alt="" coords="540,5,712,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="get_kcore_size" name="get_kcore_size">
+<area shape="rect" id="node2" href="$kcore_8c.html#ad77784326ceb006bd4ba7d2601380909" title="__kcore_update_ram" alt="" coords="164,31,307,57"/>
+<area shape="rect" id="node6" href="$kcore_8c.html#a8f161028873e459469db81ce2b9e38d6" title="read_kcore" alt="" coords="192,81,279,108"/>
+<area shape="rect" id="node3" href="$kcore_8c.html#a95945c011d8e6ab0149fabf651826dc6" title="kcore_update_ram" alt="" coords="355,31,484,57"/>
+<area shape="rect" id="node4" href="$kcore_8c.html#a949e9748b4214f71ac27e3226767ef62" title="open_kcore" alt="" coords="543,5,632,32"/>
+<area shape="rect" id="node5" href="$kcore_8c.html#a0c8f592df2f895e8732d81530aad6944" title="proc_kcore_init" alt="" coords="532,56,643,83"/>
+</map>

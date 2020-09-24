@@ -1,0 +1,8 @@
+<map id="nfs4_lock_type" name="nfs4_lock_type">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#ae599f0c256dcd884326705b80911cf42" title="encode_lock" alt="" coords="168,5,263,32"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a84720b18573de4122d56e14646c7161f" title="encode_lockt" alt="" coords="166,56,265,83"/>
+<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a9b1e398eaeab2cfa30bb3693b4d60c6f" title="encode_locku" alt="" coords="164,107,267,133"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a848a39f654f64d16aecd29c5d5ed35e2" title="nfs4_xdr_enc_lock" alt="" coords="319,5,449,32"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a4b1105e2d98c20bfcda35f2c447e92f1" title="nfs4_xdr_enc_lockt" alt="" coords="317,56,451,83"/>
+<area shape="rect" id="node7" href="$nfs4xdr_8c.html#a90b26317ebe26c6433dd1af91d09fc15" title="nfs4_xdr_enc_locku" alt="" coords="315,107,453,133"/>
+</map>

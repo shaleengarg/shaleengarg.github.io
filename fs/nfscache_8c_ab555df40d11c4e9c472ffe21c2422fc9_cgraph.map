@@ -1,0 +1,5 @@
+<map id="nfsd_reply_cache_scan" name="nfsd_reply_cache_scan">
+<area shape="rect" id="node2" href="$nfscache_8c.html#a0803df5bb80172362f3729b24708235e" title="prune_cache_entries" alt="" coords="212,13,355,39"/>
+<area shape="rect" id="node3" href="$nfscache_8c.html#a018aeaa3f65a28dde15c5d2db2cc63f0" title="prune_bucket" alt="" coords="403,13,503,39"/>
+<area shape="rect" id="node4" href="$nfscache_8c.html#acf44ec813982dcabebfb515edd22df9b" title="nfsd_reply_cache_free\l_locked" alt="" coords="551,5,704,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nfs_server_copy_userdata" name="nfs_server_copy_userdata">
+<area shape="rect" id="node2" href="$nfs_2internal_8h.html#a74da40629c00a2d52eb709fbbf64a754" title="nfs_clone_server" alt="" coords="236,29,357,56"/>
+<area shape="rect" id="node4" href="$nfs4client_8c.html#ae47bbbb9897bd93853fcc2f3935ec01f" title="nfs4_create_referral\l_server" alt="" coords="228,81,365,122"/>
+<area shape="rect" id="node3" href="$nfs3client_8c.html#aaeacfa9e9f6837b2257cff046f54e055" title="nfs3_clone_server" alt="" coords="420,29,548,56"/>
+<area shape="rect" id="node5" href="$nfs4super_8c.html#a80c028d31cf423d32a389da609c9c87f" title="nfs4_remote_referral\l_mount" alt="" coords="413,81,555,122"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="to_o2nm_node" name="to_o2nm_node">
+<area shape="rect" id="node2" href="$nodemanager_8c.html#a13afdc29b46870d98f87edb66bda8809" title="o2nm_node_release" alt="" coords="196,5,335,32"/>
+<area shape="rect" id="node3" href="$nodemanager_8c.html#af133bcd38d1ebe722d76d48e7ae63430" title="o2nm_node_num_show" alt="" coords="186,56,345,83"/>
+<area shape="rect" id="node4" href="$nodemanager_8c.html#a11ccfeb3a6fcb25c2668a546711416c7" title="o2nm_node_num_store" alt="" coords="187,107,344,133"/>
+<area shape="rect" id="node5" href="$nodemanager_8c.html#a6a808934bc4f266a49f49ff160629a36" title="o2nm_node_ipv4_port_show" alt="" coords="172,157,359,184"/>
+<area shape="rect" id="node6" href="$nodemanager_8c.html#a2abe442b093ba6d05949991698e2f152" title="o2nm_node_ipv4_port\l_store" alt="" coords="191,209,340,250"/>
+<area shape="rect" id="node7" href="$nodemanager_8c.html#a0c78b388f8353defb5fc6ee87bb70abf" title="o2nm_node_ipv4_address_show" alt="" coords="160,275,371,301"/>
+<area shape="rect" id="node8" href="$nodemanager_8c.html#acc31d06e7db2bc8ebc9d6fea25c3202e" title="o2nm_node_ipv4_address\l_store" alt="" coords="179,326,352,367"/>
+<area shape="rect" id="node9" href="$nodemanager_8c.html#ae0cd53f7f20d2d53a87a54cf4135adaa" title="o2nm_node_local_show" alt="" coords="185,392,346,419"/>
+<area shape="rect" id="node10" href="$nodemanager_8c.html#a4b7a34e9cb0299e35a63d842a16dbb79" title="o2nm_node_local_store" alt="" coords="186,443,345,469"/>
+<area shape="rect" id="node11" href="$nodemanager_8c.html#a95d481ec4526f8c9545a7d115026338d" title="o2nm_node_group_drop_item" alt="" coords="169,493,361,520"/>
+</map>

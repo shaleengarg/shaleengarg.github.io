@@ -1,0 +1,7 @@
+<map id="safe_hardlink_source" name="safe_hardlink_source">
+<area shape="rect" id="node2" href="$namei_8c.html#ad5c7f4ea266a5fe43f7c8dfb7503486a" title="may_linkat" alt="" coords="199,56,284,83"/>
+<area shape="rect" id="node3" href="$namei_8c.html#ab7b0deccaaa5116aac1d02f0ad8c5f52" title="do_linkat" alt="" coords="332,56,407,83"/>
+<area shape="rect" id="node4" href="$namei_8c.html#af35e1749397db5cda5e6111e0302289e" title="SYSCALL_DEFINE5" alt="" coords="455,5,601,32"/>
+<area shape="rect" id="node5" href="$namei_8c.html#a89344801cd485b79d772071d76110fc3" title="SYSCALL_DEFINE2" alt="" coords="455,56,601,83"/>
+<area shape="rect" id="node6" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="467,107,589,133"/>
+</map>

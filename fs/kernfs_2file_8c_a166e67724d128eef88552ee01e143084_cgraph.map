@@ -1,0 +1,12 @@
+<map id="kernfs_fop_open" name="kernfs_fop_open">
+<area shape="rect" id="node2" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="399,27,486,54"/>
+<area shape="rect" id="node3" href="$kernfs_2file_8c.html#a6d675144e2a63dd55a0246ee7663a237" title="kernfs_ops" alt="" coords="205,39,292,66"/>
+<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#acb30a8df494e7cca56095d943ac08b7e" title="kernfs_get_active" alt="" coords="186,141,311,167"/>
+<area shape="rect" id="node6" href="$seq__file_8c.html#ab724d0b6f14722c374b1933b66c913d1" title="seq_open" alt="" coords="209,343,288,370"/>
+<area shape="rect" id="node8" href="$kernfs_2file_8c.html#ab5c27fe490c1034d5e024684ce616f5b" title="kernfs_get_open_node" alt="" coords="172,191,325,218"/>
+<area shape="rect" id="node9" href="$kernfs_2dir_8c.html#a7f9d22e0386c7a16116127ed20fb04cc" title="kernfs_put_active" alt="" coords="186,90,311,117"/>
+<area shape="rect" id="node10" href="$kernfs_2file_8c.html#aa6bb7ef71d94f030a9f3f37557ec540a" title="kernfs_put_open_node" alt="" coords="172,293,325,319"/>
+<area shape="rect" id="node11" href="$seq__file_8c.html#a64b33cde1999efd86c566aaf3ad273c8" title="seq_release" alt="" coords="203,242,295,269"/>
+<area shape="rect" id="node5" href="$kernfs_2dir_8c.html#a11cf3bfb36050dd88b5c5b271164f527" title="kernfs_lockdep" alt="" coords="387,115,498,142"/>
+<area shape="rect" id="node7" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="373,293,512,319"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="target_leasetype" name="target_leasetype">
+<area shape="rect" id="node2" href="$locks_8c.html#ad91d79320692985ca688dce717c0d0ea" title="fcntl_getlease" alt="" coords="172,5,275,32"/>
+<area shape="rect" id="node3" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="323,5,391,32"/>
+<area shape="rect" id="node4" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="439,5,585,32"/>
+</map>

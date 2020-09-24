@@ -1,0 +1,8 @@
+<map id="nfs_inode_remove_request" name="nfs_inode_remove_request">
+<area shape="rect" id="node2" href="$nfs_2write_8c.html#a03d5822a32e1a4903f87ba2b8fc4675c" title="nfs_write_completion" alt="" coords="232,5,377,32"/>
+<area shape="rect" id="node4" href="$nfs_2write_8c.html#a7fffdaf537adb1e87512daa25fb96102" title="nfs_commit_release\l_pages" alt="" coords="235,57,374,98"/>
+<area shape="rect" id="node6" href="$nfs_2write_8c.html#a5157dd2ae6bad34be2db457625e45408" title="nfs_wb_page_cancel" alt="" coords="233,123,377,149"/>
+<area shape="rect" id="node3" href="$nfs_2write_8c.html#af5af5f6947774bea8d0942fd7427b93e" title="nfs_async_write_reschedule_io" alt="" coords="425,5,629,32"/>
+<area shape="rect" id="node5" href="$nfs_2write_8c.html#affb5d8ca3f363cbe6e7c28027f4f824a" title="nfs_commit_release" alt="" coords="458,64,597,91"/>
+<area shape="rect" id="node7" href="$nfs_2file_8c.html#ae163abee9ca0b0ca268279a2bc66fcc7" title="nfs_invalidate_page" alt="" coords="459,123,596,149"/>
+</map>

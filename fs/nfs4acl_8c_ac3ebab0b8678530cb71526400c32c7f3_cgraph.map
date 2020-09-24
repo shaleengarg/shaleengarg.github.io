@@ -1,0 +1,9 @@
+<map id="process_one_v4_ace" name="process_one_v4_ace">
+<area shape="rect" id="node2" href="$nfs4acl_8c.html#aef820d0d725e327ea7b7810b97d1bb11" title="ace2type" alt="" coords="219,5,294,32"/>
+<area shape="rect" id="node3" href="$nfs4acl_8c.html#ac48a1da7b4f09596448af484edc94305" title="allow_bits" alt="" coords="363,259,443,285"/>
+<area shape="rect" id="node4" href="$nfs4acl_8c.html#a59a5f84620f4243a1389bad2beaeb4c5" title="deny_bits" alt="" coords="363,81,442,108"/>
+<area shape="rect" id="node5" href="$nfs4acl_8c.html#a1b11e0f41665cc625a5a52ba32313d90" title="find_uid" alt="" coords="223,157,290,184"/>
+<area shape="rect" id="node6" href="$nfs4acl_8c.html#ad4685f8f3dd4de0461b40e7b4d50b755" title="deny_bits_array" alt="" coords="199,56,314,83"/>
+<area shape="rect" id="node7" href="$nfs4acl_8c.html#a569b5d2c7e150f208da2fa27f7d2171e" title="find_gid" alt="" coords="223,259,290,285"/>
+<area shape="rect" id="node8" href="$nfs4acl_8c.html#a852322ce69a1f7b05c70036b067cc4c7" title="allow_bits_array" alt="" coords="199,309,315,336"/>
+</map>

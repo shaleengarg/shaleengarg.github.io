@@ -1,0 +1,16 @@
+<map id="dlm_lowcomms_get_buffer" name="dlm_lowcomms_get_buffer">
+<area shape="rect" id="node2" href="$lowcomms_8c.html#ab476df412dce4534102d8527ee54d4a7" title="nodeid2con" alt="" coords="264,81,352,108"/>
+<area shape="rect" id="node15" href="$lowcomms_8c.html#a68e600ad4ffd918c5627f1433c423549" title="new_writequeue_entry" alt="" coords="232,132,384,159"/>
+<area shape="rect" id="node3" href="$lowcomms_8c.html#a071b54d96110d4eb6ef18f4991aa6d06" title="__nodeid2con" alt="" coords="432,81,535,108"/>
+<area shape="rect" id="node4" href="$lowcomms_8c.html#ad1ada7ed1ec77c03a6c868f606daa535" title="__find_con" alt="" coords="618,5,703,32"/>
+<area shape="rect" id="node5" href="$lowcomms_8c.html#af9e572208b3c9bcc1065fe79223b26dd" title="nodeid_hash" alt="" coords="791,31,885,57"/>
+<area shape="rect" id="node6" href="$lowcomms_8c.html#a617bfa4c5de1ba9249db7d747a25b9a8" title="process_send_sockets" alt="" coords="583,107,739,133"/>
+<area shape="rect" id="node14" href="$lowcomms_8c.html#aea0a826d1ea0c09995e5734e501fdf43" title="process_recv_sockets" alt="" coords="584,157,737,184"/>
+<area shape="rect" id="node7" href="$lowcomms_8c.html#a79868661466b0a092ba4507e41129051" title="send_to_sock" alt="" coords="787,107,889,133"/>
+<area shape="rect" id="node8" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="1001,56,1055,83"/>
+<area shape="rect" id="node10" href="$lowcomms_8c.html#a67d86dc6db9bed0369d151d613e903e5" title="writequeue_entry_complete" alt="" coords="937,107,1119,133"/>
+<area shape="rect" id="node12" href="$lowcomms_8c.html#a37b947868c2d0a40d010e707d9112e1d" title="close_connection" alt="" coords="967,157,1089,184"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="1169,56,1288,83"/>
+<area shape="rect" id="node11" href="$lowcomms_8c.html#a8acc55461d1513c353d2ea6efdde06c7" title="free_entry" alt="" coords="1189,107,1269,133"/>
+<area shape="rect" id="node13" href="$lowcomms_8c.html#ae3312d6561b9f66b227cb6ac807290eb" title="restore_callbacks" alt="" coords="1167,157,1291,184"/>
+</map>

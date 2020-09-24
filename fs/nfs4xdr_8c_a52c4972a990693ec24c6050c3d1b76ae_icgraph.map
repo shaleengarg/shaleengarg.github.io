@@ -1,0 +1,6 @@
+<map id="encode_delegation_type" name="encode_delegation_type">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a414b124fa919de8831db73b3a2d2d45a" title="encode_claim_previous" alt="" coords="216,31,375,57"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a1b41ffc7deab9e79d495e03cc14165ac" title="encode_open" alt="" coords="423,31,521,57"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#ac66d3792926f27232025255cba72761d" title="nfs4_xdr_enc_open" alt="" coords="589,5,724,32"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a3951ac577a6fc2408b1013e316088457" title="nfs4_xdr_enc_open_noattr" alt="" coords="569,56,744,83"/>
+</map>

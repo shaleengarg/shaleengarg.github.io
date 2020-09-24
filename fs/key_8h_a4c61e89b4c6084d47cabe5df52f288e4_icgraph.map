@@ -1,0 +1,7 @@
+<map id="dent_key_init_flash" name="dent_key_init_flash">
+<area shape="rect" id="node2" href="$ubifs_8h.html#a295cfad6549230751ca3d670fd12fc12" title="ubifs_jnl_xrename" alt="" coords="188,5,315,32"/>
+<area shape="rect" id="node5" href="$ubifs_8h.html#ab6387ea48fd6825a567f58c2786bee56" title="ubifs_jnl_rename" alt="" coords="191,56,311,83"/>
+<area shape="rect" id="node3" href="$ubifs_2dir_8c.html#ae23dceb04d7c1e26e2a774de2a6fb458" title="ubifs_xrename" alt="" coords="363,5,469,32"/>
+<area shape="rect" id="node4" href="$ubifs_2dir_8c.html#a694f37c0038586c58b4a2cfeab67d496" title="ubifs_rename" alt="" coords="517,31,617,57"/>
+<area shape="rect" id="node6" href="$ubifs_2dir_8c.html#ab7cff33bbe95d2729ca524f0c565907b" title="do_rename" alt="" coords="373,56,459,83"/>
+</map>

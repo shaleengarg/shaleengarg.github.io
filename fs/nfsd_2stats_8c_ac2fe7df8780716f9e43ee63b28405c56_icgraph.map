@@ -1,0 +1,4 @@
+<map id="nfsd_stat_shutdown" name="nfsd_stat_shutdown">
+<area shape="rect" id="node2" href="$nfsctl_8c.html#aa0941342590aaedb1394dec40ce23c76" title="init_nfsd" alt="" coords="192,5,263,32"/>
+<area shape="rect" id="node3" href="$nfsctl_8c.html#a89e963bef8069b15f9d216deb6d5a52a" title="exit_nfsd" alt="" coords="311,31,385,57"/>
+</map>

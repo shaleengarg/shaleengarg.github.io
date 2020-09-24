@@ -1,0 +1,8 @@
+<map id="encode_setclientid" name="encode_setclientid">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#af331741cfbeebb9874e32761ef58433a" title="encode_op_hdr" alt="" coords="200,5,311,32"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#ac438e20db91b58c5e1ec0b49489ea3e0" title="encode_nfs4_verifier" alt="" coords="184,56,327,83"/>
+<area shape="rect" id="node6" href="$nfs4xdr_8c.html#aee5aaa9c7dc964ab42740779ad053445" title="encode_string" alt="" coords="204,107,307,133"/>
+<area shape="rect" id="node7" href="$nfs4xdr_8c.html#aeb6935e87253006dc578e9f5f5709dd2" title="reserve_space" alt="" coords="202,157,309,184"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ab33bed6588aeafcdec18900fffe81db3" title="encode_uint32" alt="" coords="395,5,502,32"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a2e97a3560d7e1904d702ec9f343873fe" title="encode_opaque_fixed" alt="" coords="375,56,523,83"/>
+</map>

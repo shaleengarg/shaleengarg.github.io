@@ -1,0 +1,25 @@
+var nilfs2_2namei_8c =
+[
+    [ "NILFS_FID_SIZE_CONNECTABLE", "nilfs2_2namei_8c.html#a39bae1fe2badbe4569553b9c1568b896", null ],
+    [ "NILFS_FID_SIZE_NON_CONNECTABLE", "nilfs2_2namei_8c.html#a44d473bca118445dc271cd424eeddc71", null ],
+    [ "nilfs_add_nondir", "nilfs2_2namei_8c.html#aa4bf29d1dddcdb9d54f71ac228671ece", null ],
+    [ "nilfs_create", "nilfs2_2namei_8c.html#a42fc7600e29348f24e2dbb367c25930e", null ],
+    [ "nilfs_do_unlink", "nilfs2_2namei_8c.html#ae2705c2358d0e75d783e8773536d2c02", null ],
+    [ "nilfs_encode_fh", "nilfs2_2namei_8c.html#addfb534957885e59a79be21f811b653f", null ],
+    [ "nilfs_fh_to_dentry", "nilfs2_2namei_8c.html#a444bbb65c8f09b9152991b715bbb506c", null ],
+    [ "nilfs_fh_to_parent", "nilfs2_2namei_8c.html#adfcfe9dfa411a361b4a067c6e18ea650", null ],
+    [ "nilfs_get_dentry", "nilfs2_2namei_8c.html#a06d1d7ef88025ad21453d4010d0e7d61", null ],
+    [ "nilfs_get_parent", "nilfs2_2namei_8c.html#aa915ea520e3dfae0c4fa1c7f67915198", null ],
+    [ "nilfs_link", "nilfs2_2namei_8c.html#a58c2145f412579c3d56691a02664b765", null ],
+    [ "nilfs_lookup", "nilfs2_2namei_8c.html#acd285c61b74c9b9bf7ec90cbd9c047fc", null ],
+    [ "nilfs_mkdir", "nilfs2_2namei_8c.html#a4286ecd2133e48ffac0b2b7218a2f17a", null ],
+    [ "nilfs_mknod", "nilfs2_2namei_8c.html#a5fee3b15e7f58081ec8fd9cd1c43e55a", null ],
+    [ "nilfs_rename", "nilfs2_2namei_8c.html#af09976ebf34c40eacaeaac28a4e00f95", null ],
+    [ "nilfs_rmdir", "nilfs2_2namei_8c.html#aa26376eec3ac46f8addd4a5f6f7ca1e2", null ],
+    [ "nilfs_symlink", "nilfs2_2namei_8c.html#a83737a267d28fb54629a821efc9bd2a0", null ],
+    [ "nilfs_unlink", "nilfs2_2namei_8c.html#a2d87a38f1671f1e8162939d34f52abd9", null ],
+    [ "nilfs_dir_inode_operations", "nilfs2_2namei_8c.html#abb64fec87b3d55149eec1e7f6aae9025", null ],
+    [ "nilfs_export_ops", "nilfs2_2namei_8c.html#a88c7e94d0d61018f1de7fa958ddb4c51", null ],
+    [ "nilfs_special_inode_operations", "nilfs2_2namei_8c.html#aa078a9bb1f00f2475127f025756477dd", null ],
+    [ "nilfs_symlink_inode_operations", "nilfs2_2namei_8c.html#a47dd07d2830d7dd93940b17fa8897bb3", null ]
+];

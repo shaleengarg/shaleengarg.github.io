@@ -1,0 +1,8 @@
+<map id="encode_sequence" name="encode_sequence">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#af331741cfbeebb9874e32761ef58433a" title="encode_op_hdr" alt="" coords="196,5,307,32"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ab33bed6588aeafcdec18900fffe81db3" title="encode_uint32" alt="" coords="391,31,498,57"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aeb6935e87253006dc578e9f5f5709dd2" title="reserve_space" alt="" coords="198,107,305,133"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#aad7b07d6441393b8cb49dc91e3c86f08" title="encode_nfs4_stateid" alt="" coords="180,157,323,184"/>
+<area shape="rect" id="node7" href="$nfs4xdr_8c.html#adf78dc4d49296cbe1ef2e4e905fde6c4" title="encode_layoutreturn" alt="" coords="182,208,321,235"/>
+<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a2e97a3560d7e1904d702ec9f343873fe" title="encode_opaque_fixed" alt="" coords="371,157,519,184"/>
+</map>

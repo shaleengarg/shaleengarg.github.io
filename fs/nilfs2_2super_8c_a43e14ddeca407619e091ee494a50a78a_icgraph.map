@@ -1,0 +1,5 @@
+<map id="nilfs_destroy_cachep" name="nilfs_destroy_cachep">
+<area shape="rect" id="node2" href="$nilfs2_2super_8c.html#a7f2a1d2dc0283ddec84fa618e28bd79c" title="nilfs_init_cachep" alt="" coords="199,5,317,32"/>
+<area shape="rect" id="node3" href="$nilfs2_2super_8c.html#a8e5d041a80c6935216416029dcffde0e" title="init_nilfs_fs" alt="" coords="365,56,453,83"/>
+<area shape="rect" id="node4" href="$nilfs2_2super_8c.html#a857b1dfcda0153b5d2480be8abfd8dac" title="exit_nilfs_fs" alt="" coords="501,81,593,108"/>
+</map>

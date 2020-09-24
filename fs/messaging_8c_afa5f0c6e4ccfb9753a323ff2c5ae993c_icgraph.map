@@ -1,0 +1,10 @@
+<map id="ecryptfs_msg_ctx_alloc_to_free" name="ecryptfs_msg_ctx_alloc_to_free">
+<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ac96ef599ae7878dc4c2459b1f2f3de4b" title="ecryptfs_wait_for_response" alt="" coords="443,5,625,32"/>
+<area shape="rect" id="node3" href="$messaging_8c.html#a2f2b66714d779ad0e2c9347f7c412da4" title="ecryptfs_exorcise_daemon" alt="" coords="213,56,392,83"/>
+<area shape="rect" id="node9" href="$miscdev_8c.html#aaacfe8b20f05523915edd49d2487349e" title="ecryptfs_miscdev_read" alt="" coords="224,107,381,133"/>
+<area shape="rect" id="node4" href="$messaging_8c.html#a83a551f817e776aaea301bb9191199f9" title="ecryptfs_release_messaging" alt="" coords="440,56,628,83"/>
+<area shape="rect" id="node8" href="$miscdev_8c.html#aee0657f6ed112e3782c08c30c07af319" title="ecryptfs_miscdev_release" alt="" coords="447,107,621,133"/>
+<area shape="rect" id="node5" href="$ecryptfs_2main_8c.html#abe6d03208b49def9b19a36c8a79373b9" title="ecryptfs_init" alt="" coords="887,56,980,83"/>
+<area shape="rect" id="node6" href="$ecryptfs_2main_8c.html#aa32ace6b7c319adb175778c357041568" title="ecryptfs_exit" alt="" coords="1028,81,1125,108"/>
+<area shape="rect" id="node7" href="$messaging_8c.html#a6babe1511f5e89350b70a7dd6adcbf90" title="ecryptfs_init_messaging" alt="" coords="676,56,839,83"/>
+</map>

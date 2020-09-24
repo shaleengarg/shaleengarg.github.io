@@ -1,0 +1,8 @@
+<map id="nfs_clear_request_commit" name="nfs_clear_request_commit">
+<area shape="rect" id="node2" href="$nfs_2write_8c.html#a3f1a00afeb2cc9a85678cd7a8338bc92" title="nfs_init_cinfo_from\l_inode" alt="" coords="242,5,374,47"/>
+<area shape="rect" id="node4" href="$pnfs_8h.html#a08cf0954bddedce412a6fa2f06edb771" title="pnfs_clear_request\l_commit" alt="" coords="242,71,374,112"/>
+<area shape="rect" id="node5" href="$nfs_2write_8c.html#a55eeade5a155896ca5ebb7b0c7bfe2b2" title="nfs_request_remove\l_commit_list" alt="" coords="238,136,378,177"/>
+<area shape="rect" id="node7" href="$nfs_2write_8c.html#ae47afaac2c9fb7fb894123ea16345d8f" title="nfs_clear_page_commit" alt="" coords="228,202,388,229"/>
+<area shape="rect" id="node3" href="$pnfs_8h.html#a53f38ed32d635277c7154bfff1aef598" title="pnfs_get_ds_info" alt="" coords="461,13,583,39"/>
+<area shape="rect" id="node6" href="$nfs_2write_8c.html#a08c7de8fef2f385ba12d1bf13fce803c" title="EXPORT_SYMBOL_GPL" alt="" coords="436,143,608,170"/>
+</map>

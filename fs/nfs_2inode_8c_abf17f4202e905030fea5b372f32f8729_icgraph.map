@@ -1,0 +1,11 @@
+<map id="nfs_vmtruncate" name="nfs_vmtruncate">
+<area shape="rect" id="node2" href="$nfs_2inode_8c.html#ac06c4036389033ca6607039b0d44592c" title="nfs_setattr_update\l_inode" alt="" coords="165,74,296,115"/>
+<area shape="rect" id="node3" href="$nfs_2proc_8c.html#a0ff56cfb1f01361165c50f64e63c59ef" title="nfs_proc_setattr" alt="" coords="347,5,463,32"/>
+<area shape="rect" id="node4" href="$nfs3proc_8c.html#a54ff3c648848f8743ff94e7dbd99ee73" title="nfs3_proc_setattr" alt="" coords="344,56,467,83"/>
+<area shape="rect" id="node6" href="$nfs4proc_8c.html#a42bc234737bac5a3112d6f2a4d21821f" title="_nfs4_do_open" alt="" coords="350,107,461,133"/>
+<area shape="rect" id="node10" href="$nfs4proc_8c.html#addce183921ef11637f1d4189795c04f0" title="nfs4_proc_setattr" alt="" coords="344,157,467,184"/>
+<area shape="rect" id="node5" href="$nfs3proc_8c.html#ae6b88918b0588f49b1e6ab3380cf7fb4" title="nfs3_proc_create" alt="" coords="515,56,637,83"/>
+<area shape="rect" id="node7" href="$nfs4proc_8c.html#a4d76e21426c2445eb232093cae7fcb87" title="nfs4_do_open" alt="" coords="525,107,627,133"/>
+<area shape="rect" id="node8" href="$nfs4proc_8c.html#ae5867549d21e71ae3e3bd25c9f84f76a" title="nfs4_atomic_open" alt="" coords="685,81,813,108"/>
+<area shape="rect" id="node9" href="$nfs4proc_8c.html#a0832ef444b1654fc2b2c6a24563138b6" title="nfs4_proc_create" alt="" coords="688,132,811,159"/>
+</map>

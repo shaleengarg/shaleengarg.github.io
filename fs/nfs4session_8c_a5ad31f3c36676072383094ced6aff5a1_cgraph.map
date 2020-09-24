@@ -1,0 +1,10 @@
+<map id="nfs41_try_wake_next_slot_table_entry" name="nfs41_try_wake_next_slot_table_entry">
+<area shape="rect" id="node2" href="$nfs4session_8c.html#a17ac12a5c80edeeeb636251f5e541688" title="nfs4_alloc_slot" alt="" coords="249,56,358,83"/>
+<area shape="rect" id="node6" href="$nfs4session_8c.html#a8e6b7100453c5a24340361eb9973e0e0" title="__nfs41_wake_and_assign_slot" alt="" coords="200,107,407,133"/>
+<area shape="rect" id="node8" href="$nfs4session_8c.html#a5ae0427effd61a64721e74656fd1a4c3" title="nfs4_free_slot" alt="" coords="251,161,355,188"/>
+<area shape="rect" id="node3" href="$nfs4session_8c.html#a1b8596f0771e688c405ee009adc830d4" title="nfs4_find_or_create_slot" alt="" coords="455,5,619,32"/>
+<area shape="rect" id="node5" href="$nfs4session_8c.html#a49336b7e8b2d96f81a9b920f587d7a27" title="nfs4_lock_slot" alt="" coords="483,56,590,83"/>
+<area shape="rect" id="node4" href="$nfs4session_8c.html#aa541623176dc49b6d9325d5238ddd4eb" title="nfs4_new_slot" alt="" coords="667,5,773,32"/>
+<area shape="rect" id="node7" href="$nfs4session_8c.html#aee346e5c32ae2e80a30184a0b205194d" title="nfs41_assign_slot" alt="" coords="473,107,600,133"/>
+<area shape="rect" id="node9" href="$nfs4session_8c.html#a1fec846336921455b953f9c39a0a84c9" title="nfs4_slot_tbl_drain\l_complete" alt="" coords="471,158,602,199"/>
+</map>

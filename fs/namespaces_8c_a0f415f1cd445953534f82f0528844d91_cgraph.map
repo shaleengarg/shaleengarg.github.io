@@ -1,0 +1,9 @@
+<map id="proc_ns_readlink" name="proc_ns_readlink">
+<area shape="rect" id="node2" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="501,5,573,32"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#a24c9a350b2a54f68919aa6cb1141237f" title="get_proc_task" alt="" coords="173,56,277,83"/>
+<area shape="rect" id="node7" href="$nsfs_8c.html#a05cb87958023492477b7c00d27e52bd9" title="ns_get_name" alt="" coords="175,107,275,133"/>
+<area shape="rect" id="node8" href="$namei_8c.html#aeed4cada8919514fb4e812245ecfb603" title="readlink_copy" alt="" coords="174,157,277,184"/>
+<area shape="rect" id="node4" href="$proc_2internal_8h.html#ab1ad9fb236322ee7a10f2f839a798aee" title="proc_pid" alt="" coords="354,31,425,57"/>
+<area shape="rect" id="node5" href="$proc_2internal_8h.html#aa8a275603707a7a506f2b5107a6ca567" title="task_dump_owner" alt="" coords="325,81,453,108"/>
+<area shape="rect" id="node6" href="$proc_2internal_8h.html#afee21daae26dc31c35471f4660900c8a" title="name_to_int" alt="" coords="343,132,436,159"/>
+</map>

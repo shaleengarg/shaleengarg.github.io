@@ -1,0 +1,7 @@
+<map id="nilfs_segctor_reset_segment_buffer" name="nilfs_segctor_reset_segment_buffer">
+<area shape="rect" id="node2" href="$nilfs_8h.html#aa2547b587fff139262e053241c6d5165" title="nilfs_doing_gc" alt="" coords="197,8,302,35"/>
+<area shape="rect" id="node4" href="$segbuf_8c.html#a5ee5009cc612b5a410f25e9c32460da1" title="nilfs_segbuf_reset" alt="" coords="185,60,313,87"/>
+<area shape="rect" id="node3" href="$nilfs_8h.html#a0e51be0290a47aca596f1257148b18d1" title="nilfs_test_transaction_flag" alt="" coords="361,5,536,32"/>
+<area shape="rect" id="node5" href="$segbuf_8c.html#af529ffec555c692ff70870d893d799f0" title="nilfs_segbuf_extend\l_segsum" alt="" coords="379,57,518,98"/>
+<area shape="rect" id="node6" href="$segbuf_8h.html#aae7eabeb766f1247fd2c136a0207ca2c" title="nilfs_segbuf_add_segsum\l_buffer" alt="" coords="584,57,757,98"/>
+</map>

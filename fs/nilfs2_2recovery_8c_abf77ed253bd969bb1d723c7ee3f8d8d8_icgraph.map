@@ -1,0 +1,29 @@
+<map id="nilfs_scan_dsync_log" name="nilfs_scan_dsync_log">
+<area shape="rect" id="node2" href="$nilfs2_2recovery_8c.html#a2a17f874531cf68d55aecb35d5e54fff" title="nilfs_do_roll_forward" alt="" coords="200,351,341,377"/>
+<area shape="rect" id="node3" href="$nilfs2_2segment_8h.html#a9e61516876368ef4aa3118ef414d37c3" title="nilfs_salvage_orphan_logs" alt="" coords="389,351,564,377"/>
+<area shape="rect" id="node4" href="$the__nilfs_8h.html#acf19b96bd4de0b4bc159d5f7ceca5b3d" title="load_nilfs" alt="" coords="612,208,689,235"/>
+<area shape="rect" id="node5" href="$nilfs2_2super_8c.html#a1ea867b4c80af5447edde8aad7f03a6c" title="nilfs_fill_super" alt="" coords="1954,241,2059,268"/>
+<area shape="rect" id="node7" href="$the__nilfs_8h.html#a896212eecf4577d6ec6f424ce62622d3" title="nilfs_sb_will_flip" alt="" coords="737,208,855,235"/>
+<area shape="rect" id="node6" href="$nilfs2_2super_8c.html#a6f69bb47bb8193c95863dfa7858e0556" title="nilfs_mount" alt="" coords="2125,279,2214,305"/>
+<area shape="rect" id="node8" href="$nilfs2_2super_8c.html#aa52d92dd32f84052f43449918f769c15" title="nilfs_sync_fs" alt="" coords="932,183,1031,209"/>
+<area shape="rect" id="node9" href="$nilfs2_2segment_8c.html#a7a995d883df35bebf400352d48cc380a" title="nilfs_segctor_construct" alt="" coords="903,233,1060,260"/>
+<area shape="rect" id="node10" href="$nilfs2_2segment_8h.html#a743bf0928dcbc45a2ba24a08ac395224" title="nilfs_clean_segments" alt="" coords="1112,183,1260,209"/>
+<area shape="rect" id="node20" href="$nilfs2_2segment_8c.html#a94663ea74105a230816c915236ad199a" title="nilfs_segctor_thread\l_construct" alt="" coords="1117,285,1255,326"/>
+<area shape="rect" id="node25" href="$nilfs2_2segment_8c.html#a2eda3501e8ed1cdd3323a4a77257416f" title="nilfs_segctor_write_out" alt="" coords="1108,233,1264,260"/>
+<area shape="rect" id="node11" href="$nilfs2_2ioctl_8c.html#a80c0559fcfd518a664113365f15d1096" title="nilfs_ioctl_clean_segments" alt="" coords="1312,81,1491,108"/>
+<area shape="rect" id="node12" href="$nilfs_8h.html#a6088f2256e22e83b6ee9313e6e2a51a5" title="nilfs_ioctl" alt="" coords="1577,81,1655,108"/>
+<area shape="rect" id="node13" href="$nilfs_8h.html#a27c90b00199990855f3026ca77b28be7" title="nilfs_mask_flags" alt="" coords="1757,81,1877,108"/>
+<area shape="rect" id="node14" href="$nilfs_8h.html#a6a913a459ba0d008002ccb63b2adcf52" title="nilfs_new_inode" alt="" coords="1949,81,2064,108"/>
+<area shape="rect" id="node19" href="$nilfs2_2ioctl_8c.html#a1ad02ae5704ccd6ef70f0c0eb418d4ac" title="nilfs_ioctl_setflags" alt="" coords="1941,31,2072,57"/>
+<area shape="rect" id="node15" href="$nilfs2_2namei_8c.html#a42fc7600e29348f24e2dbb367c25930e" title="nilfs_create" alt="" coords="2125,157,2214,184"/>
+<area shape="rect" id="node16" href="$nilfs2_2namei_8c.html#a5fee3b15e7f58081ec8fd9cd1c43e55a" title="nilfs_mknod" alt="" coords="2123,5,2215,32"/>
+<area shape="rect" id="node17" href="$nilfs2_2namei_8c.html#a83737a267d28fb54629a821efc9bd2a0" title="nilfs_symlink" alt="" coords="2120,56,2219,83"/>
+<area shape="rect" id="node18" href="$nilfs2_2namei_8c.html#a4286ecd2133e48ffac0b2b7218a2f17a" title="nilfs_mkdir" alt="" coords="2127,107,2212,133"/>
+<area shape="rect" id="node21" href="$nilfs2_2segment_8c.html#a39d3b93661aea1ce6d75d52641a734f7" title="nilfs_segctor_thread" alt="" coords="1332,376,1471,403"/>
+<area shape="rect" id="node22" href="$nilfs2_2segment_8c.html#accb2af3cf720ef8a382baa244f770a64" title="nilfs_segctor_start\l_thread" alt="" coords="1551,361,1681,402"/>
+<area shape="rect" id="node23" href="$nilfs2_2segment_8h.html#accc0b22d29c5e0dc0550492c2814845f" title="nilfs_attach_log_writer" alt="" coords="1741,368,1893,395"/>
+<area shape="rect" id="node24" href="$nilfs2_2super_8c.html#abaf12a9facc571b7e4e46389a440b694" title="nilfs_remount" alt="" coords="1957,317,2057,344"/>
+<area shape="rect" id="node26" href="$nilfs2_2segment_8c.html#a53eace4b3351e7a47d95a83e02257fda" title="nilfs_segctor_destroy" alt="" coords="1328,237,1475,264"/>
+<area shape="rect" id="node27" href="$nilfs2_2segment_8h.html#a86ad97768e43fb1c81c962ab7f895fb0" title="nilfs_detach_log_writer" alt="" coords="1539,288,1693,315"/>
+<area shape="rect" id="node28" href="$nilfs2_2super_8c.html#aa48b8ba2014d88aac606b97a2b09d0ef" title="nilfs_put_super" alt="" coords="1762,267,1873,293"/>
+</map>

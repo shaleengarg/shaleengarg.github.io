@@ -1,0 +1,5 @@
+<map id="nfs_can_extend_write" name="nfs_can_extend_write">
+<area shape="rect" id="node2" href="$nfs_2write_8c.html#a9bcc148917925dcda5608d8d2ccc9e23" title="nfs_write_pageuptodate" alt="" coords="203,13,363,39"/>
+<area shape="rect" id="node4" href="$nfs_2write_8c.html#a734e03590178003730fd3ea5bf065432" title="is_whole_file_wrlock" alt="" coords="211,63,354,90"/>
+<area shape="rect" id="node3" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="411,5,549,47"/>
+</map>

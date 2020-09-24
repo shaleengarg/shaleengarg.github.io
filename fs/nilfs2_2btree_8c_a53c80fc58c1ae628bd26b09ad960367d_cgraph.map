@@ -1,0 +1,7 @@
+<map id="nilfs_btree_add_dirty_buffer" name="nilfs_btree_add_dirty_buffer">
+<area shape="rect" id="node2" href="$nilfs2_2btree_8c.html#a2118b95aded03bc4e9374f1ff5be1126" title="nilfs_btree_node_get_key" alt="" coords="196,13,367,39"/>
+<area shape="rect" id="node6" href="$nilfs2_2btree_8c.html#a427bb91c91c14dc89a2bfdcbadace0c9" title="nilfs_btree_node_get\l_level" alt="" coords="210,64,353,105"/>
+<area shape="rect" id="node3" href="$nilfs2_2btree_8c.html#a0919f45613eeddfc774d8773bb15e88c" title="nilfs_btree_node_dkeys" alt="" coords="415,13,573,39"/>
+<area shape="rect" id="node4" href="$nilfs2_2btree_8c.html#a525dcd1bbb660c13cf39b744cdf3ea0c" title="nilfs_btree_node_root" alt="" coords="621,13,768,39"/>
+<area shape="rect" id="node5" href="$nilfs2_2btree_8c.html#acd55e7ca4162de408cc1094902494abd" title="nilfs_btree_node_get\l_flags" alt="" coords="816,5,959,47"/>
+</map>

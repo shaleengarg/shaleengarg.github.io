@@ -1,0 +1,7 @@
+<map id="V1_minix_truncate" name="V1_minix_truncate">
+<area shape="rect" id="node2" href="$minix_8h.html#af7df781c201ee2515cc46012a74cd378" title="minix_truncate" alt="" coords="184,56,291,83"/>
+<area shape="rect" id="node3" href="$minix_2file_8c.html#a3b3d5d609ec47ead5116d33bf3ddac07" title="minix_setattr" alt="" coords="353,5,451,32"/>
+<area shape="rect" id="node4" href="$minix_2inode_8c.html#aa46ad55c28e852b3f20a1cab3edeeebc" title="minix_evict_inode" alt="" coords="339,56,465,83"/>
+<area shape="rect" id="node5" href="$minix_2inode_8c.html#aa4c4af0d069ede56a694ec98771ef7a4" title="minix_write_failed" alt="" coords="339,107,465,133"/>
+<area shape="rect" id="node6" href="$minix_2inode_8c.html#aa3a3d93c345cf34ff1a53b57a93a7f3b" title="minix_write_begin" alt="" coords="513,107,640,133"/>
+</map>

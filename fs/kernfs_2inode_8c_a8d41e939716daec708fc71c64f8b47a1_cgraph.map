@@ -1,0 +1,8 @@
+<map id="kernfs_xattr_set" name="kernfs_xattr_set">
+<area shape="rect" id="node2" href="$xattr_8c.html#a08e352fb6bda8453c3865462e9087a1a" title="xattr_full_name" alt="" coords="173,5,284,32"/>
+<area shape="rect" id="node4" href="$kernfs_2inode_8c.html#aa9f3eff59b54ec6854ecbc6408b5449a" title="kernfs_iattrs" alt="" coords="181,56,276,83"/>
+<area shape="rect" id="node6" href="$xattr_8c.html#a4e80f579b6d094f7700c63096b1ab84c" title="simple_xattr_set" alt="" coords="169,107,288,133"/>
+<area shape="rect" id="node3" href="$xattr_8c.html#a57b6079645d9335c929506d64d398859" title="EXPORT_SYMBOL" alt="" coords="336,5,475,32"/>
+<area shape="rect" id="node5" href="$fuse_2inode_8c.html#a8100df689e875199c8f3f3412be1ea2b" title="DEFINE_MUTEX" alt="" coords="342,56,469,83"/>
+<area shape="rect" id="node7" href="$xattr_8c.html#ae60c3ea733d04aa5f66baae8573c5f8e" title="simple_xattr_alloc" alt="" coords="342,107,469,133"/>
+</map>

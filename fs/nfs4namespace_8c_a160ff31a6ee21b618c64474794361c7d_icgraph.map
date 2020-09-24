@@ -1,0 +1,6 @@
+<map id="nfs4_path" name="nfs4_path">
+<area shape="rect" id="node2" href="$nfs4namespace_8c.html#aff748bb0a50fc77292b19b99c6d4a49e" title="nfs4_validate_fspath" alt="" coords="132,5,275,32"/>
+<area shape="rect" id="node3" href="$nfs4namespace_8c.html#a7702190813f1bfc6bcb43edbe8242600" title="nfs_follow_referral" alt="" coords="323,5,451,32"/>
+<area shape="rect" id="node4" href="$nfs4namespace_8c.html#a546ed0f782822e6e3b31b7e7d22bf2c9" title="nfs_do_refmount" alt="" coords="499,5,617,32"/>
+<area shape="rect" id="node5" href="$nfs4namespace_8c.html#abb583edebee636f6f7feccde9ab72225" title="nfs4_submount" alt="" coords="665,5,776,32"/>
+</map>

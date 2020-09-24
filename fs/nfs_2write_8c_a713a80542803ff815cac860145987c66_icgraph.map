@@ -1,0 +1,12 @@
+<map id="nfs_wb_page" name="nfs_wb_page">
+<area shape="rect" id="node2" href="$nfs_2file_8c.html#af541a27c0aa1866126d2ebeba576e0fc" title="nfs_launder_page" alt="" coords="178,5,302,32"/>
+<area shape="rect" id="node3" href="$nfs_2write_8c.html#ab0e5f82125bec125d78873d8a836d2df" title="nfs_try_to_update_request" alt="" coords="152,56,328,83"/>
+<area shape="rect" id="node9" href="$nfs_2write_8c.html#a57672dffbb4bf2f6a26314767937d839" title="nfs_flush_incompatible" alt="" coords="163,107,317,133"/>
+<area shape="rect" id="node11" href="$nfs_2read_8c.html#a7b99eb85ad7c6053191a6214bc7d53f7" title="nfs_readpage" alt="" coords="190,157,290,184"/>
+<area shape="rect" id="node4" href="$nfs_2write_8c.html#af1532f798bf5e482045bcf5c61132a20" title="nfs_setup_write_request" alt="" coords="376,56,540,83"/>
+<area shape="rect" id="node5" href="$nfs_2write_8c.html#a9b9f720c94f49d38905a2814027c0666" title="nfs_writepage_setup" alt="" coords="588,56,731,83"/>
+<area shape="rect" id="node6" href="$nfs_2write_8c.html#a374f7a4e21dd7828048603fe45f57242" title="nfs_updatepage" alt="" coords="779,56,893,83"/>
+<area shape="rect" id="node7" href="$nfs_2file_8c.html#ab4c10747f93b9a85bf760612a3d47075" title="nfs_write_end" alt="" coords="967,56,1069,83"/>
+<area shape="rect" id="node8" href="$nfs_2file_8c.html#a926bb261716bf1da84d8707984b489e1" title="nfs_vm_page_mkwrite" alt="" coords="941,107,1095,133"/>
+<area shape="rect" id="node10" href="$nfs_2file_8c.html#a1a39181efdbf2b830c8e5629a6fbe88b" title="nfs_write_begin" alt="" coords="401,157,515,184"/>
+</map>

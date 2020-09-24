@@ -1,0 +1,28 @@
+var ntfs_2inode_8c =
+[
+    [ "set_t", "ntfs_2inode_8c.html#aeaa52fbf002019885bc8ae0e5b57ba3e", null ],
+    [ "__ntfs_clear_inode", "ntfs_2inode_8c.html#abbc5f657cb686d3a983afcbbffc41031", null ],
+    [ "__ntfs_init_inode", "ntfs_2inode_8c.html#ab985cfa10772115a5f42ef4dc97ce719", null ],
+    [ "ntfs_alloc_big_inode", "ntfs_2inode_8c.html#a13f0c0e3a1f71467e4e7b5c7f8219637", null ],
+    [ "ntfs_alloc_extent_inode", "ntfs_2inode_8c.html#a8497e257479bd48f497dd04eb0a34750", null ],
+    [ "ntfs_attr_iget", "ntfs_2inode_8c.html#a5cbfd09234c5615f6dbf757587558bd3", null ],
+    [ "ntfs_clear_extent_inode", "ntfs_2inode_8c.html#a43b97ae96340d9713766df90037dacbe", null ],
+    [ "ntfs_destroy_big_inode", "ntfs_2inode_8c.html#a87898e013eadaf5063dc5b254ba5b65a", null ],
+    [ "ntfs_destroy_extent_inode", "ntfs_2inode_8c.html#ad4e37700ea8d70a20fb28f28fcf2d4d5", null ],
+    [ "ntfs_evict_big_inode", "ntfs_2inode_8c.html#a76485d3cbca6e1c1c943305466d8f1b4", null ],
+    [ "ntfs_i_callback", "ntfs_2inode_8c.html#a2d9cefc2302ad65c8d2c8bb8e8fbac0b", null ],
+    [ "ntfs_iget", "ntfs_2inode_8c.html#aa96c9ef81adffe095044a53a49d5d581", null ],
+    [ "ntfs_index_iget", "ntfs_2inode_8c.html#a37b51bf418feea6397cf91df09e49802", null ],
+    [ "ntfs_init_locked_inode", "ntfs_2inode_8c.html#a7a81decedcd1c604395899479ed81c7b", null ],
+    [ "ntfs_is_extended_system_file", "ntfs_2inode_8c.html#a95369e929e520667ddb68d49c9e4bde4", null ],
+    [ "ntfs_new_extent_inode", "ntfs_2inode_8c.html#a22bd60d25a91bd05b32ace0795fcc196", null ],
+    [ "ntfs_read_inode_mount", "ntfs_2inode_8c.html#a9dbdefee1eb75094e80ab0268c88f09d", null ],
+    [ "ntfs_read_locked_attr_inode", "ntfs_2inode_8c.html#ab7dc20a011b54a05dd7a1c0863293565", null ],
+    [ "ntfs_read_locked_index_inode", "ntfs_2inode_8c.html#aeb9292c6b4bdf01df143a7d248a0d0d1", null ],
+    [ "ntfs_read_locked_inode", "ntfs_2inode_8c.html#abb7b69ff7b1ae5e34a80a17ec6bb0f87", null ],
+    [ "ntfs_show_options", "ntfs_2inode_8c.html#ac0991afa8122474f9cabc7803999f1bb", null ],
+    [ "ntfs_test_inode", "ntfs_2inode_8c.html#a6d8b96cf26fa5d3d90420acd32a57453", null ],
+    [ "attr_list_rl_lock_class", "ntfs_2inode_8c.html#a9ee7ed036f4d9d46cad9bba22fe30232", null ],
+    [ "extent_inode_mrec_lock_key", "ntfs_2inode_8c.html#a298c90eaf0dfb206e59a24bc7bc7d7f6", null ],
+    [ "mft_ni_mrec_lock_key", "ntfs_2inode_8c.html#a33f199f62e3417eea6b26ba3c4b2149f", null ]
+];

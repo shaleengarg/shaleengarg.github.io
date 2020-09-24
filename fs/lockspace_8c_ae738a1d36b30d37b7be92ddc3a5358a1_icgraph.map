@@ -1,0 +1,12 @@
+<map id="release_lockspace" name="release_lockspace">
+<area shape="rect" id="node2" href="$lockspace_8c.html#a8fba8432420a6deed197dbd3d9b0c1c3" title="dlm_release_lockspace" alt="" coords="184,132,343,159"/>
+<area shape="rect" id="node3" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="443,5,514,32"/>
+<area shape="rect" id="node4" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="394,56,563,83"/>
+<area shape="rect" id="node7" href="$user_8c.html#a52bbc2eb34eefac21ddaba8178f1271a" title="device_remove_lockspace" alt="" coords="391,107,567,133"/>
+<area shape="rect" id="node8" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="432,157,525,184"/>
+<area shape="rect" id="node9" href="$lock__dlm_8c.html#affc6710ef73a226f3af526b2ad959d5f" title="gdlm_unmount" alt="" coords="425,208,532,235"/>
+<area shape="rect" id="node10" href="$stack__user_8c.html#a8cf91a941703c3e27fd71e3208bda0a2" title="user_cluster_disconnect" alt="" coords="397,259,560,285"/>
+<area shape="rect" id="node5" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="641,81,735,108"/>
+<area shape="rect" id="node6" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="809,81,957,108"/>
+<area shape="rect" id="node11" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="615,259,761,285"/>
+</map>

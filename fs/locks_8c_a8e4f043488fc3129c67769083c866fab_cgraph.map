@@ -1,0 +1,5 @@
+<map id="posix_locks_deadlock" name="posix_locks_deadlock">
+<area shape="rect" id="node2" href="$locks_8c.html#a6a435269009726e3693dd16b6ff26cf4" title="what_owner_is_waiting_for" alt="" coords="204,5,383,32"/>
+<area shape="rect" id="node4" href="$locks_8c.html#add16e3a243beb3ce042a53f767599e7e" title="posix_same_owner" alt="" coords="431,56,565,83"/>
+<area shape="rect" id="node3" href="$locks_8c.html#a647ea7d19826cc32c8d7dc869167a4df" title="posix_owner_key" alt="" coords="437,5,559,32"/>
+</map>

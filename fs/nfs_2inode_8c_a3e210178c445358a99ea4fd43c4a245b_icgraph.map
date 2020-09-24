@@ -1,0 +1,7 @@
+<map id="nfs_compat_user_ino64" name="nfs_compat_user_ino64">
+<area shape="rect" id="node2" href="$nfs_2dir_8c.html#abbd587c724c579c075d90596b0007b4e" title="nfs_do_filldir" alt="" coords="213,56,308,83"/>
+<area shape="rect" id="node5" href="$nfs_2inode_8c.html#a9415dfb80feadb47ec20ba91c53a7307" title="nfs_getattr" alt="" coords="219,107,303,133"/>
+<area shape="rect" id="node3" href="$nfs_2dir_8c.html#afeee641835bb36cb1cbd052a088eff3a" title="uncached_readdir" alt="" coords="373,5,497,32"/>
+<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a0b6b30638a474336787a55092c3ccc71" title="nfs_readdir" alt="" coords="563,31,649,57"/>
+<area shape="rect" id="node6" href="$nfs_2namespace_8c.html#ac63733b646d7f0005d99b0faa5f74222" title="nfs_namespace_getattr" alt="" coords="356,107,515,133"/>
+</map>

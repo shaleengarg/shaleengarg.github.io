@@ -1,0 +1,5 @@
+<map id="o2nm_configured_node_map" name="o2nm_configured_node_map">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a7d84faee862e1cd6071968d4c5de9b73" title="o2hb_do_disk_heartbeat" alt="" coords="241,29,404,56"/>
+<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a2bc2625e842d179a5d84f407ccfbe93d" title="o2hb_thread" alt="" coords="452,29,545,56"/>
+<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#af950396e373c84f930a2168da781f6ec" title="o2hb_region_dev_store" alt="" coords="593,29,749,56"/>
+</map>

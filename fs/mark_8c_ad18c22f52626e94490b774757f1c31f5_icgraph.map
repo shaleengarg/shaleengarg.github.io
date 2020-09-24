@@ -1,0 +1,5 @@
+<map id="fsnotify_put_mark_wake" name="fsnotify_put_mark_wake">
+<area shape="rect" id="node2" href="$mark_8c.html#a02b8344c6f09dc2d1ee7dce1995ea57a" title="fsnotify_prepare_user_wait" alt="" coords="217,5,396,32"/>
+<area shape="rect" id="node4" href="$mark_8c.html#ac13fea749d14f1944140c9cb677e92c7" title="fsnotify_finish_user_wait" alt="" coords="223,56,390,83"/>
+<area shape="rect" id="node3" href="$fanotify_8c.html#a16339419ff08bdf451c6b9f8995e50e9" title="fanotify_handle_event" alt="" coords="444,31,593,57"/>
+</map>

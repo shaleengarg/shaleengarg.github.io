@@ -1,0 +1,10 @@
+<map id="nilfs_ioctl_do_get_suinfo" name="nilfs_ioctl_do_get_suinfo">
+<area shape="rect" id="node2" href="$nilfs_8h.html#a6088f2256e22e83b6ee9313e6e2a51a5" title="nilfs_ioctl" alt="" coords="176,107,253,133"/>
+<area shape="rect" id="node3" href="$nilfs_8h.html#a27c90b00199990855f3026ca77b28be7" title="nilfs_mask_flags" alt="" coords="301,81,421,108"/>
+<area shape="rect" id="node4" href="$nilfs_8h.html#a6a913a459ba0d008002ccb63b2adcf52" title="nilfs_new_inode" alt="" coords="477,81,592,108"/>
+<area shape="rect" id="node9" href="$nilfs2_2ioctl_8c.html#a1ad02ae5704ccd6ef70f0c0eb418d4ac" title="nilfs_ioctl_setflags" alt="" coords="469,132,600,159"/>
+<area shape="rect" id="node5" href="$nilfs2_2namei_8c.html#a42fc7600e29348f24e2dbb367c25930e" title="nilfs_create" alt="" coords="653,5,742,32"/>
+<area shape="rect" id="node6" href="$nilfs2_2namei_8c.html#a5fee3b15e7f58081ec8fd9cd1c43e55a" title="nilfs_mknod" alt="" coords="651,56,743,83"/>
+<area shape="rect" id="node7" href="$nilfs2_2namei_8c.html#a83737a267d28fb54629a821efc9bd2a0" title="nilfs_symlink" alt="" coords="648,107,747,133"/>
+<area shape="rect" id="node8" href="$nilfs2_2namei_8c.html#a4286ecd2133e48ffac0b2b7218a2f17a" title="nilfs_mkdir" alt="" coords="655,157,740,184"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="init_befs_fs" name="init_befs_fs">
+<area shape="rect" id="node2" href="$linuxvfs_8c.html#a6a106079e29339ced2c056439165819c" title="befs_init_inodecache" alt="" coords="156,56,300,83"/>
+<area shape="rect" id="node9" href="$filesystems_8c.html#a12c8edd3583d48417f03f189e05dd601" title="register_filesystem" alt="" coords="162,107,294,133"/>
+<area shape="rect" id="node12" href="$linuxvfs_8c.html#a7747e193f0377624be1700b70747027e" title="befs_destroy_inodecache" alt="" coords="143,157,313,184"/>
+<area shape="rect" id="node3" href="$itree__v1_8c.html#ac07f31538fad245953ce2a6ef706bcfb" title="i_data" alt="" coords="402,5,459,32"/>
+<area shape="rect" id="node5" href="$linuxvfs_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="393,56,468,83"/>
+<area shape="rect" id="node4" href="$minix_8h.html#a4a247b8545a130e5fe04b65c4cb93455" title="minix_i" alt="" coords="573,5,635,32"/>
+<area shape="rect" id="node6" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="548,56,660,83"/>
+<area shape="rect" id="node7" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="708,31,891,57"/>
+<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="730,81,869,108"/>
+<area shape="rect" id="node10" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="375,107,486,133"/>
+<area shape="rect" id="node11" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="361,157,500,184"/>
+</map>

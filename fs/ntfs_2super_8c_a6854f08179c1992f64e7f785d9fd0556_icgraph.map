@@ -1,0 +1,5 @@
+<map id="is_boot_sector_ntfs" name="is_boot_sector_ntfs">
+<area shape="rect" id="node2" href="$ntfs_2super_8c.html#a58c501f669c6e38b284337e1a5fb7272" title="read_ntfs_boot_sector" alt="" coords="189,5,340,32"/>
+<area shape="rect" id="node3" href="$ntfs_2super_8c.html#a1afed2018068359ea80abae0cf8c4c96" title="ntfs_fill_super" alt="" coords="388,5,491,32"/>
+<area shape="rect" id="node4" href="$ntfs_2super_8c.html#a56d671e0fc29d48f7d8da76a48de59f2" title="ntfs_mount" alt="" coords="539,5,625,32"/>
+</map>

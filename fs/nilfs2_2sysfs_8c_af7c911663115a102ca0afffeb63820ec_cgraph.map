@@ -1,0 +1,6 @@
+<map id="nilfs_dev_free_blocks_show" name="nilfs_dev_free_blocks_show">
+<area shape="rect" id="node2" href="$the__nilfs_8c.html#afbb3b8234eb658d4f2535b173d3553a0" title="nilfs_count_free_blocks" alt="" coords="240,5,399,32"/>
+<area shape="rect" id="node3" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="816,5,912,32"/>
+<area shape="rect" id="node4" href="$sufile_8c.html#a50c0d7ff8c8bf821d281286007c39cd5" title="nilfs_sufile_get_ncleansegs" alt="" coords="447,31,629,57"/>
+<area shape="rect" id="node5" href="$sufile_8c.html#acbb532a1df92111d05a67092edbfd65b" title="NILFS_SUI" alt="" coords="677,31,768,57"/>
+</map>

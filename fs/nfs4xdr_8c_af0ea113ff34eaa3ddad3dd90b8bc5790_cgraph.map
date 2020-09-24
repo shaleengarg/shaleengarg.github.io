@@ -1,0 +1,11 @@
+<map id="nfs4_xdr_enc_setclientid" name="nfs4_xdr_enc_setclientid">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a59ce1654562dddd2e3447cbf46e1c9c5" title="encode_compound_hdr" alt="" coords="220,31,376,57"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a37f88f905169459e403cd7f36078d347" title="encode_setclientid" alt="" coords="233,81,363,108"/>
+<area shape="rect" id="node10" href="$nfs4xdr_8c.html#aa77af6650d7bb8235ce7a07cc070062c" title="encode_nops" alt="" coords="249,132,347,159"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#aee5aaa9c7dc964ab42740779ad053445" title="encode_string" alt="" coords="444,5,547,32"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aeb6935e87253006dc578e9f5f5709dd2" title="reserve_space" alt="" coords="442,56,549,83"/>
+<area shape="rect" id="node6" href="$nfs4xdr_8c.html#af331741cfbeebb9874e32761ef58433a" title="encode_op_hdr" alt="" coords="440,107,551,133"/>
+<area shape="rect" id="node8" href="$nfs4xdr_8c.html#ac438e20db91b58c5e1ec0b49489ea3e0" title="encode_nfs4_verifier" alt="" coords="424,157,567,184"/>
+<area shape="rect" id="node7" href="$nfs4xdr_8c.html#ab33bed6588aeafcdec18900fffe81db3" title="encode_uint32" alt="" coords="635,107,742,133"/>
+<area shape="rect" id="node9" href="$nfs4xdr_8c.html#a2e97a3560d7e1904d702ec9f343873fe" title="encode_opaque_fixed" alt="" coords="615,157,763,184"/>
+</map>

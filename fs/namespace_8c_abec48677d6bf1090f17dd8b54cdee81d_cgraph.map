@@ -1,0 +1,12 @@
+<map id="mnt_want_write_file" name="mnt_want_write_file">
+<area shape="rect" id="node2" href="$namespace_8c.html#af19741fc533f0e0a2acda44e925f80eb" title="may_write_real" alt="" coords="213,132,323,159"/>
+<area shape="rect" id="node3" href="$namespace_8c.html#afc62e617cec97974d570093f778e30e0" title="__mnt_want_write_file" alt="" coords="192,183,344,209"/>
+<area shape="rect" id="node9" href="$namespace_8c.html#a14b50b29ea751e02e86a7c9a2fa01128" title="EXPORT_SYMBOL_GPL" alt="" coords="913,259,1085,285"/>
+<area shape="rect" id="node4" href="$namespace_8c.html#ae8d4c494f66a0cda8744bf47ebeba01f" title="__mnt_want_write" alt="" coords="392,107,520,133"/>
+<area shape="rect" id="node11" href="$namespace_8c.html#aba77afe1262e538d2854159761e6bcb2" title="mnt_clone_write" alt="" coords="397,183,515,209"/>
+<area shape="rect" id="node5" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="584,107,671,133"/>
+<area shape="rect" id="node6" href="$namespace_8c.html#a24aaa0bb913baa617bc4d19fad011a99" title="mnt_inc_writers" alt="" coords="570,157,685,184"/>
+<area shape="rect" id="node7" href="$namespace_8c.html#a1e8eac40e0b14fb052603f900a411760" title="mnt_is_readonly" alt="" coords="569,5,686,32"/>
+<area shape="rect" id="node10" href="$namespace_8c.html#a6b6223aa5bccbed87645de18e8b0abac" title="mnt_dec_writers" alt="" coords="568,56,687,83"/>
+<area shape="rect" id="node8" href="$namespace_8c.html#ae435f6295042ca4769078d0b11c47713" title="__mnt_is_readonly" alt="" coords="735,208,865,235"/>
+</map>

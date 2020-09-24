@@ -1,0 +1,8 @@
+<map id="ext4_mb_generate_buddy" name="ext4_mb_generate_buddy">
+<area shape="rect" id="node2" href="$mballoc_8c.html#a5c81ba385ed83d94f92e4f1020452416" title="mb_find_next_zero_bit" alt="" coords="455,5,608,32"/>
+<area shape="rect" id="node4" href="$mballoc_8c.html#a6d97264a3f93116913262888dfa0d476" title="mb_find_next_bit" alt="" coords="471,56,592,83"/>
+<area shape="rect" id="node5" href="$mballoc_8c.html#a4998777f41aeb3025093210346db2b3c" title="ext4_mb_mark_free_simple" alt="" coords="224,107,407,133"/>
+<area shape="rect" id="node7" href="$mballoc_8c.html#aaa1d8e0e00d754591a9e7975bdb44cad" title="mb_set_largest_free\l_order" alt="" coords="245,158,385,199"/>
+<area shape="rect" id="node3" href="$mballoc_8c.html#a5c8d02c67a5c9809c77b0b6eeafbd608" title="mb_correct_addr_and_bit" alt="" coords="656,56,824,83"/>
+<area shape="rect" id="node6" href="$mballoc_8c.html#a9d7fa8cf7aa12092d4697d212674eea6" title="mb_clear_bit" alt="" coords="483,107,579,133"/>
+</map>

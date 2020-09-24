@@ -1,0 +1,5 @@
+<map id="ext4_mb_new_group_pa" name="ext4_mb_new_group_pa">
+<area shape="rect" id="node2" href="$mballoc_8h.html#a5dcbc664637c42cf18f65506f728e0c8" title="ext4_grp_offs_to_block" alt="" coords="217,5,375,32"/>
+<area shape="rect" id="node3" href="$mballoc_8c.html#a2df8edecb0759b95fdf5d60c19942c46" title="ext4_mb_use_group_pa" alt="" coords="216,56,376,83"/>
+<area shape="rect" id="node4" href="$ext4_2balloc_8c.html#a76c7f04d0e6fdcb93af845697cb3302d" title="ext4_get_group_no_and\l_offset" alt="" coords="424,49,584,90"/>
+</map>

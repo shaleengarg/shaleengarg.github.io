@@ -1,0 +1,7 @@
+<map id="gfs2_update_stats" name="gfs2_update_stats">
+<area shape="rect" id="node2" href="$lock__dlm_8c.html#a9334f664dc9c804a8948224bffbb183f" title="gfs2_update_reply_times" alt="" coords="183,5,349,32"/>
+<area shape="rect" id="node5" href="$lock__dlm_8c.html#ab023256056475022bffa03f6a869db61" title="gfs2_update_request\l_times" alt="" coords="195,57,337,98"/>
+<area shape="rect" id="node3" href="$lock__dlm_8c.html#ac99877a73cb13e89e5339c5b59931c49" title="gdlm_ast" alt="" coords="413,5,488,32"/>
+<area shape="rect" id="node4" href="$lock__dlm_8c.html#ac7f8caf520e87fb560d7b035ef9bc7e8" title="gdlm_lock" alt="" coords="552,31,633,57"/>
+<area shape="rect" id="node6" href="$lock__dlm_8c.html#afc699724cbd3426a549777c5e449f45a" title="gdlm_put_lock" alt="" coords="397,107,504,133"/>
+</map>

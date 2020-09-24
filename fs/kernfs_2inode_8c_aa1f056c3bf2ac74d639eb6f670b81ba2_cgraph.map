@@ -1,0 +1,6 @@
+<map id="kernfs_refresh_inode" name="kernfs_refresh_inode">
+<area shape="rect" id="node2" href="$kernfs_2inode_8c.html#a55d074f7fb2530f085d307e71fd7aacc" title="set_inode_attr" alt="" coords="196,5,300,32"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="211,56,285,83"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="348,31,432,57"/>
+<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="480,56,619,83"/>
+</map>

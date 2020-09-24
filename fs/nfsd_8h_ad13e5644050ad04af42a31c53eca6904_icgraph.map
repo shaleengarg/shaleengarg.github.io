@@ -1,0 +1,8 @@
+<map id="nfsd_create_serv" name="nfsd_create_serv">
+<area shape="rect" id="node2" href="$nfsctl_8c.html#ad63abcd3f52a2b6c6eea863edcea3246" title="__write_ports_addfd" alt="" coords="182,5,321,32"/>
+<area shape="rect" id="node5" href="$nfsctl_8c.html#aa7aba14567ce82ae54d271816c9ca1a4" title="__write_ports_addxprt" alt="" coords="176,56,327,83"/>
+<area shape="rect" id="node6" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="214,107,289,133"/>
+<area shape="rect" id="node3" href="$nfsctl_8c.html#a86cf7be69ecc932f6aea3dd20a119da6" title="__write_ports" alt="" coords="375,31,475,57"/>
+<area shape="rect" id="node4" href="$nfsctl_8c.html#a5baae2a01636a44623fc2637a3e1edce" title="write_ports" alt="" coords="523,31,609,57"/>
+<area shape="rect" id="node7" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="375,107,475,133"/>
+</map>

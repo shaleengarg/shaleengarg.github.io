@@ -1,0 +1,6 @@
+<map id="nilfs_inode_sub_blocks" name="nilfs_inode_sub_blocks">
+<area shape="rect" id="node2" href="$nilfs_8h.html#a4f06a82c20559c61e8f30eac6bad1001" title="NILFS_I" alt="" coords="235,5,306,32"/>
+<area shape="rect" id="node3" href="$stat_8c.html#a5a130feafa530db5c343d9cbf3d769b8" title="inode_sub_bytes" alt="" coords="211,56,331,83"/>
+<area shape="rect" id="node4" href="$stat_8c.html#a887b01aff3a59f23855656b3753e51ce" title="__inode_sub_bytes" alt="" coords="379,31,513,57"/>
+<area shape="rect" id="node5" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="561,56,700,83"/>
+</map>

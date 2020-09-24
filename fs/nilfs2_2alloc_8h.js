@@ -1,0 +1,25 @@
+var nilfs2_2alloc_8h =
+[
+    [ "nilfs_palloc_req", "structnilfs__palloc__req.html", "structnilfs__palloc__req" ],
+    [ "nilfs_bh_assoc", "structnilfs__bh__assoc.html", "structnilfs__bh__assoc" ],
+    [ "nilfs_palloc_cache", "structnilfs__palloc__cache.html", "structnilfs__palloc__cache" ],
+    [ "nilfs_clear_bit_atomic", "nilfs2_2alloc_8h.html#aaac7d1725f6e58ae3be3a055a28a768b", null ],
+    [ "nilfs_find_next_bit", "nilfs2_2alloc_8h.html#ad101370c242229bebcda8e9bd3f5929d", null ],
+    [ "nilfs_find_next_zero_bit", "nilfs2_2alloc_8h.html#ae104a406b56afc975ca402adbcf12258", null ],
+    [ "nilfs_set_bit_atomic", "nilfs2_2alloc_8h.html#ac87b485d56e536b29b99da604d064c61", null ],
+    [ "nilfs_palloc_abort_alloc_entry", "nilfs2_2alloc_8h.html#a07ef59dec39863e5156639989a8a9bf7", null ],
+    [ "nilfs_palloc_abort_free_entry", "nilfs2_2alloc_8h.html#aa397532f85b17eb268925efadaafa69b", null ],
+    [ "nilfs_palloc_block_get_entry", "nilfs2_2alloc_8h.html#a9fde8cc073bd6c3157f774c7e33b5a5c", null ],
+    [ "nilfs_palloc_clear_cache", "nilfs2_2alloc_8h.html#aa1ef67260a902eaecb3a5aacacdd0ed8", null ],
+    [ "nilfs_palloc_commit_alloc_entry", "nilfs2_2alloc_8h.html#a26127ca72fe88bef38865b6c0a7027e5", null ],
+    [ "nilfs_palloc_commit_free_entry", "nilfs2_2alloc_8h.html#a5e8994397cbce9eadda13cdfe28cc7e1", null ],
+    [ "nilfs_palloc_count_max_entries", "nilfs2_2alloc_8h.html#a3d17a08175d8f5c51ebb5787acebad9c", null ],
+    [ "nilfs_palloc_destroy_cache", "nilfs2_2alloc_8h.html#a7ad556c87d6cf7e18d5b8a276d453cfc", null ],
+    [ "nilfs_palloc_entries_per_group", "nilfs2_2alloc_8h.html#a80b91fe3100bd11e343f72a96ca838bd", null ],
+    [ "nilfs_palloc_freev", "nilfs2_2alloc_8h.html#aa8f87ce85ef5b1792e610245d2e6c8a6", null ],
+    [ "nilfs_palloc_get_entry_block", "nilfs2_2alloc_8h.html#a10901166e88f0e569da3f5aa39eeab9d", null ],
+    [ "nilfs_palloc_init_blockgroup", "nilfs2_2alloc_8h.html#afccd9ef569bdfd1cf59338965c95fb1c", null ],
+    [ "nilfs_palloc_prepare_alloc_entry", "nilfs2_2alloc_8h.html#a0f856ad7f79cf5a8d5de8cfbe0e056ba", null ],
+    [ "nilfs_palloc_prepare_free_entry", "nilfs2_2alloc_8h.html#a5927d0d1761b1f0142895694f5e84613", null ],
+    [ "nilfs_palloc_setup_cache", "nilfs2_2alloc_8h.html#a3a6e87dc6acaebeca419a5c1711b2d3b", null ]
+];

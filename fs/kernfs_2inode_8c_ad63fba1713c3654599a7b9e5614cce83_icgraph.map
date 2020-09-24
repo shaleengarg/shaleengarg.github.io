@@ -1,0 +1,10 @@
+<map id="kernfs_get_inode" name="kernfs_get_inode">
+<area shape="rect" id="node2" href="$kernfs_2dir_8c.html#a7ba2208cdb2ed7ea007abab98703c815" title="kernfs_iop_lookup" alt="" coords="196,5,323,32"/>
+<area shape="rect" id="node3" href="$kernfs_2mount_8c.html#ac69124bdb11a35845f5db6aad2f416a5" title="kernfs_fh_get_inode" alt="" coords="190,56,329,83"/>
+<area shape="rect" id="node6" href="$kernfs_2mount_8c.html#ae993d1a5e2f85d671ac1f6504cafebb7" title="kernfs_get_parent_dentry" alt="" coords="175,107,344,133"/>
+<area shape="rect" id="node7" href="$kernfs_2mount_8c.html#aab447bd50ece4f499ec219edd42cdd31" title="kernfs_fill_super" alt="" coords="201,157,318,184"/>
+<area shape="rect" id="node4" href="$kernfs_2mount_8c.html#a294861e38d5a9b9cb2ab0f3d3dfb8c2b" title="kernfs_fh_to_dentry" alt="" coords="392,31,529,57"/>
+<area shape="rect" id="node5" href="$kernfs_2mount_8c.html#aaf94fffe4a5aaafd14a207758104f4ca" title="kernfs_fh_to_parent" alt="" coords="392,81,529,108"/>
+<area shape="rect" id="node8" href="$kernfs_2mount_8c.html#a3dce91f06813b3240504b936b9581151" title="kernfs_mount_ns" alt="" coords="399,157,522,184"/>
+<area shape="rect" id="node9" href="$sysfs_2mount_8c.html#ad8fb5a05c979b6c45fde55aafd377acb" title="sysfs_mount" alt="" coords="577,157,675,184"/>
+</map>

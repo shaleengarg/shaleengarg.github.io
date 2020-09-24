@@ -1,0 +1,6 @@
+<map id="nfs_write_pageuptodate" name="nfs_write_pageuptodate">
+<area shape="rect" id="node2" href="$nfs_2write_8c.html#a9067fb746a5d8b81bae7aefb6c3fe6ab" title="nfs_can_extend_write" alt="" coords="213,31,363,57"/>
+<area shape="rect" id="node3" href="$nfs_2write_8c.html#a374f7a4e21dd7828048603fe45f57242" title="nfs_updatepage" alt="" coords="411,31,525,57"/>
+<area shape="rect" id="node4" href="$nfs_2file_8c.html#ab4c10747f93b9a85bf760612a3d47075" title="nfs_write_end" alt="" coords="599,5,701,32"/>
+<area shape="rect" id="node5" href="$nfs_2file_8c.html#a926bb261716bf1da84d8707984b489e1" title="nfs_vm_page_mkwrite" alt="" coords="573,56,727,83"/>
+</map>

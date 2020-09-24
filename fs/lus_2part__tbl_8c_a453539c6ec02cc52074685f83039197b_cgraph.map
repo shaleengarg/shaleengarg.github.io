@@ -1,0 +1,5 @@
+<map id="hfs_parse_new_pmap" name="hfs_parse_new_pmap">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="215,5,325,32"/>
+<area shape="rect" id="node3" href="$hfsplus__fs_8h.html#a6c8033c9bdc0a2a21693278f0d85554c" title="hfsplus_min_io_size" alt="" coords="385,81,525,108"/>
+<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#a140d5fd75e59e3da48083501472ef41c" title="hfsplus_submit_bio" alt="" coords="203,107,337,133"/>
+</map>

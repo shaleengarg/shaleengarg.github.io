@@ -1,0 +1,7 @@
+<map id="path_get" name="path_get">
+<area shape="rect" id="node2" href="$namespace_8c.html#a81f04ef8722037c651b6d4775b6117a5" title="mntget" alt="" coords="163,56,226,83"/>
+<area shape="rect" id="node6" href="$namei_8c.html#ab6c058e9d297eedc75d075f53d48d3f5" title="EXPORT_SYMBOL" alt="" coords="125,107,264,133"/>
+<area shape="rect" id="node3" href="$namespace_8c.html#a6f4abf87f4f266868477f4308911c8e0" title="mnt_add_count" alt="" coords="326,5,437,32"/>
+<area shape="rect" id="node4" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="338,56,425,83"/>
+<area shape="rect" id="node5" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="312,107,451,133"/>
+</map>

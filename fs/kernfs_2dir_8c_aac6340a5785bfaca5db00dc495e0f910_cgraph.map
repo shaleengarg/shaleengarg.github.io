@@ -1,0 +1,7 @@
+<map id="kernfs_create_root" name="kernfs_create_root">
+<area shape="rect" id="node2" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="210,5,297,32"/>
+<area shape="rect" id="node3" href="$kernfs_2dir_8c.html#a5c9162a4e00b6680761a79f1fa09f1d9" title="__kernfs_new_node" alt="" coords="184,56,323,83"/>
+<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#ac8e62bd0f889875ae9a0927152d41f02" title="kernfs_activate" alt="" coords="198,107,309,133"/>
+<area shape="rect" id="node5" href="$kernfs_2dir_8c.html#a749ff169849c5f052ed52fba9566f21b" title="kernfs_next_descendant_post" alt="" coords="371,107,567,133"/>
+<area shape="rect" id="node6" href="$kernfs_2dir_8c.html#a7af97551f3cd7e2c5757ffbefc010500" title="kernfs_leftmost_descendant" alt="" coords="615,107,801,133"/>
+</map>

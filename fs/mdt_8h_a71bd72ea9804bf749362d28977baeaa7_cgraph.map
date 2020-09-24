@@ -1,0 +1,8 @@
+<map id="nilfs_mdt_forget_block" name="nilfs_mdt_forget_block">
+<area shape="rect" id="node2" href="$page_8h.html#aaad58f68fa9675f7e9803744d0e3f414" title="nilfs_page_get_nth\l_block" alt="" coords="207,12,337,53"/>
+<area shape="rect" id="node3" href="$nilfs2_2page_8c.html#a866283c71b48e2aec59af06e7dd9d0ac" title="nilfs_forget_buffer" alt="" coords="209,78,335,105"/>
+<area shape="rect" id="node4" href="$nilfs2_2page_8c.html#ae480881857e8afeef790a92ae1772630" title="nilfs_page_buffers\l_clean" alt="" coords="387,5,515,47"/>
+<area shape="rect" id="node5" href="$nilfs2_2page_8c.html#a6236b3bde5556e05843d2c5e34074b65" title="__nilfs_clear_page\l_dirty" alt="" coords="385,71,516,112"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="401,137,501,163"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="564,137,703,163"/>
+</map>

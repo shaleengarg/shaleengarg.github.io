@@ -1,0 +1,5 @@
+<map id="prepare_reply_buffer" name="prepare_reply_buffer">
+<area shape="rect" id="node2" href="$nfs2xdr_8c.html#ae8b5f9541e037cd12a87c06fae2858f1" title="nfs2_xdr_enc_readlinkargs" alt="" coords="193,5,371,32"/>
+<area shape="rect" id="node3" href="$nfs2xdr_8c.html#ab20409fb5328d0c5edb9cd5f0fc21850" title="nfs2_xdr_enc_readargs" alt="" coords="203,56,361,83"/>
+<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ad8e0574e74c025f13bba8285458a8c99" title="nfs2_xdr_enc_readdirargs" alt="" coords="197,107,367,133"/>
+</map>

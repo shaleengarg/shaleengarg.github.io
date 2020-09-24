@@ -1,0 +1,20 @@
+<map id="fsnotify_destroy_mark" name="fsnotify_destroy_mark">
+<area shape="rect" id="node2" href="$inotify__fsnotify_8c.html#a24f58461ab38429b34914a8f9c22dc27" title="inotify_handle_event" alt="" coords="213,49,354,75"/>
+<area shape="rect" id="node14" href="$inotify__user_8c.html#a02edb9991e912c38442e10137f02ec05" title="SYSCALL_DEFINE2" alt="" coords="210,103,357,130"/>
+<area shape="rect" id="node15" href="$mark_8c.html#a49c8d842098c34c655db9100c3d53153" title="fsnotify_destroy_marks" alt="" coords="204,162,363,189"/>
+<area shape="rect" id="node3" href="$inotify_8h.html#a163af7afb9fd012d2ea14db1b005c2b3" title="INOTIFY_E" alt="" coords="635,99,726,126"/>
+<area shape="rect" id="node12" href="$inotify__user_8c.html#a0c357277c6e2f8e7cd281a0c9504edd7" title="inotify_ignored_and\l_remove_idr" alt="" coords="415,37,549,79"/>
+<area shape="rect" id="node4" href="$inotify__fsnotify_8c.html#a53eb0856abcea0bd35e73b03c7fb407d" title="event_compare" alt="" coords="831,37,941,63"/>
+<area shape="rect" id="node6" href="$inotify__fsnotify_8c.html#a295863a40f110f7194a42b34d7c53882" title="inotify_free_event" alt="" coords="823,87,949,114"/>
+<area shape="rect" id="node7" href="$inotify__user_8c.html#a0037d3b1cd4c554007dfd12ec1a541b3" title="round_event_name_len" alt="" coords="808,189,964,215"/>
+<area shape="rect" id="node10" href="$inotify__user_8c.html#a3f52848c70f6158bb1d5c04b1b8c99bc" title="copy_event_to_user" alt="" coords="1012,138,1151,165"/>
+<area shape="rect" id="node5" href="$inotify__fsnotify_8c.html#a54badf855a29f92ac74c4a0b228b94f1" title="inotify_merge" alt="" coords="1031,11,1131,38"/>
+<area shape="rect" id="node8" href="$inotify__user_8c.html#aac96e9a6eb245c146f41a132e101ecde" title="get_one_event" alt="" coords="1028,239,1135,266"/>
+<area shape="rect" id="node11" href="$inotify__user_8c.html#a2f82aad299ef7c2843926eb072e6a77f" title="inotify_ioctl" alt="" coords="1037,189,1125,215"/>
+<area shape="rect" id="node9" href="$inotify__user_8c.html#a7d4e32b66feddb827ec614af77977492" title="inotify_read" alt="" coords="1199,189,1288,215"/>
+<area shape="rect" id="node13" href="$inotify__fsnotify_8c.html#a4aab8cd90385f35383a2bf584db26322" title="inotify_freeing_mark" alt="" coords="611,45,750,71"/>
+<area shape="rect" id="node16" href="$fsnotify_8h.html#a343d9b349b76fbd0a53a43515490b332" title="fsnotify_clear_marks\l_by_inode" alt="" coords="411,220,553,261"/>
+<area shape="rect" id="node18" href="$fsnotify_8h.html#a567c368a44e10d4547bfaaed15e3e1c9" title="fsnotify_clear_marks\l_by_mount" alt="" coords="411,155,553,196"/>
+<area shape="rect" id="node17" href="$fsnotify_8c.html#a07ef4325b2963533c26ee43bf0121a66" title="__fsnotify_inode_delete" alt="" coords="601,227,760,254"/>
+<area shape="rect" id="node19" href="$fsnotify_8c.html#adb0f988d58284e79fd5b2bf0f5605502" title="__fsnotify_vfsmount\l_delete" alt="" coords="611,155,751,196"/>
+</map>

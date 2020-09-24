@@ -1,0 +1,25 @@
+<map id="nilfs_bmap_delete" name="nilfs_bmap_delete">
+<area shape="rect" id="node2" href="$nilfs2_2bmap_8c.html#a54e619b4cf86165cb313e3e79ddc1964" title="nilfs_bmap_do_delete" alt="" coords="180,267,328,293"/>
+<area shape="rect" id="node6" href="$nilfs2_2bmap_8c.html#a7a7ea41075313d317e5036ebc1fbbe3b" title="nilfs_bmap_convert\l_error" alt="" coords="187,318,321,359"/>
+<area shape="rect" id="node3" href="$nilfs2_2direct_8c.html#ae7a4e867b8728ea6f0c276b68f537479" title="nilfs_direct_delete\l_and_convert" alt="" coords="376,259,503,301"/>
+<area shape="rect" id="node4" href="$nilfs2_2direct_8c.html#af7a09b01970bcd0a5aa1467aa705f5fe" title="nilfs_direct_dptrs" alt="" coords="551,271,672,297"/>
+<area shape="rect" id="node5" href="$nilfs2_2direct_8c.html#aeecaf45244f88e4286516e9b26ff6afd" title="nilfs_direct_init" alt="" coords="557,220,666,247"/>
+<area shape="rect" id="node7" href="$nilfs2_2super_8c.html#a5f424aefed531edcd064bfa930d96670" title="__nilfs_error" alt="" coords="393,325,486,352"/>
+<area shape="rect" id="node8" href="$nilfs2_2super_8c.html#a9c0186bd7dabac457a10733abdbafc76" title="nilfs_set_error" alt="" coords="559,325,663,352"/>
+<area shape="rect" id="node9" href="$nilfs2_2super_8c.html#a8e2908caf99fa61e4da3134daa205dd0" title="nilfs_prepare_super" alt="" coords="720,300,855,327"/>
+<area shape="rect" id="node11" href="$nilfs2_2super_8c.html#a0955c5c7387c5d5ea561c70b3eeb5925" title="nilfs_commit_super" alt="" coords="720,351,855,377"/>
+<area shape="rect" id="node10" href="$the__nilfs_8c.html#ab41ad60b507d8f217c2062c254a00367" title="nilfs_swap_super_block" alt="" coords="903,300,1064,327"/>
+<area shape="rect" id="node12" href="$nilfs2_2super_8c.html#a7f749f73b57e01f7d7b45df9c3cc836b" title="nilfs_sync_super" alt="" coords="923,351,1043,377"/>
+<area shape="rect" id="node13" href="$buffer_8c.html#ad14d5a18ab22cf24baa474870664c128" title="__sync_dirty_buffer" alt="" coords="1304,300,1440,327"/>
+<area shape="rect" id="node23" href="$buffer_8c.html#aa6e73e23b9f75a73cf4112fb3d19b668" title="sync_dirty_buffer" alt="" coords="1123,351,1245,377"/>
+<area shape="rect" id="node24" href="$the__nilfs_8c.html#a6809c74809ebc6547ec0168ba3303ad8" title="nilfs_fall_back_super\l_block" alt="" coords="1112,402,1256,443"/>
+<area shape="rect" id="node14" href="$buffer_8c.html#aac5852df82371e20e891b02a37461248" title="end_buffer_write_sync" alt="" coords="1488,249,1641,276"/>
+<area shape="rect" id="node17" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="1881,275,2019,301"/>
+<area shape="rect" id="node18" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="1711,300,1811,327"/>
+<area shape="rect" id="node19" href="$buffer_8c.html#ab65df498c54845f497bae7afe9222c91" title="submit_bh" alt="" coords="1523,81,1606,108"/>
+<area shape="rect" id="node15" href="$buffer_8c.html#a15c60a53f942f27f505098848dda3f3e" title="buffer_io_error" alt="" coords="1708,132,1813,159"/>
+<area shape="rect" id="node16" href="$buffer_8c.html#a0c5a9b93af2e1cc8bdeb45d23f5fd4fd" title="mark_buffer_write_io\l_error" alt="" coords="1689,183,1832,225"/>
+<area shape="rect" id="node20" href="$buffer_8c.html#a5fd6f01c5f9cff0945cb999cbefa412d" title="submit_bh_wbc" alt="" coords="1704,31,1817,57"/>
+<area shape="rect" id="node21" href="$buffer_8c.html#a2463267e7636f2be0fc2b44fb65cb5ba" title="end_bio_bh_io_sync" alt="" coords="1880,56,2020,83"/>
+<area shape="rect" id="node22" href="$buffer_8c.html#aa35a4aa9ac3d40858082aabb83e2a44c" title="guard_bio_eod" alt="" coords="1897,5,2003,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nilfs_mdt_setup_shadow_map" name="nilfs_mdt_setup_shadow_map">
+<area shape="rect" id="node2" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="289,5,385,32"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a183235cecd8d20b13b850d733c4646b7" title="address_space_init_once" alt="" coords="252,56,421,83"/>
+<area shape="rect" id="node6" href="$nilfs2_2page_8c.html#af45dc6fc4ee541d83a508bac51eddfe4" title="nilfs_mapping_init" alt="" coords="273,107,400,133"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="469,31,652,57"/>
+<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="491,81,630,108"/>
+</map>

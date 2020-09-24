@@ -1,0 +1,18 @@
+<map id="decode_fh" name="decode_fh">
+<area shape="rect" id="node2" href="$xdr_8h.html#afe29f2036f9b941495ebf87b875bf064" title="nfs2svc_decode_fh" alt="" coords="162,81,297,108"/>
+<area shape="rect" id="node7" href="$xdr_8h.html#ab1d6608df774585aca785443d23adbb0" title="nfssvc_decode_fhandle" alt="" coords="150,132,309,159"/>
+<area shape="rect" id="node8" href="$xdr_8h.html#a51b26685b7258dbcb1125bf9408b3a67" title="nfssvc_decode_sattrargs" alt="" coords="145,183,313,209"/>
+<area shape="rect" id="node9" href="$xdr_8h.html#a4f28ba8f93a29572b31a6476933768e2" title="nfssvc_decode_diropargs" alt="" coords="144,233,315,260"/>
+<area shape="rect" id="node10" href="$xdr_8h.html#a3358293451f706928a6d8dc84e30b62c" title="nfssvc_decode_readargs" alt="" coords="146,284,313,311"/>
+<area shape="rect" id="node11" href="$xdr_8h.html#a62c21790bcc0bcb34e023316b666d2ad" title="nfssvc_decode_writeargs" alt="" coords="144,335,315,361"/>
+<area shape="rect" id="node12" href="$xdr_8h.html#a9af82cc02a4e1fecb59cdd117a2d285b" title="nfssvc_decode_createargs" alt="" coords="140,385,319,412"/>
+<area shape="rect" id="node13" href="$xdr_8h.html#a0f0331600edc1566fc9880f970430a6c" title="nfssvc_decode_renameargs" alt="" coords="137,436,322,463"/>
+<area shape="rect" id="node14" href="$xdr_8h.html#a0860a906ea96fd7512a53330e385cbe1" title="nfssvc_decode_readlinkargs" alt="" coords="136,487,323,513"/>
+<area shape="rect" id="node15" href="$xdr_8h.html#a251537abf077f0ed87b41662380b81f2" title="nfssvc_decode_linkargs" alt="" coords="148,537,311,564"/>
+<area shape="rect" id="node16" href="$xdr_8h.html#a90442ee332ebe564621151c5e366b9f5" title="nfssvc_decode_symlinkargs" alt="" coords="136,588,323,615"/>
+<area shape="rect" id="node17" href="$xdr_8h.html#a06b69eca4220466a9a97685d66f0e4b1" title="nfssvc_decode_readdirargs" alt="" coords="139,639,320,665"/>
+<area shape="rect" id="node3" href="$nfs2acl_8c.html#a89fe31f8aa236d68be18d8026b8aa897" title="nfsaclsvc_decode_getaclargs" alt="" coords="374,5,569,32"/>
+<area shape="rect" id="node4" href="$nfs2acl_8c.html#a5fd144f9b5a8a68e3a4e2c9394d2d6d6" title="nfsaclsvc_decode_setaclargs" alt="" coords="374,56,569,83"/>
+<area shape="rect" id="node5" href="$nfs2acl_8c.html#a61e6cbf10e51a904e9b0c04dc39649af" title="nfsaclsvc_decode_fhandleargs" alt="" coords="371,107,572,133"/>
+<area shape="rect" id="node6" href="$nfs2acl_8c.html#ab3a70cf58638903e810f8fac71ecf2c4" title="nfsaclsvc_decode_accessargs" alt="" coords="371,157,572,184"/>
+</map>

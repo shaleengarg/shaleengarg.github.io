@@ -1,0 +1,11 @@
+<map id="kernfs_iop_setattr" name="kernfs_iop_setattr">
+<area shape="rect" id="node2" href="$attr_8c.html#a66e4acece72e69cb0264d3cb4c1f0faf" title="setattr_prepare" alt="" coords="183,81,293,108"/>
+<area shape="rect" id="node7" href="$kernfs_2inode_8c.html#a3e26039a7da11a6615e71a58b94431f5" title="__kernfs_setattr" alt="" coords="180,208,296,235"/>
+<area shape="rect" id="node10" href="$attr_8c.html#a7824f7ea07bc1a7def1e1459dbd2abe1" title="setattr_copy" alt="" coords="191,157,285,184"/>
+<area shape="rect" id="node3" href="$attr_8c.html#a7827e769d8b5704301fc520df3edad83" title="inode_newsize_ok" alt="" coords="362,56,491,83"/>
+<area shape="rect" id="node4" href="$attr_8c.html#a95285eda06ebaecaa53b77857030ae2d" title="EXPORT_SYMBOL" alt="" coords="557,107,696,133"/>
+<area shape="rect" id="node5" href="$inode_8c.html#a2359f9f4ea541a79ff23035a6c89cb03" title="inode_owner_or_capable" alt="" coords="344,5,509,32"/>
+<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="557,5,696,32"/>
+<area shape="rect" id="node8" href="$kernfs_2inode_8c.html#aa9f3eff59b54ec6854ecbc6408b5449a" title="kernfs_iattrs" alt="" coords="379,208,474,235"/>
+<area shape="rect" id="node9" href="$fuse_2inode_8c.html#a8100df689e875199c8f3f3412be1ea2b" title="DEFINE_MUTEX" alt="" coords="563,208,690,235"/>
+</map>

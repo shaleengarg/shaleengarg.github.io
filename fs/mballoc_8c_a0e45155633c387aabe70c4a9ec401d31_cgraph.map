@@ -1,0 +1,26 @@
+<map id="ext4_mb_release_inode_pa" name="ext4_mb_release_inode_pa">
+<area shape="rect" id="node2" href="$ext4_2balloc_8c.html#a76c7f04d0e6fdcb93af845697cb3302d" title="ext4_get_group_no_and\l_offset" alt="" coords="1044,883,1204,925"/>
+<area shape="rect" id="node3" href="$mballoc_8c.html#a5c81ba385ed83d94f92e4f1020452416" title="mb_find_next_zero_bit" alt="" coords="828,49,981,76"/>
+<area shape="rect" id="node5" href="$mballoc_8c.html#a6d97264a3f93116913262888dfa0d476" title="mb_find_next_bit" alt="" coords="844,100,965,127"/>
+<area shape="rect" id="node6" href="$mballoc_8c.html#ad6cb694a8dfc088c304af6adda0b18a7" title="mb_free_blocks" alt="" coords="233,395,348,421"/>
+<area shape="rect" id="node4" href="$mballoc_8c.html#a5c8d02c67a5c9809c77b0b6eeafbd608" title="mb_correct_addr_and_bit" alt="" coords="1252,164,1420,191"/>
+<area shape="rect" id="node7" href="$mballoc_8c.html#a0cf568b41ea04454c6bc6e5e7db7cba6" title="mb_free_blocks_double" alt="" coords="825,775,984,801"/>
+<area shape="rect" id="node8" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="1097,760,1151,787"/>
+<area shape="rect" id="node10" href="$mballoc_8c.html#ac73406d706988225c4beda401d5a248c" title="mb_test_bit" alt="" coords="1079,420,1169,447"/>
+<area shape="rect" id="node11" href="$mballoc_8c.html#afbc972dbc56f6c04adc28710c3bc3b12" title="mb_test_and_clear_bits" alt="" coords="600,24,760,51"/>
+<area shape="rect" id="node13" href="$mballoc_8c.html#ae59d25b684722fd8c67ffb9d71aa4d57" title="mb_regenerate_buddy" alt="" coords="396,471,547,497"/>
+<area shape="rect" id="node22" href="$mballoc_8c.html#aaa1d8e0e00d754591a9e7975bdb44cad" title="mb_set_largest_free\l_order" alt="" coords="835,253,975,294"/>
+<area shape="rect" id="node23" href="$mballoc_8c.html#a87b13c1e21d05e11d5c2f3572f65d08f" title="mb_buddy_mark_free" alt="" coords="398,369,545,396"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="1277,760,1395,787"/>
+<area shape="rect" id="node12" href="$mballoc_8c.html#a180c058988ac4e746a50207ee0f49fd5" title="mb_test_and_clear_bit" alt="" coords="1047,5,1201,32"/>
+<area shape="rect" id="node14" href="$mballoc_8c.html#a8b378346020837008c608ca577b9b894" title="mb_find_buddy" alt="" coords="625,597,735,624"/>
+<area shape="rect" id="node19" href="$mballoc_8c.html#a4d358e1e21262fd2154516e08a16f77a" title="ext4_set_bits" alt="" coords="630,471,730,497"/>
+<area shape="rect" id="node20" href="$mballoc_8c.html#a01a7e02dd41786edc95b45a6fb4d7fd1" title="ext4_mb_generate_buddy" alt="" coords="595,227,765,253"/>
+<area shape="rect" id="node15" href="$mballoc_8c.html#a9d7fa8cf7aa12092d4697d212674eea6" title="mb_clear_bit" alt="" coords="1076,201,1172,228"/>
+<area shape="rect" id="node16" href="$mballoc_8c.html#a9400d8c0789da13585c011dbb1610bdf" title="mb_mark_used_double" alt="" coords="827,623,983,649"/>
+<area shape="rect" id="node17" href="$mballoc_8c.html#a50b68d2df67649c9329f3c7d160aa92e" title="mb_set_bit" alt="" coords="861,471,948,497"/>
+<area shape="rect" id="node18" href="$mballoc_8c.html#a753d51654905ee4069283da52149b319" title="mb_cmp_bitmaps" alt="" coords="842,673,967,700"/>
+<area shape="rect" id="node21" href="$mballoc_8c.html#a4998777f41aeb3025093210346db2b3c" title="ext4_mb_mark_free_simple" alt="" coords="813,201,996,228"/>
+<area shape="rect" id="node24" href="$mballoc_8c.html#a683d69ef13a4c35dde7169540d76f322" title="mb_buddy_adjust_border" alt="" coords="597,369,763,396"/>
+<area shape="rect" id="node25" href="$mballoc_8c.html#a6efc7af38b68dac46f74e320a2408eaa" title="mb_clear_bits" alt="" coords="629,176,731,203"/>
+</map>

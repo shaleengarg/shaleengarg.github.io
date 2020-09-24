@@ -1,0 +1,6 @@
+<map id="nfs4_write_need_cache_consistency_data" name="nfs4_write_need_cache_consistency_data">
+<area shape="rect" id="node2" href="$delegation_8c.html#a024168ccf15ebd3bf1b0c793cbda9d84" title="nfs4_have_delegation" alt="" coords="212,35,360,61"/>
+<area shape="rect" id="node3" href="$delegation_8c.html#a594e7ce77170ce448ddd0c6c2885453c" title="nfs4_do_check_delegation" alt="" coords="408,35,584,61"/>
+<area shape="rect" id="node4" href="$delegation_8c.html#a16680327363a3a6dcd520eb2a96bd586" title="nfs4_is_valid_delegation" alt="" coords="632,5,796,32"/>
+<area shape="rect" id="node5" href="$delegation_8c.html#ae67d0e2c32997c940e5039c1dab3b2e7" title="nfs_mark_delegation\l_referenced" alt="" coords="643,57,785,98"/>
+</map>

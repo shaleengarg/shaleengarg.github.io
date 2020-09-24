@@ -1,0 +1,5 @@
+<map id="init_once" name="init_once">
+<area shape="rect" id="node2" href="$linuxvfs_8c.html#a6a106079e29339ced2c056439165819c" title="befs_init_inodecache" alt="" coords="128,5,272,32"/>
+<area shape="rect" id="node3" href="$linuxvfs_8c.html#aef02884e82d1ace46846204614922242" title="init_befs_fs" alt="" coords="320,5,409,32"/>
+<area shape="rect" id="node4" href="$linuxvfs_8c.html#aa2a515e5e49f8864163828e3021a687d" title="exit_befs_fs" alt="" coords="457,5,551,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nfs_wait_on_sequence" name="nfs_wait_on_sequence">
+<area shape="rect" id="node2" href="$nfs4proc_8c.html#a6e425c9b9bba59abe977bec8a453f42e" title="nfs4_open_prepare" alt="" coords="209,5,341,32"/>
+<area shape="rect" id="node3" href="$nfs4proc_8c.html#a0f7477675fa15849b039045e4e8d721c" title="nfs4_close_prepare" alt="" coords="208,56,343,83"/>
+<area shape="rect" id="node4" href="$nfs4proc_8c.html#a82887bfc4143ba781cf703a0d6dc7f5d" title="nfs4_locku_prepare" alt="" coords="208,107,343,133"/>
+<area shape="rect" id="node5" href="$nfs4proc_8c.html#ad534058557f667fe87e5a67a129af0c1" title="nfs4_lock_prepare" alt="" coords="211,157,339,184"/>
+</map>

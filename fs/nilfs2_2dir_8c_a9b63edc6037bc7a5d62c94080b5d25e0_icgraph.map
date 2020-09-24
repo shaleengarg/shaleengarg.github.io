@@ -1,0 +1,20 @@
+<map id="nilfs_commit_chunk" name="nilfs_commit_chunk">
+<area shape="rect" id="node2" href="$nilfs_8h.html#a08aeacd7127780bda067e82f9aed21e7" title="nilfs_set_link" alt="" coords="207,208,305,235"/>
+<area shape="rect" id="node12" href="$nilfs_8h.html#ae2f258ae9bc693a21d8dfaa98f1a5c2d" title="nilfs_add_link" alt="" coords="205,259,307,285"/>
+<area shape="rect" id="node15" href="$nilfs_8h.html#a3e382832dc0a0bcaa7b1548042db3258" title="nilfs_delete_entry" alt="" coords="194,157,318,184"/>
+<area shape="rect" id="node19" href="$nilfs_8h.html#a0b5a6c13f206782e032dce17783e2b3f" title="nilfs_make_empty" alt="" coords="192,309,320,336"/>
+<area shape="rect" id="node3" href="$nilfs2_2namei_8c.html#af09976ebf34c40eacaeaac28a4e00f95" title="nilfs_rename" alt="" coords="380,157,476,184"/>
+<area shape="rect" id="node4" href="$nilfs_8h.html#a27c90b00199990855f3026ca77b28be7" title="nilfs_mask_flags" alt="" coords="368,208,488,235"/>
+<area shape="rect" id="node5" href="$nilfs_8h.html#a6a913a459ba0d008002ccb63b2adcf52" title="nilfs_new_inode" alt="" coords="544,259,659,285"/>
+<area shape="rect" id="node10" href="$nilfs2_2ioctl_8c.html#a1ad02ae5704ccd6ef70f0c0eb418d4ac" title="nilfs_ioctl_setflags" alt="" coords="536,107,667,133"/>
+<area shape="rect" id="node6" href="$nilfs2_2namei_8c.html#a42fc7600e29348f24e2dbb367c25930e" title="nilfs_create" alt="" coords="719,259,809,285"/>
+<area shape="rect" id="node7" href="$nilfs2_2namei_8c.html#a5fee3b15e7f58081ec8fd9cd1c43e55a" title="nilfs_mknod" alt="" coords="718,157,810,184"/>
+<area shape="rect" id="node8" href="$nilfs2_2namei_8c.html#a83737a267d28fb54629a821efc9bd2a0" title="nilfs_symlink" alt="" coords="715,208,813,235"/>
+<area shape="rect" id="node9" href="$nilfs2_2namei_8c.html#a4286ecd2133e48ffac0b2b7218a2f17a" title="nilfs_mkdir" alt="" coords="721,309,807,336"/>
+<area shape="rect" id="node11" href="$nilfs_8h.html#a6088f2256e22e83b6ee9313e6e2a51a5" title="nilfs_ioctl" alt="" coords="725,107,803,133"/>
+<area shape="rect" id="node13" href="$nilfs2_2namei_8c.html#aa4bf29d1dddcdb9d54f71ac228671ece" title="nilfs_add_nondir" alt="" coords="543,208,659,235"/>
+<area shape="rect" id="node14" href="$nilfs2_2namei_8c.html#a58c2145f412579c3d56691a02664b765" title="nilfs_link" alt="" coords="391,360,465,387"/>
+<area shape="rect" id="node16" href="$nilfs2_2namei_8c.html#ae2705c2358d0e75d783e8773536d2c02" title="nilfs_do_unlink" alt="" coords="374,56,482,83"/>
+<area shape="rect" id="node17" href="$nilfs2_2namei_8c.html#a2d87a38f1671f1e8162939d34f52abd9" title="nilfs_unlink" alt="" coords="558,5,645,32"/>
+<area shape="rect" id="node18" href="$nilfs2_2namei_8c.html#aa26376eec3ac46f8addd4a5f6f7ca1e2" title="nilfs_rmdir" alt="" coords="560,56,643,83"/>
+</map>

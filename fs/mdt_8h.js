@@ -1,0 +1,27 @@
+var mdt_8h =
+[
+    [ "nilfs_shadow_map", "structnilfs__shadow__map.html", "structnilfs__shadow__map" ],
+    [ "nilfs_mdt_info", "structnilfs__mdt__info.html", "structnilfs__mdt__info" ],
+    [ "NILFS_MDT_GFP", "mdt_8h.html#affaf36b987d0544867d6787701eb9b42", null ],
+    [ "nilfs_is_metadata_file_inode", "mdt_8h.html#ab3c48e184ebb4a40a2e03e20d2ccca9f", null ],
+    [ "NILFS_MDT", "mdt_8h.html#a643a628d0928b0f90712ea026df6cb59", null ],
+    [ "nilfs_mdt_bgl_lock", "mdt_8h.html#a3cdb2c26d17013a183fe241b115dd589", null ],
+    [ "nilfs_mdt_clear", "mdt_8h.html#a3e53b80ec84301e3f8c2220cdb237e1e", null ],
+    [ "nilfs_mdt_clear_dirty", "mdt_8h.html#a421795f7ee0e2e591f2d185ac9cdc3a5", null ],
+    [ "nilfs_mdt_clear_shadow_map", "mdt_8h.html#a49d73bacfcef709cc1cb5956355ee9d3", null ],
+    [ "nilfs_mdt_cno", "mdt_8h.html#a6726d332d6af4468ef3bc1a2ab975b56", null ],
+    [ "nilfs_mdt_delete_block", "mdt_8h.html#aee462900ac199be00a3cf832f5f7f154", null ],
+    [ "nilfs_mdt_destroy", "mdt_8h.html#a88f06b441f5e108ab81b749523c0881c", null ],
+    [ "nilfs_mdt_fetch_dirty", "mdt_8h.html#a0068a76c65a214c857fceaefe8a7dd8a", null ],
+    [ "nilfs_mdt_find_block", "mdt_8h.html#adaed5e8667743afd0be01cfa99101c9f", null ],
+    [ "nilfs_mdt_forget_block", "mdt_8h.html#a71bd72ea9804bf749362d28977baeaa7", null ],
+    [ "nilfs_mdt_freeze_buffer", "mdt_8h.html#a93c5b4ccdadaa132a86ca0d25f739b09", null ],
+    [ "nilfs_mdt_get_block", "mdt_8h.html#af22a199db78ca4f03ee4558c8b3701cd", null ],
+    [ "nilfs_mdt_get_frozen_buffer", "mdt_8h.html#ac812454a88416aae4c77cdb630f97716", null ],
+    [ "nilfs_mdt_init", "mdt_8h.html#a9d24c6e56a98e581fc30fd8a65841e2a", null ],
+    [ "nilfs_mdt_mark_dirty", "mdt_8h.html#a9d9db9c2ce4c61835ac0c297556a1ac9", null ],
+    [ "nilfs_mdt_restore_from_shadow_map", "mdt_8h.html#a673c8a81a5993668b02111eccc3f2b93", null ],
+    [ "nilfs_mdt_save_to_shadow_map", "mdt_8h.html#a1b91aea5f3e024d438f92e11efb9309b", null ],
+    [ "nilfs_mdt_set_entry_size", "mdt_8h.html#abdc039b4d7524445ad87abb5efab9a00", null ],
+    [ "nilfs_mdt_setup_shadow_map", "mdt_8h.html#af086b786e77eaa33878204ec7e161bb3", null ]
+];

@@ -1,0 +1,5 @@
+<map id="nilfs_add_nondir" name="nilfs_add_nondir">
+<area shape="rect" id="node2" href="$nilfs2_2namei_8c.html#a42fc7600e29348f24e2dbb367c25930e" title="nilfs_create" alt="" coords="174,5,263,32"/>
+<area shape="rect" id="node3" href="$nilfs2_2namei_8c.html#a5fee3b15e7f58081ec8fd9cd1c43e55a" title="nilfs_mknod" alt="" coords="173,56,265,83"/>
+<area shape="rect" id="node4" href="$nilfs2_2namei_8c.html#a83737a267d28fb54629a821efc9bd2a0" title="nilfs_symlink" alt="" coords="169,107,268,133"/>
+</map>

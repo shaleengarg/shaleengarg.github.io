@@ -1,0 +1,12 @@
+<map id="may_umount" name="may_umount">
+<area shape="rect" id="node2" href="$dev-ioctl_8c.html#ad8e72fea9b7f70b5a0a4b1b4b6033033" title="autofs_dev_ioctl_askumount" alt="" coords="151,33,339,60"/>
+<area shape="rect" id="node9" href="$autofs4_2root_8c.html#a1075c18df8b083fa0c96ebd7a5132754" title="autofs4_ask_umount" alt="" coords="173,85,316,112"/>
+<area shape="rect" id="node3" href="$dev-ioctl_8c.html#a0c16ae9f8eb43a9feb9bd4d0bc0eda5f" title="lookup_dev_ioctl" alt="" coords="390,31,509,57"/>
+<area shape="rect" id="node4" href="$dev-ioctl_8c.html#a37310baaef7cd474b06beb78966bd794" title="_autofs_dev_ioctl" alt="" coords="561,31,685,57"/>
+<area shape="rect" id="node5" href="$dev-ioctl_8c.html#a2b7e82ce3e1444de3fbacaffc5af1fbe" title="autofs_dev_ioctl" alt="" coords="733,5,851,32"/>
+<area shape="rect" id="node6" href="$dev-ioctl_8c.html#aa4985777d57507d07be423fa220b9189" title="check_dev_ioctl_version" alt="" coords="899,5,1064,32"/>
+<area shape="rect" id="node8" href="$dev-ioctl_8c.html#a14cde5a19367052a7b348817212a1c78" title="copy_dev_ioctl" alt="" coords="927,56,1036,83"/>
+<area shape="rect" id="node7" href="$dev-ioctl_8c.html#a54da6ea4e9299e3643d1d37f284b4ed8" title="validate_dev_ioctl" alt="" coords="1112,56,1239,83"/>
+<area shape="rect" id="node10" href="$autofs4_2root_8c.html#a2d2fbebc9524e6e3f1f46d5bb320a3ce" title="autofs4_root_ioctl\l_unlocked" alt="" coords="387,82,512,123"/>
+<area shape="rect" id="node11" href="$autofs4_2root_8c.html#a949535089d5b056dfe698ac9bb96c6dd" title="autofs4_root_ioctl" alt="" coords="560,89,685,116"/>
+</map>

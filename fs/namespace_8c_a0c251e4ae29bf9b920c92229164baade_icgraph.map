@@ -1,0 +1,14 @@
+<map id="vfs_submount" name="vfs_submount">
+<area shape="rect" id="node2" href="$mntpt_8c.html#aaf668e48ee4ad717c919a14991fb0dd4" title="afs_mntpt_do_automount" alt="" coords="157,5,327,32"/>
+<area shape="rect" id="node4" href="$cifs__dfs__ref_8c.html#a76c26865ea6f264f30a9a26c8d8b38aa" title="cifs_dfs_do_refmount" alt="" coords="169,56,315,83"/>
+<area shape="rect" id="node7" href="$nfs_2namespace_8c.html#ae45463f9df61d8117a79a2e931b508be" title="nfs_do_clone_mount" alt="" coords="171,107,313,133"/>
+<area shape="rect" id="node11" href="$nfs4namespace_8c.html#a753348e7fe986570a1c78dda49b5abe7" title="try_location" alt="" coords="197,169,287,196"/>
+<area shape="rect" id="node3" href="$mntpt_8c.html#a5bfc9c3586dbb8524b0b7a117ed9bcfa" title="afs_d_automount" alt="" coords="392,5,515,32"/>
+<area shape="rect" id="node5" href="$cifs__dfs__ref_8c.html#a3a3ac509d4f6f68228d77aafe8e9c0bc" title="cifs_dfs_do_automount" alt="" coords="375,56,532,83"/>
+<area shape="rect" id="node6" href="$cifs__dfs__ref_8c.html#abc925e84b9babd036a231f8115e0e77d" title="cifs_dfs_d_automount" alt="" coords="580,49,731,76"/>
+<area shape="rect" id="node8" href="$nfs_2namespace_8c.html#a3df797e08adaa26d5067cc2a25608a0a" title="nfs_do_submount" alt="" coords="391,107,516,133"/>
+<area shape="rect" id="node9" href="$nfs_2namespace_8c.html#ae68e95ee768b9cedf2d0cd10ccb86b6e" title="nfs_submount" alt="" coords="603,100,707,127"/>
+<area shape="rect" id="node10" href="$nfs4namespace_8c.html#abb583edebee636f6f7feccde9ab72225" title="nfs4_submount" alt="" coords="779,176,889,203"/>
+<area shape="rect" id="node12" href="$nfs4namespace_8c.html#a7702190813f1bfc6bcb43edbe8242600" title="nfs_follow_referral" alt="" coords="389,195,517,221"/>
+<area shape="rect" id="node13" href="$nfs4namespace_8c.html#a546ed0f782822e6e3b31b7e7d22bf2c9" title="nfs_do_refmount" alt="" coords="596,201,715,228"/>
+</map>

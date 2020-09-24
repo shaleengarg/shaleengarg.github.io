@@ -1,0 +1,8 @@
+<map id="register_nfs_version" name="register_nfs_version">
+<area shape="rect" id="node2" href="$nfs2super_8c.html#a1199677321cb50d91e0b949fd9453767" title="init_nfs_v2" alt="" coords="192,5,277,32"/>
+<area shape="rect" id="node4" href="$nfs3super_8c.html#a0115811f9d07b9be89047af24dbf1fa8" title="init_nfs_v3" alt="" coords="192,56,277,83"/>
+<area shape="rect" id="node6" href="$nfs4super_8c.html#a23c4c32af2f7feccef0e78d82f7c6091" title="init_nfs_v4" alt="" coords="192,107,277,133"/>
+<area shape="rect" id="node3" href="$nfs2super_8c.html#a38cca224bb8c3be0fa726e5e13f9d749" title="exit_nfs_v2" alt="" coords="325,5,415,32"/>
+<area shape="rect" id="node5" href="$nfs3super_8c.html#afae6cbbaf03df7dd4bc36f8c08d0d704" title="exit_nfs_v3" alt="" coords="325,56,415,83"/>
+<area shape="rect" id="node7" href="$nfs4super_8c.html#a891ab77658501dd0b8a33cdbbd50a0ed" title="exit_nfs_v4" alt="" coords="325,107,415,133"/>
+</map>

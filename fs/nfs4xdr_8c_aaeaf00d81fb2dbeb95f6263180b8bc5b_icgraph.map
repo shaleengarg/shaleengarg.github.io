@@ -1,0 +1,6 @@
+<map id="decode_pnfs_layout_types" name="decode_pnfs_layout_types">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a78a2f45de8ec44e61b859816933126dd" title="decode_attr_pnfstype" alt="" coords="192,31,339,57"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a3a7328027c603f18713ae2882e111394" title="decode_fsinfo" alt="" coords="387,31,489,57"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#ac64edc0de6c0c2fd960edf7a870bbefe" title="nfs4_xdr_dec_fsinfo" alt="" coords="557,5,696,32"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#aa739013b24939a07ab7c3bf13321daea" title="nfs4_xdr_dec_fsid_present" alt="" coords="537,56,716,83"/>
+</map>

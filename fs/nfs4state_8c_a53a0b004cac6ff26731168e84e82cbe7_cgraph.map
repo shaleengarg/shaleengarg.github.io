@@ -1,0 +1,11 @@
+<map id="nfs4_select_rw_stateid" name="nfs4_select_rw_stateid">
+<area shape="rect" id="node2" href="$nfs4state_8c.html#a52b1058ba55ba16d44c70ef75844f6b7" title="nfs4_copy_lock_stateid" alt="" coords="211,55,370,81"/>
+<area shape="rect" id="node7" href="$delegation_8c.html#a8a697f6191d82407ec40b9fc6040cd59" title="nfs4_copy_delegation\l_stateid" alt="" coords="217,106,365,147"/>
+<area shape="rect" id="node10" href="$nfs4state_8c.html#ac8709fbf89c08df183af7bff1b64b605" title="nfs4_copy_open_stateid" alt="" coords="209,172,372,199"/>
+<area shape="rect" id="node3" href="$nfs4state_8c.html#a40d9d441cfde0c789347b439b57d547f" title="__nfs4_find_lock_state" alt="" coords="424,5,580,32"/>
+<area shape="rect" id="node4" href="$nfs4state_8c.html#a8e0edc9138c5fc3c759029b6c80f1677" title="nfs4_put_lock_state" alt="" coords="433,56,571,83"/>
+<area shape="rect" id="node5" href="$nfs4state_8c.html#a189518d59bbfc6de8a69bd38273f211b" title="nfs4_free_lock_state" alt="" coords="632,56,775,83"/>
+<area shape="rect" id="node6" href="$nfs4state_8c.html#a44ccf42f70dcbfd211125cf839bd75cd" title="nfs4_destroy_seqid\l_counter" alt="" coords="823,49,957,90"/>
+<area shape="rect" id="node8" href="$delegation_8c.html#a16680327363a3a6dcd520eb2a96bd586" title="nfs4_is_valid_delegation" alt="" coords="420,111,584,137"/>
+<area shape="rect" id="node9" href="$delegation_8c.html#ae67d0e2c32997c940e5039c1dab3b2e7" title="nfs_mark_delegation\l_referenced" alt="" coords="431,162,573,203"/>
+</map>

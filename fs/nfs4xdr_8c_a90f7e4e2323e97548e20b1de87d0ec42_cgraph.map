@@ -1,0 +1,6 @@
+<map id="encode_getattr" name="encode_getattr">
+<area shape="rect" id="node2" href="$nfs4xdr_8c.html#af331741cfbeebb9874e32761ef58433a" title="encode_op_hdr" alt="" coords="177,5,288,32"/>
+<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a01743b350b316eb29fb62f3acf817bf1" title="mask_bitmap4" alt="" coords="179,56,286,83"/>
+<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a79ffe257c7bb34072b4d0a8a872a95a8" title="xdr_encode_bitmap4" alt="" coords="161,107,304,133"/>
+<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ab33bed6588aeafcdec18900fffe81db3" title="encode_uint32" alt="" coords="352,5,459,32"/>
+</map>

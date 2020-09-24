@@ -1,0 +1,6 @@
+<map id="nsm_lookup_priv" name="nsm_lookup_priv">
+<area shape="rect" id="node2" href="$mon_8c.html#afff5bbdd30793055522ce9c72227502d" title="nsm_reboot_lookup" alt="" coords="173,31,308,57"/>
+<area shape="rect" id="node3" href="$host_8c.html#a7b3aa5a8da6db14462d5e03f54a38f4a" title="nlm_host_rebooted" alt="" coords="356,31,488,57"/>
+<area shape="rect" id="node4" href="$svc4proc_8c.html#a2c797bff1065843040c85a72eefd904b" title="nlm4svc_proc_sm_notify" alt="" coords="536,5,703,32"/>
+<area shape="rect" id="node5" href="$svcproc_8c.html#aa6252f981fb1ec60077826d0634760ff" title="nlmsvc_proc_sm_notify" alt="" coords="539,56,699,83"/>
+</map>

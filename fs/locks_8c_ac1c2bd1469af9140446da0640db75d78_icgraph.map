@@ -1,0 +1,4 @@
+<map id="fcntl_getlk" name="fcntl_getlk">
+<area shape="rect" id="node2" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="136,5,204,32"/>
+<area shape="rect" id="node3" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="252,31,399,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nilfs_mdt_clear" name="nilfs_mdt_clear">
+<area shape="rect" id="node2" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="520,27,616,53"/>
+<area shape="rect" id="node3" href="$nilfs2_2alloc_8c.html#a7ad556c87d6cf7e18d5b8a276d453cfc" title="nilfs_palloc_destroy\l_cache" alt="" coords="164,27,301,69"/>
+<area shape="rect" id="node4" href="$nilfs2_2alloc_8c.html#aa1ef67260a902eaecb3a5aacacdd0ed8" title="nilfs_palloc_clear\l_cache" alt="" coords="349,78,472,119"/>
+</map>

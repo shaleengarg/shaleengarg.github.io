@@ -1,0 +1,28 @@
+var kmem_8h =
+[
+    [ "KM_MAYFAIL", "kmem_8h.html#a1c5e70680464ec86f8b5bec654c19005", null ],
+    [ "KM_NOFS", "kmem_8h.html#a0b97caf1210854412fbbcd089af69499", null ],
+    [ "KM_NOSLEEP", "kmem_8h.html#a6268c15bc71a46d75ac4a263414d4aff", null ],
+    [ "KM_SLEEP", "kmem_8h.html#ae6f1641ca93e5b4125266d32888ebcad", null ],
+    [ "KM_ZERO", "kmem_8h.html#a0998885352870f526776d738fe7e7d2e", null ],
+    [ "KM_ZONE_ACCOUNT", "kmem_8h.html#ac908c6107757d281ca4b51af3ef96d5c", null ],
+    [ "KM_ZONE_HWALIGN", "kmem_8h.html#a693ec6300cf34354d9d37ae8890e8444", null ],
+    [ "KM_ZONE_RECLAIM", "kmem_8h.html#ab5a00ba3148714230f69a262637961f6", null ],
+    [ "KM_ZONE_SPREAD", "kmem_8h.html#a0182735e339561bbdb66c79cf800cf7f", null ],
+    [ "kmem_zone", "kmem_8h.html#a792f3afd82af4777356d6e29c13291f9", null ],
+    [ "kmem_zone_t", "kmem_8h.html#a05837e33f67cb4c64781fc56d3a5178c", null ],
+    [ "xfs_km_flags_t", "kmem_8h.html#ad5aea4ae9f50ae7699bb4ddd9671f5b2", null ],
+    [ "kmem_alloc", "kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044", null ],
+    [ "kmem_alloc_large", "kmem_8h.html#af973995edbeaf6562cb814a62b6365bf", null ],
+    [ "kmem_flags_convert", "kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a", null ],
+    [ "kmem_free", "kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62", null ],
+    [ "kmem_realloc", "kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6", null ],
+    [ "kmem_zalloc", "kmem_8h.html#ab12c764ddc7657a5f96b6294b50ae091", null ],
+    [ "kmem_zalloc_large", "kmem_8h.html#af2656d8864cfd341e292be0e7be2fc2c", null ],
+    [ "kmem_zone_alloc", "kmem_8h.html#a5fca7fda061a394f43a128465d3f47de", null ],
+    [ "kmem_zone_destroy", "kmem_8h.html#af792ab97a0ae53f86f11199ec80483e6", null ],
+    [ "kmem_zone_free", "kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b", null ],
+    [ "kmem_zone_init", "kmem_8h.html#a5b9cce6dd0bc40f424dd38cf21a28a2d", null ],
+    [ "kmem_zone_init_flags", "kmem_8h.html#a4d180bf97ed69f46eaa47c91d4dee481", null ],
+    [ "kmem_zone_zalloc", "kmem_8h.html#a599d39ea9de651f0b29334a6f226bc7f", null ]
+];

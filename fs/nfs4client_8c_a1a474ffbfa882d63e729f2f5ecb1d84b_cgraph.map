@@ -1,0 +1,10 @@
+<map id="nfs4_set_client" name="nfs4_set_client">
+<area shape="rect" id="node2" href="$client_8c.html#a6689bec82a5957c108a9362382cb9c1f" title="nfs_get_client" alt="" coords="164,93,267,120"/>
+<area shape="rect" id="node7" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="499,160,602,186"/>
+<area shape="rect" id="node3" href="$client_8c.html#aec354055e63bb1df0e8f154c35cc5ad9" title="nfs_match_client" alt="" coords="315,68,436,94"/>
+<area shape="rect" id="node6" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="891,60,1063,86"/>
+<area shape="rect" id="node9" href="$client_8c.html#a24ce27ab0c2f8e34ad2e781cd89e043e" title="nfs_found_client" alt="" coords="317,118,434,145"/>
+<area shape="rect" id="node4" href="$client_8c.html#abf4056dc57f79d5a414701f316a66f29" title="nfs_wait_client_init\l_complete" alt="" coords="484,64,617,106"/>
+<area shape="rect" id="node5" href="$client_8c.html#a7a80a645d52e4a62191433ce90161943" title="nfs_client_init_is\l_complete" alt="" coords="695,94,813,135"/>
+<area shape="rect" id="node8" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="665,160,843,186"/>
+</map>

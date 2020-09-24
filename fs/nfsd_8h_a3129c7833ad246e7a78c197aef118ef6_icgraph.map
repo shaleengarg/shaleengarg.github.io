@@ -1,0 +1,12 @@
+<map id="nfsd_destroy" name="nfsd_destroy">
+<area shape="rect" id="node2" href="$nfsctl_8c.html#ad63abcd3f52a2b6c6eea863edcea3246" title="__write_ports_addfd" alt="" coords="163,5,301,32"/>
+<area shape="rect" id="node5" href="$nfsctl_8c.html#aa7aba14567ce82ae54d271816c9ca1a4" title="__write_ports_addxprt" alt="" coords="157,56,307,83"/>
+<area shape="rect" id="node6" href="$nfssvc_8c.html#a65507fbcf7d4910796c471614b9f849d" title="nfsd_set_nrthreads" alt="" coords="165,107,299,133"/>
+<area shape="rect" id="node8" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="195,157,269,184"/>
+<area shape="rect" id="node10" href="$nfssvc_8c.html#a2e625b668e963dbc00fd0647b62a8fde" title="nfsd" alt="" coords="209,208,255,235"/>
+<area shape="rect" id="node11" href="$nfssvc_8c.html#abaf049f1b62c1d07680aab77a3cad403" title="nfsd_pool_stats_release" alt="" coords="151,259,313,285"/>
+<area shape="rect" id="node3" href="$nfsctl_8c.html#a86cf7be69ecc932f6aea3dd20a119da6" title="__write_ports" alt="" coords="377,31,477,57"/>
+<area shape="rect" id="node4" href="$nfsctl_8c.html#a5baae2a01636a44623fc2637a3e1edce" title="write_ports" alt="" coords="540,31,627,57"/>
+<area shape="rect" id="node7" href="$nfsctl_8c.html#a2f31b4e9cb22face9a46b2b6e0930a6d" title="write_pool_threads" alt="" coords="361,107,492,133"/>
+<area shape="rect" id="node9" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="377,157,477,184"/>
+</map>

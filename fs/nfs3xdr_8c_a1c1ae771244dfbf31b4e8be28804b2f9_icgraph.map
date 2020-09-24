@@ -1,0 +1,10 @@
+<map id="encode_diropargs3" name="encode_diropargs3">
+<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a039f6740ba05caba13743e28723fb8d7" title="nfs3_xdr_enc_lookup3args" alt="" coords="187,5,365,32"/>
+<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ae17c2e54030383cc9e1ef99242f04da9" title="nfs3_xdr_enc_create3args" alt="" coords="189,56,363,83"/>
+<area shape="rect" id="node4" href="$nfs3xdr_8c.html#ae59fa814fcbfb2aa273ad009509bcb52" title="nfs3_xdr_enc_mkdir3args" alt="" coords="191,107,361,133"/>
+<area shape="rect" id="node5" href="$nfs3xdr_8c.html#abca0647fa5f4e5ffc4ff704246cd2e11" title="nfs3_xdr_enc_symlink3args" alt="" coords="184,157,368,184"/>
+<area shape="rect" id="node6" href="$nfs3xdr_8c.html#a1f0ad1b9e1368667af10808e65b5faf3" title="nfs3_xdr_enc_mknod3args" alt="" coords="187,208,365,235"/>
+<area shape="rect" id="node7" href="$nfs3xdr_8c.html#a5896525283b839377c461258fc0d482d" title="nfs3_xdr_enc_remove3args" alt="" coords="185,259,367,285"/>
+<area shape="rect" id="node8" href="$nfs3xdr_8c.html#a43fffd6dfc9514f9067956095dbbb176" title="nfs3_xdr_enc_rename3args" alt="" coords="185,309,367,336"/>
+<area shape="rect" id="node9" href="$nfs3xdr_8c.html#a01ce5c0bb40d2099b9a4d062a3812d70" title="nfs3_xdr_enc_link3args" alt="" coords="197,360,355,387"/>
+</map>

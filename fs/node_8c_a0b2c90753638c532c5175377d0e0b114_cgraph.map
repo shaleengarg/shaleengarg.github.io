@@ -1,0 +1,10 @@
+<map id="scan_nat_page" name="scan_nat_page">
+<area shape="rect" id="node2" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="519,146,573,173"/>
+<area shape="rect" id="node3" href="$node_8c.html#a46a6d6a5a66851dc3d0f24fd7647c692" title="add_free_nid" alt="" coords="164,172,260,198"/>
+<area shape="rect" id="node9" href="$node_8c.html#a4f1f0a093445469a229327079ee3e544" title="update_free_nid_bitmap" alt="" coords="309,324,469,350"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="308,70,471,97"/>
+<area shape="rect" id="node5" href="$node_8c.html#ac105ce2e520710c77e561a3152b612d0" title="__lookup_nat_cache" alt="" coords="319,121,460,148"/>
+<area shape="rect" id="node6" href="$node_8h.html#a7524bf873ad7e11c3c9464a02c941313" title="get_nat_flag" alt="" coords="343,172,436,198"/>
+<area shape="rect" id="node7" href="$node_8c.html#ae0dddfe35cc4afc57088f0b3323a1d57" title="__lookup_free_nid_list" alt="" coords="314,222,465,249"/>
+<area shape="rect" id="node8" href="$node_8c.html#abe343204a2ce0f4b5de0b608ca14a928" title="__insert_free_nid" alt="" coords="329,273,450,300"/>
+</map>

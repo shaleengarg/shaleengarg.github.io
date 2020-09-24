@@ -1,0 +1,17 @@
+<map id="nilfs_btree_get_new_block" name="nilfs_btree_get_new_block">
+<area shape="rect" id="node2" href="$nilfs_8h.html#ab02aecb562f6c74a04aad6d769ac9f1e" title="NILFS_BMAP_I" alt="" coords="201,5,317,32"/>
+<area shape="rect" id="node3" href="$btnode_8c.html#aa637db552250ee79451b63053b89dd1d" title="nilfs_btnode_create\l_block" alt="" coords="192,57,327,98"/>
+<area shape="rect" id="node4" href="$nilfs_8h.html#a4dc3ec1228b57cf218654a728557a7db" title="NILFS_BTNC_I" alt="" coords="377,39,491,65"/>
+<area shape="rect" id="node5" href="$nilfs2_2page_8c.html#aa4a24cc5a684ba71b9e4423f2ea38970" title="nilfs_grab_buffer" alt="" coords="375,89,493,116"/>
+<area shape="rect" id="node6" href="$nilfs2_2page_8c.html#a051d0268f3af219ba3e2a9ca79a8843c" title="__nilfs_get_page_block" alt="" coords="541,89,700,116"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a4844b8163e94b4a214fbf85d86fe88d0" title="create_empty_buffers" alt="" coords="748,89,896,116"/>
+<area shape="rect" id="node15" href="$page_8h.html#aaad58f68fa9675f7e9803744d0e3f414" title="nilfs_page_get_nth\l_block" alt="" coords="757,141,887,182"/>
+<area shape="rect" id="node16" href="$buffer_8c.html#a59a45ba914a951c36f0cabe79be9756b" title="touch_buffer" alt="" coords="962,39,1057,65"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a94ca9132735bfcb0b0b2ae9531461cc8" title="alloc_page_buffers" alt="" coords="944,191,1075,217"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="1343,140,1481,167"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a981702f40cf45ec9b31ad0139bef0ad4" title="alloc_buffer_head" alt="" coords="1147,292,1271,319"/>
+<area shape="rect" id="node12" href="$buffer_8c.html#a3b86ea46b7b35adeb32cc031574c6caf" title="set_bh_page" alt="" coords="1161,140,1257,167"/>
+<area shape="rect" id="node13" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="1149,191,1268,217"/>
+<area shape="rect" id="node14" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="1123,241,1295,268"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="1355,241,1469,268"/>
+</map>

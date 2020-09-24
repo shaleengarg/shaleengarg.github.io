@@ -1,0 +1,16 @@
+<map id="nilfs_mdt_save_to_shadow_map" name="nilfs_mdt_save_to_shadow_map">
+<area shape="rect" id="node2" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="295,132,391,159"/>
+<area shape="rect" id="node3" href="$nilfs_8h.html#a4f06a82c20559c61e8f30eac6bad1001" title="NILFS_I" alt="" coords="307,183,378,209"/>
+<area shape="rect" id="node4" href="$nilfs2_2page_8c.html#ab1f505f6520c69332f0ee920a731e817" title="nilfs_copy_dirty_pages" alt="" coords="265,233,420,260"/>
+<area shape="rect" id="node15" href="$nilfs2_2bmap_8c.html#aa549c9215d24ae7f44f0128fa9d81f98" title="nilfs_bmap_save" alt="" coords="283,284,403,311"/>
+<area shape="rect" id="node5" href="$nilfs2_2page_8c.html#ae10da2cefd33c9affe7f4960fa4cc712" title="nilfs_copy_page" alt="" coords="468,233,584,260"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a4844b8163e94b4a214fbf85d86fe88d0" title="create_empty_buffers" alt="" coords="632,208,780,235"/>
+<area shape="rect" id="node14" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="843,259,943,285"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a94ca9132735bfcb0b0b2ae9531461cc8" title="alloc_page_buffers" alt="" coords="828,107,959,133"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="1227,107,1365,133"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a981702f40cf45ec9b31ad0139bef0ad4" title="alloc_buffer_head" alt="" coords="1031,5,1155,32"/>
+<area shape="rect" id="node11" href="$buffer_8c.html#a3b86ea46b7b35adeb32cc031574c6caf" title="set_bh_page" alt="" coords="1045,107,1141,133"/>
+<area shape="rect" id="node12" href="$buffer_8c.html#a075f98dd5ac2332bbf2f2f7093c9f131" title="free_buffer_head" alt="" coords="1033,56,1152,83"/>
+<area shape="rect" id="node13" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="1007,157,1179,184"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a47e9ba092637c653e61f12f9a14cdd4a" title="recalc_bh_state" alt="" coords="1239,31,1353,57"/>
+</map>

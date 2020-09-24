@@ -1,0 +1,7 @@
+<map id="minix_new_inode" name="minix_new_inode">
+<area shape="rect" id="node2" href="$minix_2namei_8c.html#a29fdc0cbe156794dde13dcd971ea3601" title="minix_mknod" alt="" coords="179,5,278,32"/>
+<area shape="rect" id="node4" href="$minix_2namei_8c.html#a6d47d3a8d833a018fdd9c590151764e5" title="minix_tmpfile" alt="" coords="179,56,278,83"/>
+<area shape="rect" id="node5" href="$minix_2namei_8c.html#ae368e220e70a32d2c1a2342ef9302058" title="minix_symlink" alt="" coords="176,107,281,133"/>
+<area shape="rect" id="node6" href="$minix_2namei_8c.html#ad99d2a4c8058fafaecb0e3db6861e45e" title="minix_mkdir" alt="" coords="183,157,275,184"/>
+<area shape="rect" id="node3" href="$minix_2namei_8c.html#a4bcb6a1dc8b541ab7b5b1723d603ccd1" title="minix_create" alt="" coords="329,5,425,32"/>
+</map>

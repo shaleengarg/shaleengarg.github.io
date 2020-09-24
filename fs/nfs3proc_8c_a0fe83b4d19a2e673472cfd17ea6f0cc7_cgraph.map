@@ -1,0 +1,33 @@
+<map id="nfs3_proc_access" name="nfs3_proc_access">
+<area shape="rect" id="node2" href="$nfs_2inode_8c.html#a7d9faac1fe3bbdd7e3986371b09a8ea2" title="nfs_alloc_fattr" alt="" coords="416,838,520,864"/>
+<area shape="rect" id="node6" href="$nfs_2inode_8c.html#a7c1e649b19cf0a10eae5416b15bc1b11" title="nfs_refresh_inode" alt="" coords="195,720,321,747"/>
+<area shape="rect" id="node32" href="$nfs_2dir_8c.html#ad2738b7badfd9e534db91c2693e03ca2" title="nfs_access_set_mask" alt="" coords="181,888,335,915"/>
+<area shape="rect" id="node3" href="$nfs_2inode_8c.html#a81ed57e217c4563faf406fe27093858b" title="nfs_fattr_init" alt="" coords="645,838,739,864"/>
+<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="1085,808,1257,835"/>
+<area shape="rect" id="node4" href="$nfs_2inode_8c.html#ad80c28b99f558acae79f418e445df851" title="nfs_inc_attr_generation\l_counter" alt="" coords="855,772,1013,813"/>
+<area shape="rect" id="node7" href="$nfs_2inode_8c.html#af833e2bf102355fb3d5da91c56d23c23" title="nfs_refresh_inode_locked" alt="" coords="383,375,553,402"/>
+<area shape="rect" id="node8" href="$nfs_2inode_8c.html#acd5dcc4691a92a02dd5758c34e940853" title="nfs_inode_attrs_need\l_update" alt="" coords="619,288,765,329"/>
+<area shape="rect" id="node10" href="$nfs_2inode_8c.html#ac09dd99add78d441eb7f3d3f4191da95" title="nfs_update_inode" alt="" coords="630,442,754,468"/>
+<area shape="rect" id="node31" href="$nfs_2inode_8c.html#a119ecde87d871717c6350cd810bd8135" title="nfs_check_inode_attributes" alt="" coords="601,160,783,187"/>
+<area shape="rect" id="node9" href="$nfs_2inode_8c.html#a44ff4255f0ca76f7e5d7a54efcbb8c3d" title="nfs_read_attr_generation\l_counter" alt="" coords="851,249,1017,290"/>
+<area shape="rect" id="node11" href="$nfs_2inode_8c.html#a186b2e174ebe895fc8ebc01f1f125d76" title="nfs_file_has_buffered\l_writers" alt="" coords="861,81,1007,122"/>
+<area shape="rect" id="node14" href="$nfs_2inode_8c.html#a8fd88606218430fe4d0a8078db497b47" title="nfs_fileid_valid" alt="" coords="880,568,988,595"/>
+<area shape="rect" id="node15" href="$nfs_2inode_8c.html#ae731994514abe7fbc166f28d3db28fa4" title="nfs_wcc_update_inode" alt="" coords="1094,315,1249,342"/>
+<area shape="rect" id="node16" href="$nfs_2inode_8c.html#a2c8796a0dda755676128203347abd111" title="nfs_set_cache_invalid" alt="" coords="1305,315,1456,342"/>
+<area shape="rect" id="node19" href="$pnfs_8h.html#a02c3c447f9141c77b89a85bce443fac9" title="pnfs_layoutcommit_outstanding" alt="" coords="831,416,1037,443"/>
+<area shape="rect" id="node20" href="$nfs_2dir_8c.html#a94b7e2a3c8ab97c29fe52b09938a78d7" title="nfs_force_lookup_revalidate" alt="" coords="842,670,1026,696"/>
+<area shape="rect" id="node22" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="897,147,971,174"/>
+<area shape="rect" id="node25" href="$nfs_2internal_8h.html#abb29e6b09856fc3feaca247d2e28c3c5" title="nfs_calc_block_size" alt="" coords="864,518,1004,544"/>
+<area shape="rect" id="node26" href="$iostat_8h.html#a827fa3b79055f4019a86f1f7dc3ba732" title="nfs_inc_stats" alt="" coords="1331,572,1431,599"/>
+<area shape="rect" id="node28" href="$nfs_2inode_8c.html#a5bf25c37ff6f7f2d975355a5aec7dfc5" title="nfs_invalidate_inode" alt="" coords="864,467,1004,494"/>
+<area shape="rect" id="node12" href="$nfs_2inode_8c.html#a1fb43d1a856001468e9ec2219a040391" title="nfs_file_has_writers" alt="" coords="1102,38,1241,64"/>
+<area shape="rect" id="node13" href="$nfs_2internal_8h.html#a6c2847eab6b06cb093b33c9b7fee40a0" title="nfs_file_io_is_buffered" alt="" coords="1095,88,1247,115"/>
+<area shape="rect" id="node17" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="1512,114,1651,156"/>
+<area shape="rect" id="node18" href="$nfs_2fscache_8h.html#af3f2768c71063606516dbb0ee9cf7d72" title="nfs_fscache_invalidate" alt="" coords="1504,315,1659,342"/>
+<area shape="rect" id="node21" href="$fat_2dir_8c.html#a59ee3c6473393c9dde28f7c59e81446b" title="EXPORT_SYMBOL_GPL" alt="" coords="1085,714,1257,740"/>
+<area shape="rect" id="node23" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="1129,139,1213,166"/>
+<area shape="rect" id="node24" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="1311,164,1450,191"/>
+<area shape="rect" id="node27" href="$iostat_8h.html#af6c43e25d4518ea95856ae498ba92e58" title="nfs_inc_server_stats" alt="" coords="1510,572,1653,599"/>
+<area shape="rect" id="node29" href="$nfs_2inode_8c.html#a56057971c0f4db69254b930fa3582ad1" title="nfs_zap_caches_locked" alt="" coords="1090,467,1253,494"/>
+<area shape="rect" id="node30" href="$nfs_2internal_8h.html#a77fb109b626a134e5f31424aafde0dd0" title="nfs_zap_label_cache\l_locked" alt="" coords="1309,460,1453,501"/>
+</map>

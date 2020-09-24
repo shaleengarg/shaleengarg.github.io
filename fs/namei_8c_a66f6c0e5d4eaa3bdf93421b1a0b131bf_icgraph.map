@@ -1,0 +1,8 @@
+<map id="vfs_readlink" name="vfs_readlink">
+<area shape="rect" id="node2" href="$stat_8c.html#a7405cdb03839317d136bf6a97e4c19dd" title="do_readlinkat" alt="" coords="175,56,274,83"/>
+<area shape="rect" id="node5" href="$xfs__ioctl_8h.html#a990f316365705b118180e6cd2068c9ec" title="xfs_readlink_by_handle" alt="" coords="145,107,304,133"/>
+<area shape="rect" id="node3" href="$stat_8c.html#a08126f2d319d9b54eb7bd8de1bd120c5" title="SYSCALL_DEFINE4" alt="" coords="352,5,499,32"/>
+<area shape="rect" id="node4" href="$stat_8c.html#a92eecafe20a7870217bbce3e2ede485f" title="SYSCALL_DEFINE3" alt="" coords="352,56,499,83"/>
+<area shape="rect" id="node6" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="378,107,473,133"/>
+<area shape="rect" id="node7" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="547,132,692,159"/>
+</map>

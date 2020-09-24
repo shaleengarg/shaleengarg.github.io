@@ -1,0 +1,12 @@
+<map id="nfs40_init_client" name="nfs40_init_client">
+<area shape="rect" id="node2" href="$nfs4session_8c.html#a94546adea3baca94dcf2b6ad4ab90abe" title="nfs4_setup_slot_table" alt="" coords="171,44,321,71"/>
+<area shape="rect" id="node10" href="$client_8c.html#ac26d3d6a8179483309418cd61c38b760" title="nfs_mark_client_ready" alt="" coords="169,119,323,145"/>
+<area shape="rect" id="node3" href="$nfs4session_8c.html#a86e8830a116af80dc92513ad56bb4f2f" title="nfs4_init_slot_table" alt="" coords="389,5,524,32"/>
+<area shape="rect" id="node4" href="$nfs4session_8c.html#a5fcbca52a4660ab79535b15d415320a5" title="nfs4_realloc_slot_table" alt="" coords="379,56,534,83"/>
+<area shape="rect" id="node5" href="$nfs4session_8c.html#a11fa12a28f06c917af977183b8253884" title="nfs4_grow_slot_table" alt="" coords="591,31,737,57"/>
+<area shape="rect" id="node8" href="$nfs4session_8c.html#a41837442a15f21461dedd7305085fad4" title="nfs4_reset_slot_table" alt="" coords="591,81,737,108"/>
+<area shape="rect" id="node6" href="$nfs4session_8c.html#a1b8596f0771e688c405ee009adc830d4" title="nfs4_find_or_create_slot" alt="" coords="785,31,949,57"/>
+<area shape="rect" id="node7" href="$nfs4session_8c.html#aa541623176dc49b6d9325d5238ddd4eb" title="nfs4_new_slot" alt="" coords="997,31,1104,57"/>
+<area shape="rect" id="node9" href="$nfs4session_8c.html#acf2c3aa0b3f4d7303ad109e7b0a24976" title="nfs4_shrink_slot_table" alt="" coords="791,81,943,108"/>
+<area shape="rect" id="node11" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="371,119,543,145"/>
+</map>

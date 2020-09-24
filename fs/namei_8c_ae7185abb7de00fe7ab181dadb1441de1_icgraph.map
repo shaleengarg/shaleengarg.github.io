@@ -1,0 +1,14 @@
+<map id="page_symlink" name="page_symlink">
+<area shape="rect" id="node2" href="$hfsplus_2dir_8c.html#aeda0310a00867d05b95b1bc015923e5c" title="hfsplus_symlink" alt="" coords="161,5,277,32"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#a6641c438eebeb4157e2c9cf566406f1f" title="hugetlbfs_symlink" alt="" coords="156,56,283,83"/>
+<area shape="rect" id="node6" href="$ramfs_2inode_8c.html#a22ddff08c35237ba1cde62e99de73e8e" title="ramfs_symlink" alt="" coords="166,107,273,133"/>
+<area shape="rect" id="node7" href="$exofs_2namei_8c.html#a5aaf8579649c70eb5fe4ff9587187878" title="exofs_symlink" alt="" coords="166,157,273,184"/>
+<area shape="rect" id="node8" href="$ext2_2namei_8c.html#ab0188bfc0488270b4cd2f049f3dfb6dc" title="ext2_symlink" alt="" coords="170,208,269,235"/>
+<area shape="rect" id="node9" href="$f2fs_2namei_8c.html#a99c1fdef6124c62be05471e2ce45f037" title="f2fs_symlink" alt="" coords="171,259,267,285"/>
+<area shape="rect" id="node10" href="$minix_2namei_8c.html#ae368e220e70a32d2c1a2342ef9302058" title="minix_symlink" alt="" coords="167,309,272,336"/>
+<area shape="rect" id="node11" href="$nilfs2_2namei_8c.html#a83737a267d28fb54629a821efc9bd2a0" title="nilfs_symlink" alt="" coords="170,360,269,387"/>
+<area shape="rect" id="node12" href="$sysv_2namei_8c.html#a3bef4cd2b3a36916e3db64c61f3e133e" title="sysv_symlink" alt="" coords="168,411,271,437"/>
+<area shape="rect" id="node13" href="$ufs_2namei_8c.html#a9ec19061f2989ef44a1356c8de654f07" title="ufs_symlink" alt="" coords="173,461,265,488"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="331,56,405,83"/>
+<area shape="rect" id="node5" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="453,56,571,83"/>
+</map>

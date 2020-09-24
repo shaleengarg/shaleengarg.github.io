@@ -1,0 +1,15 @@
+<map id="dir_commit_chunk" name="dir_commit_chunk">
+<area shape="rect" id="node2" href="$minix_8h.html#ac36016a72e9de6da6c4e9b7063ec7a77" title="minix_add_link" alt="" coords="195,56,303,83"/>
+<area shape="rect" id="node10" href="$minix_8h.html#ab7e98593e96c3ef2ecd41d36dc3b80ae" title="minix_delete_entry" alt="" coords="183,157,314,184"/>
+<area shape="rect" id="node13" href="$minix_8h.html#aeab59157fe042deb081be4e8b6fdf7e8" title="minix_make_empty" alt="" coords="181,5,316,32"/>
+<area shape="rect" id="node14" href="$minix_8h.html#ac78c85ece40d1305bf163a6da17e9c7e" title="minix_set_link" alt="" coords="196,107,301,133"/>
+<area shape="rect" id="node3" href="$minix_2namei_8c.html#ab4d1ee6c9ffcf9052cc550bbbdabebbc" title="add_nondir" alt="" coords="373,56,458,83"/>
+<area shape="rect" id="node8" href="$minix_2namei_8c.html#ad99d2a4c8058fafaecb0e3db6861e45e" title="minix_mkdir" alt="" coords="369,5,461,32"/>
+<area shape="rect" id="node9" href="$minix_2namei_8c.html#aca794ccd60526dd7458a11c3078c947b" title="minix_rename" alt="" coords="364,107,467,133"/>
+<area shape="rect" id="node4" href="$minix_2namei_8c.html#a29fdc0cbe156794dde13dcd971ea3601" title="minix_mknod" alt="" coords="518,56,617,83"/>
+<area shape="rect" id="node6" href="$minix_2namei_8c.html#ae368e220e70a32d2c1a2342ef9302058" title="minix_symlink" alt="" coords="515,107,620,133"/>
+<area shape="rect" id="node7" href="$minix_2namei_8c.html#adf5b7f94bfcd26561d7ff794640d3cfe" title="minix_link" alt="" coords="527,5,607,32"/>
+<area shape="rect" id="node5" href="$minix_2namei_8c.html#a4bcb6a1dc8b541ab7b5b1723d603ccd1" title="minix_create" alt="" coords="668,56,764,83"/>
+<area shape="rect" id="node11" href="$minix_2namei_8c.html#a77149a94528b0d60b203a4728056e891" title="minix_unlink" alt="" coords="368,157,463,184"/>
+<area shape="rect" id="node12" href="$minix_2namei_8c.html#a06475ab3fba79710c7c6a418e2cebf98" title="minix_rmdir" alt="" coords="523,157,612,184"/>
+</map>

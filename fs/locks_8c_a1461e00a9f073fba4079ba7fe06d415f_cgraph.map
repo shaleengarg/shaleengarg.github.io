@@ -1,0 +1,10 @@
+<map id="lease_alloc" name="lease_alloc">
+<area shape="rect" id="node2" href="$locks_8c.html#a2566d7885e0afef541b1d95747f9e40e" title="locks_alloc_lock" alt="" coords="140,56,259,83"/>
+<area shape="rect" id="node5" href="$locks_8c.html#a8f99dd77ddefd091bb13a4679e58f93f" title="lease_init" alt="" coords="161,107,238,133"/>
+<area shape="rect" id="node7" href="$locks_8c.html#a3946eda3effdd575cb8fb0a1e20c267c" title="locks_free_lock" alt="" coords="143,157,256,184"/>
+<area shape="rect" id="node3" href="$locks_8c.html#aaf0eec7769579a2fbc1ddd9804470873" title="locks_init_lock_heads" alt="" coords="307,5,457,32"/>
+<area shape="rect" id="node4" href="$locks_8c.html#ae0e51117f92ae6dc5ccfbaa60aaa53f1" title="EXPORT_SYMBOL_GPL" alt="" coords="505,107,677,133"/>
+<area shape="rect" id="node6" href="$locks_8c.html#a9aec802762119ee6847865be45c7c2bc" title="assign_type" alt="" coords="336,107,428,133"/>
+<area shape="rect" id="node8" href="$locks_8c.html#a8fd94e778fd9f51467c83f045029c2d1" title="locks_release_private" alt="" coords="308,157,456,184"/>
+<area shape="rect" id="node9" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="313,208,451,235"/>
+</map>

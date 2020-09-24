@@ -1,0 +1,5 @@
+<map id="o2nm_cluster_attr_write" name="o2nm_cluster_attr_write">
+<area shape="rect" id="node2" href="$nodemanager_8c.html#afda0f758e9f862bb82734b5d7f77d5d8" title="o2nm_cluster_idle_timeout\l_ms_store" alt="" coords="215,5,392,47"/>
+<area shape="rect" id="node3" href="$nodemanager_8c.html#a74d72425014f47943be65d87419b1bf8" title="o2nm_cluster_keepalive\l_delay_ms_store" alt="" coords="222,71,385,112"/>
+<area shape="rect" id="node4" href="$nodemanager_8c.html#af74cfc0b99a784f18a921af784df0f55" title="o2nm_cluster_reconnect\l_delay_ms_store" alt="" coords="221,136,385,177"/>
+</map>

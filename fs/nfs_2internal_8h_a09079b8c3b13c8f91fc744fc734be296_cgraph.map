@@ -1,0 +1,12 @@
+<map id="nfs_clear_inode" name="nfs_clear_inode">
+<area shape="rect" id="node2" href="$nfs_2inode_8c.html#ae03f58c3ae0b1c1aef8df01178373290" title="nfs_zap_acl_cache" alt="" coords="344,60,479,86"/>
+<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="543,60,715,86"/>
+<area shape="rect" id="node4" href="$nfs_2dir_8c.html#aca0498559b5b7625437077178c6c536e" title="nfs_access_zap_cache" alt="" coords="332,161,491,188"/>
+<area shape="rect" id="node10" href="$nfs_2fscache_8c.html#a9d6e6ecc7308923ba01cd2f16b511b9f" title="nfs_fscache_clear_inode" alt="" coords="328,212,495,238"/>
+<area shape="rect" id="node11" href="$nfs_2inode_8c.html#ab16c207ba8923749d25cfbb6ad8d190b" title="nfs_clear_inode" alt="" coords="167,110,280,137"/>
+<area shape="rect" id="node5" href="$nfs_2dir_8c.html#a234a905a576151f75507636c29451ff6" title="LIST_HEAD" alt="" coords="582,262,677,289"/>
+<area shape="rect" id="node6" href="$nfs_2dir_8c.html#ada7329580f38554f70ac5f312bb360bb" title="__nfs_access_zap_cache" alt="" coords="543,110,716,137"/>
+<area shape="rect" id="node7" href="$nfs_2dir_8c.html#a02e106bab7f5ce8074889fe92c4d676e" title="nfs_access_free_list" alt="" coords="558,161,701,188"/>
+<area shape="rect" id="node9" href="$fat_2dir_8c.html#a59ee3c6473393c9dde28f7c59e81446b" title="EXPORT_SYMBOL_GPL" alt="" coords="543,212,715,238"/>
+<area shape="rect" id="node8" href="$nfs_2dir_8c.html#a59b2e0093d17abe677065242687d3535" title="nfs_access_free_entry" alt="" coords="764,161,919,188"/>
+</map>

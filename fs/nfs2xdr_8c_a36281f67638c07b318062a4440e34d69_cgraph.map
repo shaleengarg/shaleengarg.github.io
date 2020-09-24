@@ -1,0 +1,5 @@
+<map id="nfs2_xdr_enc_diropargs" name="nfs2_xdr_enc_diropargs">
+<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a93ea83164a46ec5f8ef074f5780555a4" title="encode_diropargs" alt="" coords="213,31,337,57"/>
+<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a71028f192b6b109bacc5ed86f06fdb48" title="encode_fhandle" alt="" coords="389,5,502,32"/>
+<area shape="rect" id="node4" href="$nfs2xdr_8c.html#a6088db1149a66b11e27e69a93ae87c30" title="encode_filename" alt="" coords="385,56,505,83"/>
+</map>

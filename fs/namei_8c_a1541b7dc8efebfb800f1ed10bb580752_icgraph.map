@@ -1,0 +1,6 @@
+<map id="may_mknod" name="may_mknod">
+<area shape="rect" id="node2" href="$namei_8c.html#a7218f1f5d906af5916d8925ea9896593" title="do_mknodat" alt="" coords="147,56,240,83"/>
+<area shape="rect" id="node3" href="$namei_8c.html#a008be49b4f289fa3f23dd0db91b5b0a8" title="SYSCALL_DEFINE4" alt="" coords="288,5,435,32"/>
+<area shape="rect" id="node4" href="$namei_8c.html#afb2fdbbb539b549c68d230ab58aa4e74" title="SYSCALL_DEFINE3" alt="" coords="288,56,435,83"/>
+<area shape="rect" id="node5" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="300,107,423,133"/>
+</map>
