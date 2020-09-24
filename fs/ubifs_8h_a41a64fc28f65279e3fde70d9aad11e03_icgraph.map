@@ -1,0 +1,12 @@
+<map id="ubifs_destroy_tnc_subtree" name="ubifs_destroy_tnc_subtree">
+<area shape="rect" id="node2" href="$ubifs_2shrinker_8c.html#a32ba118a0bb1dd776b2c54cda5cb9035" title="shrink_tnc" alt="" coords="243,5,326,32"/>
+<area shape="rect" id="node5" href="$ubifs_8h.html#a0250b1b8a26f9ab4196fbec0dff74b14" title="ubifs_tnc_close" alt="" coords="228,56,341,83"/>
+<area shape="rect" id="node3" href="$ubifs_2shrinker_8c.html#aae7bfecfc263da15e6e89615dc80b45d" title="shrink_tnc_trees" alt="" coords="389,5,508,32"/>
+<area shape="rect" id="node4" href="$ubifs_8h.html#a148b76e3e941071fe7395e70793f9996" title="ubifs_shrink_scan" alt="" coords="556,5,683,32"/>
+<area shape="rect" id="node6" href="$ubifs_2super_8c.html#aab65fe9d1f499e203abd72e1c7ddafc6" title="destroy_journal" alt="" coords="393,56,504,83"/>
+<area shape="rect" id="node7" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="573,56,666,83"/>
+<area shape="rect" id="node10" href="$ubifs_2super_8c.html#a3e27f93e2785f1ef9580acc2fa8db34d" title="ubifs_umount" alt="" coords="569,107,669,133"/>
+<area shape="rect" id="node8" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="733,56,843,83"/>
+<area shape="rect" id="node9" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="893,56,987,83"/>
+<area shape="rect" id="node11" href="$ubifs_2super_8c.html#ae2f59fbee4bf3523cc44fbe10cc38917" title="ubifs_put_super" alt="" coords="731,107,845,133"/>
+</map>

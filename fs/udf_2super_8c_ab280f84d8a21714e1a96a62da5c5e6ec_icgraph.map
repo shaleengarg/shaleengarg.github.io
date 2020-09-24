@@ -1,0 +1,11 @@
+<map id="udf_free_partition" name="udf_free_partition">
+<area shape="rect" id="node2" href="$udf_2super_8c.html#a6435a46400917151d522657ec4d3964c" title="udf_sb_free_partitions" alt="" coords="176,56,327,83"/>
+<area shape="rect" id="node3" href="$udf_2super_8c.html#afed1decbd2e49e135c3d3cb2305f9fee" title="udf_load_sequence" alt="" coords="375,5,509,32"/>
+<area shape="rect" id="node8" href="$udf_2super_8c.html#ab2eee2fa60f5a477777b160305ebec19" title="udf_fill_super" alt="" coords="1255,31,1353,57"/>
+<area shape="rect" id="node10" href="$udf_2super_8c.html#a49e6e7a5bacd294b08d754096f27162f" title="udf_put_super" alt="" coords="390,107,494,133"/>
+<area shape="rect" id="node4" href="$udf_2super_8c.html#ae7fe2cc579fe961ff5880f8d18c7bfae" title="udf_check_anchor_block" alt="" coords="557,5,724,32"/>
+<area shape="rect" id="node5" href="$udf_2super_8c.html#a12c0742a4242d53947263e54864aa435" title="udf_scan_anchors" alt="" coords="772,5,900,32"/>
+<area shape="rect" id="node6" href="$udf_2super_8c.html#af3655884903e8ceaa314689e15146ba7" title="udf_find_anchor" alt="" coords="948,5,1063,32"/>
+<area shape="rect" id="node7" href="$udf_2super_8c.html#a774764a3f65e89cf2791f622bbb7a829" title="udf_load_vrs" alt="" coords="1111,5,1207,32"/>
+<area shape="rect" id="node9" href="$udf_2super_8c.html#a0ec35e26e2479c52d479cc4c24ab98cb" title="udf_mount" alt="" coords="1401,31,1484,57"/>
+</map>

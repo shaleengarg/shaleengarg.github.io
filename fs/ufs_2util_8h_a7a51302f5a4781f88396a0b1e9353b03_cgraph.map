@@ -1,0 +1,5 @@
+<map id="ufs_get_fs_qbmask" name="ufs_get_fs_qbmask">
+<area shape="rect" id="node2" href="$ufs_8h.html#abeb63dc517629bd2f7833215c463946e" title="UFS_SB" alt="" coords="199,5,273,32"/>
+<area shape="rect" id="node3" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="189,56,283,83"/>
+<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="331,56,413,83"/>
+</map>

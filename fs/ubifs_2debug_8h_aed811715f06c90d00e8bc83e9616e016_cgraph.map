@@ -1,0 +1,7 @@
+<map id="ubifs_dump_budg" name="ubifs_dump_budg">
+<area shape="rect" id="node2" href="$ubifs_2debug_8c.html#addcdbd9bce6753254851d6058f6de726" title="dbg_jhead" alt="" coords="210,5,291,32"/>
+<area shape="rect" id="node3" href="$budget_8c.html#adaa1427281786d8bfca793236b5f0457" title="ubifs_calc_available" alt="" coords="385,57,523,84"/>
+<area shape="rect" id="node4" href="$budget_8c.html#a6323235e83f399d119f1deb54fa2f144" title="ubifs_get_free_space\l_nolock" alt="" coords="177,107,324,149"/>
+<area shape="rect" id="node5" href="$budget_8c.html#a6109e1d36eaa593c345944d0d4b30745" title="ubifs_calc_min_idx_lebs" alt="" coords="372,112,536,139"/>
+<area shape="rect" id="node6" href="$budget_8c.html#a66e49aaeea4680a7b2c9973ba0dde86c" title="ubifs_reported_space" alt="" coords="381,163,527,189"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ubifs_convert_page_budget" name="ubifs_convert_page_budget">
+<area shape="rect" id="node2" href="$ubifs_2file_8c.html#a2e1595770dcbefe7a93c601d25af2ae8" title="write_begin_slow" alt="" coords="208,5,331,32"/>
+<area shape="rect" id="node4" href="$ubifs_2file_8c.html#a8cde7ab43a1673c674c5f86c06613262" title="ubifs_vm_page_mkwrite" alt="" coords="188,56,351,83"/>
+<area shape="rect" id="node3" href="$ubifs_2file_8c.html#a63bbd02975453f3f42af79e561948912" title="ubifs_write_begin" alt="" coords="399,5,521,32"/>
+</map>

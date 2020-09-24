@@ -1,0 +1,13 @@
+<map id="user_dlm_inode_from_user_lockres" name="user_dlm_inode_from_user_lockres">
+<area shape="rect" id="node2" href="$userdlm_8c.html#a771804caac0fbb89a3d8a3237b0c68d2" title="user_dlm_grab_inode_ref" alt="" coords="621,46,788,73"/>
+<area shape="rect" id="node11" href="$userdlm_8c.html#a75307eab7f05c66c5586a79d0295e0e4" title="user_dlm_drop_inode_ref" alt="" coords="200,97,367,123"/>
+<area shape="rect" id="node3" href="$userdlm_8c.html#a35ec47b414ab7c6096755c150a85ea40" title="__user_dlm_queue_lockres" alt="" coords="836,71,1016,98"/>
+<area shape="rect" id="node4" href="$userdlm_8c.html#a818700a82563f405b84936b7f63b0bfd" title="__user_dlm_cond_queue\l_lockres" alt="" coords="1064,5,1231,47"/>
+<area shape="rect" id="node9" href="$userdlm_8c.html#a07c4edc55be0487da0ad2a35ef09d7d4" title="user_bast" alt="" coords="1108,71,1187,98"/>
+<area shape="rect" id="node10" href="$userdlm_8c.html#a0f16261de3d4995d4ace2e8342926b6e" title="user_unlock_ast" alt="" coords="1089,122,1206,149"/>
+<area shape="rect" id="node5" href="$userdlm_8h.html#a8f55196a70f2f1e7cccda2a3a098d79b" title="user_dlm_cluster_unlock" alt="" coords="1279,13,1445,39"/>
+<area shape="rect" id="node6" href="$dlmfs_8c.html#ab3f1c819fe844fc7fb7e41f3caeefa4e" title="dlmfs_file_release" alt="" coords="1493,13,1620,39"/>
+<area shape="rect" id="node7" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="1668,13,1781,39"/>
+<area shape="rect" id="node8" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="1829,13,1927,39"/>
+<area shape="rect" id="node12" href="$userdlm_8c.html#a3d60457f825897d10fb48dceb3be0e0b" title="user_dlm_unblock_lock" alt="" coords="415,97,573,123"/>
+</map>

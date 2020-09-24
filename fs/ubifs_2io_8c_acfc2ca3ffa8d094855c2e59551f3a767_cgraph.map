@@ -1,0 +1,7 @@
+<map id="ubifs_prepare_node" name="ubifs_prepare_node">
+<area shape="rect" id="node2" href="$ubifs_2io_8c.html#a0b3f089c430db97bbc68e362dc7867c8" title="next_sqnum" alt="" coords="188,56,281,83"/>
+<area shape="rect" id="node6" href="$ubifs_2io_8c.html#aa52d954c97cdff3426851893fbbcf91f" title="ubifs_pad" alt="" coords="195,107,274,133"/>
+<area shape="rect" id="node3" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="347,5,419,32"/>
+<area shape="rect" id="node4" href="$ubifs_2io_8c.html#a0674f14e3d6ab28a6de41c44eeb85797" title="ubifs_ro_mode" alt="" coords="329,56,436,83"/>
+<area shape="rect" id="node5" href="$ubifs_2misc_8c.html#ac942d216b2a4c5475393c0506b23c862" title="ubifs_warn" alt="" coords="484,81,569,108"/>
+</map>

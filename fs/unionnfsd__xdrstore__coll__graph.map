@@ -1,0 +1,16 @@
+<map id="nfsd_xdrstore" name="nfsd_xdrstore">
+<area shape="rect" id="node2" href="$structnfsd__readdirargs.html" title="nfsd_readdirargs" alt="" coords="804,5,923,32"/>
+<area shape="rect" id="node3" href="$structsvc__fh.html" title="svc_fh" alt="" coords="672,208,733,235"/>
+<area shape="rect" id="node8" href="$structnfsd__readargs.html" title="nfsd_readargs" alt="" coords="811,56,915,83"/>
+<area shape="rect" id="node9" href="$structnfsd__diropargs.html" title="nfsd_diropargs" alt="" coords="810,107,917,133"/>
+<area shape="rect" id="node10" href="$structnfsd__createargs.html" title="nfsd_createargs" alt="" coords="806,157,921,184"/>
+<area shape="rect" id="node11" href="$structnfsd__linkargs.html" title="nfsd_linkargs" alt="" coords="814,208,913,235"/>
+<area shape="rect" id="node12" href="$structnfsd__renameargs.html" title="nfsd_renameargs" alt="" coords="802,259,925,285"/>
+<area shape="rect" id="node13" href="$structnfsd__writeargs.html" title="nfsd_writeargs" alt="" coords="810,309,917,336"/>
+<area shape="rect" id="node14" href="$structnfsd__symlinkargs.html" title="nfsd_symlinkargs" alt="" coords="801,360,925,387"/>
+<area shape="rect" id="node15" href="$structnfsd__sattrargs.html" title="nfsd_sattrargs" alt="" coords="811,411,916,437"/>
+<area shape="rect" id="node4" href="$structsvc__export.html" title="svc_export" alt="" coords="479,208,565,235"/>
+<area shape="rect" id="node5" href="$structexp__flavor__info.html" title="exp_flavor_info" alt="" coords="245,183,355,209"/>
+<area shape="rect" id="node6" href="$structnfsd4__fs__locations.html" title="nfsd4_fs_locations" alt="" coords="235,233,365,260"/>
+<area shape="rect" id="node7" href="$structnfsd4__fs__location.html" title="nfsd4_fs_location" alt="" coords="5,233,129,260"/>
+</map>

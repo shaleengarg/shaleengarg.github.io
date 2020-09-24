@@ -1,0 +1,4 @@
+<map id="cramfs_uncompress_exit" name="cramfs_uncompress_exit">
+<area shape="rect" id="node2" href="$cramfs_2inode_8c.html#a6adc1aba16357cf6f172f2a58f6dfe1c" title="init_cramfs_fs" alt="" coords="221,5,325,32"/>
+<area shape="rect" id="node3" href="$cramfs_2inode_8c.html#a44af458a3e686541e63e3eb28283dcd2" title="exit_cramfs_fs" alt="" coords="373,31,481,57"/>
+</map>

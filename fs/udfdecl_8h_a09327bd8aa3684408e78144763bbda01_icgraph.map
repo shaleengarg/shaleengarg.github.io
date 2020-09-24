@@ -1,0 +1,30 @@
+<map id="udf_ext0_offset" name="udf_ext0_offset">
+<area shape="rect" id="node2" href="$udf_2dir_8c.html#a6f3927577ef8a26f2b318297a37a9d82" title="udf_readdir" alt="" coords="201,81,288,108"/>
+<area shape="rect" id="node3" href="$udfdecl_8h.html#ab98bdf327c02430ce75398741bc10524" title="udf_expand_dir_adinicb" alt="" coords="165,265,324,292"/>
+<area shape="rect" id="node4" href="$udf_2namei_8c.html#a0ae09544845c739e7ac4184c7b163382" title="udf_add_entry" alt="" coords="372,132,476,159"/>
+<area shape="rect" id="node8" href="$udf_2namei_8c.html#ac5c247b068f8b78027ca5a2121069a48" title="udf_symlink" alt="" coords="747,132,839,159"/>
+<area shape="rect" id="node11" href="$udf_2namei_8c.html#ab19346a74adb4ca49c8fd3a6883cfd69" title="udf_rename" alt="" coords="555,436,646,463"/>
+<area shape="rect" id="node20" href="$udf_2namei_8c.html#a6196b15727e352f3c442456c950503b5" title="udf_find_entry" alt="" coords="372,424,476,451"/>
+<area shape="rect" id="node23" href="$udf_2namei_8c.html#a2cfad7a2b46c080b722cd0b289ab662c" title="empty_dir" alt="" coords="385,519,463,545"/>
+<area shape="rect" id="node12" href="$udfdecl_8h.html#a26073434f8a858dae1663f92a7f4e3a5" title="udf_iget" alt="" coords="390,284,458,311"/>
+<area shape="rect" id="node5" href="$udf_2namei_8c.html#ac1a4073c706c63bc4c7bcc7a5cef70ae" title="udf_add_nondir" alt="" coords="545,31,656,57"/>
+<area shape="rect" id="node9" href="$udf_2namei_8c.html#a1dfabe52742abef71c71105b60451a1c" title="udf_mkdir" alt="" coords="561,81,640,108"/>
+<area shape="rect" id="node10" href="$udf_2namei_8c.html#a67d026e9d5d4f4a6e0ddeed7e7245551" title="udf_link" alt="" coords="567,132,634,159"/>
+<area shape="rect" id="node6" href="$udf_2namei_8c.html#a352864ca85a5ae29d31b2db79d3bcf78" title="udf_create" alt="" coords="751,56,834,83"/>
+<area shape="rect" id="node7" href="$udf_2namei_8c.html#ab2eb383c2a756e2da00a531d5abd45e3" title="udf_mknod" alt="" coords="749,5,836,32"/>
+<area shape="rect" id="node13" href="$udf_2super_8c.html#ab2eee2fa60f5a477777b160305ebec19" title="udf_fill_super" alt="" coords="551,233,650,260"/>
+<area shape="rect" id="node15" href="$udf_2namei_8c.html#a52be3263022f322347db0d232df08068" title="udf_lookup" alt="" coords="558,335,643,361"/>
+<area shape="rect" id="node16" href="$udf_2namei_8c.html#a3fbe1b3d94722a255d0b48e68d37839e" title="udf_get_parent" alt="" coords="547,385,655,412"/>
+<area shape="rect" id="node17" href="$udf_2namei_8c.html#ac3b49e859e4ef879db5749bd24ad2ac1" title="udf_nfs_get_inode" alt="" coords="537,284,665,311"/>
+<area shape="rect" id="node14" href="$udf_2super_8c.html#a0ec35e26e2479c52d479cc4c24ab98cb" title="udf_mount" alt="" coords="751,233,834,260"/>
+<area shape="rect" id="node18" href="$udf_2namei_8c.html#a28b83c03d8f171180b82bfb608e7c4f1" title="udf_fh_to_dentry" alt="" coords="733,335,852,361"/>
+<area shape="rect" id="node19" href="$udf_2namei_8c.html#a7564a3ead1a03b76a6abdbf951b73bfe" title="udf_fh_to_parent" alt="" coords="733,284,852,311"/>
+<area shape="rect" id="node21" href="$udf_2namei_8c.html#a0ab283e6499c2642677a688f96627d72" title="udf_rmdir" alt="" coords="563,537,639,564"/>
+<area shape="rect" id="node22" href="$udf_2namei_8c.html#ad9372cf63ce4cf456960f635c5ac9ae6" title="udf_unlink" alt="" coords="560,487,641,513"/>
+<area shape="rect" id="node24" href="$reiserfs_2inode_8c.html#aa701c1d787b4f3fe3f78d024286a37d5" title="reiserfs_new_directory" alt="" coords="524,588,677,615"/>
+<area shape="rect" id="node25" href="$reiserfs_8h.html#ae4862da741fa47ccb6a99ae32ef5701f" title="reiserfs_new_inode" alt="" coords="725,588,860,615"/>
+<area shape="rect" id="node26" href="$reiserfs_2namei_8c.html#a00a5e63042c9b6b62314b77e52b1e4e0" title="reiserfs_create" alt="" coords="913,512,1021,539"/>
+<area shape="rect" id="node27" href="$reiserfs_2namei_8c.html#a6a7627b8e5f4735b87545255ff23ad27" title="reiserfs_mknod" alt="" coords="911,563,1022,589"/>
+<area shape="rect" id="node28" href="$reiserfs_2namei_8c.html#a429d1156e703362c5ff7f7c9d373cfa3" title="reiserfs_mkdir" alt="" coords="915,613,1019,640"/>
+<area shape="rect" id="node29" href="$reiserfs_2namei_8c.html#a9fb6078115f91c85b3217c1d28613760" title="reiserfs_symlink" alt="" coords="908,664,1025,691"/>
+</map>

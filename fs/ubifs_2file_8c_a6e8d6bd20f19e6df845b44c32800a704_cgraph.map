@@ -1,0 +1,10 @@
+<map id="cancel_budget" name="cancel_budget">
+<area shape="rect" id="node2" href="$budget_8c.html#a42a33c943c4f8862342d84cc1b152182" title="ubifs_release_dirty\l_inode_budget" alt="" coords="183,15,313,57"/>
+<area shape="rect" id="node8" href="$ubifs_2file_8c.html#a01989f957629450ab7009eb5df5129a9" title="release_new_page_budget" alt="" coords="160,81,336,108"/>
+<area shape="rect" id="node9" href="$ubifs_2file_8c.html#adcc5939bd48e791a796e320711c9fd84" title="release_existing_page\l_budget" alt="" coords="173,133,323,174"/>
+<area shape="rect" id="node3" href="$budget_8c.html#afb4a050131358f08985939fa532bc694" title="ubifs_release_budget" alt="" coords="384,81,529,108"/>
+<area shape="rect" id="node4" href="$budget_8c.html#ae7fb821f0bda60b202ba1bd7b8445634" title="calc_data_growth" alt="" coords="597,5,721,32"/>
+<area shape="rect" id="node5" href="$budget_8c.html#ad59159f2a92429bd81d6bcb530d7c5c5" title="calc_dd_growth" alt="" coords="603,56,716,83"/>
+<area shape="rect" id="node6" href="$budget_8c.html#ac3fe021e20fd3d248577fe5d2623ad96" title="calc_idx_growth" alt="" coords="601,107,717,133"/>
+<area shape="rect" id="node7" href="$budget_8c.html#a6109e1d36eaa593c345944d0d4b30745" title="ubifs_calc_min_idx_lebs" alt="" coords="577,157,741,184"/>
+</map>

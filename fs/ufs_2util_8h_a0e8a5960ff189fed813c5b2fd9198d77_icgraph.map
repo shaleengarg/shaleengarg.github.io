@@ -1,0 +1,12 @@
+<map id="ufs_set_de_type" name="ufs_set_de_type">
+<area shape="rect" id="node2" href="$ufs_8h.html#aae7a0185ed803c322060d47cf508c232" title="ufs_set_link" alt="" coords="187,12,279,39"/>
+<area shape="rect" id="node4" href="$ufs_8h.html#aa90f333ee487d50f2050833de0d286bd" title="ufs_add_link" alt="" coords="186,69,281,96"/>
+<area shape="rect" id="node11" href="$ufs_8h.html#a16d2f5f2c0b090b3bb34c5227ecea166" title="ufs_make_empty" alt="" coords="172,132,295,159"/>
+<area shape="rect" id="node3" href="$ufs_2namei_8c.html#a60a226ff98c51b5c208213c531c08c36" title="ufs_rename" alt="" coords="353,5,443,32"/>
+<area shape="rect" id="node5" href="$ufs_2namei_8c.html#a5ee0ea52f1792b0aa1e0ce8efabc974b" title="ufs_add_nondir" alt="" coords="343,56,453,83"/>
+<area shape="rect" id="node9" href="$ufs_2namei_8c.html#af3bb8fddc5852210c633ff2016d094e2" title="ufs_link" alt="" coords="365,107,431,133"/>
+<area shape="rect" id="node10" href="$ufs_2namei_8c.html#a1a250f0d23620331a70ef954508019ce" title="ufs_mkdir" alt="" coords="359,157,437,184"/>
+<area shape="rect" id="node6" href="$ufs_2namei_8c.html#ad684e97ab68bcc7d085cb079ce596408" title="ufs_create" alt="" coords="506,5,589,32"/>
+<area shape="rect" id="node7" href="$ufs_2namei_8c.html#a2261c9f2670a997fa9c124dfa37aafbb" title="ufs_mknod" alt="" coords="504,56,591,83"/>
+<area shape="rect" id="node8" href="$ufs_2namei_8c.html#a9ec19061f2989ef44a1356c8de654f07" title="ufs_symlink" alt="" coords="501,107,593,133"/>
+</map>

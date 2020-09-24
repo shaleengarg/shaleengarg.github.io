@@ -1,0 +1,7 @@
+<map id="ufs2_init_inodes_chunk" name="ufs2_init_inodes_chunk">
+<area shape="rect" id="node2" href="$ufs_8h.html#aace798f4fe5840f10a10710454273247" title="ufs_new_inode" alt="" coords="212,81,321,108"/>
+<area shape="rect" id="node3" href="$ufs_2namei_8c.html#ad684e97ab68bcc7d085cb079ce596408" title="ufs_create" alt="" coords="374,5,457,32"/>
+<area shape="rect" id="node4" href="$ufs_2namei_8c.html#a2261c9f2670a997fa9c124dfa37aafbb" title="ufs_mknod" alt="" coords="372,56,459,83"/>
+<area shape="rect" id="node5" href="$ufs_2namei_8c.html#a9ec19061f2989ef44a1356c8de654f07" title="ufs_symlink" alt="" coords="369,107,461,133"/>
+<area shape="rect" id="node6" href="$ufs_2namei_8c.html#a1a250f0d23620331a70ef954508019ce" title="ufs_mkdir" alt="" coords="376,157,455,184"/>
+</map>

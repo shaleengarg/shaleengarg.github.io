@@ -1,0 +1,7 @@
+<map id="xfs_btree_rec" name="xfs_btree_rec">
+<area shape="rect" id="node2" href="$structxfs__bmbt__rec.html" title="xfs_bmbt_rec" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node3" href="$structxfs__inobt__rec.html" title="xfs_inobt_rec" alt="" coords="131,5,231,32"/>
+<area shape="rect" id="node4" href="$structxfs__rmap__rec.html" title="xfs_rmap_rec" alt="" coords="256,5,357,32"/>
+<area shape="rect" id="node5" href="$structxfs__alloc__rec.html" title="xfs_alloc_rec" alt="" coords="381,5,480,32"/>
+<area shape="rect" id="node6" href="$structxfs__refcount__rec.html" title="xfs_refcount_rec" alt="" coords="505,5,623,32"/>
+</map>

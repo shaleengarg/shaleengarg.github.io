@@ -1,0 +1,6 @@
+<map id="ubifs_check_dir_empty" name="ubifs_check_dir_empty">
+<area shape="rect" id="node2" href="$ubifs_2dir_8c.html#af7ee7825efe7887ff626f7018547333f" title="ubifs_rmdir" alt="" coords="241,5,328,32"/>
+<area shape="rect" id="node3" href="$ubifs_2dir_8c.html#ab7cff33bbe95d2729ca524f0c565907b" title="do_rename" alt="" coords="241,56,328,83"/>
+<area shape="rect" id="node5" href="$ubifs_2crypto_8c.html#a778b4fa0cf20a1cb15208258d2587787" title="ubifs_crypt_empty_dir" alt="" coords="209,107,360,133"/>
+<area shape="rect" id="node4" href="$ubifs_2dir_8c.html#a694f37c0038586c58b4a2cfeab67d496" title="ubifs_rename" alt="" coords="408,56,508,83"/>
+</map>

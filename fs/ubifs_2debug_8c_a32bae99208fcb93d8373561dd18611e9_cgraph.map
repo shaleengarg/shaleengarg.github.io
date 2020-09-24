@@ -1,0 +1,7 @@
+<map id="dfs_file_read" name="dfs_file_read">
+<area shape="rect" id="node2" href="$ubifs_2debug_8c.html#af9fa994eb523c8262d701f55d69834c9" title="provide_user_output" alt="" coords="149,31,288,57"/>
+<area shape="rect" id="node3" href="$libfs_8c.html#a98cd05699e081ee1dc9f78316e3e184b" title="simple_read_from_buffer" alt="" coords="336,31,501,57"/>
+<area shape="rect" id="node4" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="591,5,646,32"/>
+<area shape="rect" id="node6" href="$libfs_8c.html#a91c91ea39de851f32fce31e8967ceda2" title="EXPORT_SYMBOL" alt="" coords="549,56,688,83"/>
+<area shape="rect" id="node5" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="736,5,855,32"/>
+</map>

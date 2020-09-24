@@ -1,0 +1,5 @@
+<map id="coda_upcall" name="coda_upcall">
+<area shape="rect" id="node2" href="$upcall_8c.html#a061b2aa3b8cfa2256c2f5e1211e5abdc" title="coda_waitfor_upcall" alt="" coords="144,31,281,57"/>
+<area shape="rect" id="node3" href="$upcall_8c.html#a9699b95512723ea903b752015912ce31" title="coda_block_signals" alt="" coords="337,5,473,32"/>
+<area shape="rect" id="node4" href="$upcall_8c.html#aec1f235e526b282dc5cf5368ac84bafd" title="coda_unblock_signals" alt="" coords="329,56,480,83"/>
+</map>

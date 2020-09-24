@@ -1,0 +1,9 @@
+<map id="handle_userfault" name="handle_userfault">
+<area shape="rect" id="node2" href="$userfaultfd_8c.html#afa451645f44611361e184ba60df030a6" title="userfaultfd_ctx_get" alt="" coords="191,5,325,32"/>
+<area shape="rect" id="node3" href="$userfaultfd_8c.html#a6f8f5824633a2112f25db6356315d9ed" title="userfaultfd_wake_function" alt="" coords="171,56,345,83"/>
+<area shape="rect" id="node4" href="$userfaultfd_8c.html#a587b92aff34f5fa1a916d2d886d4e66c" title="userfault_msg" alt="" coords="206,107,310,133"/>
+<area shape="rect" id="node6" href="$userfaultfd_8c.html#a3de5f5fc4ec488f148b58c7b0c585dd2" title="userfaultfd_huge_must_wait" alt="" coords="393,157,579,184"/>
+<area shape="rect" id="node7" href="$userfaultfd_8c.html#a4ffad07daa2043264654b5d15c82a4a6" title="userfaultfd_must_wait" alt="" coords="183,208,333,235"/>
+<area shape="rect" id="node8" href="$userfaultfd_8c.html#a30f13752d891f5fe8104138678d94609" title="userfaultfd_ctx_put" alt="" coords="191,259,325,285"/>
+<area shape="rect" id="node5" href="$userfaultfd_8c.html#a6b1e52a5671bafb8d6dbcef1daaafb55" title="msg_init" alt="" coords="451,107,521,133"/>
+</map>

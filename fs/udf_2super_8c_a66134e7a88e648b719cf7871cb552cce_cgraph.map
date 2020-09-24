@@ -1,0 +1,14 @@
+<map id="udf_load_pvoldesc" name="udf_load_pvoldesc">
+<area shape="rect" id="node2" href="$udf_2misc_8c.html#a2c34bff907409ef6fcb332b7cf828579" title="udf_read_tagged" alt="" coords="207,56,325,83"/>
+<area shape="rect" id="node5" href="$udf__sb_8h.html#a79a02eb98d3378750c6f5bb9b0ed3c05" title="UDF_SB" alt="" coords="784,69,859,96"/>
+<area shape="rect" id="node9" href="$udfdecl_8h.html#ab4308b1cf6d051944fef8c7120009488" title="udf_disk_stamp_to_time" alt="" coords="184,157,348,184"/>
+<area shape="rect" id="node10" href="$udfdecl_8h.html#ae7cf763fece6c300b7d72c9e2ada10d7" title="udf_dstrCS0toUTF8" alt="" coords="197,208,335,235"/>
+<area shape="rect" id="node3" href="$udf_2misc_8c.html#a11217145a7a06e303734db6686591112" title="udf_tread" alt="" coords="431,5,507,32"/>
+<area shape="rect" id="node8" href="$udf_2misc_8c.html#a93babb00ce40b8367451e0159f0763cb" title="udf_tag_checksum" alt="" coords="403,56,535,83"/>
+<area shape="rect" id="node4" href="$udf__sb_8h.html#a6cff66bfb616d72f652b52b638623711" title="UDF_QUERY_FLAG" alt="" coords="589,31,736,57"/>
+<area shape="rect" id="node6" href="$udf__sb_8h.html#a3351cf2162ac6c54a90809129c0b8334" title="udf_sb_lvidiu" alt="" coords="938,44,1037,71"/>
+<area shape="rect" id="node7" href="$udf__sb_8h.html#a937deb9daed0738f20de2e039829e1ed" title="udf_compute_nr_groups" alt="" coords="907,95,1068,121"/>
+<area shape="rect" id="node11" href="$udf_2unicode_8c.html#aea37ffcafb409cfec59bf393addd0539" title="udf_name_from_CS0" alt="" coords="396,183,541,209"/>
+<area shape="rect" id="node13" href="$udf_2unicode_8c.html#a6c5d2c47ed45b76a406a592599b667d1" title="udf_uni2char_utf8" alt="" coords="406,233,531,260"/>
+<area shape="rect" id="node12" href="$udf_2unicode_8c.html#a06453979e0c3f24f531d204fdab9a4ff" title="udf_name_conv_char" alt="" coords="589,183,736,209"/>
+</map>

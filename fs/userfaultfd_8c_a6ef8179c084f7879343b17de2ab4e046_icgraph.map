@@ -1,0 +1,7 @@
+<map id="wake_userfault" name="wake_userfault">
+<area shape="rect" id="node2" href="$userfaultfd_8c.html#ab5e1e36b6844c769ad2257b38fa36ef5" title="userfaultfd_unregister" alt="" coords="164,5,311,32"/>
+<area shape="rect" id="node4" href="$userfaultfd_8c.html#a8261016c2a88edffb8220f7079992c3e" title="userfaultfd_wake" alt="" coords="177,56,298,83"/>
+<area shape="rect" id="node5" href="$userfaultfd_8c.html#a9e7e4359b91f74ceed879d829c0ba272" title="userfaultfd_copy" alt="" coords="178,107,297,133"/>
+<area shape="rect" id="node6" href="$userfaultfd_8c.html#a0e89e32d03ded6ea900c341ab75df54c" title="userfaultfd_zeropage" alt="" coords="166,157,309,184"/>
+<area shape="rect" id="node3" href="$userfaultfd_8c.html#a5f6bd2d87ee717b7f3853b334775cfa6" title="userfaultfd_ioctl" alt="" coords="359,81,473,108"/>
+</map>

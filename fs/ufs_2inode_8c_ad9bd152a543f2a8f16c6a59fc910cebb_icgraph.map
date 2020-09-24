@@ -1,0 +1,10 @@
+<map id="ufs1_read_inode" name="ufs1_read_inode">
+<area shape="rect" id="node2" href="$ufs_8h.html#aa6294912882e2576d03bcf91206e6aeb" title="ufs_iget" alt="" coords="171,107,239,133"/>
+<area shape="rect" id="node3" href="$ufs_2super_8c.html#a21f786c604f779df3e89a926ea40f26a" title="ufs_nfs_get_inode" alt="" coords="287,31,415,57"/>
+<area shape="rect" id="node6" href="$ufs_2super_8c.html#a765ba66e9ec0d42aa4878265ba75ffeb" title="ufs_get_parent" alt="" coords="297,81,405,108"/>
+<area shape="rect" id="node7" href="$ufs_2super_8c.html#a3f4b63ff3ff42b972395a4f5a9efa3a5" title="ufs_fill_super" alt="" coords="301,132,400,159"/>
+<area shape="rect" id="node9" href="$ufs_2namei_8c.html#aa478838ef2c89b748bc2d633435e59f0" title="ufs_lookup" alt="" coords="308,183,393,209"/>
+<area shape="rect" id="node4" href="$ufs_2super_8c.html#a3dbd08a097b1a3c7e52d5ce6a3e2af43" title="ufs_fh_to_dentry" alt="" coords="463,5,581,32"/>
+<area shape="rect" id="node5" href="$ufs_2super_8c.html#a6cb838db17505b7bbf8d5319e838cba1" title="ufs_fh_to_parent" alt="" coords="463,56,581,83"/>
+<area shape="rect" id="node8" href="$ufs_2super_8c.html#a73e91865459b9c98431c3c2dfe98048f" title="ufs_mount" alt="" coords="481,132,563,159"/>
+</map>

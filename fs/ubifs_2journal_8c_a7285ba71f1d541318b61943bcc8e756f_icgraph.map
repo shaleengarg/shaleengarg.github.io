@@ -1,0 +1,7 @@
+<map id="write_node" name="write_node">
+<area shape="rect" id="node2" href="$ubifs_8h.html#a9ed51b8a566d5776a783b6f955c32cf5" title="ubifs_jnl_write_data" alt="" coords="139,31,276,57"/>
+<area shape="rect" id="node3" href="$ubifs_2file_8c.html#a7963591329617b7ba84af562f9193522" title="do_writepage" alt="" coords="324,31,423,57"/>
+<area shape="rect" id="node4" href="$ubifs_2file_8c.html#a2ad22c013a0dccfd9f49e114ed89dfa6" title="ubifs_writepage" alt="" coords="471,5,584,32"/>
+<area shape="rect" id="node5" href="$ubifs_2file_8c.html#a6a28fab460199df7505989ced9674cdc" title="do_truncation" alt="" coords="477,56,577,83"/>
+<area shape="rect" id="node6" href="$ubifs_8h.html#aaebf1c80e366c0f2702f58b91d7a9d38" title="ubifs_setattr" alt="" coords="632,56,727,83"/>
+</map>

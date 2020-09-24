@@ -1,0 +1,12 @@
+<map id="dbg_check_space_info" name="dbg_check_space_info">
+<area shape="rect" id="node2" href="$budget_8c.html#a6323235e83f399d119f1deb54fa2f144" title="ubifs_get_free_space\l_nolock" alt="" coords="384,92,531,133"/>
+<area shape="rect" id="node6" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="236,31,308,58"/>
+<area shape="rect" id="node7" href="$ubifs_2misc_8c.html#a49c185988382ac9b2f28935dd44a0441" title="ubifs_msg" alt="" coords="231,82,313,109"/>
+<area shape="rect" id="node8" href="$ubifs_2debug_8c.html#ab351e7abb59edb97d57bd44dd83b0484" title="ubifs_dump_lstats" alt="" coords="208,133,336,159"/>
+<area shape="rect" id="node9" href="$ubifs_2debug_8c.html#aed811715f06c90d00e8bc83e9616e016" title="ubifs_dump_budg" alt="" coords="210,183,334,210"/>
+<area shape="rect" id="node11" href="$lprops_8c.html#a8a4a969b18d269964ff80d11eb94b8ab" title="ubifs_get_lp_stats" alt="" coords="208,234,336,261"/>
+<area shape="rect" id="node3" href="$budget_8c.html#a6109e1d36eaa593c345944d0d4b30745" title="ubifs_calc_min_idx_lebs" alt="" coords="579,51,743,78"/>
+<area shape="rect" id="node4" href="$budget_8c.html#adaa1427281786d8bfca793236b5f0457" title="ubifs_calc_available" alt="" coords="591,154,730,181"/>
+<area shape="rect" id="node5" href="$budget_8c.html#a66e49aaeea4680a7b2c9973ba0dde86c" title="ubifs_reported_space" alt="" coords="587,102,734,129"/>
+<area shape="rect" id="node10" href="$ubifs_2debug_8c.html#addcdbd9bce6753254851d6058f6de726" title="dbg_jhead" alt="" coords="417,209,498,235"/>
+</map>

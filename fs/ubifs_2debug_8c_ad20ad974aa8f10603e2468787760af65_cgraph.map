@@ -1,0 +1,5 @@
+<map id="dbg_check_synced_i_size" name="dbg_check_synced_i_size">
+<area shape="rect" id="node2" href="$misc_8h.html#a1d3fdeae8e4ff85d7b3581a96bb4ef49" title="ubifs_inode" alt="" coords="242,5,330,32"/>
+<area shape="rect" id="node3" href="$ubifs_2debug_8h.html#ad9c4d68015fb8802b1553a53880d43cc" title="dbg_is_chk_gen" alt="" coords="228,56,344,83"/>
+<area shape="rect" id="node4" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="250,107,322,133"/>
+</map>

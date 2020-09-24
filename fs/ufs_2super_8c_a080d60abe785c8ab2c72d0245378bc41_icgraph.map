@@ -1,0 +1,6 @@
+<map id="ufs_i_callback" name="ufs_i_callback">
+<area shape="rect" id="node2" href="$ufs_2super_8c.html#a6779b0a438cec72b1e73ebc39927bfd5" title="ufs_destroy_inode" alt="" coords="159,31,287,57"/>
+<area shape="rect" id="node3" href="$ufs_2super_8c.html#ac4d25609cd85ba4cc80e0aa74c6d0ffd" title="destroy_inodecache" alt="" coords="335,31,473,57"/>
+<area shape="rect" id="node4" href="$ufs_2super_8c.html#ae44b3672a356a0edd270c6fcd066825b" title="init_ufs_fs" alt="" coords="521,5,604,32"/>
+<area shape="rect" id="node5" href="$ufs_2super_8c.html#ab9cd8947ea8a34a3334a89b2064be931" title="exit_ufs_fs" alt="" coords="652,31,739,57"/>
+</map>

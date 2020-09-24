@@ -1,0 +1,7 @@
+<map id="power_cut_emulated" name="power_cut_emulated">
+<area shape="rect" id="node2" href="$ubifs_2debug_8h.html#ac281738ca65301217af22a7a7b37c25b" title="dbg_is_tst_rcvry" alt="" coords="199,5,317,32"/>
+<area shape="rect" id="node3" href="$ubifs_2debug_8c.html#a4ec84f8c2cb9207ea580179e6d948c8f" title="chance" alt="" coords="226,56,290,83"/>
+<area shape="rect" id="node4" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="231,107,285,133"/>
+<area shape="rect" id="node5" href="$ubifs_2misc_8c.html#ac942d216b2a4c5475393c0506b23c862" title="ubifs_warn" alt="" coords="215,157,301,184"/>
+<area shape="rect" id="node6" href="$ubifs_2log_8c.html#a356501925fe3150a487dcc7ba555520e" title="ubifs_search_bud" alt="" coords="196,208,320,235"/>
+</map>

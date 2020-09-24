@@ -1,0 +1,13 @@
+<map id="squashfs_inode" name="squashfs_inode">
+<area shape="rect" id="node2" href="$structsquashfs__symlink__inode.html" title="squashfs_symlink_inode" alt="" coords="224,5,389,32"/>
+<area shape="rect" id="node3" href="$structsquashfs__dev__inode.html" title="squashfs_dev_inode" alt="" coords="236,56,377,83"/>
+<area shape="rect" id="node4" href="$structsquashfs__ldir__inode.html" title="squashfs_ldir_inode" alt="" coords="238,107,375,133"/>
+<area shape="rect" id="node5" href="$structsquashfs__dir__index.html" title="squashfs_dir_index" alt="" coords="5,107,140,133"/>
+<area shape="rect" id="node6" href="$structsquashfs__base__inode.html" title="squashfs_base_inode" alt="" coords="233,157,381,184"/>
+<area shape="rect" id="node7" href="$structsquashfs__lipc__inode.html" title="squashfs_lipc_inode" alt="" coords="237,208,377,235"/>
+<area shape="rect" id="node8" href="$structsquashfs__dir__inode.html" title="squashfs_dir_inode" alt="" coords="239,259,374,285"/>
+<area shape="rect" id="node9" href="$structsquashfs__ldev__inode.html" title="squashfs_ldev_inode" alt="" coords="235,309,379,336"/>
+<area shape="rect" id="node10" href="$structsquashfs__lreg__inode.html" title="squashfs_lreg_inode" alt="" coords="236,360,377,387"/>
+<area shape="rect" id="node11" href="$structsquashfs__reg__inode.html" title="squashfs_reg_inode" alt="" coords="237,411,376,437"/>
+<area shape="rect" id="node12" href="$structsquashfs__ipc__inode.html" title="squashfs_ipc_inode" alt="" coords="238,461,375,488"/>
+</map>

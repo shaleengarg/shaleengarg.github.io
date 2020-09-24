@@ -1,0 +1,5 @@
+<map id="ubifs_jnl_delete_xattr" name="ubifs_jnl_delete_xattr">
+<area shape="rect" id="node2" href="$ubifs_2xattr_8c.html#add93f337e6b626799603a792fabb984f" title="remove_xattr" alt="" coords="199,5,297,32"/>
+<area shape="rect" id="node3" href="$ubifs_2xattr_8c.html#ab1059c832c48181a6da6627bc5e9a1a7" title="ubifs_xattr_remove" alt="" coords="345,5,479,32"/>
+<area shape="rect" id="node4" href="$ubifs_2xattr_8c.html#a77418f005715889cfa65e2645c52415e" title="xattr_set" alt="" coords="527,5,600,32"/>
+</map>

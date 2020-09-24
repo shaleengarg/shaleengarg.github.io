@@ -1,0 +1,8 @@
+<map id="hfs_finder_info" name="hfs_finder_info">
+<area shape="rect" id="node2" href="$structhfs__fxinfo.html" title="hfs_fxinfo" alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node3" href="$structhfs__dxinfo.html" title="hfs_dxinfo" alt="" coords="303,95,386,121"/>
+<area shape="rect" id="node4" href="$structhfs__point.html" title="hfs_point" alt="" coords="207,5,282,32"/>
+<area shape="rect" id="node5" href="$structhfs__dinfo.html" title="hfs_dinfo" alt="" coords="109,95,183,121"/>
+<area shape="rect" id="node7" href="$structhfs__finfo.html" title="hfs_finfo" alt="" coords="207,95,279,121"/>
+<area shape="rect" id="node6" href="$structhfs__rect.html" title="hfs_rect" alt="" coords="46,5,115,32"/>
+</map>

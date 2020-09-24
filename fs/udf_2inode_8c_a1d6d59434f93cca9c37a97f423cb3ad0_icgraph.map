@@ -1,0 +1,32 @@
+<map id="udf_clear_extent_cache" name="udf_clear_extent_cache">
+<area shape="rect" id="node2" href="$udfdecl_8h.html#a13db21ecdf5149a34358c9aac392d565" title="udf_evict_inode" alt="" coords="536,297,649,324"/>
+<area shape="rect" id="node11" href="$udf_2inode_8c.html#a0109646d51b533714b43fb53206867b9" title="udf_write_failed" alt="" coords="213,95,327,121"/>
+<area shape="rect" id="node14" href="$udf_2inode_8c.html#aebf071a4cdfa9e846bdb238700bc09a7" title="udf_get_block" alt="" coords="219,221,321,248"/>
+<area shape="rect" id="node30" href="$udfdecl_8h.html#a611b233a36af899e783595c03754bc57" title="udf_setsize" alt="" coords="387,399,476,425"/>
+<area shape="rect" id="node3" href="$udfdecl_8h.html#a26073434f8a858dae1663f92a7f4e3a5" title="udf_iget" alt="" coords="715,297,783,324"/>
+<area shape="rect" id="node4" href="$udf_2super_8c.html#ab2eee2fa60f5a477777b160305ebec19" title="udf_fill_super" alt="" coords="864,196,963,223"/>
+<area shape="rect" id="node6" href="$udf_2namei_8c.html#a52be3263022f322347db0d232df08068" title="udf_lookup" alt="" coords="871,247,956,273"/>
+<area shape="rect" id="node7" href="$udf_2namei_8c.html#a3fbe1b3d94722a255d0b48e68d37839e" title="udf_get_parent" alt="" coords="859,297,967,324"/>
+<area shape="rect" id="node8" href="$udf_2namei_8c.html#ac3b49e859e4ef879db5749bd24ad2ac1" title="udf_nfs_get_inode" alt="" coords="849,348,977,375"/>
+<area shape="rect" id="node5" href="$udf_2super_8c.html#a0ec35e26e2479c52d479cc4c24ab98cb" title="udf_mount" alt="" coords="1043,196,1126,223"/>
+<area shape="rect" id="node9" href="$udf_2namei_8c.html#a28b83c03d8f171180b82bfb608e7c4f1" title="udf_fh_to_dentry" alt="" coords="1025,297,1144,324"/>
+<area shape="rect" id="node10" href="$udf_2namei_8c.html#a7564a3ead1a03b76a6abdbf951b73bfe" title="udf_fh_to_parent" alt="" coords="1025,348,1144,375"/>
+<area shape="rect" id="node12" href="$udf_2inode_8c.html#a41c17208697106519a13e3e976826158" title="udf_write_begin" alt="" coords="375,44,488,71"/>
+<area shape="rect" id="node13" href="$udf_2inode_8c.html#a739d1c9e054b690f384aff8c2d6dd4f7" title="udf_direct_IO" alt="" coords="381,95,481,121"/>
+<area shape="rect" id="node15" href="$udf_2inode_8c.html#ab0c718f46c5435dfff00603f8f81a2df" title="udf_writepage" alt="" coords="380,348,483,375"/>
+<area shape="rect" id="node16" href="$udf_2inode_8c.html#adf8ce8ac080e9d72909a4c22eea508f8" title="udf_writepages" alt="" coords="376,145,487,172"/>
+<area shape="rect" id="node17" href="$udf_2inode_8c.html#ab8af64ca503452f067acb1955a765f76" title="udf_readpage" alt="" coords="381,196,481,223"/>
+<area shape="rect" id="node18" href="$udf_2inode_8c.html#a358744f5788f242935624afaa0d29005" title="udf_readpages" alt="" coords="378,247,485,273"/>
+<area shape="rect" id="node19" href="$udf_2inode_8c.html#a96405aefe5cc22f3234428664c04ae9f" title="udf_bmap" alt="" coords="392,297,471,324"/>
+<area shape="rect" id="node20" href="$udf_2inode_8c.html#aa8cbfc1d13b592df7dc505e0bc69279f" title="udf_getblk" alt="" coords="390,449,473,476"/>
+<area shape="rect" id="node21" href="$udfdecl_8h.html#a3fa732b88dcbcfdad477ad8b6a7b941e" title="udf_bread" alt="" coords="553,449,632,476"/>
+<area shape="rect" id="node22" href="$udf_2namei_8c.html#a0ae09544845c739e7ac4184c7b163382" title="udf_add_entry" alt="" coords="697,449,801,476"/>
+<area shape="rect" id="node29" href="$udf_2namei_8c.html#ab19346a74adb4ca49c8fd3a6883cfd69" title="udf_rename" alt="" coords="868,551,959,577"/>
+<area shape="rect" id="node23" href="$udf_2namei_8c.html#ac1a4073c706c63bc4c7bcc7a5cef70ae" title="udf_add_nondir" alt="" coords="858,399,969,425"/>
+<area shape="rect" id="node27" href="$udf_2namei_8c.html#a1dfabe52742abef71c71105b60451a1c" title="udf_mkdir" alt="" coords="874,449,953,476"/>
+<area shape="rect" id="node28" href="$udf_2namei_8c.html#a67d026e9d5d4f4a6e0ddeed7e7245551" title="udf_link" alt="" coords="880,500,947,527"/>
+<area shape="rect" id="node24" href="$udf_2namei_8c.html#a352864ca85a5ae29d31b2db79d3bcf78" title="udf_create" alt="" coords="1043,399,1126,425"/>
+<area shape="rect" id="node25" href="$udf_2namei_8c.html#ab2eb383c2a756e2da00a531d5abd45e3" title="udf_mknod" alt="" coords="1041,449,1128,476"/>
+<area shape="rect" id="node26" href="$udf_2namei_8c.html#ac5c247b068f8b78027ca5a2121069a48" title="udf_symlink" alt="" coords="1039,500,1131,527"/>
+<area shape="rect" id="node31" href="$udf_2file_8c.html#a764d25d0ea5fe2bb49e15b4ef35ba060" title="udf_setattr" alt="" coords="551,399,635,425"/>
+</map>

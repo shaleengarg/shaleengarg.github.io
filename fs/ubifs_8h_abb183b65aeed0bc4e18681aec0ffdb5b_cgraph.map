@@ -1,0 +1,6 @@
+<map id="ubifs_save_dirty_idx_lnums" name="ubifs_save_dirty_idx_lnums">
+<area shape="rect" id="node2" href="$misc_8h.html#aa89c2768eb94f129c6afbe47420b44ba" title="ubifs_get_lprops" alt="" coords="207,5,324,32"/>
+<area shape="rect" id="node3" href="$find_8c.html#a3e29c87a698697582a0330af8bf8ebef" title="cmp_dirty_idx" alt="" coords="214,56,317,83"/>
+<area shape="rect" id="node4" href="$find_8c.html#aa2d7c3b5243a5c0090c3f9283939eeaf" title="swap_dirty_idx" alt="" coords="211,107,320,133"/>
+<area shape="rect" id="node5" href="$misc_8h.html#a6dce2c34ec97d74cf4be59e0201bdb3e" title="ubifs_release_lprops" alt="" coords="195,157,336,184"/>
+</map>

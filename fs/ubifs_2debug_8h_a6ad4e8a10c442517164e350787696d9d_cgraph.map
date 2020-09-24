@@ -1,0 +1,11 @@
+<map id="ubifs_dump_tnc" name="ubifs_dump_tnc">
+<area shape="rect" id="node2" href="$tnc__misc_8c.html#af7dbe47a30b69444c419cc86334aae56" title="ubifs_tnc_levelorder_next" alt="" coords="168,56,339,83"/>
+<area shape="rect" id="node4" href="$ubifs_2debug_8c.html#a56365d730ac6932bf3163a8ba7279779" title="ubifs_dump_znode" alt="" coords="188,107,319,133"/>
+<area shape="rect" id="node3" href="$misc_8h.html#a28eee58cbe217f89376908e1cf560061" title="ubifs_tnc_find_child" alt="" coords="387,56,524,83"/>
+<area shape="rect" id="node5" href="$ubifs_2debug_8c.html#a33e36c49b5c19585e6cdb24955d1e937" title="dbg_snprintf_key" alt="" coords="395,107,516,133"/>
+<area shape="rect" id="node6" href="$key_8h.html#a06f47822510ef850cb7065778115453c" title="key_type" alt="" coords="585,5,659,32"/>
+<area shape="rect" id="node7" href="$key_8h.html#a4a12b97ed78e138baf7886a6df7ed50f" title="key_inum" alt="" coords="583,56,661,83"/>
+<area shape="rect" id="node8" href="$ubifs_2debug_8c.html#ad6af0af711fdb082f6df4eaeb4d82fe6" title="get_key_type" alt="" coords="572,107,672,133"/>
+<area shape="rect" id="node9" href="$key_8h.html#acddf1ca88d72a37e06c5c608cd084656" title="key_hash" alt="" coords="583,157,661,184"/>
+<area shape="rect" id="node10" href="$key_8h.html#a10c13375b52dbb12be6f9b685d1d1ba7" title="key_block" alt="" coords="581,208,663,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="userfaultfd_ctx_get" name="userfaultfd_ctx_get">
+<area shape="rect" id="node2" href="$userfaultfd_8c.html#adf30a87f7ddce1e30fdf15bd4e863028" title="handle_userfault" alt="" coords="213,5,330,32"/>
+<area shape="rect" id="node3" href="$userfaultfd_8c.html#a8e675809db9562b5cea0c7f7ce2b58d3" title="dup_userfaultfd" alt="" coords="216,56,327,83"/>
+<area shape="rect" id="node4" href="$userfaultfd_8c.html#ac02947748fdb463df7f4fac800afb34e" title="mremap_userfaultfd_prep" alt="" coords="187,107,356,133"/>
+<area shape="rect" id="node5" href="$userfaultfd_8c.html#aebf822918908b684624a466f9bbe17c3" title="userfaultfd_remove" alt="" coords="205,157,338,184"/>
+<area shape="rect" id="node6" href="$userfaultfd_8c.html#afa1e51390c45c89f0e73b02434ae6172" title="userfaultfd_unmap_prep" alt="" coords="191,208,352,235"/>
+<area shape="rect" id="node7" href="$userfaultfd_8c.html#a93163998cdc0d2e85518391fc7fd56a9" title="userfaultfd_ctx_read" alt="" coords="201,259,341,285"/>
+<area shape="rect" id="node8" href="$userfaultfd_8c.html#a9aea150380b8eaa3186058be040a370a" title="userfaultfd_read" alt="" coords="404,259,519,285"/>
+<area shape="rect" id="node9" href="$userfaultfd_8c.html#a5f6bd2d87ee717b7f3853b334775cfa6" title="userfaultfd_ioctl" alt="" coords="567,259,681,285"/>
+</map>

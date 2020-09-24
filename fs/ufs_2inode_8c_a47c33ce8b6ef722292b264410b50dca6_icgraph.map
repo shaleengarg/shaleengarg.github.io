@@ -1,0 +1,5 @@
+<map id="ufs_write_inode" name="ufs_write_inode">
+<area shape="rect" id="node2" href="$ufs_2super_8c.html#ac4d25609cd85ba4cc80e0aa74c6d0ffd" title="destroy_inodecache" alt="" coords="167,31,305,57"/>
+<area shape="rect" id="node3" href="$ufs_2super_8c.html#ae44b3672a356a0edd270c6fcd066825b" title="init_ufs_fs" alt="" coords="353,5,436,32"/>
+<area shape="rect" id="node4" href="$ufs_2super_8c.html#ab9cd8947ea8a34a3334a89b2064be931" title="exit_ufs_fs" alt="" coords="484,31,571,57"/>
+</map>

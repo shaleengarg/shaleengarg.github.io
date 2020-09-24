@@ -1,0 +1,6 @@
+<map id="ufs_match" name="ufs_match">
+<area shape="rect" id="node2" href="$ufs_2util_8h.html#ae681a84a06a5a39de8c7f76277108e88" title="ufs_get_de_namlen" alt="" coords="136,31,271,57"/>
+<area shape="rect" id="node3" href="$ufs_8h.html#abeb63dc517629bd2f7833215c463946e" title="UFS_SB" alt="" coords="328,5,403,32"/>
+<area shape="rect" id="node4" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="319,56,412,83"/>
+<area shape="rect" id="node5" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="460,56,543,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="udf_load_logicalvolint" name="udf_load_logicalvolint">
+<area shape="rect" id="node2" href="$udf__sb_8h.html#a79a02eb98d3378750c6f5bb9b0ed3c05" title="UDF_SB" alt="" coords="741,31,816,57"/>
+<area shape="rect" id="node5" href="$udf_2misc_8c.html#a2c34bff907409ef6fcb332b7cf828579" title="udf_read_tagged" alt="" coords="200,56,319,83"/>
+<area shape="rect" id="node9" href="$udfend_8h.html#a55b10eea2d7398dc4a5f75b6ab462b18" title="leea_to_cpu" alt="" coords="213,107,305,133"/>
+<area shape="rect" id="node3" href="$udf__sb_8h.html#a3351cf2162ac6c54a90809129c0b8334" title="udf_sb_lvidiu" alt="" coords="895,5,994,32"/>
+<area shape="rect" id="node4" href="$udf__sb_8h.html#a937deb9daed0738f20de2e039829e1ed" title="udf_compute_nr_groups" alt="" coords="864,56,1025,83"/>
+<area shape="rect" id="node6" href="$udf_2misc_8c.html#a11217145a7a06e303734db6686591112" title="udf_tread" alt="" coords="395,56,471,83"/>
+<area shape="rect" id="node8" href="$udf_2misc_8c.html#a93babb00ce40b8367451e0159f0763cb" title="udf_tag_checksum" alt="" coords="367,107,499,133"/>
+<area shape="rect" id="node7" href="$udf__sb_8h.html#a6cff66bfb616d72f652b52b638623711" title="UDF_QUERY_FLAG" alt="" coords="547,56,693,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ufs/util.h" name="ufs/util.h">
+<area shape="rect" id="node2" href="$ufs_2balloc_8c.html" title="ufs/balloc.c" alt="" coords="5,80,95,107"/>
+<area shape="rect" id="node3" href="$cylinder_8c.html" title="ufs/cylinder.c" alt="" coords="119,80,219,107"/>
+<area shape="rect" id="node4" href="$ufs_2dir_8c.html" title="ufs/dir.c" alt="" coords="243,80,313,107"/>
+<area shape="rect" id="node5" href="$ufs_2ialloc_8c.html" title="ufs/ialloc.c" alt="" coords="337,80,422,107"/>
+<area shape="rect" id="node6" href="$ufs_2inode_8c.html" title="ufs/inode.c" alt="" coords="447,80,533,107"/>
+<area shape="rect" id="node7" href="$ufs_2namei_8c.html" title="ufs/namei.c" alt="" coords="558,80,649,107"/>
+<area shape="rect" id="node8" href="$ufs_2super_8c.html" title="ufs/super.c" alt="" coords="673,80,760,107"/>
+<area shape="rect" id="node9" href="$ufs_2util_8c.html" title="ufs/util.c" alt="" coords="785,80,857,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ocfs2_control_message" name="ocfs2_control_message">
+<area shape="rect" id="node2" href="$structocfs2__control__message__setn.html" title="ocfs2_control_message_setn" alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node3" href="$structocfs2__control__message__down.html" title="ocfs2_control_message_down" alt="" coords="222,5,421,32"/>
+<area shape="rect" id="node4" href="$structocfs2__control__message__setv.html" title="ocfs2_control_message_setv" alt="" coords="445,5,637,32"/>
+</map>
