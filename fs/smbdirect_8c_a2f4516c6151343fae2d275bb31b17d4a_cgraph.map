@@ -1,0 +1,5 @@
+<map id="destroy_caches_and_workqueue" name="destroy_caches_and_workqueue">
+<area shape="rect" id="node2" href="$smbdirect_8c.html#a0bf90a7b74590a588999a71e9fcf65c0" title="destroy_receive_buffers" alt="" coords="196,31,357,57"/>
+<area shape="rect" id="node3" href="$smbdirect_8c.html#a2abbc08a5cb62d8d6c03fdb11887d7b0" title="get_receive_buffer" alt="" coords="423,5,553,32"/>
+<area shape="rect" id="node4" href="$smbdirect_8c.html#aeccb87dcfdb7395757f1b23b0f250b4b" title="get_empty_queue_buffer" alt="" coords="405,56,571,83"/>
+</map>

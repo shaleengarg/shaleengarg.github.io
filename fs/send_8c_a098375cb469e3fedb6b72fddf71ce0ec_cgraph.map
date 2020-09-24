@@ -1,0 +1,5 @@
+<map id="fs_path_add_from_extent_buffer" name="fs_path_add_from_extent_buffer">
+<area shape="rect" id="node2" href="$send_8c.html#a8fedfab3d316fbfe3696050bf2559db9" title="fs_path_prepare_for_add" alt="" coords="223,5,388,32"/>
+<area shape="rect" id="node4" href="$extent__io_8c.html#a13f34ad4413ed7398240de3304b1045b" title="read_extent_buffer" alt="" coords="240,56,371,83"/>
+<area shape="rect" id="node3" href="$send_8c.html#a9e534447ec547ad6dc480d3ac6b589ee" title="fs_path_ensure_buf" alt="" coords="436,5,572,32"/>
+</map>

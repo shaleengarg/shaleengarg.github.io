@@ -1,0 +1,5 @@
+<map id="o2net_initialize_handshake" name="o2net_initialize_handshake">
+<area shape="rect" id="node2" href="$tcp_8c.html#a17d92a3294c239a3208f40fde55a637e" title="o2net_idle_timeout" alt="" coords="245,5,375,32"/>
+<area shape="rect" id="node3" href="$tcp_8c.html#ae9bafe5b8703857db09e7f9b62d5211e" title="o2net_keepalive_delay" alt="" coords="233,56,387,83"/>
+<area shape="rect" id="node4" href="$tcp_8c.html#afdbf3f46581265604702d078cfffbaaa" title="o2net_reconnect_delay" alt="" coords="232,107,388,133"/>
+</map>

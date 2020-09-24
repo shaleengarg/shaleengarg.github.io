@@ -1,0 +1,4 @@
+<map id="destroy_receive_buffers" name="destroy_receive_buffers">
+<area shape="rect" id="node2" href="$smbdirect_8c.html#a2abbc08a5cb62d8d6c03fdb11887d7b0" title="get_receive_buffer" alt="" coords="233,5,362,32"/>
+<area shape="rect" id="node3" href="$smbdirect_8c.html#aeccb87dcfdb7395757f1b23b0f250b4b" title="get_empty_queue_buffer" alt="" coords="215,56,380,83"/>
+</map>

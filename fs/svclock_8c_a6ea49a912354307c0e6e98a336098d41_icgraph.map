@@ -1,0 +1,15 @@
+<map id="nlmsvc_cancel_blocked" name="nlmsvc_cancel_blocked">
+<area shape="rect" id="node2" href="$svc4proc_8c.html#a95bf153533e318d643c96308f598123a" title="__nlm4svc_proc_cancel" alt="" coords="215,56,377,83"/>
+<area shape="rect" id="node5" href="$svclock_8c.html#ad1464751ca3fb0d5805c76aeabe72ff6" title="nlmsvc_unlock" alt="" coords="241,132,351,159"/>
+<area shape="rect" id="node12" href="$svcproc_8c.html#a8a03eabedafcbd9b6b4073d5c9c5f02c" title="__nlmsvc_proc_cancel" alt="" coords="219,208,373,235"/>
+<area shape="rect" id="node3" href="$svc4proc_8c.html#a86ddca6347dd7b1c598c3273a8db7531" title="nlm4svc_proc_cancel" alt="" coords="441,5,589,32"/>
+<area shape="rect" id="node4" href="$svc4proc_8c.html#afff90091e6423eb518c2eb87ecf3de0d" title="nlm4svc_proc_cancel_msg" alt="" coords="425,56,605,83"/>
+<area shape="rect" id="node6" href="$svc4proc_8c.html#ae62ff135a7db7a69f03b284e1478d97f" title="__nlm4svc_proc_unlock" alt="" coords="434,107,597,133"/>
+<area shape="rect" id="node9" href="$svcproc_8c.html#a11fd5b6a82719eb35348aa491bec15b1" title="__nlmsvc_proc_unlock" alt="" coords="438,157,593,184"/>
+<area shape="rect" id="node7" href="$svc4proc_8c.html#a29ff12c2c5dfc08e2d8c592013b0170f" title="nlm4svc_proc_unlock" alt="" coords="669,56,817,83"/>
+<area shape="rect" id="node8" href="$svc4proc_8c.html#a0a97f175e5d9e586c5a105bdbecfd49b" title="nlm4svc_proc_unlock_msg" alt="" coords="653,107,833,133"/>
+<area shape="rect" id="node10" href="$svcproc_8c.html#ac04ef5be8c4815c0d73fa01f4a379ebb" title="nlmsvc_proc_unlock" alt="" coords="673,157,814,184"/>
+<area shape="rect" id="node11" href="$svcproc_8c.html#af724722a3b41dfc1b36fff156c234714" title="nlmsvc_proc_unlock_msg" alt="" coords="657,208,830,235"/>
+<area shape="rect" id="node13" href="$svcproc_8c.html#a48a96be8adf9af57e711cc9be3f28e3f" title="nlmsvc_proc_cancel" alt="" coords="445,208,586,235"/>
+<area shape="rect" id="node14" href="$svcproc_8c.html#a1b7bff7b2358e3e0855de43dd6f776e6" title="nlmsvc_proc_cancel_msg" alt="" coords="429,259,602,285"/>
+</map>

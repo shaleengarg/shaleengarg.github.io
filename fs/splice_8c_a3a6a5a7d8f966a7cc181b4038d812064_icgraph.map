@@ -1,0 +1,12 @@
+<map id="wakeup_pipe_readers" name="wakeup_pipe_readers">
+<area shape="rect" id="node2" href="$splice_8c.html#a4b9620cae5c4642f4981178734cda21d" title="do_splice" alt="" coords="579,81,656,108"/>
+<area shape="rect" id="node4" href="$splice_8c.html#aed7553955ff146a804760456c46c84e5" title="vmsplice_to_pipe" alt="" coords="556,5,679,32"/>
+<area shape="rect" id="node7" href="$splice_8c.html#ac79d27ab7fd25dd66bb74a2f1901d376" title="splice_pipe_to_pipe" alt="" coords="201,81,337,108"/>
+<area shape="rect" id="node9" href="$splice_8c.html#af077f091bbdaf28febb5b702ffab8d1b" title="link_pipe" alt="" coords="233,183,306,209"/>
+<area shape="rect" id="node3" href="$splice_8c.html#ad2aed189dbd8adf37fff249c7d70a342" title="SYSCALL_DEFINE6" alt="" coords="739,81,885,108"/>
+<area shape="rect" id="node5" href="$splice_8c.html#a3372a2c96c02f0f3aac3261370f733bf" title="do_vmsplice" alt="" coords="765,5,859,32"/>
+<area shape="rect" id="node6" href="$splice_8c.html#a5900ed20422734dbd7eb19b5f2b594b0" title="SYSCALL_DEFINE4" alt="" coords="933,5,1080,32"/>
+<area shape="rect" id="node8" href="$splice_8c.html#a78539888abad934d61b534863ffdf9e0" title="wait_for_space" alt="" coords="385,31,496,57"/>
+<area shape="rect" id="node10" href="$splice_8c.html#a11c03640277fc9f313bf324cdb553531" title="do_tee" alt="" coords="410,183,471,209"/>
+<area shape="rect" id="node11" href="$splice_8c.html#ada2f8d8cead085561e35ff063a77fd69" title="SYSCALL_DEFINE4" alt="" coords="544,183,691,209"/>
+</map>

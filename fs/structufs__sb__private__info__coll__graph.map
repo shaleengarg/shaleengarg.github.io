@@ -1,0 +1,4 @@
+<map id="ufs_sb_private_info" name="ufs_sb_private_info">
+<area shape="rect" id="node2" href="$structufs__buffer__head.html" title="ufs_buffer_head" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node3" href="$structufs__csum__core.html" title="ufs_csum_core" alt="" coords="145,5,255,32"/>
+</map>

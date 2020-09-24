@@ -1,0 +1,13 @@
+<map id="kill_litter_super" name="kill_litter_super">
+<area shape="rect" id="node2" href="$autofs4_2inode_8c.html#a04b6e32fa61ec1543235b07860c236d7" title="autofs4_kill_sb" alt="" coords="164,31,273,57"/>
+<area shape="rect" id="node7" href="$devpts_2inode_8c.html#a460924e1ad0290c12c6952a54e482730" title="devpts_kill_sb" alt="" coords="166,81,271,108"/>
+<area shape="rect" id="node8" href="$pstore_2inode_8c.html#a00a3ce6f07ef44dee328542b7d583092" title="pstore_kill_sb" alt="" coords="167,132,270,159"/>
+<area shape="rect" id="node9" href="$ramfs_2inode_8c.html#a7e0d52cf41923da3f8142f0cdd9f7742" title="ramfs_kill_sb" alt="" coords="169,183,268,209"/>
+<area shape="rect" id="node10" href="$efivarfs_2super_8c.html#aba0881adb8bd0a3a32cdd0540bd4a40e" title="efivarfs_kill_sb" alt="" coords="164,233,273,260"/>
+<area shape="rect" id="node11" href="$control_8c.html#a6f5995ffa893a94aeabd20856c0c41c1" title="fuse_ctl_kill_sb" alt="" coords="163,284,275,311"/>
+<area shape="rect" id="node12" href="$nfsctl_8c.html#a46bcf42ccab4f7870fb77bf7fe50e1f9" title="nfsd_umount" alt="" coords="170,335,267,361"/>
+<area shape="rect" id="node3" href="$autofs__i_8h.html#a3d457fc5dad4ddc1b54f291c3930236b" title="autofs4_del_expiring" alt="" coords="323,31,464,57"/>
+<area shape="rect" id="node4" href="$autofs4_2root_8c.html#aadf6310d76ccb8fb7b20eef17bd67553" title="do_expire_wait" alt="" coords="512,31,621,57"/>
+<area shape="rect" id="node5" href="$autofs4_2root_8c.html#aa485740cf03e89c97e575f1129970d92" title="autofs4_d_automount" alt="" coords="669,5,816,32"/>
+<area shape="rect" id="node6" href="$autofs4_2root_8c.html#a97e6fc823a5a8403d3f65205c470d7fd" title="autofs4_d_manage" alt="" coords="677,56,809,83"/>
+</map>

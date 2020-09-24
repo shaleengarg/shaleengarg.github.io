@@ -1,0 +1,7 @@
+<map id="ocfs2_refcount_block" name="ocfs2_refcount_block">
+<area shape="rect" id="node2" href="$structocfs2__refcount__list.html" title="ocfs2_refcount_list" alt="" coords="6,95,138,121"/>
+<area shape="rect" id="node3" href="$structocfs2__refcount__rec.html" title="ocfs2_refcount_rec" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node4" href="$structocfs2__block__check.html" title="ocfs2_block_check" alt="" coords="162,95,297,121"/>
+<area shape="rect" id="node5" href="$structocfs2__extent__list.html" title="ocfs2_extent_list" alt="" coords="321,95,442,121"/>
+<area shape="rect" id="node6" href="$structocfs2__extent__rec.html" title="ocfs2_extent_rec" alt="" coords="320,5,443,32"/>
+</map>

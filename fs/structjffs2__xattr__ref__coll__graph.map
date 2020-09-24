@@ -1,0 +1,6 @@
+<map id="jffs2_xattr_ref" name="jffs2_xattr_ref">
+<area shape="rect" id="node2" href="$structjffs2__raw__node__ref.html" title="jffs2_raw_node_ref" alt="" coords="146,5,278,32"/>
+<area shape="rect" id="node3" href="$structjffs2__xattr__datum.html" title="jffs2_xattr_datum" alt="" coords="57,95,180,121"/>
+<area shape="rect" id="node4" href="$structjffs2__inode__cache.html" title="jffs2_inode_cache" alt="" coords="205,95,331,121"/>
+<area shape="rect" id="node5" href="$structjffs2__full__dirent.html" title="jffs2_full_dirent" alt="" coords="258,184,369,211"/>
+</map>

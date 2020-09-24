@@ -1,0 +1,29 @@
+<map id="o2net_reconnect_delay" name="o2net_reconnect_delay">
+<area shape="rect" id="node2" href="$tcp_8c.html#ac03a68e0ef1412de435e41b2f7bdf58e" title="o2net_set_nn_state" alt="" coords="209,512,345,539"/>
+<area shape="rect" id="node27" href="$tcp_8c.html#a68a2808d4af57a35f40c4dde7a967257" title="o2net_hb_node_up_cb" alt="" coords="399,664,551,691"/>
+<area shape="rect" id="node28" href="$tcp_8c.html#aa7f67daead11d3f1c4243b32b29c782a" title="o2net_initialize_handshake" alt="" coords="604,5,783,32"/>
+<area shape="rect" id="node3" href="$tcp_8c.html#a15d9b12d6819a83b1db0dd10a357f3af" title="o2net_ensure_shutdown" alt="" coords="393,385,556,412"/>
+<area shape="rect" id="node6" href="$tcp_8c.html#a097f512946354c78f0b53eb4fcd6fd42" title="o2net_start_connect" alt="" coords="1683,487,1823,513"/>
+<area shape="rect" id="node9" href="$tcp_8c.html#ac73d0c806814eca64213a06d1dacd771" title="o2net_accept_one" alt="" coords="1689,157,1817,184"/>
+<area shape="rect" id="node20" href="$tcp_8c.html#a9d9086574f23c74b02b49d10eb0e6e5f" title="o2net_check_handshake" alt="" coords="610,360,777,387"/>
+<area shape="rect" id="node21" href="$tcp_8c.html#aa2bedf344ec039e66306dcd238c0e6e4" title="o2net_connect_expired" alt="" coords="1479,563,1635,589"/>
+<area shape="rect" id="node22" href="$tcp_8h.html#ac1ffb48cef997230a3458f465d94980c" title="o2net_disconnect_node" alt="" coords="395,613,554,640"/>
+<area shape="rect" id="node4" href="$tcp_8c.html#a1930b6ce3709799858d4f01cdbbb8b32" title="o2net_shutdown_sc" alt="" coords="1073,309,1212,336"/>
+<area shape="rect" id="node14" href="$tcp_8c.html#a9ba45b387c449f52db666c763db60f92" title="o2net_sendpage" alt="" coords="635,208,752,235"/>
+<area shape="rect" id="node17" href="$tcp_8c.html#a27395b82c3f77667e9d767d46d2ab355" title="o2net_rx_until_empty" alt="" coords="1272,360,1419,387"/>
+<area shape="rect" id="node5" href="$tcp_8c.html#a257b377559f7a4d8282d66b2d933ae49" title="sc_alloc" alt="" coords="1521,284,1592,311"/>
+<area shape="rect" id="node7" href="$tcp_8h.html#a63ae446e18b253df18335ace7ccfdf46" title="o2net_init" alt="" coords="1901,563,1979,589"/>
+<area shape="rect" id="node8" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="2107,588,2186,615"/>
+<area shape="rect" id="node10" href="$tcp_8c.html#ada18952d3c8f540c6fb5cf0fb0901094" title="o2net_accept_many" alt="" coords="1871,335,2009,361"/>
+<area shape="rect" id="node11" href="$tcp_8c.html#ab41de79e6f9001bc68a1c45bad3445ce" title="o2net_open_listening_sock" alt="" coords="2057,404,2236,431"/>
+<area shape="rect" id="node12" href="$tcp_8h.html#a85e16817b9ce24bc69259cfd93415810" title="o2net_start_listening" alt="" coords="2284,475,2427,501"/>
+<area shape="rect" id="node13" href="$nodemanager_8c.html#a4b7a34e9cb0299e35a63d842a16dbb79" title="o2nm_node_local_store" alt="" coords="2475,639,2633,665"/>
+<area shape="rect" id="node15" href="$tcp_8c.html#afd0241860f50bcb990de41f6566f4c2c" title="o2net_process_message" alt="" coords="845,259,1011,285"/>
+<area shape="rect" id="node18" href="$tcp_8c.html#aea6b7f255afd9b17d101b9a3e9a8eebf" title="o2net_sc_connect_completed" alt="" coords="831,107,1025,133"/>
+<area shape="rect" id="node19" href="$tcp_8c.html#a990e08626eafd464a40c49aeaa284d8a" title="o2net_sc_send_keep_req" alt="" coords="1260,259,1431,285"/>
+<area shape="rect" id="node16" href="$tcp_8c.html#a94d5c5b6c64f5aaf3e386dcd3a5bd77c" title="o2net_advance_rx" alt="" coords="1079,360,1207,387"/>
+<area shape="rect" id="node23" href="$nodemanager_8c.html#a95d481ec4526f8c9545a7d115026338d" title="o2nm_node_group_drop_item" alt="" coords="832,613,1024,640"/>
+<area shape="rect" id="node24" href="$tcp_8c.html#a39776777cbf8271e4c10f0392c558816" title="o2net_hb_node_down_cb" alt="" coords="609,715,778,741"/>
+<area shape="rect" id="node26" href="$tcp_8h.html#ae20792a5e77cd26e11e7d9891f73bae6" title="o2net_stop_listening" alt="" coords="623,664,764,691"/>
+<area shape="rect" id="node25" href="$tcp_8h.html#ae1de271c512302aba822502c0c3d6762" title="o2net_register_hb_callbacks" alt="" coords="835,715,1021,741"/>
+</map>

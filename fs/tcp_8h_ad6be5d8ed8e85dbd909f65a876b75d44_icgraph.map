@@ -1,0 +1,4 @@
+<map id="o2net_num_connected_peers" name="o2net_num_connected_peers">
+<area shape="rect" id="node2" href="$nodemanager_8c.html#afda0f758e9f862bb82734b5d7f77d5d8" title="o2nm_cluster_idle_timeout\l_ms_store" alt="" coords="207,5,384,47"/>
+<area shape="rect" id="node3" href="$nodemanager_8c.html#a74d72425014f47943be65d87419b1bf8" title="o2nm_cluster_keepalive\l_delay_ms_store" alt="" coords="214,71,377,112"/>
+</map>

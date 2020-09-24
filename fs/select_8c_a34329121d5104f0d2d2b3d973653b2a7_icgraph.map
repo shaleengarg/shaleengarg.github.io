@@ -1,0 +1,17 @@
+<map id="select_estimate_accuracy" name="select_estimate_accuracy">
+<area shape="rect" id="node2" href="$eventpoll_8c.html#a4510fe0bf97bdff1bfd159343e717a8e" title="ep_poll" alt="" coords="236,95,299,121"/>
+<area shape="rect" id="node6" href="$select_8c.html#a6f95d5d1b0fc43045b7378d6616731c9" title="do_select" alt="" coords="228,183,307,209"/>
+<area shape="rect" id="node13" href="$select_8c.html#a558304ba4d063f8d520d546f6020af14" title="do_poll" alt="" coords="236,233,299,260"/>
+<area shape="rect" id="node3" href="$eventpoll_8c.html#aca757c394ca590be453af8acb7027129" title="do_epoll_wait" alt="" coords="363,56,464,83"/>
+<area shape="rect" id="node4" href="$eventpoll_8c.html#a425ebf9467901eac03e1b535c495d01f" title="SYSCALL_DEFINE4" alt="" coords="520,5,667,32"/>
+<area shape="rect" id="node5" href="$eventpoll_8c.html#a05c33c33ace99840db1ae39d44366763" title="SYSCALL_DEFINE6" alt="" coords="520,56,667,83"/>
+<area shape="rect" id="node7" href="$select_8c.html#ad81dc766b4f9dedc11e76d7a1e619217" title="core_sys_select" alt="" coords="355,157,472,184"/>
+<area shape="rect" id="node12" href="$select_8c.html#a5ff1a25c65df57d73e808e982cf1d106" title="SYSCALL_DEFINE5" alt="" coords="520,208,667,235"/>
+<area shape="rect" id="node8" href="$select_8c.html#aee2fd10ee5ce1bfad7559e5476718a67" title="kern_select" alt="" coords="549,107,638,133"/>
+<area shape="rect" id="node11" href="$select_8c.html#a7a4c03c4dae89028dcb09aecd30e247e" title="do_pselect" alt="" coords="551,157,636,184"/>
+<area shape="rect" id="node9" href="$select_8c.html#a2ee66e318d48b019e140f5524c322fdd" title="SYSCALL_DEFINE5" alt="" coords="715,107,861,133"/>
+<area shape="rect" id="node10" href="$select_8c.html#a6775938e4a7949205880bdf2c3ffbf13" title="SYSCALL_DEFINE6" alt="" coords="715,157,861,184"/>
+<area shape="rect" id="node14" href="$select_8c.html#ae7602c4c2e2277dae5265782ae582a31" title="do_sys_poll" alt="" coords="368,259,459,285"/>
+<area shape="rect" id="node15" href="$select_8c.html#a596ee9216ca57163de16ce2a5383cb01" title="do_restart_poll" alt="" coords="540,259,647,285"/>
+<area shape="rect" id="node16" href="$select_8c.html#ac416698057b055d08d9dd1a90404359f" title="SYSCALL_DEFINE3" alt="" coords="715,284,861,311"/>
+</map>

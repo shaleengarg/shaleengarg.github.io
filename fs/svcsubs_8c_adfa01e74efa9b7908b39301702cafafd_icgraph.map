@@ -1,0 +1,36 @@
+<map id="nlm_lookup_file" name="nlm_lookup_file">
+<area shape="rect" id="node2" href="$svc4proc_8c.html#ad48c4a89dd05fb0719ebfd52f2177d75" title="nlm4svc_retrieve_args" alt="" coords="165,309,319,336"/>
+<area shape="rect" id="node19" href="$svcproc_8c.html#a9a0553982b0ac3e0123ce3c4fade2c38" title="nlmsvc_retrieve_args" alt="" coords="169,639,315,665"/>
+<area shape="rect" id="node3" href="$svc4proc_8c.html#a876d8ce87a97bd1be91169492856969d" title="__nlm4svc_proc_test" alt="" coords="375,56,521,83"/>
+<area shape="rect" id="node6" href="$svc4proc_8c.html#a935eed9302c6bdbd60b010bb1b9d5741" title="__nlm4svc_proc_lock" alt="" coords="374,157,522,184"/>
+<area shape="rect" id="node10" href="$svc4proc_8c.html#a95bf153533e318d643c96308f598123a" title="__nlm4svc_proc_cancel" alt="" coords="367,233,529,260"/>
+<area shape="rect" id="node13" href="$svc4proc_8c.html#ae62ff135a7db7a69f03b284e1478d97f" title="__nlm4svc_proc_unlock" alt="" coords="367,284,529,311"/>
+<area shape="rect" id="node16" href="$svc4proc_8c.html#a4488cf170e6c165cea9dec6b2dd889df" title="nlm4svc_proc_share" alt="" coords="377,335,519,361"/>
+<area shape="rect" id="node17" href="$svc4proc_8c.html#a2fc3c96f2e04d693bed706a2050920a4" title="nlm4svc_proc_unshare" alt="" coords="370,385,526,412"/>
+<area shape="rect" id="node18" href="$svc4proc_8c.html#a03d7e13b326e7543d07ef86f817fc544" title="nlm4svc_proc_free_all" alt="" coords="372,436,524,463"/>
+<area shape="rect" id="node4" href="$svc4proc_8c.html#a990ef9687b8b2ae160ee2d904aa54d1b" title="nlm4svc_proc_test" alt="" coords="601,5,733,32"/>
+<area shape="rect" id="node5" href="$svc4proc_8c.html#a3a78adf8d6757a446084fe5afeb2647a" title="nlm4svc_proc_test_msg" alt="" coords="585,56,749,83"/>
+<area shape="rect" id="node7" href="$svc4proc_8c.html#a6bfbaac283beda4df984dd04da13749f" title="nlm4svc_proc_lock" alt="" coords="600,107,735,133"/>
+<area shape="rect" id="node9" href="$svc4proc_8c.html#a9b9b32ee8002efdbac12935927af83f8" title="nlm4svc_proc_lock_msg" alt="" coords="584,157,751,184"/>
+<area shape="rect" id="node8" href="$svc4proc_8c.html#a201c76a88ddb831df856470a9eb2a966" title="nlm4svc_proc_nm_lock" alt="" coords="805,107,964,133"/>
+<area shape="rect" id="node11" href="$svc4proc_8c.html#a86ddca6347dd7b1c598c3273a8db7531" title="nlm4svc_proc_cancel" alt="" coords="593,208,741,235"/>
+<area shape="rect" id="node12" href="$svc4proc_8c.html#afff90091e6423eb518c2eb87ecf3de0d" title="nlm4svc_proc_cancel_msg" alt="" coords="577,259,757,285"/>
+<area shape="rect" id="node14" href="$svc4proc_8c.html#a29ff12c2c5dfc08e2d8c592013b0170f" title="nlm4svc_proc_unlock" alt="" coords="593,309,741,336"/>
+<area shape="rect" id="node15" href="$svc4proc_8c.html#a0a97f175e5d9e586c5a105bdbecfd49b" title="nlm4svc_proc_unlock_msg" alt="" coords="577,360,757,387"/>
+<area shape="rect" id="node20" href="$svcproc_8c.html#ab76b23c6c7e6f9e0a5f5a6ac3584a646" title="__nlmsvc_proc_test" alt="" coords="379,487,517,513"/>
+<area shape="rect" id="node23" href="$svcproc_8c.html#abc3caed7f59af8637895b529bb768345" title="__nlmsvc_proc_lock" alt="" coords="377,563,519,589"/>
+<area shape="rect" id="node27" href="$svcproc_8c.html#a8a03eabedafcbd9b6b4073d5c9c5f02c" title="__nlmsvc_proc_cancel" alt="" coords="371,613,525,640"/>
+<area shape="rect" id="node30" href="$svcproc_8c.html#a11fd5b6a82719eb35348aa491bec15b1" title="__nlmsvc_proc_unlock" alt="" coords="371,664,525,691"/>
+<area shape="rect" id="node33" href="$svcproc_8c.html#a1474643f5e691c8a10788048402448be" title="nlmsvc_proc_share" alt="" coords="381,715,515,741"/>
+<area shape="rect" id="node34" href="$svcproc_8c.html#a41b839cdfb72bd9c2bc2c50207fa2936" title="nlmsvc_proc_unshare" alt="" coords="373,765,523,792"/>
+<area shape="rect" id="node35" href="$svcproc_8c.html#ad67e37e144d6b24206563693b96daa94" title="nlmsvc_proc_free_all" alt="" coords="375,816,521,843"/>
+<area shape="rect" id="node21" href="$svcproc_8c.html#a5c31092ba467fee4fd94cf738624bf18" title="nlmsvc_proc_test" alt="" coords="605,411,730,437"/>
+<area shape="rect" id="node22" href="$svcproc_8c.html#af98d26b8c8ec516490040be3ef0c053a" title="nlmsvc_proc_test_msg" alt="" coords="589,461,746,488"/>
+<area shape="rect" id="node24" href="$svcproc_8c.html#ae48a862305a25c32ee82bd8434151202" title="nlmsvc_proc_lock" alt="" coords="604,512,731,539"/>
+<area shape="rect" id="node26" href="$svcproc_8c.html#a249a275266744749cc2bbc65b7fecb6e" title="nlmsvc_proc_lock_msg" alt="" coords="588,563,747,589"/>
+<area shape="rect" id="node25" href="$svcproc_8c.html#a468ca7b29904cb18838e94e8c74ef62f" title="nlmsvc_proc_nm_lock" alt="" coords="809,512,961,539"/>
+<area shape="rect" id="node28" href="$svcproc_8c.html#a48a96be8adf9af57e711cc9be3f28e3f" title="nlmsvc_proc_cancel" alt="" coords="597,613,738,640"/>
+<area shape="rect" id="node29" href="$svcproc_8c.html#a1b7bff7b2358e3e0855de43dd6f776e6" title="nlmsvc_proc_cancel_msg" alt="" coords="581,664,754,691"/>
+<area shape="rect" id="node31" href="$svcproc_8c.html#ac04ef5be8c4815c0d73fa01f4a379ebb" title="nlmsvc_proc_unlock" alt="" coords="597,715,738,741"/>
+<area shape="rect" id="node32" href="$svcproc_8c.html#af724722a3b41dfc1b36fff156c234714" title="nlmsvc_proc_unlock_msg" alt="" coords="581,765,754,792"/>
+</map>

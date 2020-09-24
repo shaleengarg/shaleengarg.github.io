@@ -1,0 +1,4 @@
+<map id="smb2_close_rsp" name="smb2_close_rsp">
+<area shape="rect" id="node2" href="$structsmb2__hdr.html" title="smb2_hdr" alt="" coords="25,95,103,121"/>
+<area shape="rect" id="node3" href="$structsmb2__sync__hdr.html" title="smb2_sync_hdr" alt="" coords="7,5,121,32"/>
+</map>

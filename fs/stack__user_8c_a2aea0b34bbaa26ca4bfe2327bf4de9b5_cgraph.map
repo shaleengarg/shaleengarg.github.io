@@ -1,0 +1,16 @@
+<map id="user_plock" name="user_plock">
+<area shape="rect" id="node2" href="$plock_8c.html#a5b147d998ecfec1aa6d8e5eb34a9611c" title="dlm_posix_get" alt="" coords="149,176,255,202"/>
+<area shape="rect" id="node11" href="$plock_8c.html#ad7836e9e456518df1f34526a1126fbbf" title="dlm_posix_unlock" alt="" coords="139,125,265,152"/>
+<area shape="rect" id="node12" href="$plock_8c.html#adf86579fbc7612c34b308a41b0372fc8" title="dlm_posix_lock" alt="" coords="146,226,258,253"/>
+<area shape="rect" id="node3" href="$lockspace_8c.html#aaa396588aa33dea9b9b45782f0802c6a" title="dlm_find_lockspace\l_local" alt="" coords="331,84,468,126"/>
+<area shape="rect" id="node4" href="$plock_8c.html#a6b7ca20acfca8993c7512a5284c22fd9" title="send_op" alt="" coords="573,142,644,169"/>
+<area shape="rect" id="node6" href="$locks_8c.html#a9803e0d3f490f560784da3766206b1e4" title="locks_init_lock" alt="" coords="345,353,453,380"/>
+<area shape="rect" id="node9" href="$lockspace_8c.html#afb27eaee89e947784980dc00345f7d63" title="dlm_put_lockspace" alt="" coords="332,150,467,177"/>
+<area shape="rect" id="node10" href="$plock_8c.html#a50216430fc801da7eb39b5031dff4b65" title="EXPORT_SYMBOL_GPL" alt="" coords="313,201,485,228"/>
+<area shape="rect" id="node5" href="$plock_8c.html#a91c2b6652afe17acdac9afefdaa20083" title="set_version" alt="" coords="757,142,846,169"/>
+<area shape="rect" id="node7" href="$locks_8c.html#aaf0eec7769579a2fbc1ddd9804470873" title="locks_init_lock_heads" alt="" coords="533,353,684,380"/>
+<area shape="rect" id="node8" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="732,404,871,430"/>
+<area shape="rect" id="node13" href="$locks_8c.html#a1422e47f8cb74382412c08a77127f00d" title="locks_copy_lock" alt="" coords="340,404,459,430"/>
+<area shape="rect" id="node15" href="$plock_8c.html#a4c379122d42ed7e44ea93bc20f574ca9" title="do_unlock_close" alt="" coords="340,302,459,329"/>
+<area shape="rect" id="node14" href="$locks_8c.html#a087e6b3ca4cc4a9b1b6a5da70e9ac838" title="locks_copy_conflock" alt="" coords="537,454,681,481"/>
+</map>

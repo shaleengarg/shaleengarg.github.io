@@ -1,0 +1,6 @@
+<map id="squashfs_get_datablock" name="squashfs_get_datablock">
+<area shape="rect" id="node2" href="$squashfs_8h.html#a6dfa32de322563eb1536f153d6fa1c88" title="squashfs_readpage_block" alt="" coords="216,5,389,32"/>
+<area shape="rect" id="node4" href="$file__direct_8c.html#a8e30339f525c15d375088e3f1159ae73" title="squashfs_read_cache" alt="" coords="228,56,377,83"/>
+<area shape="rect" id="node3" href="$squashfs_2file_8c.html#a0bd06ed1a7f82548ed746b23770e2b8e" title="squashfs_readpage" alt="" coords="457,5,591,32"/>
+<area shape="rect" id="node5" href="$file__direct_8c.html#a2cf10c680d27ef9cb70b30eb5936e465" title="squashfs_readpage_block" alt="" coords="437,56,611,83"/>
+</map>

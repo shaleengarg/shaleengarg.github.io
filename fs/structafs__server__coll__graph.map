@@ -1,0 +1,4 @@
+<map id="afs_server" name="afs_server">
+<area shape="rect" id="node2" href="$structafs__uuid.html" title="afs_uuid" alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$structafs__addr__list.html" title="afs_addr_list" alt="" coords="101,5,197,32"/>
+</map>

@@ -1,0 +1,25 @@
+var structxfs__bmalloca =
+[
+    [ "aeof", "structxfs__bmalloca.html#ab8c2a596f76cc572d6b98f1b9eb49e72", null ],
+    [ "blkno", "structxfs__bmalloca.html#a697e220e5fbd36334410115c8e3d36a0", null ],
+    [ "conv", "structxfs__bmalloca.html#a0c4217da2f9dc5d0c31e8d11f8d345d1", null ],
+    [ "cur", "structxfs__bmalloca.html#af5ba7c7ab7a5db5c8794b0e141271c30", null ],
+    [ "datatype", "structxfs__bmalloca.html#a6e34dd4caddfb118491ea0b8823476dc", null ],
+    [ "dfops", "structxfs__bmalloca.html#a5c2dd803c61649720e135a3c34cef933", null ],
+    [ "eof", "structxfs__bmalloca.html#ae6d03b2e52cfad58acfd732ebcba565a", null ],
+    [ "firstblock", "structxfs__bmalloca.html#a52ea8065f0db4c6dcbabc2874f32c56d", null ],
+    [ "flags", "structxfs__bmalloca.html#ae2694dfcf5226d024ffc79ca5ac6ae52", null ],
+    [ "got", "structxfs__bmalloca.html#a3e22cd2556f6fd690be377e652616785", null ],
+    [ "icur", "structxfs__bmalloca.html#a1a12fb47284e2f4a07cdd1dc0b6e8a83", null ],
+    [ "ip", "structxfs__bmalloca.html#a8f89eebb766c60c82d7890dbd597ee89", null ],
+    [ "length", "structxfs__bmalloca.html#a64ff84deb04d920103ac95f215448ff2", null ],
+    [ "logflags", "structxfs__bmalloca.html#a8073a85d14002c6305056565a485a299", null ],
+    [ "minleft", "structxfs__bmalloca.html#ae264cb554d113d690f04ba3b81447591", null ],
+    [ "minlen", "structxfs__bmalloca.html#ab630f6ffc1addc2f3ceb6cfce8fd5ea9", null ],
+    [ "nallocs", "structxfs__bmalloca.html#a11b92a8be8d9a1540934328f764f9824", null ],
+    [ "offset", "structxfs__bmalloca.html#acc91e293239849f34ce050da4501d7d2", null ],
+    [ "prev", "structxfs__bmalloca.html#a03d1e0ef9a267d37c7c456e37371d16b", null ],
+    [ "total", "structxfs__bmalloca.html#acb618327a078cece8c13b1175a6f9ade", null ],
+    [ "tp", "structxfs__bmalloca.html#ac4789543dbf381560cf13bceaa429108", null ],
+    [ "wasdel", "structxfs__bmalloca.html#a983e3b50de7d327445a9fadf93c09b8b", null ]
+];

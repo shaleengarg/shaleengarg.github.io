@@ -1,0 +1,7 @@
+<map id="add_to_pipe" name="add_to_pipe">
+<area shape="rect" id="node2" href="$fuse_2dev_8c.html#a8925002fd5f97208a907f7ab5eb15497" title="fuse_dev_splice_read" alt="" coords="145,5,293,32"/>
+<area shape="rect" id="node3" href="$splice_8c.html#aba24f7b9bdbd4482c7e902902d7691ef" title="iter_to_pipe" alt="" coords="175,56,264,83"/>
+<area shape="rect" id="node4" href="$splice_8c.html#aed7553955ff146a804760456c46c84e5" title="vmsplice_to_pipe" alt="" coords="341,56,464,83"/>
+<area shape="rect" id="node5" href="$splice_8c.html#a3372a2c96c02f0f3aac3261370f733bf" title="do_vmsplice" alt="" coords="512,56,607,83"/>
+<area shape="rect" id="node6" href="$splice_8c.html#a5900ed20422734dbd7eb19b5f2b594b0" title="SYSCALL_DEFINE4" alt="" coords="655,56,801,83"/>
+</map>

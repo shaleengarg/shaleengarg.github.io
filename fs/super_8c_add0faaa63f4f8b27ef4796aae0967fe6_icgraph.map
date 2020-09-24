@@ -1,0 +1,5 @@
+<map id="user_get_super" name="user_get_super">
+<area shape="rect" id="node2" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="164,5,287,32"/>
+<area shape="rect" id="node3" href="$statfs_8c.html#aff4682c667c78bf05c570b98dd7bb769" title="vfs_ustat" alt="" coords="187,56,263,83"/>
+<area shape="rect" id="node4" href="$statfs_8c.html#a2327e334d7ed2a53b62329c22146bf07" title="SYSCALL_DEFINE2" alt="" coords="335,56,481,83"/>
+</map>

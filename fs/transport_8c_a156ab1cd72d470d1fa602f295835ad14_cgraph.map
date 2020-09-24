@@ -1,0 +1,19 @@
+<map id="smb_send_rqst" name="smb_send_rqst">
+<area shape="rect" id="node2" href="$transport_8c.html#a5e056d3f6f97dad31dbaf30b842ba5e4" title="__smb_send_rqst" alt="" coords="164,163,289,189"/>
+<area shape="rect" id="node3" href="$cifsglob_8h.html#a778113610ab70dcdd677940023fbd7b9" title="get_rfc1002_length" alt="" coords="337,61,469,88"/>
+<area shape="rect" id="node4" href="$smbdirect_8c.html#aba7de245cefbfd3e83477b2a8c4765e3" title="smbd_send" alt="" coords="359,163,448,189"/>
+<area shape="rect" id="node5" href="$cifs__debug_8h.html#af878413dc6fbc23c7751999f6c851f05" title="dump_smb" alt="" coords="552,112,639,139"/>
+<area shape="rect" id="node17" href="$transport_8c.html#a940b97ac2b6b7c4fe0fa5184c9c43eb3" title="rqst_len" alt="" coords="369,213,437,240"/>
+<area shape="rect" id="node18" href="$transport_8c.html#a7fe470bc01a958f989f4f1d172cff8e2" title="smb_send_kvec" alt="" coords="345,264,462,291"/>
+<area shape="rect" id="node6" href="$smbdirect_8c.html#a31d95d34f76d30467dc4b6748b3ffcd1" title="smbd_post_send_data" alt="" coords="519,163,672,189"/>
+<area shape="rect" id="node16" href="$smbdirect_8c.html#a1921923c9b2bae7f56fb53408c689cc6" title="smbd_post_send_page" alt="" coords="517,213,673,240"/>
+<area shape="rect" id="node7" href="$smbdirect_8c.html#aa144e9180705385b2379088fc4c2ce7b" title="smbd_post_send_sgl" alt="" coords="721,188,867,215"/>
+<area shape="rect" id="node8" href="$smbdirect_8c.html#a9b991979adc9780cc46a4f707772ca4d" title="smbd_create_header" alt="" coords="919,97,1061,124"/>
+<area shape="rect" id="node12" href="$smbdirect_8c.html#ae53dc192e83f470d44255989a61724db" title="smbd_post_send" alt="" coords="929,188,1051,215"/>
+<area shape="rect" id="node15" href="$smbdirect_8c.html#a3c08088deff5c3301eca55c296eb355e" title="smbd_destroy_header" alt="" coords="915,239,1065,265"/>
+<area shape="rect" id="node9" href="$smbdirect_8c.html#aff5f087444c46ab0f27cca154e494fa4" title="smbd_request_payload" alt="" coords="1125,5,1281,32"/>
+<area shape="rect" id="node10" href="$smbdirect_8c.html#afec0e804eabd685c97b59a2853ddca8d" title="manage_credits_prior\l_sending" alt="" coords="1130,57,1277,98"/>
+<area shape="rect" id="node11" href="$smbdirect_8c.html#a0af05504307cae34d4d29d210fc0fbc7" title="manage_keep_alive_before\l_sending" alt="" coords="1113,122,1293,163"/>
+<area shape="rect" id="node13" href="$smbdirect_8c.html#a6d7de0383b560496d2a714e7b6beb1c8" title="send_done" alt="" coords="1161,188,1246,215"/>
+<area shape="rect" id="node14" href="$smbdirect_8c.html#a01fb5f06ab90ffef32007eda55a54f1b" title="smbd_disconnect_rdma\l_connection" alt="" coords="1341,206,1501,247"/>
+</map>

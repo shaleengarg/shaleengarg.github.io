@@ -1,0 +1,4 @@
+<map id="smb_com_transaction2_spi_rsp" name="smb_com_transaction2_spi_rsp">
+<area shape="rect" id="node2" href="$structtrans2__resp.html" title="trans2_resp" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" href="$structsmb__hdr.html" title="smb_hdr" alt="" coords="120,5,192,32"/>
+</map>

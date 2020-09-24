@@ -1,0 +1,8 @@
+<map id="nfsd3_readdirres" name="nfsd3_readdirres">
+<area shape="rect" id="node2" href="$structsvc__fh.html" title="svc_fh" alt="" coords="78,273,139,300"/>
+<area shape="rect" id="node3" href="$structsvc__export.html" title="svc_export" alt="" coords="65,184,152,211"/>
+<area shape="rect" id="node4" href="$structexp__flavor__info.html" title="exp_flavor_info" alt="" coords="5,95,116,121"/>
+<area shape="rect" id="node5" href="$structnfsd4__fs__locations.html" title="nfsd4_fs_locations" alt="" coords="141,95,271,121"/>
+<area shape="rect" id="node6" href="$structnfsd4__fs__location.html" title="nfsd4_fs_location" alt="" coords="144,5,268,32"/>
+<area shape="rect" id="node7" href="$structreaddir__cd.html" title="readdir_cd" alt="" coords="163,273,246,300"/>
+</map>

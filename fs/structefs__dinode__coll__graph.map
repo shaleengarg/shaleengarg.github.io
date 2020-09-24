@@ -1,0 +1,6 @@
+<map id="efs_dinode" name="efs_dinode">
+<area shape="rect" id="node2" href="$unionefs__dinode_1_1di__addr.html" title="efs_dinode::di_addr" alt="" coords="51,184,186,211"/>
+<area shape="rect" id="node3" href="$unionextent__u.html" title="extent_u" alt="" coords="35,95,107,121"/>
+<area shape="rect" id="node4" href="$structextent__u_1_1extent__s.html" title="extent_u::extent_s" alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node5" href="$structedevs.html" title="edevs" alt="" coords="138,95,195,121"/>
+</map>

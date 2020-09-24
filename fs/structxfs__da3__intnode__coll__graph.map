@@ -1,0 +1,6 @@
+<map id="xfs_da3_intnode" name="xfs_da3_intnode">
+<area shape="rect" id="node2" href="$structxfs__da3__node__hdr.html" title="xfs_da3_node_hdr" alt="" coords="5,184,133,211"/>
+<area shape="rect" id="node3" href="$structxfs__da3__blkinfo.html" title="xfs_da3_blkinfo" alt="" coords="13,95,126,121"/>
+<area shape="rect" id="node4" href="$structxfs__da__blkinfo.html" title="xfs_da_blkinfo" alt="" coords="16,5,123,32"/>
+<area shape="rect" id="node5" href="$structxfs__da__node__entry.html" title="xfs_da_node_entry" alt="" coords="158,184,290,211"/>
+</map>

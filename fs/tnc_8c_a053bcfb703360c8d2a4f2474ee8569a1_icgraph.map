@@ -1,0 +1,6 @@
+<map id="read_wbuf" name="read_wbuf">
+<area shape="rect" id="node2" href="$ubifs_8h.html#ae7748d9645dfee9cdc9c0d62afd5a50d" title="ubifs_tnc_bulk_read" alt="" coords="136,5,275,32"/>
+<area shape="rect" id="node3" href="$ubifs_2file_8c.html#ad6186990c25e6b2dc7768ac1949bec83" title="ubifs_do_bulk_read" alt="" coords="323,5,457,32"/>
+<area shape="rect" id="node4" href="$ubifs_2file_8c.html#aed7254246d1ac02f002c675f49b0e685" title="ubifs_bulk_read" alt="" coords="505,5,619,32"/>
+<area shape="rect" id="node5" href="$ubifs_2file_8c.html#a86938bc9dd8e47804a84e7065efa58ae" title="ubifs_readpage" alt="" coords="667,5,777,32"/>
+</map>

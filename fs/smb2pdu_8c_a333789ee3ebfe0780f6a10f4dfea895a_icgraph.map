@@ -1,0 +1,26 @@
+<map id="create_durable_v2_buf" name="create_durable_v2_buf">
+<area shape="rect" id="node2" href="$smb2pdu_8c.html#a15c1be2dc511da2066d0e451d53e4e1e" title="add_durable_v2_context" alt="" coords="207,284,369,311"/>
+<area shape="rect" id="node3" href="$smb2pdu_8c.html#a796fbd776d6f72fe5d1b9ec619069450" title="add_durable_context" alt="" coords="417,284,560,311"/>
+<area shape="rect" id="node4" href="$smb2proto_8h.html#a5dce11836e39e64682c0c9597b7d56da" title="SMB2_open" alt="" coords="608,284,701,311"/>
+<area shape="rect" id="node5" href="$smb2proto_8h.html#a53f3a54a193b19727f3f397def1122ba" title="smb3_query_mf_symlink" alt="" coords="752,31,919,57"/>
+<area shape="rect" id="node6" href="$smb2proto_8h.html#a0a7f2b5687a8e382c530aae18345d5d0" title="smb3_create_mf_symlink" alt="" coords="750,81,921,108"/>
+<area shape="rect" id="node7" href="$smb2proto_8h.html#a2685738f19e0a96b457921e00c1257b5" title="smb2_open_file" alt="" coords="779,132,892,159"/>
+<area shape="rect" id="node8" href="$smb2inode_8c.html#ace5714eb911418d39a46483f1d99d289" title="smb2_open_op_close" alt="" coords="761,183,909,209"/>
+<area shape="rect" id="node19" href="$smb2ops_8c.html#a895b8525ab203832d8d7c91715fe79f9" title="smb3_qfs_tcon" alt="" coords="780,233,891,260"/>
+<area shape="rect" id="node20" href="$smb2ops_8c.html#addc44ef2e71fa8697c91a2ffae51dcf8" title="smb2_qfs_tcon" alt="" coords="780,284,891,311"/>
+<area shape="rect" id="node21" href="$smb2ops_8c.html#a24131ab7c0666a728a5381745a4a54e6" title="smb2_is_path_accessible" alt="" coords="749,335,921,361"/>
+<area shape="rect" id="node22" href="$smb2ops_8c.html#a1d490d91ae57ef66c5917326d4d25621" title="smb2_query_file_info" alt="" coords="763,385,908,412"/>
+<area shape="rect" id="node23" href="$smb2ops_8c.html#ad9161618e0b4ee30093b746ddf14713f" title="smb2_query_dir_first" alt="" coords="764,436,907,463"/>
+<area shape="rect" id="node24" href="$smb2ops_8c.html#aae78df5669f304a9cac8cbb4c396a489" title="smb2_queryfs" alt="" coords="783,487,887,513"/>
+<area shape="rect" id="node25" href="$smb2ops_8c.html#a919daae0b42a3b6f78ad0b5fbd341245" title="smb2_query_symlink" alt="" coords="763,537,908,564"/>
+<area shape="rect" id="node9" href="$smb2proto_8h.html#ac91896c9beed4ccc7cadd04de8a94e1f" title="smb2_query_path_info" alt="" coords="969,5,1123,32"/>
+<area shape="rect" id="node10" href="$smb2proto_8h.html#a996b076809ce79d4f3aedb5dcb56afa9" title="smb2_mkdir" alt="" coords="999,56,1093,83"/>
+<area shape="rect" id="node11" href="$smb2proto_8h.html#a666eb789214bfc659f3e3012ac4bca9c" title="smb2_mkdir_setinfo" alt="" coords="977,107,1115,133"/>
+<area shape="rect" id="node12" href="$smb2proto_8h.html#a716d14b0ea06fe399148c94f795e5086" title="smb2_rmdir" alt="" coords="1001,157,1091,184"/>
+<area shape="rect" id="node13" href="$smb2proto_8h.html#a559d38892b178149afb65dd9e70586a0" title="smb2_unlink" alt="" coords="999,208,1093,235"/>
+<area shape="rect" id="node14" href="$smb2inode_8c.html#abf15d4c3a218f02abac5f189f4875b2e" title="smb2_set_path_attr" alt="" coords="977,259,1115,285"/>
+<area shape="rect" id="node17" href="$smb2proto_8h.html#a11a0b03edd7fdbd9496cdf98ba850ac9" title="smb2_set_path_size" alt="" coords="975,309,1117,336"/>
+<area shape="rect" id="node18" href="$smb2proto_8h.html#a1a928bb3800e3ed1c62f1924b293c386" title="smb2_set_file_info" alt="" coords="981,360,1111,387"/>
+<area shape="rect" id="node15" href="$smb2proto_8h.html#a6a288de24d9ce187907d1e30e2f6f883" title="smb2_rename_path" alt="" coords="1177,259,1313,285"/>
+<area shape="rect" id="node16" href="$smb2proto_8h.html#aac6468b4f1d638b83dd331a9582a28c4" title="smb2_create_hardlink" alt="" coords="1171,309,1320,336"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="move_smb2_info_to_cifs" name="move_smb2_info_to_cifs">
+<area shape="rect" id="node2" href="$smb2proto_8h.html#a2685738f19e0a96b457921e00c1257b5" title="smb2_open_file" alt="" coords="240,5,353,32"/>
+<area shape="rect" id="node3" href="$smb2proto_8h.html#ac91896c9beed4ccc7cadd04de8a94e1f" title="smb2_query_path_info" alt="" coords="220,56,373,83"/>
+<area shape="rect" id="node4" href="$smb2ops_8c.html#a1d490d91ae57ef66c5917326d4d25621" title="smb2_query_file_info" alt="" coords="224,107,369,133"/>
+</map>

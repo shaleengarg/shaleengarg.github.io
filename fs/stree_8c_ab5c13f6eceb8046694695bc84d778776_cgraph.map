@@ -1,0 +1,6 @@
+<map id="unmap_buffers" name="unmap_buffers">
+<area shape="rect" id="node2" href="$reiserfs_8h.html#aa8743da37ca29249b1d6d963dc5159b2" title="reiserfs_unmap_buffer" alt="" coords="161,31,312,57"/>
+<area shape="rect" id="node3" href="$reiserfs_2journal_8c.html#a83390ea91e66867341737a681591baad" title="reiserfs_free_jh" alt="" coords="360,5,471,32"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="365,56,465,83"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="519,56,657,83"/>
+</map>

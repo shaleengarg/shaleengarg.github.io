@@ -1,0 +1,13 @@
+<map id="fuse_req" name="fuse_req">
+<area shape="rect" id="node3" href="$structfuse__file.html" title="fuse_file" alt="" coords="271,377,341,404"/>
+<area shape="rect" id="node4" href="$structfuse__conn.html" title="fuse_conn" alt="" coords="149,288,231,315"/>
+<area shape="rect" id="node2" href="$structfuse__io__priv.html" title="fuse_io_priv" alt="" coords="268,95,360,121"/>
+<area shape="rect" id="node5" href="$structsuper__block.html" title="super_block" alt="" coords="5,199,97,225"/>
+<area shape="rect" id="node6" href="$structfuse__iqueue.html" title="fuse_iqueue" alt="" coords="121,199,213,225"/>
+<area shape="rect" id="node7" href="$structfuse__forget__link.html" title="fuse_forget_link" alt="" coords="75,95,190,121"/>
+<area shape="rect" id="node8" href="$structfuse__in.html" title="fuse_in" alt="" coords="385,95,449,121"/>
+<area shape="rect" id="node9" href="$structfuse__in__arg.html" title="fuse_in_arg" alt="" coords="372,5,461,32"/>
+<area shape="rect" id="node10" href="$structfuse__page__desc.html" title="fuse_page_desc" alt="" coords="473,95,590,121"/>
+<area shape="rect" id="node11" href="$structfuse__out.html" title="fuse_out" alt="" coords="623,95,695,121"/>
+<area shape="rect" id="node12" href="$structfuse__arg.html" title="fuse_arg" alt="" coords="623,5,695,32"/>
+</map>

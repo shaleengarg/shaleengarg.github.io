@@ -1,0 +1,5 @@
+<map id="release_meta_index" name="release_meta_index">
+<area shape="rect" id="node2" href="$squashfs_2file_8c.html#a19da932e92d50c90419f53fbb3a049ab" title="fill_meta_index" alt="" coords="192,5,301,32"/>
+<area shape="rect" id="node3" href="$squashfs_2file_8c.html#a3c7e57029c078d28fe54b688dcd975f8" title="read_blocklist" alt="" coords="349,5,452,32"/>
+<area shape="rect" id="node4" href="$squashfs_2file_8c.html#a0bd06ed1a7f82548ed746b23770e2b8e" title="squashfs_readpage" alt="" coords="500,5,635,32"/>
+</map>

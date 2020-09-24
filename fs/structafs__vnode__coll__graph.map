@@ -1,0 +1,20 @@
+<map id="afs_vnode" name="afs_vnode">
+<area shape="rect" id="node2" href="$structafs__file__status.html" title="afs_file_status" alt="" coords="5,553,112,580"/>
+<area shape="rect" id="node3" href="$structafs__cb__interest.html" title="afs_cb_interest" alt="" coords="141,184,251,211"/>
+<area shape="rect" id="node14" href="$structafs__call.html" title="afs_call" alt="" coords="331,273,397,300"/>
+<area shape="rect" id="node17" href="$structafs__server__entry.html" title="afs_server_entry" alt="" coords="187,273,306,300"/>
+<area shape="rect" id="node4" href="$structsuper__block.html" title="super_block" alt="" coords="143,95,235,121"/>
+<area shape="rect" id="node5" href="$structafs__server.html" title="afs_server" alt="" coords="348,95,431,121"/>
+<area shape="rect" id="node6" href="$structafs__uuid.html" title="afs_uuid" alt="" coords="494,5,565,32"/>
+<area shape="rect" id="node11" href="$structafs__net.html" title="afs_net" alt="" coords="499,363,565,389"/>
+<area shape="rect" id="node7" href="$structafs__addr__list.html" title="afs_addr_list" alt="" coords="683,5,779,32"/>
+<area shape="rect" id="node10" href="$structafs__cell.html" title="afs_cell" alt="" coords="445,464,512,491"/>
+<area shape="rect" id="node8" href="$structafs__fid.html" title="afs_fid" alt="" coords="187,553,248,580"/>
+<area shape="rect" id="node9" href="$structafs__volume.html" title="afs_volume" alt="" coords="273,553,362,580"/>
+<area shape="rect" id="node12" href="$structproc__dir__entry.html" title="proc_dir_entry" alt="" coords="421,273,525,300"/>
+<area shape="rect" id="node13" href="$structafs__sysnames.html" title="afs_sysnames" alt="" coords="615,273,721,300"/>
+<area shape="rect" id="node15" href="$structafs__call__type.html" title="afs_call_type" alt="" coords="479,184,577,211"/>
+<area shape="rect" id="node16" href="$structafs__server__list.html" title="afs_server_list" alt="" coords="244,413,351,440"/>
+<area shape="rect" id="node18" href="$structafs__permits.html" title="afs_permits" alt="" coords="412,553,503,580"/>
+<area shape="rect" id="node19" href="$structafs__permit.html" title="afs_permit" alt="" coords="536,464,619,491"/>
+</map>

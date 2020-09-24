@@ -1,0 +1,13 @@
+<map id="__get_super_thawed" name="__get_super_thawed">
+<area shape="rect" id="node2" href="$super_8c.html#a7c8879b6ad6207451380d0ab0a1c5047" title="get_super_thawed" alt="" coords="203,52,331,79"/>
+<area shape="rect" id="node12" href="$super_8c.html#aad6cf2dd766b1c11042945f9a5d6e271" title="get_super_exclusive\l_thawed" alt="" coords="196,103,337,145"/>
+<area shape="rect" id="node3" href="$quota_2quota_8c.html#a837f36e10ac67faba6ceedafcceccca2" title="quotactl_block" alt="" coords="385,81,492,108"/>
+<area shape="rect" id="node4" href="$quota_2quota_8c.html#a71e6f1049154d2a3d8ff7b832ff1687e" title="kernel_quotactl" alt="" coords="540,81,651,108"/>
+<area shape="rect" id="node5" href="$quota_2quota_8c.html#acead32622ecf597814f80a8e9d7776c3" title="SYSCALL_DEFINE4" alt="" coords="731,56,877,83"/>
+<area shape="rect" id="node6" href="$quota_2compat_8c.html#a521f0febe4ae251503da1be7c5d10d39" title="COMPAT_SYSCALL_DEFINE4" alt="" coords="699,107,909,133"/>
+<area shape="rect" id="node7" href="$dcookies_8c.html#a17130c3972d93646dffbb5de2acbe2d8" title="SYSCALL_DEFINE3" alt="" coords="957,5,1104,32"/>
+<area shape="rect" id="node8" href="$read__write_8c.html#a3027081c8ba8c50821f4222c2082badc" title="SYSCALL_DEFINE6" alt="" coords="957,56,1104,83"/>
+<area shape="rect" id="node9" href="$read__write_8c.html#a8da43315b1f800b22ddfa9b9c2f3b583" title="SYSCALL_DEFINE4" alt="" coords="957,107,1104,133"/>
+<area shape="rect" id="node10" href="$stat_8c.html#a951314b128b8d6cacc9b662336855209" title="SYSCALL_DEFINE5" alt="" coords="957,157,1104,184"/>
+<area shape="rect" id="node11" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="957,208,1104,235"/>
+</map>

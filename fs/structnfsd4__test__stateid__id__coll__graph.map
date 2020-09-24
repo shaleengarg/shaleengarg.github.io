@@ -1,0 +1,5 @@
+<map id="nfsd4_test_stateid_id" name="nfsd4_test_stateid_id">
+<area shape="rect" id="node2" href="$structstateid__t.html" title="stateid_t" alt="" coords="43,184,115,211"/>
+<area shape="rect" id="node3" href="$structstateid__opaque__t.html" title="stateid_opaque_t" alt="" coords="18,95,139,121"/>
+<area shape="rect" id="node4" href="$structclientid__t.html" title="clientid_t" alt="" coords="41,5,116,32"/>
+</map>

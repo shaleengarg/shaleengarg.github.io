@@ -1,0 +1,5 @@
+<map id="generic_file_splice_read" name="generic_file_splice_read">
+<area shape="rect" id="node2" href="$gfs2_2file_8c.html#a05e3abde0f7e56d6d83814283cfde627" title="gfs2_file_splice_write" alt="" coords="226,5,373,32"/>
+<area shape="rect" id="node3" href="$cramfs_2inode_8c.html#aa871e51dcff760b5a95d6b5e6c548b2c" title="cramfs_physmem_mmap\l_capabilities" alt="" coords="215,57,384,98"/>
+<area shape="rect" id="node4" href="$hfs_2inode_8c.html#ada6c2e06df7d6ebe7c5eb1e8b64acc3a" title="hfs_file_fsync" alt="" coords="248,123,351,149"/>
+</map>

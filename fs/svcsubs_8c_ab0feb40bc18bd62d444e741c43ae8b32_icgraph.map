@@ -1,0 +1,8 @@
+<map id="nlmsvc_same_host" name="nlmsvc_same_host">
+<area shape="rect" id="node2" href="$svcsubs_8c.html#a492aeda951bf68408657633bed9cfa0b" title="nlmsvc_free_host_resources" alt="" coords="188,81,377,108"/>
+<area shape="rect" id="node3" href="$host_8c.html#a7b3aa5a8da6db14462d5e03f54a38f4a" title="nlm_host_rebooted" alt="" coords="435,31,567,57"/>
+<area shape="rect" id="node6" href="$svc4proc_8c.html#a03d7e13b326e7543d07ef86f817fc544" title="nlm4svc_proc_free_all" alt="" coords="425,81,577,108"/>
+<area shape="rect" id="node7" href="$svcproc_8c.html#ad67e37e144d6b24206563693b96daa94" title="nlmsvc_proc_free_all" alt="" coords="429,132,574,159"/>
+<area shape="rect" id="node4" href="$svc4proc_8c.html#a2c797bff1065843040c85a72eefd904b" title="nlm4svc_proc_sm_notify" alt="" coords="625,5,792,32"/>
+<area shape="rect" id="node5" href="$svcproc_8c.html#aa6252f981fb1ec60077826d0634760ff" title="nlmsvc_proc_sm_notify" alt="" coords="629,56,789,83"/>
+</map>

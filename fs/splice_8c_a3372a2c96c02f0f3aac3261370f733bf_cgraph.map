@@ -1,0 +1,32 @@
+<map id="do_vmsplice" name="do_vmsplice">
+<area shape="rect" id="node2" href="$splice_8c.html#aed7553955ff146a804760456c46c84e5" title="vmsplice_to_pipe" alt="" coords="149,512,271,539"/>
+<area shape="rect" id="node25" href="$splice_8c.html#a92885d04ea9204523bca21fe04bafc05" title="vmsplice_to_user" alt="" coords="148,639,272,665"/>
+<area shape="rect" id="node3" href="$pipe_8c.html#a04be7b9d1b4cdabf883705fa323daf61" title="get_pipe_info" alt="" coords="338,613,437,640"/>
+<area shape="rect" id="node4" href="$pipe_8c.html#acf6fdd2128993d70bbb11c7aee561f48" title="pipe_lock" alt="" coords="1107,157,1184,184"/>
+<area shape="rect" id="node7" href="$splice_8c.html#a78539888abad934d61b534863ffdf9e0" title="wait_for_space" alt="" coords="332,385,443,412"/>
+<area shape="rect" id="node9" href="$pipe_8c.html#a62efee87ea4adec1ffb9b5b901f5f5ab" title="pipe_unlock" alt="" coords="1100,360,1191,387"/>
+<area shape="rect" id="node14" href="$splice_8c.html#a3a6a5a7d8f966a7cc181b4038d812064" title="wakeup_pipe_readers" alt="" coords="709,512,857,539"/>
+<area shape="rect" id="node22" href="$splice_8c.html#aba24f7b9bdbd4482c7e902902d7691ef" title="iter_to_pipe" alt="" coords="343,563,432,589"/>
+<area shape="rect" id="node5" href="$pipe_8c.html#a984401e3f4bf9e82551af9f062a2cd02" title="pipe_lock_nested" alt="" coords="1271,107,1393,133"/>
+<area shape="rect" id="node6" href="$pipe_8c.html#af9a88fcab614fe914715bc865ec53616" title="EXPORT_SYMBOL" alt="" coords="1263,233,1401,260"/>
+<area shape="rect" id="node8" href="$pipe_8c.html#aed92895c4cd0e85a14dacc83660deb77" title="pipe_wait" alt="" coords="928,309,1005,336"/>
+<area shape="rect" id="node10" href="$splice_8c.html#ac79d27ab7fd25dd66bb74a2f1901d376" title="splice_pipe_to_pipe" alt="" coords="514,385,650,412"/>
+<area shape="rect" id="node11" href="$splice_8c.html#adb4e3976e956159bc4e8362e4b341f51" title="ipipe_prep" alt="" coords="743,259,824,285"/>
+<area shape="rect" id="node12" href="$splice_8c.html#a061d3021320b176902ba80f6e011ada7" title="opipe_prep" alt="" coords="741,360,826,387"/>
+<area shape="rect" id="node13" href="$pipe_8c.html#ada3d6cd80e71335621cca24f637f2da7" title="pipe_double_lock" alt="" coords="905,5,1028,32"/>
+<area shape="rect" id="node21" href="$splice_8c.html#ae67a9b0582450cb372a08f52e9d1af91" title="wakeup_pipe_writers" alt="" coords="711,664,855,691"/>
+<area shape="rect" id="node15" href="$fcntl_8c.html#a5a434f3099ac49e16d362421dea0e9c1" title="kill_fasync" alt="" coords="925,639,1009,665"/>
+<area shape="rect" id="node16" href="$fcntl_8c.html#ab439268f4e746f76f44faf97ef3af17e" title="kill_fasync_rcu" alt="" coords="1091,613,1200,640"/>
+<area shape="rect" id="node20" href="$fcntl_8c.html#a96260ad34b4946a4c5c22a19887f36d3" title="EXPORT_SYMBOL" alt="" coords="1076,664,1215,691"/>
+<area shape="rect" id="node17" href="$fcntl_8c.html#a7b4f7b330f707178ae5513573df6e29e" title="send_sigio" alt="" coords="1290,613,1374,640"/>
+<area shape="rect" id="node18" href="$fcntl_8c.html#a3c961d893927e2fa472fb9de853ea225" title="send_sigio_to_task" alt="" coords="1449,613,1584,640"/>
+<area shape="rect" id="node19" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="1632,613,1717,640"/>
+<area shape="rect" id="node23" href="$splice_8c.html#a0db1b0a56aa33510794c941f033027bf" title="add_to_pipe" alt="" coords="536,664,628,691"/>
+<area shape="rect" id="node24" href="$splice_8c.html#aed8d0eded3ac520e69b4a7f4dcac067a" title="EXPORT_SYMBOL" alt="" coords="714,765,853,792"/>
+<area shape="rect" id="node26" href="$splice_8c.html#a8760e1dc22b1f9cd0cd063268bf91c89" title="__splice_from_pipe" alt="" coords="320,715,455,741"/>
+<area shape="rect" id="node31" href="$splice_8c.html#a17af94161409d3225dc5fef1d9619029" title="pipe_to_user" alt="" coords="339,765,435,792"/>
+<area shape="rect" id="node27" href="$splice_8c.html#ab912d2c8e237406d4a2e6e31daa08d50" title="splice_from_pipe_begin" alt="" coords="503,867,661,893"/>
+<area shape="rect" id="node28" href="$splice_8c.html#a200cc516aba74fc3bea38b97c5ba98e9" title="splice_from_pipe_next" alt="" coords="506,613,658,640"/>
+<area shape="rect" id="node29" href="$splice_8c.html#a84afc51a691f457f6776eb481ea41502" title="splice_from_pipe_feed" alt="" coords="506,715,658,741"/>
+<area shape="rect" id="node30" href="$splice_8c.html#ab022061b0610efbfc985cdc174df41de" title="splice_from_pipe_end" alt="" coords="508,765,656,792"/>
+</map>

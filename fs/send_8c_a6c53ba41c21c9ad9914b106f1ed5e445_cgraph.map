@@ -1,0 +1,6 @@
+<map id="add_pending_dir_move" name="add_pending_dir_move">
+<area shape="rect" id="node2" href="$send_8c.html#adf2477bde97ab21e22907c635302e577" title="dup_ref" alt="" coords="251,5,316,32"/>
+<area shape="rect" id="node3" href="$send_8c.html#ac585fb39c278570430410f4472e00e21" title="add_waiting_dir_move" alt="" coords="208,56,359,83"/>
+<area shape="rect" id="node4" href="$send_8c.html#afa5a10f390333979b3a07ababbc2e482" title="__free_recorded_refs" alt="" coords="211,107,355,133"/>
+<area shape="rect" id="node5" href="$send_8c.html#aa0166a64360334d195ca713a9d509d90" title="fs_path_free" alt="" coords="407,107,501,133"/>
+</map>

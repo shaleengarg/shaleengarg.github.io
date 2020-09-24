@@ -1,0 +1,25 @@
+var structdlm__lock__resource =
+[
+    [ "asts_reserved", "structdlm__lock__resource.html#a7c552c35065ae9e7364003680cd73fd6", null ],
+    [ "blocked", "structdlm__lock__resource.html#a67e24e4dd74d93ba47e5ee465baef0e5", null ],
+    [ "converting", "structdlm__lock__resource.html#a0c3702fefb85af285c59771d0c318070", null ],
+    [ "dirty", "structdlm__lock__resource.html#ae2f043fd62d04e100bde13eca91b1996", null ],
+    [ "dlm", "structdlm__lock__resource.html#a31bcae9712402f5cfab6f34e48de9e81", null ],
+    [ "granted", "structdlm__lock__resource.html#aa0c14589bfc3decb96897a2195b2c9a7", null ],
+    [ "hash_node", "structdlm__lock__resource.html#afe824e7d9495b56c2dcddc9432c773b5", null ],
+    [ "inflight_assert_workers", "structdlm__lock__resource.html#a6378d23605781123bd6f99647ed1e60d", null ],
+    [ "inflight_locks", "structdlm__lock__resource.html#a6a82281cd71b8b88b7222673fd9d9149", null ],
+    [ "last_used", "structdlm__lock__resource.html#ae93f35307e2f5ddbcf3ada94c9d4ac05", null ],
+    [ "lockname", "structdlm__lock__resource.html#af7ab6b305052f5e0cf239f05b96e9904", null ],
+    [ "lvb", "structdlm__lock__resource.html#ac27db399dc010d21dfc1e9d694623e8a", null ],
+    [ "migration_pending", "structdlm__lock__resource.html#abaa7e232396c2704384be63dee6dfa7a", null ],
+    [ "owner", "structdlm__lock__resource.html#a2684deb2677ccaddf5af89fa9d39d7d4", null ],
+    [ "purge", "structdlm__lock__resource.html#ac21f6109dbe6889c6d01f70e3fd6dcab", null ],
+    [ "recovering", "structdlm__lock__resource.html#a91589e423b37e2e775021a9e261ccf8d", null ],
+    [ "refmap", "structdlm__lock__resource.html#a3a0874a6e8e1a5940d24174ad480121a", null ],
+    [ "refs", "structdlm__lock__resource.html#a0ed4ebad4fb178ba0c9cf9086b458cb4", null ],
+    [ "spinlock", "structdlm__lock__resource.html#a2a1ef74840381cf56f8fafac9121a5b9", null ],
+    [ "state", "structdlm__lock__resource.html#a48c2cbd37d00946401ce10b29671b5a0", null ],
+    [ "tracking", "structdlm__lock__resource.html#af7329437e4f191e6276f260ea38d99a2", null ],
+    [ "wq", "structdlm__lock__resource.html#a7f4799a76cc5584b7d5860f91bf5a57e", null ]
+];

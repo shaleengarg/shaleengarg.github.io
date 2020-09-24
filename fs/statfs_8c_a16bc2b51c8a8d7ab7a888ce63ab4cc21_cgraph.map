@@ -1,0 +1,10 @@
+<map id="SYSCALL_DEFINE2" name="SYSCALL_DEFINE2">
+<area shape="rect" id="node2" href="$statfs_8c.html#a430be54adc76f4041ca2279d875e3c1b" title="fd_statfs" alt="" coords="223,56,296,83"/>
+<area shape="rect" id="node9" href="$statfs_8c.html#aae4867cb59b074a6c5230deb7d7ead9e" title="do_statfs_native" alt="" coords="200,107,319,133"/>
+<area shape="rect" id="node3" href="$statfs_8c.html#a968b90dce69ee2ed04c2137954edea27" title="vfs_statfs" alt="" coords="367,56,447,83"/>
+<area shape="rect" id="node4" href="$statfs_8c.html#a5416dda9ef23e066d85d1dd25fa190c8" title="statfs_by_dentry" alt="" coords="505,5,623,32"/>
+<area shape="rect" id="node5" href="$statfs_8c.html#a9e1551a1c936fe2ed80ff4bad4fbf40c" title="calculate_f_flags" alt="" coords="504,56,624,83"/>
+<area shape="rect" id="node8" href="$statfs_8c.html#adb45b2c25421e82cda1fc0a82e718eff" title="EXPORT_SYMBOL" alt="" coords="495,107,633,133"/>
+<area shape="rect" id="node6" href="$statfs_8c.html#acc95e81ad1a94cce891167b1fb308f44" title="flags_by_mnt" alt="" coords="681,31,781,57"/>
+<area shape="rect" id="node7" href="$statfs_8c.html#a7bcae4d4783b94d7f4745a69024a196f" title="flags_by_sb" alt="" coords="685,81,777,108"/>
+</map>

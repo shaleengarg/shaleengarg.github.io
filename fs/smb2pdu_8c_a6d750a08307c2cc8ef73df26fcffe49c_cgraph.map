@@ -1,0 +1,5 @@
+<map id="SMB2_sess_free_buffer" name="SMB2_sess_free_buffer">
+<area shape="rect" id="node2" href="$cifsproto_8h.html#a82526102d5abe78d3e3008393f5e5286" title="free_rsp_buf" alt="" coords="216,31,311,57"/>
+<area shape="rect" id="node3" href="$cifs_2misc_8c.html#af1e2f431e26c4423ddbc662e27cedce4" title="cifs_small_buf_release" alt="" coords="359,5,513,32"/>
+<area shape="rect" id="node4" href="$cifs_2misc_8c.html#ab677aab5c673b694fd83a31dffbf07cc" title="cifs_buf_release" alt="" coords="377,56,495,83"/>
+</map>

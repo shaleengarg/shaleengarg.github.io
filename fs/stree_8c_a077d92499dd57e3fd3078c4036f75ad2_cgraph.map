@@ -1,0 +1,18 @@
+<map id="key_in_buffer" name="key_in_buffer">
+<area shape="rect" id="node2" href="$stree_8c.html#ab2d77047dfd72d6bddbd2bd02100ca55" title="comp_keys" alt="" coords="153,157,243,184"/>
+<area shape="rect" id="node13" href="$stree_8c.html#af30c6d8970e4bc242246445e3a004ce5" title="get_lkey" alt="" coords="163,360,233,387"/>
+<area shape="rect" id="node17" href="$stree_8c.html#a316b3d545627ad9a0ba2ccbb523b217f" title="get_rkey" alt="" coords="162,309,234,336"/>
+<area shape="rect" id="node3" href="$stree_8c.html#a665f4e791864e9849723ec7eff5c7d3a" title="comp_short_keys" alt="" coords="291,5,416,32"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#abecc4f6ccf3ea24d7c84b1732769f8c2" title="le_key_k_offset" alt="" coords="296,56,411,83"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#addd3f441c6f82ae08002a90f19877170" title="le_key_version" alt="" coords="299,107,408,133"/>
+<area shape="rect" id="node8" href="$reiserfs_8h.html#a7a18eb87edf9b13864eadf32bccd747d" title="cpu_key_k_offset" alt="" coords="291,208,416,235"/>
+<area shape="rect" id="node9" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="300,157,407,184"/>
+<area shape="rect" id="node12" href="$reiserfs_8h.html#a05b20d0d23fc98b593f6c68574395ed1" title="cpu_key_k_type" alt="" coords="295,259,412,285"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#a67e0e7a33f122df8324e635d7d1eed04" title="offset_v2_k_offset" alt="" coords="465,56,595,83"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="469,107,591,133"/>
+<area shape="rect" id="node10" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="470,157,590,184"/>
+<area shape="rect" id="node11" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="644,157,764,184"/>
+<area shape="rect" id="node14" href="$stree_8c.html#aafc725ffebe4bf679ca33786c55b9227" title="B_IS_IN_TREE" alt="" coords="296,309,411,336"/>
+<area shape="rect" id="node15" href="$reiserfs_8h.html#a217596f2d243c107da5efba998900f0a" title="internal_key" alt="" coords="307,360,399,387"/>
+<area shape="rect" id="node16" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="464,360,596,387"/>
+</map>

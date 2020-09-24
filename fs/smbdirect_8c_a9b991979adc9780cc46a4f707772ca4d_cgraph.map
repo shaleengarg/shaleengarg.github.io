@@ -1,0 +1,5 @@
+<map id="smbd_create_header" name="smbd_create_header">
+<area shape="rect" id="node2" href="$smbdirect_8c.html#aff5f087444c46ab0f27cca154e494fa4" title="smbd_request_payload" alt="" coords="208,5,364,32"/>
+<area shape="rect" id="node3" href="$smbdirect_8c.html#afec0e804eabd685c97b59a2853ddca8d" title="manage_credits_prior\l_sending" alt="" coords="213,57,359,98"/>
+<area shape="rect" id="node4" href="$smbdirect_8c.html#a0af05504307cae34d4d29d210fc0fbc7" title="manage_keep_alive_before\l_sending" alt="" coords="196,122,376,163"/>
+</map>

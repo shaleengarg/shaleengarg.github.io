@@ -1,0 +1,25 @@
+<map id="iter_file_splice_write" name="iter_file_splice_write">
+<area shape="rect" id="node2" href="$pipe_8c.html#acf6fdd2128993d70bbb11c7aee561f48" title="pipe_lock" alt="" coords="627,15,705,41"/>
+<area shape="rect" id="node5" href="$splice_8c.html#ab912d2c8e237406d4a2e6e31daa08d50" title="splice_from_pipe_begin" alt="" coords="193,217,352,244"/>
+<area shape="rect" id="node6" href="$splice_8c.html#a200cc516aba74fc3bea38b97c5ba98e9" title="splice_from_pipe_next" alt="" coords="197,65,349,92"/>
+<area shape="rect" id="node15" href="$pipe_8c.html#a62efee87ea4adec1ffb9b5b901f5f5ab" title="pipe_unlock" alt="" coords="621,65,711,92"/>
+<area shape="rect" id="node16" href="$read__write_8c.html#a524e79601c02490f6a0422e42d06e121" title="vfs_iter_write" alt="" coords="223,268,323,295"/>
+<area shape="rect" id="node23" href="$splice_8c.html#ab022061b0610efbfc985cdc174df41de" title="splice_from_pipe_end" alt="" coords="199,167,347,193"/>
+<area shape="rect" id="node24" href="$splice_8c.html#aed8d0eded3ac520e69b4a7f4dcac067a" title="EXPORT_SYMBOL" alt="" coords="203,319,342,345"/>
+<area shape="rect" id="node3" href="$pipe_8c.html#a984401e3f4bf9e82551af9f062a2cd02" title="pipe_lock_nested" alt="" coords="796,15,919,41"/>
+<area shape="rect" id="node4" href="$pipe_8c.html#af9a88fcab614fe914715bc865ec53616" title="EXPORT_SYMBOL" alt="" coords="788,65,927,92"/>
+<area shape="rect" id="node7" href="$splice_8c.html#ae67a9b0582450cb372a08f52e9d1af91" title="wakeup_pipe_writers" alt="" coords="400,167,544,193"/>
+<area shape="rect" id="node14" href="$pipe_8c.html#aed92895c4cd0e85a14dacc83660deb77" title="pipe_wait" alt="" coords="433,65,511,92"/>
+<area shape="rect" id="node8" href="$fcntl_8c.html#a5a434f3099ac49e16d362421dea0e9c1" title="kill_fasync" alt="" coords="624,167,708,193"/>
+<area shape="rect" id="node9" href="$fcntl_8c.html#ab439268f4e746f76f44faf97ef3af17e" title="kill_fasync_rcu" alt="" coords="803,167,912,193"/>
+<area shape="rect" id="node13" href="$fcntl_8c.html#a96260ad34b4946a4c5c22a19887f36d3" title="EXPORT_SYMBOL" alt="" coords="788,116,927,143"/>
+<area shape="rect" id="node10" href="$fcntl_8c.html#a7b4f7b330f707178ae5513573df6e29e" title="send_sigio" alt="" coords="975,167,1059,193"/>
+<area shape="rect" id="node11" href="$fcntl_8c.html#a3c961d893927e2fa472fb9de853ea225" title="send_sigio_to_task" alt="" coords="1107,167,1241,193"/>
+<area shape="rect" id="node12" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="1289,167,1375,193"/>
+<area shape="rect" id="node17" href="$read__write_8c.html#ac50de950a19bc336a8c56ebf099c544e" title="do_iter_write" alt="" coords="424,268,520,295"/>
+<area shape="rect" id="node22" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="403,319,541,345"/>
+<area shape="rect" id="node18" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="613,217,719,244"/>
+<area shape="rect" id="node20" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="595,268,737,295"/>
+<area shape="rect" id="node21" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="592,319,740,345"/>
+<area shape="rect" id="node19" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="797,217,918,244"/>
+</map>

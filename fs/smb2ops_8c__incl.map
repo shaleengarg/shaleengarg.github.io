@@ -1,0 +1,16 @@
+<map id="cifs/smb2ops.c" name="cifs/smb2ops.c">
+<area shape="rect" id="node8" href="$cifsglob_8h.html" title="cifsglob.h" alt="" coords="1027,80,1105,107"/>
+<area shape="rect" id="node20" href="$smb2pdu_8h.html" title="smb2pdu.h" alt="" coords="1395,162,1481,189"/>
+<area shape="rect" id="node25" href="$smb2proto_8h.html" title="smb2proto.h" alt="" coords="1753,80,1848,107"/>
+<area shape="rect" id="node28" href="$cifsproto_8h.html" title="cifsproto.h" alt="" coords="1646,80,1729,107"/>
+<area shape="rect" id="node29" href="$cifs__debug_8h.html" title="cifs_debug.h" alt="" coords="1873,80,1969,107"/>
+<area shape="rect" id="node30" href="$cifs__unicode_8h.html" title="cifs_unicode.h" alt="" coords="1515,80,1622,107"/>
+<area shape="rect" id="node33" href="$smb2status_8h.html" title="smb2status.h" alt="" coords="1993,80,2094,107"/>
+<area shape="rect" id="node34" href="$smb2glob_8h.html" title="smb2glob.h" alt="" coords="2119,80,2208,107"/>
+<area shape="rect" id="node35" href="$cifs__ioctl_8h.html" title="cifs_ioctl.h" alt="" coords="2233,80,2318,107"/>
+<area shape="rect" id="node36" href="$smbdirect_8h.html" title="smbdirect.h" alt="" coords="2342,80,2433,107"/>
+<area shape="rect" id="node14" href="$cifs__fs__sb_8h.html" title="cifs_fs_sb.h" alt="" coords="651,162,745,189"/>
+<area shape="rect" id="node17" href="$cifsacl_8h.html" title="cifsacl.h" alt="" coords="556,162,627,189"/>
+<area shape="rect" id="node22" href="$cifspdu_8h.html" title="cifspdu.h" alt="" coords="1190,162,1265,189"/>
+<area shape="rect" id="node24" href="$smbfsctl_8h.html" title="smbfsctl.h" alt="" coords="1083,244,1166,271"/>
+</map>

@@ -1,0 +1,25 @@
+var structudf__sb__info =
+[
+    [ "s_alloc_mutex", "structudf__sb__info.html#ad3fb5b78421440643112e4c50c36e770", null ],
+    [ "s_anchor", "structudf__sb__info.html#a209d562bb537294bf429ae7521a45646", null ],
+    [ "s_cred_lock", "structudf__sb__info.html#a3adff26779d53f025e5cd3ff62df98c1", null ],
+    [ "s_dmode", "structudf__sb__info.html#ad1b3c6a4b386d9dc883eb5563829dd25", null ],
+    [ "s_flags", "structudf__sb__info.html#a96c25665de33eb4aae1684cd18fb07ce", null ],
+    [ "s_fmode", "structudf__sb__info.html#a5055c639cfa3e9cb824dd9da5b7424bd", null ],
+    [ "s_gid", "structudf__sb__info.html#abe415a5e562940411ea65081e5e125b6", null ],
+    [ "s_last_block", "structudf__sb__info.html#ac400e6b251f6ee9de2bbd3c5c1ed7d11", null ],
+    [ "s_lvid_bh", "structudf__sb__info.html#ad0c648103a2205a1b660cfdfdcdf5385", null ],
+    [ "s_lvid_dirty", "structudf__sb__info.html#ab44982d0ee2a967edda531409cc2f292", null ],
+    [ "s_nls_map", "structudf__sb__info.html#a645dc03890d906c430071efa1e7e1646", null ],
+    [ "s_partition", "structudf__sb__info.html#a9849828cb32ccec0185dd0cf5f368d33", null ],
+    [ "s_partitions", "structudf__sb__info.html#ac9fc11892178eeada38c763699f0eaf0", null ],
+    [ "s_partmaps", "structudf__sb__info.html#addc4858d60d14917a8ce6f018c6dc38b", null ],
+    [ "s_record_time", "structudf__sb__info.html#a6449a6fb7afe0490d5c6cc8ea0de6bbf", null ],
+    [ "s_serial_number", "structudf__sb__info.html#afab04583f7e8204cf35aa6c66530b5fa", null ],
+    [ "s_session", "structudf__sb__info.html#aa306d0636b75442454ceef80eda87106", null ],
+    [ "s_udfrev", "structudf__sb__info.html#a5db6c22799847e6657ccda6bd7bc21ab", null ],
+    [ "s_uid", "structudf__sb__info.html#a4d904b28252256b8bc09f00d8a77e545", null ],
+    [ "s_umask", "structudf__sb__info.html#a915ec6c327e5048387932083b6aa0735", null ],
+    [ "s_vat_inode", "structudf__sb__info.html#a72328df068864e8bdc61fe0b7d8766ed", null ],
+    [ "s_volume_ident", "structudf__sb__info.html#adb34fcd2e001e84632bf985ba973e991", null ]
+];

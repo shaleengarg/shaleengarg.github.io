@@ -1,0 +1,6 @@
+<map id="nfs4_remove_reclaim_record" name="nfs4_remove_reclaim_record">
+<area shape="rect" id="node2" href="$state_8h.html#aac89912f9f6059379270a9e289105cf5" title="nfs4_release_reclaim" alt="" coords="203,31,349,57"/>
+<area shape="rect" id="node5" href="$nfs4recover_8c.html#a95e5567f776c0a013b1eca5f50f1833b" title="nfsd4_remove_clid_dir" alt="" coords="200,81,352,108"/>
+<area shape="rect" id="node3" href="$nfs4recover_8c.html#ad8e1fc6cc028edc6f7407d64e2f2d3a3" title="nfsd4_recdir_purge_old" alt="" coords="412,5,568,32"/>
+<area shape="rect" id="node4" href="$nfs4recover_8c.html#a7b4f3f0b3f9555dac6aac0acd04fc4b0" title="nfsd4_legacy_tracking_exit" alt="" coords="400,56,580,83"/>
+</map>

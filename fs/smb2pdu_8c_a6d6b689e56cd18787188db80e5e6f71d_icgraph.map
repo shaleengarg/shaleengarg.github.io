@@ -1,0 +1,6 @@
+<map id="SMB2_lease_break" name="SMB2_lease_break">
+<area shape="rect" id="node2" href="$smb2misc_8c.html#abbb19b540ee8855376e9dd30f14c9f0c" title="cifs_ses_oplock_break" alt="" coords="190,13,345,39"/>
+<area shape="rect" id="node5" href="$smb2ops_8c.html#a239c30decdf6348035116075a64c04ca" title="smb2_oplock_response" alt="" coords="188,63,347,90"/>
+<area shape="rect" id="node3" href="$smb2misc_8c.html#a387e4135d8231f9b10993cf1041547dd" title="smb2_is_valid_lease\l_break" alt="" coords="395,5,537,47"/>
+<area shape="rect" id="node4" href="$smb2proto_8h.html#acbfc23c12782b95b1b55279ade220b07" title="smb2_is_valid_oplock\l_break" alt="" coords="585,5,736,47"/>
+</map>

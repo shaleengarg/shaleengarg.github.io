@@ -1,0 +1,5 @@
+<map id="ocfs2_info_freefrag" name="ocfs2_info_freefrag">
+<area shape="rect" id="node2" href="$structocfs2__info__freefrag_1_1ocfs2__info__freefrag__stats.html" title="ocfs2_info_freefrag\l::ocfs2_info_freefrag_stats" alt="" coords="5,139,183,180"/>
+<area shape="rect" id="node3" href="$structocfs2__info__freefrag_1_1ocfs2__info__freefrag__stats_1_1ocfs2__info__free__chunk__list.html" title="ocfs2_info_freefrag\l::ocfs2_info_freefrag\l_stats::ocfs2_info_free\l_chunk_list" alt="" coords="17,5,171,76"/>
+<area shape="rect" id="node4" href="$structocfs2__info__request.html" title="ocfs2_info_request" alt="" coords="207,146,339,173"/>
+</map>

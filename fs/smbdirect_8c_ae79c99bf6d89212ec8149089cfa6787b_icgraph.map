@@ -1,0 +1,9 @@
+<map id="register_mr_done" name="register_mr_done">
+<area shape="rect" id="node2" href="$smbdirect_8c.html#afce12b177baf35c8c36f0d6d92fbcd84" title="smbd_register_mr" alt="" coords="176,56,303,83"/>
+<area shape="rect" id="node3" href="$smb2pdu_8c.html#a7cbb90f4db911d1d69aa7b1b36bf8b95" title="smb2_new_read_req" alt="" coords="351,31,493,57"/>
+<area shape="rect" id="node8" href="$smb2proto_8h.html#addf4bc8868e1e32f7f1dc7168f0a4260" title="smb2_async_writev" alt="" coords="353,81,491,108"/>
+<area shape="rect" id="node4" href="$smb2proto_8h.html#aa3db58ad1d0e43865b2756d59cfb89c4" title="smb2_async_readv" alt="" coords="541,5,676,32"/>
+<area shape="rect" id="node5" href="$smb2proto_8h.html#a35d88bf205b7e853576f71d48a60f13a" title="SMB2_read" alt="" coords="563,56,654,83"/>
+<area shape="rect" id="node6" href="$smb2proto_8h.html#a53f3a54a193b19727f3f397def1122ba" title="smb3_query_mf_symlink" alt="" coords="724,31,891,57"/>
+<area shape="rect" id="node7" href="$smb2ops_8c.html#aa6bc13d424b5131f738b3310796ebd9d" title="smb2_sync_read" alt="" coords="747,81,868,108"/>
+</map>

@@ -1,0 +1,25 @@
+var structsmb__com__transaction2__qpi__req =
+[
+    [ "ByteCount", "structsmb__com__transaction2__qpi__req.html#a9c16eb77706aae45418f9dbfa845807b", null ],
+    [ "DataCount", "structsmb__com__transaction2__qpi__req.html#a4e92725c3fdeba6c6a1b12482304fde4", null ],
+    [ "DataOffset", "structsmb__com__transaction2__qpi__req.html#a7e840b23abb6f4fe71f56a93a08a8ae5", null ],
+    [ "FileName", "structsmb__com__transaction2__qpi__req.html#a746ca4b57281a66421aa9fd63ef9c114", null ],
+    [ "Flags", "structsmb__com__transaction2__qpi__req.html#a5b8242fe6d7d6437ea77ac4a3d47b685", null ],
+    [ "hdr", "structsmb__com__transaction2__qpi__req.html#a7c238546afb82e5d04bcbc6d1aca4bf0", null ],
+    [ "InformationLevel", "structsmb__com__transaction2__qpi__req.html#a06e9e754e0b17a8be49a5683ed63af8c", null ],
+    [ "MaxDataCount", "structsmb__com__transaction2__qpi__req.html#afa2c53a2a6ad6ac266345700d1308c0f", null ],
+    [ "MaxParameterCount", "structsmb__com__transaction2__qpi__req.html#a04ee1daab754cfef63ae5fee65c10589", null ],
+    [ "MaxSetupCount", "structsmb__com__transaction2__qpi__req.html#a679d04b921a8624b19ee76f5bae24d32", null ],
+    [ "Pad", "structsmb__com__transaction2__qpi__req.html#a79f3ffe561a06ade8e48f703fc58cb44", null ],
+    [ "ParameterCount", "structsmb__com__transaction2__qpi__req.html#a42d0e1292ba344e73dee982d41565d7b", null ],
+    [ "ParameterOffset", "structsmb__com__transaction2__qpi__req.html#af5380096c3846dc0f8adbde468b6425c", null ],
+    [ "Reserved", "structsmb__com__transaction2__qpi__req.html#aae77812b1b289a8027dde514382b0f11", null ],
+    [ "Reserved2", "structsmb__com__transaction2__qpi__req.html#a713c51a6d97dabe8f729712c634b1cb1", null ],
+    [ "Reserved3", "structsmb__com__transaction2__qpi__req.html#a234685b4d341a2db9d98adafd5d894b9", null ],
+    [ "Reserved4", "structsmb__com__transaction2__qpi__req.html#a547d03e333ffc145258fd7509f150113", null ],
+    [ "SetupCount", "structsmb__com__transaction2__qpi__req.html#a555bd12e838150f5ab3ea1ef555bb45b", null ],
+    [ "SubCommand", "structsmb__com__transaction2__qpi__req.html#a688d0e18567f9729f910677071812e4a", null ],
+    [ "Timeout", "structsmb__com__transaction2__qpi__req.html#a4ff138bafe4a0a516aca414c93ecc26e", null ],
+    [ "TotalDataCount", "structsmb__com__transaction2__qpi__req.html#a0c13d19b9ec04d6efeafb98bea4da000", null ],
+    [ "TotalParameterCount", "structsmb__com__transaction2__qpi__req.html#a7a53b7ce6a7c1b77f84b0413d65f3cee", null ]
+];

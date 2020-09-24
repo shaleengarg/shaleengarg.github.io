@@ -1,0 +1,26 @@
+var sufile_8h =
+[
+    [ "nilfs_sufile_alloc", "sufile_8h.html#ae43422797775f081a1fe1fe6abef686f", null ],
+    [ "nilfs_sufile_cancel_freev", "sufile_8h.html#a9da8122c97b0bb9b56f5a85dbdad019b", null ],
+    [ "nilfs_sufile_do_cancel_free", "sufile_8h.html#aff87ff4257115842ff3c7940e5f8e769", null ],
+    [ "nilfs_sufile_do_free", "sufile_8h.html#a577d0d35a7907909b6c0a139d8cc1704", null ],
+    [ "nilfs_sufile_do_scrap", "sufile_8h.html#acad60c93c0f7f6c3a8a9dc843107f1ed", null ],
+    [ "nilfs_sufile_do_set_error", "sufile_8h.html#a7e943e59486cd6176a3317bed589b7c9", null ],
+    [ "nilfs_sufile_free", "sufile_8h.html#a67f76a7b0da53a061147b4a7f48e082d", null ],
+    [ "nilfs_sufile_freev", "sufile_8h.html#af210832d1efe1b482aa7522fc34e4372", null ],
+    [ "nilfs_sufile_get_ncleansegs", "sufile_8h.html#a50c0d7ff8c8bf821d281286007c39cd5", null ],
+    [ "nilfs_sufile_get_nsegments", "sufile_8h.html#a9c732ab29452414325bd9a1e70fe3978", null ],
+    [ "nilfs_sufile_get_stat", "sufile_8h.html#a3fef1b4dbdae6f60e2dc3b703969a3dd", null ],
+    [ "nilfs_sufile_get_suinfo", "sufile_8h.html#a479c51cdecafad05d22942c107b00c4f", null ],
+    [ "nilfs_sufile_mark_dirty", "sufile_8h.html#ae5c9db186be6baf07d66e049a0fd9b9b", null ],
+    [ "nilfs_sufile_read", "sufile_8h.html#a3ad0af8131357596ac729f04c3009e15", null ],
+    [ "nilfs_sufile_resize", "sufile_8h.html#ac9feb3258026bbd1136c545e911c5d91", null ],
+    [ "nilfs_sufile_scrap", "sufile_8h.html#afdd3e828fa8ffde5856b483f0c32c6f4", null ],
+    [ "nilfs_sufile_set_alloc_range", "sufile_8h.html#ac0bd62c3d3681b821085c55c413aa1bb", null ],
+    [ "nilfs_sufile_set_error", "sufile_8h.html#aa5623f31382355a7f576224994d7e571", null ],
+    [ "nilfs_sufile_set_segment_usage", "sufile_8h.html#ac6379742426c30d02072b1a5b0f527f8", null ],
+    [ "nilfs_sufile_set_suinfo", "sufile_8h.html#abc30bf95562e00949a44b244e3088687", null ],
+    [ "nilfs_sufile_trim_fs", "sufile_8h.html#a202058a1d5a7ee3658e8e7cda1ffee37", null ],
+    [ "nilfs_sufile_update", "sufile_8h.html#a954be8e038b533c82c78cf5250e56cbe", null ],
+    [ "nilfs_sufile_updatev", "sufile_8h.html#a4f79159d2c1037184f20a9ed3a5f410a", null ]
+];

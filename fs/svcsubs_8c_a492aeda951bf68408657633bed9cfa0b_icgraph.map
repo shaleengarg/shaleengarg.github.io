@@ -1,0 +1,7 @@
+<map id="nlmsvc_free_host_resources" name="nlmsvc_free_host_resources">
+<area shape="rect" id="node2" href="$host_8c.html#a7b3aa5a8da6db14462d5e03f54a38f4a" title="nlm_host_rebooted" alt="" coords="253,31,385,57"/>
+<area shape="rect" id="node5" href="$svc4proc_8c.html#a03d7e13b326e7543d07ef86f817fc544" title="nlm4svc_proc_free_all" alt="" coords="243,81,395,108"/>
+<area shape="rect" id="node6" href="$svcproc_8c.html#ad67e37e144d6b24206563693b96daa94" title="nlmsvc_proc_free_all" alt="" coords="246,132,391,159"/>
+<area shape="rect" id="node3" href="$svc4proc_8c.html#a2c797bff1065843040c85a72eefd904b" title="nlm4svc_proc_sm_notify" alt="" coords="443,5,609,32"/>
+<area shape="rect" id="node4" href="$svcproc_8c.html#aa6252f981fb1ec60077826d0634760ff" title="nlmsvc_proc_sm_notify" alt="" coords="446,56,606,83"/>
+</map>

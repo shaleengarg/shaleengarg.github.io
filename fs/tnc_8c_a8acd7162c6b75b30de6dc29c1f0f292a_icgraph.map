@@ -1,0 +1,10 @@
+<map id="ubifs_tnc_lookup_nm" name="ubifs_tnc_lookup_nm">
+<area shape="rect" id="node2" href="$ubifs_2xattr_8c.html#a2c0f8e28d408b8e89b4ce7d6047af912" title="ubifs_xattr_set" alt="" coords="199,69,307,96"/>
+<area shape="rect" id="node3" href="$ubifs_2xattr_8c.html#ab1059c832c48181a6da6627bc5e9a1a7" title="ubifs_xattr_remove" alt="" coords="369,5,502,32"/>
+<area shape="rect" id="node6" href="$ubifs_2xattr_8c.html#adc7f16a5925850bf7a2213ebdc967f53" title="ubifs_xattr_get" alt="" coords="199,132,307,159"/>
+<area shape="rect" id="node9" href="$ubifs_2dir_8c.html#a8dc2bbda1e215c0244b42efb9a70f710" title="ubifs_lookup" alt="" coords="205,183,300,209"/>
+<area shape="rect" id="node4" href="$ubifs_2xattr_8c.html#a77418f005715889cfa65e2645c52415e" title="xattr_set" alt="" coords="564,31,637,57"/>
+<area shape="rect" id="node5" href="$ubifs_2crypto_8c.html#a4984848c1f6ebc630f98d30a9bbf2ed3" title="ubifs_crypt_set_context" alt="" coords="355,107,516,133"/>
+<area shape="rect" id="node7" href="$ubifs_2xattr_8c.html#aed8808755ba0bc84198b8ddc11f6f17e" title="xattr_get" alt="" coords="399,157,472,184"/>
+<area shape="rect" id="node8" href="$ubifs_2crypto_8c.html#a1be1406026170efd0b6b0c542f2e71b9" title="ubifs_crypt_get_context" alt="" coords="355,208,516,235"/>
+</map>

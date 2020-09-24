@@ -1,0 +1,13 @@
+<map id="SYSCALL_DEFINE4" name="SYSCALL_DEFINE4">
+<area shape="rect" id="node2" href="$timerfd_8c.html#a7f4b73293ab79cdb90e7505cfa6874db" title="do_timerfd_settime" alt="" coords="200,107,333,133"/>
+<area shape="rect" id="node3" href="$timerfd_8c.html#a47d03f9d36421eb153c6e46871c97886" title="timerfd_fget" alt="" coords="411,5,502,32"/>
+<area shape="rect" id="node4" href="$timerfd_8c.html#a03d04798a30d6c89919f54645cdae3d5" title="isalarm" alt="" coords="633,56,697,83"/>
+<area shape="rect" id="node5" href="$timerfd_8c.html#aa6413487ae09fa3f7d8a4fd217b77fec" title="timerfd_setup_cancel" alt="" coords="383,233,530,260"/>
+<area shape="rect" id="node7" href="$timerfd_8c.html#ade62dfce8be7ce165cd40c77c5177298" title="timerfd_get_remaining" alt="" coords="381,107,532,133"/>
+<area shape="rect" id="node8" href="$timerfd_8c.html#a7ef8b97c496aa877aa94b4c7d7896d02" title="timerfd_setup" alt="" coords="406,157,507,184"/>
+<area shape="rect" id="node6" href="$timerfd_8c.html#ababc424eb150b11a22834b7e30952dba" title="__timerfd_remove_cancel" alt="" coords="580,259,751,285"/>
+<area shape="rect" id="node9" href="$timerfd_8c.html#a8d2081d176a79045f67b36b6931c0420" title="timerfd_alarmproc" alt="" coords="602,107,729,133"/>
+<area shape="rect" id="node11" href="$timerfd_8c.html#af968d922002f186dd0d5e5f109901a11" title="timerfd_tmrproc" alt="" coords="609,157,722,184"/>
+<area shape="rect" id="node12" href="$timerfd_8c.html#a86f23d0b10dfbe2cee27cb4ce5876475" title="timerfd_canceled" alt="" coords="605,208,726,235"/>
+<area shape="rect" id="node10" href="$timerfd_8c.html#a5ae80ea6a796bb0051b1dd675686c781" title="timerfd_triggered" alt="" coords="799,132,917,159"/>
+</map>

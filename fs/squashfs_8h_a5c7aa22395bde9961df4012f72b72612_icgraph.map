@@ -1,0 +1,7 @@
+<map id="squashfs_iget" name="squashfs_iget">
+<area shape="rect" id="node2" href="$squashfs_2namei_8c.html#afc6162718ffce8795bb052703654e572" title="squashfs_lookup" alt="" coords="169,5,289,32"/>
+<area shape="rect" id="node3" href="$squashfs_2export_8c.html#aaaa8d6979b380cf19b3029966f8cc9f8" title="squashfs_export_iget" alt="" coords="156,56,303,83"/>
+<area shape="rect" id="node4" href="$squashfs_2export_8c.html#ad6a74adca0b19633927b82b5845bbddb" title="squashfs_fh_to_dentry" alt="" coords="351,5,505,32"/>
+<area shape="rect" id="node5" href="$squashfs_2export_8c.html#a9a2ed84879abb802d46526a32e18859f" title="squashfs_fh_to_parent" alt="" coords="351,56,505,83"/>
+<area shape="rect" id="node6" href="$squashfs_2export_8c.html#a1d75260b97e4c291f52d2b716b8fb746" title="squashfs_get_parent" alt="" coords="357,107,499,133"/>
+</map>

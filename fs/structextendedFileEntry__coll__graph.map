@@ -1,0 +1,8 @@
+<map id="extendedFileEntry" name="extendedFileEntry">
+<area shape="rect" id="node2" href="$structicbtag.html" title="icbtag" alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" href="$structlb__addr.html" title="lb_addr" alt="" coords="57,5,121,32"/>
+<area shape="rect" id="node6" href="$structlong__ad.html" title="long_ad" alt="" coords="119,95,186,121"/>
+<area shape="rect" id="node4" href="$structtag.html" title="tag" alt="" coords="279,95,319,121"/>
+<area shape="rect" id="node5" href="$structregid.html" title="regid" alt="" coords="359,95,410,121"/>
+<area shape="rect" id="node7" href="$structtimestamp.html" title="timestamp" alt="" coords="434,95,517,121"/>
+</map>

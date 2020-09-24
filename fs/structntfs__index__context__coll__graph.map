@@ -1,0 +1,8 @@
+<map id="ntfs_index_context" name="ntfs_index_context">
+<area shape="rect" id="node2" href="$structntfs__attr__search__ctx.html" title="ntfs_attr_search_ctx" alt="" coords="159,307,301,333"/>
+<area shape="rect" id="node3" href="$struct__ntfs__inode.html" title="_ntfs_inode" alt="" coords="63,200,152,227"/>
+<area shape="rect" id="node4" href="$structntfs__volume.html" title="ntfs_volume" alt="" coords="11,95,105,121"/>
+<area shape="rect" id="node5" href="$structsuper__block.html" title="super_block" alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node6" href="$structrunlist.html" title="runlist" alt="" coords="141,95,199,121"/>
+<area shape="rect" id="node7" href="$structrunlist__element.html" title="runlist_element" alt="" coords="121,5,232,32"/>
+</map>

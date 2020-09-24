@@ -1,0 +1,5 @@
+<map id="afs_xdr_dir_page" name="afs_xdr_dir_page">
+<area shape="rect" id="node2" href="$unionafs__xdr__dir__block.html" title="afs_xdr_dir_block" alt="" coords="61,95,185,121"/>
+<area shape="rect" id="node3" href="$unionafs__xdr__dirent.html" title="afs_xdr_dirent" alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node4" href="$structafs__xdr__dir__hdr.html" title="afs_xdr_dir_hdr" alt="" coords="134,5,245,32"/>
+</map>

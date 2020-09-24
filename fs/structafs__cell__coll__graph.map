@@ -1,0 +1,12 @@
+<map id="afs_cell" name="afs_cell">
+<area shape="rect" id="node3" href="$structafs__net.html" title="afs_net" alt="" coords="270,184,335,211"/>
+<area shape="rect" id="node2" href="$structafs__addr__list.html" title="afs_addr_list" alt="" coords="271,5,367,32"/>
+<area shape="rect" id="node10" href="$structafs__server.html" title="afs_server" alt="" coords="615,95,697,121"/>
+<area shape="rect" id="node7" href="$structafs__call.html" title="afs_call" alt="" coords="513,273,580,300"/>
+<area shape="rect" id="node4" href="$structproc__dir__entry.html" title="proc_dir_entry" alt="" coords="227,95,331,121"/>
+<area shape="rect" id="node5" href="$structafs__sysnames.html" title="afs_sysnames" alt="" coords="5,95,112,121"/>
+<area shape="rect" id="node6" href="$structafs__uuid.html" title="afs_uuid" alt="" coords="422,5,493,32"/>
+<area shape="rect" id="node8" href="$structafs__cb__interest.html" title="afs_cb_interest" alt="" coords="491,184,602,211"/>
+<area shape="rect" id="node9" href="$structsuper__block.html" title="super_block" alt="" coords="498,95,590,121"/>
+<area shape="rect" id="node11" href="$structafs__call__type.html" title="afs_call_type" alt="" coords="744,184,843,211"/>
+</map>

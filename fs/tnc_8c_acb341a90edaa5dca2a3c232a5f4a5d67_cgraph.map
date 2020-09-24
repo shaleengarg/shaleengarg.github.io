@@ -1,0 +1,28 @@
+<map id="resolve_collision_directly" name="resolve_collision_directly">
+<area shape="rect" id="node2" href="$tnc_8c.html#a7f9cf8fc929db321a999947190bbbe2a" title="matches_position" alt="" coords="220,334,344,361"/>
+<area shape="rect" id="node3" href="$tnc_8c.html#ad078bd3a3bb09883e602d4c2add8267e" title="tnc_prev" alt="" coords="246,385,318,412"/>
+<area shape="rect" id="node25" href="$key_8h.html#a6395510bfa3e62eff60652c9624180e1" title="keys_cmp" alt="" coords="848,518,931,545"/>
+<area shape="rect" id="node27" href="$tnc_8c.html#aa6a0a93befc7348c0e11ee3a038d8d81" title="tnc_next" alt="" coords="246,436,318,462"/>
+<area shape="rect" id="node4" href="$tnc_8c.html#ad6989d53af75d6eb9a7b78f6335d3437" title="get_znode" alt="" coords="392,385,475,412"/>
+<area shape="rect" id="node5" href="$tnc__misc_8c.html#a59f2b6d42e83b9a23712bb251112eb1b" title="ubifs_load_znode" alt="" coords="523,378,645,405"/>
+<area shape="rect" id="node6" href="$tnc__misc_8c.html#a8022243db51d1b7cef9ec4ff22bc0f3a" title="read_znode" alt="" coords="693,366,783,393"/>
+<area shape="rect" id="node7" href="$ubifs_2io_8c.html#ab1c29d586db30bacfa2c9a73369a8870" title="ubifs_read_node" alt="" coords="831,113,948,140"/>
+<area shape="rect" id="node10" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="1197,113,1269,140"/>
+<area shape="rect" id="node12" href="$ubifs_2debug_8c.html#a21f9fd19dbd716216a94f656bba5e3e0" title="ubifs_dump_node" alt="" coords="1171,164,1295,190"/>
+<area shape="rect" id="node17" href="$key_8h.html#a5611c13d648e672825da064c90c8903a" title="key_read" alt="" coords="1366,265,1441,292"/>
+<area shape="rect" id="node19" href="$key_8h.html#a06f47822510ef850cb7065778115453c" title="key_type" alt="" coords="1525,366,1599,393"/>
+<area shape="rect" id="node24" href="$misc_8h.html#a1598cadb907a20f9e5dc3e7ee74edb1d" title="ubifs_idx_branch" alt="" coords="1343,316,1463,342"/>
+<area shape="rect" id="node26" href="$key_8h.html#a391b7c6e47045b125899fd494b93b2ed" title="is_hash_key" alt="" coords="1012,468,1107,494"/>
+<area shape="rect" id="node8" href="$ubifs_2debug_8c.html#a1bb9ed2a2e382da8b419ce5d2a772b81" title="dbg_ntype" alt="" coords="1521,12,1603,38"/>
+<area shape="rect" id="node9" href="$ubifs_2io_8c.html#ab6a2a3c4a79d6d4c52350540437d3cb3" title="ubifs_leb_read" alt="" coords="1006,62,1113,89"/>
+<area shape="rect" id="node11" href="$ubifs_2io_8c.html#ab9b2f0cc24eff9f69bd606979eb3a53e" title="ubifs_check_node" alt="" coords="996,113,1123,140"/>
+<area shape="rect" id="node13" href="$ubifs_2debug_8c.html#a40190f9f60ac94040c30dbd97c73a3ca" title="dump_ch" alt="" coords="1366,62,1441,89"/>
+<area shape="rect" id="node15" href="$ubifs_2debug_8c.html#a4b30ad73e46b72b5043aa4efa7fb8d9a" title="get_key_hash" alt="" coords="1352,113,1455,140"/>
+<area shape="rect" id="node16" href="$ubifs_2debug_8c.html#af1196269cd9c24affacc60e33f960f49" title="get_key_fmt" alt="" coords="1356,164,1451,190"/>
+<area shape="rect" id="node18" href="$ubifs_2debug_8c.html#a33e36c49b5c19585e6cdb24955d1e937" title="dbg_snprintf_key" alt="" coords="1343,214,1464,241"/>
+<area shape="rect" id="node14" href="$ubifs_2debug_8c.html#a0137ecd738390d71f938f27be78c4477" title="dbg_gtype" alt="" coords="1521,62,1603,89"/>
+<area shape="rect" id="node20" href="$key_8h.html#a4a12b97ed78e138baf7886a6df7ed50f" title="key_inum" alt="" coords="1523,138,1601,165"/>
+<area shape="rect" id="node21" href="$ubifs_2debug_8c.html#ad6af0af711fdb082f6df4eaeb4d82fe6" title="get_key_type" alt="" coords="1512,189,1612,216"/>
+<area shape="rect" id="node22" href="$key_8h.html#acddf1ca88d72a37e06c5c608cd084656" title="key_hash" alt="" coords="1523,240,1601,266"/>
+<area shape="rect" id="node23" href="$key_8h.html#a10c13375b52dbb12be6f9b685d1d1ba7" title="key_block" alt="" coords="1521,290,1603,317"/>
+</map>

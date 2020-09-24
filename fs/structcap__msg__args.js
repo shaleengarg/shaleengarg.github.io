@@ -1,0 +1,27 @@
+var structcap__msg__args =
+[
+    [ "caps", "structcap__msg__args.html#a8116f9a31e90239e0302ff56a2478c17", null ],
+    [ "cid", "structcap__msg__args.html#a0b2a0b19bb674121a10c58653cc80f47", null ],
+    [ "ctime", "structcap__msg__args.html#aa7e6570d5f20c0c813b52182388f689a", null ],
+    [ "dirty", "structcap__msg__args.html#a7c705eaa98c4e054da9c7d831f3555aa", null ],
+    [ "flags", "structcap__msg__args.html#a84ab1ca5312c33210c28c589f311d8c7", null ],
+    [ "flush_tid", "structcap__msg__args.html#ad167497c68cfa7da91afd423a17bf7b9", null ],
+    [ "follows", "structcap__msg__args.html#a8c6cd042e8e989cf52ffe638081ea5ae", null ],
+    [ "gid", "structcap__msg__args.html#ae8bbacf25820dbfb90902d923e7f0070", null ],
+    [ "inline_data", "structcap__msg__args.html#a3de5e151513b8d959a17d2e60c488628", null ],
+    [ "ino", "structcap__msg__args.html#aae4659fa2637afbd51eaf5a71419a706", null ],
+    [ "issue_seq", "structcap__msg__args.html#a38c2be18dc213ee429c1103b302971c2", null ],
+    [ "max_size", "structcap__msg__args.html#a704e41ee388094ce4cca75b28653c4a2", null ],
+    [ "mode", "structcap__msg__args.html#a45196575fdda7047868f9f70a66848d2", null ],
+    [ "mseq", "structcap__msg__args.html#a161119573bd311dea015487b7726d16c", null ],
+    [ "oldest_flush_tid", "structcap__msg__args.html#a69601a8aaae0d49cfa9df978f02eedd8", null ],
+    [ "op", "structcap__msg__args.html#aebb8ae226158a656539f80a0a399913a", null ],
+    [ "seq", "structcap__msg__args.html#a29a18558d3b6f04f77e8a9c6b82eebae", null ],
+    [ "session", "structcap__msg__args.html#a6fa693c48921a5d7193c18d8210db26b", null ],
+    [ "size", "structcap__msg__args.html#aa23d3cfa1ebdade1e18a7ffb6805336a", null ],
+    [ "time_warp_seq", "structcap__msg__args.html#a1cc42384061b432018686f703a19bb24", null ],
+    [ "uid", "structcap__msg__args.html#a7090a53f5215030f8ab906f003f586f9", null ],
+    [ "wanted", "structcap__msg__args.html#a15cc2f1eae355b56c8e13ae98ba35d5c", null ],
+    [ "xattr_buf", "structcap__msg__args.html#ad4b490c636a700b419bf9f37931c6d60", null ],
+    [ "xattr_version", "structcap__msg__args.html#a641f5b10f17fa3a39c1dbce3800a103d", null ]
+];

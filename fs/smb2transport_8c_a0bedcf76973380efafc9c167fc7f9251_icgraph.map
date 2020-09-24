@@ -1,0 +1,5 @@
+<map id="smb3_crypto_shash_allocate" name="smb3_crypto_shash_allocate">
+<area shape="rect" id="node2" href="$smb2transport_8c.html#ac5d9e0ebb66ea3f8411d056ece79be28" title="generate_key" alt="" coords="244,5,344,32"/>
+<area shape="rect" id="node3" href="$smb2transport_8c.html#ad221c516f8afe676a61fb20e656e60ea" title="generate_smb3signingkey" alt="" coords="392,5,565,32"/>
+<area shape="rect" id="node4" href="$smb2transport_8c.html#a5cc846217f4b3023d17f87fbf5819903" title="generate_smb30signingkey" alt="" coords="613,5,793,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="timerfd_tmrproc" name="timerfd_tmrproc">
+<area shape="rect" id="node2" href="$timerfd_8c.html#a7ef8b97c496aa877aa94b4c7d7896d02" title="timerfd_setup" alt="" coords="167,31,268,57"/>
+<area shape="rect" id="node3" href="$timerfd_8c.html#a7f4b73293ab79cdb90e7505cfa6874db" title="do_timerfd_settime" alt="" coords="316,31,449,57"/>
+<area shape="rect" id="node4" href="$timerfd_8c.html#a287a6ff8eb55264a31f73313239fd416" title="SYSCALL_DEFINE4" alt="" coords="497,5,644,32"/>
+<area shape="rect" id="node5" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="497,56,644,83"/>
+</map>

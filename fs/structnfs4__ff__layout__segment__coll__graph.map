@@ -1,0 +1,10 @@
+<map id="nfs4_ff_layout_segment" name="nfs4_ff_layout_segment">
+<area shape="rect" id="node2" href="$structnfs4__ff__layout__mirror.html" title="nfs4_ff_layout_mirror" alt="" coords="211,199,355,225"/>
+<area shape="rect" id="node3" href="$structnfs4__ff__layout__ds.html" title="nfs4_ff_layout_ds" alt="" coords="146,95,271,121"/>
+<area shape="rect" id="node4" href="$structnfs4__ff__ds__version.html" title="nfs4_ff_ds_version" alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node5" href="$structnfs4__pnfs__ds.html" title="nfs4_pnfs_ds" alt="" coords="161,5,261,32"/>
+<area shape="rect" id="node6" href="$structnfs4__ff__layoutstat.html" title="nfs4_ff_layoutstat" alt="" coords="296,95,423,121"/>
+<area shape="rect" id="node7" href="$structnfs4__ff__busy__timer.html" title="nfs4_ff_busy_timer" alt="" coords="290,5,423,32"/>
+<area shape="rect" id="node8" href="$structnfs4__ff__io__stat.html" title="nfs4_ff_io_stat" alt="" coords="448,5,556,32"/>
+<area shape="rect" id="node9" href="$structpnfs__layout__segment.html" title="pnfs_layout_segment" alt="" coords="379,199,526,225"/>
+</map>

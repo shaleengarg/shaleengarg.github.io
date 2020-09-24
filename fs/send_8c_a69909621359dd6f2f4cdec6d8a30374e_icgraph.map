@@ -1,0 +1,12 @@
+<map id="record_new_ref" name="record_new_ref">
+<area shape="rect" id="node2" href="$send_8c.html#ae1a9df8fddfcc2ccf4b14625e323c762" title="changed_ref" alt="" coords="164,56,257,83"/>
+<area shape="rect" id="node3" href="$send_8c.html#abe3b8e4f248db44c5a9b828c4aac5fb8" title="changed_cb" alt="" coords="305,56,397,83"/>
+<area shape="rect" id="node4" href="$ctree_8h.html#a5257b08c1179846a4b187072dc75a499" title="btrfs_compare_trees" alt="" coords="445,5,587,32"/>
+<area shape="rect" id="node5" href="$send_8c.html#a0870601d54997017a637c49d5ee5c970" title="send_subvol" alt="" coords="635,56,729,83"/>
+<area shape="rect" id="node11" href="$send_8c.html#a3d90320d85aa2a92ced82c1d85ea00f5" title="full_send_tree" alt="" coords="465,107,567,133"/>
+<area shape="rect" id="node6" href="$send_8c.html#a63f24a806681201190dbe5f61f82f8dc" title="btrfs_ioctl_send" alt="" coords="777,56,892,83"/>
+<area shape="rect" id="node7" href="$btrfs_2ioctl_8c.html#a632ddddcbd50906d82dffb535fc7c24a" title="_btrfs_ioctl_send" alt="" coords="940,56,1061,83"/>
+<area shape="rect" id="node8" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="1109,56,1188,83"/>
+<area shape="rect" id="node9" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1236,56,1411,83"/>
+<area shape="rect" id="node10" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1459,56,1556,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sysv_inode_by_name" name="sysv_inode_by_name">
+<area shape="rect" id="node2" href="$sysv_2dir_8c.html#a1a6ac0628949b7856ce1eeb976796a25" title="sysv_find_entry" alt="" coords="201,107,316,133"/>
+<area shape="rect" id="node6" href="$sysv_2dir_8c.html#a8a2518c7127aa9d817bd805d7c6794ba" title="dir_put_page" alt="" coords="368,157,464,184"/>
+<area shape="rect" id="node7" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="212,208,305,235"/>
+<area shape="rect" id="node9" href="$sysv_8h.html#a2dfcaee4ffddb74513a544af9944900f" title="SYSV_SB" alt="" coords="217,259,300,285"/>
+<area shape="rect" id="node3" href="$sysv_8h.html#a571acc395abc4a0de4d20ecd57d4f69f" title="SYSV_I" alt="" coords="381,5,451,32"/>
+<area shape="rect" id="node4" href="$sysv_2dir_8c.html#a6202d41231b7e58d85c2916a087582a4" title="dir_get_page" alt="" coords="368,56,464,83"/>
+<area shape="rect" id="node5" href="$sysv_2dir_8c.html#a1d6dd19f2742c5ea7ea3c67bbb4e5d33" title="namecompare" alt="" coords="364,107,468,133"/>
+<area shape="rect" id="node8" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="375,208,457,235"/>
+</map>

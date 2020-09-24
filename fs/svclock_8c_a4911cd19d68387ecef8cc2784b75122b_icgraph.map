@@ -1,0 +1,5 @@
+<map id="nlmsvc_find_block" name="nlmsvc_find_block">
+<area shape="rect" id="node2" href="$svclock_8c.html#aa1636e1f469c598258f8eaef0ee4e8d4" title="nlmsvc_grant_reply" alt="" coords="184,31,319,57"/>
+<area shape="rect" id="node3" href="$svc4proc_8c.html#a8760dc8e6c226f7b42e2def66e318267" title="nlm4svc_proc_granted_res" alt="" coords="367,5,545,32"/>
+<area shape="rect" id="node4" href="$svcproc_8c.html#af05bcd92317b70dab21eb58a05378fcc" title="nlmsvc_proc_granted_res" alt="" coords="371,56,541,83"/>
+</map>

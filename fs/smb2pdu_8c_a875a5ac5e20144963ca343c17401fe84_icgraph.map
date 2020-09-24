@@ -1,0 +1,7 @@
+<map id="build_qfs_info_req" name="build_qfs_info_req">
+<area shape="rect" id="node2" href="$smb2proto_8h.html#aa012f303d2c4ba69cfc451732a45c5b6" title="SMB2_QFS_info" alt="" coords="180,5,300,32"/>
+<area shape="rect" id="node4" href="$smb2proto_8h.html#a7419d51a354a8b7bbd842195edff4761" title="SMB2_QFS_attr" alt="" coords="181,56,299,83"/>
+<area shape="rect" id="node3" href="$smb2ops_8c.html#aae78df5669f304a9cac8cbb4c396a489" title="smb2_queryfs" alt="" coords="351,5,455,32"/>
+<area shape="rect" id="node5" href="$smb2ops_8c.html#a895b8525ab203832d8d7c91715fe79f9" title="smb3_qfs_tcon" alt="" coords="348,56,459,83"/>
+<area shape="rect" id="node6" href="$smb2ops_8c.html#addc44ef2e71fa8697c91a2ffae51dcf8" title="smb2_qfs_tcon" alt="" coords="348,107,459,133"/>
+</map>

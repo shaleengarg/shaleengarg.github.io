@@ -1,0 +1,6 @@
+<map id="vfs_statx_fd" name="vfs_statx_fd">
+<area shape="rect" id="node2" href="$stat_8c.html#ad39ab79cf717f7ada99af52086fd5aab" title="vfs_getattr" alt="" coords="148,107,232,133"/>
+<area shape="rect" id="node5" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="605,81,744,108"/>
+<area shape="rect" id="node3" href="$stat_8c.html#a56b3cf083c0db2c09e456a6dbdb091e4" title="vfs_getattr_nosec" alt="" coords="280,56,407,83"/>
+<area shape="rect" id="node4" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="455,5,557,32"/>
+</map>

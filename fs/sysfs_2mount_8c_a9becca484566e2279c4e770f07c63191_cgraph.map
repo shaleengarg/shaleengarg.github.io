@@ -1,0 +1,24 @@
+<map id="sysfs_init" name="sysfs_init">
+<area shape="rect" id="node2" href="$kernfs_2dir_8c.html#aac6340a5785bfaca5db00dc495e0f910" title="kernfs_create_root" alt="" coords="321,208,452,235"/>
+<area shape="rect" id="node8" href="$filesystems_8c.html#a12c8edd3583d48417f03f189e05dd601" title="register_filesystem" alt="" coords="135,259,267,285"/>
+<area shape="rect" id="node11" href="$kernfs_2dir_8c.html#a3737ae4e9e2bd0b23e47300e3f454805" title="kernfs_destroy_root" alt="" coords="132,157,269,184"/>
+<area shape="rect" id="node3" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="985,259,1071,285"/>
+<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#a5c9162a4e00b6680761a79f1fa09f1d9" title="__kernfs_new_node" alt="" coords="504,208,643,235"/>
+<area shape="rect" id="node5" href="$kernfs_2dir_8c.html#ac8e62bd0f889875ae9a0927152d41f02" title="kernfs_activate" alt="" coords="518,56,629,83"/>
+<area shape="rect" id="node6" href="$kernfs_2dir_8c.html#a749ff169849c5f052ed52fba9566f21b" title="kernfs_next_descendant_post" alt="" coords="691,5,887,32"/>
+<area shape="rect" id="node7" href="$kernfs_2dir_8c.html#a7af97551f3cd7e2c5757ffbefc010500" title="kernfs_leftmost_descendant" alt="" coords="935,31,1121,57"/>
+<area shape="rect" id="node9" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="331,259,442,285"/>
+<area shape="rect" id="node10" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="317,309,456,336"/>
+<area shape="rect" id="node12" href="$kernfs_2dir_8c.html#a51e3059b6c684b7fb691bb5194baf789" title="kernfs_remove" alt="" coords="333,157,441,184"/>
+<area shape="rect" id="node13" href="$kernfs_2dir_8c.html#a2bfa6dd0e04519cb9a8b150441ddd984" title="__kernfs_remove" alt="" coords="512,157,635,184"/>
+<area shape="rect" id="node14" href="$kernfs_2dir_8c.html#a1ec4cfdb172541809c1aa2517b005b6e" title="kernfs_active" alt="" coords="978,309,1078,336"/>
+<area shape="rect" id="node15" href="$kernfs_2dir_8c.html#a69687e23cff9011ddd1f323ed2caeb0f" title="kernfs_get" alt="" coords="747,107,830,133"/>
+<area shape="rect" id="node17" href="$kernfs_2dir_8c.html#a6c02a5cdb918dd07cbe3da520511f797" title="kernfs_drain" alt="" coords="742,360,835,387"/>
+<area shape="rect" id="node22" href="$kernfs_2dir_8c.html#ab9c32c4cbed301d4a134bc05e9a6239d" title="kernfs_unlink_sibling" alt="" coords="717,157,860,184"/>
+<area shape="rect" id="node23" href="$kernfs_2dir_8c.html#a0fa26a8121d6ead6516f80c975e91352" title="kernfs_put" alt="" coords="747,208,830,235"/>
+<area shape="rect" id="node16" href="$fat_2dir_8c.html#a59ee3c6473393c9dde28f7c59e81446b" title="EXPORT_SYMBOL_GPL" alt="" coords="942,132,1114,159"/>
+<area shape="rect" id="node18" href="$kernfs_2dir_8c.html#a11cf3bfb36050dd88b5c5b271164f527" title="kernfs_lockdep" alt="" coords="973,360,1083,387"/>
+<area shape="rect" id="node19" href="$kernfs_2file_8c.html#a92ee2b578e3ad2cb7fc3403bcbfa7440" title="kernfs_drain_open_files" alt="" coords="949,411,1107,437"/>
+<area shape="rect" id="node20" href="$kernfs_2file_8c.html#a10feb2b0255f9a9fbb140c3c288f1265" title="kernfs_release_file" alt="" coords="1181,385,1311,412"/>
+<area shape="rect" id="node21" href="$kernfs_2file_8c.html#aa6bb7ef71d94f030a9f3f37557ec540a" title="kernfs_put_open_node" alt="" coords="1169,436,1323,463"/>
+</map>

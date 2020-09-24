@@ -1,0 +1,6 @@
+<map id="get_znodes_to_commit" name="get_znodes_to_commit">
+<area shape="rect" id="node2" href="$tnc__commit_8c.html#ad50b2f657e8580a4de9d921e8866a3b9" title="find_first_dirty" alt="" coords="365,21,469,48"/>
+<area shape="rect" id="node4" href="$misc_8h.html#a21390e9f6e0627bc617f177cee88fad7" title="ubifs_zn_cow" alt="" coords="213,21,315,48"/>
+<area shape="rect" id="node5" href="$tnc__commit_8c.html#a38afc10e5e3f36e9ef617ceeb9e74871" title="find_next_dirty" alt="" coords="211,72,317,99"/>
+<area shape="rect" id="node3" href="$misc_8h.html#abe5c86108a05199a899138767ca1f42a" title="ubifs_zn_dirty" alt="" coords="517,47,620,73"/>
+</map>

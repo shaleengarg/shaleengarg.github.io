@@ -1,0 +1,10 @@
+<map id="mid_q_entry" name="mid_q_entry">
+<area shape="rect" id="node6" href="$structsmb__version__operations.html" title="smb_version_operations" alt="" coords="103,153,265,180"/>
+<area shape="rect" id="node2" href="$structTCP__Server__Info.html" title="TCP_Server_Info" alt="" coords="383,243,505,269"/>
+<area shape="rect" id="node3" href="$structcifs__secmech.html" title="cifs_secmech" alt="" coords="290,153,393,180"/>
+<area shape="rect" id="node4" href="$structsdesc.html" title="sdesc" alt="" coords="321,5,378,32"/>
+<area shape="rect" id="node5" href="$structsmb__version__values.html" title="smb_version_values" alt="" coords="417,153,559,180"/>
+<area shape="rect" id="node7" href="$structcifs__ntsd.html" title="cifs_ntsd" alt="" coords="192,5,267,32"/>
+<area shape="rect" id="node8" href="$structsession__key.html" title="session_key" alt="" coords="583,153,678,180"/>
+<area shape="rect" id="node9" href="$structsmbd__connection.html" title="smbd_connection" alt="" coords="702,153,826,180"/>
+</map>

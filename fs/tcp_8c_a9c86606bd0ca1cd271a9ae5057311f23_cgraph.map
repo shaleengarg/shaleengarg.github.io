@@ -1,0 +1,12 @@
+<map id="sc_kref_release" name="sc_kref_release">
+<area shape="rect" id="node2" href="$nodemanager_8c.html#a1591b6575841947b85cb323060f6dbf3" title="o2nm_undepend_item" alt="" coords="168,12,317,39"/>
+<area shape="rect" id="node5" href="$nodemanager_8c.html#a8d7b3ea21a9b60872a394bddd27de7fb" title="o2nm_node_put" alt="" coords="185,93,300,120"/>
+<area shape="rect" id="node11" href="$tcp_8h.html#aae4cd4cb0e64ea97716a961dbe3a5e08" title="o2net_debug_del_sc" alt="" coords="172,144,313,171"/>
+<area shape="rect" id="node3" href="$configfs_2dir_8c.html#a065ff670aced68c37bc625217922ff04" title="configfs_undepend_item" alt="" coords="370,9,533,36"/>
+<area shape="rect" id="node4" href="$configfs_2dir_8c.html#a2d43ef87b4908365f3d98c5680ed65fb" title="EXPORT_SYMBOL" alt="" coords="585,5,724,32"/>
+<area shape="rect" id="node6" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="394,93,509,120"/>
+<area shape="rect" id="node10" href="$nodemanager_8c.html#a67edc90e86a794e89a46a885ca1a16da" title="EXPORT_SYMBOL_GPL" alt="" coords="365,144,537,171"/>
+<area shape="rect" id="node7" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="585,56,724,83"/>
+<area shape="rect" id="node9" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="585,107,724,133"/>
+<area shape="rect" id="node8" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="772,107,913,133"/>
+</map>

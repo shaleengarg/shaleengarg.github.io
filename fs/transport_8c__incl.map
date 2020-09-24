@@ -1,0 +1,12 @@
+<map id="cifs/transport.c" name="cifs/transport.c">
+<area shape="rect" id="node15" href="$cifspdu_8h.html" title="cifspdu.h" alt="" coords="867,162,941,189"/>
+<area shape="rect" id="node19" href="$cifsglob_8h.html" title="cifsglob.h" alt="" coords="1533,80,1611,107"/>
+<area shape="rect" id="node32" href="$cifsproto_8h.html" title="cifsproto.h" alt="" coords="1636,80,1719,107"/>
+<area shape="rect" id="node34" href="$cifs__debug_8h.html" title="cifs_debug.h" alt="" coords="1863,80,1959,107"/>
+<area shape="rect" id="node35" href="$smb2proto_8h.html" title="smb2proto.h" alt="" coords="1743,80,1838,107"/>
+<area shape="rect" id="node37" href="$smbdirect_8h.html" title="smbdirect.h" alt="" coords="1983,80,2073,107"/>
+<area shape="rect" id="node18" href="$smbfsctl_8h.html" title="smbfsctl.h" alt="" coords="801,244,884,271"/>
+<area shape="rect" id="node24" href="$cifs__fs__sb_8h.html" title="cifs_fs_sb.h" alt="" coords="2109,162,2203,189"/>
+<area shape="rect" id="node27" href="$cifsacl_8h.html" title="cifsacl.h" alt="" coords="966,162,1037,189"/>
+<area shape="rect" id="node31" href="$smb2pdu_8h.html" title="smb2pdu.h" alt="" coords="1529,162,1615,189"/>
+</map>

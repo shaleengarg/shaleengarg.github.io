@@ -1,0 +1,6 @@
+<map id="generate_smb3signingkey" name="generate_smb3signingkey">
+<area shape="rect" id="node2" href="$smb2transport_8c.html#ac5d9e0ebb66ea3f8411d056ece79be28" title="generate_key" alt="" coords="227,31,327,57"/>
+<area shape="rect" id="node3" href="$smb2transport_8c.html#a0bedcf76973380efafc9c167fc7f9251" title="smb3_crypto_shash_allocate" alt="" coords="375,31,565,57"/>
+<area shape="rect" id="node4" href="$cifsproto_8h.html#a69d2168a19e01f2ca2a86ccab9c567ee" title="cifs_alloc_hash" alt="" coords="613,5,725,32"/>
+<area shape="rect" id="node5" href="$cifsproto_8h.html#ac2d5f22bae004255b63878af9abecae9" title="cifs_free_hash" alt="" coords="616,56,723,83"/>
+</map>

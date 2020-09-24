@@ -1,0 +1,19 @@
+<map id="nfs4_layout" name="nfs4_layout">
+<area shape="rect" id="node2" href="$structnfs4__layout__stateid.html" title="nfs4_layout_stateid" alt="" coords="71,481,206,508"/>
+<area shape="rect" id="node3" href="$structnfs4__stid.html" title="nfs4_stid" alt="" coords="101,392,176,419"/>
+<area shape="rect" id="node4" href="$structnfs4__file.html" title="nfs4_file" alt="" coords="103,303,174,329"/>
+<area shape="rect" id="node5" href="$structnfs4__client.html" title="nfs4_client" alt="" coords="428,303,513,329"/>
+<area shape="rect" id="node6" href="$structnfsd4__session.html" title="nfsd4_session" alt="" coords="686,392,793,419"/>
+<area shape="rect" id="node11" href="$structnfsd4__callback.html" title="nfsd4_callback" alt="" coords="261,392,370,419"/>
+<area shape="rect" id="node7" href="$structnfsd4__cb__sec.html" title="nfsd4_cb_sec" alt="" coords="586,5,688,32"/>
+<area shape="rect" id="node15" href="$structnfsd4__create__session.html" title="nfsd4_create_session" alt="" coords="528,109,677,136"/>
+<area shape="rect" id="node8" href="$structnfsd4__channel__attrs.html" title="nfsd4_channel_attrs" alt="" coords="757,5,896,32"/>
+<area shape="rect" id="node9" href="$structnfsd4__slot.html" title="nfsd4_slot" alt="" coords="889,303,972,329"/>
+<area shape="rect" id="node10" href="$structclientid__t.html" title="clientid_t" alt="" coords="344,5,418,32"/>
+<area shape="rect" id="node17" href="$structstateid__opaque__t.html" title="stateid_opaque_t" alt="" coords="224,160,346,187"/>
+<area shape="rect" id="node12" href="$structnfsd4__callback__ops.html" title="nfsd4_callback_ops" alt="" coords="198,303,335,329"/>
+<area shape="rect" id="node13" href="$structnfs4__cb__conn.html" title="nfs4_cb_conn" alt="" coords="419,212,522,239"/>
+<area shape="rect" id="node14" href="$structnfsd4__clid__slot.html" title="nfsd4_clid_slot" alt="" coords="548,212,657,239"/>
+<area shape="rect" id="node16" href="$structstateid__t.html" title="stateid_t" alt="" coords="6,303,78,329"/>
+<area shape="rect" id="node18" href="$structnfsd4__layout__seg.html" title="nfsd4_layout_seg" alt="" coords="230,481,354,508"/>
+</map>

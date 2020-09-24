@@ -1,0 +1,28 @@
+var structsmb__com__transaction2__ffirst__req =
+[
+    [ "ByteCount", "structsmb__com__transaction2__ffirst__req.html#ac8cf38edd602028cf107b5d57f1828e6", null ],
+    [ "DataCount", "structsmb__com__transaction2__ffirst__req.html#aca41e275dd22e2c8bc7e5f8e19e9a370", null ],
+    [ "DataOffset", "structsmb__com__transaction2__ffirst__req.html#a5d16e849afa6bd07d9c3973ddea0a55b", null ],
+    [ "FileName", "structsmb__com__transaction2__ffirst__req.html#a40f84773f79fbbfb6c8db88b96a54d99", null ],
+    [ "Flags", "structsmb__com__transaction2__ffirst__req.html#ab0b77c67ebc7a59864340ccbf6adb230", null ],
+    [ "hdr", "structsmb__com__transaction2__ffirst__req.html#a65e62769fb4b686a1240fb34a4641926", null ],
+    [ "InformationLevel", "structsmb__com__transaction2__ffirst__req.html#a7b3976ef4679254a347a3d33c6d6b8d9", null ],
+    [ "MaxDataCount", "structsmb__com__transaction2__ffirst__req.html#a654b8caf8219e1cc1c55604dab885938", null ],
+    [ "MaxParameterCount", "structsmb__com__transaction2__ffirst__req.html#accfa546d82d880ac2447933dba4385bf", null ],
+    [ "MaxSetupCount", "structsmb__com__transaction2__ffirst__req.html#ad9e1db5cd027ab09591f0adce212f761", null ],
+    [ "Pad", "structsmb__com__transaction2__ffirst__req.html#ab64e9fb6598b28b6199bf24fbfc99285", null ],
+    [ "ParameterCount", "structsmb__com__transaction2__ffirst__req.html#ab829b8e175b7042e92282b1603d361cb", null ],
+    [ "ParameterOffset", "structsmb__com__transaction2__ffirst__req.html#ac0c4a09b5c854912b92ab7c14d08a1c4", null ],
+    [ "Reserved", "structsmb__com__transaction2__ffirst__req.html#ad5a183cb46fabcb5ccd44cef9b02c4f5", null ],
+    [ "Reserved2", "structsmb__com__transaction2__ffirst__req.html#aba9a5e7bcca67b8baf1ac0b6d63676ab", null ],
+    [ "Reserved3", "structsmb__com__transaction2__ffirst__req.html#a8d8d84aecd43d49b24b70bb893c64725", null ],
+    [ "SearchAttributes", "structsmb__com__transaction2__ffirst__req.html#ac59019f1aba9975c6e9c8b0cff62543a", null ],
+    [ "SearchCount", "structsmb__com__transaction2__ffirst__req.html#ae885d0f292c333982fd6660a381680ae", null ],
+    [ "SearchFlags", "structsmb__com__transaction2__ffirst__req.html#a4e2dcab3163e682eb29671333c13d836", null ],
+    [ "SearchStorageType", "structsmb__com__transaction2__ffirst__req.html#a28b468d9fb2a459461753adfc91318de", null ],
+    [ "SetupCount", "structsmb__com__transaction2__ffirst__req.html#aa8715d9519dc7620387ace2383561487", null ],
+    [ "SubCommand", "structsmb__com__transaction2__ffirst__req.html#a7d8b93fc1d098531ec8c7b45f9457da7", null ],
+    [ "Timeout", "structsmb__com__transaction2__ffirst__req.html#a8f210fa1e072d96ad38576c3d6f2f39e", null ],
+    [ "TotalDataCount", "structsmb__com__transaction2__ffirst__req.html#aae0751b59a3211b4da740a50beeec9b4", null ],
+    [ "TotalParameterCount", "structsmb__com__transaction2__ffirst__req.html#a93793e6eabae484b80137666836584b4", null ]
+];

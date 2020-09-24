@@ -1,0 +1,26 @@
+var structaffs__sb__info =
+[
+    [ "s_bitmap", "structaffs__sb__info.html#ae0ca211836495096277a3ab01c85680a", null ],
+    [ "s_bmap_bh", "structaffs__sb__info.html#a41d0054233b1d37f5ac5e422b98ba825", null ],
+    [ "s_bmap_bits", "structaffs__sb__info.html#af4eb7b2f84fa52fae0f2ac3bd8b2e5af", null ],
+    [ "s_bmap_count", "structaffs__sb__info.html#a0d23d6e403fa78fb46cd4a6c91b80f84", null ],
+    [ "s_bmlock", "structaffs__sb__info.html#a622e6844b74d087317e11ccc4b5391ba", null ],
+    [ "s_data_blksize", "structaffs__sb__info.html#a91cd068288966fd56bdf7fcc0ad554e1", null ],
+    [ "s_flags", "structaffs__sb__info.html#a141be06047ee4adb57fdb2515606c01a", null ],
+    [ "s_gid", "structaffs__sb__info.html#aaeaaff2d7ff470f5e22ef7ac6b8bb82d", null ],
+    [ "s_hashsize", "structaffs__sb__info.html#ab6607f8108954226d15db30ac7d03214", null ],
+    [ "s_last_bmap", "structaffs__sb__info.html#a109e4a5c57d15a180c46d04560f268a3", null ],
+    [ "s_mode", "structaffs__sb__info.html#ac70e83938b4799cf4ec87dcf8b0a49bd", null ],
+    [ "s_partition_size", "structaffs__sb__info.html#aa101a0841f7d1c3af7e9180d2c80cab1", null ],
+    [ "s_prefix", "structaffs__sb__info.html#aab848620d8ff902f2c9e5aac4a3b908f", null ],
+    [ "s_reserved", "structaffs__sb__info.html#acfbdd3c1777f38e409e2389df14f26d7", null ],
+    [ "s_root_bh", "structaffs__sb__info.html#a39b887a2a3040b347398a422388f530e", null ],
+    [ "s_root_block", "structaffs__sb__info.html#af862ca307e155f2f55bc8b304cdcad33", null ],
+    [ "s_uid", "structaffs__sb__info.html#a77887aca061933b7f4ac4d783dcf1df4", null ],
+    [ "s_volume", "structaffs__sb__info.html#a11887b8d132736753b4de2cb56f101b9", null ],
+    [ "sb", "structaffs__sb__info.html#a7b366bc57f59de1989065bb8b5dda23c", null ],
+    [ "sb_work", "structaffs__sb__info.html#a04a50c778434ff74c63643759e2f05e4", null ],
+    [ "symlink_lock", "structaffs__sb__info.html#a87b32dd1dad8a39b7bef8a985f804491", null ],
+    [ "work_lock", "structaffs__sb__info.html#a9ecf3e746a74cf5e4096f8e6f32c6686", null ],
+    [ "work_queued", "structaffs__sb__info.html#ae74432b51ab94b8ea34a06a6e4f7a5fd", null ]
+];

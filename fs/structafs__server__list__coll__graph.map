@@ -1,0 +1,8 @@
+<map id="afs_server_list" name="afs_server_list">
+<area shape="rect" id="node2" href="$structafs__server__entry.html" title="afs_server_entry" alt="" coords="53,273,172,300"/>
+<area shape="rect" id="node3" href="$structafs__cb__interest.html" title="afs_cb_interest" alt="" coords="5,184,116,211"/>
+<area shape="rect" id="node4" href="$structsuper__block.html" title="super_block" alt="" coords="7,95,99,121"/>
+<area shape="rect" id="node5" href="$structafs__server.html" title="afs_server" alt="" coords="123,95,206,121"/>
+<area shape="rect" id="node6" href="$structafs__uuid.html" title="afs_uuid" alt="" coords="76,5,147,32"/>
+<area shape="rect" id="node7" href="$structafs__addr__list.html" title="afs_addr_list" alt="" coords="171,5,267,32"/>
+</map>

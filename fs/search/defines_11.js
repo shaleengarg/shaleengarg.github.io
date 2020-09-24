@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['qgroup_5ffree',['QGROUP_FREE',['../qgroup_8h.html#a85f840305e14e6ecd9eac89a67642345',1,'qgroup.h']]],
+  ['qgroup_5fpertrans_5fratio',['QGROUP_PERTRANS_RATIO',['../qgroup_8c.html#aae812e357d916de8757a019b38b18d9b',1,'qgroup.c']]],
+  ['qgroup_5fpertrans_5fsize',['QGROUP_PERTRANS_SIZE',['../qgroup_8c.html#a8d66c10024e7f62e7d5da2d27d4df4c3',1,'qgroup.c']]],
+  ['qgroup_5frelease',['QGROUP_RELEASE',['../qgroup_8h.html#a43ba3ac0290cea83841ff2656c3b5421',1,'qgroup.h']]],
+  ['qgroup_5freserve',['QGROUP_RESERVE',['../qgroup_8h.html#a8f46bc2901c0c218320799d91af77a81',1,'qgroup.h']]],
+  ['qnx4_5fbmname',['QNX4_BMNAME',['../qnx4_2inode_8c.html#a99fa8124dc1e880568ed737c070baf68',1,'inode.c']]],
+  ['qnx4_5fdebug',['QNX4_DEBUG',['../qnx4_8h.html#a767d874d46020c8923a12b05339a4b7f',1,'qnx4.h']]],
+  ['qnx4_5fversion',['QNX4_VERSION',['../qnx4_2inode_8c.html#a37b74ec0e616450371b8685b4a3ac122',1,'inode.c']]],
+  ['qnx4debug',['QNX4DEBUG',['../qnx4_8h.html#a039a51b664928c1e358125d27c8099c5',1,'qnx4.h']]],
+  ['qt_5ftreeoff',['QT_TREEOFF',['../quota__tree_8h.html#a2187be2f6139e4df6a5304589320c8b1',1,'quota_tree.h']]],
+  ['quota_5fexceeded',['QUOTA_EXCEEDED',['../reiserfs_8h.html#a38ce7eafa98c93d52e6b803dfad32fdd',1,'reiserfs.h']]],
+  ['quota_5ffor_5fsid',['QUOTA_FOR_SID',['../cifspdu_8h.html#a700a5d0e5c395b1e75e2bf235ca99fe5',1,'cifspdu.h']]],
+  ['quota_5flist_5fcontinue',['QUOTA_LIST_CONTINUE',['../cifspdu_8h.html#aefb807e69754e609b9a43d3401e843e7',1,'cifspdu.h']]],
+  ['quota_5flist_5fstart',['QUOTA_LIST_START',['../cifspdu_8h.html#a4ad8f8152df12d015142fac297a0cd79',1,'cifspdu.h']]],
+  ['quotablock_5fbits',['QUOTABLOCK_BITS',['../quota__v1_8c.html#a1d5f1d7b6f4c5296a675b09b48e73711',1,'QUOTABLOCK_BITS():&#160;quota_v1.c'],['../quota__v2_8c.html#a1d5f1d7b6f4c5296a675b09b48e73711',1,'QUOTABLOCK_BITS():&#160;quota_v2.c']]],
+  ['quotablock_5fsize',['QUOTABLOCK_SIZE',['../quota__v1_8c.html#a05affadb9a45fdda93fb537abed2fa8a',1,'QUOTABLOCK_SIZE():&#160;quota_v1.c'],['../quota__v2_8c.html#a05affadb9a45fdda93fb537abed2fa8a',1,'QUOTABLOCK_SIZE():&#160;quota_v2.c']]]
+];

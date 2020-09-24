@@ -1,0 +1,6 @@
+<map id="fdatawrite_one_bdev" name="fdatawrite_one_bdev">
+<area shape="rect" id="node2" href="$sync_8c.html#a8afa97bf9af465089a1711f1d494ae60" title="ksys_sync" alt="" coords="207,5,292,32"/>
+<area shape="rect" id="node4" href="$sync_8c.html#ae340c5b4f9a65d15d7067abfe7c453a1" title="do_sync_work" alt="" coords="196,56,303,83"/>
+<area shape="rect" id="node3" href="$sync_8c.html#aea720904122429e3d896751bfc2a86dc" title="SYSCALL_DEFINE0" alt="" coords="351,5,497,32"/>
+<area shape="rect" id="node5" href="$sync_8c.html#abc03806e1261b0b1e5bb454217c948cb" title="emergency_sync" alt="" coords="363,56,485,83"/>
+</map>

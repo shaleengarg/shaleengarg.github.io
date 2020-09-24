@@ -1,0 +1,6 @@
+<map id="vxfs_dinode" name="vxfs_dinode">
+<area shape="rect" id="node2" href="$structvxfs__typed.html" title="vxfs_typed" alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" href="$structvxfs__immed.html" title="vxfs_immed" alt="" coords="117,95,210,121"/>
+<area shape="rect" id="node4" href="$structvxfs__ext4.html" title="vxfs_ext4" alt="" coords="235,95,313,121"/>
+<area shape="rect" id="node5" href="$structvxfs__ext4_1_1direct.html" title="vxfs_ext4::direct" alt="" coords="215,5,333,32"/>
+</map>

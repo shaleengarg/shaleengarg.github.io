@@ -1,0 +1,26 @@
+var structsmb__com__transaction2__sfi__req =
+[
+    [ "ByteCount", "structsmb__com__transaction2__sfi__req.html#acb109dc371278d22ec24b9fec062d530", null ],
+    [ "DataCount", "structsmb__com__transaction2__sfi__req.html#a2dbe124937aabe66f3f53486251b821f", null ],
+    [ "DataOffset", "structsmb__com__transaction2__sfi__req.html#a07ee1941dcc63d23da046e2ed581fcd9", null ],
+    [ "Fid", "structsmb__com__transaction2__sfi__req.html#afddfb3bfa6548ec0f894a20b0ee55d9a", null ],
+    [ "Flags", "structsmb__com__transaction2__sfi__req.html#aa29829de53c2cd92d1d13e66427191ae", null ],
+    [ "hdr", "structsmb__com__transaction2__sfi__req.html#a1a4397a513d56ef47e8da9eea2420e6d", null ],
+    [ "InformationLevel", "structsmb__com__transaction2__sfi__req.html#a5e54f67a1d4131ac2d428348e40b834d", null ],
+    [ "MaxDataCount", "structsmb__com__transaction2__sfi__req.html#abeabb21ba463f7152b8a28c880b9358f", null ],
+    [ "MaxParameterCount", "structsmb__com__transaction2__sfi__req.html#ab43499f76b436eee59860949602966ab", null ],
+    [ "MaxSetupCount", "structsmb__com__transaction2__sfi__req.html#a08da345a90837a910b389976d63f7ee1", null ],
+    [ "Pad", "structsmb__com__transaction2__sfi__req.html#a8b8baa576ab5703ec7ef2353e4e7e766", null ],
+    [ "Pad1", "structsmb__com__transaction2__sfi__req.html#ae5bb75f508d744cb3c633ee89229f661", null ],
+    [ "ParameterCount", "structsmb__com__transaction2__sfi__req.html#ab739d34982724630629fd0ebae977423", null ],
+    [ "ParameterOffset", "structsmb__com__transaction2__sfi__req.html#a5f4d4ee09457af4bd3f58e7d76629f4a", null ],
+    [ "Reserved", "structsmb__com__transaction2__sfi__req.html#a4b2565a8879faaff66ace048805eb281", null ],
+    [ "Reserved2", "structsmb__com__transaction2__sfi__req.html#a9fe6f41f8f73456a4466054a9d1efe04", null ],
+    [ "Reserved3", "structsmb__com__transaction2__sfi__req.html#af5f45dfee4ef73decc6c1210322ed05f", null ],
+    [ "Reserved4", "structsmb__com__transaction2__sfi__req.html#a1fd4684ea0b72e4224029baa6d0ddd9b", null ],
+    [ "SetupCount", "structsmb__com__transaction2__sfi__req.html#a237d452b6ac590fdb95705a968467f2a", null ],
+    [ "SubCommand", "structsmb__com__transaction2__sfi__req.html#a373d8f12594c086b19db58a88bb869a2", null ],
+    [ "Timeout", "structsmb__com__transaction2__sfi__req.html#a0e6bd0cd6b7719200f5def960af6d4d1", null ],
+    [ "TotalDataCount", "structsmb__com__transaction2__sfi__req.html#a8434f088bbbfb7f61a46e2889cd487d2", null ],
+    [ "TotalParameterCount", "structsmb__com__transaction2__sfi__req.html#a7b881b1cebe810c4201cdcb748b002d0", null ]
+];

@@ -1,0 +1,25 @@
+var structbtrfs__dev__replace =
+[
+    [ "blocking_readers", "structbtrfs__dev__replace.html#ab02897385c663edaebef74b2798830be", null ],
+    [ "committed_cursor_left", "structbtrfs__dev__replace.html#abe29c8b57f07f4608864b48dde6e148e", null ],
+    [ "cont_reading_from_srcdev_mode", "structbtrfs__dev__replace.html#a83806f20a801370fc01af975beb9d3af", null ],
+    [ "cursor_left", "structbtrfs__dev__replace.html#a7dab8c9269c645a2c44bf60003787d0e", null ],
+    [ "cursor_left_last_write_of_item", "structbtrfs__dev__replace.html#aaf9ea02e5e855d79d91a00789b8bef77", null ],
+    [ "cursor_right", "structbtrfs__dev__replace.html#ab1d0729e0fedc7457294cac29110c000", null ],
+    [ "is_valid", "structbtrfs__dev__replace.html#ae5be8aad3752e4a94fddd062cbb2ff7b", null ],
+    [ "item_needs_writeback", "structbtrfs__dev__replace.html#a7210f5b9826d7b2a1ae10addb8c9973b", null ],
+    [ "lock", "structbtrfs__dev__replace.html#a6d562b0eafb87f023eac594abea4a559", null ],
+    [ "lock_finishing_cancel_unmount", "structbtrfs__dev__replace.html#a38d4af7fd023724a19ea83abb51af4c0", null ],
+    [ "lock_owner", "structbtrfs__dev__replace.html#a0c40d3347a144f19de04308c35526d59", null ],
+    [ "nesting_level", "structbtrfs__dev__replace.html#aee3f53a57e7debd206781b7aa0e2e847", null ],
+    [ "num_uncorrectable_read_errors", "structbtrfs__dev__replace.html#af874f85f3aecf6c2385e97ea1fc7ec0b", null ],
+    [ "num_write_errors", "structbtrfs__dev__replace.html#aec8f49a1536da481284e92e46197fd10", null ],
+    [ "read_lock_wq", "structbtrfs__dev__replace.html#a37710efd46e46a211d27fdc10fb0b5b3", null ],
+    [ "read_locks", "structbtrfs__dev__replace.html#a25665e76c69705056c3648056aa16ca5", null ],
+    [ "replace_state", "structbtrfs__dev__replace.html#a35e6ba4cde9dd67d9dc9f419bc6a05f7", null ],
+    [ "scrub_progress", "structbtrfs__dev__replace.html#a59ba3190cc6791428f2cefa67aab4ca5", null ],
+    [ "srcdev", "structbtrfs__dev__replace.html#ab840373e44c16334ae340b86c1d257ce", null ],
+    [ "tgtdev", "structbtrfs__dev__replace.html#a3001d8ac26817c0b64c5b8b7ae35a627", null ],
+    [ "time_started", "structbtrfs__dev__replace.html#a1674b9f63fdf1308a199af8fbe2a8278", null ],
+    [ "time_stopped", "structbtrfs__dev__replace.html#a744deb943bc79fb49ccc31ba6af57416", null ]
+];

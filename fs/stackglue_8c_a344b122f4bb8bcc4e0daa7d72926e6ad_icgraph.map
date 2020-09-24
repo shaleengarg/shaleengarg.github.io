@@ -1,0 +1,7 @@
+<map id="ocfs2_stack_glue_register" name="ocfs2_stack_glue_register">
+<area shape="rect" id="node2" href="$stack__o2cb_8c.html#a8496ae5b4a20e75df94a307802c2b9f1" title="o2cb_stack_init" alt="" coords="469,24,583,51"/>
+<area shape="rect" id="node4" href="$stack__user_8c.html#ae330bd4b013ca3df373b850b794a590f" title="ocfs2_user_plugin_init" alt="" coords="451,87,601,114"/>
+<area shape="rect" id="node6" href="$stackglue_8h.html#a344b122f4bb8bcc4e0daa7d72926e6ad" title="ocfs2_stack_glue_register" alt="" coords="228,50,403,76"/>
+<area shape="rect" id="node3" href="$stack__o2cb_8c.html#a87bf70944000d77dca359c5dca0a3473" title="o2cb_stack_exit" alt="" coords="668,24,785,51"/>
+<area shape="rect" id="node5" href="$stack__user_8c.html#a662b910c29fe85bed5f697b064679782" title="ocfs2_user_plugin_exit" alt="" coords="649,87,804,114"/>
+</map>

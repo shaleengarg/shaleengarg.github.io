@@ -1,0 +1,5 @@
+<map id="init_once" name="init_once">
+<area shape="rect" id="node2" href="$squashfs_2super_8c.html#a383280e7241ecff259afb2e90b1241b3" title="init_inodecache" alt="" coords="128,5,240,32"/>
+<area shape="rect" id="node3" href="$squashfs_2super_8c.html#acc4615bde2d4076115b1ad9564c32686" title="init_squashfs_fs" alt="" coords="288,5,405,32"/>
+<area shape="rect" id="node4" href="$squashfs_2super_8c.html#a1023ee8c3db7502a0b46b0194566d3c2" title="squashfs_destroy_inode" alt="" coords="453,5,616,32"/>
+</map>

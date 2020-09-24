@@ -1,0 +1,8 @@
+<map id="nlm_cmp_owner" name="nlm_cmp_owner">
+<area shape="rect" id="node2" href="$svcshare_8c.html#a640cff3e8b9aa407ffa12f95a43fd14a" title="nlmsvc_share_file" alt="" coords="178,56,305,83"/>
+<area shape="rect" id="node5" href="$svcshare_8c.html#acf882c1a93c379b2ffde9ffb8b691c64" title="nlmsvc_unshare_file" alt="" coords="171,107,312,133"/>
+<area shape="rect" id="node3" href="$svc4proc_8c.html#a4488cf170e6c165cea9dec6b2dd889df" title="nlm4svc_proc_share" alt="" coords="367,5,509,32"/>
+<area shape="rect" id="node4" href="$svcproc_8c.html#a1474643f5e691c8a10788048402448be" title="nlmsvc_proc_share" alt="" coords="371,56,505,83"/>
+<area shape="rect" id="node6" href="$svc4proc_8c.html#a2fc3c96f2e04d693bed706a2050920a4" title="nlm4svc_proc_unshare" alt="" coords="360,107,516,133"/>
+<area shape="rect" id="node7" href="$svcproc_8c.html#a41b839cdfb72bd9c2bc2c50207fa2936" title="nlmsvc_proc_unshare" alt="" coords="363,157,513,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="squashfs_read_table" name="squashfs_read_table">
+<area shape="rect" id="node2" href="$squashfs_2super_8c.html#a48ba1323faf987f31cbbad8b50ed27ed" title="squashfs_fill_super" alt="" coords="409,110,544,136"/>
+<area shape="rect" id="node5" href="$squashfs_8h.html#af61e9d7d0f1dab2d4502e09c699438e5" title="squashfs_read_inode\l_lookup_table" alt="" coords="206,37,351,78"/>
+<area shape="rect" id="node6" href="$squashfs_8h.html#a7e366e0425555ce0bbddf24a82c5944d" title="squashfs_read_fragment\l_index_table" alt="" coords="196,102,361,144"/>
+<area shape="rect" id="node7" href="$squashfs_8h.html#a162bf97150eddec7eb5197a8b9eb73bf" title="squashfs_read_id_index\l_table" alt="" coords="197,168,360,209"/>
+<area shape="rect" id="node8" href="$xattr__id_8c.html#ac259d05062e294fd6dbdd138a19d7821" title="squashfs_read_xattr\l_id_table" alt="" coords="209,233,349,274"/>
+<area shape="rect" id="node3" href="$squashfs_2super_8c.html#a83e0fd973f1099e80ee1690fa32a3c62" title="squashfs_mount" alt="" coords="592,110,711,136"/>
+<area shape="rect" id="node4" href="$squashfs_2super_8c.html#a1023ee8c3db7502a0b46b0194566d3c2" title="squashfs_destroy_inode" alt="" coords="759,110,921,136"/>
+</map>

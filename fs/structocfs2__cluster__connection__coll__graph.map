@@ -1,0 +1,4 @@
+<map id="ocfs2_cluster_connection" name="ocfs2_cluster_connection">
+<area shape="rect" id="node2" href="$structocfs2__protocol__version.html" title="ocfs2_protocol_version" alt="" coords="13,5,169,32"/>
+<area shape="rect" id="node3" href="$structocfs2__locking__protocol.html" title="ocfs2_locking_protocol" alt="" coords="161,95,316,121"/>
+</map>

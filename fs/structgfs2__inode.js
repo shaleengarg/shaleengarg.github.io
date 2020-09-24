@@ -1,0 +1,25 @@
+var structgfs2__inode =
+[
+    [ "i_depth", "structgfs2__inode.html#a1d2929815bed1ea51d4ed67f803e0cec", null ],
+    [ "i_diskflags", "structgfs2__inode.html#aea0b5d1e5fe97e3c3a7da871da1d42a5", null ],
+    [ "i_eattr", "structgfs2__inode.html#a8e3dae38b155dcff420aa03a4f50e3f9", null ],
+    [ "i_entries", "structgfs2__inode.html#a27e713bd762d51bc7f6e8634a1b1e556", null ],
+    [ "i_flags", "structgfs2__inode.html#a8d78d17e9b093a5356797042c73000e5", null ],
+    [ "i_generation", "structgfs2__inode.html#af5322dca6e522baf4cdcb72d3b970d30", null ],
+    [ "i_gh", "structgfs2__inode.html#a902655f8593200910b72b1a1c127cf70", null ],
+    [ "i_gl", "structgfs2__inode.html#aaecd50c054a299edd08450db3f5f051e", null ],
+    [ "i_goal", "structgfs2__inode.html#ab4a72603df32dc1de98a2ed18a27553f", null ],
+    [ "i_hash_cache", "structgfs2__inode.html#a515e598f65f0c106662256afa46046ff", null ],
+    [ "i_height", "structgfs2__inode.html#a9a2fc10a05444ed61de7f25298975c2c", null ],
+    [ "i_inode", "structgfs2__inode.html#a776f5c2721221131fa54c9b19431789a", null ],
+    [ "i_iopen_gh", "structgfs2__inode.html#a24e0438e1f110073391e74b52b121f58", null ],
+    [ "i_no_addr", "structgfs2__inode.html#af2c6a79ee625c3555940650a4c82e8ef", null ],
+    [ "i_no_formal_ino", "structgfs2__inode.html#a08778d5c599f5518a057e23b7b3af39c", null ],
+    [ "i_ordered", "structgfs2__inode.html#a060acddd5cb163a6a408c9e2a83d9e51", null ],
+    [ "i_qadata", "structgfs2__inode.html#af0de4cd7b0ed35863cf3730da85c50b6", null ],
+    [ "i_rahead", "structgfs2__inode.html#aa54ed0024a51f1776002deba893c9456", null ],
+    [ "i_res", "structgfs2__inode.html#ae587a1ee871b12545f8e9a1f7f8620a3", null ],
+    [ "i_rgd", "structgfs2__inode.html#a251784f0d97e3c329f926ba410227f7e", null ],
+    [ "i_rw_mutex", "structgfs2__inode.html#ad5ba08c8a57baca19cb9ac162be7edb1", null ],
+    [ "i_trunc_list", "structgfs2__inode.html#a8f3fa3ac2773f19b0db8441d28dbeafc", null ]
+];

@@ -1,0 +1,5 @@
+<map id="__pollwait" name="__pollwait">
+<area shape="rect" id="node2" href="$select_8c.html#ad937c2ddeb360354174166b98a88cae0" title="poll_get_entry" alt="" coords="133,5,236,32"/>
+<area shape="rect" id="node3" href="$select_8c.html#ae07a5fe8836d301f9d35250269186a7f" title="pollwake" alt="" coords="148,56,221,83"/>
+<area shape="rect" id="node4" href="$select_8c.html#ac29eb33760fa7d23716df1e47eb2606b" title="__pollwake" alt="" coords="284,56,371,83"/>
+</map>

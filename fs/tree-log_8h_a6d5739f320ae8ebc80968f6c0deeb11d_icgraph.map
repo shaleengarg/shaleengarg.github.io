@@ -1,0 +1,16 @@
+<map id="btrfs_record_unlink_dir" name="btrfs_record_unlink_dir">
+<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a9e8af603bac10fdfe8be01527791c2e3" title="btrfs_unlink" alt="" coords="573,5,663,32"/>
+<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a9052833ef2921ef39ec55c8c38d8ddf5" title="btrfs_rename_exchange" alt="" coords="937,107,1099,133"/>
+<area shape="rect" id="node7" href="$btrfs_2inode_8c.html#a611d61b19895af4b388ff9d0be22a532" title="btrfs_rename" alt="" coords="969,56,1067,83"/>
+<area shape="rect" id="node8" href="$tree-log_8h.html#af2cf95e55cfb7d1383cec2d3acbe2707" title="btrfs_need_log_full\l_commit" alt="" coords="207,226,337,267"/>
+<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1300,132,1475,159"/>
+<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1523,132,1620,159"/>
+<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#acf4169a1b179f406bc39c7a1a4e6a137" title="btrfs_rename2" alt="" coords="1147,107,1252,133"/>
+<area shape="rect" id="node9" href="$tree-log_8c.html#acb71bf66afc77a465b0c8e96e0dda086" title="start_log_trans" alt="" coords="385,208,493,235"/>
+<area shape="rect" id="node15" href="$tree-log_8h.html#a4204724f0e95d8b6afd845beb78bf402" title="btrfs_sync_log" alt="" coords="386,309,493,336"/>
+<area shape="rect" id="node10" href="$tree-log_8c.html#af0a778dcb844dce522fcda55469c9542" title="btrfs_log_inode_parent" alt="" coords="541,208,695,235"/>
+<area shape="rect" id="node11" href="$tree-log_8h.html#a893af862b659dd6c5a2fb1f2ced66d62" title="btrfs_log_dentry_safe" alt="" coords="743,247,889,273"/>
+<area shape="rect" id="node13" href="$tree-log_8h.html#a2081769147e2ee6950dd9c427470c599" title="btrfs_log_new_name" alt="" coords="745,157,887,184"/>
+<area shape="rect" id="node12" href="$btrfs_2file_8c.html#a320e3d303d94c29844f184975c92ca5f" title="btrfs_sync_file" alt="" coords="965,247,1071,273"/>
+<area shape="rect" id="node14" href="$btrfs_2inode_8c.html#a6e36c66b6129e28e2b0da486c58d8aaf" title="btrfs_link" alt="" coords="1162,157,1237,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cifs_unix_dfs_readlink" name="cifs_unix_dfs_readlink">
+<area shape="rect" id="node2" href="$cifsproto_8h.html#a4aaa0cbd143f38d7ee6e4046d2547ede" title="get_dfs_path" alt="" coords="222,31,319,57"/>
+<area shape="rect" id="node5" href="$cifsglob_8h.html#abfc2f6ac09503f84bfcfdb5e6d72ac52" title="free_dfs_info_array" alt="" coords="204,81,337,108"/>
+<area shape="rect" id="node3" href="$connect_8c.html#a1fde2ed349052c0934b8dd7c613d1571" title="cifs_reclassify_socket4" alt="" coords="385,5,544,32"/>
+<area shape="rect" id="node4" href="$connect_8c.html#a4a66080f2015acd1f08f3e2c02b8f47d" title="cifs_reclassify_socket6" alt="" coords="385,56,544,83"/>
+</map>

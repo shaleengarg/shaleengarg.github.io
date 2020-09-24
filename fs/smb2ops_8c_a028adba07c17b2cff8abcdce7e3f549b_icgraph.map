@@ -1,0 +1,7 @@
+<map id="smb2_set_sparse" name="smb2_set_sparse">
+<area shape="rect" id="node2" href="$smb2ops_8c.html#a3d69781dc5dff49778e3d8a4702a3f85" title="smb2_set_file_size" alt="" coords="180,5,315,32"/>
+<area shape="rect" id="node4" href="$smb2ops_8c.html#a8f90752a0d8251b9112a71c50cc00201" title="smb3_punch_hole" alt="" coords="184,56,311,83"/>
+<area shape="rect" id="node6" href="$smb2ops_8c.html#abc392c64fb74aff90362ffa91408ab84" title="smb3_simple_falloc" alt="" coords="179,107,316,133"/>
+<area shape="rect" id="node3" href="$smb2ops_8c.html#a4940f0874048ca339d6d73a3dd0ff196" title="smb2_duplicate_extents" alt="" coords="364,5,527,32"/>
+<area shape="rect" id="node5" href="$smb2ops_8c.html#a2ab22985431b371e7adf47a93c1f50df" title="smb3_fallocate" alt="" coords="390,81,501,108"/>
+</map>

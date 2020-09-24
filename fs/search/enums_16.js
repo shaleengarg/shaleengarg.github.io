@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['xfs_5fag_5fresv_5ftype',['xfs_ag_resv_type',['../xfs__mount_8h.html#a09b295ad216fa628563782080c93d014',1,'xfs_mount.h']]],
+  ['xfs_5fblft',['xfs_blft',['../xfs__log__format_8h.html#adcbbd08a5c375498b4c0a053d294ddd4',1,'xfs_log_format.h']]],
+  ['xfs_5fbmap_5fintent_5ftype',['xfs_bmap_intent_type',['../xfs__bmap_8h.html#a0f8d514a4d573c104872b649cc1bb08f',1,'xfs_bmap.h']]],
+  ['xfs_5fbtnum_5ft',['xfs_btnum_t',['../xfs__types_8h.html#a361b25f94920c242a67e8ff269bfc639',1,'xfs_types.h']]],
+  ['xfs_5fbuf_5frw_5ft',['xfs_buf_rw_t',['../xfs__buf_8h.html#a8ad2ed7b9b8161c92719bb8bd9924d16',1,'xfs_buf.h']]],
+  ['xfs_5fdacmp',['xfs_dacmp',['../xfs__da__btree_8h.html#a949628e58bdac7ab3702b767568f0f18',1,'xfs_da_btree.h']]],
+  ['xfs_5fdefer_5fops_5ftype',['xfs_defer_ops_type',['../xfs__defer_8h.html#a1b14b525e495e19ce3e2d01901534255',1,'xfs_defer.h']]],
+  ['xfs_5fdinode_5ffmt',['xfs_dinode_fmt',['../xfs__format_8h.html#af8042082a5defb954d251a0aa5bf94cd',1,'xfs_format.h']]],
+  ['xfs_5fexntst_5ft',['xfs_exntst_t',['../xfs__types_8h.html#a2249146de3aa6d0ba8f776f5752b23e3',1,'xfs_types.h']]],
+  ['xfs_5ffstrm_5falloc',['xfs_fstrm_alloc',['../xfs__filestream_8c.html#ada337b4b145b6d8648c5a01c6a0a668e',1,'xfs_filestream.c']]],
+  ['xfs_5flookup_5ft',['xfs_lookup_t',['../xfs__types_8h.html#a3c30c78ae28c1639d9bfbbf4a179d608',1,'xfs_types.h']]],
+  ['xfs_5fprealloc_5fflags',['xfs_prealloc_flags',['../xfs__inode_8h.html#a83f1e0ab518a35d837f920ca536efa66',1,'xfs_inode.h']]],
+  ['xfs_5frefc_5fadjust_5fop',['xfs_refc_adjust_op',['../xfs__refcount_8c.html#a32fe84929fb27e281f9b6e780340559c',1,'xfs_refcount.c']]],
+  ['xfs_5frefcount_5fintent_5ftype',['xfs_refcount_intent_type',['../xfs__refcount_8h.html#afcbe5203cb88e1f7e8de24255d99fc3c',1,'xfs_refcount.h']]],
+  ['xfs_5frmap_5fintent_5ftype',['xfs_rmap_intent_type',['../xfs__rmap_8h.html#a32d4f1246d8b573b8eed9830d986c680',1,'xfs_rmap.h']]],
+  ['xfs_5fscrub_5ftype',['xfs_scrub_type',['../scrub_8h.html#ac079c09eea3a06207dd3ae6e23dccb98',1,'scrub.h']]]
+];

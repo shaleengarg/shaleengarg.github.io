@@ -1,0 +1,12 @@
+<map id="send_remove_xattr" name="send_remove_xattr">
+<area shape="rect" id="node2" href="$send_8c.html#aa705340e857e41d93cfeadebf28dc333" title="begin_cmd" alt="" coords="187,5,272,32"/>
+<area shape="rect" id="node3" href="$send_8c.html#a1e38ab7dba20be4941d936c9bbffdf39" title="send_cmd" alt="" coords="188,56,271,83"/>
+<area shape="rect" id="node4" href="$send_8c.html#a6630ab796e0085c535dfd5b3bf4a2fd7" title="write_buf" alt="" coords="320,56,395,83"/>
+<area shape="rect" id="node5" href="$read__write_8c.html#ac6f49e41c807d8118fbf37d68ca28a74" title="kernel_write" alt="" coords="443,56,535,83"/>
+<area shape="rect" id="node6" href="$read__write_8c.html#a23ff4bbdd012c1944bd2366c76c1371c" title="vfs_write" alt="" coords="615,31,689,57"/>
+<area shape="rect" id="node11" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="583,81,721,108"/>
+<area shape="rect" id="node7" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="769,5,876,32"/>
+<area shape="rect" id="node9" href="$read__write_8c.html#afa78d288f1d4bb4b053c65e1b0155dbd" title="__vfs_write" alt="" coords="778,56,867,83"/>
+<area shape="rect" id="node8" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="924,5,1045,32"/>
+<area shape="rect" id="node10" href="$read__write_8c.html#a4b2f4ef6718d3c4726de9b775fb4ea0f" title="new_sync_write" alt="" coords="927,56,1043,83"/>
+</map>

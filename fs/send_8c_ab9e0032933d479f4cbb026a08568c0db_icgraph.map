@@ -1,0 +1,17 @@
+<map id="__record_new_ref" name="__record_new_ref">
+<area shape="rect" id="node2" href="$send_8c.html#a69909621359dd6f2f4cdec6d8a30374e" title="record_new_ref" alt="" coords="421,5,531,32"/>
+<area shape="rect" id="node13" href="$send_8c.html#aaf8e35b3ba3124fdce0ecc23341943b3" title="__record_changed_new_ref" alt="" coords="179,56,360,83"/>
+<area shape="rect" id="node15" href="$send_8c.html#a5cd3348e83b6a1146e58e0c2c2b11e31" title="process_all_refs" alt="" coords="211,107,328,133"/>
+<area shape="rect" id="node3" href="$send_8c.html#ae1a9df8fddfcc2ccf4b14625e323c762" title="changed_ref" alt="" coords="600,56,693,83"/>
+<area shape="rect" id="node4" href="$send_8c.html#abe3b8e4f248db44c5a9b828c4aac5fb8" title="changed_cb" alt="" coords="749,81,841,108"/>
+<area shape="rect" id="node5" href="$ctree_8h.html#a5257b08c1179846a4b187072dc75a499" title="btrfs_compare_trees" alt="" coords="889,31,1031,57"/>
+<area shape="rect" id="node6" href="$send_8c.html#a0870601d54997017a637c49d5ee5c970" title="send_subvol" alt="" coords="1079,81,1173,108"/>
+<area shape="rect" id="node12" href="$send_8c.html#a3d90320d85aa2a92ced82c1d85ea00f5" title="full_send_tree" alt="" coords="909,132,1011,159"/>
+<area shape="rect" id="node7" href="$send_8c.html#a63f24a806681201190dbe5f61f82f8dc" title="btrfs_ioctl_send" alt="" coords="1221,81,1336,108"/>
+<area shape="rect" id="node8" href="$btrfs_2ioctl_8c.html#a632ddddcbd50906d82dffb535fc7c24a" title="_btrfs_ioctl_send" alt="" coords="1384,81,1505,108"/>
+<area shape="rect" id="node9" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="1553,81,1632,108"/>
+<area shape="rect" id="node10" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1680,81,1855,108"/>
+<area shape="rect" id="node11" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1903,81,2000,108"/>
+<area shape="rect" id="node14" href="$send_8c.html#a4d3176dee5696bd04c79b7684bc29c7d" title="record_changed_ref" alt="" coords="408,56,544,83"/>
+<area shape="rect" id="node16" href="$send_8c.html#a6a9cca25c354bddff060106ad0ef3131" title="changed_inode" alt="" coords="592,107,701,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="xfs_btree_block" name="xfs_btree_block">
+<area shape="rect" id="node2" href="$structxfs__btree__block__lhdr.html" title="xfs_btree_block_lhdr" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node3" href="$structxfs__btree__block__shdr.html" title="xfs_btree_block_shdr" alt="" coords="173,5,319,32"/>
+</map>

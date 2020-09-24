@@ -1,0 +1,7 @@
+<map id="timerfd_canceled" name="timerfd_canceled">
+<area shape="rect" id="node2" href="$timerfd_8c.html#a7ef8b97c496aa877aa94b4c7d7896d02" title="timerfd_setup" alt="" coords="175,31,276,57"/>
+<area shape="rect" id="node6" href="$timerfd_8c.html#aa19c84a773f6e0a99fbdb0f8997d2067" title="timerfd_read" alt="" coords="178,81,273,108"/>
+<area shape="rect" id="node3" href="$timerfd_8c.html#a7f4b73293ab79cdb90e7505cfa6874db" title="do_timerfd_settime" alt="" coords="324,31,457,57"/>
+<area shape="rect" id="node4" href="$timerfd_8c.html#a287a6ff8eb55264a31f73313239fd416" title="SYSCALL_DEFINE4" alt="" coords="505,5,652,32"/>
+<area shape="rect" id="node5" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="505,56,652,83"/>
+</map>

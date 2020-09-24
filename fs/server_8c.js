@@ -1,0 +1,26 @@
+var server_8c =
+[
+    [ "afs_alloc_server", "server_8c.html#a85b9fd51d24a1dcce45feb7ca1b31d96", null ],
+    [ "afs_check_server_record", "server_8c.html#a8087f7e67b5d9eccd10aca3348375d92", null ],
+    [ "afs_dec_servers_outstanding", "server_8c.html#a886fd02eefe7c66b65e05d98d2189d01", null ],
+    [ "afs_destroy_server", "server_8c.html#a5b7b654647ad316aaf04f21da525de9b", null ],
+    [ "afs_do_probe_fileserver", "server_8c.html#ae56d6e2d79cddd3e98bcf4d88c4a6797", null ],
+    [ "afs_find_server", "server_8c.html#a95b9e58e84847de964481b8b1efb02fe", null ],
+    [ "afs_find_server_by_uuid", "server_8c.html#aae87045046827ab38d1e74f86d0aeed2", null ],
+    [ "afs_gc_servers", "server_8c.html#a9613ffe4ffaf8e4721361dbbab728a00", null ],
+    [ "afs_inc_servers_outstanding", "server_8c.html#a81301b5e11aad118600a065dd49eba21", null ],
+    [ "afs_install_server", "server_8c.html#a4026a0335b3ab0db286616249784605f", null ],
+    [ "afs_lookup_server", "server_8c.html#aac73c38363da6c44e5c59ea22733809f", null ],
+    [ "afs_manage_servers", "server_8c.html#a6a58409bce34bf4757d790fadbbaf45c", null ],
+    [ "afs_probe_fileserver", "server_8c.html#acaf95b09ca9c1ad77e6a7b2139c95d0d", null ],
+    [ "afs_purge_servers", "server_8c.html#aec50978c2ee1f83869101fd723a11919", null ],
+    [ "afs_put_server", "server_8c.html#a9306092ea480af9d569602bf55a61e5e", null ],
+    [ "afs_queue_server_manager", "server_8c.html#a354a35d87d16afff54e506e56d34247e", null ],
+    [ "afs_server_rcu", "server_8c.html#a3cdee5284fe66e63d827957db774a24f", null ],
+    [ "afs_servers_timer", "server_8c.html#a59f2acadb215f1761f91324258188f46", null ],
+    [ "afs_set_server_timer", "server_8c.html#a8536c0cf2642248be17098b5056cdabb", null ],
+    [ "afs_update_server_record", "server_8c.html#a011e2dddcdbe0101ba542e7b5be04ec3", null ],
+    [ "afs_vl_lookup_addrs", "server_8c.html#a0ce1cee4a19d9d7ab741cac95e41a5e8", null ],
+    [ "afs_server_gc_delay", "server_8c.html#a4a364d5c5d39b5fae850a0d0d1069b4f", null ],
+    [ "afs_server_update_delay", "server_8c.html#ae719d868c40284bc54222c07bab4177f", null ]
+];

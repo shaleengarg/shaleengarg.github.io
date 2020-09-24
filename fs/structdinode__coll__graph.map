@@ -1,0 +1,12 @@
+<map id="dinode" name="dinode">
+<area shape="rect" id="node2" href="$structdir__table__slot.html" title="dir_table_slot" alt="" coords="5,205,104,231"/>
+<area shape="rect" id="node3" href="$unionxtpage__t.html" title="xtpage_t" alt="" coords="265,205,337,231"/>
+<area shape="rect" id="node4" href="$structxad.html" title="xad" alt="" coords="179,95,221,121"/>
+<area shape="rect" id="node5" href="$structpxd__t.html" title="pxd_t" alt="" coords="241,5,295,32"/>
+<area shape="rect" id="node6" href="$structxtpage__t_1_1xtheader.html" title="xtpage_t::xtheader" alt="" coords="245,95,376,121"/>
+<area shape="rect" id="node11" href="$structdxd__t.html" title="dxd_t" alt="" coords="371,145,426,172"/>
+<area shape="rect" id="node7" href="$uniondtroot__t.html" title="dtroot_t" alt="" coords="445,205,512,231"/>
+<area shape="rect" id="node8" href="$structdtslot.html" title="dtslot" alt="" coords="451,95,506,121"/>
+<area shape="rect" id="node9" href="$structdasd.html" title="dasd" alt="" coords="531,95,581,121"/>
+<area shape="rect" id="node10" href="$structtimestruc__t.html" title="timestruc_t" alt="" coords="537,205,623,231"/>
+</map>

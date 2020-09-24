@@ -1,0 +1,9 @@
+<map id="timerfd_triggered" name="timerfd_triggered">
+<area shape="rect" id="node2" href="$timerfd_8c.html#af968d922002f186dd0d5e5f109901a11" title="timerfd_tmrproc" alt="" coords="179,31,292,57"/>
+<area shape="rect" id="node7" href="$timerfd_8c.html#a8d2081d176a79045f67b36b6931c0420" title="timerfd_alarmproc" alt="" coords="172,81,299,108"/>
+<area shape="rect" id="node3" href="$timerfd_8c.html#a7ef8b97c496aa877aa94b4c7d7896d02" title="timerfd_setup" alt="" coords="369,31,471,57"/>
+<area shape="rect" id="node4" href="$timerfd_8c.html#a7f4b73293ab79cdb90e7505cfa6874db" title="do_timerfd_settime" alt="" coords="541,31,675,57"/>
+<area shape="rect" id="node5" href="$timerfd_8c.html#a287a6ff8eb55264a31f73313239fd416" title="SYSCALL_DEFINE4" alt="" coords="723,5,869,32"/>
+<area shape="rect" id="node6" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="723,56,869,83"/>
+<area shape="rect" id="node8" href="$timerfd_8c.html#a0d50151c8c73e27b0c5d53cbe24ecb0c" title="SYSCALL_DEFINE2" alt="" coords="347,81,493,108"/>
+</map>

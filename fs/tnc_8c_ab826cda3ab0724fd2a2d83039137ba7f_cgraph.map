@@ -1,0 +1,19 @@
+<map id="lnc_add_directly" name="lnc_add_directly">
+<area shape="rect" id="node2" href="$replay_8c.html#a7b1ba80877b09e706904424df32d5ed3" title="ubifs_validate_entry" alt="" coords="169,56,308,83"/>
+<area shape="rect" id="node6" href="$ubifs_2debug_8c.html#a21f9fd19dbd716216a94f656bba5e3e0" title="ubifs_dump_node" alt="" coords="177,233,301,260"/>
+<area shape="rect" id="node3" href="$key_8h.html#a06f47822510ef850cb7065778115453c" title="key_type" alt="" coords="538,5,613,32"/>
+<area shape="rect" id="node4" href="$key_8h.html#a5dda2dc04f2e82ba628dcb1ef9313437" title="key_type_flash" alt="" coords="361,31,472,57"/>
+<area shape="rect" id="node5" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="381,81,453,108"/>
+<area shape="rect" id="node7" href="$ubifs_2debug_8c.html#a40190f9f60ac94040c30dbd97c73a3ca" title="dump_ch" alt="" coords="379,284,454,311"/>
+<area shape="rect" id="node10" href="$ubifs_2debug_8c.html#a4b30ad73e46b72b5043aa4efa7fb8d9a" title="get_key_hash" alt="" coords="365,335,468,361"/>
+<area shape="rect" id="node11" href="$ubifs_2debug_8c.html#af1196269cd9c24affacc60e33f960f49" title="get_key_fmt" alt="" coords="369,385,464,412"/>
+<area shape="rect" id="node12" href="$key_8h.html#a5611c13d648e672825da064c90c8903a" title="key_read" alt="" coords="379,132,454,159"/>
+<area shape="rect" id="node13" href="$ubifs_2debug_8c.html#a33e36c49b5c19585e6cdb24955d1e937" title="dbg_snprintf_key" alt="" coords="356,183,477,209"/>
+<area shape="rect" id="node18" href="$misc_8h.html#a1598cadb907a20f9e5dc3e7ee74edb1d" title="ubifs_idx_branch" alt="" coords="357,233,477,260"/>
+<area shape="rect" id="node8" href="$ubifs_2debug_8c.html#a1bb9ed2a2e382da8b419ce5d2a772b81" title="dbg_ntype" alt="" coords="534,335,617,361"/>
+<area shape="rect" id="node9" href="$ubifs_2debug_8c.html#a0137ecd738390d71f938f27be78c4477" title="dbg_gtype" alt="" coords="534,284,617,311"/>
+<area shape="rect" id="node14" href="$key_8h.html#a4a12b97ed78e138baf7886a6df7ed50f" title="key_inum" alt="" coords="536,233,615,260"/>
+<area shape="rect" id="node15" href="$ubifs_2debug_8c.html#ad6af0af711fdb082f6df4eaeb4d82fe6" title="get_key_type" alt="" coords="525,81,625,108"/>
+<area shape="rect" id="node16" href="$key_8h.html#acddf1ca88d72a37e06c5c608cd084656" title="key_hash" alt="" coords="536,132,615,159"/>
+<area shape="rect" id="node17" href="$key_8h.html#a10c13375b52dbb12be6f9b685d1d1ba7" title="key_block" alt="" coords="535,183,616,209"/>
+</map>

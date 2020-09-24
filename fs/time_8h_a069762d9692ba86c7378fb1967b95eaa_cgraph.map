@@ -1,0 +1,4 @@
+<map id="get_current_ntfs_time" name="get_current_ntfs_time">
+<area shape="rect" id="node2" href="$time_8h.html#a374d5f8c6f10cba579d66746bddd14e7" title="utc2ntfs" alt="" coords="201,5,271,32"/>
+<area shape="rect" id="node3" href="$ntfs_2endian_8h.html#a32083373aca4ead974dd8f68ff3374eb" title="cpu_to_sle64" alt="" coords="319,5,417,32"/>
+</map>

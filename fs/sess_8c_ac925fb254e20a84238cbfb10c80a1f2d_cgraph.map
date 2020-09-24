@@ -1,0 +1,5 @@
+<map id="sess_free_buffer" name="sess_free_buffer">
+<area shape="rect" id="node2" href="$cifsproto_8h.html#a82526102d5abe78d3e3008393f5e5286" title="free_rsp_buf" alt="" coords="172,31,267,57"/>
+<area shape="rect" id="node3" href="$cifs_2misc_8c.html#af1e2f431e26c4423ddbc662e27cedce4" title="cifs_small_buf_release" alt="" coords="315,5,469,32"/>
+<area shape="rect" id="node4" href="$cifs_2misc_8c.html#ab677aab5c673b694fd83a31dffbf07cc" title="cifs_buf_release" alt="" coords="333,56,451,83"/>
+</map>

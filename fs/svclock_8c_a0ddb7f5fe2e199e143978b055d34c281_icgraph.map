@@ -1,0 +1,12 @@
+<map id="nlmsvc_setgrantargs" name="nlmsvc_setgrantargs">
+<area shape="rect" id="node2" href="$svclock_8c.html#a12909980616f1eafffd4f4a0993dee38" title="nlmsvc_create_block" alt="" coords="196,81,341,108"/>
+<area shape="rect" id="node3" href="$svclock_8c.html#a76bac3f5e0903c5221c850b465b420b9" title="nlmsvc_lock" alt="" coords="389,81,484,108"/>
+<area shape="rect" id="node4" href="$svc4proc_8c.html#a935eed9302c6bdbd60b010bb1b9d5741" title="__nlm4svc_proc_lock" alt="" coords="532,56,680,83"/>
+<area shape="rect" id="node8" href="$svcproc_8c.html#abc3caed7f59af8637895b529bb768345" title="__nlmsvc_proc_lock" alt="" coords="535,107,677,133"/>
+<area shape="rect" id="node5" href="$svc4proc_8c.html#a6bfbaac283beda4df984dd04da13749f" title="nlm4svc_proc_lock" alt="" coords="744,5,879,32"/>
+<area shape="rect" id="node7" href="$svc4proc_8c.html#a9b9b32ee8002efdbac12935927af83f8" title="nlm4svc_proc_lock_msg" alt="" coords="728,56,895,83"/>
+<area shape="rect" id="node6" href="$svc4proc_8c.html#a201c76a88ddb831df856470a9eb2a966" title="nlm4svc_proc_nm_lock" alt="" coords="943,5,1101,32"/>
+<area shape="rect" id="node9" href="$svcproc_8c.html#ae48a862305a25c32ee82bd8434151202" title="nlmsvc_proc_lock" alt="" coords="748,107,875,133"/>
+<area shape="rect" id="node11" href="$svcproc_8c.html#a249a275266744749cc2bbc65b7fecb6e" title="nlmsvc_proc_lock_msg" alt="" coords="732,157,891,184"/>
+<area shape="rect" id="node10" href="$svcproc_8c.html#a468ca7b29904cb18838e94e8c74ef62f" title="nlmsvc_proc_nm_lock" alt="" coords="946,107,1098,133"/>
+</map>

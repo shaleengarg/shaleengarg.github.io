@@ -1,0 +1,5 @@
+<map id="sit_info" name="sit_info">
+<area shape="rect" id="node2" href="$structsec__entry.html" title="sec_entry" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node3" href="$structsegment__allocation.html" title="segment_allocation" alt="" coords="108,5,243,32"/>
+<area shape="rect" id="node4" href="$structseg__entry.html" title="seg_entry" alt="" coords="267,5,345,32"/>
+</map>

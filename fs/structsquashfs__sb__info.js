@@ -1,0 +1,25 @@
+var structsquashfs__sb__info =
+[
+    [ "block_cache", "structsquashfs__sb__info.html#a3425ba227ef8f7723ba60471b4d42dbd", null ],
+    [ "block_log", "structsquashfs__sb__info.html#ab27f555d2c26d53d6c57a52f4196c989", null ],
+    [ "block_size", "structsquashfs__sb__info.html#ac97e202859d5b3c5717285de766601b9", null ],
+    [ "bytes_used", "structsquashfs__sb__info.html#a89da12b3e003680b90d2f150146e3786", null ],
+    [ "decompressor", "structsquashfs__sb__info.html#ac9524130744f091af240021daebe1660", null ],
+    [ "devblksize", "structsquashfs__sb__info.html#a5d3bba017a2f9b7377fdc28aa78de859", null ],
+    [ "devblksize_log2", "structsquashfs__sb__info.html#a3db20d91cda2af9ea01e459e54f4e4ec", null ],
+    [ "directory_table", "structsquashfs__sb__info.html#aa0b94e117e24281cd2dd33c9c5baf317", null ],
+    [ "fragment_cache", "structsquashfs__sb__info.html#a10dbb25925dbf7b8749eb034738143c9", null ],
+    [ "fragment_index", "structsquashfs__sb__info.html#ac17b8e2243fa211d3e4c42d94cdeab82", null ],
+    [ "id_table", "structsquashfs__sb__info.html#a405d3e894de3b63fadce6993ab59ec76", null ],
+    [ "inode_lookup_table", "structsquashfs__sb__info.html#aae305e5e4d76a98b41360311b8f3a5e5", null ],
+    [ "inode_table", "structsquashfs__sb__info.html#a58dbc9b218eaba6360820bbfbefc631e", null ],
+    [ "inodes", "structsquashfs__sb__info.html#ab2437b6277a9c8ff3962c0bcd47e20a6", null ],
+    [ "meta_index", "structsquashfs__sb__info.html#a0a60767863ae726d79af0038b620c153", null ],
+    [ "meta_index_mutex", "structsquashfs__sb__info.html#a9e89c72da49e5ab724804981d042ec86", null ],
+    [ "next_meta_index", "structsquashfs__sb__info.html#a7cd59825fc8c601f1a73a417fe607177", null ],
+    [ "read_page", "structsquashfs__sb__info.html#a6c8ca918ffa5e3c1b83845a7c1713bde", null ],
+    [ "stream", "structsquashfs__sb__info.html#a5bfacc4d7f75f8e670e62b38a66dbd7b", null ],
+    [ "xattr_id_table", "structsquashfs__sb__info.html#ab0644fc87ff70a416d76fde9ece710d1", null ],
+    [ "xattr_ids", "structsquashfs__sb__info.html#a51f4ce61816db57cdf5cbb32c42dfd97", null ],
+    [ "xattr_table", "structsquashfs__sb__info.html#ad8b6aa23991e828d3c02a624a70c85d8", null ]
+];

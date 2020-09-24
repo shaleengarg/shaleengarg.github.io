@@ -1,0 +1,6 @@
+<map id="reiserfs_list_bitmap" name="reiserfs_list_bitmap">
+<area shape="rect" id="node3" href="$structreiserfs__journal__list.html" title="reiserfs_journal_list" alt="" coords="121,184,256,211"/>
+<area shape="rect" id="node2" href="$structreiserfs__bitmap__node.html" title="reiserfs_bitmap_node" alt="" coords="114,5,261,32"/>
+<area shape="rect" id="node4" href="$structreiserfs__journal__cnode.html" title="reiserfs_journal_cnode" alt="" coords="57,304,209,331"/>
+<area shape="rect" id="node5" href="$structsuper__block.html" title="super_block" alt="" coords="5,184,97,211"/>
+</map>

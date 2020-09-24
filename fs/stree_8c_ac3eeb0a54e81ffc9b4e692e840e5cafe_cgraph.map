@@ -1,0 +1,13 @@
+<map id="bin_search" name="bin_search">
+<area shape="rect" id="node2" href="$stree_8c.html#ab2d77047dfd72d6bddbd2bd02100ca55" title="comp_keys" alt="" coords="139,132,228,159"/>
+<area shape="rect" id="node3" href="$stree_8c.html#a665f4e791864e9849723ec7eff5c7d3a" title="comp_short_keys" alt="" coords="276,5,401,32"/>
+<area shape="rect" id="node4" href="$reiserfs_8h.html#abecc4f6ccf3ea24d7c84b1732769f8c2" title="le_key_k_offset" alt="" coords="281,56,396,83"/>
+<area shape="rect" id="node6" href="$reiserfs_8h.html#addd3f441c6f82ae08002a90f19877170" title="le_key_version" alt="" coords="284,107,393,133"/>
+<area shape="rect" id="node8" href="$reiserfs_8h.html#a7a18eb87edf9b13864eadf32bccd747d" title="cpu_key_k_offset" alt="" coords="276,157,401,184"/>
+<area shape="rect" id="node9" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="285,208,392,235"/>
+<area shape="rect" id="node12" href="$reiserfs_8h.html#a05b20d0d23fc98b593f6c68574395ed1" title="cpu_key_k_type" alt="" coords="280,259,397,285"/>
+<area shape="rect" id="node5" href="$reiserfs_8h.html#a67e0e7a33f122df8324e635d7d1eed04" title="offset_v2_k_offset" alt="" coords="449,56,580,83"/>
+<area shape="rect" id="node7" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="453,132,576,159"/>
+<area shape="rect" id="node10" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="455,208,575,235"/>
+<area shape="rect" id="node11" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="628,208,748,235"/>
+</map>

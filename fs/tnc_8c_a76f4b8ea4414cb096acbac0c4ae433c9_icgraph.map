@@ -1,0 +1,28 @@
+<map id="ubifs_tnc_add_nm" name="ubifs_tnc_add_nm">
+<area shape="rect" id="node2" href="$ubifs_8h.html#ad342a112d6f683c94399a45a14ec3aef" title="ubifs_jnl_update" alt="" coords="189,233,305,260"/>
+<area shape="rect" id="node19" href="$ubifs_8h.html#a295cfad6549230751ca3d670fd12fc12" title="ubifs_jnl_xrename" alt="" coords="183,512,310,539"/>
+<area shape="rect" id="node21" href="$ubifs_8h.html#ab6387ea48fd6825a567f58c2786bee56" title="ubifs_jnl_rename" alt="" coords="187,461,307,488"/>
+<area shape="rect" id="node22" href="$replay_8c.html#aed3ed0e13bec51f8343217fe9a6552fe" title="apply_replay_entry" alt="" coords="181,563,312,589"/>
+<area shape="rect" id="node3" href="$ubifs_2xattr_8c.html#a227139173e6acd4afdc79e7dab0f6637" title="create_xattr" alt="" coords="374,157,465,184"/>
+<area shape="rect" id="node8" href="$ubifs_2dir_8c.html#ace57346daa44170d0da86e02e5d502a9" title="ubifs_create" alt="" coords="373,208,466,235"/>
+<area shape="rect" id="node9" href="$ubifs_2dir_8c.html#a3a794929afbec4909d9270d60d77ac3f" title="do_tmpfile" alt="" coords="378,259,461,285"/>
+<area shape="rect" id="node13" href="$ubifs_2dir_8c.html#a1cda05627be9233d31b7eaec35155e26" title="ubifs_link" alt="" coords="381,309,458,336"/>
+<area shape="rect" id="node14" href="$ubifs_2dir_8c.html#a62ee7ccc82e083cbee42ccf01d20a652" title="ubifs_unlink" alt="" coords="374,360,465,387"/>
+<area shape="rect" id="node15" href="$ubifs_2dir_8c.html#af7ee7825efe7887ff626f7018547333f" title="ubifs_rmdir" alt="" coords="376,411,463,437"/>
+<area shape="rect" id="node16" href="$ubifs_2dir_8c.html#a8cbda000d384f82d771e78b8d630b913" title="ubifs_mkdir" alt="" coords="375,5,464,32"/>
+<area shape="rect" id="node17" href="$ubifs_2dir_8c.html#ae9d96a3c6a70aaf0f3878c82cfd8cb79" title="ubifs_mknod" alt="" coords="371,56,467,83"/>
+<area shape="rect" id="node18" href="$ubifs_2dir_8c.html#a150ff746c8a3a3468200de17cd5f0c11" title="ubifs_symlink" alt="" coords="368,107,471,133"/>
+<area shape="rect" id="node4" href="$ubifs_2xattr_8c.html#a2c0f8e28d408b8e89b4ce7d6047af912" title="ubifs_xattr_set" alt="" coords="541,157,649,184"/>
+<area shape="rect" id="node5" href="$ubifs_2xattr_8c.html#ab1059c832c48181a6da6627bc5e9a1a7" title="ubifs_xattr_remove" alt="" coords="726,107,859,133"/>
+<area shape="rect" id="node6" href="$ubifs_2xattr_8c.html#a77418f005715889cfa65e2645c52415e" title="xattr_set" alt="" coords="939,157,1013,184"/>
+<area shape="rect" id="node7" href="$ubifs_2crypto_8c.html#a4984848c1f6ebc630f98d30a9bbf2ed3" title="ubifs_crypt_set_context" alt="" coords="712,157,873,184"/>
+<area shape="rect" id="node10" href="$ubifs_2dir_8c.html#a3f555c38e148b4f95ec62ad6df5c2e4d" title="ubifs_tmpfile" alt="" coords="547,259,643,285"/>
+<area shape="rect" id="node11" href="$ubifs_2dir_8c.html#ab7cff33bbe95d2729ca524f0c565907b" title="do_rename" alt="" coords="552,461,639,488"/>
+<area shape="rect" id="node12" href="$ubifs_2dir_8c.html#a694f37c0038586c58b4a2cfeab67d496" title="ubifs_rename" alt="" coords="743,487,843,513"/>
+<area shape="rect" id="node20" href="$ubifs_2dir_8c.html#ae23dceb04d7c1e26e2a774de2a6fb458" title="ubifs_xrename" alt="" coords="542,512,649,539"/>
+<area shape="rect" id="node23" href="$replay_8c.html#adc5456ddf590ac5979e20ff60b4cf06a" title="apply_replay_list" alt="" coords="360,563,479,589"/>
+<area shape="rect" id="node24" href="$ubifs_8h.html#af76f722fe22c9c52675c75c16369d414" title="ubifs_replay_journal" alt="" coords="527,563,664,589"/>
+<area shape="rect" id="node25" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="746,563,839,589"/>
+<area shape="rect" id="node26" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="921,563,1031,589"/>
+<area shape="rect" id="node27" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="1079,563,1172,589"/>
+</map>

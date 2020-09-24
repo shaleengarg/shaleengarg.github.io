@@ -1,0 +1,26 @@
+var structbtrfsic__block =
+[
+    [ "all_blocks_node", "structbtrfsic__block.html#a78b7475a90d40657baf1dd30542e9fc9", null ],
+    [ "bh", "structbtrfsic__block.html#a2cf69d2ed7442ebe65d121d496cdbd37", null ],
+    [ "bio", "structbtrfsic__block.html#ae8ada6245d3f672e507e6611109bd779", null ],
+    [ "collision_resolving_node", "structbtrfsic__block.html#abcb3f73bacb498ec423b538af857c365", null ],
+    [ "dev_bytenr", "structbtrfsic__block.html#afd9e06da027614b9e982e51b920b9dc9", null ],
+    [ "dev_state", "structbtrfsic__block.html#a00d05fb0a4b115e185c5d48c78ad9b55", null ],
+    [ "disk_key", "structbtrfsic__block.html#a8ddaa1400876a7afac929c1e4e410bbc", null ],
+    [ "flush_gen", "structbtrfsic__block.html#a73e95a7f41ad3c460c4b01268666d2df", null ],
+    [ "generation", "structbtrfsic__block.html#a0df1be28d47dc0a0d3abf5ee3f55dc95", null ],
+    [ "iodone_w_error", "structbtrfsic__block.html#a9a66757981f362ce5ff227a5bbcfecdc", null ],
+    [ "is_iodone", "structbtrfsic__block.html#a0dbc47a2ad514cc82d9fce7ebd3343d8", null ],
+    [ "is_metadata", "structbtrfsic__block.html#ad1c9d52372b4487739f05f8b5dad2347", null ],
+    [ "is_superblock", "structbtrfsic__block.html#af1229e37b6a84f8de19c2cd1b51f6381", null ],
+    [ "logical_bytenr", "structbtrfsic__block.html#aff0517db675c124c4d166b6e59b446d1", null ],
+    [ "magic_num", "structbtrfsic__block.html#a08f3a097c3fdde790a34b132c1ca3518", null ],
+    [ "mirror_num", "structbtrfsic__block.html#a75f80e11840fb501967d004c3ed030f2", null ],
+    [ "never_written", "structbtrfsic__block.html#a5f156683c14492d3f0fcc48167537ca4", null ],
+    [ "next_in_same_bio", "structbtrfsic__block.html#addb16e6273e71f96b6048f7aa6ab1a87", null ],
+    [ "orig_bio_bh_end_io", "structbtrfsic__block.html#aa7112670660cfdbca8b08f3edd1b6bba", null ],
+    [ "orig_bio_bh_private", "structbtrfsic__block.html#a6b7a8629ba6a0670d5bee4be4916a72e", null ],
+    [ "ref_from_list", "structbtrfsic__block.html#a2f7bf81e24d1f5f75bcff39b23b05b0f", null ],
+    [ "ref_to_list", "structbtrfsic__block.html#ae00940bdb91e03fbf5fe3392a6cb5014", null ],
+    [ "submit_bio_bh_rw", "structbtrfsic__block.html#a4a460aa7e6ede90cd810140e125cc2aa", null ]
+];

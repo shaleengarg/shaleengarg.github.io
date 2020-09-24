@@ -1,0 +1,12 @@
+<map id="nlmsvc_release_block" name="nlmsvc_release_block">
+<area shape="rect" id="node2" href="$svclock_8c.html#aeff2ba88a960b7b95b54fee6104876da" title="nlmsvc_free_block" alt="" coords="204,56,335,83"/>
+<area shape="rect" id="node3" href="$svclock_8c.html#ab18d9871bd725a6c8f27ceb0da20977f" title="nlmsvc_freegrantargs" alt="" coords="383,5,529,32"/>
+<area shape="rect" id="node6" href="$svcproc_8c.html#add96548bb1294c920ed1cd9e4e6a610f" title="nlmsvc_release_call" alt="" coords="386,56,526,83"/>
+<area shape="rect" id="node8" href="$svcsubs_8c.html#a1bf5328ed3e0eac08ee57db26a5f5604" title="nlm_release_file" alt="" coords="398,107,514,133"/>
+<area shape="rect" id="node4" href="$locks_8c.html#a8fd94e778fd9f51467c83f045029c2d1" title="locks_release_private" alt="" coords="577,5,725,32"/>
+<area shape="rect" id="node5" href="$locks_8c.html#ae0e51117f92ae6dc5ccfbaa60aaa53f1" title="EXPORT_SYMBOL_GPL" alt="" coords="773,5,945,32"/>
+<area shape="rect" id="node7" href="$host_8c.html#a5769af24a4636b9c1a33576b7ba9ab8b" title="nlmsvc_release_host" alt="" coords="579,56,724,83"/>
+<area shape="rect" id="node9" href="$svcsubs_8c.html#a75ea7d971a8dfa2e4bcc2b75a1fd49be" title="nlm_file_inuse" alt="" coords="599,107,704,133"/>
+<area shape="rect" id="node10" href="$svcsubs_8c.html#aecab7af8394700c5154130ab6159de90" title="nlm_delete_file" alt="" coords="597,157,706,184"/>
+<area shape="rect" id="node11" href="$svcsubs_8c.html#a6d6045247430046ac2f74ba1cbf5ac2a" title="nlm_debug_print_file" alt="" coords="789,157,930,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="o2net_register_handler" name="o2net_register_handler">
+<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#af040c863276ab4008d7a7eca1cd5244a" title="o2hb_heartbeat_group\l_make_item" alt="" coords="420,5,571,47"/>
+<area shape="rect" id="node3" href="$tcp_8h.html#ae867ad7e749950ce049834a531e4ab86" title="o2net_register_handler" alt="" coords="207,77,360,103"/>
+<area shape="rect" id="node4" href="$dlmdomain_8c.html#a5a1e1b2dfb2beaf2266c20aaa8688155" title="dlm_register_domain\l_handlers" alt="" coords="424,80,567,121"/>
+<area shape="rect" id="node8" href="$dlmdomain_8c.html#adbe948e541ae35aec89e5c151f1beac6" title="dlm_register_net_handlers" alt="" coords="408,157,583,183"/>
+<area shape="rect" id="node5" href="$dlmdomain_8c.html#affee3bbfcdea87eedd2014d822f30644" title="dlm_join_domain" alt="" coords="631,87,749,114"/>
+<area shape="rect" id="node6" href="$dlmdomain_8c.html#ae919e83248a462e98afc7b41066b992f" title="dlm_register_domain" alt="" coords="797,87,940,114"/>
+<area shape="rect" id="node7" href="$stack__o2cb_8c.html#a6fbec0ac0199f1beacbae9a3ad9d23ef" title="o2cb_cluster_connect" alt="" coords="988,87,1137,114"/>
+<area shape="rect" id="node9" href="$dlmdomain_8c.html#addbf35211d5ebd40c5524f13ab9b65c0" title="dlm_init" alt="" coords="657,157,723,183"/>
+<area shape="rect" id="node10" href="$dlmdomain_8c.html#a3113f67c1f3d6ef0188e7b5bd9716e23" title="dlm_exit" alt="" coords="833,157,904,183"/>
+</map>

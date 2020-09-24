@@ -1,0 +1,7 @@
+<map id="lpt_scan_node" name="lpt_scan_node">
+<area shape="rect" id="node2" href="$structubifs__pnode.html" title="ubifs_pnode" alt="" coords="78,95,170,121"/>
+<area shape="rect" id="node4" href="$structubifs__nbranch.html" title="ubifs_nbranch" alt="" coords="151,184,254,211"/>
+<area shape="rect" id="node3" href="$structubifs__nnode.html" title="ubifs_nnode" alt="" coords="70,273,162,300"/>
+<area shape="rect" id="node5" href="$structubifs__cnode.html" title="ubifs_cnode" alt="" coords="153,363,245,389"/>
+<area shape="rect" id="node6" href="$structubifs__lprops.html" title="ubifs_lprops" alt="" coords="78,5,170,32"/>
+</map>

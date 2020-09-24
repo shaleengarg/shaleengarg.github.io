@@ -1,0 +1,25 @@
+var structudf__inode__info =
+[
+    [ "cached_extent", "structudf__inode__info.html#acdde8d38a8fda46927a1787181687176", null ],
+    [ "i_alloc_type", "structudf__inode__info.html#a336dab4c8e99d43c33a44574310f33b2", null ],
+    [ "i_checkpoint", "structudf__inode__info.html#a2a2a8925f1a2f904aa8838bce458a968", null ],
+    [ "i_crtime", "structudf__inode__info.html#a9606e90a1b3d2c1ea73bea2e2f1b5d79", null ],
+    [ "i_data", "structudf__inode__info.html#af8a86c2815d7bee2450a092ca173693d", null ],
+    [ "i_data_sem", "structudf__inode__info.html#a56a71d646b81ac4d0247645d7bc3c707", null ],
+    [ "i_efe", "structudf__inode__info.html#ae4f4e4784a9b0ad4fc4c14e1a4244733", null ],
+    [ "i_ext", "structudf__inode__info.html#a49c576f57ca5b3c9cb7bcf3a3c491cb8", null ],
+    [ "i_extent_cache_lock", "structudf__inode__info.html#afc21b2a7d2437613f75fe32a6b340591", null ],
+    [ "i_lad", "structudf__inode__info.html#a78de8869c897658fac3dcaf3c140fd8d", null ],
+    [ "i_lenAlloc", "structudf__inode__info.html#af39539c5b53933d6a5eec481e6c15837", null ],
+    [ "i_lenEAttr", "structudf__inode__info.html#afcf04c00c6a9f4e6d676c66aacc15666", null ],
+    [ "i_lenExtents", "structudf__inode__info.html#ab2d474353b3885a3717be361c0c1bae6", null ],
+    [ "i_location", "structudf__inode__info.html#a39bf33659a0dda7954e47e82ebb7f8b6", null ],
+    [ "i_next_alloc_block", "structudf__inode__info.html#aadac7cab819843d9d04bcd3356714fd4", null ],
+    [ "i_next_alloc_goal", "structudf__inode__info.html#a45c0d5caf818154b97f34d3645911c35", null ],
+    [ "i_sad", "structudf__inode__info.html#a431ae22ef8c4c25e6f879549b2af2c2a", null ],
+    [ "i_strat4096", "structudf__inode__info.html#ad348ac8f541209502e6d54f891dcbdd1", null ],
+    [ "i_unique", "structudf__inode__info.html#aa5b15762453369c78b68781e53822bc5", null ],
+    [ "i_use", "structudf__inode__info.html#a86d32b51185fe04ff2dc4037880faf85", null ],
+    [ "reserved", "structudf__inode__info.html#ad2a9056cc7608ec807eaed43da4a10ca", null ],
+    [ "vfs_inode", "structudf__inode__info.html#abfaa8d400cea50791672139cb810781b", null ]
+];

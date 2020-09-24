@@ -1,0 +1,7 @@
+<map id="wait_for_space" name="wait_for_space">
+<area shape="rect" id="node2" href="$splice_8c.html#a4b9620cae5c4642f4981178734cda21d" title="do_splice" alt="" coords="187,5,264,32"/>
+<area shape="rect" id="node4" href="$splice_8c.html#aed7553955ff146a804760456c46c84e5" title="vmsplice_to_pipe" alt="" coords="164,56,287,83"/>
+<area shape="rect" id="node3" href="$splice_8c.html#ad2aed189dbd8adf37fff249c7d70a342" title="SYSCALL_DEFINE6" alt="" coords="335,5,481,32"/>
+<area shape="rect" id="node5" href="$splice_8c.html#a3372a2c96c02f0f3aac3261370f733bf" title="do_vmsplice" alt="" coords="361,56,455,83"/>
+<area shape="rect" id="node6" href="$splice_8c.html#a5900ed20422734dbd7eb19b5f2b594b0" title="SYSCALL_DEFINE4" alt="" coords="529,56,676,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sparingTable" name="sparingTable">
+<area shape="rect" id="node2" href="$structtag.html" title="tag" alt="" coords="5,5,45,32"/>
+<area shape="rect" id="node3" href="$structsparingEntry.html" title="sparingEntry" alt="" coords="70,5,165,32"/>
+<area shape="rect" id="node4" href="$structregid.html" title="regid" alt="" coords="189,5,240,32"/>
+</map>

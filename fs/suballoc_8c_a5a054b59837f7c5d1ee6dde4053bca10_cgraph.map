@@ -1,0 +1,11 @@
+<map id="ocfs2_get_suballoc_slot_bit" name="ocfs2_get_suballoc_slot_bit">
+<area shape="rect" id="node2" href="$buffer__head__io_8c.html#ac3b749268d05394e51db9836fd7e844d" title="ocfs2_read_blocks_sync" alt="" coords="188,48,355,74"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="852,22,952,49"/>
+<area shape="rect" id="node5" href="$buffer_8c.html#ade60786fa99b4fbb4cf607434af395db" title="end_buffer_read_sync" alt="" coords="403,48,553,74"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#ab65df498c54845f497bae7afe9222c91" title="submit_bh" alt="" coords="437,124,519,150"/>
+<area shape="rect" id="node4" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="1020,73,1159,100"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a85e290b32d9599acd25df3b159392ab7" title="__end_buffer_read_notouch" alt="" coords="601,22,784,49"/>
+<area shape="rect" id="node8" href="$buffer_8c.html#a5fd6f01c5f9cff0945cb999cbefa412d" title="submit_bh_wbc" alt="" coords="636,174,749,201"/>
+<area shape="rect" id="node9" href="$buffer_8c.html#a2463267e7636f2be0fc2b44fb65cb5ba" title="end_bio_bh_io_sync" alt="" coords="832,174,972,201"/>
+<area shape="rect" id="node10" href="$buffer_8c.html#aa35a4aa9ac3d40858082aabb83e2a44c" title="guard_bio_eod" alt="" coords="849,225,955,252"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="cifs/smb2glob.h" name="cifs/smb2glob.h">
+<area shape="rect" id="node2" href="$smb2inode_8c.html" title="cifs/smb2inode.c" alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$smb2maperror_8c.html" title="cifs/smb2maperror.c" alt="" coords="151,80,293,107"/>
+<area shape="rect" id="node4" href="$smb2misc_8c.html" title="cifs/smb2misc.c" alt="" coords="317,80,436,107"/>
+<area shape="rect" id="node5" href="$smb2ops_8c.html" title="cifs/smb2ops.c" alt="" coords="460,80,571,107"/>
+<area shape="rect" id="node6" href="$smb2pdu_8c.html" title="cifs/smb2pdu.c" alt="" coords="595,80,705,107"/>
+<area shape="rect" id="node7" href="$smb2transport_8c.html" title="cifs/smb2transport.c" alt="" coords="730,80,871,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="cifs/smbdirect.h" name="cifs/smbdirect.h">
+<area shape="rect" id="node2" href="$cifssmb_8c.html" title="cifs/cifssmb.c" alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$connect_8c.html" title="cifs/connect.c" alt="" coords="133,80,237,107"/>
+<area shape="rect" id="node4" href="$cifs_2file_8c.html" title="cifs/file.c" alt="" coords="261,80,336,107"/>
+<area shape="rect" id="node5" href="$smb2ops_8c.html" title="cifs/smb2ops.c" alt="" coords="361,80,471,107"/>
+<area shape="rect" id="node6" href="$smb2pdu_8c.html" title="cifs/smb2pdu.c" alt="" coords="495,80,606,107"/>
+<area shape="rect" id="node7" href="$smbdirect_8c.html" title="cifs/smbdirect.c" alt="" coords="631,80,745,107"/>
+<area shape="rect" id="node8" href="$transport_8c.html" title="cifs/transport.c" alt="" coords="769,80,879,107"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="hfs_sb_info" name="hfs_sb_info">
+<area shape="rect" id="node2" href="$structsuper__block.html" title="super_block" alt="" coords="113,184,205,211"/>
+<area shape="rect" id="node3" href="$structhfs__btree.html" title="hfs_btree" alt="" coords="235,288,311,315"/>
+<area shape="rect" id="node4" href="$structhfs__bnode.html" title="hfs_bnode" alt="" coords="260,392,343,419"/>
+<area shape="rect" id="node5" href="$unionhfs__btree__key.html" title="hfs_btree_key" alt="" coords="229,184,333,211"/>
+<area shape="rect" id="node6" href="$structhfs__cat__key.html" title="hfs_cat_key" alt="" coords="160,95,253,121"/>
+<area shape="rect" id="node7" href="$structhfs__name.html" title="hfs_name" alt="" coords="167,5,246,32"/>
+<area shape="rect" id="node8" href="$structhfs__ext__key.html" title="hfs_ext_key" alt="" coords="277,95,371,121"/>
+<area shape="rect" id="node9" href="$structhfs__mdb.html" title="hfs_mdb" alt="" coords="20,288,92,315"/>
+<area shape="rect" id="node10" href="$structhfs__extent.html" title="hfs_extent" alt="" coords="5,184,88,211"/>
+</map>

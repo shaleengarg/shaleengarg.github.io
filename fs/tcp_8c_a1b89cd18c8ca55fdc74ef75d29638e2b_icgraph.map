@@ -1,0 +1,17 @@
+<map id="o2net_sc_reset_idle_timer" name="o2net_sc_reset_idle_timer">
+<area shape="rect" id="node2" href="$tcp_8c.html#a9d9086574f23c74b02b49d10eb0e6e5f" title="o2net_check_handshake" alt="" coords="403,56,569,83"/>
+<area shape="rect" id="node14" href="$tcp_8c.html#a4ea4b645175b1bb5fd15e4732d3633fd" title="o2net_idle_timer" alt="" coords="623,107,740,133"/>
+<area shape="rect" id="node15" href="$tcp_8c.html#a2f89f8edba708aa9635b594221bcfa03" title="o2net_sc_postpone_idle" alt="" coords="192,5,355,32"/>
+<area shape="rect" id="node3" href="$tcp_8c.html#a94d5c5b6c64f5aaf3e386dcd3a5bd77c" title="o2net_advance_rx" alt="" coords="617,56,745,83"/>
+<area shape="rect" id="node4" href="$tcp_8c.html#a27395b82c3f77667e9d767d46d2ab355" title="o2net_rx_until_empty" alt="" coords="793,56,940,83"/>
+<area shape="rect" id="node5" href="$tcp_8c.html#a257b377559f7a4d8282d66b2d933ae49" title="sc_alloc" alt="" coords="988,81,1059,108"/>
+<area shape="rect" id="node6" href="$tcp_8c.html#a097f512946354c78f0b53eb4fcd6fd42" title="o2net_start_connect" alt="" coords="1107,56,1247,83"/>
+<area shape="rect" id="node9" href="$tcp_8c.html#ac73d0c806814eca64213a06d1dacd771" title="o2net_accept_one" alt="" coords="1113,107,1241,133"/>
+<area shape="rect" id="node7" href="$tcp_8h.html#a63ae446e18b253df18335ace7ccfdf46" title="o2net_init" alt="" coords="1325,56,1403,83"/>
+<area shape="rect" id="node8" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="1531,56,1610,83"/>
+<area shape="rect" id="node10" href="$tcp_8c.html#ada18952d3c8f540c6fb5cf0fb0901094" title="o2net_accept_many" alt="" coords="1295,107,1433,133"/>
+<area shape="rect" id="node11" href="$tcp_8c.html#ab41de79e6f9001bc68a1c45bad3445ce" title="o2net_open_listening_sock" alt="" coords="1481,107,1660,133"/>
+<area shape="rect" id="node12" href="$tcp_8h.html#a85e16817b9ce24bc69259cfd93415810" title="o2net_start_listening" alt="" coords="1708,107,1851,133"/>
+<area shape="rect" id="node13" href="$nodemanager_8c.html#a4b7a34e9cb0299e35a63d842a16dbb79" title="o2nm_node_local_store" alt="" coords="1899,107,2057,133"/>
+<area shape="rect" id="node16" href="$tcp_8c.html#afd0241860f50bcb990de41f6566f4c2c" title="o2net_process_message" alt="" coords="403,5,569,32"/>
+</map>

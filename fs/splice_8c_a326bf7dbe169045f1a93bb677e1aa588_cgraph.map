@@ -1,0 +1,27 @@
+<map id="do_splice_from" name="do_splice_from">
+<area shape="rect" id="node2" href="$splice_8c.html#a92558d6392446b70d13a5e1b051b308a" title="default_file_splice\l_write" alt="" coords="164,302,291,343"/>
+<area shape="rect" id="node3" href="$splice_8c.html#abb1203da780195d9fbfa496bcb59ade2" title="splice_from_pipe" alt="" coords="339,284,459,311"/>
+<area shape="rect" id="node22" href="$splice_8c.html#a49fef2ff2668bae438350b1a944463c8" title="write_pipe_buf" alt="" coords="345,335,452,361"/>
+<area shape="rect" id="node4" href="$pipe_8c.html#acf6fdd2128993d70bbb11c7aee561f48" title="pipe_lock" alt="" coords="1095,291,1172,317"/>
+<area shape="rect" id="node7" href="$splice_8c.html#a8760e1dc22b1f9cd0cd063268bf91c89" title="__splice_from_pipe" alt="" coords="507,132,641,159"/>
+<area shape="rect" id="node18" href="$pipe_8c.html#a62efee87ea4adec1ffb9b5b901f5f5ab" title="pipe_unlock" alt="" coords="1088,240,1179,267"/>
+<area shape="rect" id="node5" href="$pipe_8c.html#a984401e3f4bf9e82551af9f062a2cd02" title="pipe_lock_nested" alt="" coords="1235,291,1357,317"/>
+<area shape="rect" id="node6" href="$pipe_8c.html#af9a88fcab614fe914715bc865ec53616" title="EXPORT_SYMBOL" alt="" coords="1227,240,1365,267"/>
+<area shape="rect" id="node8" href="$splice_8c.html#ab912d2c8e237406d4a2e6e31daa08d50" title="splice_from_pipe_begin" alt="" coords="689,107,848,133"/>
+<area shape="rect" id="node9" href="$splice_8c.html#a200cc516aba74fc3bea38b97c5ba98e9" title="splice_from_pipe_next" alt="" coords="693,157,845,184"/>
+<area shape="rect" id="node19" href="$splice_8c.html#a84afc51a691f457f6776eb481ea41502" title="splice_from_pipe_feed" alt="" coords="693,208,845,235"/>
+<area shape="rect" id="node20" href="$splice_8c.html#ab022061b0610efbfc985cdc174df41de" title="splice_from_pipe_end" alt="" coords="695,56,843,83"/>
+<area shape="rect" id="node21" href="$splice_8c.html#aed8d0eded3ac520e69b4a7f4dcac067a" title="EXPORT_SYMBOL" alt="" coords="699,5,838,32"/>
+<area shape="rect" id="node10" href="$splice_8c.html#ae67a9b0582450cb372a08f52e9d1af91" title="wakeup_pipe_writers" alt="" coords="896,132,1040,159"/>
+<area shape="rect" id="node17" href="$pipe_8c.html#aed92895c4cd0e85a14dacc83660deb77" title="pipe_wait" alt="" coords="929,208,1007,235"/>
+<area shape="rect" id="node11" href="$fcntl_8c.html#a5a434f3099ac49e16d362421dea0e9c1" title="kill_fasync" alt="" coords="1091,132,1175,159"/>
+<area shape="rect" id="node12" href="$fcntl_8c.html#ab439268f4e746f76f44faf97ef3af17e" title="kill_fasync_rcu" alt="" coords="1241,120,1351,147"/>
+<area shape="rect" id="node16" href="$fcntl_8c.html#a96260ad34b4946a4c5c22a19887f36d3" title="EXPORT_SYMBOL" alt="" coords="1227,171,1365,197"/>
+<area shape="rect" id="node13" href="$fcntl_8c.html#a7b4f7b330f707178ae5513573df6e29e" title="send_sigio" alt="" coords="1413,120,1497,147"/>
+<area shape="rect" id="node14" href="$fcntl_8c.html#a3c961d893927e2fa472fb9de853ea225" title="send_sigio_to_task" alt="" coords="1545,120,1680,147"/>
+<area shape="rect" id="node15" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="1728,120,1813,147"/>
+<area shape="rect" id="node23" href="$read__write_8c.html#a059eae1a3bb8834816834325b0e2521b" title="__kernel_write" alt="" coords="521,360,627,387"/>
+<area shape="rect" id="node24" href="$read__write_8c.html#afa78d288f1d4bb4b053c65e1b0155dbd" title="__vfs_write" alt="" coords="724,411,813,437"/>
+<area shape="rect" id="node26" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="699,360,838,387"/>
+<area shape="rect" id="node25" href="$read__write_8c.html#a4b2f4ef6718d3c4726de9b775fb4ea0f" title="new_sync_write" alt="" coords="910,411,1026,437"/>
+</map>

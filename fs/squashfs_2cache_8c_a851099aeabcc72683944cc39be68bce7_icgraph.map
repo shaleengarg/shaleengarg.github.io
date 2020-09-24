@@ -1,0 +1,28 @@
+<map id="squashfs_read_metadata" name="squashfs_read_metadata">
+<area shape="rect" id="node2" href="$squashfs_2xattr_8c.html#a320d3cd90ab65d31eb0e62adf7169875" title="squashfs_listxattr" alt="" coords="252,5,377,32"/>
+<area shape="rect" id="node3" href="$squashfs_2xattr_8c.html#a79c03a41eeff1ae89ffd0ad9a49a9d70" title="squashfs_xattr_get" alt="" coords="248,56,381,83"/>
+<area shape="rect" id="node5" href="$squashfs_2dir_8c.html#a88ad423976693f26abc7d39eab8c58d2" title="get_dir_index_using\l_offset" alt="" coords="246,158,383,199"/>
+<area shape="rect" id="node6" href="$squashfs_2dir_8c.html#ab7b32e7a48b0c7a8f945f314ea7779b8" title="squashfs_readdir" alt="" coords="487,115,608,141"/>
+<area shape="rect" id="node7" href="$squashfs_2file_8c.html#a9f5e4abf38a44232a2c6af389a86a145" title="read_indexes" alt="" coords="265,275,364,301"/>
+<area shape="rect" id="node9" href="$squashfs_2file_8c.html#a3c7e57029c078d28fe54b688dcd975f8" title="read_blocklist" alt="" coords="723,224,826,251"/>
+<area shape="rect" id="node11" href="$squashfs_8h.html#ac4f1ceee1884dee0dbfd22711b796832" title="squashfs_read_inode" alt="" coords="702,480,847,507"/>
+<area shape="rect" id="node13" href="$squashfs_2namei_8c.html#afc6162718ffce8795bb052703654e572" title="squashfs_lookup" alt="" coords="1107,376,1227,403"/>
+<area shape="rect" id="node21" href="$squashfs_2namei_8c.html#aa18078ca618908a0ebe08b384d3173af" title="get_dir_index_using_name" alt="" coords="687,376,863,403"/>
+<area shape="rect" id="node22" href="$squashfs_2symlink_8c.html#a68b3f1ac5841f1bff656a367232a1b8e" title="squashfs_symlink_readpage" alt="" coords="221,680,408,707"/>
+<area shape="rect" id="node23" href="$squashfs_2export_8c.html#a18b6535e7f809c73584f195d6dd03662" title="squashfs_inode_lookup" alt="" coords="695,623,854,649"/>
+<area shape="rect" id="node24" href="$squashfs_8h.html#a205041f52ea3bb6c60a8583a03866b16" title="squashfs_frag_lookup" alt="" coords="473,427,622,453"/>
+<area shape="rect" id="node25" href="$squashfs_8h.html#a0111f7f9e4fdc71eba27838898636247" title="squashfs_get_id" alt="" coords="256,477,373,504"/>
+<area shape="rect" id="node27" href="$xattr__id_8c.html#a07a771543231eafb051d0f3c812e98db" title="squashfs_xattr_lookup" alt="" coords="471,528,624,555"/>
+<area shape="rect" id="node4" href="$squashfs_2xattr_8c.html#adf6ed62328142c58cbd878dd95e8b37a" title="squashfs_xattr_handler_get" alt="" coords="456,56,639,83"/>
+<area shape="rect" id="node8" href="$squashfs_2file_8c.html#a19da932e92d50c90419f53fbb3a049ab" title="fill_meta_index" alt="" coords="493,275,602,301"/>
+<area shape="rect" id="node10" href="$squashfs_2file_8c.html#a0bd06ed1a7f82548ed746b23770e2b8e" title="squashfs_readpage" alt="" coords="911,224,1045,251"/>
+<area shape="rect" id="node12" href="$squashfs_8h.html#a5c7aa22395bde9961df4012f72b72612" title="squashfs_iget" alt="" coords="927,484,1029,511"/>
+<area shape="rect" id="node18" href="$squashfs_2super_8c.html#a48ba1323faf987f31cbbad8b50ed27ed" title="squashfs_fill_super" alt="" coords="911,433,1045,460"/>
+<area shape="rect" id="node14" href="$squashfs_2export_8c.html#aaaa8d6979b380cf19b3029966f8cc9f8" title="squashfs_export_iget" alt="" coords="1093,547,1240,573"/>
+<area shape="rect" id="node15" href="$squashfs_2export_8c.html#ad6a74adca0b19633927b82b5845bbddb" title="squashfs_fh_to_dentry" alt="" coords="1292,597,1447,624"/>
+<area shape="rect" id="node16" href="$squashfs_2export_8c.html#a9a2ed84879abb802d46526a32e18859f" title="squashfs_fh_to_parent" alt="" coords="1292,496,1447,523"/>
+<area shape="rect" id="node17" href="$squashfs_2export_8c.html#a1d75260b97e4c291f52d2b716b8fb746" title="squashfs_get_parent" alt="" coords="1298,547,1441,573"/>
+<area shape="rect" id="node19" href="$squashfs_2super_8c.html#a83e0fd973f1099e80ee1690fa32a3c62" title="squashfs_mount" alt="" coords="1107,433,1226,460"/>
+<area shape="rect" id="node20" href="$squashfs_2super_8c.html#a1023ee8c3db7502a0b46b0194566d3c2" title="squashfs_destroy_inode" alt="" coords="1288,433,1451,460"/>
+<area shape="rect" id="node26" href="$squashfs_2inode_8c.html#a05e19e6dcd7234cff6b132bdb46cb3ef" title="squashfs_new_inode" alt="" coords="475,477,619,504"/>
+</map>

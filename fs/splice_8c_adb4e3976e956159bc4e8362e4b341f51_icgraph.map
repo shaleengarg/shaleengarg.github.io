@@ -1,0 +1,11 @@
+<map id="ipipe_prep" name="ipipe_prep">
+<area shape="rect" id="node2" href="$splice_8c.html#ac79d27ab7fd25dd66bb74a2f1901d376" title="splice_pipe_to_pipe" alt="" coords="135,56,271,83"/>
+<area shape="rect" id="node9" href="$splice_8c.html#a11c03640277fc9f313bf324cdb553531" title="do_tee" alt="" coords="172,107,233,133"/>
+<area shape="rect" id="node3" href="$splice_8c.html#a78539888abad934d61b534863ffdf9e0" title="wait_for_space" alt="" coords="337,56,447,83"/>
+<area shape="rect" id="node4" href="$splice_8c.html#a4b9620cae5c4642f4981178734cda21d" title="do_splice" alt="" coords="536,5,613,32"/>
+<area shape="rect" id="node6" href="$splice_8c.html#aed7553955ff146a804760456c46c84e5" title="vmsplice_to_pipe" alt="" coords="513,56,636,83"/>
+<area shape="rect" id="node5" href="$splice_8c.html#ad2aed189dbd8adf37fff249c7d70a342" title="SYSCALL_DEFINE6" alt="" coords="684,5,831,32"/>
+<area shape="rect" id="node7" href="$splice_8c.html#a3372a2c96c02f0f3aac3261370f733bf" title="do_vmsplice" alt="" coords="710,56,805,83"/>
+<area shape="rect" id="node8" href="$splice_8c.html#a5900ed20422734dbd7eb19b5f2b594b0" title="SYSCALL_DEFINE4" alt="" coords="879,56,1025,83"/>
+<area shape="rect" id="node10" href="$splice_8c.html#ada2f8d8cead085561e35ff063a77fd69" title="SYSCALL_DEFINE4" alt="" coords="319,107,465,133"/>
+</map>

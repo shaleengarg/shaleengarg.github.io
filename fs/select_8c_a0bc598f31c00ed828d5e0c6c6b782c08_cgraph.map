@@ -1,0 +1,7 @@
+<map id="poll_initwait" name="poll_initwait">
+<area shape="rect" id="node2" href="$select_8c.html#a20e4ca916714342989f9f3edfc488c8e" title="__pollwait" alt="" coords="173,31,253,57"/>
+<area shape="rect" id="node6" href="$select_8c.html#abad9d80929a1d1237bc26318e30c3539" title="EXPORT_SYMBOL" alt="" coords="144,81,283,108"/>
+<area shape="rect" id="node3" href="$select_8c.html#ad937c2ddeb360354174166b98a88cae0" title="poll_get_entry" alt="" coords="331,5,433,32"/>
+<area shape="rect" id="node4" href="$select_8c.html#ae07a5fe8836d301f9d35250269186a7f" title="pollwake" alt="" coords="345,56,419,83"/>
+<area shape="rect" id="node5" href="$select_8c.html#ac29eb33760fa7d23716df1e47eb2606b" title="__pollwake" alt="" coords="481,56,568,83"/>
+</map>

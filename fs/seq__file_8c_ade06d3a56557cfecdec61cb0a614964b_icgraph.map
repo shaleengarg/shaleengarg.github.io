@@ -1,0 +1,8 @@
+<map id="seq_path_root" name="seq_path_root">
+<area shape="rect" id="node2" href="$proc__namespace_8c.html#a16615e722ae5f7e36968baddedd659a0" title="show_vfsmnt" alt="" coords="166,5,266,32"/>
+<area shape="rect" id="node4" href="$proc__namespace_8c.html#a02c5b7fbb6e01b9458d86508bd6fdaf6" title="show_mountinfo" alt="" coords="157,56,275,83"/>
+<area shape="rect" id="node6" href="$proc__namespace_8c.html#a6e06c7546d2308c17320db53ad4a8c0a" title="show_vfsstat" alt="" coords="166,107,266,133"/>
+<area shape="rect" id="node3" href="$proc__namespace_8c.html#ab46d3693c856f70d92f8f7888b6bca77" title="mounts_open" alt="" coords="334,5,434,32"/>
+<area shape="rect" id="node5" href="$proc__namespace_8c.html#a01e5cfba62c85c228d49f6928101f100" title="mountinfo_open" alt="" coords="327,56,441,83"/>
+<area shape="rect" id="node7" href="$proc__namespace_8c.html#a4e1ec7b406aabce2befc39103b634f2d" title="mountstats_open" alt="" coords="323,107,445,133"/>
+</map>

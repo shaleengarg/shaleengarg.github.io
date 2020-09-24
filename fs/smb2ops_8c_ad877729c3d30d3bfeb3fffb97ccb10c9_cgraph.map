@@ -1,0 +1,7 @@
+<map id="decrypt_raw_data" name="decrypt_raw_data">
+<area shape="rect" id="node2" href="$smb2ops_8c.html#af60e4f5b64f21a3149e77817be21d9e1" title="crypt_message" alt="" coords="179,56,289,83"/>
+<area shape="rect" id="node3" href="$smb2ops_8c.html#a180736c9f373732ae3861d8a97fadc5c" title="smb2_get_enc_key" alt="" coords="362,5,497,32"/>
+<area shape="rect" id="node4" href="$smb2proto_8h.html#ac5d830218f7187786d11a28cb0d470ba" title="smb3_crypto_aead_allocate" alt="" coords="337,56,521,83"/>
+<area shape="rect" id="node5" href="$smb2ops_8c.html#ae240d082648a4fb11250fdfffc06bc0a" title="init_sg" alt="" coords="399,107,459,133"/>
+<area shape="rect" id="node6" href="$smb2ops_8c.html#a9d6abb9c338da0749cfbec10ed36be1d" title="smb2_sg_set_buf" alt="" coords="569,107,695,133"/>
+</map>

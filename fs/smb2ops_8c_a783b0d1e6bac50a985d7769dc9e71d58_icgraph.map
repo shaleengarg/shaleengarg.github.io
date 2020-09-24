@@ -1,0 +1,7 @@
+<map id="init_read_bvec" name="init_read_bvec">
+<area shape="rect" id="node2" href="$smb2ops_8c.html#a120dc7fae7d617d35ab38e802a70973f" title="handle_read_data" alt="" coords="160,31,284,57"/>
+<area shape="rect" id="node3" href="$smb2ops_8c.html#a995322e4f17f922d00e65d9b5075e809" title="receive_encrypted_read" alt="" coords="333,5,493,32"/>
+<area shape="rect" id="node5" href="$smb2proto_8h.html#a8af6eec7dba4339f4478512b963a2519" title="smb3_handle_read_data" alt="" coords="332,56,495,83"/>
+<area shape="rect" id="node4" href="$smb2ops_8c.html#a9f25a97d4c7242f6ccabec8d906b5cba" title="smb3_receive_transform" alt="" coords="543,5,708,32"/>
+<area shape="rect" id="node6" href="$smb2proto_8h.html#aa3db58ad1d0e43865b2756d59cfb89c4" title="smb2_async_readv" alt="" coords="558,56,693,83"/>
+</map>

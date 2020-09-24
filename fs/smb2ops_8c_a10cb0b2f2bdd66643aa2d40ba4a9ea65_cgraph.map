@@ -1,0 +1,5 @@
+<map id="smb2_dump_detail" name="smb2_dump_detail">
+<area shape="rect" id="node2" href="$smb2glob_8h.html#a95909fe75fb97ee67281d6ee12d3f0be" title="get_sync_hdr" alt="" coords="563,31,663,57"/>
+<area shape="rect" id="node3" href="$smb2misc_8c.html#a11274b02b5655f31bbbddbf1dbe3f343" title="smb2_calc_size" alt="" coords="184,31,300,57"/>
+<area shape="rect" id="node4" href="$smb2misc_8c.html#aadd4b507f5e649897baaaf0eef2fed33" title="smb2_get_data_area_len" alt="" coords="348,81,515,108"/>
+</map>

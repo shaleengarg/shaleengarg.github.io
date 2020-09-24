@@ -1,0 +1,14 @@
+<map id="SMB2_sess_data" name="SMB2_sess_data">
+<area shape="rect" id="node2" href="$structcifs__ses.html" title="cifs_ses" alt="" coords="431,332,502,359"/>
+<area shape="rect" id="node3" href="$structcifs__tcon.html" title="cifs_tcon" alt="" coords="508,451,583,477"/>
+<area shape="rect" id="node4" href="$structTCP__Server__Info.html" title="TCP_Server_Info" alt="" coords="209,243,332,269"/>
+<area shape="rect" id="node10" href="$structmid__q__entry.html" title="mid_q_entry" alt="" coords="224,332,317,359"/>
+<area shape="rect" id="node5" href="$structcifs__secmech.html" title="cifs_secmech" alt="" coords="171,153,274,180"/>
+<area shape="rect" id="node6" href="$structsdesc.html" title="sdesc" alt="" coords="194,5,251,32"/>
+<area shape="rect" id="node7" href="$structsmb__version__values.html" title="smb_version_values" alt="" coords="5,153,147,180"/>
+<area shape="rect" id="node8" href="$structsmb__version__operations.html" title="smb_version_operations" alt="" coords="69,451,232,477"/>
+<area shape="rect" id="node9" href="$structcifs__ntsd.html" title="cifs_ntsd" alt="" coords="120,332,195,359"/>
+<area shape="rect" id="node11" href="$structsession__key.html" title="session_key" alt="" coords="473,153,567,180"/>
+<area shape="rect" id="node12" href="$structsmbd__connection.html" title="smbd_connection" alt="" coords="298,153,422,180"/>
+<area shape="rect" id="node13" href="$structntlmssp__auth.html" title="ntlmssp_auth" alt="" coords="398,243,498,269"/>
+</map>

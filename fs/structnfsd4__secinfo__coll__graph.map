@@ -1,0 +1,6 @@
+<map id="nfsd4_secinfo" name="nfsd4_secinfo">
+<area shape="rect" id="node2" href="$structsvc__export.html" title="svc_export" alt="" coords="65,184,152,211"/>
+<area shape="rect" id="node3" href="$structexp__flavor__info.html" title="exp_flavor_info" alt="" coords="5,95,116,121"/>
+<area shape="rect" id="node4" href="$structnfsd4__fs__locations.html" title="nfsd4_fs_locations" alt="" coords="141,95,271,121"/>
+<area shape="rect" id="node5" href="$structnfsd4__fs__location.html" title="nfsd4_fs_location" alt="" coords="144,5,268,32"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="squashfs/squashfs.h" name="squashfs/squashfs.h">
+<area shape="rect" id="node2" href="$block_8c.html" title="squashfs/block.c" alt="" coords="5,87,127,114"/>
+<area shape="rect" id="node3" href="$squashfs_2cache_8c.html" title="squashfs/cache.c" alt="" coords="151,87,277,114"/>
+<area shape="rect" id="node4" href="$decompressor_8c.html" title="squashfs/decompressor.c" alt="" coords="301,87,473,114"/>
+<area shape="rect" id="node5" href="$decompressor__multi_8c.html" title="squashfs/decompressor\l_multi.c" alt="" coords="497,80,659,121"/>
+<area shape="rect" id="node6" href="$decompressor__multi__percpu_8c.html" title="squashfs/decompressor\l_multi_percpu.c" alt="" coords="683,80,844,121"/>
+<area shape="rect" id="node7" href="$decompressor__single_8c.html" title="squashfs/decompressor\l_single.c" alt="" coords="868,80,1029,121"/>
+<area shape="rect" id="node8" href="$squashfs_2dir_8c.html" title="squashfs/dir.c" alt="" coords="1054,87,1158,114"/>
+<area shape="rect" id="node9" href="$squashfs_2export_8c.html" title="squashfs/export.c" alt="" coords="1183,87,1309,114"/>
+<area shape="rect" id="node10" href="$squashfs_2file_8c.html" title="squashfs/file.c" alt="" coords="1334,87,1441,114"/>
+<area shape="rect" id="node11" href="$file__cache_8c.html" title="squashfs/file_cache.c" alt="" coords="1465,87,1614,114"/>
+<area shape="rect" id="node12" href="$file__direct_8c.html" title="squashfs/file_direct.c" alt="" coords="1638,87,1785,114"/>
+<area shape="rect" id="node13" href="$fragment_8c.html" title="squashfs/fragment.c" alt="" coords="1809,87,1950,114"/>
+<area shape="rect" id="node14" href="$id_8c.html" title="squashfs/id.c" alt="" coords="1975,87,2075,114"/>
+<area shape="rect" id="node15" href="$squashfs_2inode_8c.html" title="squashfs/inode.c" alt="" coords="2099,87,2220,114"/>
+<area shape="rect" id="node16" href="$lz4__wrapper_8c.html" title="squashfs/lz4_wrapper.c" alt="" coords="2245,87,2405,114"/>
+<area shape="rect" id="node17" href="$lzo__wrapper_8c.html" title="squashfs/lzo_wrapper.c" alt="" coords="2429,87,2589,114"/>
+<area shape="rect" id="node18" href="$squashfs_2namei_8c.html" title="squashfs/namei.c" alt="" coords="2613,87,2738,114"/>
+<area shape="rect" id="node19" href="$squashfs_2super_8c.html" title="squashfs/super.c" alt="" coords="2762,87,2885,114"/>
+<area shape="rect" id="node20" href="$squashfs_2symlink_8c.html" title="squashfs/symlink.c" alt="" coords="2909,87,3044,114"/>
+<area shape="rect" id="node21" href="$squashfs_2xattr_8c.html" title="squashfs/xattr.c" alt="" coords="3068,87,3184,114"/>
+<area shape="rect" id="node22" href="$xattr__id_8c.html" title="squashfs/xattr_id.c" alt="" coords="3209,87,3342,114"/>
+<area shape="rect" id="node23" href="$xz__wrapper_8c.html" title="squashfs/xz_wrapper.c" alt="" coords="3366,87,3523,114"/>
+<area shape="rect" id="node24" href="$zlib__wrapper_8c.html" title="squashfs/zlib_wrapper.c" alt="" coords="3547,87,3710,114"/>
+<area shape="rect" id="node25" href="$zstd__wrapper_8c.html" title="squashfs/zstd_wrapper.c" alt="" coords="3734,87,3902,114"/>
+</map>

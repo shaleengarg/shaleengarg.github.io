@@ -1,0 +1,14 @@
+<map id="pollwake" name="pollwake">
+<area shape="rect" id="node2" href="$select_8c.html#a20e4ca916714342989f9f3edfc488c8e" title="__pollwait" alt="" coords="127,93,207,120"/>
+<area shape="rect" id="node3" href="$select_8c.html#a0bc598f31c00ed828d5e0c6c6b782c08" title="poll_initwait" alt="" coords="255,93,345,120"/>
+<area shape="rect" id="node4" href="$select_8c.html#a6f95d5d1b0fc43045b7378d6616731c9" title="do_select" alt="" coords="399,68,478,95"/>
+<area shape="rect" id="node11" href="$select_8c.html#ae7602c4c2e2277dae5265782ae582a31" title="do_sys_poll" alt="" coords="393,119,484,145"/>
+<area shape="rect" id="node5" href="$select_8c.html#ad81dc766b4f9dedc11e76d7a1e619217" title="core_sys_select" alt="" coords="547,17,664,44"/>
+<area shape="rect" id="node10" href="$select_8c.html#a5ff1a25c65df57d73e808e982cf1d106" title="SYSCALL_DEFINE5" alt="" coords="532,68,679,95"/>
+<area shape="rect" id="node6" href="$select_8c.html#aee2fd10ee5ce1bfad7559e5476718a67" title="kern_select" alt="" coords="755,5,845,32"/>
+<area shape="rect" id="node9" href="$select_8c.html#a7a4c03c4dae89028dcb09aecd30e247e" title="do_pselect" alt="" coords="757,56,843,83"/>
+<area shape="rect" id="node7" href="$select_8c.html#a2ee66e318d48b019e140f5524c322fdd" title="SYSCALL_DEFINE5" alt="" coords="921,5,1068,32"/>
+<area shape="rect" id="node8" href="$select_8c.html#a6775938e4a7949205880bdf2c3ffbf13" title="SYSCALL_DEFINE6" alt="" coords="921,56,1068,83"/>
+<area shape="rect" id="node12" href="$select_8c.html#a596ee9216ca57163de16ce2a5383cb01" title="do_restart_poll" alt="" coords="552,119,659,145"/>
+<area shape="rect" id="node13" href="$select_8c.html#ac416698057b055d08d9dd1a90404359f" title="SYSCALL_DEFINE3" alt="" coords="727,132,873,159"/>
+</map>

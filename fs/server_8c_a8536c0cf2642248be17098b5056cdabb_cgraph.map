@@ -1,0 +1,4 @@
+<map id="afs_set_server_timer" name="afs_set_server_timer">
+<area shape="rect" id="node2" href="$server_8c.html#a81301b5e11aad118600a065dd49eba21" title="afs_inc_servers_outstanding" alt="" coords="199,5,387,32"/>
+<area shape="rect" id="node3" href="$server_8c.html#a886fd02eefe7c66b65e05d98d2189d01" title="afs_dec_servers_outstanding" alt="" coords="197,56,389,83"/>
+</map>

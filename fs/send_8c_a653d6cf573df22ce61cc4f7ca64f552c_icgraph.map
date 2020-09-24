@@ -1,0 +1,16 @@
+<map id="send_remove_xattr" name="send_remove_xattr">
+<area shape="rect" id="node2" href="$send_8c.html#a0bf8207c25a1ee8e54a63941911f2094" title="__process_deleted_xattr" alt="" coords="187,56,351,83"/>
+<area shape="rect" id="node3" href="$send_8c.html#a8d6fc114f529a52600ba53209cef074a" title="process_deleted_xattr" alt="" coords="637,29,787,56"/>
+<area shape="rect" id="node14" href="$send_8c.html#ab46effa49b64919367d4956284a8f060" title="__process_changed_deleted\l_xattr" alt="" coords="399,78,585,119"/>
+<area shape="rect" id="node4" href="$send_8c.html#a751d820e7fcb912418551989d4fc57be" title="changed_xattr" alt="" coords="839,56,943,83"/>
+<area shape="rect" id="node5" href="$send_8c.html#abe3b8e4f248db44c5a9b828c4aac5fb8" title="changed_cb" alt="" coords="991,56,1083,83"/>
+<area shape="rect" id="node6" href="$ctree_8h.html#a5257b08c1179846a4b187072dc75a499" title="btrfs_compare_trees" alt="" coords="1131,5,1272,32"/>
+<area shape="rect" id="node7" href="$send_8c.html#a0870601d54997017a637c49d5ee5c970" title="send_subvol" alt="" coords="1320,56,1415,83"/>
+<area shape="rect" id="node13" href="$send_8c.html#a3d90320d85aa2a92ced82c1d85ea00f5" title="full_send_tree" alt="" coords="1150,107,1253,133"/>
+<area shape="rect" id="node8" href="$send_8c.html#a63f24a806681201190dbe5f61f82f8dc" title="btrfs_ioctl_send" alt="" coords="1463,56,1577,83"/>
+<area shape="rect" id="node9" href="$btrfs_2ioctl_8c.html#a632ddddcbd50906d82dffb535fc7c24a" title="_btrfs_ioctl_send" alt="" coords="1625,56,1747,83"/>
+<area shape="rect" id="node10" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="1795,56,1873,83"/>
+<area shape="rect" id="node11" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="1921,56,2096,83"/>
+<area shape="rect" id="node12" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="2144,56,2241,83"/>
+<area shape="rect" id="node15" href="$send_8c.html#ab5d15342fe356e3b25aab823e124df9d" title="process_changed_xattr" alt="" coords="633,81,791,108"/>
+</map>

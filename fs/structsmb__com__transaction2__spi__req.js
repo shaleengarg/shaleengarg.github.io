@@ -1,0 +1,26 @@
+var structsmb__com__transaction2__spi__req =
+[
+    [ "ByteCount", "structsmb__com__transaction2__spi__req.html#a2d77202c3917ab257b4aeaef0d2539c2", null ],
+    [ "DataCount", "structsmb__com__transaction2__spi__req.html#a93c7073fa852b36edcf4de96f7495faf", null ],
+    [ "DataOffset", "structsmb__com__transaction2__spi__req.html#a903f63423583601db75b07cfe9dc3627", null ],
+    [ "FileName", "structsmb__com__transaction2__spi__req.html#a0ae6ddba44759d891ababdd68b73486b", null ],
+    [ "Flags", "structsmb__com__transaction2__spi__req.html#a8bc111861a1ef4467775a6119210e700", null ],
+    [ "hdr", "structsmb__com__transaction2__spi__req.html#a9adfd1f45ca902d3e84cd45adae0ad0c", null ],
+    [ "InformationLevel", "structsmb__com__transaction2__spi__req.html#aa508177c37f0447673f78a9a65303fbc", null ],
+    [ "MaxDataCount", "structsmb__com__transaction2__spi__req.html#acda72d36a2aa84a6673ce2b99f8ed479", null ],
+    [ "MaxParameterCount", "structsmb__com__transaction2__spi__req.html#abe58061beb5670b0ffdc4b7a8ae2ea22", null ],
+    [ "MaxSetupCount", "structsmb__com__transaction2__spi__req.html#afbfb7dec90da8f77b6de71e2f1d34cb4", null ],
+    [ "Pad", "structsmb__com__transaction2__spi__req.html#a243436e7b30749756fe6d08dbc1399bf", null ],
+    [ "Pad1", "structsmb__com__transaction2__spi__req.html#a953c54e1f378c421fd667c0b677632c4", null ],
+    [ "ParameterCount", "structsmb__com__transaction2__spi__req.html#ae25d0a66d7b62fcc62921355bdcb525c", null ],
+    [ "ParameterOffset", "structsmb__com__transaction2__spi__req.html#ab0ab1b05ac658be6e08f3055613ede7e", null ],
+    [ "Reserved", "structsmb__com__transaction2__spi__req.html#a7dee212ff254f41bb8c8d2c9d40dec99", null ],
+    [ "Reserved2", "structsmb__com__transaction2__spi__req.html#aa1f819b3d8da070039f14fd0fdec924e", null ],
+    [ "Reserved3", "structsmb__com__transaction2__spi__req.html#a0a1ef8c3ce00d05761959d704fcdf3de", null ],
+    [ "Reserved4", "structsmb__com__transaction2__spi__req.html#a7fd97e522f53956aeb6b9a67d8602238", null ],
+    [ "SetupCount", "structsmb__com__transaction2__spi__req.html#af00e23ee1f9025d3af91bb1aab7e982c", null ],
+    [ "SubCommand", "structsmb__com__transaction2__spi__req.html#a1fd15070650e7e5519f00335d8dda012", null ],
+    [ "Timeout", "structsmb__com__transaction2__spi__req.html#a81703bde7544269a921848d5dfe46085", null ],
+    [ "TotalDataCount", "structsmb__com__transaction2__spi__req.html#a57e2b4f52e47a38840021d5456970677", null ],
+    [ "TotalParameterCount", "structsmb__com__transaction2__spi__req.html#a5b70ef3335815a718c80dd3275176a46", null ]
+];

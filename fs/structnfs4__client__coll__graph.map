@@ -1,0 +1,12 @@
+<map id="nfs4_client" name="nfs4_client">
+<area shape="rect" id="node2" href="$structnfsd4__session.html" title="nfsd4_session" alt="" coords="471,380,578,407"/>
+<area shape="rect" id="node7" href="$structnfsd4__callback.html" title="nfsd4_callback" alt="" coords="97,380,206,407"/>
+<area shape="rect" id="node3" href="$structnfsd4__cb__sec.html" title="nfsd4_cb_sec" alt="" coords="391,5,493,32"/>
+<area shape="rect" id="node11" href="$structnfsd4__create__session.html" title="nfsd4_create_session" alt="" coords="343,109,493,136"/>
+<area shape="rect" id="node4" href="$structnfsd4__channel__attrs.html" title="nfsd4_channel_attrs" alt="" coords="593,5,731,32"/>
+<area shape="rect" id="node5" href="$structnfsd4__slot.html" title="nfsd4_slot" alt="" coords="481,291,563,317"/>
+<area shape="rect" id="node6" href="$structclientid__t.html" title="clientid_t" alt="" coords="289,5,363,32"/>
+<area shape="rect" id="node8" href="$structnfsd4__callback__ops.html" title="nfsd4_callback_ops" alt="" coords="5,291,143,317"/>
+<area shape="rect" id="node9" href="$structnfs4__cb__conn.html" title="nfs4_cb_conn" alt="" coords="160,200,263,227"/>
+<area shape="rect" id="node10" href="$structnfsd4__clid__slot.html" title="nfsd4_clid_slot" alt="" coords="346,200,455,227"/>
+</map>

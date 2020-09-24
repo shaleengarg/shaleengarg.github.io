@@ -1,0 +1,11 @@
+<map id="ceph_inode_info" name="ceph_inode_info">
+<area shape="rect" id="node5" href="$structceph__cap.html" title="ceph_cap" alt="" coords="325,184,404,211"/>
+<area shape="rect" id="node2" href="$structceph__snap__realm.html" title="ceph_snap_realm" alt="" coords="73,5,197,32"/>
+<area shape="rect" id="node3" href="$structceph__inode__xattrs__info.html" title="ceph_inode_xattrs_info" alt="" coords="287,5,443,32"/>
+<area shape="rect" id="node4" href="$structceph__cap__flush.html" title="ceph_cap_flush" alt="" coords="467,5,580,32"/>
+<area shape="rect" id="node6" href="$structceph__mds__session.html" title="ceph_mds_session" alt="" coords="297,273,432,300"/>
+<area shape="rect" id="node7" href="$structceph__mds__client.html" title="ceph_mds_client" alt="" coords="305,363,425,389"/>
+<area shape="rect" id="node8" href="$structceph__fs__client.html" title="ceph_fs_client" alt="" coords="199,452,306,479"/>
+<area shape="rect" id="node9" href="$structsuper__block.html" title="super_block" alt="" coords="5,363,97,389"/>
+<area shape="rect" id="node10" href="$structceph__mount__options.html" title="ceph_mount_options" alt="" coords="121,363,264,389"/>
+</map>

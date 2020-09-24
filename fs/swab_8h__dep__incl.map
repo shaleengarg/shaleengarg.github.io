@@ -1,0 +1,11 @@
+<map id="ufs/swab.h" name="ufs/swab.h">
+<area shape="rect" id="node2" href="$ufs_2balloc_8c.html" title="ufs/balloc.c" alt="" coords="5,155,95,181"/>
+<area shape="rect" id="node3" href="$ufs_2util_8h.html" title="ufs/util.h" alt="" coords="417,80,489,107"/>
+<area shape="rect" id="node4" href="$cylinder_8c.html" title="ufs/cylinder.c" alt="" coords="119,155,219,181"/>
+<area shape="rect" id="node5" href="$ufs_2dir_8c.html" title="ufs/dir.c" alt="" coords="243,155,313,181"/>
+<area shape="rect" id="node6" href="$ufs_2ialloc_8c.html" title="ufs/ialloc.c" alt="" coords="337,155,422,181"/>
+<area shape="rect" id="node7" href="$ufs_2inode_8c.html" title="ufs/inode.c" alt="" coords="561,155,648,181"/>
+<area shape="rect" id="node9" href="$ufs_2super_8c.html" title="ufs/super.c" alt="" coords="672,155,759,181"/>
+<area shape="rect" id="node10" href="$ufs_2util_8c.html" title="ufs/util.c" alt="" coords="783,155,855,181"/>
+<area shape="rect" id="node8" href="$ufs_2namei_8c.html" title="ufs/namei.c" alt="" coords="446,155,537,181"/>
+</map>

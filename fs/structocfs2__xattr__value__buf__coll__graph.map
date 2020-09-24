@@ -1,0 +1,8 @@
+<map id="ocfs2_xattr_value_buf" name="ocfs2_xattr_value_buf">
+<area shape="rect" id="node2" href="$structocfs2__xattr__value__root.html" title="ocfs2_xattr_value_root" alt="" coords="5,184,160,211"/>
+<area shape="rect" id="node3" href="$structocfs2__extent__list.html" title="ocfs2_extent_list" alt="" coords="21,95,142,121"/>
+<area shape="rect" id="node4" href="$structocfs2__extent__rec.html" title="ocfs2_extent_rec" alt="" coords="20,5,143,32"/>
+<area shape="rect" id="node5" href="$structocfs2__caching__info.html" title="ocfs2_caching_info" alt="" coords="185,184,319,211"/>
+<area shape="rect" id="node6" href="$structocfs2__caching__operations.html" title="ocfs2_caching_operations" alt="" coords="167,95,340,121"/>
+<area shape="rect" id="node7" href="$structsuper__block.html" title="super_block" alt="" coords="207,5,299,32"/>
+</map>

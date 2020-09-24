@@ -1,0 +1,26 @@
+var structext4__group__desc =
+[
+    [ "bg_block_bitmap_csum_hi", "structext4__group__desc.html#a424ad0df3c6273fc165518966b8970aa", null ],
+    [ "bg_block_bitmap_csum_lo", "structext4__group__desc.html#af467487a72e26077d992055e06ea4951", null ],
+    [ "bg_block_bitmap_hi", "structext4__group__desc.html#aabacffd9a7f5a56bfac8196fbaa2f044", null ],
+    [ "bg_block_bitmap_lo", "structext4__group__desc.html#a4546c2e849c88e5723404fddd05065ee", null ],
+    [ "bg_checksum", "structext4__group__desc.html#a5fdae4d64d663bfe5414529e318e42b3", null ],
+    [ "bg_exclude_bitmap_hi", "structext4__group__desc.html#a8ebc5f9295bfee39ac5fed3fadf27ad7", null ],
+    [ "bg_exclude_bitmap_lo", "structext4__group__desc.html#a3d8a68f9d9d50d1e5daeff2ef7646eb1", null ],
+    [ "bg_flags", "structext4__group__desc.html#a0dc34bebb2da2e6bbce358b2a2d2d32d", null ],
+    [ "bg_free_blocks_count_hi", "structext4__group__desc.html#ad6eeed6e87070f074d8a75475b14c138", null ],
+    [ "bg_free_blocks_count_lo", "structext4__group__desc.html#a89f66f07f8c3fbc229de0838e511e6c9", null ],
+    [ "bg_free_inodes_count_hi", "structext4__group__desc.html#a9f4578f88827d50a4255602cbfd083ba", null ],
+    [ "bg_free_inodes_count_lo", "structext4__group__desc.html#a0f431e479d341b0b1177905697963ebc", null ],
+    [ "bg_inode_bitmap_csum_hi", "structext4__group__desc.html#a379cffd0d5cba0fef74b461e2138c5f7", null ],
+    [ "bg_inode_bitmap_csum_lo", "structext4__group__desc.html#a75ee271b6dc7b429175628c3462a1dee", null ],
+    [ "bg_inode_bitmap_hi", "structext4__group__desc.html#abbdd09d7d4cc9f85d076670a84d05a31", null ],
+    [ "bg_inode_bitmap_lo", "structext4__group__desc.html#a3750e10a69f6ad3a996a8b71246da9f7", null ],
+    [ "bg_inode_table_hi", "structext4__group__desc.html#a479ef94a150f1ed5cecc53ce6678bbd9", null ],
+    [ "bg_inode_table_lo", "structext4__group__desc.html#a47649c65eb366a04f32f95af9a5dc56a", null ],
+    [ "bg_itable_unused_hi", "structext4__group__desc.html#ad4c9293571959b1db2ea6812159f9f63", null ],
+    [ "bg_itable_unused_lo", "structext4__group__desc.html#a9316310638b123254bd3b0faef967478", null ],
+    [ "bg_reserved", "structext4__group__desc.html#a4715e2b9353d3a86380d056ef1924137", null ],
+    [ "bg_used_dirs_count_hi", "structext4__group__desc.html#a64ba038ffa4ac62b0a76ff310cba4c63", null ],
+    [ "bg_used_dirs_count_lo", "structext4__group__desc.html#ab4c92281431be1aa68e446f0d39b5900", null ]
+];

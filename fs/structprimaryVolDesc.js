@@ -1,0 +1,25 @@
+var structprimaryVolDesc =
+[
+    [ "appIdent", "structprimaryVolDesc.html#a44798a61f6bde9859165d0b559d09a6c", null ],
+    [ "charSetList", "structprimaryVolDesc.html#a33135a9f6a6e722d8a56fc6f3cd27e3c", null ],
+    [ "descCharSet", "structprimaryVolDesc.html#ad254597107ccd4608b9a200928ff6710", null ],
+    [ "descTag", "structprimaryVolDesc.html#a414fa30c2e9339a24b436c1f887d8da1", null ],
+    [ "explanatoryCharSet", "structprimaryVolDesc.html#a8afa1ce8af3c4d707c3fbd3ecfca744a", null ],
+    [ "flags", "structprimaryVolDesc.html#a97f974e66ac700b3fb781b9a8853fcdc", null ],
+    [ "impIdent", "structprimaryVolDesc.html#a12adcbb34fe5e9c32f19b5cd79ab0b24", null ],
+    [ "impUse", "structprimaryVolDesc.html#a391d6060c67b30660a41482bbaa3802b", null ],
+    [ "interchangeLvl", "structprimaryVolDesc.html#a430e32fb70ae0717ee37c59277f77ca0", null ],
+    [ "maxCharSetList", "structprimaryVolDesc.html#aa4936b1544dfca6b09525e9af6d9d7f2", null ],
+    [ "maxInterchangeLvl", "structprimaryVolDesc.html#a286de39397cefa33f9c22be10d3d3ab0", null ],
+    [ "maxVolSeqNum", "structprimaryVolDesc.html#aef194b9ffecbb0c11bb40b42010951e2", null ],
+    [ "predecessorVolDescSeqLocation", "structprimaryVolDesc.html#ad842076d828b7b548be97797ad83ce74", null ],
+    [ "primaryVolDescNum", "structprimaryVolDesc.html#aa0f00950efbe04ec95e176841d7df12b", null ],
+    [ "recordingDateAndTime", "structprimaryVolDesc.html#afda05390245b7fcf660c0cd026205ee6", null ],
+    [ "reserved", "structprimaryVolDesc.html#adf9e2e4d10a2e390f099441d5433786b", null ],
+    [ "volAbstract", "structprimaryVolDesc.html#aad409c80d3bae83add0bb48d5af69444", null ],
+    [ "volCopyright", "structprimaryVolDesc.html#a9ec34460fae21362ea0e123c255adefe", null ],
+    [ "volDescSeqNum", "structprimaryVolDesc.html#a997bd1747676f3fd216aa56cd3d56239", null ],
+    [ "volIdent", "structprimaryVolDesc.html#a09f4639f85250dd7e4aca1d39c472ee6", null ],
+    [ "volSeqNum", "structprimaryVolDesc.html#ab1cbd201ef6cbbedd6d122e9589001fa", null ],
+    [ "volSetIdent", "structprimaryVolDesc.html#a8617661b92891c1688e6b4f1cc938755", null ]
+];

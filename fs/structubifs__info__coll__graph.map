@@ -1,0 +1,24 @@
+<map id="ubifs_info" name="ubifs_info">
+<area shape="rect" id="node18" href="$structubifs__wbuf.html" title="ubifs_wbuf" alt="" coords="1261,633,1347,660"/>
+<area shape="rect" id="node2" href="$structubifs__lpt__heap.html" title="ubifs_lpt_heap" alt="" coords="301,36,408,63"/>
+<area shape="rect" id="node3" href="$structubifs__lprops.html" title="ubifs_lprops" alt="" coords="5,81,97,108"/>
+<area shape="rect" id="node6" href="$structubifs__pnode.html" title="ubifs_pnode" alt="" coords="185,120,277,147"/>
+<area shape="rect" id="node4" href="$structubifs__nnode.html" title="ubifs_nnode" alt="" coords="644,235,736,261"/>
+<area shape="rect" id="node5" href="$structubifs__nbranch.html" title="ubifs_nbranch" alt="" coords="432,152,535,179"/>
+<area shape="rect" id="node7" href="$structubifs__cnode.html" title="ubifs_cnode" alt="" coords="873,169,965,196"/>
+<area shape="rect" id="node8" href="$structubifs__orphan.html" title="ubifs_orphan" alt="" coords="871,373,967,400"/>
+<area shape="rect" id="node9" href="$structubifs__node__range.html" title="ubifs_node_range" alt="" coords="857,424,981,451"/>
+<area shape="rect" id="node10" href="$structubifs__lp__stats.html" title="ubifs_lp_stats" alt="" coords="639,607,741,633"/>
+<area shape="rect" id="node12" href="$structubifs__debug__info.html" title="ubifs_debug_info" alt="" coords="859,651,979,677"/>
+<area shape="rect" id="node11" href="$structsuper__block.html" title="super_block" alt="" coords="873,537,965,564"/>
+<area shape="rect" id="node13" href="$structubifs__budg__info.html" title="ubifs_budg_info" alt="" coords="633,493,747,520"/>
+<area shape="rect" id="node14" href="$structubifs__zbranch.html" title="ubifs_zbranch" alt="" coords="639,785,741,812"/>
+<area shape="rect" id="node16" href="$structubifs__znode.html" title="ubifs_znode" alt="" coords="873,755,965,781"/>
+<area shape="rect" id="node19" href="$structbu__info.html" title="bu_info" alt="" coords="887,868,951,895"/>
+<area shape="rect" id="node15" href="$unionubifs__key.html" title="ubifs_key" alt="" coords="444,860,523,887"/>
+<area shape="rect" id="node17" href="$structubifs__jhead.html" title="ubifs_jhead" alt="" coords="1428,603,1516,629"/>
+<area shape="rect" id="node20" href="$structubifs__mst__node.html" title="ubifs_mst_node" alt="" coords="861,919,976,945"/>
+<area shape="rect" id="node21" href="$structubifs__ch.html" title="ubifs_ch" alt="" coords="655,947,725,973"/>
+<area shape="rect" id="node22" href="$structubifs__mount__opts.html" title="ubifs_mount_opts" alt="" coords="856,969,981,996"/>
+<area shape="rect" id="node23" href="$structubifs__lpt__lprops.html" title="ubifs_lpt_lprops" alt="" coords="862,1024,975,1051"/>
+</map>

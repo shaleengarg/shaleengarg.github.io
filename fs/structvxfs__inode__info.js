@@ -1,0 +1,25 @@
+var structvxfs__inode__info =
+[
+    [ "dotdot", "structvxfs__inode__info.html#a0ecd4aacefcbc81c67ea6f0c93098598", null ],
+    [ "ext4", "structvxfs__inode__info.html#a182043279b9ab59ee4aa30ac194b455e", null ],
+    [ "immed", "structvxfs__inode__info.html#a332aef5e183d95a3fb9ebb0a496c3dc1", null ],
+    [ "rdev", "structvxfs__inode__info.html#a0a0ef7b2be9c9d923a5c01db5b7b2631", null ],
+    [ "typed", "structvxfs__inode__info.html#a4abe9a309b1383f248bd02444c683df3", null ],
+    [ "vfs_inode", "structvxfs__inode__info.html#a3fcadf53528f294143cb17e2eb372517", null ],
+    [ "vii_atime", "structvxfs__inode__info.html#a293e064ae925c9881046921b0184e86f", null ],
+    [ "vii_autime", "structvxfs__inode__info.html#a6b38a46e269c0cab3617c5c345f5b049", null ],
+    [ "vii_blocks", "structvxfs__inode__info.html#a186ec0e73133b357983419590f2e2cd3", null ],
+    [ "vii_ctime", "structvxfs__inode__info.html#addcf036dd499216a4c5c10886dfd373e", null ],
+    [ "vii_cutime", "structvxfs__inode__info.html#ab033b5183bc82e350a905a015bc43434", null ],
+    [ "vii_ftarea", "structvxfs__inode__info.html#a50e5a4620f7fcc06e8dadaee3dbf4309", null ],
+    [ "vii_gen", "structvxfs__inode__info.html#a117f2907020b28232f68026c02115943", null ],
+    [ "vii_gid", "structvxfs__inode__info.html#ad4a0e95041a4072699929edda11092bc", null ],
+    [ "vii_mode", "structvxfs__inode__info.html#ad47a2ca7bb99d298e6776c5653acf7a2", null ],
+    [ "vii_mtime", "structvxfs__inode__info.html#a2a47fe86559083ed8413e4a75abe333a", null ],
+    [ "vii_mutime", "structvxfs__inode__info.html#ae4ba2f85302bf77f9d3a0c723fa0b57e", null ],
+    [ "vii_nlink", "structvxfs__inode__info.html#a920b9c380b39e414e538e381aab87f7a", null ],
+    [ "vii_org", "structvxfs__inode__info.html#a3721c654d3b0b4a4db4a254635619fbf", null ],
+    [ "vii_orgtype", "structvxfs__inode__info.html#a55cf816a674662b36350f2535c516028", null ],
+    [ "vii_size", "structvxfs__inode__info.html#a8c11dd91bbe53334db41f01ad1402a65", null ],
+    [ "vii_uid", "structvxfs__inode__info.html#a8995ebcdd39f5e285c2a382499321394", null ]
+];
