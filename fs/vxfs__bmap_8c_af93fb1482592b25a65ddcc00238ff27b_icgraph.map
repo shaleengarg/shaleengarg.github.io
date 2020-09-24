@@ -1,0 +1,12 @@
+<map id="vxfs_bmap_indir" name="vxfs_bmap_indir">
+<area shape="rect" id="node2" href="$vxfs__bmap_8c.html#ab16cf9b0720779be0191479479c2fe68" title="vxfs_bmap_typed" alt="" coords="171,31,296,57"/>
+<area shape="rect" id="node3" href="$vxfs__extern_8h.html#a860bccfa95916984620ad49393d2e31a" title="vxfs_bmap1" alt="" coords="344,31,437,57"/>
+<area shape="rect" id="node4" href="$vxfs__subr_8c.html#a1e9711137ce851c31ead7e6cb3e16ed1" title="vxfs_bread" alt="" coords="487,5,573,32"/>
+<area shape="rect" id="node9" href="$vxfs__subr_8c.html#a3382f4ecde3eeb01704cedbce1bd9e5c" title="vxfs_getblk" alt="" coords="485,56,575,83"/>
+<area shape="rect" id="node5" href="$vxfs__fshead_8c.html#a502da25c84b35c6ed846bdbf1b77a3a1" title="vxfs_getfsh" alt="" coords="631,5,721,32"/>
+<area shape="rect" id="node6" href="$vxfs__fshead_8c.html#ab9f65b99bdfe579729883cd2f2f97dee" title="vxfs_read_fshead" alt="" coords="777,5,903,32"/>
+<area shape="rect" id="node7" href="$vxfs__super_8c.html#a1a0516750b0747cdac3f67a9dc339254" title="vxfs_fill_super" alt="" coords="951,5,1057,32"/>
+<area shape="rect" id="node8" href="$vxfs__super_8c.html#a7f5943b315f644d46f42436878918ef1" title="vxfs_mount" alt="" coords="1105,5,1196,32"/>
+<area shape="rect" id="node10" href="$vxfs__subr_8c.html#ae603542da1268f94f23543ced6d1575d" title="vxfs_readpage" alt="" coords="623,56,729,83"/>
+<area shape="rect" id="node11" href="$vxfs__subr_8c.html#a77f03e90845365f050fdc9eed2bf7b9b" title="vxfs_bmap" alt="" coords="633,107,719,133"/>
+</map>

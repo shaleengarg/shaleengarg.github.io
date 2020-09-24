@@ -1,0 +1,17 @@
+<map id="read_from_oldmem" name="read_from_oldmem">
+<area shape="rect" id="node2" href="$vmcore_8c.html#a9b5c83cb6860236a59d3eebbbb3ebdb7" title="elfcorehdr_read" alt="" coords="589,213,700,240"/>
+<area shape="rect" id="node7" href="$vmcore_8c.html#a04c937ba53a3f4ee3b6b3dc00435d1f8" title="elfcorehdr_read_notes" alt="" coords="187,123,337,149"/>
+<area shape="rect" id="node14" href="$vmcore_8c.html#a8f3158e08a8c8602262b4eb197f421f6" title="__read_vmcore" alt="" coords="207,291,317,317"/>
+<area shape="rect" id="node3" href="$vmcore_8c.html#ac897b94ba9093a5f0a3979f2099c0c6d" title="parse_crash_elf64_headers" alt="" coords="764,163,945,189"/>
+<area shape="rect" id="node4" href="$vmcore_8c.html#a01c022a0aa4c0ed90729636dee6c9a17" title="parse_crash_elf_headers" alt="" coords="993,163,1160,189"/>
+<area shape="rect" id="node6" href="$vmcore_8c.html#a92d26f114b60cf5e8bcb69ad3f43dd02" title="parse_crash_elf32_headers" alt="" coords="764,112,945,139"/>
+<area shape="rect" id="node5" href="$vmcore_8c.html#a96b3f33aac2c6921c86e2e3c03514724" title="vmcore_init" alt="" coords="1208,163,1297,189"/>
+<area shape="rect" id="node8" href="$vmcore_8c.html#ab856674081d315ec4187e460865ae1ae" title="update_note_header\l_size_elf64" alt="" coords="386,174,525,215"/>
+<area shape="rect" id="node10" href="$vmcore_8c.html#af36092c91c5bb8e02b342d46eaf60d5f" title="copy_notes_elf64" alt="" coords="393,123,517,149"/>
+<area shape="rect" id="node11" href="$vmcore_8c.html#a5015aad2ad7eb79edc134839f0a8e9b0" title="update_note_header\l_size_elf32" alt="" coords="386,57,525,98"/>
+<area shape="rect" id="node13" href="$vmcore_8c.html#a6596a327b6da9632e8c863e0a59e616e" title="copy_notes_elf32" alt="" coords="393,5,517,32"/>
+<area shape="rect" id="node9" href="$vmcore_8c.html#a2583937126689e215c0386b86dffebe6" title="merge_note_headers\l_elf64" alt="" coords="573,147,716,189"/>
+<area shape="rect" id="node12" href="$vmcore_8c.html#a38bbdf37e0c1906579cc9d28235244c7" title="merge_note_headers\l_elf32" alt="" coords="573,57,716,98"/>
+<area shape="rect" id="node15" href="$vmcore_8c.html#af6bda29e3f8aec9fa8ed020bb752f9af" title="read_vmcore" alt="" coords="407,341,504,368"/>
+<area shape="rect" id="node16" href="$vmcore_8c.html#a24eeeaa703108ac5dfc7a300d3d622fd" title="mmap_vmcore_fault" alt="" coords="385,291,525,317"/>
+</map>

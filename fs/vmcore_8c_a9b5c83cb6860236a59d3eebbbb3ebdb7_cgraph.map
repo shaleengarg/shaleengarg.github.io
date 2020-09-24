@@ -1,0 +1,6 @@
+<map id="elfcorehdr_read" name="elfcorehdr_read">
+<area shape="rect" id="node2" href="$vmcore_8c.html#aec70881827b590ad2aea09dab2916549" title="read_from_oldmem" alt="" coords="164,31,297,57"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="361,5,416,32"/>
+<area shape="rect" id="node5" href="$vmcore_8c.html#a16b5dbcf92d02d88ed7b7082544ffb4d" title="pfn_is_ram" alt="" coords="345,56,432,83"/>
+<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="480,5,599,32"/>
+</map>

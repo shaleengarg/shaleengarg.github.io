@@ -1,0 +1,11 @@
+<map id="afs_destroy_volume" name="afs_destroy_volume">
+<area shape="rect" id="node2" href="$afs_2internal_8h.html#aaac25a890c99d6fcb4cb429e93727ddc" title="afs_put_serverlist" alt="" coords="192,56,317,83"/>
+<area shape="rect" id="node8" href="$cell_8c.html#af1e2a474c0fe033e96957cd070d6c52a" title="afs_put_cell" alt="" coords="209,107,301,133"/>
+<area shape="rect" id="node3" href="$afs_2callback_8c.html#a1fb0cb3663862e4ac804ff42a51947a3" title="afs_put_cb_interest" alt="" coords="365,5,501,32"/>
+<area shape="rect" id="node4" href="$afs_2internal_8h.html#ac302952d9136c1a378f99892a114ef0d" title="afs_put_server" alt="" coords="583,31,691,57"/>
+<area shape="rect" id="node5" href="$server_8c.html#a8536c0cf2642248be17098b5056cdabb" title="afs_set_server_timer" alt="" coords="773,31,917,57"/>
+<area shape="rect" id="node6" href="$server_8c.html#a81301b5e11aad118600a065dd49eba21" title="afs_inc_servers_outstanding" alt="" coords="967,5,1155,32"/>
+<area shape="rect" id="node7" href="$server_8c.html#a886fd02eefe7c66b65e05d98d2189d01" title="afs_dec_servers_outstanding" alt="" coords="965,56,1157,83"/>
+<area shape="rect" id="node9" href="$cell_8c.html#a0dcd6b8b691da343d0b32c8f96c3ebfb" title="afs_set_cell_timer" alt="" coords="369,107,497,133"/>
+<area shape="rect" id="node10" href="$cell_8c.html#a1354c53831375a8e3a5e2b9843232ae1" title="afs_dec_cells_outstanding" alt="" coords="549,107,725,133"/>
+</map>

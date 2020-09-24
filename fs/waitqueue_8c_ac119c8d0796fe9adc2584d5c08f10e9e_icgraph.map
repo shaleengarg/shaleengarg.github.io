@@ -1,0 +1,13 @@
+<map id="orangefs_cancel_op_in_progress" name="orangefs_cancel_op_in_progress">
+<area shape="rect" id="node2" href="$orangefs_2file_8c.html#aa1b6dbe3b1cfd80448279e406422ce3d" title="wait_for_direct_io" alt="" coords="192,107,316,133"/>
+<area shape="rect" id="node10" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="581,157,684,184"/>
+<area shape="rect" id="node3" href="$orangefs_2file_8c.html#a08e28eace668250b492a2dc48d0b31b2" title="do_readv_writev" alt="" coords="377,56,494,83"/>
+<area shape="rect" id="node6" href="$orangefs-kernel_8h.html#a530cc13ee3c7b3575ef01da57a8f95ed" title="orangefs_inode_read" alt="" coords="364,107,507,133"/>
+<area shape="rect" id="node4" href="$orangefs_2file_8c.html#a78c6a97db6ff67a1c63d186e01a44d32" title="orangefs_file_read_iter" alt="" coords="556,5,709,32"/>
+<area shape="rect" id="node5" href="$orangefs_2file_8c.html#a56878b9959f0e16b45dda72625fd983a" title="orangefs_file_write_iter" alt="" coords="555,56,711,83"/>
+<area shape="rect" id="node7" href="$orangefs_2inode_8c.html#a665db7ec39904c6cb926be7fb32ff3b1" title="read_one_page" alt="" coords="577,107,688,133"/>
+<area shape="rect" id="node8" href="$orangefs_2inode_8c.html#ace546957c2eb991535e1d58864244c36" title="orangefs_readpage" alt="" coords="762,56,894,83"/>
+<area shape="rect" id="node9" href="$orangefs_2inode_8c.html#acdcadfeeadb154a7978f97c7341bae5c" title="orangefs_readpages" alt="" coords="759,107,897,133"/>
+<area shape="rect" id="node11" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="761,158,895,199"/>
+<area shape="rect" id="node12" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="945,165,1095,192"/>
+</map>

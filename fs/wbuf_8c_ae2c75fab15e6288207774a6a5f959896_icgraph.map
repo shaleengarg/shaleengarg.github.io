@@ -1,0 +1,10 @@
+<map id="delayed_wbuf_sync" name="delayed_wbuf_sync">
+<area shape="rect" id="node2" href="$wbuf_8c.html#a24e000f79fe215717ad7ce47080ef508" title="jffs2_nand_flash_setup" alt="" coords="191,5,347,32"/>
+<area shape="rect" id="node7" href="$wbuf_8c.html#a01b33c82f6b876e6e458c695c7ab3a97" title="jffs2_dataflash_setup" alt="" coords="195,56,342,83"/>
+<area shape="rect" id="node8" href="$wbuf_8c.html#a6c03fb445e406144041bf683895f83f7" title="jffs2_nor_wbuf_flash\l_setup" alt="" coords="197,107,340,149"/>
+<area shape="rect" id="node9" href="$wbuf_8c.html#ae1091c0146ecfd3deb161c1fe62c16dc" title="jffs2_ubivol_setup" alt="" coords="205,173,332,200"/>
+<area shape="rect" id="node3" href="$fs_8c.html#a46dd68c98eba0a545a67f2f24eb63dde" title="jffs2_flash_setup" alt="" coords="395,85,516,112"/>
+<area shape="rect" id="node4" href="$os-linux_8h.html#a0e271945f00995017090113d6804a430" title="jffs2_do_fill_super" alt="" coords="564,85,691,112"/>
+<area shape="rect" id="node5" href="$jffs2_2super_8c.html#ac626c42b039c451fa8759a92155a1773" title="jffs2_fill_super" alt="" coords="739,85,845,112"/>
+<area shape="rect" id="node6" href="$jffs2_2super_8c.html#a5399bb9f4f9d0a5a5f5f3014ec42876a" title="jffs2_mount" alt="" coords="893,85,984,112"/>
+</map>

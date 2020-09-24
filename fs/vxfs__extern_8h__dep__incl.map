@@ -1,0 +1,10 @@
+<map id="freevxfs/vxfs_extern.h" name="freevxfs/vxfs_extern.h">
+<area shape="rect" id="node2" href="$vxfs__bmap_8c.html" title="freevxfs/vxfs_bmap.c" alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node3" href="$vxfs__fshead_8c.html" title="freevxfs/vxfs_fshead.c" alt="" coords="178,80,333,107"/>
+<area shape="rect" id="node4" href="$vxfs__immed_8c.html" title="freevxfs/vxfs_immed.c" alt="" coords="357,80,511,107"/>
+<area shape="rect" id="node5" href="$vxfs__inode_8c.html" title="freevxfs/vxfs_inode.c" alt="" coords="535,80,682,107"/>
+<area shape="rect" id="node6" href="$vxfs__lookup_8c.html" title="freevxfs/vxfs_lookup.c" alt="" coords="706,80,861,107"/>
+<area shape="rect" id="node7" href="$vxfs__olt_8c.html" title="freevxfs/vxfs_olt.c" alt="" coords="885,80,1015,107"/>
+<area shape="rect" id="node8" href="$vxfs__subr_8c.html" title="freevxfs/vxfs_subr.c" alt="" coords="1039,80,1181,107"/>
+<area shape="rect" id="node9" href="$vxfs__super_8c.html" title="freevxfs/vxfs_super.c" alt="" coords="1205,80,1353,107"/>
+</map>

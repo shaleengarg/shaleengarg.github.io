@@ -1,0 +1,7 @@
+<map id="nfsd_vfs_write" name="nfsd_vfs_write">
+<area shape="rect" id="node2" href="$_2nfs4proc_8c.html#aa5dcbf94d8a7f439f15c7730994a5aad" title="nfsd4_write" alt="" coords="160,5,249,32"/>
+<area shape="rect" id="node4" href="$vfs_8h.html#a88fac4397606d5a768e1730358d41007" title="nfsd_write" alt="" coords="163,56,246,83"/>
+<area shape="rect" id="node3" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="297,5,421,32"/>
+<area shape="rect" id="node5" href="$_2nfs3proc_8c.html#a33d89a8d8bb0dd0843772573e1bf1d24" title="nfsd3_proc_write" alt="" coords="299,56,420,83"/>
+<area shape="rect" id="node6" href="$nfsproc_8c.html#aa1504d1775164e795aefd6d03e4a0745" title="nfsd_proc_write" alt="" coords="302,107,417,133"/>
+</map>

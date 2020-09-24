@@ -1,0 +1,9 @@
+<map id="vxfs_inode_by_name" name="vxfs_inode_by_name">
+<area shape="rect" id="node2" href="$vxfs__lookup_8c.html#a04b5ca2167fe5fcc497ad27072c50e43" title="vxfs_find_entry" alt="" coords="199,69,309,96"/>
+<area shape="rect" id="node8" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="207,132,301,159"/>
+<area shape="rect" id="node3" href="$vxfs__extern_8h.html#acf23e372705c261df8d6573970ef1fee" title="vxfs_get_page" alt="" coords="357,5,464,32"/>
+<area shape="rect" id="node5" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="364,56,457,83"/>
+<area shape="rect" id="node7" href="$vxfs__extern_8h.html#a517f742349f92a0bd52be347540056de" title="vxfs_put_page" alt="" coords="357,107,464,133"/>
+<area shape="rect" id="node4" href="$vxfs__subr_8c.html#a68afffcc6704763ab94a4c9a74d49705" title="vxfs_put_page" alt="" coords="512,5,619,32"/>
+<area shape="rect" id="node6" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="524,107,607,133"/>
+</map>

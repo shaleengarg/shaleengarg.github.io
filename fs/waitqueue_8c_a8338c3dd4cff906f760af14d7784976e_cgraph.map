@@ -1,0 +1,7 @@
+<map id="service_operation" name="service_operation">
+<area shape="rect" id="node2" href="$orangefs-cache_8c.html#a8a102b5f87c53bfde730685934c9e164" title="get_opname_string" alt="" coords="211,5,343,32"/>
+<area shape="rect" id="node3" href="$devorangefs-req_8c.html#a8b2305809117ef60d5ada6c739a8768e" title="__is_daemon_in_service" alt="" coords="194,56,359,83"/>
+<area shape="rect" id="node4" href="$waitqueue_8c.html#a12d06040e19576e013f7e1073842e853" title="wait_for_matching_downcall" alt="" coords="183,107,370,133"/>
+<area shape="rect" id="node5" href="$orangefs-kernel_8h.html#ac9043d9d741f89a668ecf23b6182f953" title="orangefs_normalize\l_to_errno" alt="" coords="209,158,344,199"/>
+<area shape="rect" id="node6" href="$waitqueue_8c.html#aeb24c9a574f115456d667e1a721c672f" title="orangefs_clean_up_interrupted\l_operation" alt="" coords="177,223,376,265"/>
+</map>

@@ -1,0 +1,27 @@
+var vfs__file_8c =
+[
+    [ "v9fs_file_do_lock", "vfs__file_8c.html#a41a3e03d27bf5f92585118103ecf0edb", null ],
+    [ "v9fs_file_flock_dotl", "vfs__file_8c.html#ab3fb1aafbcbc0a5985cb86c16baaac33", null ],
+    [ "v9fs_file_fsync", "vfs__file_8c.html#a2b512ea697ac31f25a5a7dfd779d1cec", null ],
+    [ "v9fs_file_fsync_dotl", "vfs__file_8c.html#a8bb285d5d6219118eaf95f8963069ce0", null ],
+    [ "v9fs_file_getlock", "vfs__file_8c.html#abf37ed0d5b802e94afdfadd96f477843", null ],
+    [ "v9fs_file_lock", "vfs__file_8c.html#a4e5768ef11434e27d912b6d5145d5703", null ],
+    [ "v9fs_file_lock_dotl", "vfs__file_8c.html#a6ac90ba7055e123e6265faab5beb8346", null ],
+    [ "v9fs_file_mmap", "vfs__file_8c.html#ae896a32747076a50d1b8959103a01f43", null ],
+    [ "v9fs_file_open", "vfs__file_8c.html#a3c0b1e13f86067933e01defb959a0f3c", null ],
+    [ "v9fs_file_read_iter", "vfs__file_8c.html#a34be1131d6c91b9afc02e426560ae6b9", null ],
+    [ "v9fs_file_write_iter", "vfs__file_8c.html#af78589850cfd903a816825e1062cee96", null ],
+    [ "v9fs_mmap_file_mmap", "vfs__file_8c.html#a4246b5cfbb1045ecd8b4d62f2919f43f", null ],
+    [ "v9fs_mmap_file_read_iter", "vfs__file_8c.html#a80848d7dda736e8059b4132f1fd1bfde", null ],
+    [ "v9fs_mmap_file_write_iter", "vfs__file_8c.html#aeb8c23740de271bbe04d5dc00a950fe1", null ],
+    [ "v9fs_mmap_vm_close", "vfs__file_8c.html#a9e91c285a32f504d0b9ea0005dc16a3a", null ],
+    [ "v9fs_vm_page_mkwrite", "vfs__file_8c.html#a97a14fde2c621523d078b6d4d9003862", null ],
+    [ "v9fs_cached_file_operations", "vfs__file_8c.html#a219218062a69ff4a8268c2a15300644e", null ],
+    [ "v9fs_cached_file_operations_dotl", "vfs__file_8c.html#a085a78883964ac7c3eb31cc2490ed923", null ],
+    [ "v9fs_file_operations", "vfs__file_8c.html#a77a8fa6f9defcd51091646aab078337c", null ],
+    [ "v9fs_file_operations_dotl", "vfs__file_8c.html#a55417e5e2a4068005ecf68072dab557d", null ],
+    [ "v9fs_file_vm_ops", "vfs__file_8c.html#ac6ac69a91dbf75b8869a0081f8198a42", null ],
+    [ "v9fs_mmap_file_operations", "vfs__file_8c.html#a63988fb5e808ffaaa38bb869c7e9b8a2", null ],
+    [ "v9fs_mmap_file_operations_dotl", "vfs__file_8c.html#a6787b75ecc67538903e6766e2789d142", null ],
+    [ "v9fs_mmap_file_vm_ops", "vfs__file_8c.html#a959c564f94d7f6deeab6cc337a29887a", null ]
+];

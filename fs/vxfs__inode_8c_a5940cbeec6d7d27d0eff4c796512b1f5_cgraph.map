@@ -1,0 +1,14 @@
+<map id="__vxfs_iget" name="__vxfs_iget">
+<area shape="rect" id="node2" href="$vxfs__extern_8h.html#acf23e372705c261df8d6573970ef1fee" title="vxfs_get_page" alt="" coords="143,31,249,57"/>
+<area shape="rect" id="node4" href="$vxfs__inode_8c.html#a71c597dd1467bf0518954f4a10639a31" title="dip2vip_cpy" alt="" coords="151,107,241,133"/>
+<area shape="rect" id="node12" href="$vxfs__extern_8h.html#ab9b9a00bd51372d9f18cb91f3a97c9b8" title="vxfs_dumpi" alt="" coords="151,157,241,184"/>
+<area shape="rect" id="node13" href="$vxfs__extern_8h.html#a517f742349f92a0bd52be347540056de" title="vxfs_put_page" alt="" coords="143,208,249,235"/>
+<area shape="rect" id="node3" href="$vxfs__subr_8c.html#a68afffcc6704763ab94a4c9a74d49705" title="vxfs_put_page" alt="" coords="298,5,405,32"/>
+<area shape="rect" id="node5" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="305,56,398,83"/>
+<area shape="rect" id="node7" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="305,107,398,133"/>
+<area shape="rect" id="node8" href="$vxfs__inode_8c.html#a035ef182183a8eebf283ff366ed48eae" title="vxfs_transmod" alt="" coords="297,157,405,184"/>
+<area shape="rect" id="node9" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="314,208,389,235"/>
+<area shape="rect" id="node6" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="454,81,537,108"/>
+<area shape="rect" id="node10" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="453,183,537,209"/>
+<area shape="rect" id="node11" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="585,208,724,235"/>
+</map>

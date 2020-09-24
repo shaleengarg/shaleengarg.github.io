@@ -1,0 +1,9 @@
+<map id="nfsd_splice_actor" name="nfsd_splice_actor">
+<area shape="rect" id="node2" href="$vfs_8c.html#ac6bcc702b3623d3b2a0aeb3a963143ad" title="nfsd_direct_splice\l_actor" alt="" coords="177,23,304,65"/>
+<area shape="rect" id="node3" href="$vfs_8h.html#ab78bc70485a870cfdf60425ef5650e7c" title="nfsd_splice_read" alt="" coords="352,31,472,57"/>
+<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a5b516d6c27b4a11685153a35ccd82a08" title="nfsd4_encode_splice_read" alt="" coords="520,5,696,32"/>
+<area shape="rect" id="node6" href="$vfs_8h.html#a2a17a6fd6b09a492a5c74963776be1a3" title="nfsd_read" alt="" coords="569,56,647,83"/>
+<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a662ac286c8cb631120088e4ea584d5e4" title="nfsd4_encode_read" alt="" coords="744,5,879,32"/>
+<area shape="rect" id="node7" href="$_2nfs3proc_8c.html#a3d950996f2107a53edbbe3b952796cd6" title="nfsd3_proc_read" alt="" coords="752,56,871,83"/>
+<area shape="rect" id="node8" href="$nfsproc_8c.html#a75d92ed077029c375a458d78768e93ce" title="nfsd_proc_read" alt="" coords="756,107,867,133"/>
+</map>

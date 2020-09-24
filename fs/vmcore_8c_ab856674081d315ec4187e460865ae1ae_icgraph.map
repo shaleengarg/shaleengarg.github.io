@@ -1,0 +1,6 @@
+<map id="update_note_header_size_elf64" name="update_note_header_size_elf64">
+<area shape="rect" id="node2" href="$vmcore_8c.html#a2583937126689e215c0386b86dffebe6" title="merge_note_headers\l_elf64" alt="" coords="192,5,335,47"/>
+<area shape="rect" id="node3" href="$vmcore_8c.html#ac897b94ba9093a5f0a3979f2099c0c6d" title="parse_crash_elf64_headers" alt="" coords="383,13,564,39"/>
+<area shape="rect" id="node4" href="$vmcore_8c.html#a01c022a0aa4c0ed90729636dee6c9a17" title="parse_crash_elf_headers" alt="" coords="612,13,779,39"/>
+<area shape="rect" id="node5" href="$vmcore_8c.html#a96b3f33aac2c6921c86e2e3c03514724" title="vmcore_init" alt="" coords="827,13,916,39"/>
+</map>

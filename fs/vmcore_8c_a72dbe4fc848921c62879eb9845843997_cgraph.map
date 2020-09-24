@@ -1,0 +1,5 @@
+<map id="alloc_elfnotes_buf" name="alloc_elfnotes_buf">
+<area shape="rect" id="node2" href="$vmcore_8c.html#a16b5dbcf92d02d88ed7b7082544ffb4d" title="pfn_is_ram" alt="" coords="224,5,311,32"/>
+<area shape="rect" id="node3" href="$vmcore_8c.html#a44d3af0a50562d2e4f6d4dd20605ce77" title="remap_oldmem_pfn_range" alt="" coords="180,56,355,83"/>
+<area shape="rect" id="node4" href="$vmcore_8c.html#aeb19efb8b652200ae6b7d98b50ab0ede" title="mmap_vmcore" alt="" coords="213,107,321,133"/>
+</map>

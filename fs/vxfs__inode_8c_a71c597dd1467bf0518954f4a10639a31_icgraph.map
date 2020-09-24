@@ -1,0 +1,10 @@
+<map id="dip2vip_cpy" name="dip2vip_cpy">
+<area shape="rect" id="node2" href="$vxfs__inode_8c.html#ab227920e9ec97cdbaa2987c8f48f77b3" title="vxfs_blkiget" alt="" coords="144,5,236,32"/>
+<area shape="rect" id="node6" href="$vxfs__inode_8c.html#a5940cbeec6d7d27d0eff4c796512b1f5" title="__vxfs_iget" alt="" coords="145,56,235,83"/>
+<area shape="rect" id="node3" href="$vxfs__fshead_8c.html#ab9f65b99bdfe579729883cd2f2f97dee" title="vxfs_read_fshead" alt="" coords="419,31,544,57"/>
+<area shape="rect" id="node4" href="$vxfs__super_8c.html#a1a0516750b0747cdac3f67a9dc339254" title="vxfs_fill_super" alt="" coords="592,56,699,83"/>
+<area shape="rect" id="node5" href="$vxfs__super_8c.html#a7f5943b315f644d46f42436878918ef1" title="vxfs_mount" alt="" coords="747,56,837,83"/>
+<area shape="rect" id="node7" href="$vxfs__inode_8c.html#adefeae80e16fa6b5085f6a9546d92377" title="vxfs_stiget" alt="" coords="284,56,371,83"/>
+<area shape="rect" id="node8" href="$vxfs__inode_8c.html#a36e5de1cfbcb5a4ee4fc714959a655d3" title="vxfs_iget" alt="" coords="290,107,365,133"/>
+<area shape="rect" id="node9" href="$vxfs__lookup_8c.html#a54bbaa0762ce241dd81abd917d77d188" title="vxfs_lookup" alt="" coords="435,132,527,159"/>
+</map>
