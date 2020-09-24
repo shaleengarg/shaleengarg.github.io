@@ -1,0 +1,29 @@
+<map id="txLinelock" name="txLinelock">
+<area shape="rect" id="node2" href="$jfs__dtree_8c.html#a7aa1d0b572536f40d380440023bac2ec" title="lock_index" alt="" coords="150,296,234,323"/>
+<area shape="rect" id="node4" href="$jfs__dtree_8c.html#aa6cb2f1d884f2572423a84ab0778538f" title="add_missing_indices" alt="" coords="444,93,587,120"/>
+<area shape="rect" id="node6" href="$jfs__dtree_8c.html#a59df229e9aa4d473b25e7a93ec2575cd" title="dtInsertEntry" alt="" coords="467,245,564,272"/>
+<area shape="rect" id="node7" href="$jfs__dtree_8h.html#ad0f58dfc55007edafa9c2893af25de3d" title="dtInsert" alt="" coords="911,220,977,247"/>
+<area shape="rect" id="node15" href="$jfs__dtree_8c.html#aeddc80b783f590230ec47a65b4259b2e" title="dtSplitPage" alt="" coords="642,144,731,171"/>
+<area shape="rect" id="node19" href="$jfs__dtree_8h.html#a3f84193817e8bd8ea64e79447aeb2303" title="dtDelete" alt="" coords="480,448,551,475"/>
+<area shape="rect" id="node23" href="$jfs__dtree_8c.html#aedf5fd73859e01dd9d25d72a5982f711" title="dtDeleteUp" alt="" coords="303,448,391,475"/>
+<area shape="rect" id="node24" href="$jfs__dtree_8c.html#a3540d5f4907e3175f052c02cf32f0854" title="dtRelink" alt="" coords="157,448,227,475"/>
+<area shape="rect" id="node25" href="$jfs__dtree_8c.html#ac41cd4ce02cebdb31e7054d59f522ca6" title="dtMoveEntry" alt="" coords="299,144,395,171"/>
+<area shape="rect" id="node26" href="$jfs__dtree_8c.html#ab6998004d2d2bd5e70ee1ba43d1279a1" title="dtDeleteEntry" alt="" coords="141,549,243,576"/>
+<area shape="rect" id="node27" href="$jfs__dtree_8c.html#ae203b6e6adf249015d272ab59b65ef7c" title="dtTruncateEntry" alt="" coords="135,499,249,525"/>
+<area shape="rect" id="node28" href="$jfs__dtree_8c.html#a8e0d5697644c8b347eb727b7db4332e9" title="dtLinelockFreelist" alt="" coords="453,397,577,424"/>
+<area shape="rect" id="node3" href="$jfs__dtree_8c.html#a85eef6481c444b100e5dd9f53cee3d78" title="add_index" alt="" coords="306,195,387,221"/>
+<area shape="rect" id="node18" href="$jfs__dtree_8c.html#a1c9ab7b5d97e25e244715128cc28f38d" title="free_index" alt="" coords="305,397,388,424"/>
+<area shape="rect" id="node22" href="$jfs__dtree_8c.html#ac3404099d0bc52dff0a0fcf5f844576c" title="modify_index" alt="" coords="297,296,396,323"/>
+<area shape="rect" id="node5" href="$jfs__dtree_8h.html#a86bb1625e719ac73b7e9300b6ebf0a67" title="jfs_readdir" alt="" coords="645,93,728,120"/>
+<area shape="rect" id="node14" href="$jfs__dtree_8c.html#abcbec24999ffabda29bbf207ffb2c0f4" title="dtSplitUp" alt="" coords="787,245,863,272"/>
+<area shape="rect" id="node16" href="$jfs__dtree_8c.html#a6553c80757609d65622afaae269f1241" title="dtExtendPage" alt="" coords="635,347,739,373"/>
+<area shape="rect" id="node17" href="$jfs__dtree_8c.html#a7239921509cc0e64b55d8a59f5b5cfd6" title="dtSplitRoot" alt="" coords="643,296,730,323"/>
+<area shape="rect" id="node8" href="$jfs_2namei_8c.html#acb5dbad87badfa2c17975c1e3f8f69a7" title="jfs_create" alt="" coords="1030,271,1109,297"/>
+<area shape="rect" id="node9" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="1032,321,1107,348"/>
+<area shape="rect" id="node10" href="$jfs_2namei_8c.html#af8a66989f32d041f582d4ff611d291b7" title="jfs_link" alt="" coords="1038,119,1101,145"/>
+<area shape="rect" id="node11" href="$jfs_2namei_8c.html#aba1fc327be9b506d66b67bfef6a435bf" title="jfs_symlink" alt="" coords="1025,169,1113,196"/>
+<area shape="rect" id="node12" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="1026,423,1113,449"/>
+<area shape="rect" id="node13" href="$jfs_2namei_8c.html#a8e48423fb7b4d82fdb4214f061366964" title="jfs_mknod" alt="" coords="1028,220,1111,247"/>
+<area shape="rect" id="node20" href="$jfs_2namei_8c.html#a3ad6c390c8e4d1930e798bbdfc642678" title="jfs_rmdir" alt="" coords="651,397,723,424"/>
+<area shape="rect" id="node21" href="$jfs_2namei_8c.html#af04c1404d0730674146bc7f8d6b20f97" title="jfs_unlink" alt="" coords="648,448,725,475"/>
+</map>

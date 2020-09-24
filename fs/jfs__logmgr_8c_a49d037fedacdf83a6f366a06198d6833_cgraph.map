@@ -1,0 +1,7 @@
+<map id="lmNextPage" name="lmNextPage">
+<area shape="rect" id="node2" href="$jfs__logmgr_8c.html#a99de98e3fb1cb3322e940c23ae35160f" title="lbmWrite" alt="" coords="287,31,361,57"/>
+<area shape="rect" id="node5" href="$jfs__logmgr_8c.html#a8822ed34b5c80b75d631705534362e1a" title="lmGCwrite" alt="" coords="151,56,235,83"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#a8aa48732e04e8e2f5df9111c1a6aff4b" title="lbmAllocate" alt="" coords="148,107,239,133"/>
+<area shape="rect" id="node3" href="$jfs__logmgr_8c.html#adf900121f994cc05bc1d68e23da6ed8f" title="lbmRedrive" alt="" coords="409,5,497,32"/>
+<area shape="rect" id="node4" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="411,56,496,83"/>
+</map>

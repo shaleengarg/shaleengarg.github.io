@@ -1,0 +1,6 @@
+<map id="hfs_test_inode" name="hfs_test_inode">
+<area shape="rect" id="node2" href="$hfs_2inode_8c.html#ab6175ddbb48ea9553b3cf485da6651a9" title="hfs_iget" alt="" coords="160,31,228,57"/>
+<area shape="rect" id="node3" href="$hfs_2dir_8c.html#a234b268b5a6696f89427fddb77eff15c" title="hfs_lookup" alt="" coords="283,5,368,32"/>
+<area shape="rect" id="node4" href="$hfs_2super_8c.html#a83be34d1c100f45d39029f598fd16164" title="hfs_fill_super" alt="" coords="276,56,375,83"/>
+<area shape="rect" id="node5" href="$hfs_2super_8c.html#ad02dab2d53d22ff0cddb9baadc2229ef" title="hfs_mount" alt="" coords="423,56,505,83"/>
+</map>

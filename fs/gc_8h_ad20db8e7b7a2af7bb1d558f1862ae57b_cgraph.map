@@ -1,0 +1,11 @@
+<map id="has_enough_invalid_blocks" name="has_enough_invalid_blocks">
+<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#a8249394ffefe4865e6eff10f0ec10943" title="written_block_count" alt="" coords="389,71,528,98"/>
+<area shape="rect" id="node5" href="$gc_8h.html#aeac624b7e2ecaa5e63e000199613f855" title="limit_invalid_user\l_blocks" alt="" coords="204,31,327,72"/>
+<area shape="rect" id="node6" href="$gc_8h.html#ab222df33d0c4264420edba7a69f9f0d1" title="free_user_blocks" alt="" coords="205,147,326,174"/>
+<area shape="rect" id="node10" href="$gc_8h.html#acb42779fe7ddcd2ffc5268fd0f7e4f6e" title="limit_free_user_blocks" alt="" coords="189,97,341,123"/>
+<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="630,71,685,98"/>
+<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="787,122,840,149"/>
+<area shape="rect" id="node7" href="$f2fs_2segment_8h.html#afaa651a3f0ec83a0f02051371caee5bb" title="free_segments" alt="" coords="405,122,513,149"/>
+<area shape="rect" id="node9" href="$f2fs_2segment_8h.html#a49ac4acd0019ae717254e93b0b15cbc6" title="overprovision_segments" alt="" coords="576,173,739,199"/>
+<area shape="rect" id="node8" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="623,122,692,149"/>
+</map>

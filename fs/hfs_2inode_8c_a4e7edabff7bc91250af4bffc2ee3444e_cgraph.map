@@ -1,0 +1,6 @@
+<map id="hfs_write_inode" name="hfs_write_inode">
+<area shape="rect" id="node2" href="$extent_8c.html#a982d2f76168dc6f94a23ee2fa37e01f0" title="hfs_ext_write_extent" alt="" coords="167,5,309,32"/>
+<area shape="rect" id="node5" href="$hfs_2inode_8c.html#a77a1d33fe5f03697c1c523fdea3a0065" title="hfs_inode_write_fork" alt="" coords="167,56,309,83"/>
+<area shape="rect" id="node3" href="$extent_8c.html#a32ce02ef90f7c1347914d50b94d13fac" title="__hfs_ext_write_extent" alt="" coords="357,5,515,32"/>
+<area shape="rect" id="node4" href="$extent_8c.html#ac6d1fce5ab51b170ed87d4530b0279c2" title="hfs_ext_build_key" alt="" coords="563,5,689,32"/>
+</map>

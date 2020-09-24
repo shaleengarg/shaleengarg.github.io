@@ -1,0 +1,6 @@
+<map id="befs_bread_iaddr" name="befs_bread_iaddr">
+<area shape="rect" id="node2" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="325,51,408,78"/>
+<area shape="rect" id="node3" href="$befs_2debug_8c.html#a9adcbde37088a09e232dcb26c882f06d" title="befs_debug" alt="" coords="181,26,271,52"/>
+<area shape="rect" id="node4" href="$befs_2debug_8c.html#a9baf4105a9869a847e645272ae9fdc1a" title="befs_error" alt="" coords="186,76,266,103"/>
+<area shape="rect" id="node5" href="$befs_8h.html#a2b4a80c2e280b28d9099caca37f79de7" title="iaddr2blockno" alt="" coords="175,127,277,154"/>
+</map>

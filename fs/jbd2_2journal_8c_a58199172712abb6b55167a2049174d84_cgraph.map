@@ -1,0 +1,17 @@
+<map id="journal_exit" name="journal_exit">
+<area shape="rect" id="node2" href="$jbd2_2journal_8c.html#a49ad675982a3ea585690db38dbdbbae0" title="jbd2_journal_destroy\l_caches" alt="" coords="333,142,475,183"/>
+<area shape="rect" id="node8" href="$jbd2_2journal_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="141,200,285,227"/>
+<area shape="rect" id="node9" href="$jbd2_2journal_8c.html#a128195e4fc564153757c2dcffc49a19c" title="module_init" alt="" coords="169,251,257,277"/>
+<area shape="rect" id="node10" href="$jbd2_2journal_8c.html#ae6a40010b3cdb3b8678e75af1d2c9cdb" title="journal_init" alt="" coords="171,301,255,328"/>
+<area shape="rect" id="node16" href="$jbd2_2journal_8c.html#a2aba6fc27cae7cda4971fd74a6b04ba8" title="module_exit" alt="" coords="167,352,259,379"/>
+<area shape="rect" id="node3" href="$revoke_8c.html#a976661ac77b3f9af011e2b0b9fd8243b" title="jbd2_journal_destroy\l_revoke_caches" alt="" coords="757,145,899,186"/>
+<area shape="rect" id="node4" href="$jbd2_2journal_8c.html#ab83d348e43699543185941ad5db8023a" title="jbd2_journal_destroy\l_journal_head_cache" alt="" coords="544,43,688,85"/>
+<area shape="rect" id="node5" href="$jbd2_2journal_8c.html#a902a80202eab28b3d2a8ed9d7070b0c1" title="jbd2_journal_destroy\l_handle_cache" alt="" coords="545,109,687,150"/>
+<area shape="rect" id="node6" href="$jbd2_2transaction_8c.html#a2568285c438e8763a6fdc8d2014b4b9e" title="jbd2_journal_destroy\l_transaction_cache" alt="" coords="545,174,687,215"/>
+<area shape="rect" id="node7" href="$jbd2_2journal_8c.html#aa1e6bb0b91484fc04f8b3bfce958e029" title="jbd2_journal_destroy\l_slabs" alt="" coords="545,239,687,281"/>
+<area shape="rect" id="node11" href="$jbd2_2journal_8c.html#a8ca9bf9fa6053cd05743174eb988711a" title="journal_init_caches" alt="" coords="337,377,471,404"/>
+<area shape="rect" id="node12" href="$revoke_8c.html#af89238970a2a31f5493dcefb11c4f2ce" title="jbd2_journal_init_revoke\l_caches" alt="" coords="535,305,697,346"/>
+<area shape="rect" id="node13" href="$jbd2_2journal_8c.html#ae29a07c26fd2a4d71e38e1f3573511a4" title="jbd2_journal_init_journal\l_head_cache" alt="" coords="536,370,696,411"/>
+<area shape="rect" id="node14" href="$jbd2_2journal_8c.html#aac84223bb4b36b1b41767b876700b618" title="jbd2_journal_init_handle\l_cache" alt="" coords="536,435,696,477"/>
+<area shape="rect" id="node15" href="$jbd2_2transaction_8c.html#a12f302774bcfc6aee94ad3d03ffb817a" title="jbd2_journal_init_transaction\l_cache" alt="" coords="523,501,709,542"/>
+</map>

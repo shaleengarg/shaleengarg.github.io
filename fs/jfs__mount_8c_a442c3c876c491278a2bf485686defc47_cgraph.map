@@ -1,0 +1,15 @@
+<map id="logMOUNT" name="logMOUNT">
+<area shape="rect" id="node2" href="$jfs__incore_8h.html#aa738744dc34cd43b8449acce52c8f3db" title="JFS_SBI" alt="" coords="141,31,216,57"/>
+<area shape="rect" id="node3" href="$jfs__logmgr_8c.html#adabffa3c4f3973662f5e45ba064e2b35" title="lmLog" alt="" coords="150,81,207,108"/>
+<area shape="rect" id="node4" href="$jfs__logmgr_8c.html#a2afb61d9f81d89b65b2c6697ce02d9b1" title="lmWriteRecord" alt="" coords="402,56,511,83"/>
+<area shape="rect" id="node12" href="$jfs__logmgr_8c.html#ac52b54c783c01929cd74a5e79bae6be8" title="lmLogSync" alt="" coords="264,107,351,133"/>
+<area shape="rect" id="node5" href="$jfs__incore_8h.html#a894f4cd89a0ccf9b7fa1f816c1737f52" title="JFS_IP" alt="" coords="601,5,667,32"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#a49d037fedacdf83a6f366a06198d6833" title="lmNextPage" alt="" coords="587,56,681,83"/>
+<area shape="rect" id="node7" href="$jfs__logmgr_8c.html#a99de98e3fb1cb3322e940c23ae35160f" title="lbmWrite" alt="" coords="892,81,967,108"/>
+<area shape="rect" id="node10" href="$jfs__logmgr_8c.html#a8822ed34b5c80b75d631705534362e1a" title="lmGCwrite" alt="" coords="757,132,841,159"/>
+<area shape="rect" id="node11" href="$jfs__logmgr_8c.html#a8aa48732e04e8e2f5df9111c1a6aff4b" title="lbmAllocate" alt="" coords="753,81,844,108"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8c.html#adf900121f994cc05bc1d68e23da6ed8f" title="lbmRedrive" alt="" coords="1015,56,1103,83"/>
+<area shape="rect" id="node9" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="1016,107,1101,133"/>
+<area shape="rect" id="node13" href="$jfs__logmgr_8c.html#a848e40cb73138e10c3bc0d7447f9d733" title="write_special_inodes" alt="" coords="563,107,705,133"/>
+<area shape="rect" id="node14" href="$jfs__logmgr_8c.html#ac4f06ef1d6899abe950ef50b56d96fc8" title="jfs_flush_journal" alt="" coords="399,157,515,184"/>
+</map>

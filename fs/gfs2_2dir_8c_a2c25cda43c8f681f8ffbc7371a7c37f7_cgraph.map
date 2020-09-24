@@ -1,0 +1,11 @@
+<map id="do_init_dirent" name="do_init_dirent">
+<area shape="rect" id="node2" href="$incore_8h.html#af3bc95dcc324ad1e1c784c03e41049c6" title="GFS2_I" alt="" coords="192,56,259,83"/>
+<area shape="rect" id="node3" href="$gfs2_2trans_8c.html#a5f07b96445fa973a4897137fe3cbb7a1" title="gfs2_trans_add_meta" alt="" coords="152,107,299,133"/>
+<area shape="rect" id="node10" href="$gfs2_2dir_8h.html#aec26a7b8da488559e8a0287fe7cae60c" title="gfs2_qstr2dirent" alt="" coords="168,157,283,184"/>
+<area shape="rect" id="node4" href="$log_8h.html#aa07bf7138b0cab8cb509eacdcc9df3bc" title="gfs2_log_lock" alt="" coords="361,5,463,32"/>
+<area shape="rect" id="node5" href="$log_8h.html#a9e5568969fed5701427061a1a6f44e99" title="gfs2_log_unlock" alt="" coords="354,56,470,83"/>
+<area shape="rect" id="node6" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="362,107,462,133"/>
+<area shape="rect" id="node8" href="$gfs2_2trans_8c.html#ace3fd41f765efa9fbbfd399cd74bf2de" title="gfs2_alloc_bufdata" alt="" coords="347,157,477,184"/>
+<area shape="rect" id="node9" href="$lops_8c.html#ac0f59c5f30ceb2e93c9c9e394d422c2f" title="gfs2_pin" alt="" coords="377,208,447,235"/>
+<area shape="rect" id="node7" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="525,107,664,133"/>
+</map>

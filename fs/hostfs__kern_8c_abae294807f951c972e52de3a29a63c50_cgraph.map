@@ -1,0 +1,13 @@
+<map id="hostfs_open" name="hostfs_open">
+<area shape="rect" id="node2" href="$hostfs__kern_8c.html#a293d5288322c309a03c1bc64da1c50af" title="HOSTFS_I" alt="" coords="152,5,239,32"/>
+<area shape="rect" id="node3" href="$hostfs__kern_8c.html#aad3cd6545072acf22f4bcfbdd48919b6" title="dentry_name" alt="" coords="147,56,244,83"/>
+<area shape="rect" id="node10" href="$hostfs_8h.html#ab04038ecd7ae2b1963e82812dec8722c" title="open_file" alt="" coords="158,107,233,133"/>
+<area shape="rect" id="node11" href="$hostfs_8h.html#acd91d59b08af3cdc86484d34fcf38f7e" title="close_file" alt="" coords="157,157,234,184"/>
+<area shape="rect" id="node12" href="$hostfs_8h.html#a62bc9cc0c32956d99632bf2e342c5ac2" title="replace_file" alt="" coords="151,208,239,235"/>
+<area shape="rect" id="node4" href="$hostfs__kern_8c.html#a482ad39d1a6cbe15243442e1c456ba4a" title="__dentry_name" alt="" coords="292,56,403,83"/>
+<area shape="rect" id="node5" href="$d__path_8c.html#a0cc088ae05851b2c251188fecfba0a81" title="dentry_path_raw" alt="" coords="451,56,569,83"/>
+<area shape="rect" id="node6" href="$d__path_8c.html#a4e45e18c7e826a4a8602d26b3923e6e2" title="__dentry_path" alt="" coords="635,31,739,57"/>
+<area shape="rect" id="node9" href="$d__path_8c.html#a865c63e36fa35b08a9ca4f1f97e2a01c" title="EXPORT_SYMBOL" alt="" coords="617,81,756,108"/>
+<area shape="rect" id="node7" href="$d__path_8c.html#a92354b5a6932e68c90156a3d371b4381" title="prepend" alt="" coords="823,5,891,32"/>
+<area shape="rect" id="node8" href="$d__path_8c.html#a19bc818c4e32e5bb079bdae1e61a6829" title="prepend_name" alt="" coords="804,56,911,83"/>
+</map>

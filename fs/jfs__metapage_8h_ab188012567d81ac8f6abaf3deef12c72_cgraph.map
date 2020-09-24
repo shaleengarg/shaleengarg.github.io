@@ -1,0 +1,20 @@
+<map id="__invalidate_metapages" name="__invalidate_metapages">
+<area shape="rect" id="node2" href="$jfs__incore_8h.html#aa738744dc34cd43b8449acce52c8f3db" title="JFS_SBI" alt="" coords="254,31,329,57"/>
+<area shape="rect" id="node3" href="$jfs__metapage_8c.html#a812006336cb68a7001c4b824390d7176" title="page_to_mp" alt="" coords="245,81,338,108"/>
+<area shape="rect" id="node4" href="$jfs__metapage_8c.html#a62405f9b7729e9ba0748381675f3e79f" title="remove_from_logsync" alt="" coords="216,132,367,159"/>
+<area shape="rect" id="node5" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="252,183,331,209"/>
+<area shape="rect" id="node9" href="$seq__file_8c.html#ab3a6519a4d5861d03e50dcfe45dd844b" title="single_open" alt="" coords="246,233,337,260"/>
+<area shape="rect" id="node14" href="$seq__file_8c.html#ac64822e66e4a736c0a472de857d64102" title="seq_read" alt="" coords="254,487,329,513"/>
+<area shape="rect" id="node17" href="$seq__file_8c.html#a1a38d38e7f4fa37c53255eebb7a7e5c9" title="seq_lseek" alt="" coords="251,563,332,589"/>
+<area shape="rect" id="node18" href="$seq__file_8c.html#ac09cd41c79b109521d8ad8e0298a4bb2" title="single_release" alt="" coords="239,360,344,387"/>
+<area shape="rect" id="node6" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="417,5,504,32"/>
+<area shape="rect" id="node8" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="555,335,693,361"/>
+<area shape="rect" id="node7" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="562,5,686,32"/>
+<area shape="rect" id="node10" href="$seq__file_8c.html#a99128ee39287dc7549a0694e9bd9faa7" title="single_start" alt="" coords="416,107,505,133"/>
+<area shape="rect" id="node11" href="$seq__file_8c.html#af1ac0c5a4d6d872159a159395200e249" title="single_next" alt="" coords="417,157,505,184"/>
+<area shape="rect" id="node12" href="$seq__file_8c.html#a35dac4cdc01c76c54133be8e986f796f" title="single_stop" alt="" coords="417,259,505,285"/>
+<area shape="rect" id="node13" href="$seq__file_8c.html#ab724d0b6f14722c374b1933b66c913d1" title="seq_open" alt="" coords="421,208,500,235"/>
+<area shape="rect" id="node15" href="$seq__file_8c.html#a37ae8304f930004a1dafa63e50d328a8" title="traverse" alt="" coords="426,563,495,589"/>
+<area shape="rect" id="node16" href="$seq__file_8c.html#a1cc32975292bc3df3ee70f1ecc59a6aa" title="seq_buf_alloc" alt="" coords="573,537,675,564"/>
+<area shape="rect" id="node19" href="$seq__file_8c.html#a64b33cde1999efd86c566aaf3ad273c8" title="seq_release" alt="" coords="415,360,507,387"/>
+</map>

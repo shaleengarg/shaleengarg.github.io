@@ -1,0 +1,10 @@
+<map id="huge_pagevec_release" name="huge_pagevec_release">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#a5642c0b8839a4b4433cde41019a037c6" title="remove_inode_hugepages" alt="" coords="208,56,381,83"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#a2c13295e99f66e3a992ee88e453cd11a" title="hugetlbfs_evict_inode" alt="" coords="625,5,773,32"/>
+<area shape="rect" id="node6" href="$hugetlbfs_2inode_8c.html#a5ff9c8277883ac5b8bb42b5ed571cda3" title="hugetlb_vmtruncate" alt="" coords="435,56,571,83"/>
+<area shape="rect" id="node8" href="$hugetlbfs_2inode_8c.html#abe29ddda0ed3d0538b0b942804f5c488" title="hugetlbfs_punch_hole" alt="" coords="429,107,577,133"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="821,56,896,83"/>
+<area shape="rect" id="node5" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="944,56,1061,83"/>
+<area shape="rect" id="node7" href="$hugetlbfs_2inode_8c.html#aedc98785d5bd9a9bb5a08ba137b931f9" title="hugetlbfs_setattr" alt="" coords="640,56,759,83"/>
+<area shape="rect" id="node9" href="$hugetlbfs_2inode_8c.html#a7e6410804574359bbea35b478f8680af" title="hugetlbfs_fallocate" alt="" coords="634,107,765,133"/>
+</map>

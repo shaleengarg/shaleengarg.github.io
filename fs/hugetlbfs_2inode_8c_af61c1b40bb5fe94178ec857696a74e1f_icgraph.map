@@ -1,0 +1,5 @@
+<map id="hugetlbfs_migrate_page" name="hugetlbfs_migrate_page">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#a6a15b832cf0734c82a0c48a16859a69d" title="hugetlbfs_destroy_inode" alt="" coords="213,5,376,32"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="424,5,499,32"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="547,5,664,32"/>
+</map>

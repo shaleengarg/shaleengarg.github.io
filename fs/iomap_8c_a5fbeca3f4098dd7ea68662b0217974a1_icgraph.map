@@ -1,0 +1,9 @@
+<map id="iomap_truncate_page" name="iomap_truncate_page">
+<area shape="rect" id="node2" href="$xfs__iops_8c.html#a0c181e62a8e27110b6daefc784deaaad" title="xfs_setattr_size" alt="" coords="200,56,315,83"/>
+<area shape="rect" id="node3" href="$xfs__iops_8h.html#a69975fc1c15e95620a960ffb8fa3e320" title="xfs_vn_setattr_size" alt="" coords="363,56,499,83"/>
+<area shape="rect" id="node4" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="547,5,667,32"/>
+<area shape="rect" id="node5" href="$xfs__ioctl_8h.html#a469cdd5bcd7f0165e447baa3d519e5b1" title="xfs_ioc_space" alt="" coords="553,56,660,83"/>
+<area shape="rect" id="node8" href="$xfs__iops_8c.html#a1917d09a4d88ef0e6521c197c99c93c4" title="xfs_vn_setattr" alt="" coords="554,107,659,133"/>
+<area shape="rect" id="node6" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="715,31,809,57"/>
+<area shape="rect" id="node7" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="857,56,1003,83"/>
+</map>

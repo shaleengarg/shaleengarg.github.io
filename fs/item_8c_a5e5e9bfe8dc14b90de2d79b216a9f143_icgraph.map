@@ -1,0 +1,13 @@
+<map id="config_item_set_name" name="config_item_set_name">
+<area shape="rect" id="node2" href="$item_8c.html#a3a4fe3c182b19ca23c77c0b0c829d0e9" title="config_item_init_type_name" alt="" coords="210,115,394,141"/>
+<area shape="rect" id="node7" href="$item_8c.html#a8eddf676a511000c5fe0f97119666dba" title="config_group_init_type_name" alt="" coords="207,316,397,343"/>
+<area shape="rect" id="node3" href="$config_8c.html#ae26da35e447977c16a8af23f12728a43" title="make_comm" alt="" coords="496,5,593,32"/>
+<area shape="rect" id="node4" href="$config_8c.html#ab06d8e75e44e9be8076370d23c368fdd" title="make_node" alt="" coords="500,56,589,83"/>
+<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#af040c863276ab4008d7a7eca1cd5244a" title="o2hb_heartbeat_group\l_make_item" alt="" coords="469,107,620,149"/>
+<area shape="rect" id="node6" href="$nodemanager_8c.html#a68ec5fd711751cf7c32a3bd69fe5e044" title="o2nm_node_group_make_item" alt="" coords="445,173,644,200"/>
+<area shape="rect" id="node8" href="$configfs_2dir_8c.html#a5a8b332794cb2a23d4493fea588b2d8e" title="configfs_register_default\l_group" alt="" coords="463,225,627,266"/>
+<area shape="rect" id="node9" href="$config_8c.html#a8224f150586ec52b4faf16c2a500d92a" title="make_cluster" alt="" coords="495,291,595,317"/>
+<area shape="rect" id="node10" href="$config_8c.html#acd4e51ca34eccc85ca1920c73daf82dc" title="make_space" alt="" coords="497,341,593,368"/>
+<area shape="rect" id="node11" href="$cluster_2heartbeat_8h.html#ad841599b29b2ce38f6056fcd95c6236e" title="o2hb_alloc_hb_set" alt="" coords="479,392,610,419"/>
+<area shape="rect" id="node12" href="$nodemanager_8c.html#a0a988bb5b87ac4d18bf5a9b116d492d0" title="o2nm_cluster_group\l_make_group" alt="" coords="692,410,831,451"/>
+</map>

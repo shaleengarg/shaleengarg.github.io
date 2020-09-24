@@ -1,0 +1,9 @@
+<map id="hugetlbfs_get_inode" name="hugetlbfs_get_inode">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#aaaa59711d71b2f3e8cc5bc6aa65cd029" title="hugetlbfs_mknod" alt="" coords="195,81,316,108"/>
+<area shape="rect" id="node7" href="$hugetlbfs_2inode_8c.html#a6641c438eebeb4157e2c9cf566406f1f" title="hugetlbfs_symlink" alt="" coords="367,157,493,184"/>
+<area shape="rect" id="node8" href="$hugetlbfs_2inode_8c.html#afc591974ea8bc2157b9ae800a14f6d52" title="hugetlb_file_setup" alt="" coords="192,195,319,221"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ab6f47668d2aa9994e473ceb75e003aa8" title="hugetlbfs_mkdir" alt="" coords="373,5,487,32"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="541,81,616,108"/>
+<area shape="rect" id="node6" href="$hugetlbfs_2inode_8c.html#aa36f1bc4cc0a2f5c24cb54c9170bc067" title="hugetlbfs_create" alt="" coords="371,107,489,133"/>
+<area shape="rect" id="node5" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="664,81,781,108"/>
+</map>

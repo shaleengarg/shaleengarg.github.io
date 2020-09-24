@@ -1,0 +1,5 @@
+<map id="hugetlbfs_dec_free_inodes" name="hugetlbfs_dec_free_inodes">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#af053601be32afcef98665a3c9a1899a1" title="hugetlbfs_alloc_inode" alt="" coords="185,13,332,39"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="380,13,455,39"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="503,13,620,39"/>
+</map>

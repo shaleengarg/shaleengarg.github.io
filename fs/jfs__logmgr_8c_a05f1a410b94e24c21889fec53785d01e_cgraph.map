@@ -1,0 +1,9 @@
+<map id="lmLogFileSystem" name="lmLogFileSystem">
+<area shape="rect" id="node2" href="$jfs__logmgr_8c.html#a43917bfb0a1b300ef7146c2520154c86" title="lbmRead" alt="" coords="193,5,268,32"/>
+<area shape="rect" id="node4" href="$jfs__logmgr_8c.html#a2737c948dd024ad71b9c68795919ad7a" title="lbmFree" alt="" coords="196,56,265,83"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#af5b0e8d7335ce40c2e367d98d903036e" title="lbmDirectWrite" alt="" coords="176,157,285,184"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8c.html#a19839769b597247de418e2cf88e3d369" title="lbmIOWait" alt="" coords="189,107,273,133"/>
+<area shape="rect" id="node3" href="$jfs__logmgr_8c.html#a8aa48732e04e8e2f5df9111c1a6aff4b" title="lbmAllocate" alt="" coords="333,5,424,32"/>
+<area shape="rect" id="node5" href="$jfs__logmgr_8c.html#a18572da04861a022c85f8d5be97855ef" title="lbmfree" alt="" coords="346,81,411,108"/>
+<area shape="rect" id="node7" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="336,157,421,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="jffs2_xattr_delete_inode" name="jffs2_xattr_delete_inode">
+<area shape="rect" id="node2" href="$jffs2_2xattr_8c.html#a4c0a4b784946cfc241019a9430ca5a8d" title="delete_xattr_ref" alt="" coords="176,13,288,39"/>
+<area shape="rect" id="node3" href="$jffs2_2xattr_8c.html#a3267ba95ffe892404bd59ceeecf94bc9" title="unrefer_xattr_datum" alt="" coords="336,13,475,39"/>
+<area shape="rect" id="node4" href="$jffs2_2xattr_8c.html#a0e0610c97d4b7da6b4fc6a08df1a2b70" title="unload_xattr_datum" alt="" coords="523,13,659,39"/>
+</map>

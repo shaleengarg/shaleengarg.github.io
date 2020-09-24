@@ -1,0 +1,6 @@
+<map id="generic_delete_inode" name="generic_delete_inode">
+<area shape="rect" id="node2" href="$afs_2internal_8h.html#abdab703a1b353bf1ba85cb0dce16f0d7" title="afs_drop_inode" alt="" coords="213,5,324,32"/>
+<area shape="rect" id="node3" href="$ramfs_2inode_8c.html#a128c9bf31387442042443614db20f637" title="ramfs_show_options" alt="" coords="197,56,340,83"/>
+<area shape="rect" id="node4" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="212,107,325,133"/>
+<area shape="rect" id="node5" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="388,107,485,133"/>
+</map>

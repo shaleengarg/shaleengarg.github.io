@@ -1,0 +1,8 @@
+<map id="dtInitRoot" name="dtInitRoot">
+<area shape="rect" id="node2" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="139,5,213,32"/>
+<area shape="rect" id="node3" href="$jfs__dtree_8c.html#aedf5fd73859e01dd9d25d72a5982f711" title="dtDeleteUp" alt="" coords="132,56,220,83"/>
+<area shape="rect" id="node4" href="$jfs__dtree_8h.html#a3f84193817e8bd8ea64e79447aeb2303" title="dtDelete" alt="" coords="268,56,339,83"/>
+<area shape="rect" id="node5" href="$jfs_2namei_8c.html#a3ad6c390c8e4d1930e798bbdfc642678" title="jfs_rmdir" alt="" coords="394,5,466,32"/>
+<area shape="rect" id="node6" href="$jfs_2namei_8c.html#af04c1404d0730674146bc7f8d6b20f97" title="jfs_unlink" alt="" coords="391,56,469,83"/>
+<area shape="rect" id="node7" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="387,107,473,133"/>
+</map>

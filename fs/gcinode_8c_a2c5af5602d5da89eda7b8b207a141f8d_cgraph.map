@@ -1,0 +1,7 @@
+<map id="nilfs_init_gcinode" name="nilfs_init_gcinode">
+<area shape="rect" id="node2" href="$nilfs_8h.html#a4f06a82c20559c61e8f30eac6bad1001" title="NILFS_I" alt="" coords="206,5,277,32"/>
+<area shape="rect" id="node3" href="$nilfs2_2bmap_8c.html#a38787acb7ae6f453116bac88c530f3f4" title="nilfs_bmap_init_gc" alt="" coords="176,56,307,83"/>
+<area shape="rect" id="node4" href="$nilfs_8h.html#ab02aecb562f6c74a04aad6d769ac9f1e" title="NILFS_BMAP_I" alt="" coords="360,31,476,57"/>
+<area shape="rect" id="node5" href="$nilfs2_2btree_8c.html#a31c310a33d6e623a9a7c15f6e2722200" title="nilfs_btree_init_gc" alt="" coords="355,81,481,108"/>
+<area shape="rect" id="node6" href="$nilfs2_2btree_8c.html#a6b425e1129c6131fb5f0d7018d2c6bb4" title="nilfs_btree_node_size" alt="" coords="529,81,677,108"/>
+</map>

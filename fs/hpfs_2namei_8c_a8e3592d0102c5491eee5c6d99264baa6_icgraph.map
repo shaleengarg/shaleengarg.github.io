@@ -1,0 +1,9 @@
+<map id="hpfs_update_directory_times" name="hpfs_update_directory_times">
+<area shape="rect" id="node2" href="$hpfs_2namei_8c.html#a5a5656db83544e56a8c18da974ab65aa" title="hpfs_mkdir" alt="" coords="210,5,297,32"/>
+<area shape="rect" id="node3" href="$hpfs_2namei_8c.html#af328feefb94a79ac60e8dff79a7ab6e8" title="hpfs_create" alt="" coords="208,56,299,83"/>
+<area shape="rect" id="node4" href="$hpfs_2namei_8c.html#a49b16caf62374fdaeb80496ff5fb6357" title="hpfs_mknod" alt="" coords="207,107,300,133"/>
+<area shape="rect" id="node5" href="$hpfs_2namei_8c.html#a2e91738cefc529e433e82432fe786b2e" title="hpfs_symlink" alt="" coords="204,157,303,184"/>
+<area shape="rect" id="node6" href="$hpfs_2namei_8c.html#a7b6b006e5183eca76669b9eee1cb6fd7" title="hpfs_unlink" alt="" coords="209,208,297,235"/>
+<area shape="rect" id="node7" href="$hpfs_2namei_8c.html#a35720b50f5e0970feefa4d3e962a68d5" title="hpfs_rmdir" alt="" coords="212,259,295,285"/>
+<area shape="rect" id="node8" href="$hpfs_2namei_8c.html#a2bb8756e6b87636fd151b8cf80f8c397" title="hpfs_rename" alt="" coords="205,309,302,336"/>
+</map>

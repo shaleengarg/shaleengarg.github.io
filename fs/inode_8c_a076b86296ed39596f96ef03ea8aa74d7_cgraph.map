@@ -1,0 +1,9 @@
+<map id="destroy_inode" name="destroy_inode">
+<area shape="rect" id="node2" href="$inode_8c.html#acc59c5a81bf40ee903f9feb03ac7b7fa" title="__destroy_inode" alt="" coords="156,56,273,83"/>
+<area shape="rect" id="node8" href="$inode_8c.html#af3846da666673695a3040ee40b92bf0e" title="i_callback" alt="" coords="175,107,255,133"/>
+<area shape="rect" id="node3" href="$buffer_8c.html#ae1120bf173819fd9bfa5a939b13f46e8" title="inode_has_buffers" alt="" coords="339,5,467,32"/>
+<area shape="rect" id="node4" href="$locks_8c.html#a24b09f5cedf01a8cff5e10f3d00636a2" title="locks_free_lock_context" alt="" coords="321,56,484,83"/>
+<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="333,107,472,133"/>
+<area shape="rect" id="node5" href="$locks_8c.html#a2cf31bf229e31592098de9493a334c29" title="locks_check_ctx_lists" alt="" coords="532,56,683,83"/>
+<area shape="rect" id="node6" href="$locks_8c.html#aa9419f47867376fe0e03cc366c5c23f9" title="locks_dump_ctx_list" alt="" coords="731,56,872,83"/>
+</map>

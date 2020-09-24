@@ -1,0 +1,7 @@
+<map id="hugetlbfs_punch_hole" name="hugetlbfs_punch_hole">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#a14f9f8f983b2ec9797e11d7ee827f444" title="hugetlb_vmdelete_list" alt="" coords="426,5,574,32"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#a5642c0b8839a4b4433cde41019a037c6" title="remove_inode_hugepages" alt="" coords="201,56,375,83"/>
+<area shape="rect" id="node4" href="$inode_8c.html#aa1822403d896f1040c371de082022045" title="hash" alt="" coords="475,56,525,83"/>
+<area shape="rect" id="node5" href="$hugetlbfs_2inode_8c.html#ac126017dcf167a7451da72517c20b015" title="remove_huge_page" alt="" coords="433,107,567,133"/>
+<area shape="rect" id="node6" href="$hugetlbfs_2inode_8c.html#a748be2cd400125e596032d85714f4fc7" title="huge_pagevec_release" alt="" coords="423,157,577,184"/>
+</map>

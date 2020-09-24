@@ -1,0 +1,4 @@
+<map id="do_mknod" name="do_mknod">
+<area shape="rect" id="node2" href="$hostfs__kern_8c.html#abbee8d0dc849701d0454cab922b644b6" title="hostfs_mknod" alt="" coords="136,5,240,32"/>
+<area shape="rect" id="node3" href="$hostfs__kern_8c.html#a6d21001dfbee5b0c82dbaeafc9df0c28" title="hostfs_setattr" alt="" coords="288,5,391,32"/>
+</map>

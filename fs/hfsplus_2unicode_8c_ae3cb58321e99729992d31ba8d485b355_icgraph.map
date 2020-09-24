@@ -1,0 +1,7 @@
+<map id="case_fold" name="case_fold">
+<area shape="rect" id="node2" href="$hfsplus_2unicode_8c.html#a441b1ba58964469f3a5ccf536a2c8114" title="hfsplus_strcasecmp" alt="" coords="145,5,283,32"/>
+<area shape="rect" id="node5" href="$hfsplus_2unicode_8c.html#a37d66368fdfe12626df42de96beb391f" title="hfsplus_hash_dentry" alt="" coords="143,56,285,83"/>
+<area shape="rect" id="node6" href="$hfsplus_2unicode_8c.html#a093f7b14fb5b6481af6d8a70c640d59d" title="hfsplus_compare_dentry" alt="" coords="132,107,296,133"/>
+<area shape="rect" id="node3" href="$hfsplus__fs_8h.html#a5a19fcae5d4cfd5dc2e54336373d2666" title="hfsplus_cat_case_cmp_key" alt="" coords="344,5,528,32"/>
+<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#a4ad187dd80b918c252dd11560b1c1815" title="hfs_btree_open" alt="" coords="576,5,687,32"/>
+</map>

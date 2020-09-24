@@ -1,0 +1,6 @@
+<map id="hfs_delete_inode" name="hfs_delete_inode">
+<area shape="rect" id="node2" href="$hfs_2dir_8c.html#a88f96d74274dd2965c0552764d6c724c" title="hfs_create" alt="" coords="177,5,260,32"/>
+<area shape="rect" id="node3" href="$hfs_2dir_8c.html#a3fc5a8f55987d75c2860272cf1c6f461" title="hfs_mkdir" alt="" coords="179,56,258,83"/>
+<area shape="rect" id="node4" href="$hfs_2dir_8c.html#a3c0cf569df72b761ff2b28c50f853d14" title="hfs_remove" alt="" coords="173,107,264,133"/>
+<area shape="rect" id="node5" href="$hfs_2dir_8c.html#aafc4f50a85e3fc6e53fbf343d5b70fdb" title="hfs_rename" alt="" coords="312,107,403,133"/>
+</map>

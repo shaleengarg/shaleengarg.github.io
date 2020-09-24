@@ -1,0 +1,19 @@
+<map id="open_dummy_log" name="open_dummy_log">
+<area shape="rect" id="node2" href="$jfs__logmgr_8c.html#a4218e987b26491def8e4f3deea169dc5" title="lmLogInit" alt="" coords="177,233,252,260"/>
+<area shape="rect" id="node18" href="$jfs__incore_8h.html#aa738744dc34cd43b8449acce52c8f3db" title="JFS_SBI" alt="" coords="177,284,252,311"/>
+<area shape="rect" id="node3" href="$jfs__logmgr_8c.html#ae5329df876c9cd9728bbb20ad0cba474" title="lbmLogInit" alt="" coords="313,5,396,32"/>
+<area shape="rect" id="node4" href="$jfs__logmgr_8c.html#a88ccc7534272a9ab03c4e44eead13524" title="lbmLogShutdown" alt="" coords="457,31,580,57"/>
+<area shape="rect" id="node5" href="$jfs__logmgr_8c.html#a8aa48732e04e8e2f5df9111c1a6aff4b" title="lbmAllocate" alt="" coords="628,157,719,184"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#a43917bfb0a1b300ef7146c2520154c86" title="lbmRead" alt="" coords="481,157,556,184"/>
+<area shape="rect" id="node7" href="$jfs__logmgr_8c.html#a49d037fedacdf83a6f366a06198d6833" title="lmNextPage" alt="" coords="471,208,566,235"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8c.html#a99de98e3fb1cb3322e940c23ae35160f" title="lbmWrite" alt="" coords="784,284,859,311"/>
+<area shape="rect" id="node12" href="$jfs__logmgr_8c.html#a2afb61d9f81d89b65b2c6697ce02d9b1" title="lmWriteRecord" alt="" coords="300,259,409,285"/>
+<area shape="rect" id="node14" href="$jfs__logmgr_8c.html#a19839769b597247de418e2cf88e3d369" title="lbmIOWait" alt="" coords="313,360,397,387"/>
+<area shape="rect" id="node16" href="$jfs__logmgr_8c.html#af5b0e8d7335ce40c2e367d98d903036e" title="lbmDirectWrite" alt="" coords="767,411,876,437"/>
+<area shape="rect" id="node17" href="$jfs__logmgr_8c.html#a2737c948dd024ad71b9c68795919ad7a" title="lbmFree" alt="" coords="320,411,389,437"/>
+<area shape="rect" id="node11" href="$jfs__logmgr_8c.html#a8822ed34b5c80b75d631705534362e1a" title="lmGCwrite" alt="" coords="631,259,715,285"/>
+<area shape="rect" id="node9" href="$jfs__logmgr_8c.html#adf900121f994cc05bc1d68e23da6ed8f" title="lbmRedrive" alt="" coords="924,284,1012,311"/>
+<area shape="rect" id="node10" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="925,360,1011,387"/>
+<area shape="rect" id="node13" href="$jfs__incore_8h.html#a894f4cd89a0ccf9b7fa1f816c1737f52" title="JFS_IP" alt="" coords="485,259,552,285"/>
+<area shape="rect" id="node15" href="$jfs__logmgr_8c.html#a18572da04861a022c85f8d5be97855ef" title="lbmfree" alt="" coords="486,385,551,412"/>
+</map>

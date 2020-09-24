@@ -1,0 +1,6 @@
+<map id="log_pull_tail" name="log_pull_tail">
+<area shape="rect" id="node2" href="$gfs2_2log_8c.html#ad202942c733c941e48733e3aa32b9e4c" title="log_distance" alt="" coords="144,5,239,32"/>
+<area shape="rect" id="node3" href="$gfs2_2log_8c.html#a248bd91deb3732b401c8910c6bea3014" title="ail2_empty" alt="" coords="149,56,234,83"/>
+<area shape="rect" id="node4" href="$gfs2_2log_8c.html#a8f895ec0382a4780074b922d5dd6b03b" title="gfs2_ail2_empty_one" alt="" coords="287,56,432,83"/>
+<area shape="rect" id="node5" href="$gfs2_2log_8c.html#aee6d361614f7d594dbcd3752227abde0" title="gfs2_remove_from_ail" alt="" coords="480,56,631,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="dtCompare" name="dtCompare">
+<area shape="rect" id="node2" href="$jfs__dtree_8h.html#a428db06ef2eb2a4155a78b41a0e5ea00" title="dtSearch" alt="" coords="140,208,215,235"/>
+<area shape="rect" id="node3" href="$jfs_2namei_8c.html#acb5dbad87badfa2c17975c1e3f8f69a7" title="jfs_create" alt="" coords="267,5,346,32"/>
+<area shape="rect" id="node4" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="269,56,344,83"/>
+<area shape="rect" id="node5" href="$jfs_2namei_8c.html#af8a66989f32d041f582d4ff611d291b7" title="jfs_link" alt="" coords="275,107,338,133"/>
+<area shape="rect" id="node6" href="$jfs_2namei_8c.html#aba1fc327be9b506d66b67bfef6a435bf" title="jfs_symlink" alt="" coords="263,157,351,184"/>
+<area shape="rect" id="node7" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="399,360,485,387"/>
+<area shape="rect" id="node8" href="$jfs_2namei_8c.html#a8e48423fb7b4d82fdb4214f061366964" title="jfs_mknod" alt="" coords="265,259,348,285"/>
+<area shape="rect" id="node9" href="$jfs_2namei_8c.html#a852d69f8d6275c218b69dd80cd785d6e" title="jfs_lookup" alt="" coords="266,309,347,336"/>
+<area shape="rect" id="node10" href="$jfs__dtree_8h.html#a3f84193817e8bd8ea64e79447aeb2303" title="dtDelete" alt="" coords="271,411,342,437"/>
+<area shape="rect" id="node13" href="$jfs__dtree_8h.html#a98a2ef758137575a01f7fd2303b2d969" title="dtModify" alt="" coords="271,360,343,387"/>
+<area shape="rect" id="node11" href="$jfs_2namei_8c.html#a3ad6c390c8e4d1930e798bbdfc642678" title="jfs_rmdir" alt="" coords="406,411,478,437"/>
+<area shape="rect" id="node12" href="$jfs_2namei_8c.html#af04c1404d0730674146bc7f8d6b20f97" title="jfs_unlink" alt="" coords="403,461,481,488"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="txEA" name="txEA">
+<area shape="rect" id="node2" href="$jfs__txnmgr_8c.html#a28cc15c7eae5fad921aa567b406f556d" title="txMaplock" alt="" coords="111,31,193,57"/>
+<area shape="rect" id="node5" href="$jfs__types_8h.html#a0c934f6c214b7d70455bfda95ca9cd9e" title="PXDaddress" alt="" coords="104,81,200,108"/>
+<area shape="rect" id="node6" href="$jfs__types_8h.html#ac37ee58483db98e8e9f0a91aacdf5d12" title="PXDlength" alt="" coords="109,132,195,159"/>
+<area shape="rect" id="node3" href="$jfs__incore_8h.html#a894f4cd89a0ccf9b7fa1f816c1737f52" title="JFS_IP" alt="" coords="260,5,327,32"/>
+<area shape="rect" id="node4" href="$jfs__txnmgr_8c.html#a1f06021931a6e192c7c48d838a4bb01f" title="txLockAlloc" alt="" coords="248,56,339,83"/>
+</map>

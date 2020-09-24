@@ -1,0 +1,5 @@
+<map id="ocfs2_rename_credits" name="ocfs2_rename_credits">
+<area shape="rect" id="node2" href="$journal_8h.html#a1a9792bb4d8024b172d7fadd03c6b84c" title="ocfs2_unlink_credits" alt="" coords="204,5,345,32"/>
+<area shape="rect" id="node3" href="$journal_8h.html#a456906dca393774b33fd5fa9d40560a6" title="ocfs2_link_credits" alt="" coords="393,5,520,32"/>
+<area shape="rect" id="node4" href="$journal_8h.html#a391304dfb5d31cd15d53a18e459e0194" title="ocfs2_quota_trans_credits" alt="" coords="568,5,743,32"/>
+</map>

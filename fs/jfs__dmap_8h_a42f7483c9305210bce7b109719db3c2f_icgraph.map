@@ -1,0 +1,13 @@
+<map id="dbSync" name="dbSync">
+<area shape="rect" id="node2" href="$jfs_2resize_8c.html#ad613ea07103a85b96bec4ff8846bb447" title="jfs_extendfs" alt="" coords="127,208,220,235"/>
+<area shape="rect" id="node5" href="$jfs__dmap_8h.html#a03cab4059ced384d43b607642143d0c3" title="dbUnmount" alt="" coords="129,81,218,108"/>
+<area shape="rect" id="node12" href="$jfs__umount_8c.html#a285dc4001678473a63f3fcfa977d0fb5" title="jfs_umount_rw" alt="" coords="120,157,227,184"/>
+<area shape="rect" id="node3" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="425,145,515,172"/>
+<area shape="rect" id="node4" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="713,56,836,83"/>
+<area shape="rect" id="node6" href="$jfs__superblock_8h.html#a5f762d4aa254d950b2232d1103dfbc66" title="jfs_mount" alt="" coords="285,56,364,83"/>
+<area shape="rect" id="node9" href="$jfs__superblock_8h.html#ad7a26da0f4cd7aa706741fff90ba8df5" title="jfs_mount_rw" alt="" coords="275,107,375,133"/>
+<area shape="rect" id="node10" href="$jfs__umount_8c.html#a6e519060000a13cc8a9b8262542465b3" title="jfs_umount" alt="" coords="281,5,368,32"/>
+<area shape="rect" id="node7" href="$jfs_2super_8c.html#a21307747421cfa90f0d4127e5d20f422" title="jfs_fill_super" alt="" coords="423,56,517,83"/>
+<area shape="rect" id="node8" href="$jfs_2super_8c.html#a11a394ce651f4a27d9e9f0450fb865f3" title="jfs_do_mount" alt="" coords="565,56,665,83"/>
+<area shape="rect" id="node11" href="$jfs_2super_8c.html#a834b0ab18d3ad15f90ac1e8233e30d99" title="jfs_put_super" alt="" coords="565,5,665,32"/>
+</map>

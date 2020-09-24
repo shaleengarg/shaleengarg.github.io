@@ -1,0 +1,5 @@
+<map id="fscrypt_get_symlink" name="fscrypt_get_symlink">
+<area shape="rect" id="node2" href="$ubifs_2file_8c.html#a671444db04d3750f8a8ea5bfa1f443ba" title="ubifs_get_link" alt="" coords="222,5,325,32"/>
+<area shape="rect" id="node3" href="$f2fs_2namei_8c.html#a67812e389664948f4fd87cc493bc1ff7" title="f2fs_encrypted_get_link" alt="" coords="193,56,353,83"/>
+<area shape="rect" id="node4" href="$ext4_2symlink_8c.html#ac20e006ca1031979cb4cf9cf10355a23" title="ext4_encrypted_get_link" alt="" coords="192,107,355,133"/>
+</map>

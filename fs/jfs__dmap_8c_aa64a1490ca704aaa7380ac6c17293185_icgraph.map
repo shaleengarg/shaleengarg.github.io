@@ -1,0 +1,6 @@
+<map id="dbGetL2AGSize" name="dbGetL2AGSize">
+<area shape="rect" id="node2" href="$jfs__dmap_8h.html#aa7aa7a79f5635a86011c4b892ec91b0f" title="dbExtendFS" alt="" coords="169,5,264,32"/>
+<area shape="rect" id="node3" href="$jfs_2resize_8c.html#ad613ea07103a85b96bec4ff8846bb447" title="jfs_extendfs" alt="" coords="312,5,405,32"/>
+<area shape="rect" id="node4" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="453,5,544,32"/>
+<area shape="rect" id="node5" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="592,5,715,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nlmclnt_release_host" name="nlmclnt_release_host">
+<area shape="rect" id="node2" href="$host_8c.html#a042d94457a210fb0665dbfb59a0eddbb" title="nlm_destroy_host_locked" alt="" coords="199,31,369,57"/>
+<area shape="rect" id="node3" href="$mon_8c.html#ae1d7ba45724982961298316f533faee9" title="nsm_unmonitor" alt="" coords="417,5,528,32"/>
+<area shape="rect" id="node6" href="$mon_8c.html#a56d74dc56902e37e26b64394278cb967" title="nsm_release" alt="" coords="425,56,521,83"/>
+<area shape="rect" id="node4" href="$mon_8c.html#a442d33ea17dd78a3257f304ffb5ba1af" title="nsm_mon_unmon" alt="" coords="576,5,701,32"/>
+<area shape="rect" id="node5" href="$mon_8c.html#aa11b1648c7ca2be81fda175acd892745" title="nsm_create" alt="" coords="749,5,840,32"/>
+</map>

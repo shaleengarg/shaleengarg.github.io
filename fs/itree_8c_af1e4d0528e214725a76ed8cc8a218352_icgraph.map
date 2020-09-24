@@ -1,0 +1,37 @@
+<map id="block_end" name="block_end">
+<area shape="rect" id="node2" href="$itree_8c.html#a335ea53d3a8211d3d86679f04f2cf9ff" title="free_branches" alt="" coords="135,678,239,704"/>
+<area shape="rect" id="node3" href="$sysv_8h.html#aa5195884ca9bdec579633127f63351aa" title="sysv_truncate" alt="" coords="287,627,391,654"/>
+<area shape="rect" id="node4" href="$sysv_2file_8c.html#a201644f1bca91573f212a83ee157e549" title="sysv_setattr" alt="" coords="439,627,533,654"/>
+<area shape="rect" id="node5" href="$sysv_2inode_8c.html#a82014e8a1a7d376406123a22408a308a" title="sysv_evict_inode" alt="" coords="792,20,915,47"/>
+<area shape="rect" id="node6" href="$itree_8c.html#aad2efc4e7096f39e527d1ef6c6e6c323" title="sysv_write_failed" alt="" coords="963,576,1085,603"/>
+<area shape="rect" id="node8" href="$sysv_8h.html#a77213c34c2040fdafc782139c604b400" title="dirty_sb" alt="" coords="452,323,520,350"/>
+<area shape="rect" id="node7" href="$itree_8c.html#a81156dbdf3be15d89058fa8541aa7768" title="sysv_write_begin" alt="" coords="1143,576,1266,603"/>
+<area shape="rect" id="node9" href="$sysv_8h.html#a63b448aaed35b57fa63c2ddcbab5953b" title="sysv_free_block" alt="" coords="604,652,721,679"/>
+<area shape="rect" id="node31" href="$sysv_8h.html#a8e20c96b895719d89830ffa551632f6f" title="sysv_new_block" alt="" coords="603,526,722,552"/>
+<area shape="rect" id="node32" href="$sysv_8h.html#af8f4033acecdd52201d4d49c12d16c6a" title="sysv_count_free_blocks" alt="" coords="581,272,744,299"/>
+<area shape="rect" id="node34" href="$sysv_8h.html#a15c38e6751908e61fbd68676cb461714" title="sysv_free_inode" alt="" coords="604,46,721,72"/>
+<area shape="rect" id="node35" href="$sysv_8h.html#a82931ba83cb4923c87f6fa3b6d83354d" title="sysv_new_inode" alt="" coords="1331,108,1449,135"/>
+<area shape="rect" id="node36" href="$sysv_8h.html#a2e6cbb1d58760948beaa3076ca343554" title="sysv_count_free_inodes" alt="" coords="581,323,744,350"/>
+<area shape="rect" id="node10" href="$itree_8c.html#a3302137244b175b1df3671b824bc1b6d" title="alloc_branch" alt="" coords="806,627,901,654"/>
+<area shape="rect" id="node29" href="$itree_8c.html#a22de7c1098dfbba12e3897f66fd425f1" title="splice_branch" alt="" coords="802,678,905,704"/>
+<area shape="rect" id="node30" href="$itree_8c.html#af76cdc88777010b3ffc68644573b12e1" title="free_data" alt="" coords="815,779,891,806"/>
+<area shape="rect" id="node11" href="$itree_8c.html#a8133b006664518db7f2248515281f218" title="get_block" alt="" coords="985,652,1063,679"/>
+<area shape="rect" id="node12" href="$itree_8c.html#a026f376e0e6ccdf54e68173c305c843d" title="sysv_writepage" alt="" coords="1148,728,1261,755"/>
+<area shape="rect" id="node13" href="$itree_8c.html#a1287df8a4dc3800efc197fe28c753360" title="sysv_readpage" alt="" coords="1149,627,1260,654"/>
+<area shape="rect" id="node14" href="$sysv_8h.html#ac4fe1735e84040232a0668ea6ae8b0f2" title="sysv_prepare_chunk" alt="" coords="1133,374,1276,400"/>
+<area shape="rect" id="node28" href="$itree_8c.html#a0121b7e5c96de0502621668d26814fd1" title="sysv_bmap" alt="" coords="1160,678,1249,704"/>
+<area shape="rect" id="node15" href="$sysv_8h.html#ae21591eebce2466f30ce9f63ac89ac4b" title="sysv_add_link" alt="" coords="1337,242,1443,268"/>
+<area shape="rect" id="node23" href="$sysv_8h.html#a6a714ceb105de9440d96564ecad1cd36" title="sysv_delete_entry" alt="" coords="1326,424,1454,451"/>
+<area shape="rect" id="node26" href="$sysv_8h.html#ac2116caf9a9d6c6037b93a202fc19b4c" title="sysv_make_empty" alt="" coords="1324,191,1456,218"/>
+<area shape="rect" id="node27" href="$sysv_8h.html#a260cb0cb71b5fc9ac5c40dc9273eb411" title="sysv_set_link" alt="" coords="1339,374,1441,400"/>
+<area shape="rect" id="node16" href="$sysv_2namei_8c.html#ab4d1ee6c9ffcf9052cc550bbbdabebbc" title="add_nondir" alt="" coords="1511,242,1597,268"/>
+<area shape="rect" id="node21" href="$sysv_2namei_8c.html#a4e9cf9b5ef4809c59b24e3290613560d" title="sysv_mkdir" alt="" coords="1509,191,1599,218"/>
+<area shape="rect" id="node22" href="$sysv_2namei_8c.html#a0c97b14952cf146f47843d3b5fd27532" title="sysv_rename" alt="" coords="1504,374,1604,400"/>
+<area shape="rect" id="node17" href="$sysv_2namei_8c.html#a053ce6148c0bf7651cde0210d9fcc3b4" title="sysv_mknod" alt="" coords="1655,103,1751,130"/>
+<area shape="rect" id="node19" href="$sysv_2namei_8c.html#a3bef4cd2b3a36916e3db64c61f3e133e" title="sysv_symlink" alt="" coords="1652,166,1755,192"/>
+<area shape="rect" id="node20" href="$sysv_2namei_8c.html#a984fd6ce9655a363cb82bc6de508c5c6" title="sysv_link" alt="" coords="1665,242,1742,268"/>
+<area shape="rect" id="node18" href="$sysv_2namei_8c.html#a91a1e8b71aad9145334fff70361367e9" title="sysv_create" alt="" coords="1803,103,1896,130"/>
+<area shape="rect" id="node24" href="$sysv_2namei_8c.html#a1511e9d2fd582792c3dbe9c10e7d7569" title="sysv_unlink" alt="" coords="1509,424,1599,451"/>
+<area shape="rect" id="node25" href="$sysv_2namei_8c.html#af1ab24a39f267d1108647e39823b90c3" title="sysv_rmdir" alt="" coords="1660,424,1747,451"/>
+<area shape="rect" id="node33" href="$sysv_2inode_8c.html#a5cfe2ae07c67b6dbd860b09e89844d1c" title="sysv_statfs" alt="" coords="808,298,899,324"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="gfs2_dir_read" name="gfs2_dir_read">
+<area shape="rect" id="node2" href="$gfs2_2file_8c.html#ad9e453cd1833dba44f74a9e6881f5935" title="gfs2_readdir" alt="" coords="165,69,259,96"/>
+<area shape="rect" id="node4" href="$gfs2_2export_8c.html#a5852f6beb1e2d09e6c35ff17b3dd8d0f" title="gfs2_get_name" alt="" coords="157,120,267,147"/>
+<area shape="rect" id="node5" href="$gfs2_2dir_8h.html#ae24470d78573580a612e8af307339708" title="gfs2_dir_no_add" alt="" coords="153,171,271,197"/>
+<area shape="rect" id="node3" href="$gfs2_2file_8c.html#a05e3abde0f7e56d6d83814283cfde627" title="gfs2_file_splice_write" alt="" coords="319,69,465,96"/>
+<area shape="rect" id="node6" href="$gfs2_2inode_8c.html#a4a4f57601c6fa8ff580fc24d933bad6a" title="gfs2_create_inode" alt="" coords="328,120,456,147"/>
+<area shape="rect" id="node12" href="$gfs2_2inode_8c.html#ae1ca634afc3f7e151f5ce2e8135478e8" title="gfs2_link" alt="" coords="355,171,429,197"/>
+<area shape="rect" id="node13" href="$gfs2_2inode_8c.html#a369dfa0e850673184bb7ebe339c69d2d" title="gfs2_rename" alt="" coords="343,233,441,260"/>
+<area shape="rect" id="node7" href="$gfs2_2inode_8c.html#aff80e8285d46b688518bbe8660def4a5" title="gfs2_create" alt="" coords="532,5,623,32"/>
+<area shape="rect" id="node8" href="$gfs2_2inode_8c.html#a674195ba40c5d33781b112ec91b1b3c6" title="gfs2_symlink" alt="" coords="528,56,627,83"/>
+<area shape="rect" id="node9" href="$gfs2_2inode_8c.html#a6cc68bec7e8a7ace3e496f6ce7c401aa" title="gfs2_mkdir" alt="" coords="534,107,621,133"/>
+<area shape="rect" id="node10" href="$gfs2_2inode_8c.html#a65e5bb68bca712891c24a1aaba4ad07c" title="gfs2_mknod" alt="" coords="531,157,624,184"/>
+<area shape="rect" id="node11" href="$gfs2_2inode_8c.html#ae18ecbe4551de429cb5e5d560a3fc20b" title="gfs2_atomic_open" alt="" coords="513,208,641,235"/>
+<area shape="rect" id="node14" href="$gfs2_2inode_8c.html#a65b8dddef202808a3558df265fe3e481" title="gfs2_rename2" alt="" coords="525,259,629,285"/>
+</map>

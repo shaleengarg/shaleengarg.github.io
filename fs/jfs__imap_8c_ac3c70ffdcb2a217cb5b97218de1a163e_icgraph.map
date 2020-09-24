@@ -1,0 +1,11 @@
+<map id="diRead" name="diRead">
+<area shape="rect" id="node2" href="$jfs__inode_8h.html#aacd38219c75710d650c33d1a22d40b94" title="jfs_iget" alt="" coords="116,81,180,108"/>
+<area shape="rect" id="node3" href="$jfs_2super_8c.html#a21307747421cfa90f0d4127e5d20f422" title="jfs_fill_super" alt="" coords="243,5,337,32"/>
+<area shape="rect" id="node6" href="$jfs_2namei_8c.html#a852d69f8d6275c218b69dd80cd785d6e" title="jfs_lookup" alt="" coords="249,56,331,83"/>
+<area shape="rect" id="node7" href="$jfs_2namei_8c.html#a82a0d44968780265b261086538eb1dcd" title="jfs_nfs_get_inode" alt="" coords="228,107,352,133"/>
+<area shape="rect" id="node10" href="$jfs_2namei_8c.html#aa2f4d4fce5cb7eb1d7d92646a90b1e87" title="jfs_get_parent" alt="" coords="405,157,509,184"/>
+<area shape="rect" id="node4" href="$jfs_2super_8c.html#a11a394ce651f4a27d9e9f0450fb865f3" title="jfs_do_mount" alt="" coords="407,5,507,32"/>
+<area shape="rect" id="node5" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="563,81,685,108"/>
+<area shape="rect" id="node8" href="$jfs_2namei_8c.html#adddeb2c957e96471363cbeeea9f56aed" title="jfs_fh_to_dentry" alt="" coords="400,56,515,83"/>
+<area shape="rect" id="node9" href="$jfs_2namei_8c.html#a74919b86046397d60a3c16717276ab3d" title="jfs_fh_to_parent" alt="" coords="400,107,515,133"/>
+</map>

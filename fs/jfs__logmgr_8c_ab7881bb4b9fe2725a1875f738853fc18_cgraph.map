@@ -1,0 +1,11 @@
+<map id="lbmIODone" name="lbmIODone">
+<area shape="rect" id="node2" href="$jfs__logmgr_8c.html#adf900121f994cc05bc1d68e23da6ed8f" title="lbmRedrive" alt="" coords="545,5,633,32"/>
+<area shape="rect" id="node3" href="$jfs__logmgr_8c.html#a8888264676517f66048ebeb2e2064b7a" title="lmPostGC" alt="" coords="141,132,224,159"/>
+<area shape="rect" id="node7" href="$jfs__logmgr_8c.html#a18572da04861a022c85f8d5be97855ef" title="lbmfree" alt="" coords="427,233,493,260"/>
+<area shape="rect" id="node4" href="$jfs__txnmgr_8c.html#a6888eaa5e69ecdd1cdc0707cce055e32" title="txLazyUnlock" alt="" coords="272,157,375,184"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#a2737c948dd024ad71b9c68795919ad7a" title="lbmFree" alt="" coords="289,208,358,235"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8c.html#a99de98e3fb1cb3322e940c23ae35160f" title="lbmWrite" alt="" coords="423,56,497,83"/>
+<area shape="rect" id="node10" href="$jfs__logmgr_8c.html#a8822ed34b5c80b75d631705534362e1a" title="lmGCwrite" alt="" coords="281,107,365,133"/>
+<area shape="rect" id="node5" href="$jfs__incore_8h.html#aa738744dc34cd43b8449acce52c8f3db" title="JFS_SBI" alt="" coords="423,157,497,184"/>
+<area shape="rect" id="node9" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="547,56,632,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hostfs_writepage" name="hostfs_writepage">
+<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="191,5,245,32"/>
+<area shape="rect" id="node4" href="$hostfs_8h.html#af278d6b26dee77b439e071fc29f72c4c" title="write_file" alt="" coords="181,56,255,83"/>
+<area shape="rect" id="node5" href="$hostfs__kern_8c.html#a293d5288322c309a03c1bc64da1c50af" title="HOSTFS_I" alt="" coords="175,107,261,133"/>
+<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="309,5,428,32"/>
+</map>

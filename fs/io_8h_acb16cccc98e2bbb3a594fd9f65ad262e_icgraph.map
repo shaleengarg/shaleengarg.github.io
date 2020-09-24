@@ -1,0 +1,12 @@
+<map id="befs_bread_iaddr" name="befs_bread_iaddr">
+<area shape="rect" id="node2" href="$datastream_8h.html#a685e440449b969d75074134202bb14e7" title="befs_read_datastream" alt="" coords="175,85,325,112"/>
+<area shape="rect" id="node3" href="$befs_2btree_8c.html#ad3635f6110a7dbfaa6f99ef765fb45eb" title="befs_bt_read_super" alt="" coords="373,34,509,61"/>
+<area shape="rect" id="node8" href="$befs_2btree_8c.html#a363f1901b76b973ed91ed6103e77e55e" title="befs_bt_read_node" alt="" coords="375,85,507,112"/>
+<area shape="rect" id="node10" href="$datastream_8h.html#aa3239ddea099a87508dbc60bf31430e0" title="befs_read_lsymlink" alt="" coords="374,161,509,188"/>
+<area shape="rect" id="node4" href="$befs_2btree_8h.html#a268480fe80526f18f2f7044adc01aea2" title="befs_btree_find" alt="" coords="581,34,692,61"/>
+<area shape="rect" id="node6" href="$befs_2btree_8h.html#a1a2e106c9a4b068c19c053bed7f8f892" title="befs_btree_read" alt="" coords="764,85,879,112"/>
+<area shape="rect" id="node5" href="$linuxvfs_8c.html#a4f5bb7d4b2829b3fc8d5a0fccfb18aa2" title="befs_lookup" alt="" coords="775,34,867,61"/>
+<area shape="rect" id="node7" href="$linuxvfs_8c.html#a924a0b818a174dade47c07fb60ead6bf" title="befs_readdir" alt="" coords="927,85,1020,112"/>
+<area shape="rect" id="node9" href="$befs_2btree_8c.html#a1ed27d613fa8974ec09164c52cfb4a56" title="befs_btree_seekleaf" alt="" coords="567,85,706,112"/>
+<area shape="rect" id="node11" href="$linuxvfs_8c.html#addba1351eb66b17e54b532fceae4cc59" title="befs_symlink_readpage" alt="" coords="557,186,716,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hugetlb_set_vma_policy" name="hugetlb_set_vma_policy">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#a7e6410804574359bbea35b478f8680af" title="hugetlbfs_fallocate" alt="" coords="216,5,347,32"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="395,5,469,32"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="517,5,635,32"/>
+</map>

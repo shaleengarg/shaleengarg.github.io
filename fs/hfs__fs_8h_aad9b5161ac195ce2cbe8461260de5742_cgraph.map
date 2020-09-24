@@ -1,0 +1,18 @@
+<map id="hfs_delete_inode" name="hfs_delete_inode">
+<area shape="rect" id="node2" href="$hfs__fs_8h.html#a46114f8d644e12614aab9690c3a6f60f" title="hfs_mark_mdb_dirty" alt="" coords="932,31,1072,57"/>
+<area shape="rect" id="node4" href="$extent_8c.html#a5ad375859ae4048254896c58388992ab" title="hfs_file_truncate" alt="" coords="173,144,292,171"/>
+<area shape="rect" id="node3" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="1120,31,1173,57"/>
+<area shape="rect" id="node5" href="$extent_8c.html#a0870eeaec3670e816b9826397d928ca3" title="hfs_free_extents" alt="" coords="363,144,481,171"/>
+<area shape="rect" id="node8" href="$extent_8c.html#acc06855660f08b17d8af8c70183ee446" title="hfs_dump_extent" alt="" coords="569,195,692,221"/>
+<area shape="rect" id="node11" href="$extent_8c.html#a74f4bbc97e7f780ebb891cee132013c7" title="__hfs_ext_cache_extent" alt="" coords="340,271,504,297"/>
+<area shape="rect" id="node16" href="$stat_8c.html#aaad2ca9f72ea597e34af1b3a5104f9c6" title="inode_set_bytes" alt="" coords="363,68,481,95"/>
+<area shape="rect" id="node6" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="793,169,848,196"/>
+<area shape="rect" id="node9" href="$hfs_2bitmap_8c.html#a1bbbe62abb2846dfecae7dcc81feabd7" title="hfs_clear_vbm_bits" alt="" coords="563,93,698,120"/>
+<area shape="rect" id="node7" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="943,169,1061,196"/>
+<area shape="rect" id="node10" href="$hfs__fs_8h.html#a47b5eb1bf27bca2cd32670193590ca6e" title="hfs_bitmap_dirty" alt="" coords="761,68,880,95"/>
+<area shape="rect" id="node12" href="$extent_8c.html#a32ce02ef90f7c1347914d50b94d13fac" title="__hfs_ext_write_extent" alt="" coords="552,347,709,373"/>
+<area shape="rect" id="node14" href="$extent_8c.html#afd6bf0b3b38b53f9b1e3ec733f7a1ee1" title="__hfs_ext_read_extent" alt="" coords="553,296,708,323"/>
+<area shape="rect" id="node15" href="$extent_8c.html#ad02466be930cfafbd9e6b5034ad121e1" title="hfs_ext_block_count" alt="" coords="559,245,702,272"/>
+<area shape="rect" id="node13" href="$extent_8c.html#ac6d1fce5ab51b170ed87d4530b0279c2" title="hfs_ext_build_key" alt="" coords="757,321,884,348"/>
+<area shape="rect" id="node17" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="561,43,700,69"/>
+</map>

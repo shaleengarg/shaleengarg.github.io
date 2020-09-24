@@ -1,0 +1,4 @@
+<map id="write_file" name="write_file">
+<area shape="rect" id="node2" href="$hostfs__kern_8c.html#a425194bb6731db5c10fd8bb5a6818f29" title="hostfs_writepage" alt="" coords="128,5,249,32"/>
+<area shape="rect" id="node3" href="$hostfs__kern_8c.html#a65c066166b9d6301ab5eac0af9520951" title="hostfs_write_end" alt="" coords="128,56,249,83"/>
+</map>

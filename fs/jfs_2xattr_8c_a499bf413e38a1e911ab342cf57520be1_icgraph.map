@@ -1,0 +1,12 @@
+<map id="ea_put" name="ea_put">
+<area shape="rect" id="node2" href="$jfs_2xattr_8c.html#adca8746f50798765de08010777b5865d" title="__jfs_setxattr" alt="" coords="115,81,216,108"/>
+<area shape="rect" id="node3" href="$jfs_2acl_8c.html#a0d69a446018a6f63f0cb127a021d7955" title="__jfs_set_acl" alt="" coords="269,56,367,83"/>
+<area shape="rect" id="node9" href="$jfs_2xattr_8c.html#a93e084b6c58d6231469f343937965e68" title="__jfs_xattr_set" alt="" coords="264,107,372,133"/>
+<area shape="rect" id="node4" href="$jfs_2acl_8c.html#a43832b5f4def199ef45b4bcf430d6c6d" title="jfs_set_acl" alt="" coords="439,5,524,32"/>
+<area shape="rect" id="node5" href="$jfs_2acl_8c.html#a8b875e5dac827e0e53e9125d2bd91be0" title="jfs_init_acl" alt="" coords="439,56,523,83"/>
+<area shape="rect" id="node6" href="$jfs_2namei_8c.html#acb5dbad87badfa2c17975c1e3f8f69a7" title="jfs_create" alt="" coords="593,5,671,32"/>
+<area shape="rect" id="node7" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="595,56,669,83"/>
+<area shape="rect" id="node8" href="$jfs_2namei_8c.html#a8e48423fb7b4d82fdb4214f061366964" title="jfs_mknod" alt="" coords="591,107,673,133"/>
+<area shape="rect" id="node10" href="$jfs_2xattr_8c.html#a388831fd2df52889ed5a94810730ea02" title="jfs_xattr_set" alt="" coords="434,107,529,133"/>
+<area shape="rect" id="node11" href="$jfs_2xattr_8c.html#ac5b5772f800e7c99fbd5add6787199eb" title="jfs_xattr_set_os2" alt="" coords="420,157,543,184"/>
+</map>

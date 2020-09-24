@@ -1,0 +1,11 @@
+<map id="nfs_alloc_iostats" name="nfs_alloc_iostats">
+<area shape="rect" id="node2" href="$nfs_2internal_8h.html#a7c221c8a3a4fd913351f309ce73d21b8" title="nfs_alloc_server" alt="" coords="173,129,291,156"/>
+<area shape="rect" id="node3" href="$nfs_2internal_8h.html#a40007155e8fe7d9b21830cfcfc2b2318" title="nfs_create_server" alt="" coords="344,29,471,56"/>
+<area shape="rect" id="node5" href="$nfs_2internal_8h.html#a74da40629c00a2d52eb709fbbf64a754" title="nfs_clone_server" alt="" coords="347,104,468,131"/>
+<area shape="rect" id="node7" href="$nfs4client_8c.html#acdee644958f1b84bc87b9cc359c3841b" title="nfs4_create_server" alt="" coords="341,155,474,181"/>
+<area shape="rect" id="node9" href="$nfs4client_8c.html#ae47bbbb9897bd93853fcc2f3935ec01f" title="nfs4_create_referral\l_server" alt="" coords="339,206,476,247"/>
+<area shape="rect" id="node4" href="$nfs3client_8c.html#af53154f90bb786156a08f3f746020f06" title="nfs3_create_server" alt="" coords="528,29,661,56"/>
+<area shape="rect" id="node6" href="$nfs3client_8c.html#aaeacfa9e9f6837b2257cff046f54e055" title="nfs3_clone_server" alt="" coords="531,104,659,131"/>
+<area shape="rect" id="node8" href="$nfs4super_8c.html#add9ea0e95448084a9a18e8ce8b145a8f" title="nfs4_remote_mount" alt="" coords="526,155,663,181"/>
+<area shape="rect" id="node10" href="$nfs4super_8c.html#a80c028d31cf423d32a389da609c9c87f" title="nfs4_remote_referral\l_mount" alt="" coords="524,206,665,247"/>
+</map>

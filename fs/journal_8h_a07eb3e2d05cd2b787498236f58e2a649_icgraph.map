@@ -1,0 +1,8 @@
+<map id="ocfs2_rename_credits" name="ocfs2_rename_credits">
+<area shape="rect" id="node2" href="$ocfs2_2namei_8c.html#a7e52237e2e01c71acd11510cbd85fc93" title="ocfs2_rename" alt="" coords="241,5,345,32"/>
+<area shape="rect" id="node3" href="$namei_8h.html#ac12dc81df6540369f9e03f9547d8e554" title="ocfs2_mv_orphaned_inode\l_to_new" alt="" coords="204,57,381,98"/>
+<area shape="rect" id="node4" href="$refcounttree_8c.html#a101167830b0fff3f5d3811f8d17eafb3" title="ocfs2_reflink" alt="" coords="429,64,525,91"/>
+<area shape="rect" id="node5" href="$refcounttree_8c.html#a361ae2a79adeb5fe8a05c925e48b2c1a" title="ocfs2_vfs_reflink" alt="" coords="573,64,695,91"/>
+<area shape="rect" id="node6" href="$refcounttree_8h.html#aea81895d4cf45213d159bb7062179172" title="ocfs2_reflink_ioctl" alt="" coords="743,64,869,91"/>
+<area shape="rect" id="node7" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="917,64,1003,91"/>
+</map>

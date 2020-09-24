@@ -1,0 +1,10 @@
+<map id="hfsplus_cat_write_inode" name="hfsplus_cat_write_inode">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#a871906844552b3b3ec070e1caaec9ed5" title="HFSPLUS_I" alt="" coords="471,78,565,105"/>
+<area shape="rect" id="node3" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="245,31,354,58"/>
+<area shape="rect" id="node4" href="$lus_2catalog_8c.html#a813f02b437b6b550fe1abfdb91d83809" title="hfsplus_find_cat" alt="" coords="241,187,358,214"/>
+<area shape="rect" id="node8" href="$lus_2catalog_8c.html#afcd7c42cedcde404e073fac9d128a0e8" title="hfsplus_cat_set_perms" alt="" coords="221,82,378,109"/>
+<area shape="rect" id="node9" href="$hfsplus_2inode_8c.html#ae1b70d5fb37e02e4d4377c16e701d89b" title="hfsplus_inode_write_fork" alt="" coords="216,133,383,159"/>
+<area shape="rect" id="node5" href="$lus_2catalog_8c.html#a382c4e2e5acd8e7a9e22f6f781ee37d3" title="hfsplus_cat_build_key\l_with_cnid" alt="" coords="443,129,593,171"/>
+<area shape="rect" id="node6" href="$lus_2catalog_8c.html#a121fee6daeca6b340b649896c002fbb6" title="hfsplus_cat_build_key_uni" alt="" coords="431,195,605,222"/>
+<area shape="rect" id="node7" href="$lus_2bfind_8c.html#abd29e75a990354883bc8e9e55fcdcacf" title="hfs_find_rec_by_key" alt="" coords="447,246,589,273"/>
+</map>

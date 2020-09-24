@@ -1,0 +1,6 @@
+<map id="proc_register" name="proc_register">
+<area shape="rect" id="node2" href="$generic_8c.html#a300e2eae4c0088c3932b1499ba7c2622" title="proc_alloc_inum" alt="" coords="155,5,271,32"/>
+<area shape="rect" id="node3" href="$generic_8c.html#a9f6b8eaa9a11c9590283c3a54d8d5746" title="pde_subdir_insert" alt="" coords="151,56,275,83"/>
+<area shape="rect" id="node5" href="$generic_8c.html#a35b94b9eb0c42fe893f84069c6aab610" title="proc_free_inum" alt="" coords="157,107,268,133"/>
+<area shape="rect" id="node4" href="$generic_8c.html#a23701b8bbb52aa6d975e3fa6f79e4520" title="proc_match" alt="" coords="323,56,413,83"/>
+</map>

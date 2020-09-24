@@ -1,0 +1,7 @@
+<map id="metapage_invalidatepage" name="metapage_invalidatepage">
+<area shape="rect" id="node2" href="$jfs__metapage_8c.html#ae344569cfac976db85579c0006628934" title="metapage_releasepage" alt="" coords="223,81,379,108"/>
+<area shape="rect" id="node3" href="$jfs__metapage_8c.html#a812006336cb68a7001c4b824390d7176" title="page_to_mp" alt="" coords="455,5,549,32"/>
+<area shape="rect" id="node4" href="$jfs__metapage_8c.html#a62405f9b7729e9ba0748381675f3e79f" title="remove_from_logsync" alt="" coords="427,56,577,83"/>
+<area shape="rect" id="node5" href="$jfs__metapage_8c.html#af81ab7b3622bfef35ff1b185aa6f32af" title="remove_metapage" alt="" coords="437,107,567,133"/>
+<area shape="rect" id="node6" href="$jfs__metapage_8c.html#aa0a911bac755efdad15972327cfb6e21" title="free_metapage" alt="" coords="448,157,556,184"/>
+</map>

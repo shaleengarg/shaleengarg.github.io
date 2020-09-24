@@ -1,0 +1,9 @@
+<map id="nlm_alloc_host" name="nlm_alloc_host">
+<area shape="rect" id="node2" href="$mon_8c.html#afb9d95f81f6f054bacee458aba9aea6f" title="nsm_get_handle" alt="" coords="163,56,280,83"/>
+<area shape="rect" id="node8" href="$mon_8c.html#a56d74dc56902e37e26b64394278cb967" title="nsm_release" alt="" coords="173,107,269,133"/>
+<area shape="rect" id="node3" href="$mon_8c.html#aa29bc2b6eb2eb4d7e63fd6a858bb82c6" title="nsm_lookup_hostname" alt="" coords="328,5,484,32"/>
+<area shape="rect" id="node4" href="$mon_8c.html#a3ffec6c0d9ecb93fdc97829dd25300e8" title="nsm_lookup_addr" alt="" coords="344,56,468,83"/>
+<area shape="rect" id="node6" href="$mon_8c.html#ac856e133e4b85a1c4e752f6d0807615f" title="nsm_create_handle" alt="" coords="339,107,473,133"/>
+<area shape="rect" id="node5" href="$mon_8c.html#a71728f2477d6935d32d7c69c71ace0f3" title="nsm_addr" alt="" coords="551,56,630,83"/>
+<area shape="rect" id="node7" href="$mon_8c.html#aaa06c02055fc70754256f7046697a852" title="nsm_init_private" alt="" coords="532,107,649,133"/>
+</map>

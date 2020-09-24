@@ -1,0 +1,15 @@
+<map id="hfsplus_cat_read_inode" name="hfsplus_cat_read_inode">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#a871906844552b3b3ec070e1caaec9ed5" title="HFSPLUS_I" alt="" coords="434,5,529,32"/>
+<area shape="rect" id="node3" href="$hfsplus_2inode_8c.html#a77d95e782ce5d34ba20863bcec867d04" title="hfsplus_get_perms" alt="" coords="227,56,359,83"/>
+<area shape="rect" id="node5" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="256,208,331,235"/>
+<area shape="rect" id="node8" href="$hfsplus_2inode_8c.html#a26158698a8f4af116a67336361eaff40" title="hfsplus_inode_read_fork" alt="" coords="212,107,375,133"/>
+<area shape="rect" id="node13" href="$inode_8c.html#a79a9fc774cdfca7aa0f76f8e733c9c1e" title="inode_nohighmem" alt="" coords="230,284,357,311"/>
+<area shape="rect" id="node14" href="$inode_8c.html#aa992afd465d948c7fca769d396933c98" title="init_special_inode" alt="" coords="231,347,356,373"/>
+<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="427,56,536,83"/>
+<area shape="rect" id="node6" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="439,259,523,285"/>
+<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="588,284,727,311"/>
+<area shape="rect" id="node9" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="454,107,509,133"/>
+<area shape="rect" id="node11" href="$stat_8c.html#aaad2ca9f72ea597e34af1b3a5104f9c6" title="inode_set_bytes" alt="" coords="423,157,540,184"/>
+<area shape="rect" id="node10" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="598,107,717,133"/>
+<area shape="rect" id="node12" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="588,157,727,184"/>
+</map>

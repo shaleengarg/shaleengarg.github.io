@@ -1,0 +1,7 @@
+<map id="setup_file_extents" name="setup_file_extents">
+<area shape="rect" id="node2" href="$inode-tests_8c.html#aca53f2dd19054eabddf1ca2bbab9a6ee" title="test_btrfs_get_extent" alt="" coords="181,5,327,32"/>
+<area shape="rect" id="node3" href="$inode-tests_8c.html#a9d0b73cbf6efa1170df29806ec743995" title="btrfs_test_inodes" alt="" coords="375,5,497,32"/>
+<area shape="rect" id="node4" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="545,5,696,32"/>
+<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="744,5,835,32"/>
+<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="883,5,977,32"/>
+</map>

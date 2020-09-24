@@ -1,0 +1,20 @@
+<map id="__jffs2_dbg_acct_sanity_check" name="__jffs2_dbg_acct_sanity_check">
+<area shape="rect" id="node2" href="$jffs2_2debug_8h.html#aadd5bdc4fe8f3e8357ac1daec762e824" title="__jffs2_dbg_fragtree\l_paranoia_check" alt="" coords="242,5,382,47"/>
+<area shape="rect" id="node3" href="$jffs2_2debug_8h.html#aaacf1ad1f574f9366905018a59a1b27e" title="__jffs2_dbg_fragtree\l_paranoia_check_nolock" alt="" coords="229,71,395,112"/>
+<area shape="rect" id="node4" href="$nodelist_8h.html#acb683d5838d9406b15e0690e4c45f702" title="frag_first" alt="" coords="275,137,349,163"/>
+<area shape="rect" id="node5" href="$jffs2_2debug_8h.html#ad2d71e9c849191f5699304b56b9d113a" title="__jffs2_dbg_dump_fragtree\l_nolock" alt="" coords="223,188,401,229"/>
+<area shape="rect" id="node6" href="$jffs2_2debug_8h.html#af0d764f22f39874b80dbbbf57af9b77a" title="__jffs2_dbg_prewrite\l_paranoia_check" alt="" coords="241,253,383,295"/>
+<area shape="rect" id="node7" href="$wbuf_8c.html#aeab128069ffeb72cb296580e988d8687" title="jffs2_flash_read" alt="" coords="255,319,369,346"/>
+<area shape="rect" id="node8" href="$jffs2_2debug_8h.html#a8ee9999454bc0557f3aeab24b3fa8cd1" title="__jffs2_dbg_dump_buffer" alt="" coords="228,370,396,397"/>
+<area shape="rect" id="node9" href="$jffs2_2debug_8h.html#a0d11ed919f018cccebf66f62f6e1fd0d" title="__jffs2_dbg_dump_block\l_lists_nolock" alt="" coords="229,421,395,463"/>
+<area shape="rect" id="node10" href="$jffs2_2debug_8h.html#a86a9649924a6e15c93ea1cc6d3d0ca56" title="__jffs2_dbg_acct_paranoia\l_check" alt="" coords="223,487,401,528"/>
+<area shape="rect" id="node11" href="$jffs2_2debug_8h.html#a1433f90642ba1ebfbbbd10d151291ba2" title="__jffs2_dbg_acct_paranoia\l_check_nolock" alt="" coords="223,552,401,593"/>
+<area shape="rect" id="node12" href="$nodelist_8h.html#a2235e2eece61b1bd0e54ee9cf914825e" title="ref_next" alt="" coords="277,618,347,645"/>
+<area shape="rect" id="node13" href="$jffs2_2debug_8h.html#a8465d662a685c26191803a3f81cd6df2" title="__jffs2_dbg_dump_node\l_refs_nolock" alt="" coords="231,669,393,711"/>
+<area shape="rect" id="node14" href="$jffs2_2debug_8h.html#acb1587bb674beea0f4b499b771d9671e" title="__jffs2_dbg_dump_jeb\l_nolock" alt="" coords="236,735,388,776"/>
+<area shape="rect" id="node15" href="$jffs2_2debug_8h.html#af62d4384fde05131924e16dad4eb1ab9" title="__jffs2_dbg_dump_node_refs" alt="" coords="216,801,408,827"/>
+<area shape="rect" id="node16" href="$jffs2_2debug_8h.html#a0d63b301e86e86ba2088e9c7d16d2771" title="__jffs2_dbg_dump_jeb" alt="" coords="236,851,388,878"/>
+<area shape="rect" id="node17" href="$jffs2_2debug_8h.html#a1f5dd72f0a1eb43b39294f4016da6c1b" title="__jffs2_dbg_dump_block\l_lists" alt="" coords="229,903,395,944"/>
+<area shape="rect" id="node18" href="$jffs2_2debug_8h.html#afffa5adb7f003d53a029f5abf6f3275e" title="__jffs2_dbg_dump_fragtree" alt="" coords="223,969,401,995"/>
+<area shape="rect" id="node19" href="$jffs2_2debug_8h.html#a435e56e9d378a2173c69c6b1bad6696c" title="__jffs2_dbg_dump_node" alt="" coords="231,1019,393,1046"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nlm_destroy_host_locked" name="nlm_destroy_host_locked">
+<area shape="rect" id="node2" href="$mon_8c.html#ae1d7ba45724982961298316f533faee9" title="nsm_unmonitor" alt="" coords="224,5,335,32"/>
+<area shape="rect" id="node5" href="$mon_8c.html#a56d74dc56902e37e26b64394278cb967" title="nsm_release" alt="" coords="231,56,327,83"/>
+<area shape="rect" id="node3" href="$mon_8c.html#a442d33ea17dd78a3257f304ffb5ba1af" title="nsm_mon_unmon" alt="" coords="383,5,508,32"/>
+<area shape="rect" id="node4" href="$mon_8c.html#aa11b1648c7ca2be81fda175acd892745" title="nsm_create" alt="" coords="556,5,647,32"/>
+</map>

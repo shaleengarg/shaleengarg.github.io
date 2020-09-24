@@ -1,0 +1,20 @@
+<map id="hfsplus_create_attributes_file" name="hfsplus_create_attributes_file">
+<area shape="rect" id="node2" href="$hfsplus_2xattr_8h.html#a5def7399d5b4898b1d44dda375a26739" title="__hfsplus_setxattr" alt="" coords="245,132,375,159"/>
+<area shape="rect" id="node3" href="$hfsplus_2xattr_8h.html#a46fbdccd4e402cc3de46f56066b43001" title="hfsplus_setxattr" alt="" coords="448,56,563,83"/>
+<area shape="rect" id="node7" href="$hfsplus_2xattr_8c.html#ab30f5d4d1c6a8b271ea4c17a4f7fa92c" title="hfsplus_osx_setxattr" alt="" coords="434,107,577,133"/>
+<area shape="rect" id="node8" href="$hfsplus_2xattr__security_8c.html#a125afd91785c12c5d9a836a1d32b69ce" title="hfsplus_initxattrs" alt="" coords="445,157,566,184"/>
+<area shape="rect" id="node17" href="$hfsplus_2posix__acl_8c.html#a5bfd5a11e4ef55c13287354c8f351144" title="__hfsplus_set_posix_acl" alt="" coords="423,208,588,235"/>
+<area shape="rect" id="node4" href="$hfsplus_2xattr__security_8c.html#a31cde50b598d386f3ad88416a132e973" title="hfsplus_security_setxattr" alt="" coords="636,5,804,32"/>
+<area shape="rect" id="node5" href="$hfsplus_2xattr__trusted_8c.html#ab1d0e2477c6cf834880007ea00ab6d84" title="hfsplus_trusted_setxattr" alt="" coords="639,56,801,83"/>
+<area shape="rect" id="node6" href="$hfsplus_2xattr__user_8c.html#aa8e1a7fb20a0b8589db985b6399272d6" title="hfsplus_user_setxattr" alt="" coords="647,107,793,133"/>
+<area shape="rect" id="node9" href="$hfsplus_2xattr__security_8c.html#a8ac468d6bee19742d72a99d23cde4f43" title="hfsplus_init_security" alt="" coords="649,157,791,184"/>
+<area shape="rect" id="node10" href="$hfsplus_2xattr__security_8c.html#a2f4345a9e39618377369ca367e32ec0d" title="hfsplus_init_inode\l_security" alt="" coords="852,201,979,242"/>
+<area shape="rect" id="node11" href="$hfsplus_2dir_8c.html#aeda0310a00867d05b95b1bc015923e5c" title="hfsplus_symlink" alt="" coords="1030,157,1146,184"/>
+<area shape="rect" id="node12" href="$hfsplus_2dir_8c.html#a35bf3faf117c9dfd41c7c9445eac16f9" title="hfsplus_mknod" alt="" coords="1033,208,1143,235"/>
+<area shape="rect" id="node15" href="$hfsplus_2super_8c.html#a0e34aae07538c6f39fa8325b39b64161" title="hfsplus_fill_super" alt="" coords="1027,259,1149,285"/>
+<area shape="rect" id="node13" href="$hfsplus_2dir_8c.html#a0f477be27f821443e6ad4eb85cff991f" title="hfsplus_create" alt="" coords="1197,157,1304,184"/>
+<area shape="rect" id="node14" href="$hfsplus_2dir_8c.html#a080f2cf4a5ffa50542a9c52802a4f3fa" title="hfsplus_mkdir" alt="" coords="1199,208,1302,235"/>
+<area shape="rect" id="node16" href="$hfsplus_2super_8c.html#adf59bb98b6d40eb0611230183a6a21f9" title="hfsplus_mount" alt="" coords="1197,259,1304,285"/>
+<area shape="rect" id="node18" href="$hfsplus_2posix__acl_8c.html#a2abe6ef75826f4df15e965bd22198138" title="hfsplus_set_posix_acl" alt="" coords="645,208,795,235"/>
+<area shape="rect" id="node19" href="$hfsplus_2posix__acl_8c.html#add8f04778571c4ed29cd0897b16916cd" title="hfsplus_init_posix_acl" alt="" coords="645,259,795,285"/>
+</map>

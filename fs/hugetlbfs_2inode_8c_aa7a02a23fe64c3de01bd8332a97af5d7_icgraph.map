@@ -1,0 +1,5 @@
+<map id="hugetlbfs_write_begin" name="hugetlbfs_write_begin">
+<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#a6a15b832cf0734c82a0c48a16859a69d" title="hugetlbfs_destroy_inode" alt="" coords="201,5,364,32"/>
+<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="412,5,487,32"/>
+<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="535,5,652,32"/>
+</map>

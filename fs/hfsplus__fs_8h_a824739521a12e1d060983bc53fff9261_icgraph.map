@@ -1,0 +1,10 @@
+<map id="hfsplus_delete_inode" name="hfsplus_delete_inode">
+<area shape="rect" id="node2" href="$hfsplus_2dir_8c.html#aea552220452c2b7f572524fc0ab56ea9" title="hfsplus_unlink" alt="" coords="213,5,319,32"/>
+<area shape="rect" id="node4" href="$hfsplus_2dir_8c.html#a98d8fc13881121288c0a47f7666d4b9b" title="hfsplus_rmdir" alt="" coords="216,56,316,83"/>
+<area shape="rect" id="node5" href="$hfsplus_2dir_8c.html#aeda0310a00867d05b95b1bc015923e5c" title="hfsplus_symlink" alt="" coords="208,107,324,133"/>
+<area shape="rect" id="node6" href="$hfsplus_2dir_8c.html#a35bf3faf117c9dfd41c7c9445eac16f9" title="hfsplus_mknod" alt="" coords="211,157,321,184"/>
+<area shape="rect" id="node9" href="$hfsplus_2inode_8c.html#acf43de099fb2476d537f81ec5c6bb658" title="hfsplus_file_release" alt="" coords="197,208,335,235"/>
+<area shape="rect" id="node3" href="$hfsplus_2dir_8c.html#a7dca869cf196fd7ef8be1bec9ab2da86" title="hfsplus_rename" alt="" coords="383,31,497,57"/>
+<area shape="rect" id="node7" href="$hfsplus_2dir_8c.html#a0f477be27f821443e6ad4eb85cff991f" title="hfsplus_create" alt="" coords="387,132,493,159"/>
+<area shape="rect" id="node8" href="$hfsplus_2dir_8c.html#a080f2cf4a5ffa50542a9c52802a4f3fa" title="hfsplus_mkdir" alt="" coords="389,183,491,209"/>
+</map>

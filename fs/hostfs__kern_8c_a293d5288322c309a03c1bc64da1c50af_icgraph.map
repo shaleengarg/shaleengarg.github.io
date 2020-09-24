@@ -1,0 +1,10 @@
+<map id="HOSTFS_I" name="HOSTFS_I">
+<area shape="rect" id="node2" href="$hostfs__kern_8c.html#a77a2af5ca5d7642389cc1c406fb534f4" title="hostfs_evict_inode" alt="" coords="140,5,271,32"/>
+<area shape="rect" id="node3" href="$hostfs__kern_8c.html#a9ce22cc62776aeea3e35122c64f1cf1e" title="hostfs_i_callback" alt="" coords="144,56,267,83"/>
+<area shape="rect" id="node5" href="$hostfs__kern_8c.html#abae294807f951c972e52de3a29a63c50" title="hostfs_open" alt="" coords="159,107,252,133"/>
+<area shape="rect" id="node6" href="$hostfs__kern_8c.html#a0ba10e541802bfa31235c3e0c2793ce4" title="hostfs_fsync" alt="" coords="157,157,254,184"/>
+<area shape="rect" id="node7" href="$hostfs__kern_8c.html#a425194bb6731db5c10fd8bb5a6818f29" title="hostfs_writepage" alt="" coords="145,208,266,235"/>
+<area shape="rect" id="node8" href="$hostfs__kern_8c.html#ae46b99854342882045793dd8b83409a9" title="hostfs_create" alt="" coords="155,259,256,285"/>
+<area shape="rect" id="node9" href="$hostfs__kern_8c.html#a6d21001dfbee5b0c82dbaeafc9df0c28" title="hostfs_setattr" alt="" coords="341,284,443,311"/>
+<area shape="rect" id="node4" href="$hostfs__kern_8c.html#a6d0bc97ea3188ced681a35e563ff608b" title="hostfs_destroy_inode" alt="" coords="319,56,465,83"/>
+</map>

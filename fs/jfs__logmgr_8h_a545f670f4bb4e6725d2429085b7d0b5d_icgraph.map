@@ -1,0 +1,7 @@
+<map id="lmLogOpen" name="lmLogOpen">
+<area shape="rect" id="node2" href="$jfs__superblock_8h.html#ad7a26da0f4cd7aa706741fff90ba8df5" title="jfs_mount_rw" alt="" coords="141,31,241,57"/>
+<area shape="rect" id="node3" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="437,5,527,32"/>
+<area shape="rect" id="node5" href="$jfs_2super_8c.html#a21307747421cfa90f0d4127e5d20f422" title="jfs_fill_super" alt="" coords="289,56,384,83"/>
+<area shape="rect" id="node4" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="580,31,703,57"/>
+<area shape="rect" id="node6" href="$jfs_2super_8c.html#a11a394ce651f4a27d9e9f0450fb865f3" title="jfs_do_mount" alt="" coords="432,56,532,83"/>
+</map>

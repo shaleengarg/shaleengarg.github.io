@@ -1,0 +1,7 @@
+<map id="dbAllocDmapBU" name="dbAllocDmapBU">
+<area shape="rect" id="node2" href="$jfs__dmap_8h.html#a09d26b966d053fa1fd33ede6226f48cf" title="dbAllocBottomUp" alt="" coords="172,5,296,32"/>
+<area shape="rect" id="node3" href="$jfs__xtree_8c.html#a573a0c73d4d6f253b64e7d8bf331cee6" title="xtAppend" alt="" coords="344,5,421,32"/>
+<area shape="rect" id="node4" href="$jfs_2resize_8c.html#ad613ea07103a85b96bec4ff8846bb447" title="jfs_extendfs" alt="" coords="469,5,563,32"/>
+<area shape="rect" id="node5" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="611,5,701,32"/>
+<area shape="rect" id="node6" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="749,5,872,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="jfs/jfs_logmgr.c" name="jfs/jfs_logmgr.c">
+<area shape="rect" id="node15" href="$jfs__incore_8h.html" title="jfs_incore.h" alt="" coords="1518,80,1607,107"/>
+<area shape="rect" id="node24" href="$jfs__filsys_8h.html" title="jfs_filsys.h" alt="" coords="1961,229,2047,256"/>
+<area shape="rect" id="node25" href="$jfs__metapage_8h.html" title="jfs_metapage.h" alt="" coords="1875,80,1986,107"/>
+<area shape="rect" id="node27" href="$jfs__superblock_8h.html" title="jfs_superblock.h" alt="" coords="2011,80,2128,107"/>
+<area shape="rect" id="node28" href="$jfs__txnmgr_8h.html" title="jfs_txnmgr.h" alt="" coords="2153,80,2247,107"/>
+<area shape="rect" id="node33" href="$jfs__debug_8h.html" title="jfs_debug.h" alt="" coords="2271,80,2361,107"/>
+<area shape="rect" id="node18" href="$jfs__types_8h.html" title="jfs_types.h" alt="" coords="1637,155,1723,181"/>
+<area shape="rect" id="node21" href="$jfs__xtree_8h.html" title="jfs_xtree.h" alt="" coords="1748,155,1831,181"/>
+<area shape="rect" id="node23" href="$jfs__dtree_8h.html" title="jfs_dtree.h" alt="" coords="1855,155,1937,181"/>
+<area shape="rect" id="node22" href="$jfs__btree_8h.html" title="jfs_btree.h" alt="" coords="1787,229,1869,256"/>
+<area shape="rect" id="node29" href="$jfs__logmgr_8h.html" title="jfs_logmgr.h" alt="" coords="2153,155,2247,181"/>
+<area shape="rect" id="node30" href="$jfs__lock_8h.html" title="jfs_lock.h" alt="" coords="2130,229,2209,256"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="hfsplus_link" name="hfsplus_link">
+<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="992,383,1101,409"/>
+<area shape="rect" id="node3" href="$lus_2catalog_8c.html#aaf5058040623df061a40afddc66e8d3a" title="hfsplus_rename_cat" alt="" coords="157,584,295,611"/>
+<area shape="rect" id="node10" href="$hfsplus__fs_8h.html#a871906844552b3b3ec070e1caaec9ed5" title="HFSPLUS_I" alt="" coords="813,332,908,359"/>
+<area shape="rect" id="node11" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="392,787,487,813"/>
+<area shape="rect" id="node17" href="$lus_2catalog_8c.html#a272ed59a4ced3aaafb6e9d5efc5fbbdf" title="hfsplus_create_cat" alt="" coords="160,437,292,464"/>
+<area shape="rect" id="node20" href="$inode_8c.html#a9e6c5f183e4d22feba01bc18e9866dd1" title="inc_nlink" alt="" coords="189,713,263,740"/>
+<area shape="rect" id="node21" href="$hfsplus_2dir_8c.html#ac09fb009182c2526f0df93ad2a98cbe1" title="hfsplus_instantiate" alt="" coords="161,928,291,955"/>
+<area shape="rect" id="node27" href="$inode_8c.html#a077d9e4c20a3973b2e944b77ae44e658" title="ihold" alt="" coords="201,801,251,828"/>
+<area shape="rect" id="node28" href="$hfsplus__fs_8h.html#a08564b5e3a168f5fd92260f24d0c44d3" title="hfsplus_mark_mdb_dirty" alt="" coords="144,96,308,123"/>
+<area shape="rect" id="node4" href="$lus_2catalog_8c.html#ac9a7d40f3fbad19f5fb1a58667dca8e5" title="hfsplus_cat_build_key" alt="" coords="364,467,515,493"/>
+<area shape="rect" id="node8" href="$lus_2bfind_8c.html#abd29e75a990354883bc8e9e55fcdcacf" title="hfs_find_rec_by_key" alt="" coords="368,349,511,376"/>
+<area shape="rect" id="node9" href="$lus_2catalog_8c.html#a43a49eca48e3942d9ecc3fb4b29f5787" title="hfsplus_subfolders_inc" alt="" coords="573,433,727,460"/>
+<area shape="rect" id="node13" href="$lus_2catalog_8c.html#ac140162af32c0c62078ae5f5bb68224e" title="hfsplus_subfolders_dec" alt="" coords="571,585,729,612"/>
+<area shape="rect" id="node14" href="$lus_2catalog_8c.html#a382c4e2e5acd8e7a9e22f6f781ee37d3" title="hfsplus_cat_build_key\l_with_cnid" alt="" coords="364,518,515,559"/>
+<area shape="rect" id="node15" href="$lus_2catalog_8c.html#adfb890d41d7171acc01cfec33e8c80b0" title="hfsplus_fill_cat_thread" alt="" coords="363,635,515,661"/>
+<area shape="rect" id="node16" href="$hfsplus__fs_8h.html#a3025a5af56e2038185f558f2123e0fca" title="hfsplus_mark_inode\l_dirty" alt="" coords="370,401,509,442"/>
+<area shape="rect" id="node5" href="$hfsplus__fs_8h.html#a28ada23aec6185bcc5a268c8831523f6" title="hfsplus_asc2uni" alt="" coords="592,484,708,511"/>
+<area shape="rect" id="node6" href="$hfsplus_2unicode_8c.html#a74e1c9c59b7a9abee291e2533c6a0fa5" title="asc2unichar" alt="" coords="815,535,907,561"/>
+<area shape="rect" id="node7" href="$hfsplus_2unicode_8c.html#af3eba2448cb5baf76cab915a78c4fed5" title="decompose_unichar" alt="" coords="791,433,930,460"/>
+<area shape="rect" id="node12" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="581,837,719,864"/>
+<area shape="rect" id="node18" href="$lus_2catalog_8c.html#a3647ccfdd1c830ea55edcd759b207fbd" title="hfsplus_cat_build_record" alt="" coords="356,197,523,224"/>
+<area shape="rect" id="node19" href="$lus_2catalog_8c.html#afcd7c42cedcde404e073fac9d128a0e8" title="hfsplus_cat_set_perms" alt="" coords="571,281,729,308"/>
+<area shape="rect" id="node22" href="$dcache_8c.html#a5a3ec23af02f1f96a027c7431adc1bfb" title="d_instantiate" alt="" coords="391,939,487,965"/>
+<area shape="rect" id="node23" href="$dcache_8c.html#a3c471dd0d1ff573bdb8e84243685ceb3" title="__d_instantiate" alt="" coords="595,964,705,991"/>
+<area shape="rect" id="node26" href="$dcache_8c.html#aeb5ec7bdf3301140d66dd18ae638685c" title="EXPORT_SYMBOL" alt="" coords="581,913,719,940"/>
+<area shape="rect" id="node24" href="$dcache_8c.html#a990fb9ad584b8c9f0a0167ca94d6a01f" title="d_flags_for_inode" alt="" coords="799,989,923,1016"/>
+<area shape="rect" id="node25" href="$dcache_8c.html#a95f527a9dc7c279bc6db816cd2899632" title="__d_set_inode_and_type" alt="" coords="777,939,944,965"/>
+<area shape="rect" id="node29" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="413,96,466,123"/>
+</map>

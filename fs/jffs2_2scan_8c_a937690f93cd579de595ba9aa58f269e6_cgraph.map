@@ -1,0 +1,10 @@
+<map id="jffs2_scan_inode_node" name="jffs2_scan_inode_node">
+<area shape="rect" id="node2" href="$nodelist_8c.html#a39255988c1c9b27221805f715c1acc2e" title="jffs2_scan_dirty_space" alt="" coords="221,5,377,32"/>
+<area shape="rect" id="node3" href="$nodelist_8c.html#ae2d47d02616e1d68fcc8aee61cd466b1" title="jffs2_link_node_ref" alt="" coords="453,31,583,57"/>
+<area shape="rect" id="node4" href="$nodelist_8c.html#a885b269cad17a1c5af0cd9e199526fb0" title="jffs2_get_ino_cache" alt="" coords="449,107,587,133"/>
+<area shape="rect" id="node5" href="$jffs2_2scan_8c.html#adecd65f55383eeb2ebc71005bd1099ce" title="jffs2_scan_make_ino\l_cache" alt="" coords="226,158,371,199"/>
+<area shape="rect" id="node8" href="$summary_8c.html#a94d564d3c94c3ae146b96b2f89088d47" title="jffs2_sum_add_inode_mem" alt="" coords="208,241,389,268"/>
+<area shape="rect" id="node6" href="$malloc_8c.html#a52260c4fff75f799a864e7e49a5f6be0" title="jffs2_alloc_inode_cache" alt="" coords="437,157,599,184"/>
+<area shape="rect" id="node7" href="$nodelist_8c.html#a9e1f8e5b445c30ab4c280c2608ee0f6f" title="jffs2_add_ino_cache" alt="" coords="447,208,589,235"/>
+<area shape="rect" id="node9" href="$summary_8c.html#ae41a0612cf700518ea4b0eeff354cce1" title="jffs2_sum_add_mem" alt="" coords="447,259,589,285"/>
+</map>

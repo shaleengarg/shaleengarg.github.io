@@ -1,0 +1,5 @@
+<map id="next_host_state" name="next_host_state">
+<area shape="rect" id="node2" href="$host_8c.html#a7b3aa5a8da6db14462d5e03f54a38f4a" title="nlm_host_rebooted" alt="" coords="168,31,300,57"/>
+<area shape="rect" id="node3" href="$svc4proc_8c.html#a2c797bff1065843040c85a72eefd904b" title="nlm4svc_proc_sm_notify" alt="" coords="348,5,515,32"/>
+<area shape="rect" id="node4" href="$svcproc_8c.html#aa6252f981fb1ec60077826d0634760ff" title="nlmsvc_proc_sm_notify" alt="" coords="351,56,511,83"/>
+</map>

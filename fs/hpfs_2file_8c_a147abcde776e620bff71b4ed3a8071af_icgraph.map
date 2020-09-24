@@ -1,0 +1,9 @@
+<map id="hpfs_get_block" name="hpfs_get_block">
+<area shape="rect" id="node2" href="$hpfs_2file_8c.html#a9e7bfd54cdf89097ebbd74b7098f639a" title="hpfs_readpage" alt="" coords="171,5,277,32"/>
+<area shape="rect" id="node3" href="$hpfs_2file_8c.html#a8bd3948110bd61bb8d2f78dcd979138e" title="hpfs_writepage" alt="" coords="169,56,279,83"/>
+<area shape="rect" id="node4" href="$hpfs_2file_8c.html#ac604e2d999ff990b4b988dfcc4bcbfc7" title="hpfs_readpages" alt="" coords="167,107,281,133"/>
+<area shape="rect" id="node5" href="$hpfs_2file_8c.html#ae2a75809b4fd0cc0ccfe822044790b02" title="hpfs_writepages" alt="" coords="165,157,283,184"/>
+<area shape="rect" id="node6" href="$hpfs_2file_8c.html#a146be8b06d26cc631f6d1cf8f987ab15" title="hpfs_write_begin" alt="" coords="164,208,284,235"/>
+<area shape="rect" id="node7" href="$hpfs_2file_8c.html#a7c7169f248a3bdfcacde61f2dadb46c0" title="_hpfs_bmap" alt="" coords="177,259,271,285"/>
+<area shape="rect" id="node8" href="$hpfs_2file_8c.html#a2bd11c4c3a58aba8ae4534592b0e0c64" title="hpfs_fiemap" alt="" coords="177,309,271,336"/>
+</map>

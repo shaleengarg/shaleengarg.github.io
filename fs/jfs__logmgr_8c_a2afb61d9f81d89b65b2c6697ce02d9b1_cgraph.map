@@ -1,0 +1,9 @@
+<map id="lmWriteRecord" name="lmWriteRecord">
+<area shape="rect" id="node2" href="$jfs__incore_8h.html#a894f4cd89a0ccf9b7fa1f816c1737f52" title="JFS_IP" alt="" coords="177,5,243,32"/>
+<area shape="rect" id="node3" href="$jfs__logmgr_8c.html#a49d037fedacdf83a6f366a06198d6833" title="lmNextPage" alt="" coords="163,56,257,83"/>
+<area shape="rect" id="node4" href="$jfs__logmgr_8c.html#a99de98e3fb1cb3322e940c23ae35160f" title="lbmWrite" alt="" coords="444,31,519,57"/>
+<area shape="rect" id="node7" href="$jfs__logmgr_8c.html#a8822ed34b5c80b75d631705534362e1a" title="lmGCwrite" alt="" coords="309,56,393,83"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8c.html#a8aa48732e04e8e2f5df9111c1a6aff4b" title="lbmAllocate" alt="" coords="305,107,396,133"/>
+<area shape="rect" id="node5" href="$jfs__logmgr_8c.html#adf900121f994cc05bc1d68e23da6ed8f" title="lbmRedrive" alt="" coords="567,5,655,32"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="568,56,653,83"/>
+</map>

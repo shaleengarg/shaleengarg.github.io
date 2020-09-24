@@ -1,0 +1,12 @@
+<map id="jfs_strtoUCS" name="jfs_strtoUCS">
+<area shape="rect" id="node2" href="$jfs__unicode_8h.html#a8a63fb9ea74bf66f028d42f9caa5d652" title="get_UCSname" alt="" coords="152,208,260,235"/>
+<area shape="rect" id="node3" href="$jfs_2namei_8c.html#acb5dbad87badfa2c17975c1e3f8f69a7" title="jfs_create" alt="" coords="313,5,391,32"/>
+<area shape="rect" id="node4" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="315,56,389,83"/>
+<area shape="rect" id="node5" href="$jfs_2namei_8c.html#a3ad6c390c8e4d1930e798bbdfc642678" title="jfs_rmdir" alt="" coords="316,107,388,133"/>
+<area shape="rect" id="node6" href="$jfs_2namei_8c.html#af04c1404d0730674146bc7f8d6b20f97" title="jfs_unlink" alt="" coords="313,157,391,184"/>
+<area shape="rect" id="node7" href="$jfs_2namei_8c.html#af8a66989f32d041f582d4ff611d291b7" title="jfs_link" alt="" coords="321,208,383,235"/>
+<area shape="rect" id="node8" href="$jfs_2namei_8c.html#aba1fc327be9b506d66b67bfef6a435bf" title="jfs_symlink" alt="" coords="308,259,396,285"/>
+<area shape="rect" id="node9" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="309,309,395,336"/>
+<area shape="rect" id="node10" href="$jfs_2namei_8c.html#a8e48423fb7b4d82fdb4214f061366964" title="jfs_mknod" alt="" coords="311,360,393,387"/>
+<area shape="rect" id="node11" href="$jfs_2namei_8c.html#a852d69f8d6275c218b69dd80cd785d6e" title="jfs_lookup" alt="" coords="311,411,393,437"/>
+</map>

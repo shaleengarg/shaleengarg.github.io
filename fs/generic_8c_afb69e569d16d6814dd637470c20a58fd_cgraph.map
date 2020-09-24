@@ -1,0 +1,9 @@
+<map id="proc_getattr" name="proc_getattr">
+<area shape="rect" id="node2" href="$proc_2internal_8h.html#af06d35fcc560b7b9aab608efbf4f4ad8" title="PDE" alt="" coords="170,12,221,39"/>
+<area shape="rect" id="node4" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="158,69,233,96"/>
+<area shape="rect" id="node7" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="144,132,247,159"/>
+<area shape="rect" id="node3" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="328,5,400,32"/>
+<area shape="rect" id="node5" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="322,56,406,83"/>
+<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="481,81,620,108"/>
+<area shape="rect" id="node8" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="295,157,433,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lmLogFileSystem" name="lmLogFileSystem">
+<area shape="rect" id="node2" href="$jfs__logmgr_8h.html#a545f670f4bb4e6725d2429085b7d0b5d" title="lmLogOpen" alt="" coords="177,31,265,57"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8h.html#a68b74f9d04e75d7e2e11440ebaa451da" title="lmLogClose" alt="" coords="176,81,267,108"/>
+<area shape="rect" id="node3" href="$jfs__superblock_8h.html#ad7a26da0f4cd7aa706741fff90ba8df5" title="jfs_mount_rw" alt="" coords="318,56,418,83"/>
+<area shape="rect" id="node4" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="471,107,562,133"/>
+<area shape="rect" id="node6" href="$jfs_2super_8c.html#a21307747421cfa90f0d4127e5d20f422" title="jfs_fill_super" alt="" coords="469,56,564,83"/>
+<area shape="rect" id="node5" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="760,56,883,83"/>
+<area shape="rect" id="node7" href="$jfs_2super_8c.html#a11a394ce651f4a27d9e9f0450fb865f3" title="jfs_do_mount" alt="" coords="612,56,712,83"/>
+<area shape="rect" id="node9" href="$jfs__umount_8c.html#a6e519060000a13cc8a9b8262542465b3" title="jfs_umount" alt="" coords="325,5,411,32"/>
+<area shape="rect" id="node11" href="$jfs__umount_8c.html#a285dc4001678473a63f3fcfa977d0fb5" title="jfs_umount_rw" alt="" coords="315,107,421,133"/>
+<area shape="rect" id="node10" href="$jfs_2super_8c.html#a834b0ab18d3ad15f90ac1e8233e30d99" title="jfs_put_super" alt="" coords="612,5,712,32"/>
+</map>

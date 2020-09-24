@@ -1,0 +1,29 @@
+<map id="fscrypt_get_symlink" name="fscrypt_get_symlink">
+<area shape="rect" id="node2" href="$keyinfo_8c.html#a7621dfa0cb2b35172414c30b08e5aedd" title="fscrypt_get_encryption_info" alt="" coords="192,233,375,260"/>
+<area shape="rect" id="node19" href="$fname_8c.html#a466dc194082c49b7a7c95921e14d7873" title="fscrypt_fname_alloc\l_buffer" alt="" coords="214,395,353,437"/>
+<area shape="rect" id="node21" href="$fname_8c.html#a0154256f4fda99802319c5aefb193c83" title="fscrypt_fname_disk\l_to_usr" alt="" coords="215,470,351,511"/>
+<area shape="rect" id="node26" href="$libfs_8c.html#a9dbd35c56f12051aead4bb8bf1c40e23" title="kfree_link" alt="" coords="244,536,323,563"/>
+<area shape="rect" id="node28" href="$hooks_8c.html#a245a5163f1b42ffb7632e4882f84b0bb" title="EXPORT_SYMBOL_GPL" alt="" coords="197,587,369,613"/>
+<area shape="rect" id="node3" href="$crypto_2crypto_8c.html#af669c5cf0f50c0c619742704b6cffdf1" title="fscrypt_initialize" alt="" coords="651,31,767,57"/>
+<area shape="rect" id="node5" href="$keyinfo_8c.html#ad49967fa4f85bb4a389049107d05fca4" title="determine_cipher_type" alt="" coords="423,132,576,159"/>
+<area shape="rect" id="node13" href="$keyinfo_8c.html#a48063b8ae6a6e8cf7a1ef357b5533c26" title="validate_user_key" alt="" coords="436,183,563,209"/>
+<area shape="rect" id="node15" href="$keyinfo_8c.html#a1896e254e43274fa245243395c8b5ebd" title="init_essiv_generator" alt="" coords="430,233,569,260"/>
+<area shape="rect" id="node17" href="$keyinfo_8c.html#ab93f9769891ed56942bf6e50c5d52ef9" title="put_crypt_info" alt="" coords="447,284,551,311"/>
+<area shape="rect" id="node18" href="$keyinfo_8c.html#a76c4eeea0a83fb479a90b30e219ffc0a" title="EXPORT_SYMBOL" alt="" coords="430,335,569,361"/>
+<area shape="rect" id="node4" href="$crypto_2crypto_8c.html#afcd39fa09504d43e663466794cbbe1eb" title="fscrypt_destroy" alt="" coords="1091,5,1203,32"/>
+<area shape="rect" id="node6" href="$fscrypt__private_8h.html#ab15ec3d0df2bcbd4968ae8d58e0bb088" title="fscrypt_valid_enc_modes" alt="" coords="624,132,795,159"/>
+<area shape="rect" id="node7" href="$fscrypt__private_8h.html#af669c5cf0f50c0c619742704b6cffdf1" title="fscrypt_initialize" alt="" coords="885,31,1001,57"/>
+<area shape="rect" id="node8" href="$fscrypt__private_8h.html#a54b1c5526cd4eccd22ebb1e73c3fc385" title="fscrypt_do_page_crypto" alt="" coords="862,81,1023,108"/>
+<area shape="rect" id="node9" href="$fscrypt__private_8h.html#a1f4b4ee23f3f6ea7869b12de76151f8e" title="fscrypt_alloc_bounce_page" alt="" coords="853,132,1033,159"/>
+<area shape="rect" id="node10" href="$fscrypt__private_8h.html#ab6ec3c0a289a75033eefc8b0ea9b40b7" title="fname_encrypt" alt="" coords="889,183,997,209"/>
+<area shape="rect" id="node11" href="$fscrypt__private_8h.html#a46eac2c4bde9fab84183643a0192aa5b" title="fscrypt_fname_encrypted_size" alt="" coords="843,233,1043,260"/>
+<area shape="rect" id="node12" href="$fscrypt__private_8h.html#aef01de70fa2d65e2a71d396d958a50cc" title="fscrypt_essiv_cleanup" alt="" coords="867,284,1019,311"/>
+<area shape="rect" id="node14" href="$keyinfo_8c.html#a62150f287ac661131b5f55152d747120" title="derive_key_aes" alt="" coords="653,183,766,209"/>
+<area shape="rect" id="node16" href="$keyinfo_8c.html#aaa232e8ce61aaeb9ff6113fba74e11d7" title="derive_essiv_salt" alt="" coords="648,233,771,260"/>
+<area shape="rect" id="node20" href="$fname_8c.html#a6b9fe804ecd944aa7be9d561bd95e305" title="EXPORT_SYMBOL" alt="" coords="430,385,569,412"/>
+<area shape="rect" id="node22" href="$fname_8c.html#a7fc480964060c81a26e1769c11b279df" title="fscrypt_is_dot_dotdot" alt="" coords="426,436,573,463"/>
+<area shape="rect" id="node23" href="$fname_8c.html#aeafa0e0539cb62633757b383848fbda4" title="fname_decrypt" alt="" coords="445,487,553,513"/>
+<area shape="rect" id="node24" href="$fname_8c.html#a15be4ca3b9156d8914a6b91100949d0f" title="digest_encode" alt="" coords="446,537,553,564"/>
+<area shape="rect" id="node25" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="474,588,525,615"/>
+<area shape="rect" id="node27" href="$libfs_8c.html#a91c91ea39de851f32fce31e8967ceda2" title="EXPORT_SYMBOL" alt="" coords="430,639,569,665"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="hostfs_unlink" name="hostfs_unlink">
+<area shape="rect" id="node2" href="$hostfs__kern_8c.html#aad3cd6545072acf22f4bcfbdd48919b6" title="dentry_name" alt="" coords="152,56,249,83"/>
+<area shape="rect" id="node9" href="$hostfs_8h.html#ab8e2a3c8d15e6d2dbcc6ddb63491876e" title="unlink_file" alt="" coords="161,107,241,133"/>
+<area shape="rect" id="node3" href="$hostfs__kern_8c.html#a482ad39d1a6cbe15243442e1c456ba4a" title="__dentry_name" alt="" coords="297,56,408,83"/>
+<area shape="rect" id="node4" href="$d__path_8c.html#a0cc088ae05851b2c251188fecfba0a81" title="dentry_path_raw" alt="" coords="456,56,575,83"/>
+<area shape="rect" id="node5" href="$d__path_8c.html#a4e45e18c7e826a4a8602d26b3923e6e2" title="__dentry_path" alt="" coords="640,31,744,57"/>
+<area shape="rect" id="node8" href="$d__path_8c.html#a865c63e36fa35b08a9ca4f1f97e2a01c" title="EXPORT_SYMBOL" alt="" coords="623,81,761,108"/>
+<area shape="rect" id="node6" href="$d__path_8c.html#a92354b5a6932e68c90156a3d371b4381" title="prepend" alt="" coords="829,5,897,32"/>
+<area shape="rect" id="node7" href="$d__path_8c.html#a19bc818c4e32e5bb079bdae1e61a6829" title="prepend_name" alt="" coords="809,56,916,83"/>
+</map>

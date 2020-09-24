@@ -1,0 +1,16 @@
+<map id="xtLog" name="xtLog">
+<area shape="rect" id="node2" href="$jfs__incore_8h.html#a894f4cd89a0ccf9b7fa1f816c1737f52" title="JFS_IP" alt="" coords="589,22,655,48"/>
+<area shape="rect" id="node3" href="$jfs__types_8h.html#a0c934f6c214b7d70455bfda95ca9cd9e" title="PXDaddress" alt="" coords="108,47,204,74"/>
+<area shape="rect" id="node4" href="$jfs__types_8h.html#ac37ee58483db98e8e9f0a91aacdf5d12" title="PXDlength" alt="" coords="113,98,199,124"/>
+<area shape="rect" id="node5" href="$jfs__logmgr_8c.html#adabffa3c4f3973662f5e45ba064e2b35" title="lmLog" alt="" coords="127,148,185,175"/>
+<area shape="rect" id="node6" href="$jfs__logmgr_8c.html#a2afb61d9f81d89b65b2c6697ce02d9b1" title="lmWriteRecord" alt="" coords="390,98,499,124"/>
+<area shape="rect" id="node13" href="$jfs__logmgr_8c.html#ac52b54c783c01929cd74a5e79bae6be8" title="lmLogSync" alt="" coords="252,148,339,175"/>
+<area shape="rect" id="node7" href="$jfs__logmgr_8c.html#a49d037fedacdf83a6f366a06198d6833" title="lmNextPage" alt="" coords="575,98,669,124"/>
+<area shape="rect" id="node8" href="$jfs__logmgr_8c.html#a99de98e3fb1cb3322e940c23ae35160f" title="lbmWrite" alt="" coords="880,123,955,150"/>
+<area shape="rect" id="node11" href="$jfs__logmgr_8c.html#a8822ed34b5c80b75d631705534362e1a" title="lmGCwrite" alt="" coords="745,174,829,200"/>
+<area shape="rect" id="node12" href="$jfs__logmgr_8c.html#a8aa48732e04e8e2f5df9111c1a6aff4b" title="lbmAllocate" alt="" coords="741,123,832,150"/>
+<area shape="rect" id="node9" href="$jfs__logmgr_8c.html#adf900121f994cc05bc1d68e23da6ed8f" title="lbmRedrive" alt="" coords="1003,98,1091,124"/>
+<area shape="rect" id="node10" href="$jfs__logmgr_8c.html#af3a9c26446e325c7db4171d4e8f55c2b" title="lbmStartIO" alt="" coords="1004,148,1089,175"/>
+<area shape="rect" id="node14" href="$jfs__logmgr_8c.html#a848e40cb73138e10c3bc0d7447f9d733" title="write_special_inodes" alt="" coords="551,148,693,175"/>
+<area shape="rect" id="node15" href="$jfs__logmgr_8c.html#ac4f06ef1d6899abe950ef50b56d96fc8" title="jfs_flush_journal" alt="" coords="387,199,503,226"/>
+</map>
