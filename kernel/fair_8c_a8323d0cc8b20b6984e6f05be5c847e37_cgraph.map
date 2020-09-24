@@ -1,0 +1,12 @@
+<map id="update_stats_enqueue" name="update_stats_enqueue">
+<area shape="rect" id="node2" href="$fair_8c.html#a734e0cb8a22919acb0c872697bfd472d" title="update_stats_wait_start" alt="" coords="207,161,368,188"/>
+<area shape="rect" id="node8" href="$fair_8c.html#a45c77bc3e43bcf2c824921c6ccf9087f" title="update_stats_enqueue\l_sleeper" alt="" coords="211,95,364,137"/>
+<area shape="rect" id="node3" href="$sched_8h.html#ad3626499c2477c1305ef65fbf49caa50" title="rq_clock" alt="" coords="454,183,525,209"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="464,132,515,159"/>
+<area shape="rect" id="node6" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="416,233,563,260"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="457,81,522,108"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="622,183,771,209"/>
+<area shape="rect" id="node9" href="$profile_8c.html#a90e1aafe3434d7a96fea8dde23437a57" title="profile_hits" alt="" coords="447,31,532,57"/>
+<area shape="rect" id="node10" href="$profile_8c.html#a08555a496ec7affb4212c044cf8fd1f8" title="do_profile_hits" alt="" coords="643,56,750,83"/>
+<area shape="rect" id="node11" href="$profile_8c.html#a5e327c00a60e9028892f7d80b0a6578c" title="EXPORT_SYMBOL_GPL" alt="" coords="611,5,783,32"/>
+</map>

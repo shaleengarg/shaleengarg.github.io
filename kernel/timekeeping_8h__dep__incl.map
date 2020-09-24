@@ -1,0 +1,19 @@
+<map id="time/timekeeping.h" name="time/timekeeping.h">
+<area shape="rect" id="node2" href="$tick-internal_8h.html" title="time/tick&#45;internal.h" alt="" coords="835,80,964,107"/>
+<area shape="rect" id="node16" href="$jiffies_8c.html" title="time/jiffies.c" alt="" coords="989,80,1082,107"/>
+<area shape="rect" id="node17" href="$posix-timers_8c.html" title="time/posix&#45;timers.c" alt="" coords="1106,80,1239,107"/>
+<area shape="rect" id="node18" href="$time_8c.html" title="time/time.c" alt="" coords="1264,80,1351,107"/>
+<area shape="rect" id="node3" href="$tree__plugin_8h.html" title="rcu/tree_plugin.h" alt="" coords="5,162,124,189"/>
+<area shape="rect" id="node5" href="$clockevents_8c.html" title="time/clockevents.c" alt="" coords="148,162,280,189"/>
+<area shape="rect" id="node6" href="$clocksource_8c.html" title="time/clocksource.c" alt="" coords="304,162,436,189"/>
+<area shape="rect" id="node7" href="$hrtimer_8c.html" title="time/hrtimer.c" alt="" coords="460,162,563,189"/>
+<area shape="rect" id="node8" href="$tick-broadcast-hrtimer_8c.html" title="time/tick&#45;broadcast\l&#45;hrtimer.c" alt="" coords="587,155,721,196"/>
+<area shape="rect" id="node9" href="$tick-broadcast_8c.html" title="time/tick&#45;broadcast.c" alt="" coords="745,162,889,189"/>
+<area shape="rect" id="node10" href="$tick-common_8c.html" title="time/tick&#45;common.c" alt="" coords="913,162,1051,189"/>
+<area shape="rect" id="node11" href="$tick-oneshot_8c.html" title="time/tick&#45;oneshot.c" alt="" coords="1075,162,1209,189"/>
+<area shape="rect" id="node12" href="$tick-sched_8c.html" title="time/tick&#45;sched.c" alt="" coords="1233,162,1355,189"/>
+<area shape="rect" id="node13" href="$timekeeping_8c.html" title="time/timekeeping.c" alt="" coords="1380,162,1512,189"/>
+<area shape="rect" id="node14" href="$timer_8c.html" title="time/timer.c" alt="" coords="1537,162,1627,189"/>
+<area shape="rect" id="node15" href="$timer__list_8c.html" title="time/timer_list.c" alt="" coords="1651,162,1766,189"/>
+<area shape="rect" id="node4" href="$tree_8c.html" title="rcu/tree.c" alt="" coords="26,244,103,271"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="kprobe_lookup_name" name="kprobe_lookup_name">
+<area shape="rect" id="node2" href="$kallsyms_8c.html#a1082777e004c5726575d0451b7d92fd6" title="kallsyms_lookup_name" alt="" coords="199,56,357,83"/>
+<area shape="rect" id="node3" href="$kallsyms_8c.html#af4a2f59e76f1304525543e014949e9f5" title="kallsyms_expand_symbol" alt="" coords="405,5,577,32"/>
+<area shape="rect" id="node4" href="$kallsyms_8c.html#acaa3448bbd3f1b781989f7ad5a93b14c" title="kallsyms_sym_address" alt="" coords="412,56,571,83"/>
+<area shape="rect" id="node5" href="$kallsyms_8c.html#a300ff32a9bf31980a3ff43e41b17f014" title="EXPORT_SYMBOL_GPL" alt="" coords="405,107,577,133"/>
+</map>

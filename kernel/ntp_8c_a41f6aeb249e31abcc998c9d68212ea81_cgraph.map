@@ -1,0 +1,9 @@
+<map id="process_adjtimex_modes" name="process_adjtimex_modes">
+<area shape="rect" id="node2" href="$ntp_8c.html#ad1a2054d420548d236df71a278be7ed8" title="process_adj_status" alt="" coords="232,5,367,32"/>
+<area shape="rect" id="node5" href="$ntp_8c.html#a17a1fd8b3ee882e79f8b05f661ef2073" title="pps_set_freq" alt="" coords="251,56,348,83"/>
+<area shape="rect" id="node6" href="$ntp_8c.html#a8bfd5b24b9fa3427503077e96c48deef" title="ntp_update_offset" alt="" coords="236,107,363,133"/>
+<area shape="rect" id="node8" href="$ntp_8c.html#a280c5d7090fc2243316f39e6f3b4a3c7" title="ntp_update_frequency" alt="" coords="224,157,375,184"/>
+<area shape="rect" id="node3" href="$ntp_8c.html#a57ad19c592fba5ca6b400413a66117d2" title="pps_reset_freq_interval" alt="" coords="433,5,590,32"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html#ae6d61e77605b72e3edc94efd8a93f96e" title="__ktime_get_real_seconds" alt="" coords="423,56,600,83"/>
+<area shape="rect" id="node7" href="$ntp_8c.html#a4f2cc0d1e1288f932b779e1c73f96b02" title="ntp_update_offset_fll" alt="" coords="440,107,583,133"/>
+</map>

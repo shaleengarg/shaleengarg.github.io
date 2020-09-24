@@ -1,0 +1,6 @@
+<map id="__trace_early_add_event_dirs" name="__trace_early_add_event_dirs">
+<area shape="rect" id="node2" href="$trace__events_8c.html#a638cde41c75299a1ba42f09f20664736" title="early_event_add_tracer" alt="" coords="248,5,405,32"/>
+<area shape="rect" id="node3" href="$trace__events_8c.html#ab9e13f2ad3fe87a4c8ec42e38e05897e" title="event_trace_init" alt="" coords="453,5,568,32"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="616,5,731,32"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="779,5,853,32"/>
+</map>

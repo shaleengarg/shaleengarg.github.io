@@ -1,0 +1,4 @@
+<map id="ignore_task_cpu" name="ignore_task_cpu">
+<area shape="rect" id="node2" href="$trace_8c.html#a05989b18de2274021c8ccd0fd0c1d1b5" title="trace_ignore_this_task" alt="" coords="171,5,324,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a8dfb25f9bad81ce67e2af91c462aa434" title="trace_find_filtered_pid" alt="" coords="372,5,521,32"/>
+</map>

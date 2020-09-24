@@ -1,0 +1,7 @@
+<map id="release_resource" name="release_resource">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#a77954130bbdafdccf8ab729cab65a63e" title="crash_shrink_memory" alt="" coords="179,5,330,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a1deaf24c5661c582f7a822836fcc4ab6" title="devm_resource_release" alt="" coords="175,56,335,83"/>
+<area shape="rect" id="node3" href="$ksysfs_8c.html#ace4827a381822502ab59d8ed744f9dc5" title="uevent_seqnum_show" alt="" coords="387,5,539,32"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a7e89531d4c437754db7178dc0c197a73" title="devm_request_resource" alt="" coords="383,56,544,83"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a28aa0a26b30dd46fff219946278d8d7b" title="devm_release_resource" alt="" coords="383,107,543,133"/>
+</map>

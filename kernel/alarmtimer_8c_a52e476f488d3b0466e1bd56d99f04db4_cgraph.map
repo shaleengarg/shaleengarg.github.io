@@ -1,0 +1,6 @@
+<map id="alarm_expires_remaining" name="alarm_expires_remaining">
+<area shape="rect" id="node2" href="$alarmtimer_8c.html#aa7d33a2f7910b4fbfc2aa9080c8f05e7" title="EXPORT_SYMBOL_GPL" alt="" coords="220,5,392,32"/>
+<area shape="rect" id="node3" href="$alarmtimer_8c.html#aefce7906f23c39f083ec4f84606122a7" title="alarmtimer_suspend" alt="" coords="237,56,375,83"/>
+<area shape="rect" id="node4" href="$alarmtimer_8c.html#a08f280db2dccb8cf344c2e3a601778a1" title="alarmtimer_get_rtcdev" alt="" coords="231,107,381,133"/>
+<area shape="rect" id="node5" href="$alarmtimer_8c.html#a6c32b576901a3d53a1ea695297d0e3a1" title="alarmtimer_resume" alt="" coords="239,157,373,184"/>
+</map>

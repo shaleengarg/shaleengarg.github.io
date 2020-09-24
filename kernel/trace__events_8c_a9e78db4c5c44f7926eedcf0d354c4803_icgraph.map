@@ -1,0 +1,11 @@
+<map id="__ftrace_set_clr_event" name="__ftrace_set_clr_event">
+<area shape="rect" id="node2" href="$trace__events_8c.html#aaa7d74e0345b93ce92c994e9aedea6a7" title="ftrace_set_clr_event" alt="" coords="211,64,351,91"/>
+<area shape="rect" id="node6" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="773,64,888,91"/>
+<area shape="rect" id="node9" href="$trace__events_8c.html#a958ecbe44bdc2eb1f47222c356bd851f" title="trace_set_clr_event" alt="" coords="213,173,349,200"/>
+<area shape="rect" id="node10" href="$trace__events_8c.html#ab91dab16f8a186e943c41c571fed9223" title="system_enable_write" alt="" coords="208,224,353,251"/>
+<area shape="rect" id="node3" href="$trace__events_8c.html#a95b5237adc98d57a58fc0f9dfd1c6bc7" title="ftrace_event_write" alt="" coords="407,13,537,40"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#a57729271d30c470addd967b0058362a2" title="early_enable_events" alt="" coords="401,64,543,91"/>
+<area shape="rect" id="node5" href="$trace__events_8c.html#a4d92e78966e2744c541e13c7fd7e4193" title="event_trace_enable" alt="" coords="591,5,725,32"/>
+<area shape="rect" id="node8" href="$trace__events_8c.html#a61ca857d188154de39aef74c5c7444fa" title="event_trace_enable\l_again" alt="" coords="591,57,725,98"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="936,64,1011,91"/>
+</map>

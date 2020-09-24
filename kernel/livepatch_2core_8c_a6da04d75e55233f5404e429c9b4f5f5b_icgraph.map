@@ -1,0 +1,6 @@
+<map id="klp_is_patch_registered" name="klp_is_patch_registered">
+<area shape="rect" id="node2" href="$livepatch_2core_8c.html#a2d6c762fd7f186cf5539447a6e2f9224" title="klp_disable_patch" alt="" coords="220,5,347,32"/>
+<area shape="rect" id="node3" href="$livepatch_2core_8c.html#a6e4dd37156b76670c171c2997c39589e" title="klp_enable_patch" alt="" coords="222,56,345,83"/>
+<area shape="rect" id="node4" href="$livepatch_2core_8c.html#ab708918d65fd21b2d7c8274f91b64c74" title="enabled_store" alt="" coords="232,107,335,133"/>
+<area shape="rect" id="node5" href="$livepatch_2core_8c.html#a31229f317355d5b7e72b0e180eff4f0b" title="klp_unregister_patch" alt="" coords="212,157,355,184"/>
+</map>

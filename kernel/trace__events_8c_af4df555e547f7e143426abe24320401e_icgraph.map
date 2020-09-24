@@ -1,0 +1,6 @@
+<map id="ftrace_event_open" name="ftrace_event_open">
+<area shape="rect" id="node2" href="$trace__events_8c.html#a5642e43c68368f2814495161229c12d3" title="ftrace_event_avail_open" alt="" coords="191,5,353,32"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#a897d78de5c8cfe333911223a2dc3d280" title="ftrace_event_set_open" alt="" coords="195,56,349,83"/>
+<area shape="rect" id="node5" href="$trace__events_8c.html#addf122a22f890b3c0dd8435ae1a87c74" title="ftrace_event_set_pid_open" alt="" coords="183,107,361,133"/>
+<area shape="rect" id="node3" href="$trace__events_8c.html#a28db7b9181098514cdbb3677657e83cc" title="ftrace_event_pid_write" alt="" coords="409,56,563,83"/>
+</map>

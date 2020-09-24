@@ -1,0 +1,9 @@
+<map id="fetch_bp_busy_slots" name="fetch_bp_busy_slots">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a4f3b953db42ae2157e9d9eb835429b7c" title="cpumask_of_bp" alt="" coords="211,5,326,32"/>
+<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#a11b1ff32a6e3ebf2821e690384beb04b" title="get_bp_info" alt="" coords="420,69,509,96"/>
+<area shape="rect" id="node5" href="$hw__breakpoint_8c.html#ad8bee075a6cc071dda4e6f640d49b663" title="max_task_bp_pinned" alt="" coords="196,107,341,133"/>
+<area shape="rect" id="node6" href="$hw__breakpoint_8c.html#a26cbe2b06b8203d8453163a25e56e3ae" title="task_bp_pinned" alt="" coords="212,157,325,184"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#a61dd0f0cf69f770bafa2ff2dd30d6ce5" title="LIST_HEAD" alt="" coords="588,69,683,96"/>
+<area shape="rect" id="node7" href="$hw__breakpoint_8c.html#aac77e2406e1a7e54b2d328a75ded8c41" title="find_slot_idx" alt="" coords="417,132,512,159"/>
+<area shape="rect" id="node8" href="$hw__breakpoint_8c.html#a3fbc23ab84492d7ea37aa966c28ddc4f" title="hw_breakpoint_weight" alt="" coords="389,183,540,209"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="perf_trace_event_open" name="perf_trace_event_open">
+<area shape="rect" id="node2" href="$trace__event__perf_8c.html#a8f7e0e3045a6e3358970f401af91ce7d" title="perf_trace_event_init" alt="" coords="208,31,351,57"/>
+<area shape="rect" id="node3" href="$trace__event__perf_8c.html#a5f99c0da79fb2da1a5523d836f606739" title="perf_trace_init" alt="" coords="412,5,516,32"/>
+<area shape="rect" id="node4" href="$trace__event__perf_8c.html#a5dcb9756bcd00128c2535432b150cdea" title="perf_trace_destroy" alt="" coords="399,56,529,83"/>
+</map>

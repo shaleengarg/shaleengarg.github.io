@@ -1,0 +1,5 @@
+<map id="htab_elem_free_rcu" name="htab_elem_free_rcu">
+<area shape="rect" id="node2" href="$hashtab_8c.html#a615e8cc5004a61c264b9e72d6185b137" title="htab_elem_free" alt="" coords="189,31,300,57"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#a6ced7e4e83b6e4969c5bd334860f0b91" title="htab_elem_get_ptr" alt="" coords="348,5,477,32"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="387,56,438,83"/>
+</map>

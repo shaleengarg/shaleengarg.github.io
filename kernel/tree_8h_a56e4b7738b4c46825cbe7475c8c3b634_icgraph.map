@@ -1,0 +1,14 @@
+<map id="rcu_nocb_adopt_orphan_cbs" name="rcu_nocb_adopt_orphan_cbs">
+<area shape="rect" id="node2" href="$tree_8c.html#a19e78c3c7fc84f052bb4e145902048f8" title="rcu_cpu_starting" alt="" coords="241,130,360,157"/>
+<area shape="rect" id="node3" href="$cpu_8c.html#aff470ba1693fa467d629dfee6debfbdb" title="cpuhp_invoke_callback" alt="" coords="408,105,565,131"/>
+<area shape="rect" id="node13" href="$tree_8c.html#aa0e5bf97f28c8ca03e7ce0cc57d6f5f5" title="rcu_init" alt="" coords="455,155,519,182"/>
+<area shape="rect" id="node4" href="$cpu_8c.html#aec30be1efa17679b56bb0b0f688d7a00" title="cpuhp_issue_call" alt="" coords="613,105,736,131"/>
+<area shape="rect" id="node5" href="$cpu_8c.html#a863f7f1d6e44c52462c61c2ae7257655" title="cpuhp_rollback_install" alt="" coords="787,54,938,81"/>
+<area shape="rect" id="node6" href="$cpu_8c.html#ac728bc8938b0ab27dc7706f0766cfa01" title="__cpuhp_state_add_instance\l_cpuslocked" alt="" coords="989,5,1180,47"/>
+<area shape="rect" id="node8" href="$cpu_8c.html#a47cdf75177b8832373757e441f0c060d" title="__cpuhp_setup_state\l_cpuslocked" alt="" coords="1011,88,1158,129"/>
+<area shape="rect" id="node10" href="$cpu_8c.html#ad46e9fe989763abd9f2213d3e3b836c4" title="__cpuhp_state_remove\l_instance" alt="" coords="784,156,941,197"/>
+<area shape="rect" id="node11" href="$cpu_8c.html#adf79c64e1f2c85c91ac95af9907304ad" title="__cpuhp_remove_state\l_cpuslocked" alt="" coords="784,221,941,263"/>
+<area shape="rect" id="node7" href="$cpu_8c.html#a38a7212d8a166644ff55e7908dd9e4dc" title="__cpuhp_state_add_instance" alt="" coords="1228,13,1419,39"/>
+<area shape="rect" id="node9" href="$cpu_8c.html#a0128e42d2993bf45b0b8f0876d1c9913" title="__cpuhp_setup_state" alt="" coords="1250,95,1397,122"/>
+<area shape="rect" id="node12" href="$cpu_8c.html#a6f379713b196b462de5d44254eca2828" title="__cpuhp_remove_state" alt="" coords="1006,229,1163,255"/>
+</map>

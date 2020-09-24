@@ -1,0 +1,4 @@
+<map id="rt_mutex_next_owner" name="rt_mutex_next_owner">
+<area shape="rect" id="node2" href="$rtmutex__common_8h.html#a92d7fcacb1adf1ae2212694b3a343c8d" title="rt_mutex_has_waiters" alt="" coords="200,5,351,32"/>
+<area shape="rect" id="node3" href="$rtmutex__common_8h.html#a0852376d97011c7f7ff58fcfa2a9cb8b" title="rt_mutex_top_waiter" alt="" coords="205,56,345,83"/>
+</map>

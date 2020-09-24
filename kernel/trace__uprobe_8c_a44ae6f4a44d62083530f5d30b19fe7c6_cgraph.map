@@ -1,0 +1,6 @@
+<map id="init_uprobe_trace" name="init_uprobe_trace">
+<area shape="rect" id="node2" href="$trace_8c.html#a30de1339e62cfe0e3a95f274d42b0b97" title="tracing_init_dentry" alt="" coords="175,5,303,32"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a4fd54a9a5f973fbdaa2015576d35959f" title="trace_create_file" alt="" coords="179,56,298,83"/>
+<area shape="rect" id="node5" href="$trace__uprobe_8c.html#a1580763211127914a55c609c75371a1c" title="fs_initcall" alt="" coords="200,107,277,133"/>
+<area shape="rect" id="node3" href="$trace_8c.html#ac64b6cba4c5ae6acb3a4c79d441a7eb5" title="trace_automount" alt="" coords="351,5,469,32"/>
+</map>

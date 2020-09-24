@@ -1,0 +1,11 @@
+<map id="irq_set_handler_data" name="irq_set_handler_data">
+<area shape="rect" id="node2" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="394,31,555,57"/>
+<area shape="rect" id="node7" href="$irqdomain_8c.html#ac1822ac99d95b50aa90fff9a49fd39ee" title="irq_domain_set_info" alt="" coords="201,81,340,108"/>
+<area shape="rect" id="node10" href="$msi_8c.html#a59aeac9c865c81eca9afdc137174225c" title="get_cached_msi_msg" alt="" coords="196,132,345,159"/>
+<area shape="rect" id="node3" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="618,5,725,32"/>
+<area shape="rect" id="node4" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="604,56,739,83"/>
+<area shape="rect" id="node5" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="787,56,971,83"/>
+<area shape="rect" id="node6" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="1019,56,1172,83"/>
+<area shape="rect" id="node8" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="401,81,549,108"/>
+<area shape="rect" id="node9" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="393,132,556,159"/>
+</map>

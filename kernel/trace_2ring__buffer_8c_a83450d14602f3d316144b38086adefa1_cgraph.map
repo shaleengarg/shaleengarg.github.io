@@ -1,0 +1,11 @@
+<map id="rb_get_reader_page" name="rb_get_reader_page">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a7b47d17e4646a3aff348f038ff4eebac" title="rb_page_size" alt="" coords="216,5,315,32"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a8742e72ea2a90da3515bfe630a14fec8" title="rb_num_of_entries" alt="" coords="201,56,330,83"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#add0fa6256b2d6a7c98d14206bf66af53" title="rb_set_head_page" alt="" coords="201,107,329,133"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a0599940abf9a2f9e877334a72d9c37d7" title="rb_list_head" alt="" coords="557,157,649,184"/>
+<area shape="rect" id="node8" href="$trace_2ring__buffer_8c.html#adc4d2ae5f605ca4a9a5c8ea80c6b9a93" title="rb_inc_page" alt="" coords="403,157,495,184"/>
+<area shape="rect" id="node9" href="$trace_2ring__buffer_8c.html#acd80c1e2df12a1d7ec5f2a4bc0faec7b" title="rb_set_list_to_head" alt="" coords="198,259,333,285"/>
+<area shape="rect" id="node10" href="$trace_2ring__buffer_8c.html#a1bd07bee82f21ba23e22c4910b03ae51" title="rb_head_page_replace" alt="" coords="189,309,341,336"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a70c93092840a2dd3e110fe2ab5ce0c43" title="rb_page_commit" alt="" coords="390,5,509,32"/>
+<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#af87ae7dab4996bd7dd214a1239345a87" title="rb_is_head_page" alt="" coords="389,107,509,133"/>
+</map>

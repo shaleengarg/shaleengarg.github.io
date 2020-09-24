@@ -1,0 +1,36 @@
+<map id="__trace_remove_event_dirs" name="__trace_remove_event_dirs">
+<area shape="rect" id="node2" href="$trace__events_8c.html#abe5a27406c35c288f8287dc5859115e0" title="event_trace_del_tracer" alt="" coords="236,233,391,260"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a0d5784f307722b27ec3af8524ecdc005" title="instance_rmdir" alt="" coords="443,208,550,235"/>
+<area shape="rect" id="node7" href="$trace_8h.html#a9920fda3e215fd2cdc0ec0f415036cfe" title="is_function_field" alt="" coords="439,259,555,285"/>
+<area shape="rect" id="node4" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="603,107,760,133"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="808,5,935,32"/>
+<area shape="rect" id="node6" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="983,5,1105,32"/>
+<area shape="rect" id="node8" href="$trace__events__hist_8c.html#a7868038bfabf2a9b776ed4fb3b3aaa8b" title="create_hist_field" alt="" coords="623,259,740,285"/>
+<area shape="rect" id="node9" href="$trace__events__hist_8c.html#a12bef9f88cc4d4ec33140913db1f971f" title="create_var_ref" alt="" coords="819,157,924,184"/>
+<area shape="rect" id="node11" href="$trace__events__hist_8c.html#aaa0060cbc77492dca81f838ff82b75a4" title="parse_atom" alt="" coords="1175,233,1266,260"/>
+<area shape="rect" id="node12" href="$trace__events__hist_8c.html#a6dcee95fb827c49a4a461df9266bc201" title="parse_expr" alt="" coords="1350,360,1437,387"/>
+<area shape="rect" id="node13" href="$trace__events__hist_8c.html#a2e51ce005c42447652c610e68d936fee" title="parse_unary" alt="" coords="1529,411,1623,437"/>
+<area shape="rect" id="node29" href="$trace__events__hist_8c.html#a31dc780546e7e19858a70d333499a872" title="create_key_field" alt="" coords="1517,309,1635,336"/>
+<area shape="rect" id="node33" href="$trace__events__hist_8c.html#a4730759295bdc8722381e40755b73f6a" title="onmax_create" alt="" coords="1707,56,1811,83"/>
+<area shape="rect" id="node34" href="$trace__events__hist_8c.html#a2eebfc26adf8c42d2f5fc1638a13da7f" title="create_alias" alt="" coords="998,208,1090,235"/>
+<area shape="rect" id="node35" href="$trace__events__hist_8c.html#a4ed56cdaeeea83289ece97e8715e7259" title="create_hitcount_val" alt="" coords="1153,461,1288,488"/>
+<area shape="rect" id="node10" href="$trace__events__hist_8c.html#a09b59980cd99991e6b0f193da5867cc5" title="parse_var_ref" alt="" coords="993,157,1095,184"/>
+<area shape="rect" id="node22" href="$trace__events__hist_8c.html#ac040dfab5ef343c740c41724917b2ae0" title="onmatch_create" alt="" coords="2995,132,3109,159"/>
+<area shape="rect" id="node31" href="$trace__events__hist_8c.html#a5717bae378d354aff8a2f8f4a6a4e616" title="create_field_var" alt="" coords="1336,195,1451,221"/>
+<area shape="rect" id="node14" href="$trace__events__hist_8c.html#aed10138995a6eabeac064428d5de7016" title="__create_val_field" alt="" coords="1513,360,1639,387"/>
+<area shape="rect" id="node15" href="$trace__events__hist_8c.html#abeeac444050deafefa4bcf5fcffee481" title="create_val_field" alt="" coords="1702,411,1815,437"/>
+<area shape="rect" id="node27" href="$trace__events__hist_8c.html#adc37e38f916b4eb9a02843fe8b62f871" title="create_var_field" alt="" coords="1701,360,1816,387"/>
+<area shape="rect" id="node16" href="$trace__events__hist_8c.html#a0a92f37539af897fc0c0d4e4727915cd" title="create_val_fields" alt="" coords="1866,411,1986,437"/>
+<area shape="rect" id="node17" href="$trace__events__hist_8c.html#a77e4eaf10f40804bb091e026e7971845" title="create_hist_fields" alt="" coords="2036,335,2160,361"/>
+<area shape="rect" id="node18" href="$trace__events__hist_8c.html#a6796e90fbbe0d42ef5d0ea3591b91275" title="create_hist_data" alt="" coords="2208,309,2327,336"/>
+<area shape="rect" id="node19" href="$trace__events__hist_8c.html#ac60415a642ea12b1d9bfc3e0b79b3752" title="event_hist_trigger_func" alt="" coords="2375,288,2532,315"/>
+<area shape="rect" id="node20" href="$trace__events__hist_8c.html#a8efce09167d580057a7c1b7ff0f35a63" title="create_field_var_hist" alt="" coords="2580,208,2723,235"/>
+<area shape="rect" id="node24" href="$trace__events__hist_8c.html#a828ec233d48bc47a2f7256c62ed801cc" title="unregister_field_var\l_hists" alt="" coords="2584,310,2719,351"/>
+<area shape="rect" id="node21" href="$trace__events__hist_8c.html#a8e050d597091ec9bd25bf1bad64f7df7" title="onmatch_create_field_var" alt="" coords="2771,157,2941,184"/>
+<area shape="rect" id="node23" href="$trace__events__hist_8c.html#aff5d68c584931885064b13ce22c68a53" title="create_actions" alt="" coords="3163,132,3269,159"/>
+<area shape="rect" id="node25" href="$trace__events__hist_8c.html#a4d4c9a77202a88cdef573c4a4793b3c9" title="event_hist_trigger_free" alt="" coords="2779,317,2933,344"/>
+<area shape="rect" id="node26" href="$trace__events__hist_8c.html#ab28d29014086ade13a7161afacfaca6b" title="event_hist_trigger\l_named_free" alt="" coords="2989,310,3115,351"/>
+<area shape="rect" id="node28" href="$trace__events__hist_8c.html#a1d02fa60570706fa7adf3ed0812a854f" title="create_var_fields" alt="" coords="1865,360,1987,387"/>
+<area shape="rect" id="node30" href="$trace__events__hist_8c.html#a7798b749b1d8a17604004a93312acf00" title="create_key_fields" alt="" coords="1864,309,1988,336"/>
+<area shape="rect" id="node32" href="$trace__events__hist_8c.html#a7c878fe4c22027d38431cf1b02f80a2f" title="create_target_field_var" alt="" coords="1499,157,1653,184"/>
+</map>

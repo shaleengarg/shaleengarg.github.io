@@ -1,0 +1,5 @@
+<map id="unregister_die_notifier" name="unregister_die_notifier">
+<area shape="rect" id="node2" href="$notifier_8c.html#a7166b4dffef1950365fa506d0d03deee" title="atomic_notifier_chain\l_unregister" alt="" coords="203,5,348,47"/>
+<area shape="rect" id="node4" href="$notifier_8c.html#a12fd5e1886d75a2b63004f78db868ce4" title="EXPORT_SYMBOL_GPL" alt="" coords="396,67,568,94"/>
+<area shape="rect" id="node3" href="$notifier_8c.html#a44a5f67132a9d01c6e4e210c335c3393" title="notifier_chain_unregister" alt="" coords="401,13,563,39"/>
+</map>

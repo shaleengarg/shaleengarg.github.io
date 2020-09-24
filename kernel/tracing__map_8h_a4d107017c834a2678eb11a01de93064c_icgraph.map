@@ -1,0 +1,12 @@
+<map id="tracing_map_cmp_num" name="tracing_map_cmp_num">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#aac45e920038401995672696405062e4b" title="create_tracing_map\l_fields" alt="" coords="211,57,347,98"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a6796e90fbbe0d42ef5d0ea3591b91275" title="create_hist_data" alt="" coords="395,64,513,91"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#ac60415a642ea12b1d9bfc3e0b79b3752" title="event_hist_trigger_func" alt="" coords="561,64,719,91"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a8efce09167d580057a7c1b7ff0f35a63" title="create_field_var_hist" alt="" coords="767,5,909,32"/>
+<area shape="rect" id="node9" href="$trace__events__hist_8c.html#a828ec233d48bc47a2f7256c62ed801cc" title="unregister_field_var\l_hists" alt="" coords="771,57,905,98"/>
+<area shape="rect" id="node6" href="$trace__events__hist_8c.html#a8e050d597091ec9bd25bf1bad64f7df7" title="onmatch_create_field_var" alt="" coords="957,5,1128,32"/>
+<area shape="rect" id="node7" href="$trace__events__hist_8c.html#ac040dfab5ef343c740c41724917b2ae0" title="onmatch_create" alt="" coords="1181,5,1296,32"/>
+<area shape="rect" id="node8" href="$trace__events__hist_8c.html#aff5d68c584931885064b13ce22c68a53" title="create_actions" alt="" coords="1349,64,1456,91"/>
+<area shape="rect" id="node10" href="$trace__events__hist_8c.html#a4d4c9a77202a88cdef573c4a4793b3c9" title="event_hist_trigger_free" alt="" coords="965,64,1120,91"/>
+<area shape="rect" id="node11" href="$trace__events__hist_8c.html#ab28d29014086ade13a7161afacfaca6b" title="event_hist_trigger\l_named_free" alt="" coords="1176,57,1301,98"/>
+</map>

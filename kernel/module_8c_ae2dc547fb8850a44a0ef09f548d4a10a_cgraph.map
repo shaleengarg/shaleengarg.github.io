@@ -1,0 +1,9 @@
+<map id="copy_module_from_user" name="copy_module_from_user">
+<area shape="rect" id="node2" href="$module_8c.html#ad4db4f869014fdfba8656c9758d2fd02" title="copy_chunked_from_user" alt="" coords="217,56,388,83"/>
+<area shape="rect" id="node3" href="$module_8c.html#abb1ffebd545175a167291230aff761b4" title="check_modinfo_livepatch" alt="" coords="436,5,605,32"/>
+<area shape="rect" id="node4" href="$module_8c.html#ad69da34ffef8a15f38b9a924d5a82d49" title="get_modinfo" alt="" coords="653,31,747,57"/>
+<area shape="rect" id="node6" href="$module_8c.html#a9d71dddd6c258e5d4e2be241d8bc4a85" title="add_taint_module" alt="" coords="459,107,583,133"/>
+<area shape="rect" id="node5" href="$module_8c.html#a548d636b22c5c1333d23590b25ea7edd" title="next_string" alt="" coords="821,31,907,57"/>
+<area shape="rect" id="node7" href="$panic_8c.html#a3f1f0ccb9e83756bad52533bf8936c98" title="add_taint" alt="" coords="663,107,737,133"/>
+<area shape="rect" id="node8" href="$panic_8c.html#af5386e2342cddf38e1b450427d268601" title="EXPORT_SYMBOL" alt="" coords="795,107,933,133"/>
+</map>

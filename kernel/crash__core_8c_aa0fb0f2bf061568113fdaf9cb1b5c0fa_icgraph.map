@@ -1,0 +1,7 @@
+<map id="crash_update_vmcoreinfo_safecopy" name="crash_update_vmcoreinfo_safecopy">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#a6f079dda8ed2154d872b811eae322d34" title="kimage_crash_copy_vmcoreinfo" alt="" coords="224,5,433,32"/>
+<area shape="rect" id="node6" href="$kexec__internal_8h.html#a6c01d80fb0b3aca0d201542a5a9db308" title="kimage_free" alt="" coords="282,56,375,83"/>
+<area shape="rect" id="node3" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="500,5,609,32"/>
+<area shape="rect" id="node5" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="481,56,628,83"/>
+<area shape="rect" id="node4" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="676,5,823,32"/>
+</map>

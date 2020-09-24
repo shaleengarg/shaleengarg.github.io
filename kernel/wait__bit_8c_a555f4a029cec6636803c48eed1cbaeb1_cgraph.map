@@ -1,0 +1,9 @@
+<map id="wake_up_var" name="wake_up_var">
+<area shape="rect" id="node2" href="$wait__bit_8c.html#ac133c05ccf87a80c547fbcff39cc39b3" title="__wake_up_bit" alt="" coords="157,31,267,57"/>
+<area shape="rect" id="node7" href="$wait__bit_8c.html#a2e475fc5bdf1a96f6b442e6a83d58493" title="EXPORT_SYMBOL" alt="" coords="320,81,459,108"/>
+<area shape="rect" id="node8" href="$wait__bit_8c.html#af2e7fcd9e8ad249ad347f7d004614a6a" title="__var_waitqueue" alt="" coords="152,132,272,159"/>
+<area shape="rect" id="node3" href="$wait_8c.html#a493de08f33a897bcaf3903e8c598a9a1" title="__wake_up" alt="" coords="345,31,433,57"/>
+<area shape="rect" id="node4" href="$wait_8c.html#addfc41f62f5234f23b3f88f2dc911c4f" title="__wake_up_common_lock" alt="" coords="507,5,683,32"/>
+<area shape="rect" id="node6" href="$wait_8c.html#abbc7aad2df524f453d116100cff65114" title="EXPORT_SYMBOL" alt="" coords="525,56,664,83"/>
+<area shape="rect" id="node5" href="$wait_8c.html#a4e77507431b7266b711a1c31069b96a7" title="__wake_up_common" alt="" coords="731,5,876,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bpf_prog_array_copy" name="bpf_prog_array_copy">
+<area shape="rect" id="node2" href="$bpf__trace_8c.html#af3e0f8777812e1b5ef674f68bc36a21b" title="perf_event_attach_bpf_prog" alt="" coords="198,5,381,32"/>
+<area shape="rect" id="node3" href="$bpf__trace_8c.html#ac147c69008898406bd136e4b758a28c6" title="perf_event_detach_bpf_prog" alt="" coords="196,56,383,83"/>
+</map>

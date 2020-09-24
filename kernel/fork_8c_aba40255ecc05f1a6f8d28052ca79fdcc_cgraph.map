@@ -1,0 +1,5 @@
+<map id="fork_init" name="fork_init">
+<area shape="rect" id="node2" href="$fork_8c.html#a47ddc0781a971784b4aca9918c574dd1" title="task_struct_whitelist" alt="" coords="123,5,265,32"/>
+<area shape="rect" id="node3" href="$fork_8c.html#ad48f01fff97e8d4b96708b34752962dc" title="arch_task_cache_init" alt="" coords="121,56,267,83"/>
+<area shape="rect" id="node4" href="$fork_8c.html#a5da644e3825e0030e6f82cdd6019cd60" title="set_max_threads" alt="" coords="133,107,255,133"/>
+</map>

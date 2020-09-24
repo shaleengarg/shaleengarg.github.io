@@ -1,0 +1,8 @@
+<map id="kimage_file_post_load_cleanup" name="kimage_file_post_load_cleanup">
+<area shape="rect" id="node2" href="$kexec__internal_8h.html#a6c01d80fb0b3aca0d201542a5a9db308" title="kimage_free" alt="" coords="227,56,320,83"/>
+<area shape="rect" id="node5" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="585,107,732,133"/>
+<area shape="rect" id="node6" href="$kexec__file_8c.html#a4790667bc21faa973c2f3af720a8533b" title="kimage_file_prepare\l_segments" alt="" coords="204,158,343,199"/>
+<area shape="rect" id="node7" href="$kexec__file_8c.html#ac5abb95d8a56854dcfbe644ace797367" title="kimage_file_alloc_init" alt="" coords="391,165,537,192"/>
+<area shape="rect" id="node3" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="409,5,519,32"/>
+<area shape="rect" id="node4" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="585,5,732,32"/>
+</map>

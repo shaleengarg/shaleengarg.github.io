@@ -1,0 +1,15 @@
+<map id="irq_set_chip_data" name="irq_set_chip_data">
+<area shape="rect" id="node2" href="$generic-chip_8c.html#acf6005b44e179423cf3c659ffce89064" title="irq_setup_generic_chip" alt="" coords="183,5,338,32"/>
+<area shape="rect" id="node4" href="$generic-chip_8c.html#abd0fd31c25d95df4b133a55750e4ab4b" title="irq_remove_generic_chip" alt="" coords="177,56,344,83"/>
+<area shape="rect" id="node5" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="217,107,305,133"/>
+<area shape="rect" id="node7" href="$irqdomain_8c.html#ac1822ac99d95b50aa90fff9a49fd39ee" title="irq_domain_set_info" alt="" coords="191,169,330,196"/>
+<area shape="rect" id="node3" href="$devres_8c.html#a5fc99d8751dd9c3077992b4ac4ae697f" title="__devm_irq_alloc_descs" alt="" coords="392,24,557,51"/>
+<area shape="rect" id="node6" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="411,93,538,120"/>
+<area shape="rect" id="node8" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="401,144,549,171"/>
+<area shape="rect" id="node9" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="393,195,556,221"/>
+<area shape="rect" id="node10" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="394,245,555,272"/>
+<area shape="rect" id="node11" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="619,220,726,247"/>
+<area shape="rect" id="node12" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="605,271,740,297"/>
+<area shape="rect" id="node13" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="788,271,972,297"/>
+<area shape="rect" id="node14" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="1020,271,1173,297"/>
+</map>

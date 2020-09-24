@@ -1,0 +1,29 @@
+<map id="synchronize_irq" name="synchronize_irq">
+<area shape="rect" id="node2" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="637,115,726,141"/>
+<area shape="rect" id="node4" href="$manage_8c.html#a726ebc750949b16d23090fe0638abfb3" title="__synchronize_hardirq" alt="" coords="184,68,336,95"/>
+<area shape="rect" id="node5" href="$manage_8c.html#a16c0d06707d0f09483fd65dc92c8578b" title="EXPORT_SYMBOL" alt="" coords="191,119,329,145"/>
+<area shape="rect" id="node6" href="$internals_8h.html#a1a2259186b59c504146547ebc65815c7" title="irq_can_set_affinity_usr" alt="" coords="180,169,340,196"/>
+<area shape="rect" id="node7" href="$internals_8h.html#a6ebb0dc5a9ea94647d0b07b3cae6c51f" title="irq_set_thread_affinity" alt="" coords="185,220,335,247"/>
+<area shape="rect" id="node8" href="$internals_8h.html#a645f439e613cfecfb41a8585b30b8e1f" title="irq_do_set_affinity" alt="" coords="196,271,324,297"/>
+<area shape="rect" id="node9" href="$internals_8h.html#a653e7886dfab820bd504d3337bc9941e" title="irq_can_move_pcntxt" alt="" coords="187,321,333,348"/>
+<area shape="rect" id="node10" href="$internals_8h.html#ad9b1b9991216f0994ec1d431f474df44" title="irqd_set_move_pending" alt="" coords="181,372,339,399"/>
+<area shape="rect" id="node11" href="$internals_8h.html#ad1ab08dc6366592d39cc62fa47be5df7" title="irq_copy_pending" alt="" coords="199,423,321,449"/>
+<area shape="rect" id="node12" href="$internals_8h.html#aac862a1ae8de71b6ed2e9f9a92b49233" title="irqd_set" alt="" coords="226,473,294,500"/>
+<area shape="rect" id="node13" href="$internals_8h.html#aad04d8e61cef3ac8e5e332afb4fcce0f" title="irq_get_desc_lock" alt="" coords="197,524,323,551"/>
+<area shape="rect" id="node17" href="$internals_8h.html#aae668e45e92f3e939cda927523f068cb" title="irq_put_desc_unlock" alt="" coords="189,575,331,601"/>
+<area shape="rect" id="node20" href="$manage_8c.html#aecd381c79beb59c16eecb010d119c3b5" title="EXPORT_SYMBOL_GPL" alt="" coords="174,625,346,652"/>
+<area shape="rect" id="node21" href="$internals_8h.html#a28b21ae419c708519b62eb47cc89ed59" title="irq_move_pending" alt="" coords="197,676,323,703"/>
+<area shape="rect" id="node22" href="$internals_8h.html#af0ffe0896aacf5350c16fe0d37050ed2" title="irq_get_pending" alt="" coords="203,727,317,753"/>
+<area shape="rect" id="node23" href="$internals_8h.html#a663b976585483989c44a7dfcdc5f69fa" title="irq_setup_affinity" alt="" coords="199,777,321,804"/>
+<area shape="rect" id="node24" href="$internals_8h.html#a1370b407cde6d0662cc435ac065b8ccd" title="irq_desc_get_node" alt="" coords="195,828,325,855"/>
+<area shape="rect" id="node25" href="$printk_8c.html#a2bf7f082efe8a78e2079cba218dec898" title="DEFINE_RAW_SPINLOCK" alt="" coords="167,879,353,905"/>
+<area shape="rect" id="node26" href="$internals_8h.html#af670d139f4c0c6cb20c92a9a09ab9a36" title="irqd_has_set" alt="" coords="212,929,308,956"/>
+<area shape="rect" id="node27" href="$internals_8h.html#aa9e387b4c059b69ac7afbe5b2f5375cb" title="irqd_clear" alt="" coords="221,980,299,1007"/>
+<area shape="rect" id="node28" href="$internals_8h.html#aa7a3adb90b30a1d47fc6a96a8357161a" title="irq_select_affinity_usr" alt="" coords="185,1031,335,1057"/>
+<area shape="rect" id="node3" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="807,115,945,141"/>
+<area shape="rect" id="node14" href="$internals_8h.html#afcefacc8203d38a13036812180e8398f" title="__irq_get_desc_lock" alt="" coords="408,397,549,424"/>
+<area shape="rect" id="node15" href="$settings_8h.html#a3976cd46dec5479d26950dd2d2382c46" title="irq_settings_is_per\l_cpu_devid" alt="" coords="616,361,747,402"/>
+<area shape="rect" id="node16" href="$internals_8h.html#accc9b8d349de5c1bc63cea5b414ad0bd" title="chip_bus_lock" alt="" coords="629,427,734,453"/>
+<area shape="rect" id="node18" href="$internals_8h.html#aaccbcdf8f4f9f591d4b37914dc359e01" title="__irq_put_desc_unlock" alt="" coords="401,575,556,601"/>
+<area shape="rect" id="node19" href="$internals_8h.html#a79bd6b0f90f4e79ee0581b35f5813676" title="chip_bus_sync_unlock" alt="" coords="604,575,759,601"/>
+</map>

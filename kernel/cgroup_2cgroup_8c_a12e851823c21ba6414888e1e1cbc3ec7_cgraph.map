@@ -1,0 +1,5 @@
+<map id="cgroup_control" name="cgroup_control">
+<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="198,5,257,32"/>
+<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#a1e6ea252c2f8c1cd0b4b1f8b81332782" title="cgroup_is_threaded" alt="" coords="160,56,295,83"/>
+<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#aa8e9c07d7c652eb98e9053203c68b444" title="cgroup_on_dfl" alt="" coords="176,107,279,133"/>
+</map>

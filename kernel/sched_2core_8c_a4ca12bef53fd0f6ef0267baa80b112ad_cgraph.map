@@ -1,0 +1,6 @@
+<map id="update_rq_clock_task" name="update_rq_clock_task">
+<area shape="rect" id="node2" href="$sched_8h.html#a52a385d1b568bca5878a1b12aa8bd84a" title="cpu_of" alt="" coords="245,13,307,39"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a74d7519505b8b282d3e126d6d372ddca" title="sched_rt_avg_update" alt="" coords="203,63,349,90"/>
+<area shape="rect" id="node3" href="$sched_8h.html#af09c7b3a31f6c63144f80490d68819dc" title="update_idle_core" alt="" coords="397,13,517,39"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a08e907cf06ec6b1552e65bc9c12eb887" title="DECLARE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="565,5,787,47"/>
+</map>

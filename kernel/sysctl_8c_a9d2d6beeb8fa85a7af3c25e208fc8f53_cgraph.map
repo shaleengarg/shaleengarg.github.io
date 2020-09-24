@@ -1,0 +1,13 @@
+<map id="proc_doulongvec_ms_jiffies_minmax" name="proc_doulongvec_ms_jiffies_minmax">
+<area shape="rect" id="node2" href="$sysctl_8c.html#a040865c86a1d617c337209a16ae77bcd" title="EXPORT_SYMBOL" alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node3" href="$sysctl_8c.html#a9f313fa9e2a9d1ea13296dae4e00a0fd" title="proc_dointvec" alt="" coords="234,56,337,83"/>
+<area shape="rect" id="node4" href="$sysctl_8c.html#a57b6e1ad6f03eee8e95989c30a207946" title="proc_douintvec" alt="" coords="230,107,341,133"/>
+<area shape="rect" id="node5" href="$sysctl_8c.html#a2392552efbd633d2d01372f4e4531c50" title="proc_dointvec_jiffies" alt="" coords="215,157,356,184"/>
+<area shape="rect" id="node6" href="$sysctl_8c.html#a821c3155467894406355f344d4a83544" title="proc_dointvec_minmax" alt="" coords="207,208,363,235"/>
+<area shape="rect" id="node7" href="$sysctl_8c.html#a743f55ed180c3b1a8c82b1c83593f7bc" title="EXPORT_SYMBOL_GPL" alt="" coords="199,259,371,285"/>
+<area shape="rect" id="node8" href="$sysctl_8c.html#a79c709452e2a857ff9c247fc7e84d819" title="proc_douintvec_minmax" alt="" coords="204,309,367,336"/>
+<area shape="rect" id="node9" href="$sysctl_8c.html#a5f5b6823036b5abebdb5b0677b20f40e" title="proc_dointvec_userhz\l_jiffies" alt="" coords="211,361,360,402"/>
+<area shape="rect" id="node10" href="$sysctl_8c.html#a821596ef92a8fc9188858f466d8b0b06" title="proc_dointvec_ms_jiffies" alt="" coords="202,427,369,453"/>
+<area shape="rect" id="node11" href="$sysctl_8c.html#accf95a4595903dd82bb3a353684db716" title="proc_dostring" alt="" coords="235,477,335,504"/>
+<area shape="rect" id="node12" href="$sysctl_8c.html#a8633cbd656abcc5fffeb1e2fc95dcadd" title="proc_doulongvec_minmax" alt="" coords="199,528,372,555"/>
+</map>

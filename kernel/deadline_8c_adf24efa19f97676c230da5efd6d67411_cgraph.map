@@ -1,0 +1,5 @@
+<map id="init_dl_bw" name="init_dl_bw">
+<area shape="rect" id="node2" href="$sched_8h.html#abbb05e19ab2ae357d78cf204c331d75e" title="global_rt_runtime" alt="" coords="133,5,255,32"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a15ed1bc07adbe7affb9019b52156b9ad" title="to_ratio" alt="" coords="161,56,227,83"/>
+<area shape="rect" id="node4" href="$sched_8h.html#aacf5032d4046bc4665f44c2513bb62af" title="global_rt_period" alt="" coords="137,107,251,133"/>
+</map>

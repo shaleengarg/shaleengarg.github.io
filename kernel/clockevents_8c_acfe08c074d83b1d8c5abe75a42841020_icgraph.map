@@ -1,0 +1,7 @@
+<map id="__clockevents_unbind" name="__clockevents_unbind">
+<area shape="rect" id="node2" href="$clockevents_8c.html#ab2777ed3dc0382c46c13e0e6b65fa2d2" title="clockevents_unbind" alt="" coords="204,42,341,69"/>
+<area shape="rect" id="node3" href="$clockevents_8c.html#adbc76d559f2a076cd4a9ca6e22d322c8" title="clockevents_unbind\l_device" alt="" coords="392,5,529,47"/>
+<area shape="rect" id="node4" href="$clockevents_8c.html#a50d6f518c2c62113bcc50b06c4384d61" title="clockevents_resume" alt="" coords="389,71,532,98"/>
+<area shape="rect" id="node5" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="580,71,723,98"/>
+<area shape="rect" id="node6" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="771,71,864,98"/>
+</map>

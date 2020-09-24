@@ -1,0 +1,12 @@
+<map id="alloc_swapdev_block" name="alloc_swapdev_block">
+<area shape="rect" id="node2" href="$swap_8c.html#ab373aed188d5480f0f17b1d4e7ee85b5" title="get_swap_writer" alt="" coords="371,5,488,32"/>
+<area shape="rect" id="node8" href="$swap_8c.html#a30f0e85d76a59a6074f2759b1d5a1152" title="swap_write_page" alt="" coords="200,81,323,108"/>
+<area shape="rect" id="node11" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="208,132,315,159"/>
+<area shape="rect" id="node3" href="$swap_8c.html#a98062ebed0f1d6fb365900bf752f3259" title="swsusp_write" alt="" coords="536,81,639,108"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="687,81,761,108"/>
+<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="827,31,938,57"/>
+<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="839,81,926,108"/>
+<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="809,132,956,159"/>
+<area shape="rect" id="node9" href="$swap_8c.html#ab794c91f3dff20a0aefd3efdc1bc50f8" title="save_image" alt="" coords="383,107,475,133"/>
+<area shape="rect" id="node10" href="$swap_8c.html#acddbb0763ada5b0c2283fdd223c2a4cb" title="save_image_lzo" alt="" coords="371,157,487,184"/>
+</map>

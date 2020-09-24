@@ -1,0 +1,5 @@
+<map id="trace_valid_entry" name="trace_valid_entry">
+<area shape="rect" id="node2" href="$trace__selftest_8c.html#a8ef3ca6b01498a91b43d9b76759cac2e" title="trace_test_buffer_cpu" alt="" coords="175,5,323,32"/>
+<area shape="rect" id="node3" href="$trace__selftest_8c.html#ad895c85e12da2a5f712581390a8973bb" title="trace_test_buffer" alt="" coords="371,5,491,32"/>
+<area shape="rect" id="node4" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="539,5,691,32"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="unregister_event_command" name="unregister_event_command">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#aedde42be850de466acd256b52a84874a" title="unregister_trigger\l_hist_enable_disable_cmds" alt="" coords="236,389,419,430"/>
+<area shape="rect" id="node26" href="$trace__events__trigger_8c.html#a15d0adeae03c92273a6ecde2b03050e1" title="unregister_trigger\l_traceon_traceoff_cmds" alt="" coords="246,454,409,495"/>
+<area shape="rect" id="node28" href="$trace__events__trigger_8c.html#a4157c4144992e50d8e35125bbc741b42" title="unregister_trigger\l_enable_disable_cmds" alt="" coords="250,519,405,561"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#af25e3dd887d3961e7d5019aaf50cb925" title="register_trigger_hist\l_enable_disable_cmds" alt="" coords="469,389,623,430"/>
+<area shape="rect" id="node4" href="$trace__events__trigger_8c.html#a7c0dcd67d4c06dc814c0213134947a92" title="register_trigger_cmds" alt="" coords="673,461,820,488"/>
+<area shape="rect" id="node5" href="$trace_8h.html#aff2b1ef7fdb5d3915bcf853bddc83c02" title="register_trigger_hist\l_enable_disable_cmds" alt="" coords="868,359,1023,401"/>
+<area shape="rect" id="node23" href="$trace__events_8c.html#a4d92e78966e2744c541e13c7fd7e4193" title="event_trace_enable" alt="" coords="878,491,1013,517"/>
+<area shape="rect" id="node6" href="$trace_8h.html#a277ada872310c0365265bb4f40b0f818" title="event_file_data" alt="" coords="1073,335,1183,361"/>
+<area shape="rect" id="node7" href="$trace__events_8c.html#a1037b4304ccdab9b5d12e02c5c269129" title="event_enable_read" alt="" coords="1253,5,1384,32"/>
+<area shape="rect" id="node8" href="$trace__events_8c.html#a6aeabf82943908cbd69e43bc87cf50a7" title="event_enable_write" alt="" coords="1251,56,1386,83"/>
+<area shape="rect" id="node9" href="$trace__events_8c.html#ae946f8dc33aac3b83158e3c59fd097b6" title="f_next" alt="" coords="1289,107,1348,133"/>
+<area shape="rect" id="node10" href="$trace__events_8c.html#a07b5eea738dc9ddb70269474fec2de57" title="f_start" alt="" coords="1489,132,1547,159"/>
+<area shape="rect" id="node11" href="$trace__events_8c.html#aeeb29317449ffacff4f87760f1a5eb2e" title="f_show" alt="" coords="1287,208,1351,235"/>
+<area shape="rect" id="node12" href="$trace__events_8c.html#a07a429011ed804e78576da6582da9d7b" title="event_id_read" alt="" coords="1267,259,1370,285"/>
+<area shape="rect" id="node13" href="$trace__events_8c.html#ad8d8abc1be972611b35c47e993501ce6" title="event_filter_read" alt="" coords="1259,309,1378,336"/>
+<area shape="rect" id="node14" href="$trace__events_8c.html#a0987a56c2e0f20939718254d18ed112c" title="event_filter_write" alt="" coords="1258,360,1379,387"/>
+<area shape="rect" id="node15" href="$trace__events__hist_8c.html#a6eed712a1739fcd4719f2879cb4f151c" title="hist_show" alt="" coords="1278,411,1359,437"/>
+<area shape="rect" id="node17" href="$trace__events__trigger_8c.html#a4c654f1df0380edcae6469dd498188bb" title="trigger_next" alt="" coords="1273,461,1364,488"/>
+<area shape="rect" id="node18" href="$trace__events__trigger_8c.html#a532ebcf361c588a9eaeb98995c64de94" title="trigger_start" alt="" coords="1273,512,1364,539"/>
+<area shape="rect" id="node19" href="$trace__events__trigger_8c.html#aa22cdefe3f9774c3aadc60924e128b33" title="event_trigger_regex_open" alt="" coords="1233,563,1404,589"/>
+<area shape="rect" id="node21" href="$trace__events__trigger_8c.html#a312e7a2211a110b9d8a11b5bb75aa454" title="event_trigger_regex\l_write" alt="" coords="1251,614,1387,655"/>
+<area shape="rect" id="node16" href="$trace__events__hist_8c.html#aae25d3eecd900fcb80ff7c234c0dddd3" title="event_hist_open" alt="" coords="1459,411,1577,437"/>
+<area shape="rect" id="node20" href="$trace__events__trigger_8c.html#ac347ec8b2416a5f3fb729da1cc9d4fd7" title="event_trigger_open" alt="" coords="1452,563,1584,589"/>
+<area shape="rect" id="node22" href="$trace__events__trigger_8c.html#aac5b984e75539d2d3abb28d855515fef" title="event_trigger_write" alt="" coords="1452,621,1584,648"/>
+<area shape="rect" id="node24" href="$trace__events_8c.html#a7d794522b45b530e96ef1d820a0e24c4" title="trace_event_init" alt="" coords="1071,549,1185,576"/>
+<area shape="rect" id="node25" href="$trace_8c.html#a578eec29beba27b6062249e87c0dcfdd" title="trace_init" alt="" coords="1281,680,1356,707"/>
+<area shape="rect" id="node27" href="$trace__events__trigger_8c.html#a7231d295734518bd73611d58db84ce1d" title="register_trigger_traceon\l_traceoff_cmds" alt="" coords="467,454,625,495"/>
+<area shape="rect" id="node29" href="$trace__events__trigger_8c.html#a3146c703cafccba014daa3186acd71b8" title="register_trigger_enable\l_disable_cmds" alt="" coords="469,519,623,561"/>
+</map>

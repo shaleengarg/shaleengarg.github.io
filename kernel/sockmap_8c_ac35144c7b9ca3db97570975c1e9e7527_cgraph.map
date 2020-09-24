@@ -1,0 +1,5 @@
+<map id="smap_start_sock" name="smap_start_sock">
+<area shape="rect" id="node2" href="$sockmap_8c.html#afc52d6451e82f462ef58983e052ed7e0" title="smap_data_ready" alt="" coords="179,5,304,32"/>
+<area shape="rect" id="node4" href="$sockmap_8c.html#a99d97221e96fe7b6d0d9a24bf237251e" title="smap_write_space" alt="" coords="176,56,307,83"/>
+<area shape="rect" id="node3" href="$sockmap_8c.html#ae6a1f0b940695319e384ac5a72c1966c" title="smap_psock_sk" alt="" coords="355,31,472,57"/>
+</map>

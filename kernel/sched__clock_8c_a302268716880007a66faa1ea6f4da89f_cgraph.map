@@ -1,0 +1,7 @@
+<map id="sched_clock_register" name="sched_clock_register">
+<area shape="rect" id="node2" href="$clocksource_8c.html#ad0e47b7cf1ad36d148f64c25f145966c" title="clocks_calc_mult_shift" alt="" coords="204,5,359,32"/>
+<area shape="rect" id="node4" href="$clocksource_8c.html#a71d9d1648904ff798c15e503bcfa04d8" title="clocks_calc_max_nsecs" alt="" coords="199,56,364,83"/>
+<area shape="rect" id="node5" href="$sched__clock_8c.html#ab829740a3a0c0cccf39278967552e23e" title="cyc_to_ns" alt="" coords="240,107,323,133"/>
+<area shape="rect" id="node6" href="$sched__clock_8c.html#a2cb83ed7bb7f167784cdf38fbc4ee5df" title="update_clock_read_data" alt="" coords="200,157,363,184"/>
+<area shape="rect" id="node3" href="$clocksource_8c.html#ad3cadf4bd0e3a9d68a26e19b10ba5dad" title="EXPORT_SYMBOL_GPL" alt="" coords="412,5,584,32"/>
+</map>

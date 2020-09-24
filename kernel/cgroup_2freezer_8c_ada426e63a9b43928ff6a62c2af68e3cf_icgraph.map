@@ -1,0 +1,6 @@
+<map id="parent_freezer" name="parent_freezer">
+<area shape="rect" id="node2" href="$cgroup_2freezer_8c.html#a75e60a431f89051c24bc50e63526dfae" title="freezer_css_online" alt="" coords="167,5,297,32"/>
+<area shape="rect" id="node3" href="$cgroup_2freezer_8c.html#a91a93530916a9ca8f372c60b184cb831" title="freezer_attach" alt="" coords="179,56,285,83"/>
+<area shape="rect" id="node4" href="$cgroup_2freezer_8c.html#a4cd3ee45df10cfe1a30cce7d6dcc757a" title="freezer_change_state" alt="" coords="159,107,305,133"/>
+<area shape="rect" id="node5" href="$cgroup_2freezer_8c.html#ad8b49cc5ce42d1902ae50e5500fce186" title="freezer_write" alt="" coords="353,107,451,133"/>
+</map>

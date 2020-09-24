@@ -1,0 +1,7 @@
+<map id="trace_uprobe" name="trace_uprobe">
+<area shape="rect" id="node2" href="$structtrace__probe.html" title="trace_probe" alt="" coords="63,199,154,225"/>
+<area shape="rect" id="node3" href="$structprobe__arg.html" title="probe_arg" alt="" coords="69,109,148,136"/>
+<area shape="rect" id="node4" href="$structfetch__param.html" title="fetch_param" alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node5" href="$structfetch__type.html" title="fetch_type" alt="" coords="125,5,207,32"/>
+<area shape="rect" id="node6" href="$structtrace__uprobe__filter.html" title="trace_uprobe_filter" alt="" coords="179,199,308,225"/>
+</map>

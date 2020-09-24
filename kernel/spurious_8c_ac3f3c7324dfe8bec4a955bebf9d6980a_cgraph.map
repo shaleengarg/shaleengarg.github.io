@@ -1,0 +1,4 @@
+<map id="report_bad_irq" name="report_bad_irq">
+<area shape="rect" id="node2" href="$spurious_8c.html#a3ffd7c468b6fff2d6b07e7bfdd2aef3e" title="__report_bad_irq" alt="" coords="157,5,276,32"/>
+<area shape="rect" id="node3" href="$spurious_8c.html#aa3f76b60b4f086476a7450567f146177" title="bad_action_ret" alt="" coords="324,5,431,32"/>
+</map>

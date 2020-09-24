@@ -1,0 +1,4 @@
+<map id="trace_parse_run_command" name="trace_parse_run_command">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="232,5,367,32"/>
+<area shape="rect" id="node3" href="$trace__kprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="251,56,347,83"/>
+</map>

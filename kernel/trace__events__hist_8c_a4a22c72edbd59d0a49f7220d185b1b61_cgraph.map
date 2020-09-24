@@ -1,0 +1,11 @@
+<map id="hist_clear" name="hist_clear">
+<area shape="rect" id="node2" href="$trace_8h.html#a942aafc807a99ced1dd5ac0bf89f42b5" title="pause_named_trigger" alt="" coords="139,5,285,32"/>
+<area shape="rect" id="node4" href="$tiny_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="145,107,279,133"/>
+<area shape="rect" id="node6" href="$tracing__map_8c.html#ac650b75178955bf836bd86665e12fea5" title="tracing_map_clear" alt="" coords="148,157,276,184"/>
+<area shape="rect" id="node10" href="$trace_8h.html#a56cd5fe4368e13e1a5f4f43751634ff7" title="unpause_named_trigger" alt="" coords="132,56,292,83"/>
+<area shape="rect" id="node3" href="$trace__events__trigger_8c.html#a2f06d01b5576d852fbfc1a77173d4542" title="__pause_named_trigger" alt="" coords="346,31,506,57"/>
+<area shape="rect" id="node5" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="340,107,512,133"/>
+<area shape="rect" id="node7" href="$tracing__map_8c.html#abd5b379e460ac5ad3bb51bc603f63253" title="tracing_map_array_clear" alt="" coords="344,157,508,184"/>
+<area shape="rect" id="node8" href="$tracing__map_8c.html#ab2e388c3686273270817d716f25f681a" title="tracing_map_elt_clear" alt="" coords="351,208,501,235"/>
+<area shape="rect" id="node9" href="$tracing__map_8c.html#a6739e08f0225146f9a9d107809690c4a" title="tracing_map_cmp_atomic64" alt="" coords="560,208,745,235"/>
+</map>

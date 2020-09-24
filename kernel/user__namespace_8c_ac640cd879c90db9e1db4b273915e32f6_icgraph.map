@@ -1,0 +1,6 @@
+<map id="new_idmap_permitted" name="new_idmap_permitted">
+<area shape="rect" id="node2" href="$user__namespace_8c.html#a1e5c43866a243b5ba0fc0a9cd6b60060" title="map_write" alt="" coords="203,56,285,83"/>
+<area shape="rect" id="node3" href="$user__namespace_8c.html#a80bc0e2862f5831a39aef4b9d2866744" title="proc_uid_map_write" alt="" coords="340,5,479,32"/>
+<area shape="rect" id="node4" href="$user__namespace_8c.html#ab94ee35b0f0178b555d280b66cbbebfb" title="proc_gid_map_write" alt="" coords="340,56,479,83"/>
+<area shape="rect" id="node5" href="$user__namespace_8c.html#a05eb79f9cde2a28d7bdfbfaebbfda927" title="proc_projid_map_write" alt="" coords="333,107,485,133"/>
+</map>

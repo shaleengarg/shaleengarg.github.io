@@ -1,0 +1,29 @@
+<map id="create_basic_memory_bitmaps" name="create_basic_memory_bitmaps">
+<area shape="rect" id="node2" href="$snapshot_8c.html#a5b20b49d47f7ecc3d903a72a85924623" title="memory_bm_create" alt="" coords="207,193,344,219"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="815,45,866,71"/>
+<area shape="rect" id="node25" href="$snapshot_8c.html#a5a2ab113ccbdfc6d07abd87fd804fcf3" title="memory_bm_free" alt="" coords="597,302,720,329"/>
+<area shape="rect" id="node27" href="$snapshot_8c.html#a84e0492492966c8a44d13c1cb329493a" title="mark_nosave_pages" alt="" coords="204,411,347,438"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a099a91d57aa843ce240028aa46fe47e3" title="chain_init" alt="" coords="431,41,509,67"/>
+<area shape="rect" id="node4" href="$snapshot_8c.html#a061c26b111548fa42a69cd4a8037874b" title="create_mem_extents" alt="" coords="398,91,542,118"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#a9b4d94df8e3a16c2df9d8266c3983d15" title="free_mem_extents" alt="" coords="593,95,724,122"/>
+<area shape="rect" id="node7" href="$snapshot_8c.html#aa59aa8d3629f484c5c09a61a23e663a6" title="create_zone_bm_rtree" alt="" coords="395,193,545,219"/>
+<area shape="rect" id="node24" href="$snapshot_8c.html#a89d5facfe927a893595e8aed32b5de0e" title="memory_bm_position\l_reset" alt="" coords="397,295,543,336"/>
+<area shape="rect" id="node8" href="$snapshot_8c.html#aecd0e95426bb6c298e158de6588b1802" title="chain_alloc" alt="" coords="996,175,1083,202"/>
+<area shape="rect" id="node17" href="$snapshot_8c.html#a50e3346892e18010b3a3a3fee9e019b9" title="add_rtree_block" alt="" coords="601,201,716,227"/>
+<area shape="rect" id="node19" href="$snapshot_8c.html#aadb3b2e23cd6f5892d817a16878f65e0" title="free_zone_bm_rtree" alt="" coords="772,251,909,278"/>
+<area shape="rect" id="node9" href="$snapshot_8c.html#aa78eed8b631db9473c5c5056b56b3256" title="__get_safe_page" alt="" coords="1209,187,1331,214"/>
+<area shape="rect" id="node10" href="$snapshot_8c.html#a013fcea460c76133ecc258bbe6fa22b5" title="get_image_page" alt="" coords="1435,235,1553,262"/>
+<area shape="rect" id="node11" href="$snapshot_8c.html#aa41fcddae66e65d526ea3cedbba6821f" title="swsusp_page_is_free" alt="" coords="1637,191,1785,218"/>
+<area shape="rect" id="node14" href="$snapshot_8c.html#a9cd604588e2f75cce811e98a172b7000" title="swsusp_set_page_forbidden" alt="" coords="1617,242,1804,269"/>
+<area shape="rect" id="node16" href="$snapshot_8c.html#af323d38077123653f9174f7dbd219a1a" title="swsusp_set_page_free" alt="" coords="1633,293,1789,319"/>
+<area shape="rect" id="node12" href="$snapshot_8c.html#a026d4de692ba84e27571def4f442e908" title="memory_bm_test_bit" alt="" coords="1852,217,1996,243"/>
+<area shape="rect" id="node13" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="2044,318,2187,345"/>
+<area shape="rect" id="node15" href="$snapshot_8c.html#a73e0064c539b4340fb6fc3dd4f73e8ab" title="memory_bm_set_bit" alt="" coords="1854,293,1994,319"/>
+<area shape="rect" id="node18" href="$snapshot_8c.html#a55f1ee7110e2bb11d5449256f8cb8618" title="alloc_rtree_node" alt="" coords="782,201,899,227"/>
+<area shape="rect" id="node20" href="$snapshot_8c.html#afc279d01b4afdc8a0a0853efa05ef854" title="free_image_page" alt="" coords="979,302,1100,329"/>
+<area shape="rect" id="node21" href="$snapshot_8c.html#a65f26f5c589f819c16d56d48bf5714e2" title="swsusp_unset_page_forbidden" alt="" coords="1169,293,1371,319"/>
+<area shape="rect" id="node23" href="$snapshot_8c.html#acaba0587ad7f460bd01d46a0182e0e13" title="swsusp_unset_page_free" alt="" coords="1185,343,1355,370"/>
+<area shape="rect" id="node22" href="$snapshot_8c.html#ac89ac94510062d5805ff434732abc2cb" title="memory_bm_clear_bit" alt="" coords="1419,343,1569,370"/>
+<area shape="rect" id="node26" href="$snapshot_8c.html#a4b1098658e82568e341ec3af808641f2" title="free_list_of_pages" alt="" coords="777,302,905,329"/>
+<area shape="rect" id="node28" href="$snapshot_8c.html#ace9af3dce365e43af2fa663086a64071" title="mem_bm_set_bit_check" alt="" coords="957,399,1121,426"/>
+</map>

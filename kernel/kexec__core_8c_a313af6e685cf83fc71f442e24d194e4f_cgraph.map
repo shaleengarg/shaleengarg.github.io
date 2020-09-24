@@ -1,0 +1,8 @@
+<map id="kimage_add_page" name="kimage_add_page">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#acd32207a63fa9d285d104edf34275339" title="kimage_add_entry" alt="" coords="180,93,308,120"/>
+<area shape="rect" id="node3" href="$kexec__core_8c.html#ae2777530df3960172f346e52ca1c795d" title="kimage_alloc_page" alt="" coords="356,93,489,120"/>
+<area shape="rect" id="node4" href="$kexec__core_8c.html#a48d2082629f8b55877bedf9704b5d830" title="kimage_alloc_pages" alt="" coords="543,5,683,32"/>
+<area shape="rect" id="node5" href="$kexec__core_8c.html#aca269cf68860bafdb51ae138bc3fa705" title="kimage_is_destination\l_range" alt="" coords="537,57,688,98"/>
+<area shape="rect" id="node6" href="$kexec__core_8c.html#a31272d7d9591f77b4c7739d99716da9e" title="kimage_dst_used" alt="" coords="551,123,675,149"/>
+<area shape="rect" id="node7" href="$kexec__core_8c.html#a1ea084e75448abf76f7796bf8b462f32" title="kimage_free_pages" alt="" coords="545,173,680,200"/>
+</map>

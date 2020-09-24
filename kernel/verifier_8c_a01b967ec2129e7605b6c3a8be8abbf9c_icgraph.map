@@ -1,0 +1,9 @@
+<map id="adjust_insn_aux_data" name="adjust_insn_aux_data">
+<area shape="rect" id="node2" href="$verifier_8c.html#ad46585f6a9f4b15f825fe66123fefc9c" title="bpf_patch_insn_data" alt="" coords="201,31,344,57"/>
+<area shape="rect" id="node3" href="$verifier_8c.html#a7693903c9723b615aea479169abc2894" title="convert_ctx_accesses" alt="" coords="392,5,545,32"/>
+<area shape="rect" id="node8" href="$verifier_8c.html#a1cc41f7d6addd5b196075053fc95b414" title="fixup_bpf_calls" alt="" coords="414,56,523,83"/>
+<area shape="rect" id="node4" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="593,31,676,57"/>
+<area shape="rect" id="node5" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="724,31,827,57"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="875,31,1021,57"/>
+<area shape="rect" id="node7" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="1069,31,1216,57"/>
+</map>

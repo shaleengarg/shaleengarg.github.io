@@ -1,0 +1,4 @@
+<map id="srcu_batches_completed" name="srcu_batches_completed">
+<area shape="rect" id="node2" href="$rcuperf_8c.html#a51a1547d06ccf2c38a2a8f034a84f52b" title="srcu_perf_completed" alt="" coords="228,5,371,32"/>
+<area shape="rect" id="node3" href="$rcutorture_8c.html#aa413b2b9eca8f69fec57d8f4b34d1cff" title="srcu_torture_completed" alt="" coords="220,56,379,83"/>
+</map>

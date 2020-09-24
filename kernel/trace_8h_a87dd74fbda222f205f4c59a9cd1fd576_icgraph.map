@@ -1,0 +1,25 @@
+<map id="trace_test_and_set_recursion" name="trace_test_and_set_recursion">
+<area shape="rect" id="node2" href="$ftrace_8c.html#abe8bf1af6b31692cb2c78a54768c7b12" title="__ftrace_ops_list_func" alt="" coords="189,91,342,117"/>
+<area shape="rect" id="node4" href="$ftrace_8c.html#a81dcea19dad932b6de72cbc41e9c469c" title="ftrace_ops_assist_func" alt="" coords="187,141,344,168"/>
+<area shape="rect" id="node15" href="$trace__functions_8c.html#a80736663f4113c7ad0d728e6904d64ad" title="function_trace_call" alt="" coords="200,217,331,244"/>
+<area shape="rect" id="node3" href="$ftrace_8c.html#af590d87249c1c96e0564e607b077683b" title="ftrace_ops_no_ops" alt="" coords="396,91,528,117"/>
+<area shape="rect" id="node5" href="$ftrace_8c.html#ac66ec2f4751695d984615e412e2c1d32" title="ftrace_ops_get_func" alt="" coords="392,141,532,168"/>
+<area shape="rect" id="node6" href="$ftrace_8c.html#acae71f8dca4615f59a91ac1bcd225056" title="ftrace_ops_get_list_func" alt="" coords="580,133,744,160"/>
+<area shape="rect" id="node7" href="$ftrace_8c.html#ac637a0aba14bc42742a85ce247a50bed" title="update_ftrace_function" alt="" coords="792,123,947,149"/>
+<area shape="rect" id="node8" href="$ftrace_8c.html#aeec7c0749e38341195a6399036520f2b" title="__register_ftrace_function" alt="" coords="995,5,1167,32"/>
+<area shape="rect" id="node9" href="$ftrace_8c.html#aaab0992781f25acf8a085d1d3f6fe83b" title="__unregister_ftrace\l_function" alt="" coords="1014,57,1147,98"/>
+<area shape="rect" id="node10" href="$ftrace_8c.html#a226123ea8706a108ea504c6a19359848" title="ftrace_update_pid_func" alt="" coords="1002,123,1159,149"/>
+<area shape="rect" id="node14" href="$ftrace_8c.html#ab7148357ba6fbe9ddc7e0983106e46cb" title="ftrace_enable_sysctl" alt="" coords="1009,173,1152,200"/>
+<area shape="rect" id="node11" href="$ftrace_8c.html#a73e1b54e11af21980334921b2887f19a" title="ftrace_pid_reset" alt="" coords="1236,97,1351,124"/>
+<area shape="rect" id="node13" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="1236,148,1351,175"/>
+<area shape="rect" id="node12" href="$ftrace_8c.html#a6ee78376b5ade9167c82ce71dfef009d" title="ftrace_pid_open" alt="" coords="1426,97,1541,124"/>
+<area shape="rect" id="node16" href="$trace__functions_8c.html#ad191e467719605265215e8e80c81a655" title="allocate_ftrace_ops" alt="" coords="395,204,529,231"/>
+<area shape="rect" id="node23" href="$trace__functions_8c.html#a12d6bb869ef516a029eaef88cb4c2eae" title="function_trace_init" alt="" coords="398,255,526,281"/>
+<area shape="rect" id="node24" href="$trace__functions_8c.html#a4456235eedaaf177a1af9bd70dfbcf0b" title="func_set_flag" alt="" coords="412,305,512,332"/>
+<area shape="rect" id="node17" href="$trace__functions_8c.html#aa895c4bbe02e2e2ff243da9f435ca33f" title="ftrace_create_function\l_files" alt="" coords="587,206,737,247"/>
+<area shape="rect" id="node18" href="$trace_8c.html#ad9e0e60469fdc54991aa7e6b6fec32ef" title="init_tracer_tracefs" alt="" coords="806,224,933,251"/>
+<area shape="rect" id="node19" href="$trace_8c.html#aab5bf5e697f269913648fca36d43efa5" title="instance_mkdir" alt="" coords="1025,224,1136,251"/>
+<area shape="rect" id="node21" href="$trace_8c.html#a1055b7f152d377598ce32574f38abafc" title="tracer_init_tracefs" alt="" coords="1420,249,1547,276"/>
+<area shape="rect" id="node20" href="$trace_8c.html#ab8964120b187a72fee084a1df14cb80d" title="create_trace_instances" alt="" coords="1215,224,1372,251"/>
+<area shape="rect" id="node22" href="$trace_8c.html#a40747b930e05d2865c1bf6e5b5e3658b" title="clear_boot_tracer" alt="" coords="1595,249,1717,276"/>
+</map>

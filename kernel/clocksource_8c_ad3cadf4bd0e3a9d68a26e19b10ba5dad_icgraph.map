@@ -1,0 +1,7 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$clocksource_8c.html#ad0e47b7cf1ad36d148f64c25f145966c" title="clocks_calc_mult_shift" alt="" coords="225,89,380,115"/>
+<area shape="rect" id="node3" href="$clocksource_8c.html#a8b4a0bcbcee4dda1f5bfc43bd31497aa" title="__clocksource_update\l_freq_scale" alt="" coords="428,35,580,76"/>
+<area shape="rect" id="node4" href="$clocksource_8c.html#ad9a3f8f64b9f4dafa66028e8312286c4" title="__clocksource_register\l_scale" alt="" coords="628,5,784,47"/>
+<area shape="rect" id="node5" href="$sched__clock_8c.html#a302268716880007a66faa1ea6f4da89f" title="sched_clock_register" alt="" coords="431,101,577,127"/>
+<area shape="rect" id="node6" href="$sched__clock_8c.html#a62194b89e6843ccab0b09f40a970db1e" title="sched_clock_postinit" alt="" coords="634,101,778,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="dbg_touch_watchdogs" name="dbg_touch_watchdogs">
+<area shape="rect" id="node2" href="$clocksource_8c.html#a7233322bf94cfb38ec369ae6578ea3ad" title="clocksource_touch_watchdog" alt="" coords="205,13,400,39"/>
+<area shape="rect" id="node4" href="$tree_8c.html#a1d0f44244c7c04b4519568089a718abd" title="rcu_cpu_stall_reset" alt="" coords="235,63,370,90"/>
+<area shape="rect" id="node3" href="$clocksource_8c.html#ac28a3a8b9f2710dc067ed2a51b4ed21e" title="clocksource_resume\l_watchdog" alt="" coords="448,5,591,47"/>
+</map>

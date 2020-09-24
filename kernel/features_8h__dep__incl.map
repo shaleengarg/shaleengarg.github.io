@@ -1,0 +1,28 @@
+<map id="sched/features.h" name="sched/features.h">
+<area shape="rect" id="node2" href="$sched_8h.html" title="sched/sched.h" alt="" coords="1846,80,1953,107"/>
+<area shape="rect" id="node15" href="$sched_2debug_8c.html" title="sched/debug.c" alt="" coords="3394,155,3501,181"/>
+<area shape="rect" id="node3" href="$transition_8c.html" title="livepatch/transition.c" alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node4" href="$autogroup_8c.html" title="sched/autogroup.c" alt="" coords="172,155,301,181"/>
+<area shape="rect" id="node5" href="$clock_8c.html" title="sched/clock.c" alt="" coords="325,155,428,181"/>
+<area shape="rect" id="node6" href="$completion_8c.html" title="sched/completion.c" alt="" coords="452,155,587,181"/>
+<area shape="rect" id="node7" href="$sched_2core_8c.html" title="sched/core.c" alt="" coords="611,155,708,181"/>
+<area shape="rect" id="node8" href="$cpuacct_8c.html" title="sched/cpuacct.c" alt="" coords="732,155,851,181"/>
+<area shape="rect" id="node9" href="$cpudeadline_8c.html" title="sched/cpudeadline.c" alt="" coords="874,155,1015,181"/>
+<area shape="rect" id="node10" href="$cpufreq_8c.html" title="sched/cpufreq.c" alt="" coords="1039,155,1154,181"/>
+<area shape="rect" id="node11" href="$cpufreq__schedutil_8c.html" title="sched/cpufreq_schedutil.c" alt="" coords="1179,155,1353,181"/>
+<area shape="rect" id="node12" href="$cpupri_8c.html" title="sched/cpupri.c" alt="" coords="1378,155,1485,181"/>
+<area shape="rect" id="node13" href="$cputime_8c.html" title="sched/cputime.c" alt="" coords="1509,155,1628,181"/>
+<area shape="rect" id="node14" href="$deadline_8c.html" title="sched/deadline.c" alt="" coords="1653,155,1773,181"/>
+<area shape="rect" id="node16" href="$fair_8c.html" title="sched/fair.c" alt="" coords="1797,155,1887,181"/>
+<area shape="rect" id="node17" href="$idle_8c.html" title="sched/idle.c" alt="" coords="1912,155,2004,181"/>
+<area shape="rect" id="node18" href="$isolation_8c.html" title="sched/isolation.c" alt="" coords="2029,155,2149,181"/>
+<area shape="rect" id="node19" href="$loadavg_8c.html" title="sched/loadavg.c" alt="" coords="2173,155,2290,181"/>
+<area shape="rect" id="node20" href="$membarrier_8c.html" title="sched/membarrier.c" alt="" coords="2315,155,2452,181"/>
+<area shape="rect" id="node21" href="$rt_8c.html" title="sched/rt.c" alt="" coords="2477,155,2557,181"/>
+<area shape="rect" id="node22" href="$stats_8c.html" title="sched/stats.c" alt="" coords="2581,155,2682,181"/>
+<area shape="rect" id="node23" href="$stop__task_8c.html" title="sched/stop_task.c" alt="" coords="2707,155,2836,181"/>
+<area shape="rect" id="node24" href="$swait_8c.html" title="sched/swait.c" alt="" coords="2860,155,2963,181"/>
+<area shape="rect" id="node25" href="$topology_8c.html" title="sched/topology.c" alt="" coords="2987,155,3108,181"/>
+<area shape="rect" id="node26" href="$wait_8c.html" title="sched/wait.c" alt="" coords="3133,155,3229,181"/>
+<area shape="rect" id="node27" href="$wait__bit_8c.html" title="sched/wait_bit.c" alt="" coords="3253,155,3370,181"/>
+</map>

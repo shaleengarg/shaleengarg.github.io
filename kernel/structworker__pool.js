@@ -1,0 +1,26 @@
+var structworker__pool =
+[
+    [ "DECLARE_HASHTABLE", "structworker__pool.html#a771930a1e1b3504747ce347065bc20a1", null ],
+    [ "____cacheline_aligned_in_smp", "structworker__pool.html#a50846dab215ba096a58a524c9e747b22", null ],
+    [ "attach_mutex", "structworker__pool.html#a4c2ca1e3746338abd899009a6593e62e", null ],
+    [ "attrs", "structworker__pool.html#ac1fd3fa3cc4d03931fffec011696c775", null ],
+    [ "cpu", "structworker__pool.html#a3ff436d8674a46b1700cbd579c94a8f8", null ],
+    [ "detach_completion", "structworker__pool.html#a94640e0d1dd3ceef8cb18b11aefab596", null ],
+    [ "flags", "structworker__pool.html#add83a72af7240e15873a0c6c010dc5ff", null ],
+    [ "hash_node", "structworker__pool.html#a49e3eed507f554f81fb54d5d502284ec", null ],
+    [ "id", "structworker__pool.html#ab3bf1d5a6b91dc95c874f1169cd24c8f", null ],
+    [ "idle_list", "structworker__pool.html#a3f8785484910e5e8a1eea9a0192a8722", null ],
+    [ "idle_timer", "structworker__pool.html#a89205558523d5c2d38c99440ab18545d", null ],
+    [ "lock", "structworker__pool.html#aec0df9001f308463c0ef95ef316063e7", null ],
+    [ "manager", "structworker__pool.html#ae081ecfbcdaf4974228199fdf48e3966", null ],
+    [ "mayday_timer", "structworker__pool.html#acce6daf346645cd050ce7c19f8fba4a0", null ],
+    [ "node", "structworker__pool.html#ae9378a4b4bfbd5c0c3375b2da6a81bb3", null ],
+    [ "nr_idle", "structworker__pool.html#ac4b63b4f0db9bcbc750573013048f7ef", null ],
+    [ "nr_workers", "structworker__pool.html#a79317708a5047fcc719ed19c558ef849", null ],
+    [ "rcu", "structworker__pool.html#a4a9028f60f4fcfe5f8f7f174e7573685", null ],
+    [ "refcnt", "structworker__pool.html#a8be5553437c5fb03e5ecbd2df34992c6", null ],
+    [ "watchdog_ts", "structworker__pool.html#a0caf1463b91779fd23e7f530f9f9ce33", null ],
+    [ "worker_ida", "structworker__pool.html#a5d83961e5a1fdc05fb50af447ade5bec", null ],
+    [ "workers", "structworker__pool.html#ae29f8df704a74b5b1e22c16100d3d8ef", null ],
+    [ "worklist", "structworker__pool.html#a3148f0053c6488acfc8e5f049bd70ed6", null ]
+];

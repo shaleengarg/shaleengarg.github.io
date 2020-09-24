@@ -1,0 +1,8 @@
+<map id="klp_cleanup_module_patches_limited" name="klp_cleanup_module_patches_limited">
+<area shape="rect" id="node2" href="$livepatch_2core_8c.html#a791a2a3f4a5720428cad8ff7b73d6221" title="klp_module_coming" alt="" coords="193,5,331,32"/>
+<area shape="rect" id="node6" href="$livepatch_2core_8c.html#a12f8594378c52ed13fd0cbeed874da04" title="klp_module_going" alt="" coords="199,56,325,83"/>
+<area shape="rect" id="node3" href="$module_8c.html#a0bb8529c27e0a03ab783f505ef4a3b99" title="prepare_coming_module" alt="" coords="379,5,541,32"/>
+<area shape="rect" id="node4" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="589,56,684,83"/>
+<area shape="rect" id="node5" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="732,56,879,83"/>
+<area shape="rect" id="node7" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="405,107,515,133"/>
+</map>

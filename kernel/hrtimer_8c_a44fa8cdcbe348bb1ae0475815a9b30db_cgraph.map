@@ -1,0 +1,8 @@
+<map id="__hrtimer_get_remaining" name="__hrtimer_get_remaining">
+<area shape="rect" id="node2" href="$hrtimer_8c.html#a10a8a782d6293bccd4c8604b53c2fa78" title="lock_hrtimer_base" alt="" coords="239,5,367,32"/>
+<area shape="rect" id="node3" href="$hrtimer_8c.html#ab599b0de148a74bac0a0160801891eab" title="unlock_hrtimer_base" alt="" coords="232,56,375,83"/>
+<area shape="rect" id="node4" href="$hrtimer_8c.html#aa7ad19a6291d62fde28112c2e67ea6d9" title="EXPORT_SYMBOL_GPL" alt="" coords="217,107,389,133"/>
+<area shape="rect" id="node5" href="$hrtimer_8c.html#a32da28f24840a6a9de13624f320f003e" title="__hrtimer_hres_active" alt="" coords="228,157,379,184"/>
+<area shape="rect" id="node6" href="$hrtimer_8c.html#a0fbbaa9a93ea4d847721ecc047ab23bc" title="__hrtimer_get_next\l_event" alt="" coords="237,209,370,250"/>
+<area shape="rect" id="node7" href="$hrtimer_8c.html#a1f3fd5038c549fc72c3fe711af34e8fd" title="__hrtimer_next_event_base" alt="" coords="437,245,620,272"/>
+</map>

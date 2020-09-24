@@ -1,0 +1,7 @@
+<map id="print_event_info" name="print_event_info">
+<area shape="rect" id="node2" href="$trace_8c.html#af76e80d926426577370a0471817d5aad" title="get_total_entries" alt="" coords="168,31,287,57"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#aa3d7dc1f6c900413c963e79995210d22" title="ring_buffer_entries_cpu" alt="" coords="337,5,494,32"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a3339116e7971f0d0712c42dab2b4a68c" title="ring_buffer_overrun_cpu" alt="" coords="335,56,496,83"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a8742e72ea2a90da3515bfe630a14fec8" title="rb_num_of_entries" alt="" coords="565,5,695,32"/>
+<area shape="rect" id="node5" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="544,56,716,83"/>
+</map>

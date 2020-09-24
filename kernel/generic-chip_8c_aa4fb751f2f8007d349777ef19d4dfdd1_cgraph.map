@@ -1,0 +1,6 @@
+<map id="__irq_alloc_domain_generic_chips" name="__irq_alloc_domain_generic_chips">
+<area shape="rect" id="node2" href="$generic-chip_8c.html#a1fb7abebc3e6e8fa1b6a9070c8ad25c6" title="irq_init_generic_chip" alt="" coords="203,5,343,32"/>
+<area shape="rect" id="node3" href="$generic-chip_8c.html#aa365aa929a8d03cfb53302b68c817d22" title="irq_readl_be" alt="" coords="227,56,319,83"/>
+<area shape="rect" id="node4" href="$generic-chip_8c.html#a82f707c9c14e31ab300d8fc9be685535" title="irq_writel_be" alt="" coords="225,107,320,133"/>
+<area shape="rect" id="node5" href="$generic-chip_8c.html#a1b64f10ef0d3fbaf9a46f07814287ae7" title="EXPORT_SYMBOL_GPL" alt="" coords="187,157,359,184"/>
+</map>

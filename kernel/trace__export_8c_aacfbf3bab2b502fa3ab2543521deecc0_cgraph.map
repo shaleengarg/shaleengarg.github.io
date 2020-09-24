@@ -1,0 +1,6 @@
+<map id="ftrace_event_is_function" name="ftrace_event_is_function">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a71cc1aa430951caf9800adea9474e5b4" title="event_function" alt="" coords="217,56,324,83"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a016404701c7dff22ac290a9636735059" title="__get_cpu_context" alt="" coords="372,5,504,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a8d54fa9817846cc0aa81d9b1505901ed" title="perf_ctx_lock" alt="" coords="388,56,488,83"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#a54640ea8c3e933143110953c87e23990" title="perf_ctx_unlock" alt="" coords="381,107,495,133"/>
+</map>

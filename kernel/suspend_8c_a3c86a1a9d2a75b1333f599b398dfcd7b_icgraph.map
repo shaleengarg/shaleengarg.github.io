@@ -1,0 +1,7 @@
+<map id="EXPORT_SYMBOL" name="EXPORT_SYMBOL">
+<area shape="rect" id="node2" href="$suspend_8c.html#a1d9d02cdc28997d94c29d1c9f0e7f9b2" title="pm_suspend" alt="" coords="192,56,288,83"/>
+<area shape="rect" id="node3" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="338,5,449,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="350,56,437,83"/>
+<area shape="rect" id="node5" href="$suspend__test_8c.html#ae9e9ccfc09bc9bfe4d93dd2d06e9667e" title="test_wakealarm" alt="" coords="336,107,451,133"/>
+<area shape="rect" id="node6" href="$suspend__test_8c.html#ad3bf8de9b6f0844cf2a3ef591c4e45e6" title="test_suspend" alt="" coords="499,107,599,133"/>
+</map>

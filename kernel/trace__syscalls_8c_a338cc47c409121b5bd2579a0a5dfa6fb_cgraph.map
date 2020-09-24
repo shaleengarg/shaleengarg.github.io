@@ -1,0 +1,10 @@
+<map id="print_syscall_enter" name="print_syscall_enter">
+<area shape="rect" id="node2" href="$trace__event__perf_8c.html#aa00221618f81a88eca234499f9dc334e" title="typeof" alt="" coords="223,5,281,32"/>
+<area shape="rect" id="node3" href="$trace__syscalls_8c.html#a9abece08997a0837cca04228442231c5" title="syscall_nr_to_meta" alt="" coords="185,56,319,83"/>
+<area shape="rect" id="node4" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="195,157,309,184"/>
+<area shape="rect" id="node7" href="$trace__seq_8c.html#adb64913da7b9a02254c4f51959c29cc9" title="trace_seq_putc" alt="" coords="197,107,307,133"/>
+<area shape="rect" id="node8" href="$trace_8c.html#acf77b21f4b60eee2f50bb252bd1e33b4" title="trace_handle_return" alt="" coords="184,208,320,235"/>
+<area shape="rect" id="node5" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="395,157,513,184"/>
+<area shape="rect" id="node6" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="368,107,540,133"/>
+<area shape="rect" id="node9" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="368,208,540,235"/>
+</map>

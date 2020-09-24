@@ -1,0 +1,6 @@
+<map id="arch_unregister_hw_breakpoint" name="arch_unregister_hw_breakpoint">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a345875acc95d6ee48ee19fd364d2cceb" title="release_bp_slot" alt="" coords="188,31,301,57"/>
+<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#a4c00cefb1d0a6200bfecab78e2afd7a1" title="register_perf_hw_breakpoint" alt="" coords="349,5,535,32"/>
+<area shape="rect" id="node5" href="$hw__breakpoint_8c.html#a2fcdb3a1c49ff1f6bfefc6110f6968ca" title="bp_perf_event_destroy" alt="" coords="365,56,519,83"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#af48985c8532676904dff3f53a1aa953a" title="hw_breakpoint_event_init" alt="" coords="583,31,752,57"/>
+</map>

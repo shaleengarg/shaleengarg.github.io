@@ -1,0 +1,5 @@
+<map id="audit_put_chunk" name="audit_put_chunk">
+<area shape="rect" id="node2" href="$audit__tree_8c.html#a078a5de5db1ed2da2d8a19c8fc3a1ada" title="free_chunk" alt="" coords="171,31,257,57"/>
+<area shape="rect" id="node3" href="$audit__tree_8c.html#a65b26341ca90de0ed04f38725796d291" title="put_tree" alt="" coords="305,5,375,32"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="315,56,365,83"/>
+</map>

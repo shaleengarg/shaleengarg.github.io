@@ -1,0 +1,4 @@
+<map id="audit_take_context" name="audit_take_context">
+<area shape="rect" id="node2" href="$auditsc_8c.html#a83c8f6d853a41d6c9b7fed88334ed2bb" title="__audit_free" alt="" coords="209,5,302,32"/>
+<area shape="rect" id="node3" href="$auditsc_8c.html#a83145b0cd88b361831e61abbf486d8e1" title="__audit_syscall_exit" alt="" coords="185,56,325,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="irq_thread_fn" name="irq_thread_fn">
+<area shape="rect" id="node2" href="$manage_8c.html#a41a6433b09a982f4768832eb6bac12e3" title="irq_finalize_oneshot" alt="" coords="151,122,288,149"/>
+<area shape="rect" id="node3" href="$manage_8c.html#a8b860c29fea4fa51d602bc99e4725476" title="irq_forced_secondary\l_handler" alt="" coords="346,5,493,47"/>
+<area shape="rect" id="node4" href="$internals_8h.html#accc9b8d349de5c1bc63cea5b414ad0bd" title="chip_bus_lock" alt="" coords="367,71,472,98"/>
+<area shape="rect" id="node5" href="$internals_8h.html#a79bd6b0f90f4e79ee0581b35f5813676" title="chip_bus_sync_unlock" alt="" coords="342,122,497,149"/>
+<area shape="rect" id="node6" href="$chip_8c.html#a7ac051538477c643f8cd1e1b1180949d" title="unmask_threaded_irq" alt="" coords="346,173,493,199"/>
+<area shape="rect" id="node10" href="$manage_8c.html#ae5326023a3e7cd9d75bf9f9695e8c954" title="irq_thread_check_affinity" alt="" coords="336,223,503,250"/>
+<area shape="rect" id="node7" href="$chip_8c.html#a9ddd32fc071c5d6197f48b2a15acb291" title="unmask_irq" alt="" coords="551,173,640,199"/>
+<area shape="rect" id="node8" href="$chip_8c.html#a1efc3244326f032fd68015c07d8b9527" title="irq_state_clr_masked" alt="" coords="688,173,835,199"/>
+<area shape="rect" id="node9" href="$internals_8h.html#aa9e387b4c059b69ac7afbe5b2f5375cb" title="irqd_clear" alt="" coords="883,173,961,199"/>
+</map>

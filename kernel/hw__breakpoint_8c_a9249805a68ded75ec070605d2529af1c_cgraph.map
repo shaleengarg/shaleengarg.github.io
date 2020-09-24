@@ -1,0 +1,7 @@
+<map id="toggle_bp_task_slot" name="toggle_bp_task_slot">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a11b1ff32a6e3ebf2821e690384beb04b" title="get_bp_info" alt="" coords="204,5,293,32"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#a26cbe2b06b8203d8453163a25e56e3ae" title="task_bp_pinned" alt="" coords="192,56,305,83"/>
+<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#a61dd0f0cf69f770bafa2ff2dd30d6ce5" title="LIST_HEAD" alt="" coords="381,5,476,32"/>
+<area shape="rect" id="node5" href="$hw__breakpoint_8c.html#aac77e2406e1a7e54b2d328a75ded8c41" title="find_slot_idx" alt="" coords="381,56,476,83"/>
+<area shape="rect" id="node6" href="$hw__breakpoint_8c.html#a3fbc23ab84492d7ea37aa966c28ddc4f" title="hw_breakpoint_weight" alt="" coords="353,107,504,133"/>
+</map>

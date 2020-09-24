@@ -1,0 +1,7 @@
+<map id="cpuset_mems_allowed" name="cpuset_mems_allowed">
+<area shape="rect" id="node2" href="$cpuset_8c.html#a385fedbee774e3fb7c9e12b71574f235" title="guarantee_online_mems" alt="" coords="208,5,371,32"/>
+<area shape="rect" id="node6" href="$cpuset_8c.html#a5ead0f037fba8738c9b02b303c93cf8f" title="task_cs" alt="" coords="424,56,492,83"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#a592c319a298dd0cc252eb20253d5d248" title="parent_cs" alt="" coords="419,5,497,32"/>
+<area shape="rect" id="node4" href="$cpuset_8c.html#ab974da181263929cb6dcb8728ab62b9b" title="css_cs" alt="" coords="586,56,650,83"/>
+<area shape="rect" id="node5" href="$cpuset_8c.html#a7c0183a326f265361c2584c2c16d1ba4" title="task_has_mempolicy" alt="" coords="545,5,691,32"/>
+</map>

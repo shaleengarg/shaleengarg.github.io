@@ -1,0 +1,12 @@
+<map id="audit_log_config_change" name="audit_log_config_change">
+<area shape="rect" id="node2" href="$audit_8c.html#a81f9c039b7f0004e5f096c58bc013b2c" title="audit_do_config_change" alt="" coords="219,132,381,159"/>
+<area shape="rect" id="node4" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="668,132,799,159"/>
+<area shape="rect" id="node3" href="$audit_8c.html#a50da1f0837698269a2a87276c222fe76" title="audit_set_rate_limit" alt="" coords="457,56,592,83"/>
+<area shape="rect" id="node7" href="$audit_8c.html#a5a4bd2543dfccdd3a966cda922e3ac6d" title="audit_set_backlog_limit" alt="" coords="445,107,604,133"/>
+<area shape="rect" id="node8" href="$audit_8c.html#af2ff91d868b1e098508a1916df696fd9" title="audit_set_backlog_wait_time" alt="" coords="429,157,620,184"/>
+<area shape="rect" id="node9" href="$audit_8c.html#a5856c336aa7c02ad7a600c76862cd15d" title="audit_set_enabled" alt="" coords="461,5,588,32"/>
+<area shape="rect" id="node11" href="$audit_8c.html#a68ac0678a835b31de0946760be4e4a08" title="audit_set_failure" alt="" coords="466,208,583,235"/>
+<area shape="rect" id="node5" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="847,132,945,159"/>
+<area shape="rect" id="node6" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="993,132,1092,159"/>
+<area shape="rect" id="node10" href="$audit_8c.html#a7a8c188756036e2923195749a2bab990" title="audit_enable" alt="" coords="686,5,781,32"/>
+</map>

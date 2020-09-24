@@ -1,0 +1,12 @@
+<map id="power/power.h" name="power/power.h">
+<area shape="rect" id="node2" href="$autosleep_8c.html" title="power/autosleep.c" alt="" coords="5,80,133,107"/>
+<area shape="rect" id="node3" href="$console_8c.html" title="power/console.c" alt="" coords="157,80,275,107"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html" title="power/hibernate.c" alt="" coords="299,80,424,107"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="power/main.c" alt="" coords="449,80,549,107"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html" title="power/snapshot.c" alt="" coords="573,80,699,107"/>
+<area shape="rect" id="node7" href="$suspend_8c.html" title="power/suspend.c" alt="" coords="723,80,845,107"/>
+<area shape="rect" id="node8" href="$suspend__test_8c.html" title="power/suspend_test.c" alt="" coords="869,80,1019,107"/>
+<area shape="rect" id="node9" href="$swap_8c.html" title="power/swap.c" alt="" coords="1043,80,1146,107"/>
+<area shape="rect" id="node10" href="$power_2user_8c.html" title="power/user.c" alt="" coords="1170,80,1267,107"/>
+<area shape="rect" id="node11" href="$wakelock_8c.html" title="power/wakelock.c" alt="" coords="1291,80,1418,107"/>
+</map>

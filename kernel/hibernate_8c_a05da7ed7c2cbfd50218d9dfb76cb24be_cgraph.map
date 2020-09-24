@@ -1,0 +1,18 @@
+<map id="create_image" name="create_image">
+<area shape="rect" id="node2" href="$hibernate_8c.html#ad9b2d3edfd9b1a3af5ab7cfd7a7a41eb" title="platform_pre_snapshot" alt="" coords="153,5,308,32"/>
+<area shape="rect" id="node3" href="$hibernate_8c.html#a5751a50244fda42473dba47bf92c3aca" title="hibernation_test" alt="" coords="173,56,288,83"/>
+<area shape="rect" id="node4" href="$power_8h.html#ab5b5cc887c27cd2e7868c2722c5f9479" title="clear_free_pages" alt="" coords="170,107,291,133"/>
+<area shape="rect" id="node16" href="$hibernate_8c.html#a18339af2901a1ab6a09be437cdb3c6c9" title="platform_leave" alt="" coords="177,157,284,184"/>
+<area shape="rect" id="node17" href="$hibernate_8c.html#afe0ad95793c46d57adc32b936a742d32" title="platform_finish" alt="" coords="177,208,284,235"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#a89d5facfe927a893595e8aed32b5de0e" title="memory_bm_position\l_reset" alt="" coords="358,70,505,111"/>
+<area shape="rect" id="node14" href="$snapshot_8c.html#afd7fe78331e8d756b8e15acd74d9ee07" title="memory_bm_next_pfn" alt="" coords="356,136,507,163"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html#a5a2ab113ccbdfc6d07abd87fd804fcf3" title="memory_bm_free" alt="" coords="555,77,677,104"/>
+<area shape="rect" id="node7" href="$snapshot_8c.html#aadb3b2e23cd6f5892d817a16878f65e0" title="free_zone_bm_rtree" alt="" coords="725,52,863,79"/>
+<area shape="rect" id="node13" href="$snapshot_8c.html#a4b1098658e82568e341ec3af808641f2" title="free_list_of_pages" alt="" coords="730,103,858,129"/>
+<area shape="rect" id="node8" href="$snapshot_8c.html#afc279d01b4afdc8a0a0853efa05ef854" title="free_image_page" alt="" coords="911,77,1032,104"/>
+<area shape="rect" id="node9" href="$snapshot_8c.html#a65f26f5c589f819c16d56d48bf5714e2" title="swsusp_unset_page_forbidden" alt="" coords="1080,52,1281,79"/>
+<area shape="rect" id="node12" href="$snapshot_8c.html#acaba0587ad7f460bd01d46a0182e0e13" title="swsusp_unset_page_free" alt="" coords="1095,103,1266,129"/>
+<area shape="rect" id="node10" href="$snapshot_8c.html#ac89ac94510062d5805ff434732abc2cb" title="memory_bm_clear_bit" alt="" coords="1329,77,1480,104"/>
+<area shape="rect" id="node11" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="1528,77,1671,104"/>
+<area shape="rect" id="node15" href="$snapshot_8c.html#a73a9834c19b8d5aca4cbe25f1c262508" title="rtree_next_node" alt="" coords="559,136,673,163"/>
+</map>

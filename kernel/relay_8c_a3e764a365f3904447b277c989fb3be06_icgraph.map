@@ -1,0 +1,7 @@
+<map id="relay_subbufs_consumed" name="relay_subbufs_consumed">
+<area shape="rect" id="node2" href="$relay_8c.html#a3d997febd6d6d9ebfa89ddb61f91db02" title="relay_file_read_consume" alt="" coords="224,56,391,83"/>
+<area shape="rect" id="node5" href="$relay_8c.html#af5327d62aa0a02ab107405644f7f09ae" title="relay_consume_bytes" alt="" coords="233,107,382,133"/>
+<area shape="rect" id="node3" href="$relay_8c.html#a4fb3cab39fe230e6943130c59fa96c3d" title="relay_file_read_avail" alt="" coords="446,5,586,32"/>
+<area shape="rect" id="node4" href="$relay_8c.html#aeeff109710582a91981ef43d898b6a57" title="relay_file_read" alt="" coords="641,31,748,57"/>
+<area shape="rect" id="node6" href="$relay_8c.html#a949958cdd5b1f7f6168c94606c3e47e4" title="relay_pipe_buf_release" alt="" coords="439,107,593,133"/>
+</map>

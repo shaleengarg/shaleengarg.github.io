@@ -1,0 +1,24 @@
+<map id="bpf_exec_tx_verdict" name="bpf_exec_tx_verdict">
+<area shape="rect" id="node2" href="$sockmap_8c.html#adff7533a7d1960b9863e91d43e78060f" title="smap_do_tx_msg" alt="" coords="203,56,328,83"/>
+<area shape="rect" id="node5" href="$sockmap_8c.html#a2c251f936612f51c112cadcb001e03b5" title="bpf_tcp_push" alt="" coords="438,157,538,184"/>
+<area shape="rect" id="node6" href="$sockmap_8c.html#afd4138c9a4363e18c6c8dab543ab0350" title="free_start_sg" alt="" coords="661,157,760,184"/>
+<area shape="rect" id="node8" href="$sockmap_8c.html#abf276d5cde2c94375b8cceb8165a12a3" title="apply_bytes_dec" alt="" coords="205,411,325,437"/>
+<area shape="rect" id="node9" href="$sockmap_8c.html#a075bbf4a740bda6293f5d6050c3d5649" title="return_mem_sg" alt="" coords="209,461,321,488"/>
+<area shape="rect" id="node10" href="$sockmap_8c.html#a5895e317d6bcf8dd0dc141403fef44b8" title="bpf_tcp_sendmsg_do\l_redirect" alt="" coords="192,243,339,285"/>
+<area shape="rect" id="node13" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="685,259,736,285"/>
+<area shape="rect" id="node22" href="$sockmap_8c.html#ae5ebe79f4e187bdbbb03075d6d0091ed" title="free_bytes_sg" alt="" coords="436,411,540,437"/>
+<area shape="rect" id="node23" href="$sockmap_8c.html#a2e96cee1f116208c102a63d20fe1e5da" title="bpf_md_init" alt="" coords="221,512,310,539"/>
+<area shape="rect" id="node3" href="$sockmap_8c.html#ada621ff132fcd782d76581048eb0c7c5" title="bpf_compute_data_pointers_sg" alt="" coords="387,56,589,83"/>
+<area shape="rect" id="node4" href="$sockmap_8c.html#a29d7fe87f3c289581126f4e62cca2dd4" title="bpf_map_msg_verdict" alt="" coords="413,5,563,32"/>
+<area shape="rect" id="node7" href="$sockmap_8c.html#ad581582836eb9d16b89f8f6f23a3ef5b" title="free_sg" alt="" coords="885,157,951,184"/>
+<area shape="rect" id="node11" href="$sockmap_8c.html#ae6a1f0b940695319e384ac5a72c1966c" title="smap_psock_sk" alt="" coords="429,208,547,235"/>
+<area shape="rect" id="node12" href="$sockmap_8c.html#a6633305919726f7008880ff62725d535" title="bpf_tcp_ingress" alt="" coords="431,259,545,285"/>
+<area shape="rect" id="node14" href="$sockmap_8c.html#acd9bcbe63d7aab8ac647aaf4662c9085" title="smap_release_sock" alt="" coords="419,360,557,387"/>
+<area shape="rect" id="node15" href="$sockmap_8c.html#aa77943c623ec8fcf1626daa4345aae88" title="smap_stop_sock" alt="" coords="650,411,771,437"/>
+<area shape="rect" id="node16" href="$tiny_8c.html#a134315452e4d3d70420ecbe6e1ca4563" title="call_rcu_sched" alt="" coords="656,309,765,336"/>
+<area shape="rect" id="node21" href="$sockmap_8c.html#a26cae22018568980e66258fe8bfef538" title="smap_destroy_psock" alt="" coords="637,360,784,387"/>
+<area shape="rect" id="node17" href="$tiny_8c.html#a3f3a7fdc422d607bf946dcc18bcb36f1" title="__call_rcu" alt="" coords="877,335,959,361"/>
+<area shape="rect" id="node20" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="832,284,1004,311"/>
+<area shape="rect" id="node18" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="1052,309,1211,336"/>
+<area shape="rect" id="node19" href="$rcu_8h.html#a9d4675b6ba4bd98d586f92991cf4964b" title="resched_cpu" alt="" coords="1083,360,1179,387"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="swsusp_page_is_forbidden" name="swsusp_page_is_forbidden">
+<area shape="rect" id="node2" href="$snapshot_8c.html#a88a0d64a502d21a991637a3c6db7192c" title="snapshot_additional\l_pages" alt="" coords="407,5,544,47"/>
+<area shape="rect" id="node10" href="$snapshot_8c.html#a62c949ee98d00ee2b08804b41b55e346" title="saveable_page" alt="" coords="239,191,349,218"/>
+<area shape="rect" id="node17" href="$snapshot_8c.html#a7ed423babb09182e98df78cf3f5fcbaa" title="unpack_orig_pfns" alt="" coords="232,242,356,269"/>
+<area shape="rect" id="node26" href="$snapshot_8c.html#ac8d7850ecb84d6200fb76b78dd24879f" title="get_buffer" alt="" coords="254,293,334,319"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a79c8fbac521130f812521d2592df76a9" title="hibernate_preallocate\l_memory" alt="" coords="809,53,955,95"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#a4a5f6e9ba06b24c86f2d8c7a414febf5" title="hibernation_snapshot" alt="" coords="1011,98,1157,125"/>
+<area shape="rect" id="node5" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="1237,150,1312,177"/>
+<area shape="rect" id="node9" href="$power_2user_8c.html#aa2cbf7ba962ecd107322b59292a2ae1d" title="snapshot_ioctl" alt="" coords="1221,98,1328,125"/>
+<area shape="rect" id="node6" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="1402,99,1513,126"/>
+<area shape="rect" id="node7" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="1414,150,1501,177"/>
+<area shape="rect" id="node8" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="1384,201,1531,227"/>
+<area shape="rect" id="node11" href="$snapshot_8c.html#a13a08b99842121458b825ff54675eb51" title="count_data_pages" alt="" coords="411,118,539,145"/>
+<area shape="rect" id="node14" href="$snapshot_8c.html#afead0752f1fc53da741b4fdc40a0227e" title="safe_copy_page" alt="" coords="417,191,534,218"/>
+<area shape="rect" id="node12" href="$snapshot_8c.html#aafe86d970a48a0efd80c75329faa4eea" title="free_unnecessary_pages" alt="" coords="595,90,761,117"/>
+<area shape="rect" id="node13" href="$snapshot_8c.html#a7173e764f0b871167e9cadb27c67259b" title="swsusp_save" alt="" coords="1033,163,1135,190"/>
+<area shape="rect" id="node15" href="$snapshot_8c.html#aba8e715d8e6345f61cf38b39f3a5704a" title="copy_data_page" alt="" coords="619,191,737,218"/>
+<area shape="rect" id="node16" href="$snapshot_8c.html#a4f9d754a1fb805ec40eca4dae98512e4" title="copy_data_pages" alt="" coords="820,191,944,218"/>
+<area shape="rect" id="node18" href="$snapshot_8c.html#ad1a0c7e1a915138a60c64c6602ab197e" title="snapshot_write_next" alt="" coords="404,293,547,319"/>
+<area shape="rect" id="node19" href="$swap_8c.html#a3b9ab69adfc2b5179eb3aac89a1f1242" title="load_image" alt="" coords="634,242,722,269"/>
+<area shape="rect" id="node20" href="$swap_8c.html#a306da9222bd2af1c4794de78bf56a86f" title="swsusp_read" alt="" coords="833,257,931,283"/>
+<area shape="rect" id="node24" href="$swap_8c.html#ad6346d9056ff3c5f356713d8c4dcf89e" title="load_image_lzo" alt="" coords="622,343,734,370"/>
+<area shape="rect" id="node25" href="$power_2user_8c.html#a7d24e5c04b5bf3957ad5c9bdb5f110c1" title="snapshot_write" alt="" coords="623,394,733,421"/>
+<area shape="rect" id="node21" href="$hibernate_8c.html#a722f301afe3b6b84462e22b9e6c18a09" title="load_image_and_restore" alt="" coords="1003,253,1165,279"/>
+<area shape="rect" id="node22" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="1213,253,1336,279"/>
+<area shape="rect" id="node23" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="1407,253,1508,279"/>
+</map>

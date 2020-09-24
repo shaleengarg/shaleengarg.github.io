@@ -1,0 +1,15 @@
+<map id="klp_post_patch_callback" name="klp_post_patch_callback">
+<area shape="rect" id="node2" href="$livepatch_2core_8c.html#a791a2a3f4a5720428cad8ff7b73d6221" title="klp_module_coming" alt="" coords="229,5,367,32"/>
+<area shape="rect" id="node6" href="$transition_8c.html#a29034663b3734a48211634afed32aa23" title="klp_complete_transition" alt="" coords="219,56,377,83"/>
+<area shape="rect" id="node3" href="$module_8c.html#a0bb8529c27e0a03ab783f505ef4a3b99" title="prepare_coming_module" alt="" coords="435,5,597,32"/>
+<area shape="rect" id="node4" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="683,5,778,32"/>
+<area shape="rect" id="node5" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="855,5,1001,32"/>
+<area shape="rect" id="node7" href="$transition_8h.html#af2096810759ff8d350bdc66cb32ed8f1" title="klp_cancel_transition" alt="" coords="444,56,588,83"/>
+<area shape="rect" id="node11" href="$transition_8h.html#a85f110ba9a9179e3f24a0027df4f8272" title="klp_try_complete_transition" alt="" coords="425,107,607,133"/>
+<area shape="rect" id="node8" href="$livepatch_2core_8c.html#a89fefc97aca0568f384baae43db23f55" title="__klp_enable_patch" alt="" coords="662,56,799,83"/>
+<area shape="rect" id="node9" href="$livepatch_2core_8c.html#a6e4dd37156b76670c171c2997c39589e" title="klp_enable_patch" alt="" coords="867,56,989,83"/>
+<area shape="rect" id="node10" href="$livepatch_2core_8c.html#ab708918d65fd21b2d7c8274f91b64c74" title="enabled_store" alt="" coords="877,107,979,133"/>
+<area shape="rect" id="node12" href="$livepatch_2core_8c.html#afa4ba4374cd55e2a6f5a0b417cab253d" title="__klp_disable_patch" alt="" coords="661,107,801,133"/>
+<area shape="rect" id="node14" href="$transition_8c.html#ab325a49c08fb2978a145ded9d61fe712" title="klp_transition_work_fn" alt="" coords="655,157,807,184"/>
+<area shape="rect" id="node13" href="$livepatch_2core_8c.html#a2d6c762fd7f186cf5539447a6e2f9224" title="klp_disable_patch" alt="" coords="865,157,991,184"/>
+</map>

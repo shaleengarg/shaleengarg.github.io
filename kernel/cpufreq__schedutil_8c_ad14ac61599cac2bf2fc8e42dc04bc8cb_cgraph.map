@@ -1,0 +1,21 @@
+<map id="sugov_start" name="sugov_start">
+<area shape="rect" id="node2" href="$cpufreq_8c.html#a32bb5b9e9e184ae0aa8ada0826b6588d" title="cpufreq_add_update\l_util_hook" alt="" coords="149,45,288,86"/>
+<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#aa8ae48ed24dab8c3fdc4aca255e98c3f" title="sugov_update_shared" alt="" coords="144,157,293,184"/>
+<area shape="rect" id="node20" href="$cpufreq__schedutil_8c.html#af6fea65730a59c2a290282c480aede7b" title="sugov_update_single" alt="" coords="147,284,291,311"/>
+<area shape="rect" id="node3" href="$cpufreq_8c.html#ae07058c439a0a58a45d3e9ca04e86839" title="EXPORT_SYMBOL_GPL" alt="" coords="344,5,516,32"/>
+<area shape="rect" id="node5" href="$cpufreq__schedutil_8c.html#a2508c4b276b3f18ac578982fb888f8a2" title="sugov_set_iowait_boost" alt="" coords="349,208,511,235"/>
+<area shape="rect" id="node6" href="$cpufreq__schedutil_8c.html#aa47ccbd0774541923a5e305809c42c9f" title="ignore_dl_rate_limit" alt="" coords="363,259,497,285"/>
+<area shape="rect" id="node7" href="$cpufreq__schedutil_8c.html#aa685bbfb110a100faabfff0117dd9c4f" title="sugov_should_update_freq" alt="" coords="341,157,519,184"/>
+<area shape="rect" id="node8" href="$cpufreq__schedutil_8c.html#a3d8a00256c5d9d6d7a36fc49f3af4ac0" title="sugov_next_freq_shared" alt="" coords="348,107,512,133"/>
+<area shape="rect" id="node15" href="$cpufreq__schedutil_8c.html#a14777591a6594be6c8523cc3a75a3a3f" title="sugov_update_commit" alt="" coords="353,56,507,83"/>
+<area shape="rect" id="node9" href="$cpufreq__schedutil_8c.html#a48101302c272804a8d33d3e98863a251" title="sugov_get_util" alt="" coords="586,177,693,204"/>
+<area shape="rect" id="node11" href="$cpufreq__schedutil_8c.html#a72aff09379e9bb9527493194e5732206" title="sugov_aggregate_util" alt="" coords="567,335,712,361"/>
+<area shape="rect" id="node12" href="$cpufreq__schedutil_8c.html#a024467e84024be5164c23028479016d5" title="sugov_iowait_boost" alt="" coords="571,461,708,488"/>
+<area shape="rect" id="node14" href="$cpufreq__schedutil_8c.html#a2fd9e8ae055adb929eb7a5e05da4a715" title="get_next_freq" alt="" coords="589,247,690,273"/>
+<area shape="rect" id="node10" href="$sched_8h.html#af848ce48d81d2d5b1fe6f350612675db" title="arch_scale_cpu_capacity" alt="" coords="761,177,931,204"/>
+<area shape="rect" id="node13" href="$cpufreq__schedutil_8c.html#a9b1fafcc808a76a481357b1c95594637" title="sugov_cpu_is_busy" alt="" coords="777,487,915,513"/>
+<area shape="rect" id="node16" href="$irq__work_8c.html#a97c61c328b0408e4957486ac57d1a03b" title="irq_work_queue" alt="" coords="583,56,696,83"/>
+<area shape="rect" id="node17" href="$irq__work_8c.html#a15ad44b1e004fbd3998be557220fac4e" title="irq_work_claim" alt="" coords="791,107,901,133"/>
+<area shape="rect" id="node18" href="$irq__work_8c.html#afdd50f70c4dae7339fd991caae188573" title="arch_irq_work_raise" alt="" coords="777,5,915,32"/>
+<area shape="rect" id="node19" href="$irq__work_8c.html#acb894c8332c1771a60b1922a5d2b47a2" title="EXPORT_SYMBOL_GPL" alt="" coords="760,56,932,83"/>
+</map>

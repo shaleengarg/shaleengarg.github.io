@@ -1,0 +1,5 @@
+<map id="audit_log_common_recv_msg" name="audit_log_common_recv_msg">
+<area shape="rect" id="node2" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="248,5,379,32"/>
+<area shape="rect" id="node3" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="427,5,525,32"/>
+<area shape="rect" id="node4" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="573,5,672,32"/>
+</map>

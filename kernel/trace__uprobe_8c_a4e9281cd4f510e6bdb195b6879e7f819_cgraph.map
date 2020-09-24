@@ -1,0 +1,8 @@
+<map id="free_trace_uprobe" name="free_trace_uprobe">
+<area shape="rect" id="node2" href="$trace__probe_8c.html#a3c6692233dc9a6ccd21fe90dcbf2c05c" title="traceprobe_free_probe_arg" alt="" coords="180,136,356,163"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="992,93,1043,120"/>
+<area shape="rect" id="node3" href="$trace__probe_8c.html#a77689f53dd99f0a104fafc83c9915af2" title="free_bitfield_fetch\l_param" alt="" coords="404,187,529,229"/>
+<area shape="rect" id="node4" href="$trace__probe_8c.html#a37559e55eec2a4065fe3eb243ffb6b09" title="free_deref_fetch_param" alt="" coords="577,144,736,171"/>
+<area shape="rect" id="node5" href="$trace__kprobe_8c.html#a710fc09d758bacc77b220994e7256436" title="free_symbol_cache" alt="" coords="797,195,931,221"/>
+<area shape="rect" id="node7" href="$trace__probe_8c.html#abf487e5fa7aa43fb75cea9ca1a96c435" title="NOKPROBE_SYMBOL" alt="" coords="784,144,944,171"/>
+</map>

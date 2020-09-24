@@ -1,0 +1,10 @@
+<map id="__walk_iomem_res_desc" name="__walk_iomem_res_desc">
+<area shape="rect" id="node2" href="$resource_8c.html#a8d23824c3662d556c2dc1ebaaae3b561" title="walk_iomem_res_desc" alt="" coords="223,5,377,32"/>
+<area shape="rect" id="node8" href="$resource_8c.html#af25b275f2ee1f1e7801de101b7031492" title="walk_system_ram_res" alt="" coords="223,56,377,83"/>
+<area shape="rect" id="node9" href="$resource_8c.html#a06d37620d8110e7d551abe3a497e6e5d" title="walk_mem_res" alt="" coords="245,107,355,133"/>
+<area shape="rect" id="node3" href="$kexec__file_8c.html#a998813afb69fc631ba5f49c9c0aa1882" title="arch_kexec_walk_mem" alt="" coords="425,31,584,57"/>
+<area shape="rect" id="node4" href="$kexec__file_8c.html#ab3f8594b14d3d4cac22df76027c5b30a" title="kexec_locate_mem_hole" alt="" coords="632,31,799,57"/>
+<area shape="rect" id="node5" href="$kexec__file_8c.html#a6bb3c971f7ff0ea3f2b660ac26753ab6" title="kexec_add_buffer" alt="" coords="847,31,972,57"/>
+<area shape="rect" id="node6" href="$kexec__file_8c.html#a6d620e41ca9f482c68524286d6c16127" title="kexec_calculate_store\l_digests" alt="" coords="1020,23,1172,65"/>
+<area shape="rect" id="node7" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="1220,31,1367,57"/>
+</map>

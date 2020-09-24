@@ -1,0 +1,4 @@
+<map id="cpufreq_remove_update_util_hook" name="cpufreq_remove_update_util_hook">
+<area shape="rect" id="node2" href="$cpufreq__schedutil_8c.html#a264833f93b404186f49c103f0ea099e7" title="sugov_stop" alt="" coords="215,13,304,39"/>
+<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="352,13,447,39"/>
+</map>

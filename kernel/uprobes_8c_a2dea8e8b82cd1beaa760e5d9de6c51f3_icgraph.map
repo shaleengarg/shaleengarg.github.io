@@ -1,0 +1,24 @@
+<map id="copy_insn" name="copy_insn">
+<area shape="rect" id="node2" href="$uprobes_8c.html#ad26a4964dbb68587ff0eeb0356159af4" title="prepare_uprobe" alt="" coords="135,81,245,108"/>
+<area shape="rect" id="node3" href="$uprobes_8c.html#aac90623eac5e68bbe2ce0c0c75e990c7" title="install_breakpoint" alt="" coords="293,81,416,108"/>
+<area shape="rect" id="node4" href="$uprobes_8c.html#ae7e0217d7f74d854065061fe174e413b" title="register_for_each_vma" alt="" coords="464,56,619,83"/>
+<area shape="rect" id="node23" href="$uprobes_8c.html#aa049f5487ededf85c72e2969e8406a9d" title="uprobe_mmap" alt="" coords="489,107,593,133"/>
+<area shape="rect" id="node5" href="$uprobes_8c.html#a8acfa4fd62014615017ff2d4f3980e81" title="__uprobe_register" alt="" coords="673,5,799,32"/>
+<area shape="rect" id="node18" href="$uprobes_8c.html#a81b04ebf600cd0875c5073dfc6bf1c96" title="__uprobe_unregister" alt="" coords="667,56,805,83"/>
+<area shape="rect" id="node21" href="$uprobes_8c.html#a4478594997f02a7be18f9f1dd4cdd108" title="uprobe_apply" alt="" coords="867,107,965,133"/>
+<area shape="rect" id="node6" href="$uprobes_8c.html#a223b762b29cfab51b3aabcd3b8d748ef" title="uprobe_register" alt="" coords="861,5,971,32"/>
+<area shape="rect" id="node7" href="$trace__uprobe_8c.html#a392872ba6c1d764d0eff3a6332b9231b" title="probe_event_enable" alt="" coords="1028,5,1167,32"/>
+<area shape="rect" id="node8" href="$trace__uprobe_8c.html#ad4d258ca6688d7a63bf1e9c0a3840f75" title="trace_uprobe_register" alt="" coords="1216,48,1363,75"/>
+<area shape="rect" id="node9" href="$trace__uprobe_8c.html#aa3687ba2368288dcdd10c0c329621d12" title="init_trace_event_call" alt="" coords="1411,77,1552,104"/>
+<area shape="rect" id="node10" href="$trace__uprobe_8c.html#a46de2d78f5b83c0a18b33f94891f4fe7" title="register_uprobe_event" alt="" coords="1817,52,1968,79"/>
+<area shape="rect" id="node14" href="$trace__uprobe_8c.html#a2abd11922b7fa543ce1646c1fb2e73e2" title="unregister_uprobe_event" alt="" coords="1600,103,1764,129"/>
+<area shape="rect" id="node11" href="$trace__uprobe_8c.html#accdab93c824cac0be5d8b0bdcb442d8e" title="register_trace_uprobe" alt="" coords="2021,52,2168,79"/>
+<area shape="rect" id="node12" href="$trace__uprobe_8c.html#a9396ee67b5f3b017d2412803a8aee9f3" title="create_trace_uprobe" alt="" coords="2216,77,2356,104"/>
+<area shape="rect" id="node13" href="$trace__uprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="2404,77,2500,104"/>
+<area shape="rect" id="node15" href="$trace__uprobe_8c.html#aec4f6878535c62064a0f6e1cde652a01" title="unregister_trace_uprobe" alt="" coords="1812,103,1973,129"/>
+<area shape="rect" id="node16" href="$trace__uprobe_8c.html#a10e05a9109cd628a88b476e1665ef8bb" title="cleanup_all_probes" alt="" coords="2028,153,2161,180"/>
+<area shape="rect" id="node17" href="$trace__uprobe_8c.html#a0b803b054f33ee5788b32468f61ca42f" title="probes_open" alt="" coords="2238,153,2334,180"/>
+<area shape="rect" id="node19" href="$uprobes_8c.html#a7abd2e42daf9e3f714531b5aa384e31d" title="uprobe_unregister" alt="" coords="853,56,979,83"/>
+<area shape="rect" id="node20" href="$trace__uprobe_8c.html#a62eff584ed0933faaadb7de865d77a68" title="probe_event_disable" alt="" coords="1027,56,1168,83"/>
+<area shape="rect" id="node22" href="$trace__uprobe_8c.html#aebfd1bc8dbe25541d7552ce00aa24dbf" title="uprobe_event_define\l_fields" alt="" coords="1218,99,1361,141"/>
+</map>

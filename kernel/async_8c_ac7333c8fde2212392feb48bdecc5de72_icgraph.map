@@ -1,0 +1,8 @@
+<map id="async_synchronize_full" name="async_synchronize_full">
+<area shape="rect" id="node2" href="$autoprobe_8c.html#a99d55f75e7de222954dc62d7e076afad" title="probe_irq_on" alt="" coords="225,5,321,32"/>
+<area shape="rect" id="node3" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="219,56,328,83"/>
+<area shape="rect" id="node6" href="$hibernate_8c.html#a672c29f9ceab89059f5521e84b59a9d9" title="software_resume" alt="" coords="212,107,335,133"/>
+<area shape="rect" id="node4" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="386,56,481,83"/>
+<area shape="rect" id="node5" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="532,56,679,83"/>
+<area shape="rect" id="node7" href="$hibernate_8c.html#af398cb0ccb6305a1ef3ec4f3d7eaa206" title="resume_store" alt="" coords="383,107,484,133"/>
+</map>

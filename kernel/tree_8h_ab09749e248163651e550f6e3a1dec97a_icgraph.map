@@ -1,0 +1,7 @@
+<map id="rcu_nocb_cpu_needs_barrier" name="rcu_nocb_cpu_needs_barrier">
+<area shape="rect" id="node2" href="$tree_8c.html#a8c1db57030008817a5faa41dc609581e" title="_rcu_barrier" alt="" coords="199,56,289,83"/>
+<area shape="rect" id="node3" href="$tree_8c.html#af33d144e8b085271ed31bda7e9f47fb4" title="rcu_barrier_bh" alt="" coords="360,5,464,32"/>
+<area shape="rect" id="node4" href="$tree_8c.html#ad0895f3ce8d74ef2de3a8bafa2ed1baa" title="rcu_barrier_sched" alt="" coords="349,56,475,83"/>
+<area shape="rect" id="node5" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="337,107,487,149"/>
+<area shape="rect" id="node6" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="535,115,684,141"/>
+</map>

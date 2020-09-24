@@ -1,0 +1,6 @@
+<map id="get_kprobe" name="get_kprobe">
+<area shape="rect" id="node2" href="$kprobes_8c.html#a1074708f4c2a6f537f4c5a626a5bf315" title="NOKPROBE_SYMBOL" alt="" coords="309,5,469,32"/>
+<area shape="rect" id="node3" href="$kprobes_8c.html#a2b915a40ee56179f98198b8c3c810d98" title="aggr_pre_handler" alt="" coords="140,56,261,83"/>
+<area shape="rect" id="node4" href="$kprobes_8c.html#a98397bf7ecb003829aa98af3f2314f2d" title="set_kprobe_instance" alt="" coords="318,56,461,83"/>
+<area shape="rect" id="node5" href="$kprobes_8c.html#a33d10db68fb160a0ea758a37f1b06ef3" title="reset_kprobe_instance" alt="" coords="313,107,466,133"/>
+</map>

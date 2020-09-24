@@ -1,0 +1,6 @@
+<map id="timekeeping_warp_clock" name="timekeeping_warp_clock">
+<area shape="rect" id="node2" href="$time_8c.html#ac9e9c7142ed984baf3bde8e369112934" title="do_sys_settimeofday64" alt="" coords="219,56,379,83"/>
+<area shape="rect" id="node3" href="$posix-stubs_8c.html#aa7bf41e54c7cefb445636521e74577fa" title="SYSCALL_DEFINE2" alt="" coords="438,5,585,32"/>
+<area shape="rect" id="node4" href="$posix-stubs_8c.html#a332f0e065b691c8807fe30e753f7bb97" title="SYSCALL_DEFINE4" alt="" coords="438,56,585,83"/>
+<area shape="rect" id="node5" href="$posix-timers_8c.html#a05f8d6e33e923d2c3357cd82a4e5ed68" title="posix_clock_realtime_set" alt="" coords="427,107,596,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="clockevents_config" name="clockevents_config">
+<area shape="rect" id="node2" href="$clockevents_8c.html#a80310c1aad7057bdf67052607ecd5e34" title="clockevents_config\l_and_register" alt="" coords="211,5,346,47"/>
+<area shape="rect" id="node3" href="$clockevents_8c.html#abfbbdb981d3fb493b3d0ccb653b8fdb6" title="__clockevents_update_freq" alt="" coords="188,71,369,98"/>
+<area shape="rect" id="node4" href="$clockevents_8c.html#ad4889c32bdcaba07503b5575d43ec5ad" title="clockevents_update_freq" alt="" coords="648,71,815,98"/>
+<area shape="rect" id="node5" href="$tick-broadcast_8c.html#afc6154988f5e78f7c11f6fe8cd146d0d" title="tick_broadcast_update_freq" alt="" coords="417,97,600,123"/>
+</map>

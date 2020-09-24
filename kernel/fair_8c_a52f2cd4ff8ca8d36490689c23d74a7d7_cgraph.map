@@ -1,0 +1,21 @@
+<map id="pick_next_entity" name="pick_next_entity">
+<area shape="rect" id="node2" href="$fair_8c.html#a1bd0e4ff88b816235048768a64e884ac" title="__pick_first_entity" alt="" coords="187,5,315,32"/>
+<area shape="rect" id="node3" href="$fair_8c.html#a91c1ff4b67dc4d000acac7a62733d088" title="entity_before" alt="" coords="202,56,299,83"/>
+<area shape="rect" id="node4" href="$fair_8c.html#aa8cef84d639d20de5a4f213d0f398f58" title="__pick_next_entity" alt="" coords="185,107,316,133"/>
+<area shape="rect" id="node8" href="$fair_8c.html#ac768a1ff3948b7848f18dae558e937ee" title="wakeup_preempt_entity" alt="" coords="171,157,331,184"/>
+<area shape="rect" id="node13" href="$fair_8c.html#abe5e185ac5381b4da91af84fa443b2bd" title="clear_buddies" alt="" coords="199,233,302,260"/>
+<area shape="rect" id="node20" href="$fair_8c.html#ad9d20219271cb31eaeddeae63f317493" title="check_cfs_rq_runtime" alt="" coords="175,284,326,311"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a00678fdafcc783d09a06ffa868854ba6" title="__pick_last_entity" alt="" coords="399,5,526,32"/>
+<area shape="rect" id="node6" href="$sysctl_8c.html#a821c3155467894406355f344d4a83544" title="proc_dointvec_minmax" alt="" coords="385,56,541,83"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a23b8877f4cc8bbe8d52083fac1f54802" title="get_update_sysctl_factor" alt="" coords="379,107,547,133"/>
+<area shape="rect" id="node9" href="$fair_8c.html#a10747c001ab6fc117c176aab01db4b48" title="wakeup_gran" alt="" coords="413,157,512,184"/>
+<area shape="rect" id="node10" href="$fair_8c.html#a010234fd57593c9b85014301d4458d59" title="calc_delta_fair" alt="" coords="595,157,701,184"/>
+<area shape="rect" id="node11" href="$fair_8c.html#a7417abbb795b83bc76688170426ce381" title="__calc_delta" alt="" coords="749,157,844,184"/>
+<area shape="rect" id="node12" href="$fair_8c.html#a8ed8d2846e1408bee375e3dba4a9215a" title="__update_inv_weight" alt="" coords="892,157,1036,184"/>
+<area shape="rect" id="node14" href="$fair_8c.html#aec876a2c455c1b53b74d3f13cdddc5df" title="__clear_buddies_last" alt="" coords="391,208,535,235"/>
+<area shape="rect" id="node17" href="$fair_8c.html#a3207087079d024237cc4af8416dda2ae" title="__clear_buddies_next" alt="" coords="389,259,537,285"/>
+<area shape="rect" id="node18" href="$fair_8c.html#a42b6aaeec5f5311d2f9ba1fc38702976" title="__clear_buddies_skip" alt="" coords="389,309,536,336"/>
+<area shape="rect" id="node19" href="$fair_8c.html#ad5fdd7c6973b55aa29b067e373e05076" title="return_cfs_rq_runtime" alt="" coords="389,360,537,387"/>
+<area shape="rect" id="node15" href="$fair_8c.html#a3acf6f07f72d7c2d6cfb7d257c5f6fc8" title="cfs_rq_of" alt="" coords="610,259,686,285"/>
+<area shape="rect" id="node16" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="764,259,829,285"/>
+</map>

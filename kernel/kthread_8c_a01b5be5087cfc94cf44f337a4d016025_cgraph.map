@@ -1,0 +1,8 @@
+<map id="kthread_create_on_cpu" name="kthread_create_on_cpu">
+<area shape="rect" id="node2" href="$kthread_8c.html#ade9b19683b761a7ecf38de40cf88f254" title="kthread_create_on_node" alt="" coords="211,5,375,32"/>
+<area shape="rect" id="node4" href="$kthread_8c.html#a23e4abf52a26977f1b6d7ae46f992de3" title="kthread_bind" alt="" coords="245,56,341,83"/>
+<area shape="rect" id="node7" href="$kthread_8c.html#af6f52ee3f6f9d6e0011dbb3038b56023" title="to_kthread" alt="" coords="251,107,334,133"/>
+<area shape="rect" id="node3" href="$kthread_8c.html#a6507303e45938ed37efd356fb281c444" title="EXPORT_SYMBOL" alt="" coords="423,5,561,32"/>
+<area shape="rect" id="node5" href="$kthread_8c.html#aabea42e41a93a13603c012a4a57d68a6" title="__kthread_bind" alt="" coords="437,56,547,83"/>
+<area shape="rect" id="node6" href="$kthread_8c.html#a83d66ee5f81348c8b95e224229fcae6a" title="__kthread_bind_mask" alt="" coords="609,56,759,83"/>
+</map>

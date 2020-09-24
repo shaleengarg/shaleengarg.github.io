@@ -1,0 +1,10 @@
+<map id="file_ns_capable" name="file_ns_capable">
+<area shape="rect" id="node2" href="$resource_8c.html#af92e072fbe57068ecf0d2b8c4c2f58f7" title="r_next" alt="" coords="211,31,269,57"/>
+<area shape="rect" id="node5" href="$user__namespace_8c.html#a1e5c43866a243b5ba0fc0a9cd6b60060" title="map_write" alt="" coords="410,119,493,145"/>
+<area shape="rect" id="node9" href="$user__namespace_8c.html#ac640cd879c90db9e1db4b273915e32f6" title="new_idmap_permitted" alt="" coords="165,132,315,159"/>
+<area shape="rect" id="node3" href="$resource_8c.html#acf5bc0c60fc2b71e1510e7ac60bb1b26" title="iomem_map_sanity_check" alt="" coords="363,5,540,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a184eef72c2fa756b02f90b48a2dd753b" title="iomem_is_exclusive" alt="" coords="381,56,521,83"/>
+<area shape="rect" id="node6" href="$user__namespace_8c.html#a80bc0e2862f5831a39aef4b9d2866744" title="proc_uid_map_write" alt="" coords="595,68,733,95"/>
+<area shape="rect" id="node7" href="$user__namespace_8c.html#ab94ee35b0f0178b555d280b66cbbebfb" title="proc_gid_map_write" alt="" coords="595,119,733,145"/>
+<area shape="rect" id="node8" href="$user__namespace_8c.html#a05eb79f9cde2a28d7bdfbfaebbfda927" title="proc_projid_map_write" alt="" coords="588,169,740,196"/>
+</map>

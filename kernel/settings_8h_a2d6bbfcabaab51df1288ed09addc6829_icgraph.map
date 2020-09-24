@@ -1,0 +1,18 @@
+<map id="irq_settings_is_polled" name="irq_settings_is_polled">
+<area shape="rect" id="node2" href="$spurious_8c.html#af50ee6082173d0afd17a181c8463d956" title="try_one_irq" alt="" coords="200,183,287,209"/>
+<area shape="rect" id="node4" href="$spurious_8c.html#a2a9ab3f60db6b27e62d60b4ee1411217" title="note_interrupt" alt="" coords="509,183,611,209"/>
+<area shape="rect" id="node3" href="$spurious_8c.html#a1a2d3ea0375dcbb9dc19e7f980967706" title="misrouted_irq" alt="" coords="348,157,448,184"/>
+<area shape="rect" id="node17" href="$spurious_8c.html#a21e8f8a8512c905cb6c6a478b7d1786f" title="poll_spurious_irqs" alt="" coords="335,208,461,235"/>
+<area shape="rect" id="node5" href="$chip_8c.html#a71facf201040ea02f0ffe5914e10ef1c" title="handle_nested_irq" alt="" coords="679,157,805,184"/>
+<area shape="rect" id="node6" href="$internals_8h.html#a26df9dbbad50fed7ef6bcf00d8f47a28" title="handle_irq_event_percpu" alt="" coords="659,208,825,235"/>
+<area shape="rect" id="node7" href="$chip_8c.html#a1c06c355efc5424683ee7398c834ffa1" title="handle_percpu_irq" alt="" coords="873,208,1000,235"/>
+<area shape="rect" id="node8" href="$internals_8h.html#a94664932c0897ebcf2563753e89020d8" title="handle_irq_event" alt="" coords="877,132,997,159"/>
+<area shape="rect" id="node9" href="$chip_8c.html#a6fc2c414a75f20ef3353e1c9d8c75479" title="handle_simple_irq" alt="" coords="1048,31,1175,57"/>
+<area shape="rect" id="node13" href="$chip_8c.html#a36239c70447a7675ae17dba9e17e8b94" title="handle_level_irq" alt="" coords="1054,81,1169,108"/>
+<area shape="rect" id="node14" href="$chip_8c.html#a5ad800f75bdcb43de57cdee838d66eda" title="handle_fasteoi_irq" alt="" coords="1048,132,1175,159"/>
+<area shape="rect" id="node15" href="$chip_8c.html#a59094f8786961797870d59a703b950d1" title="handle_edge_irq" alt="" coords="1053,183,1169,209"/>
+<area shape="rect" id="node16" href="$chip_8c.html#a00647ddd8467fe1985f03d1592ef1d40" title="irq_cpu_offline" alt="" coords="1058,233,1165,260"/>
+<area shape="rect" id="node10" href="$irq__sim_8c.html#a0150cd9c72d3f3b3c597f025b29dbf58" title="irq_sim_handle_irq" alt="" coords="1223,5,1353,32"/>
+<area shape="rect" id="node11" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="1401,31,1489,57"/>
+<area shape="rect" id="node12" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="1537,31,1664,57"/>
+</map>

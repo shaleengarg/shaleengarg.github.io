@@ -1,0 +1,7 @@
+<map id="reallocate_resource" name="reallocate_resource">
+<area shape="rect" id="node2" href="$resource_8c.html#a42be595ae68ecf6cc5e417f0758b3790" title="__find_resource" alt="" coords="199,31,313,57"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a800ee479f001237e22ea7663baae8cba" title="__release_resource" alt="" coords="189,81,323,108"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a207b5bb40f2abdfdeb54af5b3516e9ee" title="__request_resource" alt="" coords="188,132,324,159"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a7efb925a987ec302b44dc87bc612be02" title="resource_clip" alt="" coords="410,5,509,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a14b31c06d013f8ca2a0cc498d5b69125" title="arch_remove_reservations" alt="" coords="372,56,547,83"/>
+</map>

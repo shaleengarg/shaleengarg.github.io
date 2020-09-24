@@ -1,0 +1,11 @@
+<map id="update_sysctl" name="update_sysctl">
+<area shape="rect" id="node2" href="$sched_8h.html#a4499ac3117cfa2113a580dda7dccec7c" title="sched_init_granularity" alt="" coords="156,56,304,83"/>
+<area shape="rect" id="node10" href="$fair_8c.html#a86ac17127919c059011154d69a5d0bc9" title="yield_to_task_fair" alt="" coords="168,119,292,145"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="544,24,611,51"/>
+<area shape="rect" id="node6" href="$sched_2core_8c.html#acf74276999591b2160289728ee76ba90" title="sched_init_smp" alt="" coords="352,43,465,69"/>
+<area shape="rect" id="node7" href="$sched_8h.html#a3dfd2827294a8ff68e72ad79ec229379" title="idle_get_state" alt="" coords="357,93,460,120"/>
+<area shape="rect" id="node4" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="713,5,795,32"/>
+<area shape="rect" id="node5" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="719,56,789,83"/>
+<area shape="rect" id="node8" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="513,93,641,120"/>
+<area shape="rect" id="node9" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="689,119,819,145"/>
+</map>

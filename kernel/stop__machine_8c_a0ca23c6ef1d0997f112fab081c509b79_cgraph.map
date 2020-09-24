@@ -1,0 +1,8 @@
+<map id="cpu_stopper_thread" name="cpu_stopper_thread">
+<area shape="rect" id="node2" href="$stop__machine_8c.html#a16f0788f6ada4e637e287fb4e347b707" title="cpu_stop_signal_done" alt="" coords="189,56,340,83"/>
+<area shape="rect" id="node3" href="$completion_8c.html#acfb6d2f4414f6f8c89c6a072da7c0832" title="complete" alt="" coords="388,56,463,83"/>
+<area shape="rect" id="node4" href="$wait_8c.html#a5a4e6acdc83574b50383adeb5e26ae3a" title="__wake_up_locked" alt="" coords="513,31,647,57"/>
+<area shape="rect" id="node7" href="$completion_8c.html#a017b15945f4ddb7ee34b7e6ee6616510" title="EXPORT_SYMBOL" alt="" coords="511,81,649,108"/>
+<area shape="rect" id="node5" href="$wait_8c.html#a4e77507431b7266b711a1c31069b96a7" title="__wake_up_common" alt="" coords="711,5,856,32"/>
+<area shape="rect" id="node6" href="$wait_8c.html#a5d762c19a34e529508b93fa52241737a" title="EXPORT_SYMBOL_GPL" alt="" coords="697,56,869,83"/>
+</map>

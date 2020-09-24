@@ -1,0 +1,15 @@
+<map id="audit_get_sk" name="audit_get_sk">
+<area shape="rect" id="node2" href="$audit_8c.html#afa11379528cdf6dc9448eca65748895f" title="auditd_send_unicast_skb" alt="" coords="158,5,327,32"/>
+<area shape="rect" id="node7" href="$audit_8c.html#a68cf78a401ddbac4a64f391688c6afd2" title="kauditd_send_multicast_skb" alt="" coords="149,56,336,83"/>
+<area shape="rect" id="node8" href="$audit_8c.html#ab59a410d3b356365c49e6afc4cabb1c2" title="kauditd_thread" alt="" coords="403,69,509,96"/>
+<area shape="rect" id="node10" href="$audit_8h.html#ada8fc1ae16a51c2157b4078301e890b3" title="audit_send_list" alt="" coords="188,157,297,184"/>
+<area shape="rect" id="node12" href="$audit_8c.html#a63618608163d759c981e3a22cbfb026e" title="audit_send_reply_thread" alt="" coords="161,208,324,235"/>
+<area shape="rect" id="node3" href="$audit_8c.html#a2368069b90a37965603677c362c85e9c" title="audit_replace" alt="" coords="588,15,687,41"/>
+<area shape="rect" id="node4" href="$audit_8c.html#a6a2e914b8b746cb4f2d8a455550fad51" title="audit_receive_msg" alt="" coords="747,157,877,184"/>
+<area shape="rect" id="node5" href="$audit_8c.html#aa0beb5447ccef9dab5c83bafeeb6010c" title="audit_receive" alt="" coords="925,157,1024,184"/>
+<area shape="rect" id="node6" href="$audit_8c.html#a239129cc1b4e915eb2204267582918dc" title="audit_net_init" alt="" coords="1072,157,1171,184"/>
+<area shape="rect" id="node9" href="$audit_8c.html#afdae136a8f14b27996d1407dcf408167" title="audit_init" alt="" coords="600,69,675,96"/>
+<area shape="rect" id="node11" href="$auditfilter_8c.html#a7f4c26b6d231fd841baf7ba2d5c0ad05" title="audit_list_rules_send" alt="" coords="384,144,528,171"/>
+<area shape="rect" id="node13" href="$audit_8c.html#afa6898a2c92134228370ee63889a54d6" title="audit_send_reply" alt="" coords="396,208,516,235"/>
+<area shape="rect" id="node14" href="$audit_8c.html#a585ed02b54266e451c9fb7b7e03f9ffa" title="audit_get_feature" alt="" coords="576,233,699,260"/>
+</map>

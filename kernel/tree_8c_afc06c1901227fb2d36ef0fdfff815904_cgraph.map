@@ -1,0 +1,5 @@
+<map id="rcu_boot_init_percpu_data" name="rcu_boot_init_percpu_data">
+<area shape="rect" id="node2" href="$tree_8c.html#aaafe3f5cb9115178aa11eee02a3f0f7c" title="rcu_dynticks_in_eqs" alt="" coords="228,5,369,32"/>
+<area shape="rect" id="node3" href="$tree_8c.html#a1d2ee623421a78490ee7c3f02cfbdd87" title="rcu_dynticks_snap" alt="" coords="233,56,364,83"/>
+<area shape="rect" id="node4" href="$tree_8h.html#af9feb853e00cb811cdd019971b33c1f0" title="rcu_boot_init_nocb\l_percpu_data" alt="" coords="233,107,364,149"/>
+</map>

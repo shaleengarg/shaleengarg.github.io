@@ -1,0 +1,11 @@
+<map id="clocksource_resume_watchdog" name="clocksource_resume_watchdog">
+<area shape="rect" id="node2" href="$clocksource_8c.html#a216b2c02b7538e297428b04b5e580cca" title="clocksource_resume" alt="" coords="222,5,365,32"/>
+<area shape="rect" id="node5" href="$clocksource_8c.html#a7233322bf94cfb38ec369ae6578ea3ad" title="clocksource_touch_watchdog" alt="" coords="196,56,391,83"/>
+<area shape="rect" id="node3" href="$timekeeping_8h.html#a0f43e7a0bcb6bb47d0ca98b1d1910b60" title="timekeeping_resume" alt="" coords="443,5,586,32"/>
+<area shape="rect" id="node4" href="$tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7" title="tick_resume" alt="" coords="649,5,743,32"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#a90b9dd398200cf0b16148d55d67d3d09" title="dbg_touch_watchdogs" alt="" coords="439,56,591,83"/>
+<area shape="rect" id="node7" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="639,56,753,83"/>
+<area shape="rect" id="node8" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="801,5,960,32"/>
+<area shape="rect" id="node9" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="817,56,944,83"/>
+<area shape="rect" id="node10" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="827,107,935,133"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="irq_mark_irq" name="irq_mark_irq">
+<area shape="rect" id="node2" href="$chip_8c.html#af7ed4834509ee09b8cd32189d8a19511" title="irq_set_chip" alt="" coords="147,107,239,133"/>
+<area shape="rect" id="node3" href="$chip_8c.html#ae929b4d7b2b0eafef41cd9b5e730d0da" title="irq_set_chip_and_handler_name" alt="" coords="287,56,495,83"/>
+<area shape="rect" id="node12" href="$generic-chip_8c.html#abd0fd31c25d95df4b133a55750e4ab4b" title="irq_remove_generic_chip" alt="" coords="307,107,474,133"/>
+<area shape="rect" id="node14" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="347,157,435,184"/>
+<area shape="rect" id="node4" href="$irqdomain_8c.html#ac1822ac99d95b50aa90fff9a49fd39ee" title="irq_domain_set_info" alt="" coords="556,56,695,83"/>
+<area shape="rect" id="node5" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="763,5,911,32"/>
+<area shape="rect" id="node6" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="756,56,919,83"/>
+<area shape="rect" id="node7" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="757,107,918,133"/>
+<area shape="rect" id="node8" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="981,81,1087,108"/>
+<area shape="rect" id="node9" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="967,132,1101,159"/>
+<area shape="rect" id="node10" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="1149,132,1333,159"/>
+<area shape="rect" id="node11" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="1381,132,1535,159"/>
+<area shape="rect" id="node13" href="$devres_8c.html#a5fc99d8751dd9c3077992b4ac4ae697f" title="__devm_irq_alloc_descs" alt="" coords="543,107,708,133"/>
+<area shape="rect" id="node15" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="562,157,689,184"/>
+</map>

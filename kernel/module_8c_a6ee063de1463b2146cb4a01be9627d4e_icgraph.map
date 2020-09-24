@@ -1,0 +1,8 @@
+<map id="arch_mod_section_prepend" name="arch_mod_section_prepend">
+<area shape="rect" id="node2" href="$module_8c.html#a79b80696307ea4447669bbaba4fd990d" title="get_offset" alt="" coords="235,31,315,57"/>
+<area shape="rect" id="node3" href="$module_8c.html#a8a0a215273c284c5d2310ab41d427413" title="layout_sections" alt="" coords="363,5,476,32"/>
+<area shape="rect" id="node7" href="$module_8c.html#a4513ebec626b0f1b3af8645c07c81533" title="free_modinfo" alt="" coords="544,56,641,83"/>
+<area shape="rect" id="node4" href="$module_8c.html#a4493d82dfebd3c322b787a1001dcd9aa" title="layout_and_allocate" alt="" coords="524,5,661,32"/>
+<area shape="rect" id="node5" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="709,31,804,57"/>
+<area shape="rect" id="node6" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="852,31,999,57"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="allocate_resource" name="allocate_resource">
+<area shape="rect" id="node2" href="$resource_8c.html#ad5fe29ab45d12dc807ce389f0e12b91f" title="simple_align_resource" alt="" coords="177,5,328,32"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a3c6dc12338f8e763d84ddc8c02c0f8c2" title="reallocate_resource" alt="" coords="185,107,320,133"/>
+<area shape="rect" id="node8" href="$resource_8c.html#a207b5bb40f2abdfdeb54af5b3516e9ee" title="__request_resource" alt="" coords="376,157,512,184"/>
+<area shape="rect" id="node9" href="$resource_8c.html#a7d15e9bb5cd1c81fea05b716a29f6672" title="find_resource" alt="" coords="203,56,303,83"/>
+<area shape="rect" id="node10" href="$resource_8c.html#a9673883ea136cf575ab0dbb3af2a450d" title="EXPORT_SYMBOL" alt="" coords="183,208,322,235"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a42be595ae68ecf6cc5e417f0758b3790" title="__find_resource" alt="" coords="387,56,501,83"/>
+<area shape="rect" id="node7" href="$resource_8c.html#a800ee479f001237e22ea7663baae8cba" title="__release_resource" alt="" coords="377,107,511,133"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a7efb925a987ec302b44dc87bc612be02" title="resource_clip" alt="" coords="598,31,697,57"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a14b31c06d013f8ca2a0cc498d5b69125" title="arch_remove_reservations" alt="" coords="560,81,735,108"/>
+</map>

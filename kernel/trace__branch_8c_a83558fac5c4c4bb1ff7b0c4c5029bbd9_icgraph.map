@@ -1,0 +1,7 @@
+<map id="get_incorrect_percent" name="get_incorrect_percent">
+<area shape="rect" id="node2" href="$trace__branch_8c.html#aedd6c1dd2085e457f65aff0760c9fbc2" title="branch_stat_show" alt="" coords="229,31,357,57"/>
+<area shape="rect" id="node6" href="$trace__branch_8c.html#af2fee8b1a47f4797b0192028bad30c2e" title="annotated_branch_stat_cmp" alt="" coords="200,81,387,108"/>
+<area shape="rect" id="node3" href="$trace__branch_8c.html#adb8c6350389e19b4f19c32863e33e79d" title="branch_stat_show_normal" alt="" coords="435,56,609,83"/>
+<area shape="rect" id="node4" href="$trace__branch_8c.html#a2158ba5a5256270ba974a1c366eef9c1" title="annotate_branch_stat_show" alt="" coords="657,5,843,32"/>
+<area shape="rect" id="node5" href="$trace__branch_8c.html#ae8aab8e841ac8a5467137eb40ab20331" title="init_annotated_branch\l_stats" alt="" coords="675,57,825,98"/>
+</map>

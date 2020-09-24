@@ -1,0 +1,4 @@
+<map id="rcu_cpu_has_callbacks" name="rcu_cpu_has_callbacks">
+<area shape="rect" id="node2" href="$rcu__segcblist_8h.html#ab15fdbc6d5fc4da314eee8571b12a778" title="rcu_segcblist_empty" alt="" coords="237,5,380,32"/>
+<area shape="rect" id="node3" href="$rcu__segcblist_8h.html#a38b113930d35f1466cfcecf13f641111" title="rcu_segcblist_n_nonlazy_cbs" alt="" coords="212,56,405,83"/>
+</map>

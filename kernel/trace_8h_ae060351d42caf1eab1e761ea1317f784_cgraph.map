@@ -1,0 +1,6 @@
+<map id="get_syscall_name" name="get_syscall_name">
+<area shape="rect" id="node2" href="$trace_8h.html#a228f1e7ad2ce3386b569957559f72051" title="trace_event_init" alt="" coords="206,5,321,32"/>
+<area shape="rect" id="node3" href="$trace_8h.html#af6cbee8d17c7644f280c57097422fc8c" title="trace_event_eval_update" alt="" coords="180,56,347,83"/>
+<area shape="rect" id="node4" href="$trace_8h.html#a7c952db8dafcc88ea928ffcc3f247a45" title="tracing_snapshot_instance" alt="" coords="395,27,572,53"/>
+<area shape="rect" id="node5" href="$trace_8h.html#a27572481984e3fa35395288c1d075b7f" title="tracing_alloc_snapshot\l_instance" alt="" coords="406,78,561,119"/>
+</map>

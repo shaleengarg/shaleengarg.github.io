@@ -1,0 +1,5 @@
+<map id="calc_load" name="calc_load">
+<area shape="rect" id="node2" href="$loadavg_8c.html#a88d33d646675640e646af33f4a2b194f" title="calc_load_fold_active" alt="" coords="131,5,277,32"/>
+<area shape="rect" id="node3" href="$loadavg_8c.html#a2e1c6b302391269fc12bcaf533f3e997" title="calc_load_nohz_fold" alt="" coords="134,56,274,83"/>
+<area shape="rect" id="node4" href="$loadavg_8c.html#acbc657b286ff4d4d3ebd5bb03b33b9f6" title="calc_global_nohz" alt="" coords="143,107,265,133"/>
+</map>

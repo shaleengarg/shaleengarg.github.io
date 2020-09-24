@@ -1,0 +1,16 @@
+<map id="is_in_v2_mode" name="is_in_v2_mode">
+<area shape="rect" id="node2" href="$cpuset_8c.html#aa103ac56507045b8f59529d1b7113529" title="validate_change" alt="" coords="186,56,302,83"/>
+<area shape="rect" id="node9" href="$cpuset_8c.html#ab18101a5fba80899d119bd7ccd7eb9cc" title="update_cpumasks_hier" alt="" coords="166,5,322,32"/>
+<area shape="rect" id="node10" href="$cpuset_8c.html#abed0ba0b664bfbccdd9360af1835dded" title="update_nodemasks_hier" alt="" coords="163,107,325,133"/>
+<area shape="rect" id="node11" href="$cpuset_8c.html#a0e3b940f33f83d3d4719c090d3cac798" title="cpuset_can_attach" alt="" coords="178,157,310,184"/>
+<area shape="rect" id="node12" href="$cpuset_8c.html#ad0536fdf277696b224f739d0434e7bdc" title="cpuset_css_online" alt="" coords="179,208,309,235"/>
+<area shape="rect" id="node13" href="$cpuset_8c.html#a96b74bf49bdbb72ea3ed71c06d74d715" title="cpuset_bind" alt="" coords="198,259,290,285"/>
+<area shape="rect" id="node14" href="$cpuset_8c.html#a9e61badc6705506460418be7747beb0c" title="cpuset_hotplug_update\l_tasks" alt="" coords="166,361,322,402"/>
+<area shape="rect" id="node15" href="$cpuset_8c.html#a9e2a70f28dbc35ecd301c3a3332ed874" title="cpuset_hotplug_workfn" alt="" coords="373,339,529,365"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#a351e015960494db6bf2c2b56c9320239" title="update_cpumask" alt="" coords="391,5,512,32"/>
+<area shape="rect" id="node5" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="387,56,515,83"/>
+<area shape="rect" id="node6" href="$cpuset_8c.html#acb225579e687c077cd067982b5fc2d7e" title="update_flag" alt="" coords="407,107,496,133"/>
+<area shape="rect" id="node4" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="577,31,731,57"/>
+<area shape="rect" id="node7" href="$cpuset_8c.html#a99d5620782fa1af581db371b16dd9f99" title="cpuset_write_u64" alt="" coords="592,81,716,108"/>
+<area shape="rect" id="node8" href="$cpuset_8c.html#ad2ebbb81b7610ba8719949c94014da14" title="cpuset_css_offline" alt="" coords="589,132,719,159"/>
+</map>

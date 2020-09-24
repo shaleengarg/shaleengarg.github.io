@@ -1,0 +1,6 @@
+<map id="copy_siginfo_to_user" name="copy_siginfo_to_user">
+<area shape="rect" id="node2" href="$ptrace_8c.html#a359ae32061decd7c2718fb6b4e42e71a" title="ptrace_peek_siginfo" alt="" coords="203,5,341,32"/>
+<area shape="rect" id="node3" href="$ptrace_8c.html#a997fa2d54d41aefc751e7f2881be3d89" title="ptrace_request" alt="" coords="393,31,501,57"/>
+<area shape="rect" id="node5" href="$signal_8c.html#aa1a78538d7f93eb25fee6fbef501af10" title="SYSCALL_DEFINE4" alt="" coords="199,107,345,133"/>
+<area shape="rect" id="node4" href="$ptrace_8c.html#aad4d3340d6dfdbb390ffee3d05054442" title="generic_ptrace_pokedata" alt="" coords="549,31,716,57"/>
+</map>

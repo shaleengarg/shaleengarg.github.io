@@ -1,0 +1,6 @@
+<map id="rb_allocate_cpu_buffer" name="rb_allocate_cpu_buffer">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#af0d32ebd63615ac52b4e870b71d614a9" title="__ring_buffer_alloc" alt="" coords="215,5,345,32"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#abaa46f57608417cd0a8469f37600629b" title="trace_rb_cpu_prepare" alt="" coords="207,56,353,83"/>
+<area shape="rect" id="node4" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="401,56,537,83"/>
+<area shape="rect" id="node5" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="585,56,696,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ring_buffer_entries" name="ring_buffer_entries">
+<area shape="rect" id="node2" href="$ring__buffer__benchmark_8c.html#a243c7d1c2a3d62d7a860e3666eaee67c" title="ring_buffer_producer" alt="" coords="183,15,323,42"/>
+<area shape="rect" id="node6" href="$trace__selftest_8c.html#ad895c85e12da2a5f712581390a8973bb" title="trace_test_buffer" alt="" coords="193,67,313,94"/>
+<area shape="rect" id="node3" href="$ring__buffer__benchmark_8c.html#a56f62b8eea85b805b25f1daad0641ca7" title="ring_buffer_producer\l_thread" alt="" coords="377,5,517,47"/>
+<area shape="rect" id="node4" href="$ring__buffer__benchmark_8c.html#acc8211c2538f3635cbcc98ed7fb9323b" title="ring_buffer_benchmark_init" alt="" coords="571,13,749,39"/>
+<area shape="rect" id="node5" href="$ring__buffer__benchmark_8c.html#a9137344d7927ced5d56e53036fbbdcb8" title="ring_buffer_benchmark_exit" alt="" coords="797,13,980,39"/>
+<area shape="rect" id="node7" href="$trace__selftest_8c.html#ad8f6aafbcf65cfb4c1f4ed29e05c8a7b" title="warn_failed_init_tracer" alt="" coords="371,71,523,98"/>
+</map>

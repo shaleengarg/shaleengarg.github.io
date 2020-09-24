@@ -1,0 +1,4 @@
+<map id="set_pending" name="set_pending">
+<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#a85dac05053be5af845e60bb46060203c" title="pv_hybrid_queued_unfair\l_trylock" alt="" coords="145,5,312,47"/>
+<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#ad97b24553f7540461c01a680018587e5" title="pv_wait_head_or_lock" alt="" coords="153,71,304,98"/>
+</map>

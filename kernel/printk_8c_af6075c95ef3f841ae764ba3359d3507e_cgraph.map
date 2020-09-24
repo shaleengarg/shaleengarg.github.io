@@ -1,0 +1,6 @@
+<map id="console_setup" name="console_setup">
+<area shape="rect" id="node2" href="$braille_8c.html#a4aaf56ec9d974bed4996192d4336eeb1" title="_braille_console_setup" alt="" coords="166,5,321,32"/>
+<area shape="rect" id="node3" href="$printk_8c.html#a4d52a5bed52e9e9713380ec737881858" title="__add_preferred_console" alt="" coords="160,56,327,83"/>
+<area shape="rect" id="node5" href="$printk_8c.html#a86b3eb0330387f475416f41aeec95fb6" title="__setup" alt="" coords="209,107,277,133"/>
+<area shape="rect" id="node4" href="$braille_8h.html#a0ffcf32b57c54f557926acade3024eb2" title="braille_set_options" alt="" coords="375,56,505,83"/>
+</map>

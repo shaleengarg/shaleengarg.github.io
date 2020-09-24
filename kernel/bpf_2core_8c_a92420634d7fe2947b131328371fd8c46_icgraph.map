@@ -1,0 +1,10 @@
+<map id="__bpf_call_base" name="__bpf_call_base">
+<area shape="rect" id="node2" href="$bpf_2core_8c.html#a7d4c7cca9fba82050d5fcab6f26b5dc7" title="___bpf_prog_run" alt="" coords="169,5,288,32"/>
+<area shape="rect" id="node3" href="$verifier_8c.html#a1a487d17d35e857f1068a89cc284f085" title="jit_subprogs" alt="" coords="183,56,275,83"/>
+<area shape="rect" id="node9" href="$verifier_8c.html#a1cc41f7d6addd5b196075053fc95b414" title="fixup_bpf_calls" alt="" coords="336,107,445,133"/>
+<area shape="rect" id="node4" href="$verifier_8c.html#ad03eb6149b446c002296420b5d4f77ec" title="fixup_call_args" alt="" coords="336,56,445,83"/>
+<area shape="rect" id="node5" href="$verifier_8c.html#ac8470988adeb427881cae1648d6c9a5e" title="bpf_check" alt="" coords="493,81,576,108"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#accccd9e25e024d87650745acf6ab1b48" title="bpf_prog_load" alt="" coords="624,81,727,108"/>
+<area shape="rect" id="node7" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="775,81,921,108"/>
+<area shape="rect" id="node8" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="969,81,1116,108"/>
+</map>

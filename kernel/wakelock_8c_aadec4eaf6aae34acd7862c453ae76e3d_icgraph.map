@@ -1,0 +1,15 @@
+<map id="wakelocks_limit_exceeded" name="wakelocks_limit_exceeded">
+<area shape="rect" id="node2" href="$wakelock_8c.html#af7af044e74099773a0d9398090b514cc" title="pm_show_wakelocks" alt="" coords="431,17,577,44"/>
+<area shape="rect" id="node12" href="$wakelock_8c.html#add51f5518ef692ff6541ded3f8a85ae6" title="wakelock_lookup_add" alt="" coords="232,68,383,95"/>
+<area shape="rect" id="node3" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="1483,80,1570,107"/>
+<area shape="rect" id="node4" href="$power_8h.html#a43a91aabd237011a5bf745e117faa693" title="pm_autosleep_state" alt="" coords="625,93,764,120"/>
+<area shape="rect" id="node5" href="$power_8h.html#aa0b2edc50939dd7aff5345e76af5b4c3" title="suspend_thaw_processes" alt="" coords="812,93,985,120"/>
+<area shape="rect" id="node6" href="$suspend_8c.html#ad7ff3501302946e8dff6da29d1c6610e" title="suspend_finish" alt="" coords="1033,93,1143,120"/>
+<area shape="rect" id="node7" href="$suspend_8c.html#aff34286305debe108d3dea2eca736783" title="enter_state" alt="" coords="1191,195,1277,221"/>
+<area shape="rect" id="node8" href="$suspend_8c.html#a1d9d02cdc28997d94c29d1c9f0e7f9b2" title="pm_suspend" alt="" coords="1325,195,1421,221"/>
+<area shape="rect" id="node9" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="1471,220,1582,247"/>
+<area shape="rect" id="node10" href="$suspend__test_8c.html#ae9e9ccfc09bc9bfe4d93dd2d06e9667e" title="test_wakealarm" alt="" coords="1469,169,1584,196"/>
+<area shape="rect" id="node11" href="$suspend__test_8c.html#ad3bf8de9b6f0844cf2a3ef591c4e45e6" title="test_suspend" alt="" coords="1632,169,1732,196"/>
+<area shape="rect" id="node13" href="$wakelock_8c.html#a609f570b88cf5da93e11e56e384b1e0d" title="pm_wake_lock" alt="" coords="449,68,559,95"/>
+<area shape="rect" id="node14" href="$wakelock_8c.html#a389bdf6ba1c485cb2531fd435c30357d" title="pm_wake_unlock" alt="" coords="443,119,565,145"/>
+</map>

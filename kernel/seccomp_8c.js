@@ -1,0 +1,25 @@
+var seccomp_8c =
+[
+    [ "SECCOMP_LOG_ALLOW", "seccomp_8c.html#aa350b3e2500ed6d27ced6d478264fde2", null ],
+    [ "SECCOMP_LOG_ERRNO", "seccomp_8c.html#acf251e1d197af044cb906da6ca546b14", null ],
+    [ "SECCOMP_LOG_KILL_PROCESS", "seccomp_8c.html#a98e826e12a94bc19d98ab0d28ef6ab23", null ],
+    [ "SECCOMP_LOG_KILL_THREAD", "seccomp_8c.html#a33a84bf6848043fadacba7582cbf02e5", null ],
+    [ "SECCOMP_LOG_LOG", "seccomp_8c.html#a99a6fbc1f9bcaff773c2b3c6a4485627", null ],
+    [ "SECCOMP_LOG_TRACE", "seccomp_8c.html#a1e092a6493d1cb2ec4cc880e56f80597", null ],
+    [ "SECCOMP_LOG_TRAP", "seccomp_8c.html#a4533bde8660277277781a9f6a132d15a", null ],
+    [ "__secure_computing_strict", "seccomp_8c.html#af0c734460a11a092a8fe197c8f22ec3c", null ],
+    [ "arch_seccomp_spec_mitigate", "seccomp_8c.html#ad48dcba70137a782cb15516b15137311", null ],
+    [ "do_seccomp", "seccomp_8c.html#ab1e192c94d23ce8c4402f72b1a22641b", null ],
+    [ "prctl_get_seccomp", "seccomp_8c.html#abc57b3acdd8b063d95e6fd55014c0f08", null ],
+    [ "prctl_set_seccomp", "seccomp_8c.html#a3a0b85686ffc73edc19d8675f231b8ea", null ],
+    [ "seccomp_assign_mode", "seccomp_8c.html#a3ea32c79d8a24ccae7f22d0eaa50da03", null ],
+    [ "seccomp_get_action_avail", "seccomp_8c.html#a7a09dbcd4f03e6dfe27218f1b5ff0a07", null ],
+    [ "seccomp_log", "seccomp_8c.html#a1654a2ada2b2f6a079b9d81c5340dc2a", null ],
+    [ "seccomp_may_assign_mode", "seccomp_8c.html#a027475ba3fc2e3f8af2937f426ea4609", null ],
+    [ "seccomp_set_mode_filter", "seccomp_8c.html#a0aabce66f426bbd6e2cf2311c44d8cce", null ],
+    [ "seccomp_set_mode_strict", "seccomp_8c.html#abf6097ae76e1c5b87f0ca3c91832a7de", null ],
+    [ "secure_computing_strict", "seccomp_8c.html#af482947679e7c804a4e11ff5d4e7dc9d", null ],
+    [ "SYSCALL_DEFINE3", "seccomp_8c.html#a9ee812f89837eb7547ee7e819d4121ad", null ],
+    [ "mode1_syscalls", "seccomp_8c.html#a7fbb39055dcb90609addf7701cdf7388", null ],
+    [ "seccomp_actions_logged", "seccomp_8c.html#adcfe712441c3b079be8669c6fbcb0601", null ]
+];

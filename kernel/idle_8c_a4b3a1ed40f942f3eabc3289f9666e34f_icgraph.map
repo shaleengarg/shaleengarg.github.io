@@ -1,0 +1,5 @@
+<map id="arch_cpu_idle_dead" name="arch_cpu_idle_dead">
+<area shape="rect" id="node2" href="$idle_8c.html#a890be3d604d0199e50ca2f2a76bd5f61" title="do_idle" alt="" coords="191,31,253,57"/>
+<area shape="rect" id="node3" href="$idle_8c.html#a11c39327cf4ee3454919418a6d5cc68a" title="play_idle" alt="" coords="328,5,401,32"/>
+<area shape="rect" id="node4" href="$idle_8c.html#aadea56844f6dc7ded8372dca84e1641c" title="cpu_startup_entry" alt="" coords="301,56,428,83"/>
+</map>

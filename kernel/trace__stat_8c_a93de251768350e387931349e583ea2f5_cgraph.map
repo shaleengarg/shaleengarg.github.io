@@ -1,0 +1,5 @@
+<map id="init_stat_file" name="init_stat_file">
+<area shape="rect" id="node2" href="$trace__stat_8c.html#a4dd3195456939b05f59b7c9eb11549fb" title="tracing_stat_init" alt="" coords="145,5,260,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a30de1339e62cfe0e3a95f274d42b0b97" title="tracing_init_dentry" alt="" coords="308,5,436,32"/>
+<area shape="rect" id="node4" href="$trace_8c.html#ac64b6cba4c5ae6acb3a4c79d441a7eb5" title="trace_automount" alt="" coords="484,5,603,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rb_try_to_discard" name="rb_try_to_discard">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#afb28ae6857ec69bfc47848da5f129278" title="rb_event_index" alt="" coords="187,5,297,32"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#a3d6662a1b29932bb5c40cee0f55ca6e6" title="rb_event_ts_length" alt="" coords="176,56,308,83"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a894c56341812a9b48b248f554ecb5f12" title="rb_event_length" alt="" coords="356,81,471,108"/>
+<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#a09a7513c284fbf7ec269f4756a77c0ce" title="rb_page_write" alt="" coords="191,157,293,184"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#a017236c041f52d8269128ef0c6c166a0" title="rb_null_event" alt="" coords="543,56,641,83"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a7c53d15723d9f4db584e42e340252b11" title="rb_event_data_length" alt="" coords="519,107,665,133"/>
+</map>

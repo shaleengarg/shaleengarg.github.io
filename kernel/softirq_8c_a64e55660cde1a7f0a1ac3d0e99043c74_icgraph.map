@@ -1,0 +1,5 @@
+<map id="tasklet_action_common" name="tasklet_action_common">
+<area shape="rect" id="node2" href="$softirq_8c.html#ad351253210a72815800d9167a76ca2bb" title="tasklet_action" alt="" coords="222,5,325,32"/>
+<area shape="rect" id="node4" href="$softirq_8c.html#a1dce9c2791b629c76fd3c5da3b9085f6" title="tasklet_hi_action" alt="" coords="213,56,333,83"/>
+<area shape="rect" id="node3" href="$softirq_8c.html#adcb620accbc40a5f3cdeea102865b95a" title="softirq_init" alt="" coords="381,31,464,57"/>
+</map>

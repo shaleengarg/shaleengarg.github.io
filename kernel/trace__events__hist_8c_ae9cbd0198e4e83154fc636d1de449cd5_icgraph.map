@@ -1,0 +1,6 @@
+<map id="__set_synth_event_print_fmt" name="__set_synth_event_print_fmt">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a9ae8941c2cd413201d5bcf93e50a3f34" title="set_synth_event_print_fmt" alt="" coords="244,5,420,32"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#a3fc2c7cf54f6db0948a4943913be3d4d" title="register_synth_event" alt="" coords="468,5,611,32"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="659,5,795,32"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="843,5,977,32"/>
+</map>

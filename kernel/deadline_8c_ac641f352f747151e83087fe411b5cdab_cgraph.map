@@ -1,0 +1,5 @@
+<map id="init_dl_rq_bw_ratio" name="init_dl_rq_bw_ratio">
+<area shape="rect" id="node2" href="$sched_8h.html#abbb05e19ab2ae357d78cf204c331d75e" title="global_rt_runtime" alt="" coords="184,5,305,32"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a15ed1bc07adbe7affb9019b52156b9ad" title="to_ratio" alt="" coords="212,56,277,83"/>
+<area shape="rect" id="node4" href="$sched_8h.html#aacf5032d4046bc4665f44c2513bb62af" title="global_rt_period" alt="" coords="188,107,301,133"/>
+</map>

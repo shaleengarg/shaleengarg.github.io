@@ -1,0 +1,5 @@
+<map id="perf_pmu_cancel_txn" name="perf_pmu_cancel_txn">
+<area shape="rect" id="node2" href="$events_2core_8c.html#aa7c4b42ada67b37d2c408c24675888cb" title="perf_pmu_register" alt="" coords="200,5,327,32"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="553,5,660,32"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#a12fb2cfb430a326c84b18b02aced6ed5" title="init_hw_breakpoint" alt="" coords="375,31,505,57"/>
+</map>

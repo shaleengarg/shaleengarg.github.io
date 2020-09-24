@@ -1,0 +1,7 @@
+<map id="update_pages_handler" name="update_pages_handler">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a8ba5ba2513ba547f23444b922cc71560" title="rb_allocate_cpu_buffer" alt="" coords="205,31,359,57"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#af0d32ebd63615ac52b4e870b71d614a9" title="__ring_buffer_alloc" alt="" coords="415,5,545,32"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#abaa46f57608417cd0a8469f37600629b" title="trace_rb_cpu_prepare" alt="" coords="407,56,553,83"/>
+<area shape="rect" id="node5" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="601,56,737,83"/>
+<area shape="rect" id="node6" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="785,56,896,83"/>
+</map>

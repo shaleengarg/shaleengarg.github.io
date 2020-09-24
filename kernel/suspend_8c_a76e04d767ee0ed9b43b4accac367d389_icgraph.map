@@ -1,0 +1,5 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$suspend_8c.html#a7af6eda710723e3e8b46d6dee655229f" title="s2idle_wake" alt="" coords="264,5,359,32"/>
+<area shape="rect" id="node3" href="$suspend_8c.html#a79fcc9c866cf2f43c7082c30a50ca8a5" title="suspend_set_ops" alt="" coords="249,56,373,83"/>
+<area shape="rect" id="node4" href="$suspend_8c.html#a84f52154645027d39d99044a87b9c1d1" title="suspend_valid_only_mem" alt="" coords="225,107,397,133"/>
+</map>

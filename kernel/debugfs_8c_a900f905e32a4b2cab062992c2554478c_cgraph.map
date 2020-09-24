@@ -1,0 +1,5 @@
+<map id="irq_debug_show_data" name="irq_debug_show_data">
+<area shape="rect" id="node2" href="$debugfs_8c.html#a4d81e0f0d01010096589d1318b78a504" title="irq_debug_show_chip" alt="" coords="201,5,348,32"/>
+<area shape="rect" id="node3" href="$debugfs_8c.html#aac7d8a192501ba6dfa51b33ed9a8ff32" title="irq_debug_show_bits" alt="" coords="396,5,540,32"/>
+<area shape="rect" id="node4" href="$debugfs_8c.html#a8b634eea93558409153d706109c50cac" title="irq_debug_show_masks" alt="" coords="588,5,751,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ftrace_pid_follow_sched_process_fork" name="ftrace_pid_follow_sched_process_fork">
+<area shape="rect" id="node2" href="$trace_8c.html#a843ae37351495023982031b982126a96" title="trace_filter_add_remove_task" alt="" coords="216,13,409,39"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a8dfb25f9bad81ce67e2af91c462aa434" title="trace_find_filtered_pid" alt="" coords="457,13,607,39"/>
+</map>

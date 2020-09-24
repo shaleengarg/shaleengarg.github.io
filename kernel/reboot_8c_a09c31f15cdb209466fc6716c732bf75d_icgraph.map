@@ -1,0 +1,10 @@
+<map id="register_reboot_notifier" name="register_reboot_notifier">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="236,5,343,32"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#a158b3fda3a2b65881505252f17ce3ee2" title="kgdb_register_callbacks" alt="" coords="208,56,371,83"/>
+<area shape="rect" id="node5" href="$reboot_8c.html#a02d428024c4144d0effeeaad7f1e9ebe" title="devm_register_reboot\l_notifier" alt="" coords="216,107,363,149"/>
+<area shape="rect" id="node6" href="$torture_8c.html#ad0191c970d1e3a8f0c0d0ae312f4f9bf" title="torture_init_end" alt="" coords="234,173,345,200"/>
+<area shape="rect" id="node4" href="$debug__core_8c.html#a41134fb8571a5580fd06790d7084402d" title="kgdb_register_io_module" alt="" coords="419,56,585,83"/>
+<area shape="rect" id="node7" href="$locktorture_8c.html#ac32d3efe01d9b4321e0b50aadaa3a322" title="lock_torture_init" alt="" coords="445,123,559,149"/>
+<area shape="rect" id="node8" href="$rcuperf_8c.html#a27e8263fd39e03e707e3aa9f02b27b99" title="rcu_perf_init" alt="" coords="455,173,549,200"/>
+<area shape="rect" id="node9" href="$rcutorture_8c.html#a175b1ae84d0c5e8d660ac03b094e370f" title="rcu_torture_init" alt="" coords="448,224,556,251"/>
+</map>

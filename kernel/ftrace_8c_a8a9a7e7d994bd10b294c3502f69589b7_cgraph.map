@@ -1,0 +1,9 @@
+<map id="clear_ftrace_pids" name="clear_ftrace_pids">
+<area shape="rect" id="node2" href="$ftrace_8c.html#a53f5357aa6578f67b7c002b5c1e9b37e" title="ftrace_filter_pid_sched\l_switch_probe" alt="" coords="175,5,328,47"/>
+<area shape="rect" id="node5" href="$tiny_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="184,71,319,98"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a09d3d5cdfc477130744abb0e215a0b32" title="trace_free_pid_list" alt="" coords="187,122,315,149"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a05989b18de2274021c8ccd0fd0c1d1b5" title="trace_ignore_this_task" alt="" coords="385,13,539,39"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a8dfb25f9bad81ce67e2af91c462aa434" title="trace_find_filtered_pid" alt="" coords="596,13,745,39"/>
+<area shape="rect" id="node6" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="376,71,548,98"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="437,122,487,149"/>
+</map>

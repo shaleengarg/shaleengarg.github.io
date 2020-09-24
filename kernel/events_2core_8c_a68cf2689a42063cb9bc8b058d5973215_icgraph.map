@@ -1,0 +1,5 @@
+<map id="cpu_clock_event_update" name="cpu_clock_event_update">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a86663a50e82d97d7a1b06acdef774bc7" title="cpu_clock_event_stop" alt="" coords="220,5,372,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#adb4ddc55df2538aa76a33cfb07b749ed" title="cpu_clock_event_read" alt="" coords="220,56,372,83"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a1637deb740360d508d21318659891840" title="cpu_clock_event_del" alt="" coords="420,5,564,32"/>
+</map>

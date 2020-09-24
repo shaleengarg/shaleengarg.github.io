@@ -1,0 +1,18 @@
+<map id="rcu_advance_cbs" name="rcu_advance_cbs">
+<area shape="rect" id="node2" href="$rcu__segcblist_8c.html#a98c6b8986a2e3855c3335be2d00fc685" title="rcu_segcblist_pend_cbs" alt="" coords="360,77,523,104"/>
+<area shape="rect" id="node5" href="$rcu__segcblist_8c.html#a3085f880b6e7390f671581cfc7ba5458" title="rcu_segcblist_advance" alt="" coords="782,26,937,53"/>
+<area shape="rect" id="node6" href="$tree_8c.html#a2409ec670facd58528bb926f4efc1e30" title="rcu_accelerate_cbs" alt="" coords="177,153,312,180"/>
+<area shape="rect" id="node3" href="$rcu__segcblist_8h.html#a3f67d704ce82d9355b7f2a935291a110" title="rcu_segcblist_is_enabled" alt="" coords="991,52,1159,78"/>
+<area shape="rect" id="node4" href="$rcu__segcblist_8h.html#aaada450cd7c3e4181ab3e6b0e3709c56" title="rcu_segcblist_restempty" alt="" coords="993,128,1157,154"/>
+<area shape="rect" id="node7" href="$rcu__segcblist_8c.html#a06cbd963699dbf1c5977b27613c9ed0a" title="rcu_segcblist_accelerate" alt="" coords="776,128,943,154"/>
+<area shape="rect" id="node8" href="$tree_8c.html#af5f7855a869f46278c521f217f2eaa40" title="rcu_cbs_completed" alt="" coords="582,482,717,509"/>
+<area shape="rect" id="node10" href="$tree_8c.html#ad44e794d2422b3bbe59de714c11864a3" title="rcu_start_future_gp" alt="" coords="374,330,509,357"/>
+<area shape="rect" id="node9" href="$tree_8c.html#a2c0ed2b8ad2f70c4f2b041ad288aaf44" title="rcu_get_root" alt="" coords="1207,432,1301,458"/>
+<area shape="rect" id="node11" href="$tree_8c.html#a8cb852a38d11043377ca749681d9d786" title="trace_rcu_future_gp" alt="" coords="581,330,718,357"/>
+<area shape="rect" id="node12" href="$rcu_8h.html#a7507ad41dae177861ecf3bd558ba512b" title="rcu_is_nocb_cpu" alt="" coords="589,381,709,408"/>
+<area shape="rect" id="node13" href="$tree_8c.html#a2dc5642917d4f0f69c4e7c1ce81a6368" title="rcu_start_gp_advanced" alt="" coords="571,280,728,306"/>
+<area shape="rect" id="node14" href="$tree_8c.html#a8302e995523d4a4e3b212a5f69e5161f" title="cpu_needs_another_gp" alt="" coords="781,254,937,281"/>
+<area shape="rect" id="node15" href="$tree_8c.html#aba30bc6ec41a6b820c94cee9ff971f95" title="rcu_gp_in_progress" alt="" coords="1007,272,1142,298"/>
+<area shape="rect" id="node16" href="$tree_8c.html#afb1ee6da99cd4d36136cc5b0a1bca3a1" title="rcu_future_needs_gp" alt="" coords="1003,221,1146,248"/>
+<area shape="rect" id="node17" href="$rcu__segcblist_8c.html#a42d384b6653b75c4fe0d8326abbe5e8a" title="rcu_segcblist_future\l_gp_needed" alt="" coords="1005,323,1144,364"/>
+</map>

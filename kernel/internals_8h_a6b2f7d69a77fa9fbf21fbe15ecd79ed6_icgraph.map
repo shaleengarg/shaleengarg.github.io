@@ -1,0 +1,5 @@
+<map id="irq_desc_is_chained" name="irq_desc_is_chained">
+<area shape="rect" id="node2" href="$pm_8c.html#a391df03db1485b944149824ddbf93fdb" title="suspend_device_irq" alt="" coords="193,5,331,32"/>
+<area shape="rect" id="node4" href="$proc_8c.html#a7ec2f5f133407333cf5e6ad40e8f1588" title="init_irq_proc" alt="" coords="216,56,308,83"/>
+<area shape="rect" id="node3" href="$pm_8c.html#a0c327e13fc051112d2fc49f774624f4d" title="suspend_device_irqs" alt="" coords="379,5,523,32"/>
+</map>

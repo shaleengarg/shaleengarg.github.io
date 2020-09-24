@@ -1,0 +1,11 @@
+<map id="uretprobe_trace_func" name="uretprobe_trace_func">
+<area shape="rect" id="node2" href="$trace__uprobe_8c.html#a9302243d8279a7c14a2903e5e09cbd3c" title="uretprobe_dispatcher" alt="" coords="197,5,340,32"/>
+<area shape="rect" id="node3" href="$trace__uprobe_8c.html#a461f6c850602e703a566614b3ef25c8b" title="alloc_trace_uprobe" alt="" coords="388,5,519,32"/>
+<area shape="rect" id="node4" href="$trace__uprobe_8c.html#a9396ee67b5f3b017d2412803a8aee9f3" title="create_trace_uprobe" alt="" coords="1183,5,1323,32"/>
+<area shape="rect" id="node6" href="$trace__uprobe_8c.html#a2abd11922b7fa543ce1646c1fb2e73e2" title="unregister_uprobe_event" alt="" coords="567,31,731,57"/>
+<area shape="rect" id="node5" href="$trace__uprobe_8c.html#a8945dd0370eab38f02c6b5b40163d353" title="probes_write" alt="" coords="1371,5,1467,32"/>
+<area shape="rect" id="node7" href="$trace__uprobe_8c.html#aec4f6878535c62064a0f6e1cde652a01" title="unregister_trace_uprobe" alt="" coords="779,44,940,71"/>
+<area shape="rect" id="node8" href="$trace__uprobe_8c.html#accdab93c824cac0be5d8b0bdcb442d8e" title="register_trace_uprobe" alt="" coords="988,56,1135,83"/>
+<area shape="rect" id="node9" href="$trace__uprobe_8c.html#a10e05a9109cd628a88b476e1665ef8bb" title="cleanup_all_probes" alt="" coords="995,107,1128,133"/>
+<area shape="rect" id="node10" href="$trace__uprobe_8c.html#a0b803b054f33ee5788b32468f61ca42f" title="probes_open" alt="" coords="1205,107,1301,133"/>
+</map>

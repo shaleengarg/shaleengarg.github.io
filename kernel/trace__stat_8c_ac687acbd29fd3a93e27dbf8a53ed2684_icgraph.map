@@ -1,0 +1,4 @@
+<map id="insert_stat" name="insert_stat">
+<area shape="rect" id="node2" href="$trace__stat_8c.html#ae28624523fc8f287fae7d04bca79a59c" title="stat_seq_init" alt="" coords="136,5,232,32"/>
+<area shape="rect" id="node3" href="$trace__stat_8c.html#ad55e733034a43e08519418758f5d29cf" title="tracing_stat_open" alt="" coords="280,5,405,32"/>
+</map>

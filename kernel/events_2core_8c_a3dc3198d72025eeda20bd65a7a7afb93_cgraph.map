@@ -1,0 +1,13 @@
+<map id="__perf_event_read" name="__perf_event_read">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a016404701c7dff22ac290a9636735059" title="__get_cpu_context" alt="" coords="219,5,351,32"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#aa87fb459a267c0326ccd1fa09b2f6115" title="update_context_time" alt="" coords="214,56,357,83"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#a6ce16f344b2d12f94cbcd4542782b1d2" title="update_cgrp_time_from\l_event" alt="" coords="206,107,365,149"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#acbbfae1c3318b8b15e1e6c29625d4b56" title="perf_event_update_time" alt="" coords="436,199,597,225"/>
+<area shape="rect" id="node12" href="$events_2core_8c.html#a1c7c768858fb3b5a5f98e1a047219366" title="perf_event_update_sibling_time" alt="" coords="183,224,388,251"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="475,56,558,83"/>
+<area shape="rect" id="node7" href="$events_2core_8c.html#a30ce570faa776d0906052ef0857a4e91" title="perf_event_time" alt="" coords="659,173,774,200"/>
+<area shape="rect" id="node10" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="645,224,788,251"/>
+<area shape="rect" id="node8" href="$events_2core_8c.html#a045df119c5b88712572598a3ee6698ce" title="is_cgroup_event" alt="" coords="858,123,975,149"/>
+<area shape="rect" id="node9" href="$events_2core_8c.html#a6475bc473a7ff1231cdcbea349342d02" title="perf_cgroup_event_time" alt="" coords="836,173,997,200"/>
+<area shape="rect" id="node11" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="841,224,992,251"/>
+</map>

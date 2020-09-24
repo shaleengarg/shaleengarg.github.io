@@ -1,0 +1,8 @@
+<map id="crash_save_vmcoreinfo" name="crash_save_vmcoreinfo">
+<area shape="rect" id="node2" href="$crash__core_8c.html#a89e40019502db35d5442be42ca1682fa" title="vmcoreinfo_append_str" alt="" coords="217,5,374,32"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#ade03c0c596c0f8106fde0fb5893995d9" title="get_seconds" alt="" coords="247,56,343,83"/>
+<area shape="rect" id="node5" href="$crash__core_8c.html#ae1680a1584940eca18ebc15d0e9a4f79" title="update_vmcoreinfo_note" alt="" coords="213,107,377,133"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="425,56,564,83"/>
+<area shape="rect" id="node6" href="$crash__core_8c.html#af548c2d88ec8d48a29e0f2255819d311" title="append_elf_note" alt="" coords="436,107,553,133"/>
+<area shape="rect" id="node7" href="$crash__core_8c.html#a8a0d5a9a953ad57e4241908eb5cdc510" title="final_note" alt="" coords="455,157,534,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="__set_task_blocked" name="__set_task_blocked">
+<area shape="rect" id="node2" href="$signal_8c.html#adf852130a034af10cb83cc5ba8d7d0d0" title="retarget_shared_pending" alt="" coords="192,5,356,32"/>
+<area shape="rect" id="node4" href="$signal_8c.html#aa338dcd81758c0bde2435f090ca502fb" title="recalc_sigpending" alt="" coords="211,56,337,83"/>
+<area shape="rect" id="node3" href="$signal_8c.html#a211d8738db362d4aaa245f5cfd25bc1f" title="has_pending_signals" alt="" coords="408,5,551,32"/>
+<area shape="rect" id="node5" href="$signal_8c.html#a6b3a414aeb28d735319baa2bf809c830" title="recalc_sigpending_tsk" alt="" coords="404,56,555,83"/>
+</map>

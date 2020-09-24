@@ -1,0 +1,5 @@
+<map id="start_dl_timer" name="start_dl_timer">
+<area shape="rect" id="node2" href="$deadline_8c.html#a852ef65f7d53e91656191524ecf6fb62" title="dl_next_period" alt="" coords="155,5,261,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#ad3626499c2477c1305ef65fbf49caa50" title="rq_clock" alt="" coords="173,56,243,83"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="309,56,459,83"/>
+</map>

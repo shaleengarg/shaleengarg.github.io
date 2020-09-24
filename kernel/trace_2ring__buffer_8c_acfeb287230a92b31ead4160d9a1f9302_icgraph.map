@@ -1,0 +1,4 @@
+<map id="ring_buffer_read_prepare_sync" name="ring_buffer_read_prepare_sync">
+<area shape="rect" id="node2" href="$trace_8c.html#a955709da6716f7735bbf08d6aa04e2ce" title="__tracing_open" alt="" coords="253,5,364,32"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a030b6d3f3dc1522b50e3b9314e60d79f" title="tracing_open" alt="" coords="412,5,508,32"/>
+</map>

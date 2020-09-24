@@ -1,0 +1,26 @@
+var structtracer =
+[
+    [ "allow_instances", "structtracer.html#a197848e7c5e9c50709df739f2fa2d4c6", null ],
+    [ "close", "structtracer.html#ac0bc47820fbff95686a7127148c05478", null ],
+    [ "enabled", "structtracer.html#a583246b3d05a65d9db97ea31e125282a", null ],
+    [ "flag_changed", "structtracer.html#ae343739a2f48544af0cf48c51f60f1f5", null ],
+    [ "flags", "structtracer.html#ac11918a4558745d358cba4b0c421fcde", null ],
+    [ "init", "structtracer.html#a85599c42bf3b0e789cb447f486487852", null ],
+    [ "name", "structtracer.html#a08a3bb14c306ce7394df6a5bb56e6eb3", null ],
+    [ "next", "structtracer.html#aec6b92c7c58fec94b57b7a2385c3c3c1", null ],
+    [ "noboot", "structtracer.html#a46f36095833f16d57ff2272b706ef1c9", null ],
+    [ "open", "structtracer.html#a790b539400ef5415b3816317ae424e3c", null ],
+    [ "pipe_close", "structtracer.html#a0a9b2338f4da1772b705afe3d75afe59", null ],
+    [ "pipe_open", "structtracer.html#ab25bb8f8b84232f2621ee25f05fe50d9", null ],
+    [ "print_header", "structtracer.html#ae8d16df0f7a21a9d0ee1a96ea1937124", null ],
+    [ "print_line", "structtracer.html#aa9b7bf7e0331b1fba15e3c2edf19efc3", null ],
+    [ "print_max", "structtracer.html#a34f47785207d4a5641bb87b66643e4c0", null ],
+    [ "read", "structtracer.html#a4fbca7cc8a12a26c9cb2f2c3333c41c2", null ],
+    [ "ref", "structtracer.html#a9dd1e93811159a0c100228167d83a0f2", null ],
+    [ "reset", "structtracer.html#a5579d19b33dc38d480b219cb2ae419c2", null ],
+    [ "set_flag", "structtracer.html#ae27f25a66533a0a4a94736b645580a60", null ],
+    [ "splice_read", "structtracer.html#a604d32374dad505572dbfb3cc0b487e3", null ],
+    [ "start", "structtracer.html#a6411fff6480165f4c551ec1bd203ac34", null ],
+    [ "stop", "structtracer.html#ab644818db10f34d1323f139a99d7de05", null ],
+    [ "update_thresh", "structtracer.html#a41540cc11253859b3444706974b726f8", null ]
+];

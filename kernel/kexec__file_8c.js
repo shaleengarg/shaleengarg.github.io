@@ -1,0 +1,25 @@
+var kexec__file_8c =
+[
+    [ "pr_fmt", "kexec__file_8c.html#a1f8c165bf4196327bc3abff648276d92", null ],
+    [ "arch_kexec_apply_relocations", "kexec__file_8c.html#a7d2a4c65f548013459066da0046e87cb", null ],
+    [ "arch_kexec_apply_relocations_add", "kexec__file_8c.html#a98ec06c57c06bbe66b789166cfc799b2", null ],
+    [ "arch_kexec_kernel_image_load", "kexec__file_8c.html#af3307d37bac7423306d607461853a255", null ],
+    [ "arch_kexec_kernel_image_probe", "kexec__file_8c.html#a98da5ef65b0370d420db74a8668599b2", null ],
+    [ "arch_kexec_walk_mem", "kexec__file_8c.html#a998813afb69fc631ba5f49c9c0aa1882", null ],
+    [ "arch_kimage_file_post_load_cleanup", "kexec__file_8c.html#ab4c6f383e7368d6b53e481be53b46fd5", null ],
+    [ "crash_exclude_mem_range", "kexec__file_8c.html#a2ee9405e3471229c97efa0a7f1f438d9", null ],
+    [ "crash_prepare_elf64_headers", "kexec__file_8c.html#ac592c3ba0270e9b471d1a2d5e8ca553b", null ],
+    [ "kexec_add_buffer", "kexec__file_8c.html#a6bb3c971f7ff0ea3f2b660ac26753ab6", null ],
+    [ "kexec_calculate_store_digests", "kexec__file_8c.html#a6d620e41ca9f482c68524286d6c16127", null ],
+    [ "kexec_image_load_default", "kexec__file_8c.html#a39d6b422630aa0bc2fc0866b0bf292c8", null ],
+    [ "kexec_image_post_load_cleanup_default", "kexec__file_8c.html#a9c03dc2af45124de86ddeb122b7e1eaa", null ],
+    [ "kexec_image_probe_default", "kexec__file_8c.html#a2e8c0904f1d0f8520ebb6ee90ac868d9", null ],
+    [ "kexec_locate_mem_hole", "kexec__file_8c.html#ab3f8594b14d3d4cac22df76027c5b30a", null ],
+    [ "kimage_file_alloc_init", "kexec__file_8c.html#ac5abb95d8a56854dcfbe644ace797367", null ],
+    [ "kimage_file_post_load_cleanup", "kexec__file_8c.html#ad3733a0eb3adcf6d5929ff444f6e44ea", null ],
+    [ "kimage_file_prepare_segments", "kexec__file_8c.html#a4790667bc21faa973c2f3af720a8533b", null ],
+    [ "locate_mem_hole_bottom_up", "kexec__file_8c.html#a775c02bceb8af86db122ca59b81ea66f", null ],
+    [ "locate_mem_hole_callback", "kexec__file_8c.html#a6c173c1922cd02592dae66f993b8334b", null ],
+    [ "locate_mem_hole_top_down", "kexec__file_8c.html#a71abf077358b8accf897038767a4765d", null ],
+    [ "SYSCALL_DEFINE5", "kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4", null ]
+];

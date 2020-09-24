@@ -1,0 +1,14 @@
+<map id="rcu_barrier_func" name="rcu_barrier_func">
+<area shape="rect" id="node2" href="$tree_8c.html#a39f2818b732de30437494bb11ccb3397" title="_rcu_barrier_trace" alt="" coords="397,5,523,32"/>
+<area shape="rect" id="node3" href="$tree_8c.html#a1f6f3c53ad963c31eb663d3ac2919e63" title="rcu_barrier_callback" alt="" coords="185,56,324,83"/>
+<area shape="rect" id="node9" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="175,107,334,133"/>
+<area shape="rect" id="node10" href="$rcu__segcblist_8c.html#a22ab2635f379823f2132d3eda1773b32" title="rcu_segcblist_entrain" alt="" coords="182,157,327,184"/>
+<area shape="rect" id="node12" href="$rcu_8h.html#a690f10e462cb94f720919737886cea7f" title="debug_rcu_head_unqueue" alt="" coords="168,208,341,235"/>
+<area shape="rect" id="node4" href="$completion_8c.html#acfb6d2f4414f6f8c89c6a072da7c0832" title="complete" alt="" coords="423,56,497,83"/>
+<area shape="rect" id="node5" href="$wait_8c.html#a5a4e6acdc83574b50383adeb5e26ae3a" title="__wake_up_locked" alt="" coords="581,31,715,57"/>
+<area shape="rect" id="node8" href="$completion_8c.html#a017b15945f4ddb7ee34b7e6ee6616510" title="EXPORT_SYMBOL" alt="" coords="579,81,717,108"/>
+<area shape="rect" id="node6" href="$wait_8c.html#a4e77507431b7266b711a1c31069b96a7" title="__wake_up_common" alt="" coords="779,5,924,32"/>
+<area shape="rect" id="node7" href="$wait_8c.html#a5d762c19a34e529508b93fa52241737a" title="EXPORT_SYMBOL_GPL" alt="" coords="765,56,937,83"/>
+<area shape="rect" id="node11" href="$rcu__segcblist_8h.html#ac2f498b8f4edd8cb04a78fb6076f8f30" title="rcu_segcblist_n_cbs" alt="" coords="389,157,531,184"/>
+<area shape="rect" id="node13" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="435,208,485,235"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="arch_seccomp_spec_mitigate" name="arch_seccomp_spec_mitigate">
+<area shape="rect" id="node2" href="$seccomp_8c.html#a3ea32c79d8a24ccae7f22d0eaa50da03" title="seccomp_assign_mode" alt="" coords="248,31,407,57"/>
+<area shape="rect" id="node3" href="$seccomp_8c.html#abf6097ae76e1c5b87f0ca3c91832a7de" title="seccomp_set_mode_strict" alt="" coords="455,31,629,57"/>
+<area shape="rect" id="node4" href="$seccomp_8c.html#ab1e192c94d23ce8c4402f72b1a22641b" title="do_seccomp" alt="" coords="677,31,773,57"/>
+<area shape="rect" id="node5" href="$seccomp_8c.html#a9ee812f89837eb7547ee7e819d4121ad" title="SYSCALL_DEFINE3" alt="" coords="821,5,968,32"/>
+<area shape="rect" id="node6" href="$seccomp_8c.html#a3a0b85686ffc73edc19d8675f231b8ea" title="prctl_set_seccomp" alt="" coords="829,56,961,83"/>
+<area shape="rect" id="node7" href="$sys_8c.html#a5ca25d9ab2fe7976ab7f6c3688006177" title="SYSCALL_DEFINE5" alt="" coords="1016,56,1163,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="__disable_irq" name="__disable_irq">
+<area shape="rect" id="node2" href="$manage_8c.html#a55c5a166d1ace11169769ae3d54b9e46" title="__disable_irq_nosync" alt="" coords="152,69,299,96"/>
+<area shape="rect" id="node10" href="$pm_8c.html#a391df03db1485b944149824ddbf93fdb" title="suspend_device_irq" alt="" coords="157,132,294,159"/>
+<area shape="rect" id="node3" href="$manage_8c.html#a44a93a9b16512b5b8c877bd97faa4a7e" title="disable_irq_nosync" alt="" coords="352,5,485,32"/>
+<area shape="rect" id="node4" href="$manage_8c.html#a07f44825be2cd39193fb517d67e55c32" title="disable_irq" alt="" coords="377,56,461,83"/>
+<area shape="rect" id="node9" href="$manage_8c.html#a488148804e3a68995bbd76893d98c18c" title="disable_hardirq" alt="" coords="364,107,473,133"/>
+<area shape="rect" id="node5" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="539,56,681,83"/>
+<area shape="rect" id="node6" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="729,31,912,57"/>
+<area shape="rect" id="node7" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="739,81,903,108"/>
+<area shape="rect" id="node8" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="960,81,1163,108"/>
+<area shape="rect" id="node11" href="$pm_8c.html#a0c327e13fc051112d2fc49f774624f4d" title="suspend_device_irqs" alt="" coords="347,157,491,184"/>
+</map>

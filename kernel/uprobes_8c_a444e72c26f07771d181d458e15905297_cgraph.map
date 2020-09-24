@@ -1,0 +1,8 @@
+<map id="set_swbp" name="set_swbp">
+<area shape="rect" id="node2" href="$uprobes_8c.html#a906ef3360c7be75859befdcbeb048e26" title="uprobe_write_opcode" alt="" coords="132,81,277,108"/>
+<area shape="rect" id="node3" href="$uprobes_8c.html#af7e5d54502026e80e6a44364b6da04a4" title="verify_opcode" alt="" coords="331,31,433,57"/>
+<area shape="rect" id="node6" href="$uprobes_8c.html#a6b82da9583c2aae48b29e2212193705a" title="copy_to_page" alt="" coords="331,81,433,108"/>
+<area shape="rect" id="node7" href="$uprobes_8c.html#ac55df7bb194ae80374146a7336dfa1e5" title="__replace_page" alt="" coords="325,132,439,159"/>
+<area shape="rect" id="node4" href="$uprobes_8c.html#aa8f762c036b2cbaab936fafa5bb6003b" title="copy_from_page" alt="" coords="487,5,605,32"/>
+<area shape="rect" id="node5" href="$uprobes_8c.html#a40a362f9f7103732aa0f714bea7e5516" title="is_swbp_insn" alt="" coords="495,56,597,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="tracing_record_taskinfo_sched_switch" name="tracing_record_taskinfo_sched_switch">
+<area shape="rect" id="node2" href="$trace_8c.html#aeba62e1d877a5e3aab3f3eb075df7693" title="tracing_record_taskinfo_skip" alt="" coords="211,63,399,90"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a0d6331bd8f40a2dccbe1348e50b718ae" title="trace_save_cmdline" alt="" coords="235,114,374,141"/>
+<area shape="rect" id="node10" href="$trace_8c.html#a9c268358c8cbc68154acf0b402ba6462" title="trace_save_tgid" alt="" coords="247,165,362,191"/>
+<area shape="rect" id="node3" href="$trace_8c.html#ab66b1dd4be2fc3fa5b3678f173599349" title="tracing_is_on" alt="" coords="447,63,545,90"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a115c17e03c39af6ddae1357d8e004022" title="tracer_tracing_is_on" alt="" coords="610,13,749,39"/>
+<area shape="rect" id="node6" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="593,63,765,90"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#a8961597a814843f08c653e583518ff2a" title="ring_buffer_record\l_is_on" alt="" coords="813,5,940,47"/>
+<area shape="rect" id="node8" href="$trace_8c.html#affe25407037d31b1cb9f762fbfe1367b" title="set_cmdline" alt="" coords="450,114,542,141"/>
+<area shape="rect" id="node9" href="$trace_8c.html#aad9dced1b3e1ba1c688b020f74cc1988" title="get_saved_cmdlines" alt="" coords="609,114,750,141"/>
+</map>

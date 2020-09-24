@@ -1,0 +1,13 @@
+<map id="debugfs_remove_domain_dir" name="debugfs_remove_domain_dir">
+<area shape="rect" id="node2" href="$irqdomain_8c.html#a0b3077d693a5f61af6265813519ed5ff" title="irq_domain_remove" alt="" coords="267,5,402,32"/>
+<area shape="rect" id="node3" href="$irqdomain_8c.html#a9a2e320405f440ab15bd061d590cfe0a" title="irq_domain_update_bus\l_token" alt="" coords="255,57,414,98"/>
+<area shape="rect" id="node4" href="$irqdomain_8c.html#a5b3d5e4b67f80a8feaa55c34284d6051" title="irq_domain_check_hierarchy" alt="" coords="241,123,428,149"/>
+<area shape="rect" id="node5" href="$irqdomain_8c.html#ad898f6728179866e79cfe9bf4a2c2f8c" title="__irq_domain_add" alt="" coords="493,97,620,124"/>
+<area shape="rect" id="node8" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="476,148,637,175"/>
+<area shape="rect" id="node6" href="$irqdomain_8c.html#a50b586e87cd6c42a3d9ad55987083ba7" title="irq_domain_add_simple" alt="" coords="685,47,844,73"/>
+<area shape="rect" id="node7" href="$irqdomain_8c.html#a4d8d397e75f302431fda99a3a4c28605" title="irq_domain_add_legacy" alt="" coords="685,97,844,124"/>
+<area shape="rect" id="node9" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="711,148,818,175"/>
+<area shape="rect" id="node10" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="697,199,832,225"/>
+<area shape="rect" id="node11" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="892,199,1076,225"/>
+<area shape="rect" id="node12" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="1124,199,1277,225"/>
+</map>

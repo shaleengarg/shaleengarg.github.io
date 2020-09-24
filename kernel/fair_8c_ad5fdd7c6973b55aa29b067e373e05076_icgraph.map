@@ -1,0 +1,13 @@
+<map id="return_cfs_rq_runtime" name="return_cfs_rq_runtime">
+<area shape="rect" id="node2" href="$fair_8c.html#abe5e185ac5381b4da91af84fa443b2bd" title="clear_buddies" alt="" coords="201,76,304,102"/>
+<area shape="rect" id="node3" href="$fair_8c.html#ad5bad21d7edfb344b07c9bf97a2c1607" title="dequeue_entity" alt="" coords="366,25,477,52"/>
+<area shape="rect" id="node4" href="$fair_8c.html#af0207be4c69b8f41f2cdd6a8fdb05e9a" title="entity_tick" alt="" coords="565,25,647,52"/>
+<area shape="rect" id="node8" href="$fair_8c.html#a0f667095e48719b89a3979a3fa89b49f" title="check_preempt_tick" alt="" coords="352,76,491,102"/>
+<area shape="rect" id="node9" href="$fair_8c.html#a52f2cd4ff8ca8d36490689c23d74a7d7" title="pick_next_entity" alt="" coords="363,126,480,153"/>
+<area shape="rect" id="node11" href="$fair_8c.html#a968f6d4c794f93def45484f1a683caa9" title="yield_task_fair" alt="" coords="553,177,659,204"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a11e923181fa8fc0b2bc56d6190c480e1" title="dequeue_task_fair" alt="" coords="721,76,849,102"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="735,25,835,52"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="897,126,1027,153"/>
+<area shape="rect" id="node10" href="$fair_8c.html#aa46f40a6ad1acf3a2091fa6acd182511" title="pick_next_task_fair" alt="" coords="539,126,673,153"/>
+<area shape="rect" id="node12" href="$fair_8c.html#a86ac17127919c059011154d69a5d0bc9" title="yield_to_task_fair" alt="" coords="723,177,847,204"/>
+</map>

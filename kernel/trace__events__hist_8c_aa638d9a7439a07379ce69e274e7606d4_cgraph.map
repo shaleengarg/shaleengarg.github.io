@@ -1,0 +1,4 @@
+<map id="hist_trigger_elt_data_free" name="hist_trigger_elt_data_free">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#a93f8e1a2cf0f4b457c3ca8d8676123cf" title="hist_elt_data_free" alt="" coords="221,5,347,32"/>
+<area shape="rect" id="node3" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="395,5,445,32"/>
+</map>

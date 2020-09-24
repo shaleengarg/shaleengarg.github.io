@@ -1,0 +1,6 @@
+<map id="freezing_slow_path" name="freezing_slow_path">
+<area shape="rect" id="node2" href="$cgroup_2freezer_8c.html#a02fb96061dea35600b55b8fd7f7dbb0f" title="cgroup_freezing" alt="" coords="200,5,315,32"/>
+<area shape="rect" id="node5" href="$freezer_8c.html#a4a7a9c8ab8f18e1b926425ac57a4af90" title="EXPORT_SYMBOL" alt="" coords="188,56,327,83"/>
+<area shape="rect" id="node3" href="$cgroup_2freezer_8c.html#a582c7f6550e6a897e849cc722b3d33fd" title="task_freezer" alt="" coords="375,5,469,32"/>
+<area shape="rect" id="node4" href="$cgroup_2freezer_8c.html#aeefb5ec47e0a005c91ebf5cee3c9ee4b" title="css_freezer" alt="" coords="517,5,608,32"/>
+</map>

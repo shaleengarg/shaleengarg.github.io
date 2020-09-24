@@ -1,0 +1,6 @@
+<map id="synth_field_string_size" name="synth_field_string_size">
+<area shape="rect" id="node2" href="$trace__events__hist_8c.html#aa60b769aa60096942c54ad33ee2fff01" title="synth_field_size" alt="" coords="208,5,324,32"/>
+<area shape="rect" id="node3" href="$trace__events__hist_8c.html#ad06b2926587ba79175fb0fc552f4f827" title="parse_synth_field" alt="" coords="372,5,496,32"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#a1cb98d359a1b1ede6b0b3f8ee06c1873" title="create_synth_event" alt="" coords="544,5,680,32"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a27f54c5611e860e827e4a6d1045b9a12" title="synth_events_write" alt="" coords="728,5,863,32"/>
+</map>

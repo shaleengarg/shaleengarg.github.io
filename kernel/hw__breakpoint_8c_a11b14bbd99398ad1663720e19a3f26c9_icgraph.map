@@ -1,0 +1,8 @@
+<map id="modify_user_hw_breakpoint_check" name="modify_user_hw_breakpoint_check">
+<area shape="rect" id="node2" href="$events_2core_8c.html#aad2cc5bc5ef5101ba5583d3661d23d8a" title="perf_event_modify_breakpoint" alt="" coords="237,5,433,32"/>
+<area shape="rect" id="node7" href="$hw__breakpoint_8c.html#acf1e749c54ab6132bcae68373ad2f2ef" title="modify_user_hw_breakpoint" alt="" coords="243,56,427,83"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a1b27d676686e74e20fb23624c68d312b" title="perf_event_modify_attr" alt="" coords="481,5,636,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a1df503a5593ea72b7257454ac3315340" title="_perf_ioctl" alt="" coords="684,5,767,32"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#add3d5e75d18f158f3354b761711aa429" title="perf_ioctl" alt="" coords="815,5,889,32"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#a4fb83ad480470861182d4961ec00f536" title="perf_fasync" alt="" coords="937,5,1028,32"/>
+</map>

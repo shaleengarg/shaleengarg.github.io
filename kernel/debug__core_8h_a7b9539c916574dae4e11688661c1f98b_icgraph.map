@@ -1,0 +1,9 @@
+<map id="dbg_activate_sw_breakpoints" name="dbg_activate_sw_breakpoints">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a37f98359903a3944046d8840ab0b3b86" title="kgdb_reenter_check" alt="" coords="409,5,548,32"/>
+<area shape="rect" id="node4" href="$gdbstub_8c.html#a63e2b239e99914ca4fa28d6f5b73e341" title="gdb_serial_stub" alt="" coords="248,56,361,83"/>
+<area shape="rect" id="node8" href="$kdb__debugger_8c.html#a957bed500be0598ca503d528111a23bf" title="kdb_stub" alt="" coords="267,107,342,133"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="596,5,755,32"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="421,56,536,83"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="612,56,739,83"/>
+<area shape="rect" id="node7" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="621,107,729,133"/>
+</map>

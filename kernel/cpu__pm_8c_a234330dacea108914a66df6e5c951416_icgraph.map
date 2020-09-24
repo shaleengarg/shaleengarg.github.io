@@ -1,0 +1,6 @@
+<map id="cpu_pm_notify" name="cpu_pm_notify">
+<area shape="rect" id="node2" href="$cpu__pm_8c.html#a8869ed57608aa2471ebb064ffcaddd63" title="cpu_pm_enter" alt="" coords="183,5,287,32"/>
+<area shape="rect" id="node3" href="$cpu__pm_8c.html#a826e0dafccf2492c3bbd8ae4e4bb633f" title="cpu_cluster_pm_exit" alt="" coords="359,81,501,108"/>
+<area shape="rect" id="node4" href="$cpu__pm_8c.html#aef38a3b7216c4acda8caaa3b5fd537e8" title="cpu_pm_exit" alt="" coords="187,107,283,133"/>
+<area shape="rect" id="node5" href="$cpu__pm_8c.html#a7aecfaa419ca7ed5c775c70f102d3961" title="cpu_cluster_pm_enter" alt="" coords="160,157,311,184"/>
+</map>

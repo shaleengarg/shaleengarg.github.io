@@ -1,0 +1,9 @@
+<map id="check_modstruct_version" name="check_modstruct_version">
+<area shape="rect" id="node2" href="$module_8c.html#a1f75d6d4b28d7570c752c9c1be162d63" title="try_to_force_load" alt="" coords="224,63,347,90"/>
+<area shape="rect" id="node8" href="$module_8c.html#a2ebb945774d596ace7275cfaa09b988d" title="setup_load_info" alt="" coords="395,114,508,141"/>
+<area shape="rect" id="node3" href="$module_8c.html#a7acb9915078a6eb816a6d69fdd434c62" title="check_modinfo" alt="" coords="396,63,507,90"/>
+<area shape="rect" id="node7" href="$module_8c.html#a3e0ecc709780fc887fac8cec35fd7e50" title="check_module_license\l_and_versions" alt="" coords="556,5,711,47"/>
+<area shape="rect" id="node4" href="$module_8c.html#a4493d82dfebd3c322b787a1001dcd9aa" title="layout_and_allocate" alt="" coords="565,71,702,98"/>
+<area shape="rect" id="node5" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="759,42,853,69"/>
+<area shape="rect" id="node6" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="901,42,1048,69"/>
+</map>

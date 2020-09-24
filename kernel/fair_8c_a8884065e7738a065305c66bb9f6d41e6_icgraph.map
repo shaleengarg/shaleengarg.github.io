@@ -1,0 +1,7 @@
+<map id="check_schedstat_required" name="check_schedstat_required">
+<area shape="rect" id="node2" href="$fair_8c.html#a1fbc2ca2f25ce8fcf7a8ee1df0f5d5aa" title="enqueue_entity" alt="" coords="228,31,339,57"/>
+<area shape="rect" id="node3" href="$fair_8c.html#af0207be4c69b8f41f2cdd6a8fdb05e9a" title="entity_tick" alt="" coords="387,5,469,32"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a082df406a0b1ac9938079d004e33b155" title="enqueue_task_fair" alt="" coords="517,56,645,83"/>
+<area shape="rect" id="node4" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="531,5,631,32"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="693,31,823,57"/>
+</map>

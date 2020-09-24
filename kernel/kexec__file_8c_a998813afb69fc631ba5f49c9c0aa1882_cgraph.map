@@ -1,0 +1,7 @@
+<map id="arch_kexec_walk_mem" name="arch_kexec_walk_mem">
+<area shape="rect" id="node2" href="$resource_8c.html#a8d23824c3662d556c2dc1ebaaae3b561" title="walk_iomem_res_desc" alt="" coords="212,5,367,32"/>
+<area shape="rect" id="node6" href="$resource_8c.html#af25b275f2ee1f1e7801de101b7031492" title="walk_system_ram_res" alt="" coords="213,56,366,83"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a97e1bd4824808187df8a50ae3798cd59" title="__walk_iomem_res_desc" alt="" coords="415,31,584,57"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a85c105339d83cb2fb03d88a671c14192" title="find_next_iomem_res" alt="" coords="632,31,779,57"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a3e8ffb60a55c6da62e57733817f306d9" title="next_resource" alt="" coords="827,31,931,57"/>
+</map>

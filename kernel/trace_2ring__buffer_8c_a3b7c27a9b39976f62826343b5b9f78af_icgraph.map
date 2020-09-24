@@ -1,0 +1,13 @@
+<map id="ring_buffer_empty" name="ring_buffer_empty">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#a7a51c1c4379c82fc7f9c90d9b16433a1" title="ring_buffer_wait" alt="" coords="193,95,308,121"/>
+<area shape="rect" id="node9" href="$trace_2ring__buffer_8c.html#abf28b77b7f0dd0f6b68ab527deddd564" title="ring_buffer_poll_wait" alt="" coords="180,157,321,184"/>
+<area shape="rect" id="node3" href="$trace_8c.html#aebc631e860a7426f2afec325fca86576" title="wait_on_pipe" alt="" coords="369,88,468,115"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a854ccc1feb17f55f045b3404838288bc" title="tracing_wait_pipe" alt="" coords="545,31,668,57"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a41f5e86bab17d45ccaaf09853eedb607" title="tracing_buffers_read" alt="" coords="537,81,677,108"/>
+<area shape="rect" id="node8" href="$trace_8c.html#a5e14d5e30c9695fe53b4e3fadb7bb3ab" title="tracing_buffers_splice_read" alt="" coords="516,132,697,159"/>
+<area shape="rect" id="node5" href="$trace_8c.html#ae29e0441e1e65a2a2abd8f7b08750c31" title="tracing_read_pipe" alt="" coords="766,5,890,32"/>
+<area shape="rect" id="node6" href="$trace_8c.html#aaf81fbf2a1d643d63a0336d7a83c8736" title="tracing_splice_read_pipe" alt="" coords="745,56,911,83"/>
+<area shape="rect" id="node10" href="$trace_8c.html#a02116ec2ad7b98cc800692af14013b9a" title="trace_poll" alt="" coords="379,183,458,209"/>
+<area shape="rect" id="node11" href="$trace_8c.html#a381e77938f48964cec9eb258044a5956" title="tracing_poll_pipe" alt="" coords="547,183,666,209"/>
+<area shape="rect" id="node12" href="$trace_8c.html#a8d3b8d8fe5352d44c78637f77186dcd2" title="tracing_buffers_poll" alt="" coords="539,233,674,260"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="irqd_clr_move_pending" name="irqd_clr_move_pending">
+<area shape="rect" id="node2" href="$migration_8c.html#a61aab8c08d9b28f7192ad7333ff0bff8" title="irq_fixup_move_pending" alt="" coords="208,13,371,39"/>
+<area shape="rect" id="node5" href="$migration_8c.html#acd05db79ee4ae7179049a469fa4083c1" title="irq_move_masked_irq" alt="" coords="215,63,364,90"/>
+<area shape="rect" id="node3" href="$cpuhotplug_8c.html#a08294ada607a9785af731024ee167b8b" title="migrate_one_irq" alt="" coords="419,13,533,39"/>
+<area shape="rect" id="node4" href="$cpuhotplug_8c.html#a7501ad0cb275fef2085a19f4abcef66a" title="irq_migrate_all_off\l_this_cpu" alt="" coords="581,5,709,47"/>
+<area shape="rect" id="node6" href="$migration_8c.html#ac0d2559a7c594133d5339dfc0b414c05" title="irq_move_irq" alt="" coords="428,63,524,90"/>
+</map>

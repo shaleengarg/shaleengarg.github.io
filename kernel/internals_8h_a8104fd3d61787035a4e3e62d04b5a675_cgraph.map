@@ -1,0 +1,7 @@
+<map id="unregister_handler_proc" name="unregister_handler_proc">
+<area shape="rect" id="node2" href="$internals_8h.html#a1a2259186b59c504146547ebc65815c7" title="irq_can_set_affinity_usr" alt="" coords="213,5,373,32"/>
+<area shape="rect" id="node3" href="$internals_8h.html#aa7a3adb90b30a1d47fc6a96a8357161a" title="irq_select_affinity_usr" alt="" coords="219,56,368,83"/>
+<area shape="rect" id="node4" href="$internals_8h.html#a6ebb0dc5a9ea94647d0b07b3cae6c51f" title="irq_set_thread_affinity" alt="" coords="218,107,369,133"/>
+<area shape="rect" id="node5" href="$internals_8h.html#a645f439e613cfecfb41a8585b30b8e1f" title="irq_do_set_affinity" alt="" coords="229,157,357,184"/>
+<area shape="rect" id="node6" href="$internals_8h.html#a663b976585483989c44a7dfcdc5f69fa" title="irq_setup_affinity" alt="" coords="233,208,354,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="event_filter_pid_sched_process_exit" name="event_filter_pid_sched_process_exit">
+<area shape="rect" id="node2" href="$trace_8c.html#a843ae37351495023982031b982126a96" title="trace_filter_add_remove_task" alt="" coords="205,13,399,39"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a8dfb25f9bad81ce67e2af91c462aa434" title="trace_find_filtered_pid" alt="" coords="447,13,596,39"/>
+</map>

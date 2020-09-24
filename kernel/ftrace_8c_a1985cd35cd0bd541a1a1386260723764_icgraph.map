@@ -1,0 +1,10 @@
+<map id="ftrace_update_trampoline" name="ftrace_update_trampoline">
+<area shape="rect" id="node2" href="$ftrace_8c.html#abb66fe16d276b25cf28fb3656432ee56" title="ftrace_pids_enabled" alt="" coords="221,45,360,72"/>
+<area shape="rect" id="node3" href="$ftrace_8c.html#aeec7c0749e38341195a6399036520f2b" title="__register_ftrace_function" alt="" coords="408,5,580,32"/>
+<area shape="rect" id="node4" href="$ftrace_8c.html#a226123ea8706a108ea504c6a19359848" title="ftrace_update_pid_func" alt="" coords="415,67,573,93"/>
+<area shape="rect" id="node8" href="$ftrace_8c.html#a64af4ae4962fb05ede401af0526bf076" title="remove_ftrace_ops" alt="" coords="224,147,357,173"/>
+<area shape="rect" id="node5" href="$ftrace_8c.html#a73e1b54e11af21980334921b2887f19a" title="ftrace_pid_reset" alt="" coords="628,41,743,68"/>
+<area shape="rect" id="node7" href="$ftrace_8c.html#a6afaea0257668ba339ee2c641f34c313" title="ftrace_pid_write" alt="" coords="628,92,743,119"/>
+<area shape="rect" id="node6" href="$ftrace_8c.html#a6ee78376b5ade9167c82ce71dfef009d" title="ftrace_pid_open" alt="" coords="791,41,905,68"/>
+<area shape="rect" id="node9" href="$ftrace_8c.html#aaab0992781f25acf8a085d1d3f6fe83b" title="__unregister_ftrace\l_function" alt="" coords="427,139,561,181"/>
+</map>

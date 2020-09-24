@@ -1,0 +1,5 @@
+<map id="task_clock_event_update" name="task_clock_event_update">
+<area shape="rect" id="node2" href="$events_2core_8c.html#a275483eb0cdf4c20c3c8e1e8e9d60306" title="task_clock_event_stop" alt="" coords="224,5,380,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#a0723012c3ba7420e3516056f40791982" title="task_clock_event_read" alt="" coords="224,56,380,83"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a222660d3b18f7b97bff9b8e1f14a4947" title="task_clock_event_del" alt="" coords="428,5,576,32"/>
+</map>

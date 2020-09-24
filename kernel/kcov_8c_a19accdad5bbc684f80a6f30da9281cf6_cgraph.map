@@ -1,0 +1,7 @@
+<map id="kcov_ioctl" name="kcov_ioctl">
+<area shape="rect" id="node2" href="$kcov_8c.html#a2cd359c2d4b091e41bcd7526ff8ae84f" title="kcov_ioctl_locked" alt="" coords="135,56,261,83"/>
+<area shape="rect" id="node3" href="$kcov_8c.html#a328c3b80e1a4fe08064991a0d23809f3" title="kcov_get" alt="" coords="325,5,400,32"/>
+<area shape="rect" id="node4" href="$kcov_8c.html#ac775a9e44592795d1a7776783885e48f" title="kcov_task_init" alt="" coords="309,56,416,83"/>
+<area shape="rect" id="node5" href="$kcov_8c.html#a776142edce0535a00545e60d0ea7f1c0" title="kcov_put" alt="" coords="325,107,400,133"/>
+<area shape="rect" id="node6" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="464,107,515,133"/>
+</map>

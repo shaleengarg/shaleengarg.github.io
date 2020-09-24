@@ -1,0 +1,9 @@
+<map id="kdb_ps1" name="kdb_ps1">
+<area shape="rect" id="node2" href="$kdb__bt_8c.html#adec567fdd751c07e1cd3f78d0726ecb6" title="kdb_bt1" alt="" coords="124,5,192,32"/>
+<area shape="rect" id="node8" href="$kdb__main_8c.html#accfa88231fe71b9f294f2f3b7b31a775" title="kdb_ps" alt="" coords="240,56,304,83"/>
+<area shape="rect" id="node3" href="$kdb__bt_8c.html#af40216aee1ec514a50e246c2b663294a" title="kdb_bt" alt="" coords="241,5,303,32"/>
+<area shape="rect" id="node4" href="$kdb__main_8c.html#a82f19667b636b718a79c5093712471ca" title="kdb_inittab" alt="" coords="352,31,437,57"/>
+<area shape="rect" id="node5" href="$kdb__main_8c.html#abb66e4c055d6fb33d84d0c987aa2bea7" title="kdb_init" alt="" coords="485,31,552,57"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#ade36f6b46ae3e0b2d7447d89807eaf76" title="dbg_late_init" alt="" coords="606,5,701,32"/>
+<area shape="rect" id="node7" href="$debug__core_8c.html#ab5bc93e2007bd36c10d39d5cb0d05659" title="opt_kgdb_wait" alt="" coords="600,56,707,83"/>
+</map>

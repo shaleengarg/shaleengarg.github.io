@@ -1,0 +1,5 @@
+<map id="sched_init_smp" name="sched_init_smp">
+<area shape="rect" id="node2" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="167,31,233,57"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="281,5,363,32"/>
+<area shape="rect" id="node4" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="287,56,357,83"/>
+</map>

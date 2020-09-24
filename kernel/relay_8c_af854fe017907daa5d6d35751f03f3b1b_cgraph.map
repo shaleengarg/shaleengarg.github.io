@@ -1,0 +1,6 @@
+<map id="relay_remove_buf" name="relay_remove_buf">
+<area shape="rect" id="node2" href="$relay_8c.html#ae8802ffb6b14ad2e2e3a1714d0880f7e" title="relay_destroy_buf" alt="" coords="179,56,304,83"/>
+<area shape="rect" id="node3" href="$relay_8c.html#a766c99dff6e9b0bbfe00b7874c4b4f48" title="relay_free_page_array" alt="" coords="353,5,503,32"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="552,81,603,108"/>
+<area shape="rect" id="node5" href="$relay_8c.html#a79e75ff01cafd826695baa24b0223e93" title="relay_destroy_channel" alt="" coords="352,107,504,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pids_cancel" name="pids_cancel">
+<area shape="rect" id="node2" href="$pids_8c.html#aca6d6e3f4d2a1d264dba33cb5f0c6d7d" title="pids_uncharge" alt="" coords="148,107,255,133"/>
+<area shape="rect" id="node7" href="$pids_8c.html#a5cfc53ef6983ea6b071859abab94561e" title="pids_try_charge" alt="" coords="144,183,259,209"/>
+<area shape="rect" id="node3" href="$pids_8c.html#a925cc51dd086e92863005e21be9fcb10" title="pids_can_attach" alt="" coords="315,5,433,32"/>
+<area shape="rect" id="node4" href="$pids_8c.html#a907507166994aaf334739bd9a9786ccb" title="pids_cancel_attach" alt="" coords="307,56,441,83"/>
+<area shape="rect" id="node5" href="$pids_8c.html#a3cfe73acb0c569e0d7e319804fb1dd75" title="pids_cancel_fork" alt="" coords="314,107,434,133"/>
+<area shape="rect" id="node6" href="$pids_8c.html#a65e974e4add9f44357080a52b96afd7c" title="pids_free" alt="" coords="337,157,411,184"/>
+<area shape="rect" id="node8" href="$pids_8c.html#a4bfc54468ed28dae1f759f007339b558" title="pids_can_fork" alt="" coords="323,208,425,235"/>
+</map>

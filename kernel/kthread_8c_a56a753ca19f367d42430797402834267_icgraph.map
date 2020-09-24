@@ -1,0 +1,6 @@
+<map id="__kthread_cancel_work_sync" name="__kthread_cancel_work_sync">
+<area shape="rect" id="node2" href="$kthread_8c.html#a506f8e8416719445653e0d696e448b51" title="kthread_cancel_work_sync" alt="" coords="248,5,428,32"/>
+<area shape="rect" id="node5" href="$kthread_8c.html#a0f9f3b7b7e0d1eb6351daf85058d9cbd" title="kthread_cancel_delayed\l_work_sync" alt="" coords="257,57,419,98"/>
+<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#a264833f93b404186f49c103f0ea099e7" title="sugov_stop" alt="" coords="476,5,565,32"/>
+<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="613,5,708,32"/>
+</map>

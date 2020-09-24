@@ -1,0 +1,4 @@
+<map id="do_idle" name="do_idle">
+<area shape="rect" id="node2" href="$idle_8c.html#a11c39327cf4ee3454919418a6d5cc68a" title="play_idle" alt="" coords="143,5,216,32"/>
+<area shape="rect" id="node3" href="$idle_8c.html#aadea56844f6dc7ded8372dca84e1641c" title="cpu_startup_entry" alt="" coords="116,56,243,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$timecounter_8c.html#aa38ae2f60a77da096c8930cb43c08331" title="timecounter_init" alt="" coords="243,5,358,32"/>
+<area shape="rect" id="node3" href="$timecounter_8c.html#a78d943bdd3165354112ee6ba0cdefdd6" title="timecounter_read" alt="" coords="239,56,362,83"/>
+<area shape="rect" id="node4" href="$timecounter_8c.html#adf7b9df86a629cc0f36286be33949418" title="timecounter_cyc2time" alt="" coords="225,107,376,133"/>
+</map>

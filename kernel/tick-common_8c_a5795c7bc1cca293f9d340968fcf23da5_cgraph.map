@@ -1,0 +1,9 @@
+<map id="tick_check_replacement" name="tick_check_replacement">
+<area shape="rect" id="node2" href="$tick-common_8c.html#abf04f1a9482934bd32ce412d7ee47210" title="tick_check_percpu" alt="" coords="222,5,353,32"/>
+<area shape="rect" id="node3" href="$tick-common_8c.html#a9e09ceed5c7b46c02afef016a1460db2" title="tick_check_preferred" alt="" coords="216,56,359,83"/>
+<area shape="rect" id="node4" href="$tick-oneshot_8c.html#a2c24e95ddea8a53a8e711d91d319a1bb" title="tick_oneshot_mode_active" alt="" coords="407,56,584,83"/>
+<area shape="rect" id="node5" href="$tick-oneshot_8c.html#aed7da07e27a0f2cb71b05d17fa0e5508" title="tick_switch_to_oneshot" alt="" coords="632,56,791,83"/>
+<area shape="rect" id="node6" href="$clockevents_8c.html#af738190c7422701a938cb919749ea505" title="clockevents_switch\l_state" alt="" coords="846,15,983,57"/>
+<area shape="rect" id="node8" href="$tick-internal_8h.html#a1ca6c31e5b2f5fac9f213dfee7e3a782" title="tick_broadcast_switch\l_to_oneshot" alt="" coords="839,81,991,122"/>
+<area shape="rect" id="node7" href="$clockevents_8c.html#a32b5546cace9e0f7617029fdd8abbbc1" title="__clockevents_switch\l_state" alt="" coords="1039,15,1189,57"/>
+</map>

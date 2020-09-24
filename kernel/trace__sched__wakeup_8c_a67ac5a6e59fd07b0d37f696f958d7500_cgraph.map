@@ -1,0 +1,5 @@
+<map id="wakeup_flag_changed" name="wakeup_flag_changed">
+<area shape="rect" id="node2" href="$trace__sched__wakeup_8c.html#a008d124df44cf2ac6eb588a1e1288520" title="wakeup_function_set" alt="" coords="209,5,354,32"/>
+<area shape="rect" id="node3" href="$trace__sched__wakeup_8c.html#a949cb031bd27b5d2007f1626a1625827" title="wakeup_display_graph" alt="" coords="204,56,359,83"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a430352410a7c76fcf5dcc4fd6bcbd5ce" title="trace_keep_overwrite" alt="" coords="208,107,355,133"/>
+</map>

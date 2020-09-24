@@ -1,0 +1,11 @@
+<map id="SYSCALL_DEFINE2" name="SYSCALL_DEFINE2">
+<area shape="rect" id="node2" href="$posix-timers_8c.html#a033e3156fe82851cf618054d14db0eeb" title="do_timer_gettime" alt="" coords="244,5,367,32"/>
+<area shape="rect" id="node4" href="$time_8c.html#add287b9a7211117aaebc03c61f4815a0" title="put_itimerspec64" alt="" coords="245,56,366,83"/>
+<area shape="rect" id="node7" href="$futex__compat_8c.html#a2fdda14355d84f8b3a5153259899bba8" title="COMPAT_SYSCALL_DEFINE2" alt="" coords="200,107,411,133"/>
+<area shape="rect" id="node8" href="$compat_8c.html#ac87265922d59b4928d6c0d9805cd166e" title="put_compat_itimerspec64" alt="" coords="220,157,391,184"/>
+<area shape="rect" id="node3" href="$posix-timers_8c.html#a8c005bb9a50a5c20009412eba861e6c6" title="unlock_timer" alt="" coords="500,5,596,32"/>
+<area shape="rect" id="node5" href="$time_8c.html#a792e6a977fa17230cd16043b3e8dfced" title="put_timespec64" alt="" coords="491,56,605,83"/>
+<area shape="rect" id="node6" href="$time_8c.html#a2b16ed65b097d937eac34aa0863615b1" title="EXPORT_SYMBOL_GPL" alt="" coords="685,81,857,108"/>
+<area shape="rect" id="node9" href="$compat_8c.html#a3d8981c07bca55c9755b0f833c5d76a1" title="__compat_put_timespec64" alt="" coords="459,157,637,184"/>
+<area shape="rect" id="node10" href="$compat_8c.html#af35d5a6db42a72265f2b451d11b732ab" title="EXPORT_SYMBOL_GPL" alt="" coords="462,208,634,235"/>
+</map>

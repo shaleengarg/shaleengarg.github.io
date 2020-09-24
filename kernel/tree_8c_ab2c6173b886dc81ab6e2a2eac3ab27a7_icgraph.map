@@ -1,0 +1,8 @@
+<map id="rcu_cpu_has_callbacks" name="rcu_cpu_has_callbacks">
+<area shape="rect" id="node2" href="$tree__plugin_8h.html#a49156fafaf040a3f6e06c61e0bfd168a" title="rcu_needs_cpu" alt="" coords="212,63,323,90"/>
+<area shape="rect" id="node3" href="$tree__plugin_8h.html#ad891ad54702ef83370eda5e5359a530c" title="rcu_idle_count_callbacks\l_posted" alt="" coords="371,5,539,47"/>
+<area shape="rect" id="node4" href="$tick-sched_8h.html#a4d94f74c66389b34bef2317debfbf148" title="tick_get_tick_sched" alt="" coords="385,95,524,122"/>
+<area shape="rect" id="node5" href="$timer__list_8c.html#ae3b16f62c811b3d105d07c8673373591" title="print_cpu" alt="" coords="587,95,661,122"/>
+<area shape="rect" id="node6" href="$timer__list_8c.html#ad22eefccd7d3d00e02c66025de353ed3" title="timer_list_show" alt="" coords="729,70,842,97"/>
+<area shape="rect" id="node7" href="$timer__list_8c.html#a858bdbff0f102e6b60fbb33222e0ed64" title="sysrq_timer_list_show" alt="" coords="709,121,861,147"/>
+</map>

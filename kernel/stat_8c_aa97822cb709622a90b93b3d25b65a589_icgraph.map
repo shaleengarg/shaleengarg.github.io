@@ -1,0 +1,5 @@
+<map id="cgroup_cpu_stat_updated" name="cgroup_cpu_stat_updated">
+<area shape="rect" id="node2" href="$stat_8c.html#ac2628231c57dd9a8f23f74da4fe8e641" title="cgroup_cpu_stat_account_end" alt="" coords="224,35,423,61"/>
+<area shape="rect" id="node3" href="$stat_8c.html#a992bbae3b1e46d75120f13a56d786d50" title="__cgroup_account_cputime" alt="" coords="471,5,652,32"/>
+<area shape="rect" id="node4" href="$stat_8c.html#a4d68962a6975b4396a2b8e125f875ba3" title="__cgroup_account_cputime\l_field" alt="" coords="471,57,652,98"/>
+</map>

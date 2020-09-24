@@ -1,0 +1,11 @@
+<map id="kimage_free" name="kimage_free">
+<area shape="rect" id="node2" href="$crash__core_8c.html#aa0fb0f2bf061568113fdaf9cb1b5c0fa" title="crash_update_vmcoreinfo\l_safecopy" alt="" coords="147,5,317,47"/>
+<area shape="rect" id="node3" href="$kexec__core_8c.html#ac9a478714756cf8fe3fe496fe505a228" title="kimage_free_extra_pages" alt="" coords="147,71,317,98"/>
+<area shape="rect" id="node4" href="$kexec__core_8c.html#a1249aea7a04a3476850067af7190fd20" title="kimage_free_page_list" alt="" coords="365,122,517,149"/>
+<area shape="rect" id="node6" href="$kexec__core_8c.html#af80ad7e801c34354c484c944b589272c" title="kimage_free_entry" alt="" coords="377,173,506,199"/>
+<area shape="rect" id="node7" href="$kexec__file_8c.html#ad3733a0eb3adcf6d5929ff444f6e44ea" title="kimage_file_post_load\l_cleanup" alt="" coords="157,275,307,316"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="416,223,467,250"/>
+<area shape="rect" id="node5" href="$kexec__core_8c.html#a1ea084e75448abf76f7796bf8b462f32" title="kimage_free_pages" alt="" coords="579,147,714,174"/>
+<area shape="rect" id="node9" href="$kexec__file_8c.html#ab4c6f383e7368d6b53e481be53b46fd5" title="arch_kimage_file_post\l_load_cleanup" alt="" coords="365,275,517,316"/>
+<area shape="rect" id="node10" href="$kexec__file_8c.html#a9c03dc2af45124de86ddeb122b7e1eaa" title="kexec_image_post_load\l_cleanup_default" alt="" coords="565,275,728,316"/>
+</map>

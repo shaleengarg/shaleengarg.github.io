@@ -1,0 +1,9 @@
+<map id="inc_dl_tasks" name="inc_dl_tasks">
+<area shape="rect" id="node2" href="$deadline_8c.html#a98c4ac01a99bf57af6196b57113c8fae" title="dl_task_of" alt="" coords="165,5,247,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a5838f6bd183186c440e7609c24bcb380" title="add_nr_running" alt="" coords="151,56,261,83"/>
+<area shape="rect" id="node6" href="$deadline_8c.html#a8903a071089b3099e0dfb821d9a5bba9" title="rq_of_dl_rq" alt="" coords="163,107,249,133"/>
+<area shape="rect" id="node7" href="$deadline_8c.html#aa95a1ca1f0346b8b12167ac0a6dde10f" title="inc_dl_deadline" alt="" coords="151,157,261,184"/>
+<area shape="rect" id="node8" href="$deadline_8c.html#ae183472b88f2043de6e0981534945fa6" title="inc_dl_migration" alt="" coords="148,208,264,235"/>
+<area shape="rect" id="node4" href="$sched_2core_8c.html#ae6dc760f2ea514a6cc03c60cb88eae65" title="nr_running" alt="" coords="375,31,457,57"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a9d1e13ecdc8d7b84cb642557ffe247fc" title="sched_update_tick_dependency" alt="" coords="312,81,520,108"/>
+</map>

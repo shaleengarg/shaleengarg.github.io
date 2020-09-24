@@ -1,0 +1,6 @@
+<map id="bpf_lru" name="bpf_lru">
+<area shape="rect" id="node2" href="$structbpf__lru__list.html" title="bpf_lru_list" alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node4" href="$structbpf__common__lru.html" title="bpf_common_lru" alt="" coords="125,95,243,121"/>
+<area shape="rect" id="node3" href="$structbpf__lru__node.html" title="bpf_lru_node" alt="" coords="268,95,364,121"/>
+<area shape="rect" id="node5" href="$structbpf__lru__locallist.html" title="bpf_lru_locallist" alt="" coords="128,5,240,32"/>
+</map>

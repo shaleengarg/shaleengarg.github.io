@@ -1,0 +1,10 @@
+<map id="kimage_alloc_page" name="kimage_alloc_page">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#acd32207a63fa9d285d104edf34275339" title="kimage_add_entry" alt="" coords="187,56,315,83"/>
+<area shape="rect" id="node4" href="$kexec__core_8c.html#aeb99e95fef5152a6d6fa06cd256d1438" title="kimage_load_normal\l_segment" alt="" coords="569,49,711,90"/>
+<area shape="rect" id="node3" href="$kexec__core_8c.html#a8700f74ca157b9f0924c389453abd8df" title="kimage_set_destination" alt="" coords="363,5,521,32"/>
+<area shape="rect" id="node9" href="$kexec__core_8c.html#a313af6e685cf83fc71f442e24d194e4f" title="kimage_add_page" alt="" coords="379,56,505,83"/>
+<area shape="rect" id="node5" href="$kexec__internal_8h.html#aac4ea4758702aaf8a78ef3321e10ccd0" title="kimage_load_segment" alt="" coords="759,56,911,83"/>
+<area shape="rect" id="node6" href="$kexec_8c.html#aee73ef56dc46c533dbbee8f26a04e0d4" title="do_kexec_load" alt="" coords="977,31,1087,57"/>
+<area shape="rect" id="node8" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="959,81,1105,108"/>
+<area shape="rect" id="node7" href="$kexec_8c.html#aa0607f45bbcdb0e28beafda975e92097" title="SYSCALL_DEFINE4" alt="" coords="1153,31,1300,57"/>
+</map>

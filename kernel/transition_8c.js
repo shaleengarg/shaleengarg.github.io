@@ -1,0 +1,26 @@
+var transition_8c =
+[
+    [ "MAX_STACK_ENTRIES", "transition_8c.html#ad9dcd6f6a802589b0621144e3f84d97d", null ],
+    [ "pr_fmt", "transition_8c.html#a1f8c165bf4196327bc3abff648276d92", null ],
+    [ "STACK_ERR_BUF_SIZE", "transition_8c.html#ac4c164fe2a6456cc22c203945444084f", null ],
+    [ "DECLARE_DELAYED_WORK", "transition_8c.html#a7798a34cf4f3200454dc46a932e633d1", null ],
+    [ "klp_cancel_transition", "transition_8c.html#af2096810759ff8d350bdc66cb32ed8f1", null ],
+    [ "klp_check_stack", "transition_8c.html#af3cc3e11bb0f0a1a84cd70fd1edaeb9b", null ],
+    [ "klp_check_stack_func", "transition_8c.html#af4c1562d9d37ac73f2246595fba0c3db", null ],
+    [ "klp_complete_transition", "transition_8c.html#a29034663b3734a48211634afed32aa23", null ],
+    [ "klp_copy_process", "transition_8c.html#a38a7bfc0a30d7e304d872539700347a0", null ],
+    [ "klp_force_transition", "transition_8c.html#aa532d18472609f1aace525f01b80eb68", null ],
+    [ "klp_init_transition", "transition_8c.html#a1d8da3aa08303021ff45c9affb2002a0", null ],
+    [ "klp_reverse_transition", "transition_8c.html#ae156d638058355b4012e131c614359c6", null ],
+    [ "klp_send_signals", "transition_8c.html#a31d81233996bb42f59784dec93658b59", null ],
+    [ "klp_start_transition", "transition_8c.html#a50f22d10866b88296a8dbd50745f7fc7", null ],
+    [ "klp_sync", "transition_8c.html#ac53025e7e6a298caa95338276ec52078", null ],
+    [ "klp_synchronize_transition", "transition_8c.html#a65b069f7a7f1312360ed930b0ca39a9e", null ],
+    [ "klp_transition_work_fn", "transition_8c.html#ab325a49c08fb2978a145ded9d61fe712", null ],
+    [ "klp_try_complete_transition", "transition_8c.html#a85f110ba9a9179e3f24a0027df4f8272", null ],
+    [ "klp_try_switch_task", "transition_8c.html#ad738aaa26becdd78e789858d9d95ef47", null ],
+    [ "klp_update_patch_state", "transition_8c.html#a1c02a893d2d55159ba071e680593bcb6", null ],
+    [ "klp_forced", "transition_8c.html#a854c719d3d027aecbfb949e4944cd57e", null ],
+    [ "klp_target_state", "transition_8c.html#af967e1ad5645843bd421fa7e884071a0", null ],
+    [ "klp_transition_patch", "transition_8c.html#afc5d9def71dbcef261fde107d1eef81b", null ]
+];

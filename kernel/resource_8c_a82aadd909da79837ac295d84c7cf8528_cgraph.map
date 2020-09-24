@@ -1,0 +1,7 @@
+<map id="page_is_ram" name="page_is_ram">
+<area shape="rect" id="node2" href="$resource_8c.html#a083f44f3c57c0dc2b128c8966e75f7c4" title="walk_system_ram_range" alt="" coords="152,5,319,32"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a2063ca328a60e6394fd9a691d8caea5d" title="__is_ram" alt="" coords="198,56,273,83"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a9783083bdd459ff45c4de451132aa7d6" title="EXPORT_SYMBOL_GPL" alt="" coords="149,107,321,133"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a85c105339d83cb2fb03d88a671c14192" title="find_next_iomem_res" alt="" coords="369,5,516,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a3e8ffb60a55c6da62e57733817f306d9" title="next_resource" alt="" coords="564,5,668,32"/>
+</map>

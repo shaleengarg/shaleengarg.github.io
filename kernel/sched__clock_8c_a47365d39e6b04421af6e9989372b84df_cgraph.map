@@ -1,0 +1,4 @@
+<map id="update_sched_clock" name="update_sched_clock">
+<area shape="rect" id="node2" href="$sched__clock_8c.html#ab829740a3a0c0cccf39278967552e23e" title="cyc_to_ns" alt="" coords="235,5,317,32"/>
+<area shape="rect" id="node3" href="$sched__clock_8c.html#a2cb83ed7bb7f167784cdf38fbc4ee5df" title="update_clock_read_data" alt="" coords="195,56,357,83"/>
+</map>

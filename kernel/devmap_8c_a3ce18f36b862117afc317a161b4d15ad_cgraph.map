@@ -1,0 +1,6 @@
+<map id="dev_map_delete_elem" name="dev_map_delete_elem">
+<area shape="rect" id="node2" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="249,5,316,32"/>
+<area shape="rect" id="node3" href="$devmap_8c.html#a7ff2f2a735f3dca5567a8bc32f8b1169" title="__dev_map_entry_free" alt="" coords="205,56,360,83"/>
+<area shape="rect" id="node4" href="$devmap_8c.html#a04a15ff0df4553bd2b918a74dee0c3e2" title="dev_map_flush_old" alt="" coords="408,31,543,57"/>
+<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="450,81,501,108"/>
+</map>

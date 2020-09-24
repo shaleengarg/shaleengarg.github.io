@@ -1,0 +1,10 @@
+<map id="perf_event_update_userpage" name="perf_event_update_userpage">
+<area shape="rect" id="node2" href="$events_2core_8c.html#aaeefd4e1f6e84ea329e9cf1a6f46d4ba" title="calc_timer_values" alt="" coords="271,31,397,57"/>
+<area shape="rect" id="node6" href="$events_2core_8c.html#a324eea2f18a2d1a4c752dd5323311ac3" title="perf_event_index" alt="" coords="273,81,395,108"/>
+<area shape="rect" id="node7" href="$events_2core_8c.html#a2195d728331062f5a2630f2169428f6c" title="perf_event_count" alt="" coords="273,132,395,159"/>
+<area shape="rect" id="node8" href="$events_2core_8c.html#ab724d31cff45c9dcb819bc2bd3338137" title="arch_perf_update_userpage" alt="" coords="243,183,425,209"/>
+<area shape="rect" id="node9" href="$bpf_2core_8c.html#a873375a123a9cdec2363428e9c58d0e4" title="EXPORT_SYMBOL_GPL" alt="" coords="248,233,420,260"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="503,5,586,32"/>
+<area shape="rect" id="node4" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="473,56,616,83"/>
+<area shape="rect" id="node5" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="664,56,815,83"/>
+</map>

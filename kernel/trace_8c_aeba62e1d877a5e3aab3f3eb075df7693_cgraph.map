@@ -1,0 +1,6 @@
+<map id="tracing_record_taskinfo_skip" name="tracing_record_taskinfo_skip">
+<area shape="rect" id="node2" href="$trace_8c.html#ab66b1dd4be2fc3fa5b3678f173599349" title="tracing_is_on" alt="" coords="241,38,340,65"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a115c17e03c39af6ddae1357d8e004022" title="tracer_tracing_is_on" alt="" coords="405,13,543,39"/>
+<area shape="rect" id="node5" href="$trace_8c.html#acb1777b24288cfc157ea20d4b378ba89" title="EXPORT_SYMBOL_GPL" alt="" coords="388,63,560,90"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a8961597a814843f08c653e583518ff2a" title="ring_buffer_record\l_is_on" alt="" coords="608,5,735,47"/>
+</map>

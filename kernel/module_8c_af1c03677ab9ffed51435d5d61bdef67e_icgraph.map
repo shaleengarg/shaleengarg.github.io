@@ -1,0 +1,6 @@
+<map id="find_module" name="find_module">
+<area shape="rect" id="node2" href="$livepatch_2core_8c.html#a40fb94b19ccf20c5284442c9f0c867c1" title="klp_find_object_module" alt="" coords="145,5,304,32"/>
+<area shape="rect" id="node3" href="$livepatch_2core_8c.html#a59976b383d33992d4abd2bec2b7fb7fa" title="klp_init_object" alt="" coords="352,5,457,32"/>
+<area shape="rect" id="node4" href="$livepatch_2core_8c.html#a848513ac3f9e50a8b74e83054d547342" title="klp_init_patch" alt="" coords="505,5,608,32"/>
+<area shape="rect" id="node5" href="$livepatch_2core_8c.html#a31706e906563b4da3f3dc3b13cc87100" title="klp_register_patch" alt="" coords="656,5,784,32"/>
+</map>

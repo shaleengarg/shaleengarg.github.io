@@ -1,0 +1,8 @@
+<map id="rcu_report_unblock_qs_rnp" name="rcu_report_unblock_qs_rnp">
+<area shape="rect" id="node2" href="$tree_8c.html#a3a4c7483b45d44b4e25080419c8bc449" title="force_qs_rnp" alt="" coords="211,5,309,32"/>
+<area shape="rect" id="node6" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="185,57,335,98"/>
+<area shape="rect" id="node3" href="$tree_8c.html#acb43e5bce6278cfa7e60944567b7c570" title="rcu_gp_fqs" alt="" coords="414,5,501,32"/>
+<area shape="rect" id="node4" href="$tree_8c.html#a8970305863efcd2eb60e81cab4f5fba8" title="rcu_gp_kthread" alt="" coords="580,5,691,32"/>
+<area shape="rect" id="node5" href="$tree_8c.html#a265eab7d250c47809d5bbe4580ee909d" title="rcu_spawn_gp_kthread" alt="" coords="739,5,895,32"/>
+<area shape="rect" id="node7" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="383,64,532,91"/>
+</map>

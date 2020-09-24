@@ -1,0 +1,11 @@
+<map id="dbg_release_bp_slot" name="dbg_release_bp_slot">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a966a972d3978983397a86abfef1fc628" title="__release_bp_slot" alt="" coords="195,126,321,153"/>
+<area shape="rect" id="node3" href="$hw__breakpoint_8c.html#aac77e2406e1a7e54b2d328a75ded8c41" title="find_slot_idx" alt="" coords="900,87,995,114"/>
+<area shape="rect" id="node4" href="$hw__breakpoint_8c.html#a3fbc23ab84492d7ea37aa966c28ddc4f" title="hw_breakpoint_weight" alt="" coords="872,163,1023,190"/>
+<area shape="rect" id="node5" href="$hw__breakpoint_8c.html#a60b78850d5bbe934cdd21490662609b0" title="toggle_bp_slot" alt="" coords="369,50,476,77"/>
+<area shape="rect" id="node6" href="$hw__breakpoint_8c.html#a4f3b953db42ae2157e9d9eb835429b7c" title="cpumask_of_bp" alt="" coords="536,25,651,51"/>
+<area shape="rect" id="node7" href="$hw__breakpoint_8c.html#a11b1ff32a6e3ebf2821e690384beb04b" title="get_bp_info" alt="" coords="723,25,812,51"/>
+<area shape="rect" id="node9" href="$hw__breakpoint_8c.html#a9249805a68ded75ec070605d2529af1c" title="toggle_bp_task_slot" alt="" coords="524,75,663,102"/>
+<area shape="rect" id="node8" href="$hw__breakpoint_8c.html#a61dd0f0cf69f770bafa2ff2dd30d6ce5" title="LIST_HEAD" alt="" coords="900,25,995,51"/>
+<area shape="rect" id="node10" href="$hw__breakpoint_8c.html#a26cbe2b06b8203d8453163a25e56e3ae" title="task_bp_pinned" alt="" coords="711,75,824,102"/>
+</map>

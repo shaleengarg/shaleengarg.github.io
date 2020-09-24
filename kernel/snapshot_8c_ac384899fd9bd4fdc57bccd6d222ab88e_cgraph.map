@@ -1,0 +1,7 @@
+<map id="preallocate_image_pages" name="preallocate_image_pages">
+<area shape="rect" id="node2" href="$snapshot_8c.html#a0c9da123ddcf41010fcda7739e78e0a6" title="alloc_image_page" alt="" coords="223,56,349,83"/>
+<area shape="rect" id="node4" href="$snapshot_8c.html#a73e0064c539b4340fb6fc3dd4f73e8ab" title="memory_bm_set_bit" alt="" coords="632,56,772,83"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a9cd604588e2f75cce811e98a172b7000" title="swsusp_set_page_forbidden" alt="" coords="397,5,584,32"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html#af323d38077123653f9174f7dbd219a1a" title="swsusp_set_page_free" alt="" coords="413,56,569,83"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="820,56,963,83"/>
+</map>

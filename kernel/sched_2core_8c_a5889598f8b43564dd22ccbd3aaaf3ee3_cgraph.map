@@ -1,0 +1,6 @@
+<map id="sched_tick_stop" name="sched_tick_stop">
+<area shape="rect" id="node2" href="$sched_2core_8c.html#af839e4be4564c46a7c44d7cb79155493" title="preempt_latency_start" alt="" coords="175,5,326,32"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#ae965c11ed4048faf2dd30531991d3f3f" title="EXPORT_SYMBOL" alt="" coords="181,56,320,83"/>
+<area shape="rect" id="node4" href="$context__tracking_8c.html#a93b1b05937bf44d6c063cdb01f189326" title="NOKPROBE_SYMBOL" alt="" coords="171,107,331,133"/>
+<area shape="rect" id="node5" href="$sched_2core_8c.html#a8ec389d929e15206a92935999dbc25ff" title="preempt_latency_stop" alt="" coords="175,157,326,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cpuhp_get_teardown_cb" name="cpuhp_get_teardown_cb">
+<area shape="rect" id="node2" href="$cpu_8c.html#ad46e9fe989763abd9f2213d3e3b836c4" title="__cpuhp_state_remove\l_instance" alt="" coords="216,5,373,47"/>
+<area shape="rect" id="node3" href="$cpu_8c.html#adf79c64e1f2c85c91ac95af9907304ad" title="__cpuhp_remove_state\l_cpuslocked" alt="" coords="216,71,373,112"/>
+<area shape="rect" id="node4" href="$cpu_8c.html#a6f379713b196b462de5d44254eca2828" title="__cpuhp_remove_state" alt="" coords="421,78,579,105"/>
+</map>

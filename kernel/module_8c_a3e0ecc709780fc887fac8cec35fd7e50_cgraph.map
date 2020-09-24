@@ -1,0 +1,18 @@
+<map id="check_module_license_and_versions" name="check_module_license_and_versions">
+<area shape="rect" id="node2" href="$panic_8c.html#afce65f1f6177b98aace8b738f56e545a" title="test_taint" alt="" coords="426,76,502,103"/>
+<area shape="rect" id="node4" href="$panic_8c.html#a3f1f0ccb9e83756bad52533bf8936c98" title="add_taint" alt="" coords="639,25,714,52"/>
+<area shape="rect" id="node5" href="$module_8c.html#a9d71dddd6c258e5d4e2be241d8bc4a85" title="add_taint_module" alt="" coords="402,25,526,52"/>
+<area shape="rect" id="node6" href="$module_8c.html#a1f75d6d4b28d7570c752c9c1be162d63" title="try_to_force_load" alt="" coords="208,127,331,153"/>
+<area shape="rect" id="node3" href="$panic_8c.html#af5386e2342cddf38e1b450427d268601" title="EXPORT_SYMBOL" alt="" coords="821,51,959,77"/>
+<area shape="rect" id="node7" href="$module_8c.html#aec3da9b0eeb8f3174034f77db4aaca42" title="check_version" alt="" coords="411,177,517,204"/>
+<area shape="rect" id="node8" href="$module_8c.html#a183a228046f244cccf8ec0470bb3596f" title="check_modstruct_version" alt="" coords="379,228,549,255"/>
+<area shape="rect" id="node9" href="$module_8c.html#a25a813b69a8794e6d0b25d031ca2fccd" title="find_symbol" alt="" coords="418,279,510,305"/>
+<area shape="rect" id="node17" href="$module_8c.html#ab687b54177fd49bc9e3376b51975867a" title="same_magic" alt="" coords="416,127,512,153"/>
+<area shape="rect" id="node10" href="$module_8c.html#add353ddd90a6ab98eb9b6e94a8829d00" title="each_symbol_section" alt="" coords="603,224,751,251"/>
+<area shape="rect" id="node13" href="$module_8c.html#ad92481619538e42fc386921d4e83ef07" title="EXPORT_SYMBOL_GPL" alt="" coords="804,279,976,305"/>
+<area shape="rect" id="node14" href="$module_8c.html#a71691c2cb9efeb595736934689b9f6e7" title="find_symbol_in_section" alt="" coords="597,329,756,356"/>
+<area shape="rect" id="node11" href="$module_8c.html#af859db8f2d80df9a6e59c8bcb0ecd07c" title="module_assert_mutex\l_or_preempt" alt="" coords="815,213,965,254"/>
+<area shape="rect" id="node12" href="$module_8c.html#a14d08660429cf638d51667596523e07c" title="each_symbol_in_section" alt="" coords="807,161,973,188"/>
+<area shape="rect" id="node15" href="$module_8c.html#af3d139fcf223326743ad4c39ecb312b8" title="cmp_name" alt="" coords="847,329,933,356"/>
+<area shape="rect" id="node16" href="$module_8c.html#a272d4bb950569195f120482d0374d816" title="check_symbol" alt="" coords="837,380,943,407"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$cpufreq_8c.html#a32bb5b9e9e184ae0aa8ada0826b6588d" title="cpufreq_add_update\l_util_hook" alt="" coords="237,5,375,47"/>
+<area shape="rect" id="node5" href="$cpufreq_8c.html#a8bc16dfa330f32d09d6c9cc407bbd507" title="cpufreq_remove_update\l_util_hook" alt="" coords="225,71,387,112"/>
+<area shape="rect" id="node3" href="$cpufreq__schedutil_8c.html#ad14ac61599cac2bf2fc8e42dc04bc8cb" title="sugov_start" alt="" coords="435,17,525,43"/>
+<area shape="rect" id="node4" href="$cpufreq__schedutil_8c.html#a2b896ec666f5c4d4d232e0564e81a667" title="sugov_limits" alt="" coords="573,46,668,73"/>
+<area shape="rect" id="node6" href="$cpufreq__schedutil_8c.html#a264833f93b404186f49c103f0ea099e7" title="sugov_stop" alt="" coords="435,71,525,98"/>
+</map>

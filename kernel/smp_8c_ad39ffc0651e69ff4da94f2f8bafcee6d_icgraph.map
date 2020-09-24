@@ -1,0 +1,4 @@
+<map id="arch_disable_smp_support" name="arch_disable_smp_support">
+<area shape="rect" id="node2" href="$smp_8c.html#a88dde57fed0dd8b2e38986c356adb223" title="nosmp" alt="" coords="237,5,299,32"/>
+<area shape="rect" id="node3" href="$smp_8c.html#a62550e3c9de5c91da3b144ff47ac1e37" title="maxcpus" alt="" coords="231,56,305,83"/>
+</map>

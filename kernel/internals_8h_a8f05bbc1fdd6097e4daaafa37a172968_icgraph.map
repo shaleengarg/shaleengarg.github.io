@@ -1,0 +1,28 @@
+<map id="irq_put_desc_busunlock" name="irq_put_desc_busunlock">
+<area shape="rect" id="node2" href="$chip_8c.html#a0fd1ef59649acb36842e838f671e6acb" title="irq_set_irq_type" alt="" coords="240,91,355,117"/>
+<area shape="rect" id="node3" href="$chip_8c.html#a4149fcd968ae03bf3dd1ee87082f8ab7" title="__irq_set_handler" alt="" coords="235,141,359,168"/>
+<area shape="rect" id="node14" href="$chip_8c.html#ac9ea2161b53d9bd9d96d6982533f71c0" title="irq_set_chained_handler\l_and_data" alt="" coords="216,193,379,234"/>
+<area shape="rect" id="node15" href="$manage_8c.html#a55c5a166d1ace11169769ae3d54b9e46" title="__disable_irq_nosync" alt="" coords="224,259,371,285"/>
+<area shape="rect" id="node23" href="$manage_8c.html#af3d41de47bd2efd73618186ca2f974bb" title="enable_irq" alt="" coords="490,360,571,387"/>
+<area shape="rect" id="node24" href="$manage_8c.html#ab32e148c2034ba42b9a73a7f88619faf" title="irq_set_irq_wake" alt="" coords="237,360,357,387"/>
+<area shape="rect" id="node25" href="$manage_8c.html#ac568be55f2c8ee2634b946969f83291c" title="irq_get_irqchip_state" alt="" coords="226,411,369,437"/>
+<area shape="rect" id="node26" href="$manage_8c.html#a38e77b5e25c7e5622a433cde12be13ff" title="irq_set_irqchip_state" alt="" coords="226,461,369,488"/>
+<area shape="rect" id="node4" href="$chip_8c.html#ae929b4d7b2b0eafef41cd9b5e730d0da" title="irq_set_chip_and_handler_name" alt="" coords="427,56,635,83"/>
+<area shape="rect" id="node8" href="$irqdomain_8c.html#ae3739bef0ae07a5dface3368ba310615" title="irq_domain_alloc_descs" alt="" coords="884,107,1045,133"/>
+<area shape="rect" id="node13" href="$msi_8c.html#a59aeac9c865c81eca9afdc137174225c" title="get_cached_msi_msg" alt="" coords="456,157,605,184"/>
+<area shape="rect" id="node5" href="$irqdomain_8c.html#ac1822ac99d95b50aa90fff9a49fd39ee" title="irq_domain_set_info" alt="" coords="685,56,823,83"/>
+<area shape="rect" id="node6" href="$generic-chip_8c.html#abaf8265d688ba4091cf4a583fa6d9531" title="irq_map_generic_chip" alt="" coords="891,5,1039,32"/>
+<area shape="rect" id="node7" href="$generic-chip_8c.html#a4517d80d600131b74734b08cf8e22ed1" title="irq_unmap_generic_chip" alt="" coords="883,56,1046,83"/>
+<area shape="rect" id="node9" href="$ipi_8c.html#a0d0dcbcc5fb1381e52d5f0855a1d5dac" title="irq_reserve_ipi" alt="" coords="1152,81,1259,108"/>
+<area shape="rect" id="node10" href="$irqdomain_8c.html#a6efaa80bff0bad481195234bf9a4231a" title="irq_create_mapping" alt="" coords="1138,132,1273,159"/>
+<area shape="rect" id="node11" href="$irqdomain_8c.html#a08a6f0f31922d5622a8a541ef82ef6a8" title="irq_create_fwspec_mapping" alt="" coords="1355,132,1539,159"/>
+<area shape="rect" id="node12" href="$irqdomain_8c.html#a11f08551454d36206e6afd0a883e3274" title="irq_create_of_mapping" alt="" coords="1587,132,1740,159"/>
+<area shape="rect" id="node16" href="$manage_8c.html#a44a93a9b16512b5b8c877bd97faa4a7e" title="disable_irq_nosync" alt="" coords="464,208,597,235"/>
+<area shape="rect" id="node17" href="$manage_8c.html#a07f44825be2cd39193fb517d67e55c32" title="disable_irq" alt="" coords="489,259,573,285"/>
+<area shape="rect" id="node22" href="$manage_8c.html#a488148804e3a68995bbd76893d98c18c" title="disable_hardirq" alt="" coords="476,309,585,336"/>
+<area shape="rect" id="node18" href="$manage_8c.html#a5e7133e90f9733e1b2a5fe75fa869960" title="request_threaded_irq" alt="" coords="683,309,825,336"/>
+<area shape="rect" id="node19" href="$devres_8c.html#a3b8dab825682b4ea010bd51e5454b40b" title="devm_request_threaded_irq" alt="" coords="873,284,1056,311"/>
+<area shape="rect" id="node20" href="$manage_8c.html#a03059aad105687fc05ca9bc32639bb9d" title="request_any_context_irq" alt="" coords="883,335,1047,361"/>
+<area shape="rect" id="node21" href="$devres_8c.html#a54be7662dee5d9c72f0fb6a9fa1b1be6" title="devm_request_any_context_irq" alt="" coords="1104,335,1307,361"/>
+<area shape="rect" id="node27" href="$debugfs_8c.html#a3c50bf40427259b3802dc1fafc95085e" title="irq_debug_write" alt="" coords="474,461,587,488"/>
+</map>

@@ -1,0 +1,25 @@
+var tick_common_8c =
+[
+    [ "DEFINE_PER_CPU", "tick-common_8c.html#af12be3c06fe0792b1bc24c8ff64fdb1b", null ],
+    [ "EXPORT_SYMBOL_GPL", "tick-common_8c.html#ab4d660f3ae796d9a50facb09cbbcd409", null ],
+    [ "tick_broadcast_oneshot_control", "tick-common_8c.html#a7a61cbb6511a53a84008b0cab29bc554", null ],
+    [ "tick_check_new_device", "tick-common_8c.html#a67de7e83c2b8118d36470b7a803c16a6", null ],
+    [ "tick_check_percpu", "tick-common_8c.html#abf04f1a9482934bd32ce412d7ee47210", null ],
+    [ "tick_check_preferred", "tick-common_8c.html#a9e09ceed5c7b46c02afef016a1460db2", null ],
+    [ "tick_check_replacement", "tick-common_8c.html#a5795c7bc1cca293f9d340968fcf23da5", null ],
+    [ "tick_get_device", "tick-common_8c.html#a934ca666c1cf720940a4b43b50a15a30", null ],
+    [ "tick_handle_periodic", "tick-common_8c.html#a9fd2a74bc40da940ccaf8e99967483cb", null ],
+    [ "tick_init", "tick-common_8c.html#a3a4fd8e9983bbabe35cb974719ffca56", null ],
+    [ "tick_install_replacement", "tick-common_8c.html#ab46d0234af650f8b9a48dcf3b25e4dcc", null ],
+    [ "tick_is_oneshot_available", "tick-common_8c.html#a875dc537f6707875b18504e47cb87196", null ],
+    [ "tick_periodic", "tick-common_8c.html#a151b7843fbaed1c0f2d9c8a6718523b7", null ],
+    [ "tick_resume", "tick-common_8c.html#a26c24f0ef5f8db18ee5d0b08330fd6d7", null ],
+    [ "tick_resume_local", "tick-common_8c.html#a144c7be316733a6b8ecd506e3bbabbc7", null ],
+    [ "tick_setup_device", "tick-common_8c.html#ac467a5291e1b2745b95a0b6cf9544631", null ],
+    [ "tick_setup_periodic", "tick-common_8c.html#a3a7ff3c7b46713caf8d80760c0c11c7a", null ],
+    [ "tick_suspend", "tick-common_8c.html#acc00bb3c1c32631dccc9003d980c1280", null ],
+    [ "tick_suspend_local", "tick-common_8c.html#ab8ff48911d8edb3d37cebc363c804ac2", null ],
+    [ "__read_mostly", "tick-common_8c.html#aac56a9313f850ad1ed635cbfb9cc3859", null ],
+    [ "tick_next_period", "tick-common_8c.html#a8286d475b5115af79673bccbe211f6ab", null ],
+    [ "tick_period", "tick-common_8c.html#a35d17f5a11f2aea2499449d9dd38679c", null ]
+];

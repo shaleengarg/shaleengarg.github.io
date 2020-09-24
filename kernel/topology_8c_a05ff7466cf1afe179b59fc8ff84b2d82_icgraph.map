@@ -1,0 +1,13 @@
+<map id="dattrs_equal" name="dattrs_equal">
+<area shape="rect" id="node2" href="$topology_8c.html#a00c15da7ff0db62818faada719b28212" title="partition_sched_domains" alt="" coords="147,107,313,133"/>
+<area shape="rect" id="node3" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="386,56,453,83"/>
+<area shape="rect" id="node6" href="$cpuset_8c.html#aa103ac56507045b8f59529d1b7113529" title="validate_change" alt="" coords="361,132,477,159"/>
+<area shape="rect" id="node4" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="549,5,630,32"/>
+<area shape="rect" id="node5" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="554,56,625,83"/>
+<area shape="rect" id="node7" href="$cpuset_8c.html#a351e015960494db6bf2c2b56c9320239" title="update_cpumask" alt="" coords="529,107,650,133"/>
+<area shape="rect" id="node9" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="525,157,653,184"/>
+<area shape="rect" id="node10" href="$cpuset_8c.html#acb225579e687c077cd067982b5fc2d7e" title="update_flag" alt="" coords="545,208,634,235"/>
+<area shape="rect" id="node8" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="701,120,855,147"/>
+<area shape="rect" id="node11" href="$cpuset_8c.html#a99d5620782fa1af581db371b16dd9f99" title="cpuset_write_u64" alt="" coords="716,183,840,209"/>
+<area shape="rect" id="node12" href="$cpuset_8c.html#ad2ebbb81b7610ba8719949c94014da14" title="cpuset_css_offline" alt="" coords="713,233,843,260"/>
+</map>

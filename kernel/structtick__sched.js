@@ -1,0 +1,27 @@
+var structtick__sched =
+[
+    [ "check_clocks", "structtick__sched.html#a4d79a1119dd8feb50daa0270b3b6084f", null ],
+    [ "do_timer_last", "structtick__sched.html#ad0b35b257a66fb686a594d9b7d576f37", null ],
+    [ "got_idle_tick", "structtick__sched.html#a038911b883ed3256b9dafcd13b44bb30", null ],
+    [ "idle_active", "structtick__sched.html#aa82a2cc419176820a031ebeef76e4c14", null ],
+    [ "idle_calls", "structtick__sched.html#ad51d02dc3a89be4c5cbe9bfff912157c", null ],
+    [ "idle_entrytime", "structtick__sched.html#a8dac6fd8191c235e82380a563f16a05f", null ],
+    [ "idle_exittime", "structtick__sched.html#a38bc33af6b6c4e54af650480918544f8", null ],
+    [ "idle_expires", "structtick__sched.html#ac412f8dda01a8c9784724ad2e0347f74", null ],
+    [ "idle_jiffies", "structtick__sched.html#acb73fb323eeefc945f618586b4be5268", null ],
+    [ "idle_sleeps", "structtick__sched.html#a4fec8473d7a88e6389d368cc8539637b", null ],
+    [ "idle_sleeptime", "structtick__sched.html#a2d2fd8d872da758280d1220ce7907b99", null ],
+    [ "idle_waketime", "structtick__sched.html#a367c47cdd7b354dd9abb6f635c79828c", null ],
+    [ "inidle", "structtick__sched.html#a126e361e3c4b6f8f217ee1445c8a6169", null ],
+    [ "iowait_sleeptime", "structtick__sched.html#a97443d9abf23b01cf49127cbce88eb08", null ],
+    [ "last_jiffies", "structtick__sched.html#a6d0beef2ec5dbb0003d770b18f0ac87d", null ],
+    [ "last_tick", "structtick__sched.html#ac3287ec42e11dca31bef7bc9ce395716", null ],
+    [ "next_tick", "structtick__sched.html#a4cb83cd6d5968e7c89c77eafb9e6f921", null ],
+    [ "next_timer", "structtick__sched.html#a97e68586772a0ec7595967ad9d0f1434", null ],
+    [ "nohz_mode", "structtick__sched.html#a917d8efe549b8439d9f529f65efa5977", null ],
+    [ "sched_timer", "structtick__sched.html#a119c1a9446780733e3cc6b740407e506", null ],
+    [ "tick_dep_mask", "structtick__sched.html#aa1230122f95772b110b68e917dffa25f", null ],
+    [ "tick_stopped", "structtick__sched.html#a2127b12b30b90a44ef103d6da32cf379", null ],
+    [ "timer_expires", "structtick__sched.html#aec4175f5956ba9a3b68830a5fdadd45b", null ],
+    [ "timer_expires_base", "structtick__sched.html#a862f9ceb74539ba42c4ac093e9a9cd67", null ]
+];

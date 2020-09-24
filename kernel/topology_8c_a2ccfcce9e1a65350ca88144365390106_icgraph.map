@@ -1,0 +1,15 @@
+<map id="free_sched_domains" name="free_sched_domains">
+<area shape="rect" id="node2" href="$topology_8c.html#a06f94be3210aa5494db8e8e240b871cc" title="alloc_sched_domains" alt="" coords="196,107,343,133"/>
+<area shape="rect" id="node14" href="$topology_8c.html#a00c15da7ff0db62818faada719b28212" title="partition_sched_domains" alt="" coords="391,56,557,83"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#aa103ac56507045b8f59529d1b7113529" title="validate_change" alt="" coords="605,157,721,184"/>
+<area shape="rect" id="node10" href="$topology_8c.html#a55fb0cb73fdd86329d4ac0d7df1a377b" title="sched_init_domains" alt="" coords="405,107,543,133"/>
+<area shape="rect" id="node4" href="$cpuset_8c.html#a351e015960494db6bf2c2b56c9320239" title="update_cpumask" alt="" coords="773,107,894,133"/>
+<area shape="rect" id="node6" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="769,157,897,184"/>
+<area shape="rect" id="node7" href="$cpuset_8c.html#acb225579e687c077cd067982b5fc2d7e" title="update_flag" alt="" coords="789,208,878,235"/>
+<area shape="rect" id="node5" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="945,119,1099,145"/>
+<area shape="rect" id="node8" href="$cpuset_8c.html#a99d5620782fa1af581db371b16dd9f99" title="cpuset_write_u64" alt="" coords="960,195,1084,221"/>
+<area shape="rect" id="node9" href="$cpuset_8c.html#ad2ebbb81b7610ba8719949c94014da14" title="cpuset_css_offline" alt="" coords="957,245,1087,272"/>
+<area shape="rect" id="node11" href="$sched_2core_8c.html#a20eaf140a992c7f63b5d431090ca0461" title="init_idle" alt="" coords="630,56,697,83"/>
+<area shape="rect" id="node12" href="$sched_2core_8c.html#a9bde438b398ba8fb209e5c5b024c1778" title="sched_init" alt="" coords="793,5,874,32"/>
+<area shape="rect" id="node13" href="$fork_8c.html#a7b5cfeb0708a8d8b5413fe9096629d95" title="fork_idle" alt="" coords="798,56,869,83"/>
+</map>

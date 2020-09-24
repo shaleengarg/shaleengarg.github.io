@@ -1,0 +1,27 @@
+<map id="kretprobe_event_define_fields" name="kretprobe_event_define_fields">
+<area shape="rect" id="node2" href="$trace__events_8c.html#ad41cc6a1c4eb7da089cf48442ce72c5a" title="trace_define_field" alt="" coords="229,81,353,108"/>
+<area shape="rect" id="node7" href="$bpf__trace_8c.html#a4be87785c8dfb465fd3fb51c541af95c" title="trace_call_bpf" alt="" coords="239,208,342,235"/>
+<area shape="rect" id="node15" href="$trace__probe_8h.html#a9e8c289b14de9405fb09cc362704b20a" title="__get_data_size" alt="" coords="232,367,349,393"/>
+<area shape="rect" id="node17" href="$trace__event__perf_8c.html#a004f92d79eb2a142e2e891253ff524ef" title="perf_trace_buf_alloc" alt="" coords="221,313,360,340"/>
+<area shape="rect" id="node23" href="$trace__probe_8h.html#a4043a42c0bf786bab8211f45d15dbbca" title="store_trace_args" alt="" coords="231,425,350,452"/>
+<area shape="rect" id="node26" href="$trace__kprobe_8c.html#a9c8819e833d817d1f5ae319873cdda4b" title="NOKPROBE_SYMBOL" alt="" coords="211,476,371,503"/>
+<area shape="rect" id="node3" href="$trace__events_8c.html#a9455957b46a6644cb42ed4dd4785122e" title="trace_get_fields" alt="" coords="454,56,569,83"/>
+<area shape="rect" id="node4" href="$trace__events_8c.html#ab650490c136f9b1cab9deadd43892ca0" title="__trace_define_field" alt="" coords="442,107,581,133"/>
+<area shape="rect" id="node6" href="$trace__events_8c.html#a475239523f7fb9b4d476ae10e50d7bb3" title="EXPORT_SYMBOL_GPL" alt="" coords="425,5,597,32"/>
+<area shape="rect" id="node5" href="$trace_8h.html#adad4bd5f45e063dfb0887767622e97cf" title="filter_assign_type" alt="" coords="676,107,800,133"/>
+<area shape="rect" id="node8" href="$bpf__trace_8c.html#a30f39e20d34bdda899b2129b2a6d2c1d" title="EXPORT_SYMBOL_GPL" alt="" coords="425,157,597,184"/>
+<area shape="rect" id="node9" href="$bpf__trace_8c.html#a4bd02b2c0b9e095f362b364b7b28391b" title="BPF_CALL_2" alt="" coords="460,208,563,235"/>
+<area shape="rect" id="node10" href="$bpf__trace_8c.html#a834376de358a851a827d0fc01bb9716d" title="get_map_perf_counter" alt="" coords="663,208,813,235"/>
+<area shape="rect" id="node11" href="$events_2core_8c.html#a19ae82f0ba5a21c877baedcdc73f99cd" title="perf_event_read_local" alt="" coords="872,208,1021,235"/>
+<area shape="rect" id="node12" href="$events_2core_8c.html#a45b334f5f7ea7667770fca160a6aa3ca" title="perf_clock" alt="" coords="1099,183,1182,209"/>
+<area shape="rect" id="node13" href="$events_2core_8c.html#ac55ca48a69981ded2af704d4f91c136c" title="__perf_update_times" alt="" coords="1069,233,1212,260"/>
+<area shape="rect" id="node14" href="$events_2core_8c.html#a60721ddf911a48ce897387d6b326c96e" title="__perf_effective_state" alt="" coords="1260,233,1411,260"/>
+<area shape="rect" id="node16" href="$trace__probe_8h.html#af5c44788e9103db1cff219235c6f6bfd" title="call_fetch" alt="" coords="472,427,551,453"/>
+<area shape="rect" id="node18" href="$events_2core_8c.html#ab95c0977ce560aa10dcc51a21670add6" title="perf_swevent_get_recursion\l_context" alt="" coords="419,361,604,402"/>
+<area shape="rect" id="node21" href="$trace__event__perf_8c.html#ad5daf8126058b8236839f820e48d6a55" title="EXPORT_SYMBOL_GPL" alt="" coords="425,259,597,285"/>
+<area shape="rect" id="node22" href="$trace__event__perf_8c.html#a958d8ee4f0f877a7dba9ff04ce36aa9a" title="NOKPROBE_SYMBOL" alt="" coords="431,309,591,336"/>
+<area shape="rect" id="node19" href="$events_2internal_8h.html#af56e1ce8b5b148cdc3689d06ad1659cf" title="get_recursion_context" alt="" coords="663,393,813,420"/>
+<area shape="rect" id="node20" href="$bpf_2core_8c.html#a873375a123a9cdec2363428e9c58d0e4" title="EXPORT_SYMBOL_GPL" alt="" coords="652,343,824,369"/>
+<area shape="rect" id="node24" href="$trace__probe_8h.html#a722ce51512e5afd90a198f4f48ffe13a" title="set_print_fmt" alt="" coords="462,477,561,504"/>
+<area shape="rect" id="node25" href="$trace__probe_8c.html#aa9e9a18f83f7476181164204e8125c4c" title="__set_print_fmt" alt="" coords="682,477,794,504"/>
+</map>

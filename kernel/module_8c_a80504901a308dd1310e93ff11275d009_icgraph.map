@@ -1,0 +1,9 @@
+<map id="module_remove_modinfo_attrs" name="module_remove_modinfo_attrs">
+<area shape="rect" id="node2" href="$module_8c.html#a29ac966af7e749d000a7d70d2d1c2c3d" title="resolve_symbol_wait" alt="" coords="221,5,365,32"/>
+<area shape="rect" id="node6" href="$module_8c.html#a409a882c19487843396d07b750799fe0" title="mod_sysfs_teardown" alt="" coords="220,56,367,83"/>
+<area shape="rect" id="node3" href="$module_8c.html#a12ebf5ec87f2db4d3c02ffb09d8d36fc" title="simplify_symbols" alt="" coords="556,5,679,32"/>
+<area shape="rect" id="node4" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="727,81,821,108"/>
+<area shape="rect" id="node5" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="869,81,1016,108"/>
+<area shape="rect" id="node7" href="$module_8c.html#ada763ec5054818654d48980ebb255fe5" title="free_module" alt="" coords="415,107,508,133"/>
+<area shape="rect" id="node8" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="563,157,672,184"/>
+</map>

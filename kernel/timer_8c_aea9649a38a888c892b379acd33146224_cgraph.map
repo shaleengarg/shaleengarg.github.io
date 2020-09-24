@@ -1,0 +1,12 @@
+<map id="run_timer_softirq" name="run_timer_softirq">
+<area shape="rect" id="node2" href="$timer_8c.html#a78a4b257880bbf483367066498b53794" title="__run_timers" alt="" coords="172,81,269,108"/>
+<area shape="rect" id="node3" href="$timer_8c.html#a52ceeb1379be51bc30db3179d568df77" title="collect_expired_timers" alt="" coords="317,56,469,83"/>
+<area shape="rect" id="node7" href="$timer_8c.html#afe27f1a1e895109b717a4d9da47607e2" title="expire_timers" alt="" coords="343,107,443,133"/>
+<area shape="rect" id="node4" href="$timer_8c.html#a73a1451a76632f72f145aed74628ee33" title="__collect_expired_timers" alt="" coords="517,56,684,83"/>
+<area shape="rect" id="node5" href="$tick-internal_8h.html#ac5632fad1fc2f065057ca2370c52798c" title="get_next_timer_interrupt" alt="" coords="732,5,895,32"/>
+<area shape="rect" id="node6" href="$tick-internal_8h.html#a21ea6208569f98f820c598a5d8635bfa" title="timer_clear_idle" alt="" coords="757,56,870,83"/>
+<area shape="rect" id="node8" href="$timer_8c.html#ab9cbbbdbb5e7159b4b3b59a77cc5446c" title="detach_timer" alt="" coords="552,107,649,133"/>
+<area shape="rect" id="node11" href="$timer_8c.html#a7255a7e3897171203f49d9c2b223ca2c" title="call_timer_fn" alt="" coords="553,157,649,184"/>
+<area shape="rect" id="node9" href="$timer_8c.html#afc3ac2a3af3291fc5cf755ece203d659" title="debug_deactivate" alt="" coords="751,107,875,133"/>
+<area shape="rect" id="node10" href="$timer_8c.html#a71881fe28fcf1d6fffb233c5490e034e" title="debug_timer_deactivate" alt="" coords="943,107,1103,133"/>
+</map>

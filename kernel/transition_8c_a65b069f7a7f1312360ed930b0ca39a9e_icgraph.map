@@ -1,0 +1,12 @@
+<map id="klp_synchronize_transition" name="klp_synchronize_transition">
+<area shape="rect" id="node2" href="$transition_8c.html#a29034663b3734a48211634afed32aa23" title="klp_complete_transition" alt="" coords="229,81,388,108"/>
+<area shape="rect" id="node11" href="$transition_8h.html#ae156d638058355b4012e131c614359c6" title="klp_reverse_transition" alt="" coords="234,5,383,32"/>
+<area shape="rect" id="node3" href="$transition_8h.html#af2096810759ff8d350bdc66cb32ed8f1" title="klp_cancel_transition" alt="" coords="455,132,599,159"/>
+<area shape="rect" id="node7" href="$transition_8h.html#a85f110ba9a9179e3f24a0027df4f8272" title="klp_try_complete_transition" alt="" coords="436,81,617,108"/>
+<area shape="rect" id="node4" href="$livepatch_2core_8c.html#a89fefc97aca0568f384baae43db23f55" title="__klp_enable_patch" alt="" coords="673,132,810,159"/>
+<area shape="rect" id="node5" href="$livepatch_2core_8c.html#a6e4dd37156b76670c171c2997c39589e" title="klp_enable_patch" alt="" coords="867,132,990,159"/>
+<area shape="rect" id="node6" href="$livepatch_2core_8c.html#ab708918d65fd21b2d7c8274f91b64c74" title="enabled_store" alt="" coords="877,5,980,32"/>
+<area shape="rect" id="node8" href="$livepatch_2core_8c.html#afa4ba4374cd55e2a6f5a0b417cab253d" title="__klp_disable_patch" alt="" coords="671,31,811,57"/>
+<area shape="rect" id="node10" href="$transition_8c.html#ab325a49c08fb2978a145ded9d61fe712" title="klp_transition_work_fn" alt="" coords="665,81,817,108"/>
+<area shape="rect" id="node9" href="$livepatch_2core_8c.html#a2d6c762fd7f186cf5539447a6e2f9224" title="klp_disable_patch" alt="" coords="865,56,992,83"/>
+</map>

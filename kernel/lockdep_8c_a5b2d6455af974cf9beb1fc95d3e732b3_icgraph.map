@@ -1,0 +1,6 @@
+<map id="lockdep_free_key_range" name="lockdep_free_key_range">
+<area shape="rect" id="node2" href="$module_8c.html#ada763ec5054818654d48980ebb255fe5" title="free_module" alt="" coords="216,56,309,83"/>
+<area shape="rect" id="node4" href="$module_8c.html#ae43d7d2c9a1e6d46956b6b7636dc7fb0" title="load_module" alt="" coords="515,56,609,83"/>
+<area shape="rect" id="node3" href="$module_8c.html#a2b23135bbd687f45e5f0dec793b63245" title="do_init_module" alt="" coords="357,5,467,32"/>
+<area shape="rect" id="node5" href="$module_8c.html#a59ac50b297b67eb0aa36b62e41347e1f" title="SYSCALL_DEFINE3" alt="" coords="657,56,804,83"/>
+</map>

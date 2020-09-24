@@ -1,0 +1,23 @@
+<map id="detach_destroy_domains" name="detach_destroy_domains">
+<area shape="rect" id="node2" href="$topology_8c.html#a65c2956a5ea7733a8804d2403c609b26" title="cpu_attach_domain" alt="" coords="220,233,355,260"/>
+<area shape="rect" id="node3" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="913,9,971,36"/>
+<area shape="rect" id="node4" href="$topology_8c.html#ae735252332ae6e8d3374407820edd913" title="sd_parent_degenerate" alt="" coords="416,334,567,361"/>
+<area shape="rect" id="node5" href="$topology_8c.html#ac9a127e1246483efb327630dddd3eec3" title="sd_degenerate" alt="" coords="669,309,775,336"/>
+<area shape="rect" id="node6" href="$topology_8c.html#adb421bbcc20ad3d93694899e81c383ad" title="destroy_sched_domain" alt="" coords="864,66,1020,93"/>
+<area shape="rect" id="node9" href="$topology_8c.html#aee68aad19d0358f0efd86d03389cfb17" title="rq_attach_root" alt="" coords="669,233,775,260"/>
+<area shape="rect" id="node18" href="$topology_8c.html#a66d374d9285277678c1e164046d05d9f" title="destroy_sched_domains" alt="" coords="410,106,573,133"/>
+<area shape="rect" id="node22" href="$topology_8c.html#a5c209fc0dceb076ef59abc652add24b6" title="update_top_cache_domain" alt="" coords="403,385,580,412"/>
+<area shape="rect" id="node7" href="$topology_8c.html#ab27bf6f0c8832e7149efe4e8172df484" title="free_sched_groups" alt="" coords="1088,78,1220,105"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="1342,129,1393,156"/>
+<area shape="rect" id="node10" href="$tiny_8c.html#a134315452e4d3d70420ecbe6e1ca4563" title="call_rcu_sched" alt="" coords="887,281,997,308"/>
+<area shape="rect" id="node15" href="$topology_8c.html#ad2a032abe5ce52a32f9349a2958ca9ea" title="free_rootdomain" alt="" coords="885,208,999,234"/>
+<area shape="rect" id="node11" href="$tiny_8c.html#a3f3a7fdc422d607bf946dcc18bcb36f1" title="__call_rcu" alt="" coords="1113,281,1195,308"/>
+<area shape="rect" id="node14" href="$tiny_8c.html#ac7b6cd611d8f419ef7b798f01763ecb7" title="EXPORT_SYMBOL_GPL" alt="" coords="1068,332,1240,358"/>
+<area shape="rect" id="node12" href="$rcu_8h.html#afbcb4260e48bdf9d6f9680bdb44a962e" title="debug_rcu_head_queue" alt="" coords="1288,256,1447,282"/>
+<area shape="rect" id="node13" href="$rcu_8h.html#a9d4675b6ba4bd98d586f92991cf4964b" title="resched_cpu" alt="" coords="1319,306,1415,333"/>
+<area shape="rect" id="node16" href="$cpupri_8c.html#a7e4b9390b79bd9e5bbbd46b7f24b8665" title="cpupri_cleanup" alt="" coords="1099,180,1209,206"/>
+<area shape="rect" id="node17" href="$cpudeadline_8c.html#ace9a2255347ddba44cdbb061fb8b6309" title="cpudl_cleanup" alt="" coords="1101,230,1207,257"/>
+<area shape="rect" id="node19" href="$tree_8h.html#a094a548179ef967658b67414a0c91d32" title="call_rcu" alt="" coords="689,81,755,108"/>
+<area shape="rect" id="node20" href="$topology_8c.html#a2808cec5135cae9cb628f3f59dc9aecd" title="destroy_sched_domains_rcu" alt="" coords="628,30,816,57"/>
+<area shape="rect" id="node21" href="$topology_8c.html#a480a3f32463ff6349a7537a3e4fb03fc" title="DEFINE_PER_CPU" alt="" coords="651,132,793,158"/>
+</map>

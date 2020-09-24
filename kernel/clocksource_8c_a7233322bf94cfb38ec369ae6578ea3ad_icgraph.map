@@ -1,0 +1,7 @@
+<map id="clocksource_touch_watchdog" name="clocksource_touch_watchdog">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a90b9dd398200cf0b16148d55d67d3d09" title="dbg_touch_watchdogs" alt="" coords="248,56,400,83"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="448,56,563,83"/>
+<area shape="rect" id="node4" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="611,5,769,32"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="627,56,753,83"/>
+<area shape="rect" id="node6" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="636,107,744,133"/>
+</map>

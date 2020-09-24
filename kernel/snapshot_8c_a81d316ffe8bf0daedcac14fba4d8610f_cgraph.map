@@ -1,0 +1,9 @@
+<map id="hibernate_restore_unprotect_page" name="hibernate_restore_unprotect_page">
+<area shape="rect" id="node2" href="$snapshot_8c.html#aa41fcddae66e65d526ea3cedbba6821f" title="swsusp_page_is_free" alt="" coords="299,5,447,32"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#a9cd604588e2f75cce811e98a172b7000" title="swsusp_set_page_forbidden" alt="" coords="279,56,466,83"/>
+<area shape="rect" id="node7" href="$snapshot_8c.html#a65f26f5c589f819c16d56d48bf5714e2" title="swsusp_unset_page_forbidden" alt="" coords="272,107,473,133"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a026d4de692ba84e27571def4f442e908" title="memory_bm_test_bit" alt="" coords="525,5,669,32"/>
+<area shape="rect" id="node4" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="720,56,863,83"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html#a73e0064c539b4340fb6fc3dd4f73e8ab" title="memory_bm_set_bit" alt="" coords="527,56,667,83"/>
+<area shape="rect" id="node8" href="$snapshot_8c.html#ac89ac94510062d5805ff434732abc2cb" title="memory_bm_clear_bit" alt="" coords="521,107,672,133"/>
+</map>

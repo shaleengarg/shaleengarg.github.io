@@ -1,0 +1,27 @@
+<map id="rcu_dynticks_snap" name="rcu_dynticks_snap">
+<area shape="rect" id="node2" href="$tree_8c.html#aa7c0aafe6ee14a0c3a4c4e12cb5e02de" title="rcu_dynticks_in_eqs\l_since" alt="" coords="201,95,342,137"/>
+<area shape="rect" id="node7" href="$tree__exp_8h.html#a47a98d8681ddb002094d035a154f86c7" title="sync_rcu_exp_select_cpus" alt="" coords="407,157,587,184"/>
+<area shape="rect" id="node22" href="$tree_8c.html#abb9ebbf969c86cb70ad16a2c925ab5c6" title="dyntick_save_progress\l_counter" alt="" coords="419,37,575,78"/>
+<area shape="rect" id="node23" href="$tree_8c.html#afc06c1901227fb2d36ef0fdfff815904" title="rcu_boot_init_percpu_data" alt="" coords="184,212,359,239"/>
+<area shape="rect" id="node26" href="$tree__plugin_8h.html#a471b06688c690dc4cea9d6a546b11aff" title="print_cpu_stall_info" alt="" coords="204,263,339,289"/>
+<area shape="rect" id="node3" href="$tree_8c.html#ae9d5edabe52a86a363eda36c861f2b2d" title="rcu_implicit_dynticks_qs" alt="" coords="414,103,579,129"/>
+<area shape="rect" id="node4" href="$tree_8c.html#acb43e5bce6278cfa7e60944567b7c570" title="rcu_gp_fqs" alt="" coords="672,51,759,77"/>
+<area shape="rect" id="node5" href="$tree_8c.html#a8970305863efcd2eb60e81cab4f5fba8" title="rcu_gp_kthread" alt="" coords="849,51,959,77"/>
+<area shape="rect" id="node6" href="$tree_8c.html#a265eab7d250c47809d5bbe4580ee909d" title="rcu_spawn_gp_kthread" alt="" coords="1027,51,1183,77"/>
+<area shape="rect" id="node8" href="$tree__exp_8h.html#acc247c7ea97937a7216c05eccf8baed7" title="rcu_exp_sel_wait_wake" alt="" coords="635,157,796,184"/>
+<area shape="rect" id="node9" href="$tree__exp_8h.html#af5a452d254cefe7e567b888c2c94729b" title="wait_rcu_exp_gp" alt="" coords="844,107,964,133"/>
+<area shape="rect" id="node10" href="$tree__exp_8h.html#add5fc50af9ff8164e2fcb8f7c48739ac" title="_synchronize_rcu_expedited" alt="" coords="1012,120,1199,147"/>
+<area shape="rect" id="node11" href="$tree__exp_8h.html#ab6a15656165643c75ae5d19a0b31a640" title="synchronize_sched_expedited" alt="" coords="1247,120,1444,147"/>
+<area shape="rect" id="node12" href="$tree_8c.html#a1b4dd5621638b4f0b9abde8fe8ca6df6" title="synchronize_sched" alt="" coords="1515,44,1649,71"/>
+<area shape="rect" id="node14" href="$tree__exp_8h.html#a083fbbb282ef5a0d32d2f99d74372dc8" title="synchronize_rcu_expedited" alt="" coords="1492,145,1672,172"/>
+<area shape="rect" id="node17" href="$update_8c.html#ac7aa191f9e1255f5d79776dd06eff0c0" title="rcu_test_sync_prims" alt="" coords="1733,95,1876,121"/>
+<area shape="rect" id="node13" href="$tree_8c.html#a524b4bee99ca93bf8c386565656b9cae" title="cond_synchronize_sched" alt="" coords="1720,44,1889,71"/>
+<area shape="rect" id="node15" href="$tree__plugin_8h.html#ad3c6ecd52b3f74dd458cc10d71c44446" title="rcu_bootup_announce\l_oddness" alt="" coords="2396,150,2545,191"/>
+<area shape="rect" id="node16" href="$tree__plugin_8h.html#ac59298325c89333fe13c147bfebaa2e4" title="rcu_bootup_announce" alt="" coords="2593,157,2743,184"/>
+<area shape="rect" id="node18" href="$tree_8c.html#a2d94d7fb01eb30d5e09e70206c70921f" title="rcu_scheduler_starting" alt="" coords="1951,107,2105,133"/>
+<area shape="rect" id="node19" href="$update_8c.html#a16f8595371f03d18374c15f9ae361fc4" title="rcu_set_runtime_mode" alt="" coords="1951,5,2105,32"/>
+<area shape="rect" id="node20" href="$update_8c.html#a1aa5ca78e9cb2e6de0e9a6aa2a93ee80" title="rcu_tasks_bootup_oddness" alt="" coords="1937,56,2119,83"/>
+<area shape="rect" id="node21" href="$update_8c.html#adf672e6570ad00e3070c7b1aa77c35dd" title="rcupdate_announce_bootup\l_oddness" alt="" coords="2167,70,2348,111"/>
+<area shape="rect" id="node24" href="$tree_8c.html#ad1f724e09bfd1f066b2a9b37c58208a8" title="rcu_init_one" alt="" coords="451,212,543,239"/>
+<area shape="rect" id="node25" href="$tree_8c.html#aa0e5bf97f28c8ca03e7ce0cc57d6f5f5" title="rcu_init" alt="" coords="683,259,747,285"/>
+</map>

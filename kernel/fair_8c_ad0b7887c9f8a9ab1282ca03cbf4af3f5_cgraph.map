@@ -1,0 +1,7 @@
+<map id="update_stats_wait_end" name="update_stats_wait_end">
+<area shape="rect" id="node2" href="$sched_8h.html#ad3626499c2477c1305ef65fbf49caa50" title="rq_clock" alt="" coords="247,5,318,32"/>
+<area shape="rect" id="node4" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="257,56,308,83"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="250,107,315,133"/>
+<area shape="rect" id="node6" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="209,157,356,184"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="404,5,553,32"/>
+</map>

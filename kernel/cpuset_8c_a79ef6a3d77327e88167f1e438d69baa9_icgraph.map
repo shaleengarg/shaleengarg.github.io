@@ -1,0 +1,12 @@
+<map id="is_memory_migrate" name="is_memory_migrate">
+<area shape="rect" id="node2" href="$cpuset_8c.html#a82a2ecf5392f8221cfe3c1aa2ab95469" title="update_tasks_nodemask" alt="" coords="189,93,356,120"/>
+<area shape="rect" id="node10" href="$cpuset_8c.html#ae2875ff4e54ef4dd0ffc69141497a5b1" title="cpuset_attach" alt="" coords="221,144,325,171"/>
+<area shape="rect" id="node11" href="$cpuset_8c.html#a99fe05672d7eebc86447be55d715e678" title="cpuset_read_u64" alt="" coords="212,195,333,221"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#abed0ba0b664bfbccdd9360af1835dded" title="update_nodemasks_hier" alt="" coords="404,5,567,32"/>
+<area shape="rect" id="node6" href="$cpuset_8c.html#ac6f5da7f78ed04d24b56616b2f6cd22d" title="hotplug_update_tasks\l_legacy" alt="" coords="411,57,560,98"/>
+<area shape="rect" id="node8" href="$cpuset_8c.html#a9e2a70f28dbc35ecd301c3a3332ed874" title="cpuset_hotplug_workfn" alt="" coords="819,144,975,171"/>
+<area shape="rect" id="node9" href="$cpuset_8c.html#a0ab3a9bba66eb382cdd95b39048aa063" title="hotplug_update_tasks" alt="" coords="411,123,560,149"/>
+<area shape="rect" id="node4" href="$cpuset_8c.html#a488bf56f2046356e176e6d1aebbd65b7" title="update_nodemask" alt="" coords="629,5,757,32"/>
+<area shape="rect" id="node5" href="$cpuset_8c.html#a7398e486b19816967ac2ee9da63135d5" title="cpuset_write_resmask" alt="" coords="820,5,973,32"/>
+<area shape="rect" id="node7" href="$cpuset_8c.html#a9e61badc6705506460418be7747beb0c" title="cpuset_hotplug_update\l_tasks" alt="" coords="615,107,771,149"/>
+</map>

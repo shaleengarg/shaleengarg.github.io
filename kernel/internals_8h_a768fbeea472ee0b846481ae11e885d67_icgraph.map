@@ -1,0 +1,27 @@
+<map id="irq_fixup_move_pending" name="irq_fixup_move_pending">
+<area shape="rect" id="node2" href="$internals_8h.html#ac467b55d1430bc8fa0274897a1da6f11" title="irq_init_generic_chip" alt="" coords="216,309,356,336"/>
+<area shape="rect" id="node3" href="$internals_8h.html#a41da12859379999f093384e3fd28ae6b" title="record_irq_time" alt="" coords="404,309,515,336"/>
+<area shape="rect" id="node4" href="$internals_8h.html#a08f521e66761251b3f8afe661bce105e" title="__handle_irq_event\l_percpu" alt="" coords="572,250,707,291"/>
+<area shape="rect" id="node22" href="$internals_8h.html#a22beb7f32bcd2acd3151122908298b6b" title="irq_pm_remove_action" alt="" coords="563,339,716,365"/>
+<area shape="rect" id="node5" href="$chip_8c.html#a640d54b34a2be4efc7d11f56a17f9c11" title="handle_untracked_irq" alt="" coords="775,207,920,233"/>
+<area shape="rect" id="node6" href="$internals_8h.html#a26df9dbbad50fed7ef6bcf00d8f47a28" title="handle_irq_event_percpu" alt="" coords="764,257,931,284"/>
+<area shape="rect" id="node7" href="$chip_8c.html#a1c06c355efc5424683ee7398c834ffa1" title="handle_percpu_irq" alt="" coords="984,157,1111,184"/>
+<area shape="rect" id="node8" href="$internals_8h.html#a94664932c0897ebcf2563753e89020d8" title="handle_irq_event" alt="" coords="987,208,1107,235"/>
+<area shape="rect" id="node9" href="$chip_8c.html#a6fc2c414a75f20ef3353e1c9d8c75479" title="handle_simple_irq" alt="" coords="1173,31,1299,57"/>
+<area shape="rect" id="node13" href="$chip_8c.html#a36239c70447a7675ae17dba9e17e8b94" title="handle_level_irq" alt="" coords="1179,81,1293,108"/>
+<area shape="rect" id="node14" href="$chip_8c.html#a5ad800f75bdcb43de57cdee838d66eda" title="handle_fasteoi_irq" alt="" coords="1173,132,1299,159"/>
+<area shape="rect" id="node15" href="$chip_8c.html#a59094f8786961797870d59a703b950d1" title="handle_edge_irq" alt="" coords="1178,183,1294,209"/>
+<area shape="rect" id="node16" href="$chip_8c.html#a00647ddd8467fe1985f03d1592ef1d40" title="irq_cpu_offline" alt="" coords="1183,233,1289,260"/>
+<area shape="rect" id="node17" href="$spurious_8c.html#af50ee6082173d0afd17a181c8463d956" title="try_one_irq" alt="" coords="1193,284,1279,311"/>
+<area shape="rect" id="node10" href="$irq__sim_8c.html#a0150cd9c72d3f3b3c597f025b29dbf58" title="irq_sim_handle_irq" alt="" coords="1356,5,1487,32"/>
+<area shape="rect" id="node11" href="$irq__sim_8c.html#a9fd2a56fae26ee7fa04ffdcb97d3ec54" title="irq_sim_init" alt="" coords="1541,31,1629,57"/>
+<area shape="rect" id="node12" href="$irq__sim_8c.html#a41dadaba79d874e944115112c835c145" title="devm_irq_sim_init" alt="" coords="1684,31,1811,57"/>
+<area shape="rect" id="node18" href="$spurious_8c.html#a1a2d3ea0375dcbb9dc19e7f980967706" title="misrouted_irq" alt="" coords="1371,233,1471,260"/>
+<area shape="rect" id="node21" href="$spurious_8c.html#a21e8f8a8512c905cb6c6a478b7d1786f" title="poll_spurious_irqs" alt="" coords="1358,284,1485,311"/>
+<area shape="rect" id="node19" href="$spurious_8c.html#a2a9ab3f60db6b27e62d60b4ee1411217" title="note_interrupt" alt="" coords="1535,284,1636,311"/>
+<area shape="rect" id="node20" href="$chip_8c.html#a71facf201040ea02f0ffe5914e10ef1c" title="handle_nested_irq" alt="" coords="1684,284,1811,311"/>
+<area shape="rect" id="node23" href="$internals_8h.html#a6b2f7d69a77fa9fbf21fbe15ecd79ed6" title="irq_desc_is_chained" alt="" coords="777,385,917,412"/>
+<area shape="rect" id="node24" href="$pm_8c.html#a391df03db1485b944149824ddbf93fdb" title="suspend_device_irq" alt="" coords="979,385,1116,412"/>
+<area shape="rect" id="node26" href="$proc_8c.html#a7ec2f5f133407333cf5e6ad40e8f1588" title="init_irq_proc" alt="" coords="1001,436,1093,463"/>
+<area shape="rect" id="node25" href="$pm_8c.html#a0c327e13fc051112d2fc49f774624f4d" title="suspend_device_irqs" alt="" coords="1164,385,1308,412"/>
+</map>

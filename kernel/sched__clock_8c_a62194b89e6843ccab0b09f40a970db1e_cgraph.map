@@ -1,0 +1,17 @@
+<map id="sched_clock_postinit" name="sched_clock_postinit">
+<area shape="rect" id="node2" href="$sched__clock_8c.html#a24f4f049ea56b373651bb911128f3e70" title="jiffy_sched_clock_read" alt="" coords="197,56,352,83"/>
+<area shape="rect" id="node3" href="$sched__clock_8c.html#a302268716880007a66faa1ea6f4da89f" title="sched_clock_register" alt="" coords="413,107,559,133"/>
+<area shape="rect" id="node9" href="$sched__clock_8c.html#a47365d39e6b04421af6e9989372b84df" title="update_sched_clock" alt="" coords="415,157,557,184"/>
+<area shape="rect" id="node10" href="$hrtimer_8c.html#a6e49770c43416cb8835cbc6201fb0d87" title="hrtimer_init" alt="" coords="231,259,318,285"/>
+<area shape="rect" id="node16" href="$sched__clock_8c.html#acb3e934c10d104c7aad026ebd019a481" title="sched_clock_poll" alt="" coords="213,157,336,184"/>
+<area shape="rect" id="node4" href="$clocksource_8c.html#ad0e47b7cf1ad36d148f64c25f145966c" title="clocks_calc_mult_shift" alt="" coords="625,5,780,32"/>
+<area shape="rect" id="node6" href="$clocksource_8c.html#a71d9d1648904ff798c15e503bcfa04d8" title="clocks_calc_max_nsecs" alt="" coords="620,56,785,83"/>
+<area shape="rect" id="node7" href="$sched__clock_8c.html#ab829740a3a0c0cccf39278967552e23e" title="cyc_to_ns" alt="" coords="661,107,744,133"/>
+<area shape="rect" id="node8" href="$sched__clock_8c.html#a2cb83ed7bb7f167784cdf38fbc4ee5df" title="update_clock_read_data" alt="" coords="621,157,784,184"/>
+<area shape="rect" id="node5" href="$clocksource_8c.html#ad3cadf4bd0e3a9d68a26e19b10ba5dad" title="EXPORT_SYMBOL_GPL" alt="" coords="833,5,1005,32"/>
+<area shape="rect" id="node11" href="$hrtimer_8c.html#ab8c4d443abd65daae77d14883b03a99f" title="debug_init" alt="" coords="445,208,527,235"/>
+<area shape="rect" id="node13" href="$hrtimer_8c.html#a855572b6d36ba9f01aa3ca931c201b4f" title="__hrtimer_init" alt="" coords="436,259,536,285"/>
+<area shape="rect" id="node15" href="$hrtimer_8c.html#aa7ad19a6291d62fde28112c2e67ea6d9" title="EXPORT_SYMBOL_GPL" alt="" coords="400,309,572,336"/>
+<area shape="rect" id="node12" href="$hrtimer_8c.html#a6a590a5745277e1ac71c5627d7a1b2a1" title="debug_hrtimer_init" alt="" coords="639,208,767,235"/>
+<area shape="rect" id="node14" href="$hrtimer_8c.html#a5373ef93c654bd0cad85e3b22ab98cf8" title="hrtimer_clockid_to_base" alt="" coords="621,259,784,285"/>
+</map>

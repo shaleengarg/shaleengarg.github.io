@@ -1,0 +1,8 @@
+<map id="irq_find_mapping" name="irq_find_mapping">
+<area shape="rect" id="node2" href="$irqdomain_8c.html#af88604ce56fad1ad5b353fd9e6c1cc73" title="irq_domain_get_irq_data" alt="" coords="173,31,336,57"/>
+<area shape="rect" id="node7" href="$irqdomain_8c.html#a6bbfa85182bd5427452738bf71547bb1" title="EXPORT_SYMBOL_GPL" alt="" coords="384,81,556,108"/>
+<area shape="rect" id="node3" href="$chip_8c.html#a8291de3ee7ba0f7adcc6dba911060370" title="irq_get_irq_data" alt="" coords="413,31,527,57"/>
+<area shape="rect" id="node4" href="$irqdesc_8c.html#ac29b44b5c7a7076ea50e073716488063" title="irq_to_desc" alt="" coords="645,5,735,32"/>
+<area shape="rect" id="node6" href="$chip_8c.html#a5594e82f23dd60e01d6a16650a6402ea" title="EXPORT_SYMBOL_GPL" alt="" coords="604,56,776,83"/>
+<area shape="rect" id="node5" href="$irqdesc_8c.html#ac087e325effca0588ce052536110ce79" title="EXPORT_SYMBOL" alt="" coords="824,5,963,32"/>
+</map>

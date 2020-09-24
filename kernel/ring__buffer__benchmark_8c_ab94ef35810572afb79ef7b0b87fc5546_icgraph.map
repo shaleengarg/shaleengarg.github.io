@@ -1,0 +1,6 @@
+<map id="wait_to_die" name="wait_to_die">
+<area shape="rect" id="node2" href="$ring__buffer__benchmark_8c.html#a169375f00e7595c1a34f32a45ecdaec2" title="ring_buffer_consumer\l_thread" alt="" coords="141,5,288,47"/>
+<area shape="rect" id="node5" href="$ring__buffer__benchmark_8c.html#a56f62b8eea85b805b25f1daad0641ca7" title="ring_buffer_producer\l_thread" alt="" coords="145,71,285,112"/>
+<area shape="rect" id="node3" href="$ring__buffer__benchmark_8c.html#acc8211c2538f3635cbcc98ed7fb9323b" title="ring_buffer_benchmark_init" alt="" coords="336,46,515,73"/>
+<area shape="rect" id="node4" href="$ring__buffer__benchmark_8c.html#a9137344d7927ced5d56e53036fbbdcb8" title="ring_buffer_benchmark_exit" alt="" coords="563,46,745,73"/>
+</map>

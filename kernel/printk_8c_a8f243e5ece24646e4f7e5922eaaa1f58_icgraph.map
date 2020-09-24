@@ -1,0 +1,4 @@
+<map id="register_console" name="register_console">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a158b3fda3a2b65881505252f17ce3ee2" title="kgdb_register_callbacks" alt="" coords="171,5,333,32"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#a41134fb8571a5580fd06790d7084402d" title="kgdb_register_io_module" alt="" coords="381,5,548,32"/>
+</map>

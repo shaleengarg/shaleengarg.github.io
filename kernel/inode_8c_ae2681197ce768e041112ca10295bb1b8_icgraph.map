@@ -1,0 +1,7 @@
+<map id="bpf_mkprog" name="bpf_mkprog">
+<area shape="rect" id="node2" href="$inode_8c.html#aee76045449613c8a044f2f0032404bfc" title="bpf_obj_do_pin" alt="" coords="144,5,253,32"/>
+<area shape="rect" id="node3" href="$inode_8c.html#a1aa5a97bf15bfc89422a0b482edfdd09" title="bpf_obj_pin_user" alt="" coords="301,5,421,32"/>
+<area shape="rect" id="node4" href="$syscall_8c.html#af9d9e17676ec051855620622a9e16b40" title="bpf_obj_pin" alt="" coords="469,5,557,32"/>
+<area shape="rect" id="node5" href="$syscall_8c.html#a287cfa7dd44661f6d36d74eb93cb6270" title="SYSCALL_DEFINE3" alt="" coords="605,5,752,32"/>
+<area shape="rect" id="node6" href="$exit_8c.html#aa05085198a75fc8afdcf9e795f9f8f7f" title="SYSCALL_DEFINE4" alt="" coords="800,5,947,32"/>
+</map>

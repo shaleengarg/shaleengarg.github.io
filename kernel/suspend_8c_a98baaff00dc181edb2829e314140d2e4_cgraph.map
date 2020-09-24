@@ -1,0 +1,4 @@
+<map id="s2idle_enter" name="s2idle_enter">
+<area shape="rect" id="node2" href="$smp_8c.html#a6106bfc464becf7c4ea9654b04089a97" title="wake_up_all_idle_cpus" alt="" coords="145,5,301,32"/>
+<area shape="rect" id="node3" href="$smp_8c.html#aa01efbf21d94ae76294a553e805a3e48" title="EXPORT_SYMBOL_GPL" alt="" coords="349,5,521,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="handle_bad_irq" name="handle_bad_irq">
+<area shape="rect" id="node2" href="$debug_8h.html#a4aa0028e33d26e914dd7a2542847267b" title="print_irq_desc" alt="" coords="197,5,300,32"/>
+<area shape="rect" id="node3" href="$internals_8h.html#ae2f0b90be469659f3e96700257c60abe" title="kstat_incr_irqs_this_cpu" alt="" coords="167,56,330,83"/>
+<area shape="rect" id="node4" href="$handle_8c.html#adaa52307fde493c2f95814b4400827db" title="EXPORT_SYMBOL_GPL" alt="" coords="163,107,335,133"/>
+</map>

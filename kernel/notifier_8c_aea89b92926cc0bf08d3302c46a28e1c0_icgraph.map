@@ -1,0 +1,8 @@
+<map id="register_die_notifier" name="register_die_notifier">
+<area shape="rect" id="node2" href="$hw__breakpoint_8c.html#a12fb2cfb430a326c84b18b02aced6ed5" title="init_hw_breakpoint" alt="" coords="191,5,321,32"/>
+<area shape="rect" id="node4" href="$uprobes_8c.html#a36fd388b93daf65348025b7891384a07" title="init_uprobes" alt="" coords="210,56,302,83"/>
+<area shape="rect" id="node5" href="$kprobes_8c.html#acc06dfb4d93c2cc31c06cc54cae57cda" title="init_kprobes" alt="" coords="210,107,302,133"/>
+<area shape="rect" id="node6" href="$trace_8c.html#aeac11113858c5997db570163cd69068b" title="tracer_alloc_buffers" alt="" coords="188,157,324,184"/>
+<area shape="rect" id="node3" href="$events_2core_8c.html#a8706e08815df592b5e1da79ac7c4ce50" title="perf_event_init" alt="" coords="374,5,481,32"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a84f8562ddf2acb5281d74367d4541766" title="early_trace_init" alt="" coords="372,157,483,184"/>
+</map>

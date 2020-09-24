@@ -1,0 +1,6 @@
+<map id="kgdb_io_ready" name="kgdb_io_ready">
+<area shape="rect" id="node2" href="$debug__core_8c.html#a44562883923ac985f063f4fb92714d80" title="kgdb_cpu_enter" alt="" coords="160,56,275,83"/>
+<area shape="rect" id="node5" href="$debug__core_8c.html#a50e1755662307050660a0b56e0e31a1d" title="kgdb_nmicallin" alt="" coords="348,107,456,133"/>
+<area shape="rect" id="node3" href="$debug__core_8c.html#adf4fc5d764a3eba653e69e2873352da2" title="kgdb_handle_exception" alt="" coords="323,5,481,32"/>
+<area shape="rect" id="node4" href="$debug__core_8c.html#a05ed772661976c7a9a0bd0424d893b84" title="kgdb_nmicallback" alt="" coords="339,56,465,83"/>
+</map>

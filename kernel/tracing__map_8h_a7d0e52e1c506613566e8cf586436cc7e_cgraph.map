@@ -1,0 +1,14 @@
+<map id="tracing_map_sort_entries" name="tracing_map_sort_entries">
+<area shape="rect" id="node2" href="$tracing__map_8c.html#aa1a370c15ba29356463dab00514e00e7" title="create_sort_entry" alt="" coords="231,5,354,32"/>
+<area shape="rect" id="node3" href="$tracing__map_8c.html#a05179fd0a6ba74380e23dcac5992f07c" title="detect_dups" alt="" coords="246,56,339,83"/>
+<area shape="rect" id="node5" href="$tracing__map_8c.html#a3f892e1e74ccd6af01424b95d99f562f" title="is_key" alt="" coords="447,119,507,145"/>
+<area shape="rect" id="node6" href="$tracing__map_8c.html#a6ac365c4c002691662b9bc9d6c2f1743" title="cmp_entries_key" alt="" coords="417,195,538,221"/>
+<area shape="rect" id="node7" href="$tracing__map_8c.html#ad66dcacaf81e524da4682094ccd241c2" title="cmp_entries_sum" alt="" coords="415,252,540,279"/>
+<area shape="rect" id="node8" href="$tracing__map_8c.html#a9eb29ff54c3476c1b512ed7776eb044c" title="set_sort_key" alt="" coords="429,309,526,336"/>
+<area shape="rect" id="node9" href="$tracing__map_8c.html#ad3d7a99644f68db1908adaeb9207b4e8" title="sort_secondary" alt="" coords="237,208,348,235"/>
+<area shape="rect" id="node10" href="$tracing__map_8c.html#a8df1aed75ad034dc5e0ae4a6d658f12c" title="tracing_map_destroy\l_sort_entries" alt="" coords="221,361,364,402"/>
+<area shape="rect" id="node4" href="$tracing__map_8c.html#a090bc74890803887f8fbd21b5beb7f95" title="cmp_entries_dup" alt="" coords="417,56,538,83"/>
+<area shape="rect" id="node11" href="$tracing__map_8c.html#a556a40498c1504fd99cdc9a9c2cfeaca" title="destroy_sort_entry" alt="" coords="412,368,543,395"/>
+<area shape="rect" id="node12" href="$tracing__map_8c.html#a8aa46e127fc93183250df0c749fc0a96" title="tracing_map_elt_free" alt="" coords="591,393,733,420"/>
+<area shape="rect" id="node13" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="781,368,832,395"/>
+</map>

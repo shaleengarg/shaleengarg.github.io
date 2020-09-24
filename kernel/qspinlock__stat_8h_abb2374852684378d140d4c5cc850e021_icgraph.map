@@ -1,0 +1,5 @@
+<map id="qstat_hop" name="qstat_hop">
+<area shape="rect" id="node2" href="$qspinlock__paravirt_8h.html#a51e423eee11b2b909b9a2e81113f1758" title="pv_hash" alt="" coords="132,31,203,57"/>
+<area shape="rect" id="node3" href="$qspinlock__paravirt_8h.html#a5cf565176bd20fe6e4cac2a5554020a2" title="pv_kick_node" alt="" coords="275,5,377,32"/>
+<area shape="rect" id="node4" href="$qspinlock__paravirt_8h.html#ad97b24553f7540461c01a680018587e5" title="pv_wait_head_or_lock" alt="" coords="251,56,401,83"/>
+</map>

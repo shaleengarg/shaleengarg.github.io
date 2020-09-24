@@ -1,0 +1,12 @@
+<map id="kexec_locate_mem_hole" name="kexec_locate_mem_hole">
+<area shape="rect" id="node2" href="$kexec__file_8c.html#a998813afb69fc631ba5f49c9c0aa1882" title="arch_kexec_walk_mem" alt="" coords="230,56,389,83"/>
+<area shape="rect" id="node8" href="$kexec__file_8c.html#a6c173c1922cd02592dae66f993b8334b" title="locate_mem_hole_callback" alt="" coords="220,107,399,133"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a8d23824c3662d556c2dc1ebaaae3b561" title="walk_iomem_res_desc" alt="" coords="465,5,620,32"/>
+<area shape="rect" id="node7" href="$resource_8c.html#af25b275f2ee1f1e7801de101b7031492" title="walk_system_ram_res" alt="" coords="466,56,619,83"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a97e1bd4824808187df8a50ae3798cd59" title="__walk_iomem_res_desc" alt="" coords="687,41,856,68"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a85c105339d83cb2fb03d88a671c14192" title="find_next_iomem_res" alt="" coords="904,41,1051,68"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a3e8ffb60a55c6da62e57733817f306d9" title="next_resource" alt="" coords="1099,41,1203,68"/>
+<area shape="rect" id="node9" href="$kexec__file_8c.html#a71abf077358b8accf897038767a4765d" title="locate_mem_hole_top_down" alt="" coords="449,107,636,133"/>
+<area shape="rect" id="node11" href="$kexec__file_8c.html#a775c02bceb8af86db122ca59b81ea66f" title="locate_mem_hole_bottom_up" alt="" coords="447,157,639,184"/>
+<area shape="rect" id="node10" href="$kexec__core_8c.html#aca269cf68860bafdb51ae138bc3fa705" title="kimage_is_destination\l_range" alt="" coords="696,114,847,155"/>
+</map>

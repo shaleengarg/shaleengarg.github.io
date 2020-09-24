@@ -1,0 +1,4 @@
+<map id="is_cpuset_subset" name="is_cpuset_subset">
+<area shape="rect" id="node2" href="$cpuset_8c.html#a3de95fc3a5824fc76a231241cac17456" title="is_cpu_exclusive" alt="" coords="181,5,304,32"/>
+<area shape="rect" id="node3" href="$cpuset_8c.html#a8d8e53e16feeaaffd211585ed36ac543" title="is_mem_exclusive" alt="" coords="177,56,308,83"/>
+</map>

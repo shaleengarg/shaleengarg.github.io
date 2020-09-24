@@ -1,0 +1,9 @@
+<map id="setup_callbacks" name="setup_callbacks">
+<area shape="rect" id="node2" href="$relay_8c.html#a9eb66381c13b29e3db8d5333801f8087" title="subbuf_start_default\l_callback" alt="" coords="179,5,319,47"/>
+<area shape="rect" id="node5" href="$relay_8c.html#a3ad17311e67a71e53afeba82519be3cc" title="buf_mapped_default\l_callback" alt="" coords="180,71,319,112"/>
+<area shape="rect" id="node6" href="$relay_8c.html#a3426c094201aca9e3c78118630a0b70c" title="buf_unmapped_default\l_callback" alt="" coords="173,136,326,177"/>
+<area shape="rect" id="node7" href="$relay_8c.html#a99a25bfcef1a77c3375d3b3445af1103" title="create_buf_file_default\l_callback" alt="" coords="173,201,326,243"/>
+<area shape="rect" id="node8" href="$relay_8c.html#a7fe633e2a2650fbe93caf15cc7fe2594" title="remove_buf_file_default\l_callback" alt="" coords="169,267,329,308"/>
+<area shape="rect" id="node3" href="$relay_8c.html#a1261ee13b9a172eba345a30c33de4947" title="relay_buf_full" alt="" coords="377,13,476,39"/>
+<area shape="rect" id="node4" href="$relay_8c.html#a7bf9731b7f5efd869fc466cfcabe4ecb" title="EXPORT_SYMBOL_GPL" alt="" coords="524,13,696,39"/>
+</map>

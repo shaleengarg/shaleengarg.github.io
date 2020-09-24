@@ -1,0 +1,8 @@
+<map id="lzo_compress_threadfn" name="lzo_compress_threadfn">
+<area shape="rect" id="node2" href="$swap_8c.html#acddbb0763ada5b0c2283fdd223c2a4cb" title="save_image_lzo" alt="" coords="211,56,327,83"/>
+<area shape="rect" id="node3" href="$swap_8c.html#a98062ebed0f1d6fb365900bf752f3259" title="swsusp_write" alt="" coords="375,56,477,83"/>
+<area shape="rect" id="node4" href="$hibernate_8c.html#abfedd2b9a4c6c47c36b6c0da519b93ca" title="hibernate" alt="" coords="525,56,600,83"/>
+<area shape="rect" id="node5" href="$autosleep_8c.html#a9ce871e246bc580c9e0333d21a9a0da2" title="try_to_suspend" alt="" coords="666,5,777,32"/>
+<area shape="rect" id="node6" href="$main_8c.html#a527c121d49b65a15d0a9fb137978aaee" title="state_store" alt="" coords="678,56,765,83"/>
+<area shape="rect" id="node7" href="$reboot_8c.html#a727bf9ae938c0b73172d23f1ea386ed8" title="SYSCALL_DEFINE4" alt="" coords="648,107,795,133"/>
+</map>

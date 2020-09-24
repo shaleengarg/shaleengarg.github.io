@@ -1,0 +1,9 @@
+<map id="__dl_update" name="__dl_update">
+<area shape="rect" id="node2" href="$sched_2core_8c.html#a13fabc691944697ce2fdcfe2f6ec2cff" title="DECLARE_PER_CPU" alt="" coords="145,5,303,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a08f1e046d3a427e23e73e2e4d38e3439" title="cpufreq_update_util" alt="" coords="157,56,291,83"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a52a385d1b568bca5878a1b12aa8bd84a" title="cpu_of" alt="" coords="193,107,255,133"/>
+<area shape="rect" id="node7" href="$sched_8h.html#ad3626499c2477c1305ef65fbf49caa50" title="rq_clock" alt="" coords="189,157,259,184"/>
+<area shape="rect" id="node5" href="$sched_8h.html#af09c7b3a31f6c63144f80490d68819dc" title="update_idle_core" alt="" coords="365,107,485,133"/>
+<area shape="rect" id="node6" href="$sched_8h.html#a08e907cf06ec6b1552e65bc9c12eb887" title="DECLARE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="548,99,769,141"/>
+<area shape="rect" id="node8" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="351,157,500,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ring_buffer_wait" name="ring_buffer_wait">
+<area shape="rect" id="node2" href="$trace_8c.html#aebc631e860a7426f2afec325fca86576" title="wait_on_pipe" alt="" coords="168,81,267,108"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a854ccc1feb17f55f045b3404838288bc" title="tracing_wait_pipe" alt="" coords="344,31,467,57"/>
+<area shape="rect" id="node6" href="$trace_8c.html#a41f5e86bab17d45ccaaf09853eedb607" title="tracing_buffers_read" alt="" coords="335,81,475,108"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a5e14d5e30c9695fe53b4e3fadb7bb3ab" title="tracing_buffers_splice_read" alt="" coords="315,132,496,159"/>
+<area shape="rect" id="node4" href="$trace_8c.html#ae29e0441e1e65a2a2abd8f7b08750c31" title="tracing_read_pipe" alt="" coords="565,5,689,32"/>
+<area shape="rect" id="node5" href="$trace_8c.html#aaf81fbf2a1d643d63a0336d7a83c8736" title="tracing_splice_read_pipe" alt="" coords="544,56,709,83"/>
+</map>

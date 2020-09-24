@@ -1,0 +1,14 @@
+<map id="duplicate_memory_bitmap" name="duplicate_memory_bitmap">
+<area shape="rect" id="node2" href="$snapshot_8c.html#a89d5facfe927a893595e8aed32b5de0e" title="memory_bm_position\l_reset" alt="" coords="230,9,377,50"/>
+<area shape="rect" id="node11" href="$snapshot_8c.html#afd7fe78331e8d756b8e15acd74d9ee07" title="memory_bm_next_pfn" alt="" coords="228,75,379,101"/>
+<area shape="rect" id="node13" href="$snapshot_8c.html#a73e0064c539b4340fb6fc3dd4f73e8ab" title="memory_bm_set_bit" alt="" coords="783,125,923,152"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a5a2ab113ccbdfc6d07abd87fd804fcf3" title="memory_bm_free" alt="" coords="427,16,549,43"/>
+<area shape="rect" id="node4" href="$snapshot_8c.html#aadb3b2e23cd6f5892d817a16878f65e0" title="free_zone_bm_rtree" alt="" coords="597,5,735,32"/>
+<area shape="rect" id="node10" href="$snapshot_8c.html#a4b1098658e82568e341ec3af808641f2" title="free_list_of_pages" alt="" coords="602,56,730,83"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#afc279d01b4afdc8a0a0853efa05ef854" title="free_image_page" alt="" coords="792,35,913,61"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html#a65f26f5c589f819c16d56d48bf5714e2" title="swsusp_unset_page_forbidden" alt="" coords="971,24,1172,51"/>
+<area shape="rect" id="node9" href="$snapshot_8c.html#acaba0587ad7f460bd01d46a0182e0e13" title="swsusp_unset_page_free" alt="" coords="986,75,1157,101"/>
+<area shape="rect" id="node7" href="$snapshot_8c.html#ac89ac94510062d5805ff434732abc2cb" title="memory_bm_clear_bit" alt="" coords="1220,75,1371,101"/>
+<area shape="rect" id="node8" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="1419,100,1561,127"/>
+<area shape="rect" id="node12" href="$snapshot_8c.html#a73a9834c19b8d5aca4cbe25f1c262508" title="rtree_next_node" alt="" coords="431,75,545,101"/>
+</map>

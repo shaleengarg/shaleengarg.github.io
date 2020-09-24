@@ -1,0 +1,9 @@
+<map id="htab_free_elems" name="htab_free_elems">
+<area shape="rect" id="node2" href="$hashtab_8c.html#a13ae3f1d0f9d5a962ae263086d204b87" title="prealloc_init" alt="" coords="185,5,276,32"/>
+<area shape="rect" id="node5" href="$hashtab_8c.html#a48e8f1d5d114fc6ef64c202a57528b9e" title="prealloc_destroy" alt="" coords="172,56,289,83"/>
+<area shape="rect" id="node3" href="$hashtab_8c.html#a88744462667e8a451f9382ddc329a9ce" title="htab_map_alloc" alt="" coords="337,5,451,32"/>
+<area shape="rect" id="node4" href="$hashtab_8c.html#a9f58cb1ebdd3514bfaef27291e47d9fe" title="htab_of_map_alloc" alt="" coords="499,5,629,32"/>
+<area shape="rect" id="node6" href="$hashtab_8c.html#a505563187a60885514605e9c040cba90" title="htab_map_free" alt="" coords="340,56,448,83"/>
+<area shape="rect" id="node7" href="$hashtab_8c.html#ac55377ff04e4ba484585ca3f11f1ff37" title="fd_htab_map_free" alt="" coords="501,56,627,83"/>
+<area shape="rect" id="node8" href="$hashtab_8c.html#aab15eab8b00b2dbb2d6d7447d49c87bf" title="htab_of_map_free" alt="" coords="677,56,804,83"/>
+</map>

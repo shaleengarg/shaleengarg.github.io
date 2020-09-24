@@ -1,0 +1,6 @@
+<map id="sched_avg_period" name="sched_avg_period">
+<area shape="rect" id="node2" href="$sched_8h.html#a9c17f118999691de1082ca66b6556184" title="hrtick_enabled" alt="" coords="180,5,287,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a52a385d1b568bca5878a1b12aa8bd84a" title="cpu_of" alt="" coords="203,56,264,83"/>
+<area shape="rect" id="node4" href="$sched_8h.html#af09c7b3a31f6c63144f80490d68819dc" title="update_idle_core" alt="" coords="335,56,455,83"/>
+<area shape="rect" id="node5" href="$sched_8h.html#a08e907cf06ec6b1552e65bc9c12eb887" title="DECLARE_PER_CPU_SHARED\l_ALIGNED" alt="" coords="503,49,724,90"/>
+</map>

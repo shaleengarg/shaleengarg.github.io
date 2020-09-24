@@ -1,0 +1,7 @@
+<map id="rcu_irq_enter" name="rcu_irq_enter">
+<area shape="rect" id="node2" href="$tree_8h.html#a6bb3e8a09bb67f453c12a389b7af6add" title="rcu_dynticks_task_exit" alt="" coords="151,5,307,32"/>
+<area shape="rect" id="node3" href="$tree_8c.html#ac9c54c0439b4ddf704ff8826d5c12131" title="rcu_nmi_enter" alt="" coords="177,56,281,83"/>
+<area shape="rect" id="node6" href="$tree_8h.html#a22573ea993adde508668147c6efe437e" title="rcu_cleanup_after_idle" alt="" coords="153,107,305,133"/>
+<area shape="rect" id="node4" href="$tree_8c.html#af530e4ec65bf56e8edcc6e346df5cf43" title="rcu_dynticks_curr_cpu\l_in_eqs" alt="" coords="355,19,508,61"/>
+<area shape="rect" id="node5" href="$tree_8c.html#ad920107b57fa2ca59a81794bfc07ec00" title="rcu_dynticks_eqs_exit" alt="" coords="355,85,507,112"/>
+</map>

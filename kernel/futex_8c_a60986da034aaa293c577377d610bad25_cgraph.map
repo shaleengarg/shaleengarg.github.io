@@ -1,0 +1,5 @@
+<map id="futex_init" name="futex_init">
+<area shape="rect" id="node2" href="$futex_8c.html#a8c7f0d2b00189bb6390494dfd8c05d48" title="futex_detect_cmpxchg" alt="" coords="128,13,283,39"/>
+<area shape="rect" id="node4" href="$futex_8c.html#a93f4cb80064ed0f3ad0d1265d4f22fe4" title="core_initcall" alt="" coords="160,63,251,90"/>
+<area shape="rect" id="node3" href="$futex_8c.html#afb0c6b3b50e86641f48526f295165c90" title="cmpxchg_futex_value\l_locked" alt="" coords="331,5,480,47"/>
+</map>

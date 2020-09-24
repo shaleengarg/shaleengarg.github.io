@@ -1,0 +1,16 @@
+<map id="mark_unsafe_pages" name="mark_unsafe_pages">
+<area shape="rect" id="node2" href="$snapshot_8c.html#a89d5facfe927a893595e8aed32b5de0e" title="memory_bm_position\l_reset" alt="" coords="418,41,565,82"/>
+<area shape="rect" id="node11" href="$snapshot_8c.html#afd7fe78331e8d756b8e15acd74d9ee07" title="memory_bm_next_pfn" alt="" coords="416,157,567,184"/>
+<area shape="rect" id="node13" href="$snapshot_8c.html#aa9ce530a555163f5d7566206b83f7ffb" title="memory_bm_clear_current" alt="" coords="192,208,368,235"/>
+<area shape="rect" id="node14" href="$snapshot_8c.html#a8ec8bdee489410525d7be8707c19a6eb" title="duplicate_memory_bitmap" alt="" coords="193,107,367,133"/>
+<area shape="rect" id="node3" href="$snapshot_8c.html#a5a2ab113ccbdfc6d07abd87fd804fcf3" title="memory_bm_free" alt="" coords="615,48,737,75"/>
+<area shape="rect" id="node4" href="$snapshot_8c.html#aadb3b2e23cd6f5892d817a16878f65e0" title="free_zone_bm_rtree" alt="" coords="785,5,923,32"/>
+<area shape="rect" id="node10" href="$snapshot_8c.html#a4b1098658e82568e341ec3af808641f2" title="free_list_of_pages" alt="" coords="790,56,918,83"/>
+<area shape="rect" id="node5" href="$snapshot_8c.html#afc279d01b4afdc8a0a0853efa05ef854" title="free_image_page" alt="" coords="980,31,1101,57"/>
+<area shape="rect" id="node6" href="$snapshot_8c.html#a65f26f5c589f819c16d56d48bf5714e2" title="swsusp_unset_page_forbidden" alt="" coords="1159,5,1360,32"/>
+<area shape="rect" id="node9" href="$snapshot_8c.html#acaba0587ad7f460bd01d46a0182e0e13" title="swsusp_unset_page_free" alt="" coords="1174,56,1345,83"/>
+<area shape="rect" id="node7" href="$snapshot_8c.html#ac89ac94510062d5805ff434732abc2cb" title="memory_bm_clear_bit" alt="" coords="1408,56,1559,83"/>
+<area shape="rect" id="node8" href="$snapshot_8c.html#a56657be5466b8792f2d6d7ffb65a67ea" title="memory_bm_find_bit" alt="" coords="1607,81,1749,108"/>
+<area shape="rect" id="node12" href="$snapshot_8c.html#a73a9834c19b8d5aca4cbe25f1c262508" title="rtree_next_node" alt="" coords="619,157,733,184"/>
+<area shape="rect" id="node15" href="$snapshot_8c.html#a73e0064c539b4340fb6fc3dd4f73e8ab" title="memory_bm_set_bit" alt="" coords="971,107,1111,133"/>
+</map>

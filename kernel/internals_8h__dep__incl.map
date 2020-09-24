@@ -1,0 +1,19 @@
+<map id="irq/internals.h" name="irq/internals.h">
+<area shape="rect" id="node2" href="$autoprobe_8c.html" title="irq/autoprobe.c" alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node3" href="$chip_8c.html" title="irq/chip.c" alt="" coords="138,80,213,107"/>
+<area shape="rect" id="node4" href="$cpuhotplug_8c.html" title="irq/cpuhotplug.c" alt="" coords="237,80,351,107"/>
+<area shape="rect" id="node5" href="$debugfs_8c.html" title="irq/debugfs.c" alt="" coords="376,80,473,107"/>
+<area shape="rect" id="node6" href="$devres_8c.html" title="irq/devres.c" alt="" coords="498,80,589,107"/>
+<area shape="rect" id="node7" href="$dummychip_8c.html" title="irq/dummychip.c" alt="" coords="613,80,732,107"/>
+<area shape="rect" id="node8" href="$generic-chip_8c.html" title="irq/generic&#45;chip.c" alt="" coords="756,80,877,107"/>
+<area shape="rect" id="node9" href="$handle_8c.html" title="irq/handle.c" alt="" coords="901,80,991,107"/>
+<area shape="rect" id="node10" href="$irqdesc_8c.html" title="irq/irqdesc.c" alt="" coords="1015,80,1109,107"/>
+<area shape="rect" id="node11" href="$manage_8c.html" title="irq/manage.c" alt="" coords="1133,80,1231,107"/>
+<area shape="rect" id="node12" href="$migration_8c.html" title="irq/migration.c" alt="" coords="1255,80,1359,107"/>
+<area shape="rect" id="node13" href="$msi_8c.html" title="irq/msi.c" alt="" coords="1383,80,1455,107"/>
+<area shape="rect" id="node14" href="$pm_8c.html" title="irq/pm.c" alt="" coords="1479,80,1549,107"/>
+<area shape="rect" id="node15" href="$proc_8c.html" title="irq/proc.c" alt="" coords="1573,80,1649,107"/>
+<area shape="rect" id="node16" href="$resend_8c.html" title="irq/resend.c" alt="" coords="1674,80,1765,107"/>
+<area shape="rect" id="node17" href="$spurious_8c.html" title="irq/spurious.c" alt="" coords="1789,80,1889,107"/>
+<area shape="rect" id="node18" href="$timings_8c.html" title="irq/timings.c" alt="" coords="1914,80,2007,107"/>
+</map>

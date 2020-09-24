@@ -1,0 +1,32 @@
+<map id="print_trace_header" name="print_trace_header">
+<area shape="rect" id="node2" href="$trace_8c.html#af76e80d926426577370a0471817d5aad" title="get_total_entries" alt="" coords="189,56,308,83"/>
+<area shape="rect" id="node7" href="$trace_8c.html#a07950e1e07f94f22a1b429ea43e8d664" title="nsecs_to_usecs" alt="" coords="190,107,307,133"/>
+<area shape="rect" id="node8" href="$user__namespace_8c.html#a01e197eea0bab1f6e3f0ce595a3f247f" title="from_kuid_munged" alt="" coords="183,157,315,184"/>
+<area shape="rect" id="node15" href="$trace__output_8c.html#aeb8581f4fdf51fd47bbe071f6591f44d" title="seq_print_ip_sym" alt="" coords="187,309,311,336"/>
+<area shape="rect" id="node31" href="$trace__seq_8c.html#aa3c42b36f92ab598756553e9fb67ca89" title="trace_print_seq" alt="" coords="193,208,304,235"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#aa3d7dc1f6c900413c963e79995210d22" title="ring_buffer_entries_cpu" alt="" coords="365,56,522,83"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#a3339116e7971f0d0712c42dab2b4a68c" title="ring_buffer_overrun_cpu" alt="" coords="363,5,524,32"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a8742e72ea2a90da3515bfe630a14fec8" title="rb_num_of_entries" alt="" coords="593,56,723,83"/>
+<area shape="rect" id="node5" href="$events_2ring__buffer_8c.html#aad5537402004db009b95227517681327" title="EXPORT_SYMBOL_GPL" alt="" coords="572,5,744,32"/>
+<area shape="rect" id="node9" href="$user__namespace_8c.html#a72d61d45f2f1852631f63a1b0760d055" title="from_kuid" alt="" coords="404,157,483,184"/>
+<area shape="rect" id="node14" href="$user__namespace_8c.html#aa28361506fe28b7e6e6c2755f55bbdcf" title="EXPORT_SYMBOL" alt="" coords="589,107,727,133"/>
+<area shape="rect" id="node10" href="$user__namespace_8c.html#a5474c6bc02ec3fe33a3b407655e62dea" title="map_id_up" alt="" coords="615,157,701,184"/>
+<area shape="rect" id="node11" href="$user__namespace_8c.html#a27cc58bcc56ae8129f73eb342768e9fb" title="map_id_up_base" alt="" coords="818,183,938,209"/>
+<area shape="rect" id="node12" href="$user__namespace_8c.html#a57d3e3667143fc700d12a0f45b16dab1" title="map_id_up_max" alt="" coords="819,132,937,159"/>
+<area shape="rect" id="node13" href="$user__namespace_8c.html#a3038287ccc3cba73670ea096da303f11" title="cmp_map_id" alt="" coords="1023,132,1119,159"/>
+<area shape="rect" id="node16" href="$trace__seq_8c.html#adb64913da7b9a02254c4f51959c29cc9" title="trace_seq_putc" alt="" coords="603,259,713,285"/>
+<area shape="rect" id="node19" href="$trace__output_8c.html#a41bb038f59dd1f832260a32fd8951a9c" title="seq_print_sym_offset" alt="" coords="370,360,517,387"/>
+<area shape="rect" id="node29" href="$trace__seq_8c.html#ada52130afd8c232eca10bfea7f2840db" title="trace_seq_printf" alt="" coords="601,309,715,336"/>
+<area shape="rect" id="node30" href="$trace__output_8c.html#a83376c5b00c432520d0c238789182024" title="seq_print_sym_short" alt="" coords="372,411,515,437"/>
+<area shape="rect" id="node17" href="$trace__seq_8c.html#af8145d15c391d6952c3ecc4bc095e8e4" title="__trace_seq_init" alt="" coords="819,259,937,285"/>
+<area shape="rect" id="node18" href="$trace__seq_8c.html#aae8b816cef00e35eff6a038bd76485fa" title="EXPORT_SYMBOL_GPL" alt="" coords="792,309,964,336"/>
+<area shape="rect" id="node20" href="$kallsyms_8c.html#a746ef854382255d93aaa7a21d558c24a" title="sprint_symbol" alt="" coords="607,360,709,387"/>
+<area shape="rect" id="node28" href="$trace__output_8c.html#aa24b0d18cf0c4e96f775a0bd7a1ca666" title="kretprobed" alt="" coords="617,411,699,437"/>
+<area shape="rect" id="node21" href="$kallsyms_8c.html#a96f7118799b518c4580b4d796494256b" title="__sprint_symbol" alt="" coords="819,360,937,387"/>
+<area shape="rect" id="node27" href="$kallsyms_8c.html#a300ff32a9bf31980a3ff43e41b17f014" title="EXPORT_SYMBOL_GPL" alt="" coords="792,411,964,437"/>
+<area shape="rect" id="node22" href="$kallsyms_8c.html#ad893eee977869440eb2e054217463020" title="kallsyms_lookup" alt="" coords="1012,411,1131,437"/>
+<area shape="rect" id="node23" href="$kallsyms_8c.html#ac35918ccde4efec899ffddeb75542651" title="get_symbol_pos" alt="" coords="1206,360,1323,387"/>
+<area shape="rect" id="node25" href="$kallsyms_8c.html#af4a2f59e76f1304525543e014949e9f5" title="kallsyms_expand_symbol" alt="" coords="1179,411,1351,437"/>
+<area shape="rect" id="node26" href="$kallsyms_8c.html#a28a5689a227a1efdd304554bff9701f8" title="get_symbol_offset" alt="" coords="1200,461,1329,488"/>
+<area shape="rect" id="node24" href="$kallsyms_8c.html#acaa3448bbd3f1b781989f7ad5a93b14c" title="kallsyms_sym_address" alt="" coords="1399,360,1557,387"/>
+</map>

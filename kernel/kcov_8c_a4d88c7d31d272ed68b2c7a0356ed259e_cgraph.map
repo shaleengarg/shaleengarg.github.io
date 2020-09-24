@@ -1,0 +1,5 @@
+<map id="kcov_task_exit" name="kcov_task_exit">
+<area shape="rect" id="node2" href="$kcov_8c.html#ac775a9e44592795d1a7776783885e48f" title="kcov_task_init" alt="" coords="164,5,271,32"/>
+<area shape="rect" id="node3" href="$kcov_8c.html#a776142edce0535a00545e60d0ea7f1c0" title="kcov_put" alt="" coords="180,56,255,83"/>
+<area shape="rect" id="node4" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="319,56,369,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="send_reply" name="send_reply">
+<area shape="rect" id="node2" href="$taskstats_8c.html#adf0c1a332368a3f04b2210e7dd4d901e" title="cgroupstats_user_cmd" alt="" coords="139,5,293,32"/>
+<area shape="rect" id="node3" href="$taskstats_8c.html#a5fce939c361b1a6c3444fb9ec27393ec" title="cmd_attr_pid" alt="" coords="167,56,265,83"/>
+<area shape="rect" id="node5" href="$taskstats_8c.html#ac2aa9df01801f4378ab13fb2ae33458c" title="cmd_attr_tgid" alt="" coords="165,107,267,133"/>
+<area shape="rect" id="node4" href="$taskstats_8c.html#aaa2e3ba6b92e1e845e1fa81ee5460b95" title="taskstats_user_cmd" alt="" coords="341,81,481,108"/>
+</map>

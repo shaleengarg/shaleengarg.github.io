@@ -1,0 +1,7 @@
+<map id="perf_trace_buf_alloc" name="perf_trace_buf_alloc">
+<area shape="rect" id="node2" href="$events_2core_8c.html#ab95c0977ce560aa10dcc51a21670add6" title="perf_swevent_get_recursion\l_context" alt="" coords="192,23,377,65"/>
+<area shape="rect" id="node5" href="$trace__event__perf_8c.html#ad5daf8126058b8236839f820e48d6a55" title="EXPORT_SYMBOL_GPL" alt="" coords="199,89,371,116"/>
+<area shape="rect" id="node6" href="$trace__event__perf_8c.html#a958d8ee4f0f877a7dba9ff04ce36aa9a" title="NOKPROBE_SYMBOL" alt="" coords="205,140,365,167"/>
+<area shape="rect" id="node3" href="$events_2internal_8h.html#af56e1ce8b5b148cdc3689d06ad1659cf" title="get_recursion_context" alt="" coords="436,5,587,32"/>
+<area shape="rect" id="node4" href="$bpf_2core_8c.html#a873375a123a9cdec2363428e9c58d0e4" title="EXPORT_SYMBOL_GPL" alt="" coords="425,56,597,83"/>
+</map>

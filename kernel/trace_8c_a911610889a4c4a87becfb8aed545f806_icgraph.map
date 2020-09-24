@@ -1,0 +1,11 @@
+<map id="tracing_record_cmdline" name="tracing_record_cmdline">
+<area shape="rect" id="node2" href="$trace__sched__wakeup_8c.html#aae417ac7239d71f0e2b938daa43bc90b" title="probe_wakeup_sched\l_switch" alt="" coords="209,46,357,87"/>
+<area shape="rect" id="node10" href="$trace__sched__wakeup_8c.html#a53d6441be284a0d51cc3dbb09e5e8c8d" title="probe_wakeup" alt="" coords="230,112,337,139"/>
+<area shape="rect" id="node3" href="$trace__sched__wakeup_8c.html#ae9708234e3c15d7d36d1c7ba1cb5217c" title="start_wakeup_tracer" alt="" coords="405,56,545,83"/>
+<area shape="rect" id="node8" href="$trace__sched__wakeup_8c.html#acd19dff68e1a722f19dc396c6e35c12d" title="stop_wakeup_tracer" alt="" coords="406,108,545,135"/>
+<area shape="rect" id="node4" href="$trace__sched__wakeup_8c.html#a41ede34307cd5da1d58de4f7bf8c11be" title="__wakeup_tracer_init" alt="" coords="593,56,739,83"/>
+<area shape="rect" id="node5" href="$trace__sched__wakeup_8c.html#a26b2a6b5d3793a9603e8fa6e55344c53" title="wakeup_tracer_init" alt="" coords="795,5,926,32"/>
+<area shape="rect" id="node6" href="$trace__sched__wakeup_8c.html#a06a1126f2e2996aec5223fce2fbbb4e8" title="wakeup_rt_tracer_init" alt="" coords="787,56,934,83"/>
+<area shape="rect" id="node7" href="$trace__sched__wakeup_8c.html#ab59fe3deb42b88d6d46565feebe4b6f8" title="wakeup_dl_tracer_init" alt="" coords="787,107,935,133"/>
+<area shape="rect" id="node9" href="$trace__sched__wakeup_8c.html#ae076f093a09d5575f4b1a58aaed34244" title="wakeup_tracer_reset" alt="" coords="595,108,737,135"/>
+</map>

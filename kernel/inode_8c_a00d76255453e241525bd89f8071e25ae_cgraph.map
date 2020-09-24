@@ -1,0 +1,12 @@
+<map id="bpf_fd_probe_obj" name="bpf_fd_probe_obj">
+<area shape="rect" id="node2" href="$syscall_8c.html#a61b173b8e4137ab88b75d2d09125519a" title="bpf_map_get_with_uref" alt="" coords="175,56,332,83"/>
+<area shape="rect" id="node5" href="$syscall_8c.html#ab06bf0e1b8af179bb99ca1e97cf4e314" title="bpf_prog_get" alt="" coords="205,107,302,133"/>
+<area shape="rect" id="node3" href="$syscall_8c.html#adb968b2b82d81459e38a86e4d9891a31" title="__bpf_map_get" alt="" coords="380,5,491,32"/>
+<area shape="rect" id="node4" href="$syscall_8c.html#a79bac2eec900fea67fdf02e01b9d0f1d" title="bpf_map_inc" alt="" coords="387,56,483,83"/>
+<area shape="rect" id="node6" href="$syscall_8c.html#a1678c54b83b1c9d077dbef7f0f3f0f49" title="__bpf_prog_get" alt="" coords="380,107,491,133"/>
+<area shape="rect" id="node7" href="$syscall_8c.html#a60a5117625768b539a0e90e3598d5125" title="____bpf_prog_get" alt="" coords="539,56,664,83"/>
+<area shape="rect" id="node8" href="$syscall_8c.html#a8551bda3d1084402fd351e4d48404085" title="bpf_prog_get_ok" alt="" coords="542,107,661,133"/>
+<area shape="rect" id="node9" href="$syscall_8c.html#af94758ebf997b5c1e5b3480d9a1fd9ce" title="bpf_prog_inc" alt="" coords="553,157,649,184"/>
+<area shape="rect" id="node10" href="$syscall_8c.html#afcad6580e15acbb14db40ec651de9191" title="bpf_prog_add" alt="" coords="712,132,812,159"/>
+<area shape="rect" id="node11" href="$syscall_8c.html#a5c049986025408379f12ce15fb2c4e48" title="EXPORT_SYMBOL_GPL" alt="" coords="860,157,1032,184"/>
+</map>

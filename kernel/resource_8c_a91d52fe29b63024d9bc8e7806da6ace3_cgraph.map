@@ -1,0 +1,11 @@
+<map id="__devm_release_region" name="__devm_release_region">
+<area shape="rect" id="node2" href="$cpudeadline_8c.html#a6bb854c6866f4abccf2a7cbd288b78c7" title="parent" alt="" coords="760,81,819,108"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a26cade886fc6c37e6052c2fbbccc6a69" title="__release_region" alt="" coords="405,132,525,158"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a9673883ea136cf575ab0dbb3af2a450d" title="EXPORT_SYMBOL" alt="" coords="573,233,712,260"/>
+<area shape="rect" id="node9" href="$resource_8c.html#a1a49e96b9a7bb8b02facedba5d06bdd7" title="devm_region_release" alt="" coords="212,157,357,184"/>
+<area shape="rect" id="node10" href="$resource_8c.html#aad85a2f8bf0afc6ae81253d98f6ac9e6" title="devm_region_match" alt="" coords="215,258,354,285"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a15e5e3084adfa80907de7451b6d4ba0b" title="free_resource" alt="" coords="592,182,693,209"/>
+<area shape="rect" id="node7" href="$resource_8c.html#a4e2e8351816932d26ad8436aa87a2735" title="alloc_resource" alt="" coords="589,30,696,57"/>
+<area shape="rect" id="node8" href="$resource_8c.html#acba4816443977b33bb7675152fcc6c09" title="__adjust_resource" alt="" coords="579,81,707,108"/>
+<area shape="rect" id="node5" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="764,182,815,209"/>
+</map>

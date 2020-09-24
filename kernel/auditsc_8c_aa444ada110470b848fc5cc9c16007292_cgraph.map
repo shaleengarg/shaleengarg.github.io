@@ -1,0 +1,6 @@
+<map id="__audit_syscall_entry" name="__audit_syscall_entry">
+<area shape="rect" id="node2" href="$audit_8c.html#aad7f06eb4ca26616afb7ff86f08b6e2a" title="auditd_test_task" alt="" coords="217,5,336,32"/>
+<area shape="rect" id="node3" href="$timekeeping_8c.html#a6214e953811af9b0fac3e2d92e0cdcc9" title="current_kernel_time64" alt="" coords="201,56,352,83"/>
+<area shape="rect" id="node4" href="$timekeeping_8c.html#aaf22e8830ac4adcfe067ed75633b5321" title="tk_xtime" alt="" coords="433,31,505,57"/>
+<area shape="rect" id="node5" href="$timekeeping_8c.html#afcfc36f17f1cf4bbaf6c160ca46b6be0" title="EXPORT_SYMBOL" alt="" coords="400,81,539,108"/>
+</map>

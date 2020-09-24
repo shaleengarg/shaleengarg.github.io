@@ -1,0 +1,8 @@
+<map id="update_stats_enqueue_sleeper" name="update_stats_enqueue_sleeper">
+<area shape="rect" id="node2" href="$fair_8c.html#a8323d0cc8b20b6984e6f05be5c847e37" title="update_stats_enqueue" alt="" coords="207,31,360,57"/>
+<area shape="rect" id="node3" href="$fair_8c.html#a1fbc2ca2f25ce8fcf7a8ee1df0f5d5aa" title="enqueue_entity" alt="" coords="408,31,519,57"/>
+<area shape="rect" id="node4" href="$fair_8c.html#af0207be4c69b8f41f2cdd6a8fdb05e9a" title="entity_tick" alt="" coords="567,5,649,32"/>
+<area shape="rect" id="node7" href="$fair_8c.html#a082df406a0b1ac9938079d004e33b155" title="enqueue_task_fair" alt="" coords="697,56,825,83"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a84e18f7ab984d1c246c9f24ef0b9d000" title="task_tick_fair" alt="" coords="711,5,811,32"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a081bbb75f733e80ad5a057e62e2a7b02" title="get_rr_interval_fair" alt="" coords="873,31,1003,57"/>
+</map>

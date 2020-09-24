@@ -1,0 +1,5 @@
+<map id="timekeeping_validate_timex" name="timekeeping_validate_timex">
+<area shape="rect" id="node2" href="$timekeeping_8c.html#aeac6292e6e98b3014762f02ead219314" title="do_adjtimex" alt="" coords="197,31,289,57"/>
+<area shape="rect" id="node3" href="$posix-timers_8c.html#ae73e9ab91f618d9af4e3a19be6b03fb1" title="posix_clock_realtime_adj" alt="" coords="337,5,505,32"/>
+<area shape="rect" id="node4" href="$time_8c.html#a0d6064dc892c30d7e0cb978277b0a47c" title="SYSCALL_DEFINE1" alt="" coords="348,56,495,83"/>
+</map>

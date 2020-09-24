@@ -1,0 +1,6 @@
+<map id="kimage_alloc_normal_control_pages" name="kimage_alloc_normal_control_pages">
+<area shape="rect" id="node2" href="$kexec__core_8c.html#a48d2082629f8b55877bedf9704b5d830" title="kimage_alloc_pages" alt="" coords="203,5,343,32"/>
+<area shape="rect" id="node3" href="$kexec__core_8c.html#aca269cf68860bafdb51ae138bc3fa705" title="kimage_is_destination\l_range" alt="" coords="198,57,349,98"/>
+<area shape="rect" id="node4" href="$kexec__core_8c.html#a1249aea7a04a3476850067af7190fd20" title="kimage_free_page_list" alt="" coords="197,123,349,149"/>
+<area shape="rect" id="node5" href="$kexec__core_8c.html#a1ea084e75448abf76f7796bf8b462f32" title="kimage_free_pages" alt="" coords="397,123,532,149"/>
+</map>

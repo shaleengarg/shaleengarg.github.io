@@ -1,0 +1,9 @@
+<map id="rb_insert_pages" name="rb_insert_pages">
+<area shape="rect" id="node2" href="$trace_8h.html#a6bfa7c938abd4bd57078e2905ccf2c75" title="head_page" alt="" coords="189,5,275,32"/>
+<area shape="rect" id="node3" href="$trace_2ring__buffer_8c.html#add0fa6256b2d6a7c98d14206bf66af53" title="rb_set_head_page" alt="" coords="168,56,296,83"/>
+<area shape="rect" id="node7" href="$trace_2ring__buffer_8c.html#a6b300f38d62deeb689a3956372f07a4a" title="free_buffer_page" alt="" coords="173,119,291,145"/>
+<area shape="rect" id="node4" href="$trace_2ring__buffer_8c.html#a0599940abf9a2f9e877334a72d9c37d7" title="rb_list_head" alt="" coords="512,43,604,69"/>
+<area shape="rect" id="node5" href="$trace_2ring__buffer_8c.html#af87ae7dab4996bd7dd214a1239345a87" title="rb_is_head_page" alt="" coords="344,43,464,69"/>
+<area shape="rect" id="node6" href="$trace_2ring__buffer_8c.html#adc4d2ae5f605ca4a9a5c8ea80c6b9a93" title="rb_inc_page" alt="" coords="358,93,450,120"/>
+<area shape="rect" id="node8" href="$rcu_8h.html#ad92c2890c435f9cca9e36ff4f97feb5c" title="kfree" alt="" coords="379,144,429,171"/>
+</map>

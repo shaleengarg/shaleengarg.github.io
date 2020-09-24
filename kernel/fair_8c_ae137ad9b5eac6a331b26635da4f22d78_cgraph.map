@@ -1,0 +1,8 @@
+<map id="update_stats_dequeue" name="update_stats_dequeue">
+<area shape="rect" id="node2" href="$fair_8c.html#ad0b7887c9f8a9ab1282ca03cbf4af3f5" title="update_stats_wait_end" alt="" coords="207,107,363,133"/>
+<area shape="rect" id="node3" href="$sched_8h.html#ad3626499c2477c1305ef65fbf49caa50" title="rq_clock" alt="" coords="449,5,519,32"/>
+<area shape="rect" id="node5" href="$fair_8c.html#a9eaa5a3fa6c88133706947e0b7bd7c60" title="rq_of" alt="" coords="459,56,509,83"/>
+<area shape="rect" id="node6" href="$fair_8c.html#a087aa90d114d3ebf7e7a183178076c94" title="task_of" alt="" coords="451,157,517,184"/>
+<area shape="rect" id="node7" href="$sched_8h.html#a52b7339479072fd79a4ee9c2f814f4fc" title="task_on_rq_migrating" alt="" coords="411,107,557,133"/>
+<area shape="rect" id="node4" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="605,5,755,32"/>
+</map>

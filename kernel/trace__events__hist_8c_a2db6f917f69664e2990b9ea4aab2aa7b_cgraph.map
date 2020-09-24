@@ -1,0 +1,5 @@
+<map id="hist_field_timestamp" name="hist_field_timestamp">
+<area shape="rect" id="node2" href="$trace_2ring__buffer_8c.html#ae945b56da6d153b839099eccc305f41d" title="ring_buffer_event_time\l_stamp" alt="" coords="196,5,351,47"/>
+<area shape="rect" id="node3" href="$trace_8c.html#a762a150d9a52df8ec151e65419a98fdc" title="trace_clock_in_ns" alt="" coords="210,71,337,98"/>
+<area shape="rect" id="node4" href="$trace_8c.html#a776cb111dc073b6351b3446023734132" title="ns2usecs" alt="" coords="234,122,313,149"/>
+</map>

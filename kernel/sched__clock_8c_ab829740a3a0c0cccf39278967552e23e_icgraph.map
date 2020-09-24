@@ -1,0 +1,8 @@
+<map id="cyc_to_ns" name="cyc_to_ns">
+<area shape="rect" id="node2" href="$sched__clock_8c.html#a0f88f32ad543aee029b2d840db18e05b" title="sched_clock" alt="" coords="159,19,254,45"/>
+<area shape="rect" id="node3" href="$sched__clock_8c.html#a47365d39e6b04421af6e9989372b84df" title="update_sched_clock" alt="" coords="136,69,277,96"/>
+<area shape="rect" id="node7" href="$sched__clock_8c.html#a302268716880007a66faa1ea6f4da89f" title="sched_clock_register" alt="" coords="328,157,473,184"/>
+<area shape="rect" id="node4" href="$sched__clock_8c.html#acb3e934c10d104c7aad026ebd019a481" title="sched_clock_poll" alt="" coords="339,5,462,32"/>
+<area shape="rect" id="node5" href="$sched__clock_8c.html#a62194b89e6843ccab0b09f40a970db1e" title="sched_clock_postinit" alt="" coords="524,56,668,83"/>
+<area shape="rect" id="node6" href="$sched__clock_8c.html#afd958a913a068a50f506221c7896ccd1" title="sched_clock_suspend" alt="" coords="325,107,476,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cgroup_type_show" name="cgroup_type_show">
+<area shape="rect" id="node2" href="$cgroup_2cgroup_8c.html#a1e6ea252c2f8c1cd0b4b1f8b81332782" title="cgroup_is_threaded" alt="" coords="592,5,727,32"/>
+<area shape="rect" id="node3" href="$cgroup_2cgroup_8c.html#af63d262906fe1cbf84379beeb0a93e57" title="cgroup_is_valid_domain" alt="" coords="184,56,345,83"/>
+<area shape="rect" id="node5" href="$cgroup_2cgroup_8c.html#ae0e1671226affce1dd01b5ed3acc3d47" title="cgroup_is_thread_root" alt="" coords="393,107,544,133"/>
+<area shape="rect" id="node4" href="$cgroup_2cgroup_8c.html#a6bd5b60e8a78a99fa8458786875b3136" title="cgroup_is_mixable" alt="" coords="403,56,534,83"/>
+<area shape="rect" id="node6" href="$cgroup_2cgroup_8c.html#ad221c26abd87ca39a90f52dd5f10e47d" title="cgroup_has_tasks" alt="" coords="595,107,723,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="put_prev_task_stop" name="put_prev_task_stop">
+<area shape="rect" id="node2" href="$sched_8h.html#a3dd6fd120793d8fc2081feb8cb010032" title="rq_clock_task" alt="" coords="189,5,292,32"/>
+<area shape="rect" id="node3" href="$sched_8h.html#a7d7680fb57cf2114774e7cc52f4d3512" title="assert_clock_updated" alt="" coords="340,5,489,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="autogroup_create" name="autogroup_create">
+<area shape="rect" id="node2" href="$autogroup_8c.html#aa7d09b7e28e8c215a560953a8d8d18fe" title="sched_autogroup_create\l_attach" alt="" coords="176,5,340,47"/>
+<area shape="rect" id="node3" href="$sys_8c.html#a4a0a038df39475c0a03c8a5ed0aeced6" title="ksys_setsid" alt="" coords="388,13,480,39"/>
+<area shape="rect" id="node4" href="$sys_8c.html#a1dd185ebee70191591185d273c2aaffd" title="SYSCALL_DEFINE0" alt="" coords="528,13,675,39"/>
+</map>

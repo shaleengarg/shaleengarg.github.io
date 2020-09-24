@@ -1,0 +1,5 @@
+<map id="resume_irq" name="resume_irq">
+<area shape="rect" id="node2" href="$pm_8c.html#a13793123fd273a095fc25023d8a17997" title="resume_irqs" alt="" coords="140,31,233,57"/>
+<area shape="rect" id="node3" href="$pm_8c.html#ad59de8fc29c96a6a0b6b39d50aab670a" title="irq_pm_syscore_resume" alt="" coords="281,5,445,32"/>
+<area shape="rect" id="node4" href="$pm_8c.html#aad774818be1c7a3039e4f4ce7300ee4d" title="resume_device_irqs" alt="" coords="294,56,433,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="arch_uprobe_ignore" name="arch_uprobe_ignore">
+<area shape="rect" id="node2" href="$uprobes_8c.html#ac3d6a7a5aee31915d97b6c7351d311fa" title="handle_swbp" alt="" coords="188,5,287,32"/>
+<area shape="rect" id="node3" href="$uprobes_8c.html#a523b951ea2796041116eb2d521d37ba9" title="uprobe_notify_resume" alt="" coords="335,5,485,32"/>
+</map>

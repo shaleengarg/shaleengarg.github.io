@@ -1,0 +1,11 @@
+<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
+<area shape="rect" id="node2" href="$resource_8c.html#a82aadd909da79837ac295d84c7cf8528" title="page_is_ram" alt="" coords="239,5,335,32"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a265f40a2df3d503f5d72a009503ec6f5" title="region_intersects" alt="" coords="226,56,347,83"/>
+<area shape="rect" id="node7" href="$resource_8c.html#a21d87c4571c0578e5235670206bcc803" title="insert_resource" alt="" coords="231,107,342,133"/>
+<area shape="rect" id="node10" href="$resource_8c.html#a55ffcd82771b026f61989026adbc9f23" title="remove_resource" alt="" coords="225,157,348,184"/>
+<area shape="rect" id="node4" href="$memremap_8c.html#a850fdc63b7722264a5a2bcba44c44115" title="memremap" alt="" coords="428,5,515,32"/>
+<area shape="rect" id="node6" href="$memremap_8c.html#a78f1a850302e4394b1721d629e6468f6" title="devm_memunmap" alt="" coords="407,56,536,83"/>
+<area shape="rect" id="node5" href="$memremap_8c.html#a8f100cdb0ccd585fadb3761555964c62" title="devm_memremap" alt="" coords="607,5,734,32"/>
+<area shape="rect" id="node8" href="$kexec__core_8c.html#a77954130bbdafdccf8ab729cab65a63e" title="crash_shrink_memory" alt="" coords="396,107,547,133"/>
+<area shape="rect" id="node9" href="$ksysfs_8c.html#ace4827a381822502ab59d8ed744f9dc5" title="uevent_seqnum_show" alt="" coords="595,107,747,133"/>
+</map>

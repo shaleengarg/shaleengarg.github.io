@@ -1,0 +1,6 @@
+<map id="onmax_save" name="onmax_save">
+<area shape="rect" id="node2" href="$tracing__map_8c.html#acf6f301e23cea5ca5481ed5267b4bced" title="tracing_map_read_var" alt="" coords="149,5,300,32"/>
+<area shape="rect" id="node3" href="$tracing__map_8c.html#a8c0c9efa41d688d3a17e8673b72a3a9d" title="tracing_map_set_var" alt="" coords="535,81,677,108"/>
+<area shape="rect" id="node4" href="$trace__events__hist_8c.html#af474a2f79ea0c15b90ed2a45df7d9d4b" title="update_max_vars" alt="" coords="162,107,287,133"/>
+<area shape="rect" id="node5" href="$trace__events__hist_8c.html#a3abcb2e8aab06809d5d39f33ad24e465" title="__update_field_vars" alt="" coords="348,107,487,133"/>
+</map>

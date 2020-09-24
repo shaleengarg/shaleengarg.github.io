@@ -1,0 +1,7 @@
+<map id="walk_system_ram_res" name="walk_system_ram_res">
+<area shape="rect" id="node2" href="$kexec__file_8c.html#a998813afb69fc631ba5f49c9c0aa1882" title="arch_kexec_walk_mem" alt="" coords="207,13,365,39"/>
+<area shape="rect" id="node3" href="$kexec__file_8c.html#ab3f8594b14d3d4cac22df76027c5b30a" title="kexec_locate_mem_hole" alt="" coords="413,13,580,39"/>
+<area shape="rect" id="node4" href="$kexec__file_8c.html#a6bb3c971f7ff0ea3f2b660ac26753ab6" title="kexec_add_buffer" alt="" coords="628,13,753,39"/>
+<area shape="rect" id="node5" href="$kexec__file_8c.html#a6d620e41ca9f482c68524286d6c16127" title="kexec_calculate_store\l_digests" alt="" coords="801,5,953,47"/>
+<area shape="rect" id="node6" href="$kexec__file_8c.html#a8da4c3b5a14613dd353329117f0867c4" title="SYSCALL_DEFINE5" alt="" coords="1001,13,1148,39"/>
+</map>

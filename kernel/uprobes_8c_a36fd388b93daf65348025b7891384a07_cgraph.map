@@ -1,0 +1,7 @@
+<map id="init_uprobes" name="init_uprobes">
+<area shape="rect" id="node2" href="$notifier_8c.html#aea89b92926cc0bf08d3302c46a28e1c0" title="register_die_notifier" alt="" coords="145,42,280,69"/>
+<area shape="rect" id="node6" href="$uprobes_8c.html#ad3b80d82bdab0d94d29546a6f870bf33" title="__initcall" alt="" coords="176,93,249,119"/>
+<area shape="rect" id="node3" href="$notifier_8c.html#ab4ef8f6827742ea1be5985b3290c9a7b" title="atomic_notifier_chain\l_register" alt="" coords="328,5,473,47"/>
+<area shape="rect" id="node5" href="$notifier_8c.html#a12fd5e1886d75a2b63004f78db868ce4" title="EXPORT_SYMBOL_GPL" alt="" coords="521,67,693,94"/>
+<area shape="rect" id="node4" href="$notifier_8c.html#aaa16ec631b1f8497fc650c05b4ef92e8" title="notifier_chain_register" alt="" coords="533,13,682,39"/>
+</map>

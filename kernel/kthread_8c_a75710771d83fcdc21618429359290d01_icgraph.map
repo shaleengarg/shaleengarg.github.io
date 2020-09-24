@@ -1,0 +1,23 @@
+<map id="kthread_parkme" name="kthread_parkme">
+<area shape="rect" id="node2" href="$smpboot_8c.html#a54349fff7a1cb89220453509752d5e33" title="smpboot_thread_fn" alt="" coords="168,258,301,285"/>
+<area shape="rect" id="node3" href="$smpboot_8c.html#a59d527adff24373bc09242b9daebf243" title="__smpboot_create_thread" alt="" coords="349,258,521,285"/>
+<area shape="rect" id="node4" href="$smpboot_8h.html#a61ef9a180c3a1d33359590a182ffe5e6" title="smpboot_create_threads" alt="" coords="571,229,736,255"/>
+<area shape="rect" id="node17" href="$smpboot_8c.html#a840377aaed949c6fcbd84d46e60f5468" title="smpboot_register_percpu\l_thread_cpumask" alt="" coords="569,280,737,321"/>
+<area shape="rect" id="node5" href="$cpu_8c.html#aff470ba1693fa467d629dfee6debfbdb" title="cpuhp_invoke_callback" alt="" coords="787,167,944,194"/>
+<area shape="rect" id="node15" href="$smpboot_8h.html#a46f33b1b79166edf0576fd01f06e3c29" title="idle_threads_init" alt="" coords="807,229,923,255"/>
+<area shape="rect" id="node6" href="$cpu_8c.html#aec30be1efa17679b56bb0b0f688d7a00" title="cpuhp_issue_call" alt="" coords="1025,134,1147,161"/>
+<area shape="rect" id="node7" href="$cpu_8c.html#a863f7f1d6e44c52462c61c2ae7257655" title="cpuhp_rollback_install" alt="" coords="1230,54,1381,81"/>
+<area shape="rect" id="node8" href="$cpu_8c.html#ac728bc8938b0ab27dc7706f0766cfa01" title="__cpuhp_state_add_instance\l_cpuslocked" alt="" coords="1432,5,1623,47"/>
+<area shape="rect" id="node10" href="$cpu_8c.html#a47cdf75177b8832373757e441f0c060d" title="__cpuhp_setup_state\l_cpuslocked" alt="" coords="1454,88,1601,129"/>
+<area shape="rect" id="node12" href="$cpu_8c.html#ad46e9fe989763abd9f2213d3e3b836c4" title="__cpuhp_state_remove\l_instance" alt="" coords="1227,156,1384,197"/>
+<area shape="rect" id="node13" href="$cpu_8c.html#adf79c64e1f2c85c91ac95af9907304ad" title="__cpuhp_remove_state\l_cpuslocked" alt="" coords="1227,221,1384,263"/>
+<area shape="rect" id="node9" href="$cpu_8c.html#a38a7212d8a166644ff55e7908dd9e4dc" title="__cpuhp_state_add_instance" alt="" coords="1671,13,1861,39"/>
+<area shape="rect" id="node11" href="$cpu_8c.html#a0128e42d2993bf45b0b8f0876d1c9913" title="__cpuhp_setup_state" alt="" coords="1693,95,1839,122"/>
+<area shape="rect" id="node14" href="$cpu_8c.html#a6f379713b196b462de5d44254eca2828" title="__cpuhp_remove_state" alt="" coords="1449,229,1606,255"/>
+<area shape="rect" id="node16" href="$smp_8c.html#a515f04e3b7d903f5d164de62727e2529" title="smp_init" alt="" coords="1051,229,1121,255"/>
+<area shape="rect" id="node18" href="$watchdog_8c.html#a650371cd2c58385d9fe1a2a807f8007b" title="lockup_detector_update\l_enable" alt="" coords="785,301,945,343"/>
+<area shape="rect" id="node19" href="$watchdog_8c.html#a476f5b8a8c40024c55da33b06d6df460" title="lockup_detector_reconfigure" alt="" coords="993,335,1179,362"/>
+<area shape="rect" id="node20" href="$watchdog_8c.html#aeaa55bf82b4a14cb00aa53d52696011f" title="lockup_detector_setup" alt="" coords="1229,287,1382,314"/>
+<area shape="rect" id="node22" href="$watchdog_8c.html#a877b175a1729e78764622286fa85893b" title="lockup_detector_soft\l_poweroff" alt="" coords="1234,339,1377,380"/>
+<area shape="rect" id="node21" href="$watchdog_8c.html#a404c5e64a15d81698a9295358a1a8b16" title="lockup_detector_init" alt="" coords="1458,287,1597,314"/>
+</map>
