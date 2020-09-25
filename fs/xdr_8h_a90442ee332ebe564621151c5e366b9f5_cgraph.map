@@ -1,6 +1,0 @@
-<map id="nfssvc_decode_symlinkargs" name="nfssvc_decode_symlinkargs">
-<area shape="rect" id="node2" href="$nfsxdr_8c.html#aa7326ad5b808fd20a23d2303466c225f" title="decode_fh" alt="" coords="259,5,341,32"/>
-<area shape="rect" id="node4" href="$nfsxdr_8c.html#a93e7a855a19dda194ea5fdae60914230" title="decode_filename" alt="" coords="240,56,360,83"/>
-<area shape="rect" id="node5" href="$nfsxdr_8c.html#adb37852564146a05213aac109906f14d" title="decode_sattr" alt="" coords="251,107,349,133"/>
-<area shape="rect" id="node3" href="$nfsfh_8h.html#a134fd702cff1276401e72df821ecc90c" title="fh_init" alt="" coords="408,5,465,32"/>
-</map>

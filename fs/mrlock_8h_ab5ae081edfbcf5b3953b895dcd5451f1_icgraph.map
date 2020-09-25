@@ -1,6 +1,0 @@
-<map id="mrdemote" name="mrdemote">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#aac030650522390ea08d104d3510b51b2" title="xfs_ilock_demote" alt="" coords="133,31,257,57"/>
-<area shape="rect" id="node3" href="$xfs__file_8c.html#aabb3042d6c8185a1bf327265125aa80e" title="xfs_file_dio_aio_write" alt="" coords="305,5,452,32"/>
-<area shape="rect" id="node5" href="$xfs__iomap_8c.html#aa4d046156b045026b28cd38b5544caf3" title="xfs_file_iomap_begin" alt="" coords="307,56,451,83"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="500,5,624,32"/>
-</map>

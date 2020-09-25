@@ -1,8 +1,0 @@
-<map id="done_already" name="done_already">
-<area shape="rect" id="node2" href="$ubifs_8h.html#a2e2a784a2060ee8ca565097ed7ae2bcf" title="ubifs_consolidate_log" alt="" coords="152,31,299,57"/>
-<area shape="rect" id="node3" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="363,5,456,32"/>
-<area shape="rect" id="node6" href="$ubifs_2super_8c.html#a294d4bb3f82a15e7bed2e2ae0c7f472d" title="ubifs_remount_rw" alt="" coords="347,56,472,83"/>
-<area shape="rect" id="node4" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="527,5,636,32"/>
-<area shape="rect" id="node5" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="691,5,784,32"/>
-<area shape="rect" id="node7" href="$ubifs_2super_8c.html#a819db79224fd15f0eb125fe0a3c6123e" title="ubifs_remount_fs" alt="" coords="520,56,643,83"/>
-</map>

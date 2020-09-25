@@ -1,5 +1,0 @@
-<map id="gather_extent_pages" name="gather_extent_pages">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#aa329643ed1fb1df3e7c9975628d539cd" title="btrfs_cmp_data_prepare" alt="" coords="196,5,359,32"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a90a4ec3c6fab6579d14ee124d5f96bc4" title="btrfs_extent_same" alt="" coords="407,5,537,32"/>
-<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#add50be5cc311c8fe05253a9977680992" title="btrfs_dedupe_file_range" alt="" coords="585,5,745,32"/>
-</map>

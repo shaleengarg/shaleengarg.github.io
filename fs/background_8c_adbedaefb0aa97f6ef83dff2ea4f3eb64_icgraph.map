@@ -1,5 +1,0 @@
-<map id="jffs2_stop_garbage_collect_thread" name="jffs2_stop_garbage_collect_thread">
-<area shape="rect" id="node2" href="$jffs2_2super_8c.html#a163a9f089af47ef69d79ea6af33dab4d" title="jffs2_kill_sb" alt="" coords="210,5,301,32"/>
-<area shape="rect" id="node3" href="$os-linux_8h.html#ad62758f4d47c267be432a4a0358b0d98" title="jffs2_do_remount_fs" alt="" coords="185,56,325,83"/>
-<area shape="rect" id="node4" href="$jffs2_2super_8c.html#a13e79dc92ed9dec822169bc676724238" title="jffs2_remount_fs" alt="" coords="373,56,492,83"/>
-</map>

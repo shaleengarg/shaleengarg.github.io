@@ -1,9 +1,0 @@
-<map id="encode_saved_post_attr" name="encode_saved_post_attr">
-<area shape="rect" id="node2" href="$_2nfs3xdr_8c.html#a73e104c98ed6c6eb431a8e60c0a32cb1" title="encode_wcc_data" alt="" coords="217,132,344,159"/>
-<area shape="rect" id="node3" href="$xdr3_8h.html#a222f0516fdd9ab1d54e9482d00bd8f1f" title="nfs3svc_encode_wccstat" alt="" coords="399,5,570,32"/>
-<area shape="rect" id="node4" href="$xdr3_8h.html#a99386310a6b2b9b437748d039fac31a3" title="nfs3svc_encode_writeres" alt="" coords="399,56,570,83"/>
-<area shape="rect" id="node5" href="$xdr3_8h.html#a18bc246f6a2fe7462af2d952cecfc64e" title="nfs3svc_encode_createres" alt="" coords="395,107,574,133"/>
-<area shape="rect" id="node6" href="$xdr3_8h.html#ad110bdbf5c75d28692bdd1020cb4374f" title="nfs3svc_encode_renameres" alt="" coords="392,157,577,184"/>
-<area shape="rect" id="node7" href="$xdr3_8h.html#ad0d5ce545ae0b8d7d49498b50439d78b" title="nfs3svc_encode_linkres" alt="" coords="403,208,566,235"/>
-<area shape="rect" id="node8" href="$xdr3_8h.html#ac0ecfc9c29ab89c799dce615b105fcda" title="nfs3svc_encode_commitres" alt="" coords="392,259,577,285"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="btrfs_csum_bytes_to_leaves" name="btrfs_csum_bytes_to_leaves">
-<area shape="rect" id="node2" href="$ctree_8h.html#a47d7d806719dc0e4c147c17365a6d1e8" title="BTRFS_MAX_ITEM_SIZE" alt="" coords="197,5,376,32"/>
-<area shape="rect" id="node4" href="$ctree_8h.html#ac2c048c08d98039688c6e1d3c216e44e" title="btrfs_super_csum_size" alt="" coords="208,56,365,83"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#ab02e1c880ffc6919e7f0030537458bf6" title="BTRFS_LEAF_DATA_SIZE" alt="" coords="424,5,611,32"/>
-</map>

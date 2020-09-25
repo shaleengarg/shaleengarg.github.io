@@ -1,7 +1,0 @@
-<map id="ecryptfs_inode_newsize_ok" name="ecryptfs_inode_newsize_ok">
-<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a5240470a17155c25d11458eb2504a7ab" title="ecryptfs_inode_to_private" alt="" coords="237,5,407,32"/>
-<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#ad709eee5a6c6b811313d07f3c325a131" title="upper_size_to_lower_size" alt="" coords="236,56,408,83"/>
-<area shape="rect" id="node5" href="$attr_8c.html#a7827e769d8b5704301fc520df3edad83" title="inode_newsize_ok" alt="" coords="257,107,387,133"/>
-<area shape="rect" id="node4" href="$ecryptfs__kernel_8h.html#ab2813066482c96f346fbf23e1eba0d8f" title="ecryptfs_lower_header_size" alt="" coords="456,56,640,83"/>
-<area shape="rect" id="node6" href="$attr_8c.html#a95285eda06ebaecaa53b77857030ae2d" title="EXPORT_SYMBOL" alt="" coords="479,107,617,133"/>
-</map>

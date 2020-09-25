@@ -1,7 +1,0 @@
-<map id="udf_sb_info" name="udf_sb_info">
-<area shape="rect" id="node2" href="$structudf__part__map.html" title="udf_part_map" alt="" coords="203,95,305,121"/>
-<area shape="rect" id="node3" href="$structudf__sparing__data.html" title="udf_sparing_data" alt="" coords="5,5,127,32"/>
-<area shape="rect" id="node4" href="$structudf__bitmap.html" title="udf_bitmap" alt="" coords="151,5,237,32"/>
-<area shape="rect" id="node5" href="$structudf__meta__data.html" title="udf_meta_data" alt="" coords="261,5,369,32"/>
-<area shape="rect" id="node6" href="$structudf__virtual__data.html" title="udf_virtual_data" alt="" coords="394,5,509,32"/>
-</map>

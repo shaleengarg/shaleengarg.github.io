@@ -1,8 +1,0 @@
-<map id="xfs_iext_alloc_root" name="xfs_iext_alloc_root">
-<area shape="rect" id="node2" href="$kmem_8h.html#ab12c764ddc7657a5f96b6294b50ae091" title="kmem_zalloc" alt="" coords="184,56,283,83"/>
-<area shape="rect" id="node3" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="331,56,423,83"/>
-<area shape="rect" id="node4" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="471,56,613,83"/>
-<area shape="rect" id="node5" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="661,5,788,32"/>
-<area shape="rect" id="node7" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="673,56,776,83"/>
-<area shape="rect" id="node6" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="836,56,928,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="kernfs_evict_inode" name="kernfs_evict_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a5ef1de74cc382d6cd8afddc6e66a47a4" title="clear_inode" alt="" coords="184,5,272,32"/>
-<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#a0fa26a8121d6ead6516f80c975e91352" title="kernfs_put" alt="" coords="187,56,269,83"/>
-<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="337,5,475,32"/>
-<area shape="rect" id="node5" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="363,56,449,83"/>
-<area shape="rect" id="node6" href="$fat_2dir_8c.html#a59ee3c6473393c9dde28f7c59e81446b" title="EXPORT_SYMBOL_GPL" alt="" coords="320,107,492,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="read_name" name="read_name">
-<area shape="rect" id="node2" href="$hostfs__kern_8c.html#ae46b99854342882045793dd8b83409a9" title="hostfs_create" alt="" coords="167,5,269,32"/>
-<area shape="rect" id="node4" href="$hostfs__kern_8c.html#aa613eade8e6b19a317e3b995094e3bf1" title="hostfs_lookup" alt="" coords="167,56,269,83"/>
-<area shape="rect" id="node5" href="$hostfs__kern_8c.html#abbee8d0dc849701d0454cab922b644b6" title="hostfs_mknod" alt="" coords="166,107,270,133"/>
-<area shape="rect" id="node6" href="$hostfs__kern_8c.html#a3053b12b6418cb26c83ac376fe4d5f59" title="hostfs_fill_sb_common" alt="" coords="140,157,296,184"/>
-<area shape="rect" id="node3" href="$hostfs__kern_8c.html#a6d21001dfbee5b0c82dbaeafc9df0c28" title="hostfs_setattr" alt="" coords="348,56,451,83"/>
-<area shape="rect" id="node7" href="$hostfs__kern_8c.html#add75143c4d6f1ecad34c7d7b1c374bc7" title="hostfs_read_sb" alt="" coords="344,157,455,184"/>
-</map>

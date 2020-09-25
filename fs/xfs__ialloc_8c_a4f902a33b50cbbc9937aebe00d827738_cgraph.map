@@ -1,6 +1,0 @@
-<map id="xfs_agi_verify" name="xfs_agi_verify">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="163,5,319,32"/>
-<area shape="rect" id="node3" href="$xfs__log_8c.html#a85ca9841babc402bd450760079ee6f7e" title="xfs_log_check_lsn" alt="" coords="176,56,307,83"/>
-<area shape="rect" id="node5" href="$xfs__format_8h.html#a47b5db4f9dcd7c970d192bd7973ec2af" title="xfs_sb_version_hasfinobt" alt="" coords="156,107,327,133"/>
-<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#a25c85404b03fddb0a8083ac4243d6b3d" title="xlog_valid_lsn" alt="" coords="375,56,479,83"/>
-</map>

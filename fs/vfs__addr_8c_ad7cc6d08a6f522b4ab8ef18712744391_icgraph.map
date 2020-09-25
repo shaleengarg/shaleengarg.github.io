@@ -1,5 +1,0 @@
-<map id="v9fs_fid_readpage" name="v9fs_fid_readpage">
-<area shape="rect" id="node2" href="$vfs__addr_8c.html#a1daf983107c9216654b0c4d37a6c67fc" title="v9fs_vfs_readpage" alt="" coords="181,5,313,32"/>
-<area shape="rect" id="node4" href="$vfs__addr_8c.html#a729c8b7e1352bd07b3a1666c7c699ce0" title="v9fs_write_begin" alt="" coords="187,56,307,83"/>
-<area shape="rect" id="node3" href="$vfs__addr_8c.html#aa415d8b654f54089e2785e3ac5cdca04" title="v9fs_vfs_readpages" alt="" coords="361,5,500,32"/>
-</map>

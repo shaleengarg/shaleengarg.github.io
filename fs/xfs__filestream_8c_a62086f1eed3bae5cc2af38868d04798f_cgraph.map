@@ -1,7 +1,0 @@
-<map id="xfs_filestream_unmount" name="xfs_filestream_unmount">
-<area shape="rect" id="node2" href="$xfs__mru__cache_8c.html#afb6e5c0bfff2fd99210477d6c290ed3a" title="xfs_mru_cache_destroy" alt="" coords="215,60,376,87"/>
-<area shape="rect" id="node3" href="$xfs__mru__cache_8c.html#ade73691641673fa315e9674b34171333" title="xfs_mru_cache_flush" alt="" coords="424,35,571,61"/>
-<area shape="rect" id="node6" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="454,85,541,112"/>
-<area shape="rect" id="node4" href="$xfs__mru__cache_8c.html#a4c2efd4a9696c25d5764f4b205e64960" title="_xfs_mru_cache_migrate" alt="" coords="619,5,787,32"/>
-<area shape="rect" id="node5" href="$xfs__mru__cache_8c.html#a08f0daac7ced8f2b4b12c6ceb4762019" title="_xfs_mru_cache_clear\l_reap_list" alt="" coords="626,57,779,98"/>
-</map>

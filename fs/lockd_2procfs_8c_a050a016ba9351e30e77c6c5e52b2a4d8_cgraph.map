@@ -1,7 +1,0 @@
-<map id="nlm_end_grace_write" name="nlm_end_grace_write">
-<area shape="rect" id="node2" href="$libfs_8c.html#a422b895d5f8e15ba0bf2cd017894ce4e" title="simple_transaction_get" alt="" coords="199,56,355,83"/>
-<area shape="rect" id="node5" href="$grace_8c.html#aa4b26777a7cd4643bae5d10fcce4d9ae" title="locks_end_grace" alt="" coords="217,107,337,133"/>
-<area shape="rect" id="node3" href="$libfs_8c.html#a36b6f1685e85f5fa11c688cd463a8443" title="DEFINE_SPINLOCK" alt="" coords="415,5,562,32"/>
-<area shape="rect" id="node4" href="$libfs_8c.html#a91c91ea39de851f32fce31e8967ceda2" title="EXPORT_SYMBOL" alt="" coords="419,56,558,83"/>
-<area shape="rect" id="node6" href="$grace_8c.html#a7a85d636026fb6e907fffc78d5637024" title="EXPORT_SYMBOL_GPL" alt="" coords="403,107,575,133"/>
-</map>

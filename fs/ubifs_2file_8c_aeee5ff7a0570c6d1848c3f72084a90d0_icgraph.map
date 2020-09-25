@@ -1,7 +1,0 @@
-<map id="read_block" name="read_block">
-<area shape="rect" id="node2" href="$ubifs_2file_8c.html#aa7ade83a38277e48331dd486a2220328" title="do_readpage" alt="" coords="139,81,235,108"/>
-<area shape="rect" id="node3" href="$ubifs_2file_8c.html#a2e1595770dcbefe7a93c601d25af2ae8" title="write_begin_slow" alt="" coords="283,5,405,32"/>
-<area shape="rect" id="node4" href="$ubifs_2file_8c.html#a63bbd02975453f3f42af79e561948912" title="ubifs_write_begin" alt="" coords="453,31,576,57"/>
-<area shape="rect" id="node5" href="$ubifs_2file_8c.html#ad4a3e116a3a56c3a7ffded1d91b0c564" title="ubifs_write_end" alt="" coords="287,107,401,133"/>
-<area shape="rect" id="node6" href="$ubifs_2file_8c.html#a86938bc9dd8e47804a84e7065efa58ae" title="ubifs_readpage" alt="" coords="289,157,399,184"/>
-</map>

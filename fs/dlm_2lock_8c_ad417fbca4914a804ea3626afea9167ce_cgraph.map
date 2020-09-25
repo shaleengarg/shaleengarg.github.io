@@ -1,6 +1,0 @@
-<map id="add_to_waiters" name="add_to_waiters">
-<area shape="rect" id="node2" href="$dlm_2lock_8c.html#ae0acd94636df45ccca31b553ba3bfdd7" title="is_overlap_unlock" alt="" coords="164,5,291,32"/>
-<area shape="rect" id="node3" href="$dlm_2lock_8c.html#a02be5f2b4d888e55580cbb2a5cbb7d77" title="is_overlap_cancel" alt="" coords="164,56,291,83"/>
-<area shape="rect" id="node4" href="$dlm_2lock_8c.html#ab1201e3da1dbc4291cd4fd4a88547ca2" title="hold_lkb" alt="" coords="192,107,263,133"/>
-<area shape="rect" id="node5" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="178,157,277,184"/>
-</map>

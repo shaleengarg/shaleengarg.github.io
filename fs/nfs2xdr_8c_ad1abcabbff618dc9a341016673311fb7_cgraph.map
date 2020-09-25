@@ -1,8 +1,0 @@
-<map id="decode_fattr" name="decode_fattr">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#abc29c16ad27e1f5d9975c3aeb20f8d9f" title="xdr_decode_ftype" alt="" coords="182,5,307,32"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a23251121893863f39b099cd65a8afd1c" title="xdr_decode_time" alt="" coords="184,56,305,83"/>
-<area shape="rect" id="node4" href="$nfs_2internal_8h.html#a00efa7565e17a5ddf636c024d52d98e3" title="nfs_timespec_to_change_attr" alt="" coords="148,107,341,133"/>
-<area shape="rect" id="node7" href="$nfs2xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="177,157,312,184"/>
-<area shape="rect" id="node5" href="$nfs_2internal_8h.html#afbd4fd368ad6ac178078f4269d75bb7b" title="nfs_fhandle_hash" alt="" coords="389,81,513,108"/>
-<area shape="rect" id="node6" href="$nfs_2internal_8h.html#a95033472927b041003da0407b35fda2b" title="nfs_stateid_hash" alt="" coords="391,132,512,159"/>
-</map>

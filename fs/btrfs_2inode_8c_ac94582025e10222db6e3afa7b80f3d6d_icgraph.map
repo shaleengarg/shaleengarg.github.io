@@ -1,5 +1,0 @@
-<map id="init_once" name="init_once">
-<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a77660e198bc9dd802a10fa027bdfc4a1" title="btrfs_init_cachep" alt="" coords="128,5,249,32"/>
-<area shape="rect" id="node3" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="297,5,388,32"/>
-<area shape="rect" id="node4" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="436,5,531,32"/>
-</map>

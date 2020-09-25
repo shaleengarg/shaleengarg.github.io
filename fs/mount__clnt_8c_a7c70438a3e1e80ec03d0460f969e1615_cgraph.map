@@ -1,7 +1,0 @@
-<map id="mnt_xdr_dec_mountres3" name="mnt_xdr_dec_mountres3">
-<area shape="rect" id="node2" href="$mount__clnt_8c.html#a0ead15668c1dedf4da9bc5c937de176e" title="decode_fhs_status" alt="" coords="224,5,356,32"/>
-<area shape="rect" id="node3" href="$mount__clnt_8c.html#ae0894f27401733bf244b9d5f7610def9" title="decode_fhandle3" alt="" coords="230,56,350,83"/>
-<area shape="rect" id="node4" href="$mount__clnt_8c.html#a82b8407ce4492018ba1bf5d0ac6aa23f" title="decode_auth_flavors" alt="" coords="219,107,361,133"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="409,107,464,133"/>
-<area shape="rect" id="node6" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="512,107,631,133"/>
-</map>

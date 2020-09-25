@@ -1,6 +1,0 @@
-<map id="nilfs_btree_broken_node_block" name="nilfs_btree_broken_node_block">
-<area shape="rect" id="node2" href="$nilfs2_2btree_8c.html#a727f4544a953b2192576f877249bba18" title="nilfs_btree_node_broken" alt="" coords="181,78,344,105"/>
-<area shape="rect" id="node3" href="$nilfs2_2btree_8c.html#a427bb91c91c14dc89a2bfdcbadace0c9" title="nilfs_btree_node_get\l_level" alt="" coords="392,5,535,47"/>
-<area shape="rect" id="node4" href="$nilfs2_2btree_8c.html#acd55e7ca4162de408cc1094902494abd" title="nilfs_btree_node_get\l_flags" alt="" coords="392,71,535,112"/>
-<area shape="rect" id="node5" href="$nilfs2_2btree_8c.html#a55d2c414d2839e3ab8aa38e93df992e8" title="nilfs_btree_node_get\l_nchildren" alt="" coords="392,136,535,177"/>
-</map>

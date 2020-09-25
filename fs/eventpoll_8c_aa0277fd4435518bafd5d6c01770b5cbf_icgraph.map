@@ -1,6 +1,0 @@
-<map id="ep_send_events" name="ep_send_events">
-<area shape="rect" id="node2" href="$eventpoll_8c.html#a4510fe0bf97bdff1bfd159343e717a8e" title="ep_poll" alt="" coords="171,31,233,57"/>
-<area shape="rect" id="node3" href="$eventpoll_8c.html#aca757c394ca590be453af8acb7027129" title="do_epoll_wait" alt="" coords="281,31,383,57"/>
-<area shape="rect" id="node4" href="$eventpoll_8c.html#a425ebf9467901eac03e1b535c495d01f" title="SYSCALL_DEFINE4" alt="" coords="431,5,577,32"/>
-<area shape="rect" id="node5" href="$eventpoll_8c.html#a05c33c33ace99840db1ae39d44366763" title="SYSCALL_DEFINE6" alt="" coords="431,56,577,83"/>
-</map>

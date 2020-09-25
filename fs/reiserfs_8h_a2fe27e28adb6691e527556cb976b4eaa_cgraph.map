@@ -1,6 +1,0 @@
-<map id="check_leaf" name="check_leaf">
-<area shape="rect" id="node2" href="$prints_8c.html#a156ba655684949a64db61838bf110317" title="check_leaf_block_head" alt="" coords="139,5,297,32"/>
-<area shape="rect" id="node3" href="$reiserfs_8h.html#af605ee607cdcf8f8bc2e661160f1d5d5" title="item_head" alt="" coords="177,56,259,83"/>
-<area shape="rect" id="node5" href="$reiserfs_8h.html#a8f5f18c01d13554cd8e3589f3cf48ffe" title="ih_item_body" alt="" coords="169,107,267,133"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="345,56,477,83"/>
-</map>

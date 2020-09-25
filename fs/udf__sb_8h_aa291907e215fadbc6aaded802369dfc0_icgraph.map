@@ -1,8 +1,0 @@
-<map id="UDF_SET_FLAG" name="UDF_SET_FLAG">
-<area shape="rect" id="node2" href="$udf_2super_8c.html#af3655884903e8ceaa314689e15146ba7" title="udf_find_anchor" alt="" coords="177,5,292,32"/>
-<area shape="rect" id="node4" href="$udf_2super_8c.html#ab2eee2fa60f5a477777b160305ebec19" title="udf_fill_super" alt="" coords="500,56,599,83"/>
-<area shape="rect" id="node6" href="$udf_2super_8c.html#a924c916becc67d1e8a8171260aa2e13d" title="udf_open_lvid" alt="" coords="183,107,286,133"/>
-<area shape="rect" id="node3" href="$udf_2super_8c.html#a774764a3f65e89cf2791f622bbb7a829" title="udf_load_vrs" alt="" coords="348,5,444,32"/>
-<area shape="rect" id="node5" href="$udf_2super_8c.html#a0ec35e26e2479c52d479cc4c24ab98cb" title="udf_mount" alt="" coords="647,56,729,83"/>
-<area shape="rect" id="node7" href="$udf_2super_8c.html#a40fb6a0755f8e21488dc5da502487e3d" title="udf_remount_fs" alt="" coords="340,157,452,184"/>
-</map>

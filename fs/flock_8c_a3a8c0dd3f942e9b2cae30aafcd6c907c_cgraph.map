@@ -1,7 +1,0 @@
-<map id="afs_fl_release_private" name="afs_fl_release_private">
-<area shape="rect" id="node2" href="$afs_2internal_8h.html#a4319ab62063070e450460f28d1b250f3" title="AFS_FS_I" alt="" coords="225,5,307,32"/>
-<area shape="rect" id="node3" href="$flock_8c.html#a58ea08174e39b8f23bace222c109127f" title="afs_dequeue_lock" alt="" coords="203,56,329,83"/>
-<area shape="rect" id="node4" href="$flock_8c.html#adae55c6e5b2325d7b05f2b3e1750b40c" title="afs_defer_unlock" alt="" coords="377,5,499,32"/>
-<area shape="rect" id="node5" href="$flock_8c.html#ab359dd36e5f4cdc8c6136e99fd3e2d56" title="afs_lock_may_be_available" alt="" coords="547,31,729,57"/>
-<area shape="rect" id="node6" href="$afs_2internal_8h.html#a4ce1b395f96dba53d265d5d12e590670" title="afs_file_key" alt="" coords="392,107,484,133"/>
-</map>

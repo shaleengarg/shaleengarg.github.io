@@ -1,6 +1,0 @@
-<map id="ecryptfs_init_ecryptfs_miscdev" name="ecryptfs_init_ecryptfs_miscdev">
-<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ac96ef599ae7878dc4c2459b1f2f3de4b" title="ecryptfs_wait_for_response" alt="" coords="200,5,383,32"/>
-<area shape="rect" id="node3" href="$messaging_8c.html#a6babe1511f5e89350b70a7dd6adcbf90" title="ecryptfs_init_messaging" alt="" coords="210,56,373,83"/>
-<area shape="rect" id="node4" href="$ecryptfs_2main_8c.html#abe6d03208b49def9b19a36c8a79373b9" title="ecryptfs_init" alt="" coords="431,56,524,83"/>
-<area shape="rect" id="node5" href="$ecryptfs_2main_8c.html#aa32ace6b7c319adb175778c357041568" title="ecryptfs_exit" alt="" coords="572,56,669,83"/>
-</map>

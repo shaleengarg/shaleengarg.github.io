@@ -1,7 +1,0 @@
-<map id="jbd2_journal_destroy_caches" name="jbd2_journal_destroy_caches">
-<area shape="rect" id="node2" href="$revoke_8c.html#a976661ac77b3f9af011e2b0b9fd8243b" title="jbd2_journal_destroy\l_revoke_caches" alt="" coords="196,5,337,47"/>
-<area shape="rect" id="node3" href="$jbd2_2journal_8c.html#ab83d348e43699543185941ad5db8023a" title="jbd2_journal_destroy\l_journal_head_cache" alt="" coords="195,71,339,112"/>
-<area shape="rect" id="node4" href="$jbd2_2journal_8c.html#a902a80202eab28b3d2a8ed9d7070b0c1" title="jbd2_journal_destroy\l_handle_cache" alt="" coords="196,136,337,177"/>
-<area shape="rect" id="node5" href="$jbd2_2transaction_8c.html#a2568285c438e8763a6fdc8d2014b4b9e" title="jbd2_journal_destroy\l_transaction_cache" alt="" coords="196,201,337,243"/>
-<area shape="rect" id="node6" href="$jbd2_2journal_8c.html#aa1e6bb0b91484fc04f8b3bfce958e029" title="jbd2_journal_destroy\l_slabs" alt="" coords="196,267,337,308"/>
-</map>

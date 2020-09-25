@@ -1,5 +1,0 @@
-<map id="f_getowner_uids" name="f_getowner_uids">
-<area shape="rect" id="node2" href="$fcntl_8c.html#adfc31679d561c8b192171e6f232d2ecf" title="f_getown_ex" alt="" coords="171,5,267,32"/>
-<area shape="rect" id="node3" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="315,31,383,57"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="431,31,577,57"/>
-</map>

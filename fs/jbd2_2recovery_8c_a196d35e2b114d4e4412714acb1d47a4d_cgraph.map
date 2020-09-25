@@ -1,6 +1,0 @@
-<map id="scan_revoke_records" name="scan_revoke_records">
-<area shape="rect" id="node2" href="$jbd2_2recovery_8c.html#afe7912a48a646ddfe56a3d5aa76e59c2" title="jbd2_descriptor_block\l_csum_verify" alt="" coords="207,5,355,47"/>
-<area shape="rect" id="node3" href="$revoke_8c.html#a9d336b7b9eaef0ba8d01a2d0795a4834" title="jbd2_journal_set_revoke" alt="" coords="200,71,363,98"/>
-<area shape="rect" id="node4" href="$revoke_8c.html#a85c0c3936e96c67fe5bba2efb44c0d06" title="find_revoke_record" alt="" coords="412,46,544,73"/>
-<area shape="rect" id="node5" href="$revoke_8c.html#ad81ce96df781a51dcedc0690e50f4121" title="insert_revoke_hash" alt="" coords="411,97,545,123"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="v9fs_fscache_wait_on_page_write" name="v9fs_fscache_wait_on_page_write">
-<area shape="rect" id="node2" href="$vfs__addr_8c.html#a8db106675bc3f2a190f60ceaaf416632" title="v9fs_launder_page" alt="" coords="220,5,351,32"/>
-<area shape="rect" id="node3" href="$vfs__file_8c.html#a97a14fde2c621523d078b6d4d9003862" title="v9fs_vm_page_mkwrite" alt="" coords="205,56,365,83"/>
-<area shape="rect" id="node4" href="$vfs__file_8c.html#a9e91c285a32f504d0b9ea0005dc16a3a" title="v9fs_mmap_vm_close" alt="" coords="413,56,567,83"/>
-</map>

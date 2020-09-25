@@ -1,5 +1,0 @@
-<map id="xfs_btree_lblock_verify" name="xfs_btree_lblock_verify">
-<area shape="rect" id="node2" href="$xfs__bmap__btree_8c.html#abb38068e26bc7d3b3a002c458bdceb6b" title="xfs_bmbt_verify" alt="" coords="209,31,324,57"/>
-<area shape="rect" id="node3" href="$xfs__bmap__btree_8c.html#a6d01e917b1eb112b2b5f7e96afd104e6" title="xfs_bmbt_read_verify" alt="" coords="374,5,521,32"/>
-<area shape="rect" id="node4" href="$xfs__bmap__btree_8c.html#ab9c164af1f22d19e7938d8e0d8f64a3e" title="xfs_bmbt_write_verify" alt="" coords="372,56,523,83"/>
-</map>

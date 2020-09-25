@@ -1,6 +1,0 @@
-<map id="userfaultfd_remove" name="userfaultfd_remove">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#afa451645f44611361e184ba60df030a6" title="userfaultfd_ctx_get" alt="" coords="197,5,330,32"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a6b1e52a5671bafb8d6dbcef1daaafb55" title="msg_init" alt="" coords="228,56,299,83"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#ae2629cfa1bbf564863e3e01f04e0c113" title="userfaultfd_event_wait\l_completion" alt="" coords="187,107,340,149"/>
-<area shape="rect" id="node5" href="$userfaultfd_8c.html#a30f13752d891f5fe8104138678d94609" title="userfaultfd_ctx_put" alt="" coords="388,115,521,141"/>
-</map>

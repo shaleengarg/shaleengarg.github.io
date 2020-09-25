@@ -1,9 +1,0 @@
-<map id="inode_should_defrag" name="inode_should_defrag">
-<area shape="rect" id="node2" href="$ctree_8h.html#a51378d8d611b7587719b59383afe8b60" title="btrfs_add_inode_defrag" alt="" coords="195,81,352,108"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="667,81,737,108"/>
-<area shape="rect" id="node4" href="$btrfs_2file_8c.html#aaacf773939ee9eea0700581c68831663" title="__need_auto_defrag" alt="" coords="416,5,555,32"/>
-<area shape="rect" id="node6" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="449,107,521,133"/>
-<area shape="rect" id="node7" href="$btrfs_2file_8c.html#a4cf058033ad7da1a6f5da0f87e42fb96" title="__btrfs_add_inode_defrag" alt="" coords="400,157,571,184"/>
-<area shape="rect" id="node5" href="$ctree_8h.html#aa2d6e5d5fc86cf59a617fed422f43b5f" title="btrfs_fs_closing" alt="" coords="645,5,759,32"/>
-<area shape="rect" id="node8" href="$btrfs_2file_8c.html#a9e1e0c924255d66afd9758e879d5dacb" title="__compare_inode_defrag" alt="" coords="619,157,785,184"/>
-</map>

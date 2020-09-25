@@ -1,7 +1,0 @@
-<map id="ovl_check_namelen" name="ovl_check_namelen">
-<area shape="rect" id="node2" href="$overlayfs_2super_8c.html#afb5beca1d2bab4ad3b14393269bff1c3" title="ovl_lower_dir" alt="" coords="191,5,289,32"/>
-<area shape="rect" id="node6" href="$overlayfs_2super_8c.html#afe9d286a83f014fccd0b9a300ce4e577" title="ovl_get_upper" alt="" coords="353,56,456,83"/>
-<area shape="rect" id="node3" href="$overlayfs_2super_8c.html#a1707d7457d148229a2a93abbbabe5a8d" title="ovl_get_lowerstack" alt="" coords="337,5,472,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2super_8c.html#ad189fedacb7a346e19cbf4d7ba775ba9" title="ovl_fill_super" alt="" coords="520,31,619,57"/>
-<area shape="rect" id="node5" href="$overlayfs_2super_8c.html#a45212ef365fb5aead6ac0d4ce69ce1ca" title="ovl_mount" alt="" coords="667,31,749,57"/>
-</map>

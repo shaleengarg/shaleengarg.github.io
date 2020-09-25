@@ -1,6 +1,0 @@
-<map id="ext4_getfsmap_datadev_helper" name="ext4_getfsmap_datadev_helper">
-<area shape="rect" id="node2" href="$fsmap_8c.html#a440f95a237219f96a1da7eb65c1684f0" title="ext4_fsmap_next_pblk" alt="" coords="215,5,368,32"/>
-<area shape="rect" id="node3" href="$fsmap_8c.html#ac8929760bccbd420283b15e3d8b21ab0" title="ext4_getfsmap_helper" alt="" coords="216,56,367,83"/>
-<area shape="rect" id="node4" href="$fsmap_8c.html#ae283d3ffc9097c804d65f6410385b12a" title="ext4_getfsmap_rec_before\l_low_key" alt="" coords="416,15,592,57"/>
-<area shape="rect" id="node5" href="$ext4_2balloc_8c.html#a76c7f04d0e6fdcb93af845697cb3302d" title="ext4_get_group_no_and\l_offset" alt="" coords="424,81,584,122"/>
-</map>

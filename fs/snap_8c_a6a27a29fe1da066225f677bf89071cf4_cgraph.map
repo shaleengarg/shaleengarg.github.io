@@ -1,5 +1,0 @@
-<map id="ceph_cleanup_empty_realms" name="ceph_cleanup_empty_realms">
-<area shape="rect" id="node2" href="$snap_8c.html#a71852d25664812108988ffd68d3c05a7" title="__cleanup_empty_realms" alt="" coords="199,13,369,39"/>
-<area shape="rect" id="node3" href="$snap_8c.html#ace64bb84634490493f6e0f0f4e88ad28" title="__destroy_snap_realm" alt="" coords="417,13,571,39"/>
-<area shape="rect" id="node4" href="$snap_8c.html#a4aa6fffea265bc4b4e8dcf02e2406267" title="__put_snap_realm" alt="" coords="619,13,747,39"/>
-</map>

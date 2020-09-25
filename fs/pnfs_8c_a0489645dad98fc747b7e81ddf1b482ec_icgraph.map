@@ -1,6 +1,0 @@
-<map id="pnfs_generic_pg_check_range" name="pnfs_generic_pg_check_range">
-<area shape="rect" id="node2" href="$pnfs_8c.html#af2a2cc619c6e45fc78cab9ff1522b27b" title="pnfs_generic_pg_init_read" alt="" coords="212,5,385,32"/>
-<area shape="rect" id="node4" href="$pnfs_8c.html#aa60856b440088ee96843f074703428a8" title="pnfs_generic_pg_init\l_write" alt="" coords="228,57,369,98"/>
-<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#a63b0ac8bf2536b5561542d1abbb20d49" title="bl_pg_init_read" alt="" coords="435,5,544,32"/>
-<area shape="rect" id="node5" href="$blocklayout_2blocklayout_8c.html#a9650ca193c5cc1cd6e2d8bc25b065a2c" title="bl_pg_init_write" alt="" coords="433,64,545,91"/>
-</map>

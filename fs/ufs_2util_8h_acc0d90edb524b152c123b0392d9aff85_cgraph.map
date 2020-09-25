@@ -1,6 +1,0 @@
-<map id="ufs_data_ptr_to_cpu" name="ufs_data_ptr_to_cpu">
-<area shape="rect" id="node2" href="$ufs_8h.html#abeb63dc517629bd2f7833215c463946e" title="UFS_SB" alt="" coords="203,5,277,32"/>
-<area shape="rect" id="node3" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="193,56,287,83"/>
-<area shape="rect" id="node5" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="193,107,287,133"/>
-<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="335,81,417,108"/>
-</map>

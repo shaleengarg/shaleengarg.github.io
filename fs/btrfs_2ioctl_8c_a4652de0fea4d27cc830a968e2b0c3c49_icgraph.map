@@ -1,5 +1,0 @@
-<map id="btrfs_ioctl_qgroup_assign" name="btrfs_ioctl_qgroup_assign">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="179,13,257,39"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="305,13,480,39"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="528,13,625,39"/>
-</map>

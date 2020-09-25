@@ -1,7 +1,0 @@
-<map id="ufs_put_super_internal" name="ufs_put_super_internal">
-<area shape="rect" id="node2" href="$ufs_2super_8c.html#a12f4c447f20849fb8e5760a1a5fdbdb0" title="ufs_put_super" alt="" coords="207,5,311,32"/>
-<area shape="rect" id="node6" href="$ufs_2super_8c.html#a2edca56802a119a2e1eba6e74ac2a1ea" title="ufs_remount" alt="" coords="211,56,306,83"/>
-<area shape="rect" id="node3" href="$ufs_2super_8c.html#ac4d25609cd85ba4cc80e0aa74c6d0ffd" title="destroy_inodecache" alt="" coords="359,31,497,57"/>
-<area shape="rect" id="node4" href="$ufs_2super_8c.html#ae44b3672a356a0edd270c6fcd066825b" title="init_ufs_fs" alt="" coords="545,5,628,32"/>
-<area shape="rect" id="node5" href="$ufs_2super_8c.html#ab9cd8947ea8a34a3334a89b2064be931" title="exit_ufs_fs" alt="" coords="676,31,763,57"/>
-</map>

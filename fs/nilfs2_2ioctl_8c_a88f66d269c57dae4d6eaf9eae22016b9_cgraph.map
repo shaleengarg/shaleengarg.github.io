@@ -1,5 +1,0 @@
-<map id="nilfs_ioctl_sync" name="nilfs_ioctl_sync">
-<area shape="rect" id="node2" href="$nilfs2_2segment_8c.html#ad8bab60b16b37c93e180e1ea3e1580ad" title="nilfs_construct_segment" alt="" coords="165,5,329,32"/>
-<area shape="rect" id="node4" href="$the__nilfs_8h.html#a8f2cf136125bb291f917d2741a2ecdec" title="nilfs_flush_device" alt="" coords="184,56,311,83"/>
-<area shape="rect" id="node3" href="$nilfs2_2segment_8c.html#aece5ba8b7c1a8df29083370bfb0f3aad" title="nilfs_segctor_sync" alt="" coords="377,5,508,32"/>
-</map>

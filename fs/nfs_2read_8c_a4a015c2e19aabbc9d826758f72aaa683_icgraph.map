@@ -1,7 +1,0 @@
-<map id="nfs_readpage_async" name="nfs_readpage_async">
-<area shape="rect" id="node2" href="$nfs_2fscache_8c.html#a75c93d92c97437ae5579a7d7c93be260" title="nfs_readpage_from_fscache\l_complete" alt="" coords="196,71,383,112"/>
-<area shape="rect" id="node5" href="$nfs_2read_8c.html#a7b99eb85ad7c6053191a6214bc7d53f7" title="nfs_readpage" alt="" coords="239,137,339,163"/>
-<area shape="rect" id="node3" href="$nfs_2fscache_8c.html#a2fd8f35ccab611f1ecadd4d6a9ae4328" title="__nfs_readpage_from\l_fscache" alt="" coords="435,5,581,47"/>
-<area shape="rect" id="node4" href="$nfs_2fscache_8c.html#aefb07adf47c0f33120a5ea17ad1546d0" title="__nfs_readpages_from\l_fscache" alt="" coords="431,71,585,112"/>
-<area shape="rect" id="node6" href="$nfs_2file_8c.html#a1a39181efdbf2b830c8e5629a6fbe88b" title="nfs_write_begin" alt="" coords="451,137,565,163"/>
-</map>

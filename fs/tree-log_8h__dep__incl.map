@@ -1,9 +1,0 @@
-<map id="btrfs/tree&#45;log.h" name="btrfs/tree&#45;log.h">
-<area shape="rect" id="node2" href="$disk-io_8c.html" title="btrfs/disk&#45;io.c" alt="" coords="5,80,107,107"/>
-<area shape="rect" id="node3" href="$extent-tree_8c.html" title="btrfs/extent&#45;tree.c" alt="" coords="131,80,256,107"/>
-<area shape="rect" id="node4" href="$btrfs_2file_8c.html" title="btrfs/file.c" alt="" coords="280,80,360,107"/>
-<area shape="rect" id="node5" href="$btrfs_2inode_8c.html" title="btrfs/inode.c" alt="" coords="385,80,479,107"/>
-<area shape="rect" id="node6" href="$btrfs_2ioctl_8c.html" title="btrfs/ioctl.c" alt="" coords="503,80,590,107"/>
-<area shape="rect" id="node7" href="$btrfs_2transaction_8c.html" title="btrfs/transaction.c" alt="" coords="614,80,741,107"/>
-<area shape="rect" id="node8" href="$tree-log_8c.html" title="btrfs/tree&#45;log.c" alt="" coords="765,80,872,107"/>
-</map>

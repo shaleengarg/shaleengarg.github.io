@@ -1,7 +1,0 @@
-<map id="xfs_inode_item_format_core" name="xfs_inode_item_format_core">
-<area shape="rect" id="node2" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="255,5,390,32"/>
-<area shape="rect" id="node3" href="$xfs__inode__item_8c.html#adcaf4221a8f43b30293613f61a0faab0" title="xfs_inode_to_log_dinode" alt="" coords="240,56,405,83"/>
-<area shape="rect" id="node5" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="261,107,384,133"/>
-<area shape="rect" id="node6" href="$xfs__log__format_8h.html#acfff04d08755b4571cd5a9447ca44518" title="xfs_log_dinode_size" alt="" coords="253,157,393,184"/>
-<area shape="rect" id="node4" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="453,56,512,83"/>
-</map>

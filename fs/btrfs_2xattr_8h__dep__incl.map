@@ -1,7 +1,0 @@
-<map id="btrfs/xattr.h" name="btrfs/xattr.h">
-<area shape="rect" id="node2" href="$btrfs_2acl_8c.html" title="btrfs/acl.c" alt="" coords="5,80,85,107"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html" title="btrfs/inode.c" alt="" coords="110,80,205,107"/>
-<area shape="rect" id="node4" href="$props_8c.html" title="btrfs/props.c" alt="" coords="229,80,323,107"/>
-<area shape="rect" id="node5" href="$btrfs_2super_8c.html" title="btrfs/super.c" alt="" coords="347,80,442,107"/>
-<area shape="rect" id="node6" href="$btrfs_2xattr_8c.html" title="btrfs/xattr.c" alt="" coords="466,80,555,107"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ocfs2_buffer_cached" name="ocfs2_buffer_cached">
-<area shape="rect" id="node2" href="$uptodate_8c.html#a3ec979ed6db1dd9207c685d695c1c696" title="ocfs2_metadata_cache_lock" alt="" coords="196,5,384,32"/>
-<area shape="rect" id="node3" href="$uptodate_8c.html#a57a5820f1e935d5d08cdd118b756c94a" title="ocfs2_metadata_cache\l_owner" alt="" coords="211,57,369,98"/>
-<area shape="rect" id="node4" href="$uptodate_8c.html#a0c24dbd61b48c2ee74bbc7817ccaadca" title="ocfs2_search_cache\l_array" alt="" coords="219,122,361,163"/>
-<area shape="rect" id="node5" href="$uptodate_8c.html#a1efe73b51106c3aa296faebd4ff6b6df" title="ocfs2_search_cache_tree" alt="" coords="205,188,375,215"/>
-<area shape="rect" id="node6" href="$uptodate_8c.html#aa305461d2b0b2eb002e2725fd3b86b18" title="ocfs2_metadata_cache\l_unlock" alt="" coords="211,239,369,281"/>
-</map>

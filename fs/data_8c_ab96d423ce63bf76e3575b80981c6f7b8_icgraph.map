@@ -1,6 +1,0 @@
-<map id="__write_data_page" name="__write_data_page">
-<area shape="rect" id="node2" href="$data_8c.html#a10d878ea565db5149125825fe0179308" title="f2fs_write_data_page" alt="" coords="192,5,339,32"/>
-<area shape="rect" id="node3" href="$data_8c.html#a60a8eae0999360afaf18590fe9dded3c" title="f2fs_write_cache_pages" alt="" coords="184,56,347,83"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a8b4c830b35dcab1e2ca481fa2b888599" title="__f2fs_write_data_pages" alt="" coords="395,56,561,83"/>
-<area shape="rect" id="node5" href="$data_8c.html#a4eaf33f19ea6c2c8c12b2c869354266f" title="f2fs_write_data_pages" alt="" coords="609,56,763,83"/>
-</map>

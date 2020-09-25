@@ -1,6 +1,0 @@
-<map id="nlm4_decode_lock" name="nlm4_decode_lock">
-<area shape="rect" id="node2" href="$xdr4_8c.html#a0172de2eca64992dc9c101c64487f34d" title="nlm4svc_decode_testargs" alt="" coords="192,5,367,32"/>
-<area shape="rect" id="node3" href="$xdr4_8c.html#a659cea775c10bae386ba4ff001553d95" title="nlm4svc_decode_lockargs" alt="" coords="191,56,367,83"/>
-<area shape="rect" id="node4" href="$xdr4_8c.html#a794d0a58d9e092ba235bc3a9ca8b2e5c" title="nlm4svc_decode_cancargs" alt="" coords="189,107,369,133"/>
-<area shape="rect" id="node5" href="$xdr4_8c.html#aed7af2f75b3a84efe5f9d2c4104a5387" title="nlm4svc_decode_unlockargs" alt="" coords="184,157,375,184"/>
-</map>

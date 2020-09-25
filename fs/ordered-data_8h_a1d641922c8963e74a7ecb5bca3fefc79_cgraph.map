@@ -1,6 +1,0 @@
-<map id="btrfs_free_logged_extents" name="btrfs_free_logged_extents">
-<area shape="rect" id="node2" href="$ordered-data_8c.html#a08fa2942c9d8616cd5327d7f99d883f3" title="btrfs_put_ordered_extent" alt="" coords="225,31,392,57"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#af9e99f5f2da448db8a3b1a812e8271ff" title="btrfs_add_delayed_iput" alt="" coords="440,31,596,57"/>
-<area shape="rect" id="node4" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="648,5,717,32"/>
-<area shape="rect" id="node5" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="644,56,721,83"/>
-</map>

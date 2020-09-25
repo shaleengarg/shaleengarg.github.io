@@ -1,6 +1,0 @@
-<map id="nilfs_set_log_cursor" name="nilfs_set_log_cursor">
-<area shape="rect" id="node2" href="$the__nilfs_8c.html#afbb3b8234eb658d4f2535b173d3553a0" title="nilfs_count_free_blocks" alt="" coords="192,5,351,32"/>
-<area shape="rect" id="node3" href="$mdt_8h.html#a643a628d0928b0f90712ea026df6cb59" title="NILFS_MDT" alt="" coords="768,5,864,32"/>
-<area shape="rect" id="node4" href="$sufile_8c.html#a50c0d7ff8c8bf821d281286007c39cd5" title="nilfs_sufile_get_ncleansegs" alt="" coords="399,31,581,57"/>
-<area shape="rect" id="node5" href="$sufile_8c.html#acbb532a1df92111d05a67092edbfd65b" title="NILFS_SUI" alt="" coords="629,31,720,57"/>
-</map>

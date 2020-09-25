@@ -1,4 +1,0 @@
-<map id="smb2_lock_req" name="smb2_lock_req">
-<area shape="rect" id="node2" href="$structsmb2__lock__element.html" title="smb2_lock_element" alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node3" href="$structsmb2__sync__hdr.html" title="smb2_sync_hdr" alt="" coords="168,5,283,32"/>
-</map>

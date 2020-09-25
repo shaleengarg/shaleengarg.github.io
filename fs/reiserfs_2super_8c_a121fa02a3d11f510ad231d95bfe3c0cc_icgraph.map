@@ -1,8 +1,0 @@
-<map id="switch_data_mode" name="switch_data_mode">
-<area shape="rect" id="node2" href="$reiserfs_2super_8c.html#a59fdd22f868760fcae7979e56490f346" title="handle_data_mode" alt="" coords="184,13,315,39"/>
-<area shape="rect" id="node3" href="$reiserfs_2super_8c.html#a43258fd374abc3f2844f5274f7081334" title="reiserfs_remount" alt="" coords="363,13,481,39"/>
-<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#ac978fb3dfb574e2a2d65ef33c5d4c836" title="is_any_reiserfs_magic\l_string" alt="" coords="529,5,681,47"/>
-<area shape="rect" id="node5" href="$reiserfs_2super_8c.html#a937e529fcad9e49d48f1acadb75dc17e" title="read_super_block" alt="" coords="729,13,853,39"/>
-<area shape="rect" id="node6" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="901,13,1025,39"/>
-<area shape="rect" id="node7" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="1073,13,1191,39"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="ff_layout_ntop4" name="ff_layout_ntop4">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#ab9bfb8e2fdd8c6d2d68e614360f36852" title="ff_layout_encode_netaddr" alt="" coords="164,42,335,69"/>
-<area shape="rect" id="node3" href="$flexfilelayout_2flexfilelayout_8c.html#a24d0c80e8bcf020401c596faea7bd30c" title="ff_layout_encode_ff\l_layoutupdate" alt="" coords="383,35,519,76"/>
-<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#aa5e731dca33ace8f6269b2bbe3ae4a03" title="ff_layout_encode_ff\l_iostat" alt="" coords="595,5,731,47"/>
-<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a8d16140fd0f94478bdfa9592b70f24be" title="ff_layout_encode_layoutstats" alt="" coords="567,71,759,98"/>
-<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#a7507d88e509e12edee7a64dbcaf2547b" title="ff_layout_encode_iostats\l_array" alt="" coords="807,5,973,47"/>
-<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#a1a5cf03be73b4892a9bcf40e65f1718b" title="ff_layout_encode_layoutreturn" alt="" coords="1021,13,1217,39"/>
-</map>

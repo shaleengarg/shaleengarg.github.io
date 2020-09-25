@@ -1,8 +1,0 @@
-<map id="vfs_clone_file_prep_inodes" name="vfs_clone_file_prep_inodes">
-<area shape="rect" id="node2" href="$inode_8c.html#a1c16bda802e88520b0ac13fef62c8b16" title="inode_dio_wait" alt="" coords="210,52,318,79"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#ad1047e23868beb2d7739f24f285db9c3" title="vfs_dedupe_file_range\l_compare" alt="" coords="188,103,340,145"/>
-<area shape="rect" id="node7" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="393,165,532,192"/>
-<area shape="rect" id="node3" href="$inode_8c.html#ae30987e28c31f85d4a90865b1a914d22" title="__inode_dio_wait" alt="" coords="401,5,524,32"/>
-<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="393,56,532,83"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#ab349127d1859f4ddd87e53368aec56a0" title="vfs_dedupe_get_page" alt="" coords="388,111,537,137"/>
-</map>

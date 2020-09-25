@@ -1,8 +1,0 @@
-<map id="configfs_release" name="configfs_release">
-<area shape="rect" id="node2" href="$configfs__internal_8h.html#aa65976d605432463738c7d7c9556664f" title="to_item" alt="" coords="195,5,261,32"/>
-<area shape="rect" id="node3" href="$configfs__internal_8h.html#a94334744f7750a8b13e74ac70b042c8b" title="to_attr" alt="" coords="199,56,257,83"/>
-<area shape="rect" id="node4" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="171,107,285,133"/>
-<area shape="rect" id="node5" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="333,56,472,83"/>
-<area shape="rect" id="node7" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="333,107,472,133"/>
-<area shape="rect" id="node6" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="520,107,661,133"/>
-</map>

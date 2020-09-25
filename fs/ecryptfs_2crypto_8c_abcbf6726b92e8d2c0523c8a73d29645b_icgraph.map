@@ -1,8 +1,0 @@
-<map id="ecryptfs_decode_from_filename" name="ecryptfs_decode_from_filename">
-<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ad92bd4ca5b5dec50558342a288e4da03" title="ecryptfs_decode_and\l_decrypt_filename" alt="" coords="204,23,351,65"/>
-<area shape="rect" id="node3" href="$ecryptfs_2file_8c.html#aaee78a54b5aaf1796ee1f1a8afc990ea" title="ecryptfs_filldir" alt="" coords="427,5,529,32"/>
-<area shape="rect" id="node5" href="$ecryptfs_2inode_8c.html#a07fd8a464f9fc168e4a490421ff61cb7" title="ecryptfs_readlink_lower" alt="" coords="399,56,557,83"/>
-<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#a8997e4f7523880bfe681e8e13a7159cb" title="ecryptfs_readdir" alt="" coords="618,5,733,32"/>
-<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a450e9a3a23567116f4c583f062e5174e" title="ecryptfs_get_link" alt="" coords="615,56,736,83"/>
-<area shape="rect" id="node7" href="$ecryptfs_2inode_8c.html#a6c79d00b1445b0a82a5cadc0c8374250" title="ecryptfs_getattr_link" alt="" coords="605,107,745,133"/>
-</map>

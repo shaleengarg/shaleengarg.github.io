@@ -1,7 +1,0 @@
-<map id="cifs_write" name="cifs_write">
-<area shape="rect" id="node2" href="$cifs_2file_8c.html#aec5e88c08739cd07b7978685b1c6e6d5" title="cifs_partialpagewrite" alt="" coords="132,31,273,57"/>
-<area shape="rect" id="node6" href="$cifs_2file_8c.html#a0ddd3751fd00d863da7ba2ce79d81069" title="cifs_write_end" alt="" coords="149,81,256,108"/>
-<area shape="rect" id="node3" href="$cifs_2file_8c.html#a8b18ea4f83207d9bd3b719c025f2066f" title="cifs_writepage_locked" alt="" coords="321,31,472,57"/>
-<area shape="rect" id="node4" href="$cifs_2file_8c.html#a899766252030de0a224b8397b2e8f808" title="cifs_writepage" alt="" coords="530,5,637,32"/>
-<area shape="rect" id="node5" href="$cifs_2file_8c.html#a53f2e77c694184123b0e6cacdd285afc" title="cifs_launder_page" alt="" coords="520,56,647,83"/>
-</map>

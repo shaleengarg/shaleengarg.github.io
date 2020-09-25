@@ -1,6 +1,0 @@
-<map id="hfs_bnode_read_u8" name="hfs_bnode_read_u8">
-<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#a318bfa00d7183e8ac963fcbe7da4828a" title="hfs_bnode_read_key" alt="" coords="188,5,331,32"/>
-<area shape="rect" id="node3" href="$hfsplus__fs_8h.html#a0c332fb5b03ec09e95b44937f9a3fcaa" title="hfs_bnode_dump" alt="" coords="199,56,320,83"/>
-<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#a7e3bbdf85d004d592b21e3d8a1f6530b" title="hfs_bnode_find" alt="" coords="204,107,315,133"/>
-<area shape="rect" id="node5" href="$hfsplus__fs_8h.html#a8313a86a563db4ed5bf531f7d28e1e69" title="hfs_bnode_unlink" alt="" coords="379,107,501,133"/>
-</map>

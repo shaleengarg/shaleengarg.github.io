@@ -1,8 +1,0 @@
-<map id="nfs4_free_createdata" name="nfs4_free_createdata">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#aa313274523c3b8baef9f22071b75ae0f" title="_nfs4_proc_symlink" alt="" coords="197,5,336,32"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a20a7152c9b22447e29e610b393eb7e7a" title="_nfs4_proc_mkdir" alt="" coords="204,56,329,83"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#ac251bd394fa45d51900e819e79febbb0" title="_nfs4_proc_mknod" alt="" coords="201,107,333,133"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a692a4341a790a0e917ea36b4f87d113f" title="nfs4_proc_symlink" alt="" coords="384,5,515,32"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#a66c80216163dc4d74d93550d0d4854af" title="nfs4_proc_mkdir" alt="" coords="390,56,509,83"/>
-<area shape="rect" id="node7" href="$nfs4proc_8c.html#a49c93f9d5aadd4bc9034b24e2b47ab87" title="nfs4_proc_mknod" alt="" coords="387,107,512,133"/>
-</map>

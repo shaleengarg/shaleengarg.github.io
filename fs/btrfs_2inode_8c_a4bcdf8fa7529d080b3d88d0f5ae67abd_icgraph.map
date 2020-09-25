@@ -1,7 +1,0 @@
-<map id="compress_file_range" name="compress_file_range">
-<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a7efe1cec8243747534bef90e364ca7e8" title="async_cow_start" alt="" coords="196,5,317,32"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#ac61aa5eefe6f2c561396287cc84cc788" title="cow_file_range_async" alt="" coords="365,5,516,32"/>
-<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#ac0e7e3ac85c1493a932820dcc802e352" title="run_delalloc_range" alt="" coords="564,5,695,32"/>
-<area shape="rect" id="node5" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="743,5,917,32"/>
-<area shape="rect" id="node6" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="965,5,1063,32"/>
-</map>

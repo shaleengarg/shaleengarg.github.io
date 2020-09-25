@@ -1,9 +1,0 @@
-<map id="nfsd4_destroy_callback_queue" name="nfsd4_destroy_callback_queue">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a0dde2e5fabb31ca88a8f09e595f647af" title="nfs4_state_shutdown" alt="" coords="212,31,359,57"/>
-<area shape="rect" id="node3" href="$nfssvc_8c.html#a205f8a35ae6f8427d76bfb3d476680fd" title="nfsd_shutdown_generic" alt="" coords="407,31,565,57"/>
-<area shape="rect" id="node4" href="$nfssvc_8c.html#aeba7a0fe8aab7495582fc5354b6a125b" title="nfsd_startup_net" alt="" coords="621,5,740,32"/>
-<area shape="rect" id="node7" href="$nfssvc_8c.html#a9dd5999326fe21f1ec0c3e5423fb4626" title="nfsd_shutdown_net" alt="" coords="613,56,748,83"/>
-<area shape="rect" id="node5" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="818,5,893,32"/>
-<area shape="rect" id="node6" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="963,5,1063,32"/>
-<area shape="rect" id="node8" href="$nfssvc_8c.html#a729298b9be30157084389bb612834c3d" title="nfsd_last_thread" alt="" coords="796,56,915,83"/>
-</map>

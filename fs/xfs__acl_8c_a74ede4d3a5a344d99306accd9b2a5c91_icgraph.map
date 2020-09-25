@@ -1,8 +1,0 @@
-<map id="__xfs_set_acl" name="__xfs_set_acl">
-<area shape="rect" id="node2" href="$xfs__acl_8c.html#a5a0297bdb225d978c7258622d0777315" title="xfs_set_acl" alt="" coords="177,5,267,32"/>
-<area shape="rect" id="node3" href="$xfs__iops_8c.html#ab26e9da7afbd4a9e35cfed42da95a51e" title="xfs_generic_create" alt="" coords="156,56,288,83"/>
-<area shape="rect" id="node4" href="$xfs__iops_8c.html#a30a19f32888a9caa7d7561e15f8ee810" title="xfs_vn_mknod" alt="" coords="336,31,443,57"/>
-<area shape="rect" id="node7" href="$xfs__iops_8c.html#aedf85745b72c8abe1af3544109eb78da" title="xfs_vn_tmpfile" alt="" coords="336,81,443,108"/>
-<area shape="rect" id="node5" href="$xfs__iops_8c.html#a8834f3c367781576f03894371282254c" title="xfs_vn_create" alt="" coords="491,5,595,32"/>
-<area shape="rect" id="node6" href="$xfs__iops_8c.html#a28ca6512584d7c71c6238ad684c49374" title="xfs_vn_mkdir" alt="" coords="493,56,593,83"/>
-</map>

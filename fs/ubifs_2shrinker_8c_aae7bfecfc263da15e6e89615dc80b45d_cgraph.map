@@ -1,9 +1,0 @@
-<map id="shrink_tnc_trees" name="shrink_tnc_trees">
-<area shape="rect" id="node2" href="$ubifs_2shrinker_8c.html#a32ba118a0bb1dd776b2c54cda5cb9035" title="shrink_tnc" alt="" coords="172,36,255,63"/>
-<area shape="rect" id="node3" href="$tnc__misc_8c.html#af7dbe47a30b69444c419cc86334aae56" title="ubifs_tnc_levelorder_next" alt="" coords="741,5,912,32"/>
-<area shape="rect" id="node5" href="$misc_8h.html#abe5c86108a05199a899138767ca1f42a" title="ubifs_zn_dirty" alt="" coords="558,36,661,63"/>
-<area shape="rect" id="node6" href="$tnc__misc_8c.html#ae1aa3c1bb2237d83c49c68290edc9c7e" title="ubifs_destroy_tnc_subtree" alt="" coords="303,87,477,113"/>
-<area shape="rect" id="node4" href="$misc_8h.html#a28eee58cbe217f89376908e1cf560061" title="ubifs_tnc_find_child" alt="" coords="960,83,1097,109"/>
-<area shape="rect" id="node7" href="$tnc__misc_8c.html#a97a13645d24f27ca0f17eec920e0e6c5" title="ubifs_tnc_postorder\l_first" alt="" coords="759,75,895,117"/>
-<area shape="rect" id="node8" href="$tnc__misc_8c.html#ab73fd13bf253a9f01d5ddeb1e6da16fc" title="ubifs_tnc_postorder_next" alt="" coords="525,137,693,164"/>
-</map>

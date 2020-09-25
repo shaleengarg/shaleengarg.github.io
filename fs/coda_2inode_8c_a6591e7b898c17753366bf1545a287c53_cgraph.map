@@ -1,6 +1,0 @@
-<map id="coda_evict_inode" name="coda_evict_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a5ef1de74cc382d6cd8afddc6e66a47a4" title="clear_inode" alt="" coords="215,5,303,32"/>
-<area shape="rect" id="node4" href="$coda_2cache_8c.html#a2b3c80c04148e4a28a357759b09c8648" title="coda_cache_clear_inode" alt="" coords="176,56,341,83"/>
-<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="389,5,528,32"/>
-<area shape="rect" id="node5" href="$coda__linux_8h.html#a96e5b87913d07d6f4dfae763d017149c" title="ITOC" alt="" coords="431,56,486,83"/>
-</map>

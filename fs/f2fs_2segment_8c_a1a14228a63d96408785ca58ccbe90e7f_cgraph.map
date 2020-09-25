@@ -1,6 +1,0 @@
-<map id="__set_sit_entry_type" name="__set_sit_entry_type">
-<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="221,5,325,32"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#ad7d72882c46fca232270c622c6ad9ece" title="__mark_sit_entry_dirty" alt="" coords="196,56,351,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="399,31,453,57"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="501,31,555,57"/>
-</map>

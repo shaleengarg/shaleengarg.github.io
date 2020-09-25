@@ -1,8 +1,0 @@
-<map id="load_attribute_list" name="load_attribute_list">
-<area shape="rect" id="node2" href="$buffer_8c.html#a60a1eb6418d9f7d63ceb44bc1d1f46c5" title="block_size_bits" alt="" coords="185,5,297,32"/>
-<area shape="rect" id="node3" href="$runlist_8c.html#a9437be86ebe30bd60e86d305679943e1" title="ntfs_rl_vcn_to_lcn" alt="" coords="177,56,305,83"/>
-<area shape="rect" id="node4" href="$malloc_8h.html#ab6824be4d6e004aa075b1fe66fd0d737" title="ntfs_free" alt="" coords="528,31,601,57"/>
-<area shape="rect" id="node5" href="$malloc_8h.html#a0ec96764a4b9b46c2cd4a78abea5ed5d" title="ntfs_malloc_nofs" alt="" coords="504,93,625,120"/>
-<area shape="rect" id="node7" href="$runlist_8c.html#a7597afce0c5c77abf6cea59dd4c42117" title="ntfs_rl_realloc" alt="" coords="353,56,456,83"/>
-<area shape="rect" id="node6" href="$malloc_8h.html#ade7393d4add4f921117b419938accfb2" title="__ntfs_malloc" alt="" coords="673,93,776,120"/>
-</map>

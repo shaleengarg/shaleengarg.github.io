@@ -1,9 +1,0 @@
-<map id="dlm_lockstatus" name="dlm_lockstatus">
-<area shape="rect" id="node2" href="$structdlm__lock.html" title="dlm_lock" alt="" coords="137,288,211,315"/>
-<area shape="rect" id="node3" href="$structdlm__migratable__lock.html" title="dlm_migratable_lock" alt="" coords="141,199,282,225"/>
-<area shape="rect" id="node4" href="$structdlm__lock__resource.html" title="dlm_lock_resource" alt="" coords="306,199,437,225"/>
-<area shape="rect" id="node5" href="$structdlm__ctxt.html" title="dlm_ctxt" alt="" coords="335,109,407,136"/>
-<area shape="rect" id="node6" href="$structo2hb__callback__func.html" title="o2hb_callback_func" alt="" coords="145,5,283,32"/>
-<area shape="rect" id="node7" href="$structdlm__recovery__ctxt.html" title="dlm_recovery_ctxt" alt="" coords="307,5,436,32"/>
-<area shape="rect" id="node8" href="$structdlm__protocol__version.html" title="dlm_protocol_version" alt="" coords="460,5,605,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="descriptor_loc" name="descriptor_loc">
-<area shape="rect" id="node2" href="$ext2_8h.html#a13a56b2ca60a1e6edd794961871aa726" title="EXT2_SB" alt="" coords="405,5,485,32"/>
-<area shape="rect" id="node3" href="$ext2_2balloc_8c.html#a32230ecdc1a2f956e21ac79a02dfbdd5" title="ext2_bg_has_super" alt="" coords="176,81,311,108"/>
-<area shape="rect" id="node6" href="$ext2_8h.html#ab31704efc4012f78efcb86d2d016447c" title="ext2_group_first_block_no" alt="" coords="156,31,331,57"/>
-<area shape="rect" id="node4" href="$ext2_2balloc_8c.html#a78f965351defbf22bd1d6d3fae11fd7b" title="ext2_group_sparse" alt="" coords="379,81,511,108"/>
-<area shape="rect" id="node5" href="$ext2_2balloc_8c.html#abcf47e62b2149e1ba97381fee2d9815c" title="test_root" alt="" coords="559,81,632,108"/>
-</map>

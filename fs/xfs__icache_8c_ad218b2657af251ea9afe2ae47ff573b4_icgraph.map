@@ -1,6 +1,0 @@
-<map id="__xfs_inode_free_quota_eofblocks" name="__xfs_inode_free_quota_eofblocks">
-<area shape="rect" id="node2" href="$xfs__icache_8h.html#a61db42202573f6b1b874e360f171532b" title="xfs_inode_free_quota\l_eofblocks" alt="" coords="213,5,360,47"/>
-<area shape="rect" id="node5" href="$xfs__icache_8h.html#aecb3cd4f4ed9a19f70464ff405c9a5d8" title="xfs_inode_free_quota\l_cowblocks" alt="" coords="213,71,360,112"/>
-<area shape="rect" id="node3" href="$xfs__file_8c.html#aca1fd5d3dc58e3dbf6eefe9adfd3a16c" title="xfs_file_buffered_aio\l_write" alt="" coords="408,39,551,80"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="599,46,723,73"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cuse_gendev_release" name="cuse_gendev_release">
-<area shape="rect" id="node2" href="$cuse_8c.html#a5deab4441e44f0e69cf786ddcf422824" title="cuse_process_init_reply" alt="" coords="201,5,364,32"/>
-<area shape="rect" id="node3" href="$cuse_8c.html#a3ce2a0bcd2db9c9de9b2b53081fe67f2" title="cuse_send_init" alt="" coords="412,5,521,32"/>
-<area shape="rect" id="node4" href="$cuse_8c.html#ab830a43600556672955f140ecabb99d7" title="cuse_channel_open" alt="" coords="569,5,707,32"/>
-<area shape="rect" id="node5" href="$cuse_8c.html#a259338d3d0bcc5e07ce88b0024113be2" title="cuse_init" alt="" coords="755,5,829,32"/>
-<area shape="rect" id="node6" href="$cuse_8c.html#a82e5d1268caa23564c91c0f105e1ddbd" title="cuse_exit" alt="" coords="877,5,956,32"/>
-</map>

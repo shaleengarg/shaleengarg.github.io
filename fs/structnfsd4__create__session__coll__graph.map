@@ -1,5 +1,0 @@
-<map id="nfsd4_create_session" name="nfsd4_create_session">
-<area shape="rect" id="node2" href="$structnfsd4__cb__sec.html" title="nfsd4_cb_sec" alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node3" href="$structnfsd4__channel__attrs.html" title="nfsd4_channel_attrs" alt="" coords="133,5,271,32"/>
-<area shape="rect" id="node4" href="$structclientid__t.html" title="clientid_t" alt="" coords="295,5,370,32"/>
-</map>

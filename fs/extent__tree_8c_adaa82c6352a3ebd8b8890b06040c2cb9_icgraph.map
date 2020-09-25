@@ -1,9 +1,0 @@
-<map id="__ext_tree_remove" name="__ext_tree_remove">
-<area shape="rect" id="node2" href="$extent__tree_8c.html#ac947a6bd869c5b228ebf64b597920c2d" title="ext_tree_remove" alt="" coords="203,56,321,83"/>
-<area shape="rect" id="node5" href="$extent__tree_8c.html#ad62f40c2a671e4c9cdc33f8a905d7e64" title="ext_tree_mark_written" alt="" coords="187,107,337,133"/>
-<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#a2295e5d6268f1a274cdb68e19f0bfb6e" title="bl_free_layout_hdr" alt="" coords="385,5,513,32"/>
-<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#a8290980b053bc593b1b31302c564fcae" title="bl_return_range" alt="" coords="394,56,505,83"/>
-<area shape="rect" id="node6" href="$blocklayout_2blocklayout_8c.html#ac3eff1dee5ff8b181a43b0c70017a83f" title="bl_write_cleanup" alt="" coords="390,107,509,133"/>
-<area shape="rect" id="node7" href="$blocklayout_2blocklayout_8c.html#a429a567fb79ebe410044cf5f432e1649" title="bl_end_par_io_write" alt="" coords="561,107,699,133"/>
-<area shape="rect" id="node8" href="$blocklayout_2blocklayout_8c.html#ad33173ca191d852196fe8841079b9313" title="bl_write_pagelist" alt="" coords="747,107,865,133"/>
-</map>

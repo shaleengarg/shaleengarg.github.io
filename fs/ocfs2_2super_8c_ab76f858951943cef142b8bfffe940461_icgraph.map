@@ -1,5 +1,0 @@
-<map id="ocfs2_verify_volume" name="ocfs2_verify_volume">
-<area shape="rect" id="node2" href="$ocfs2_2super_8c.html#ab638dae3e18c5e1e5cd2569ac27e1e46" title="ocfs2_sb_probe" alt="" coords="196,5,311,32"/>
-<area shape="rect" id="node3" href="$ocfs2_2super_8c.html#aae09c84567eb36b012612fa7f187c3ee" title="ocfs2_fill_super" alt="" coords="359,5,472,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2super_8c.html#aca38f76e33cde96ed91b51148bcdc947" title="ocfs2_mount" alt="" coords="520,5,617,32"/>
-</map>

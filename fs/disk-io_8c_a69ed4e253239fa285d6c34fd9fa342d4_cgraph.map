@@ -1,9 +1,0 @@
-<map id="csum_tree_block" name="csum_tree_block">
-<area shape="rect" id="node2" href="$ctree_8h.html#ac2c048c08d98039688c6e1d3c216e44e" title="btrfs_super_csum_size" alt="" coords="175,5,333,32"/>
-<area shape="rect" id="node3" href="$extent__io_8c.html#a4378c2e8f21417d6f6f35267d89bc474" title="map_private_extent\l_buffer" alt="" coords="186,57,322,98"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#afefd1a76d3df3a8f54251a3aa9ef057b" title="btrfs_csum_data" alt="" coords="195,123,313,149"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#af1c87f201f23dab002e655d9c571af52" title="btrfs_csum_final" alt="" coords="195,173,313,200"/>
-<area shape="rect" id="node6" href="$extent__io_8c.html#a11e9d909f707735282435977e116cad9" title="memcmp_extent_buffer" alt="" coords="175,224,333,251"/>
-<area shape="rect" id="node7" href="$extent__io_8c.html#a13f34ad4413ed7398240de3304b1045b" title="read_extent_buffer" alt="" coords="189,275,319,301"/>
-<area shape="rect" id="node8" href="$extent__io_8c.html#a897d780c52e4c2af5b8449baa6721b16" title="write_extent_buffer" alt="" coords="187,325,321,352"/>
-</map>

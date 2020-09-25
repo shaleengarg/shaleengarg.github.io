@@ -1,9 +1,0 @@
-<map id="encode_fattr" name="encode_fattr">
-<area shape="rect" id="node2" href="$xdr_8h.html#a1b3d3783978947c73f89d8a368491598" title="nfs2svc_encode_fattr" alt="" coords="156,56,303,83"/>
-<area shape="rect" id="node6" href="$xdr_8h.html#a9d230c55511577329802285ddbfcc83c" title="nfssvc_encode_attrstat" alt="" coords="150,107,309,133"/>
-<area shape="rect" id="node7" href="$xdr_8h.html#a0fbea94d5d7c285e74dd7e8247b825d2" title="nfssvc_encode_diropres" alt="" coords="148,157,311,184"/>
-<area shape="rect" id="node8" href="$xdr_8h.html#aa88d609b5534703d6ffa110c56e54d2d" title="nfssvc_encode_readres" alt="" coords="149,208,309,235"/>
-<area shape="rect" id="node3" href="$nfs2acl_8c.html#a6d6faac9abfc20783b23a334029b58d2" title="nfsaclsvc_encode_getaclres" alt="" coords="363,5,549,32"/>
-<area shape="rect" id="node4" href="$nfs2acl_8c.html#ab78fb06e658fb8a14b42bc3fa60b9b22" title="nfsaclsvc_encode_attrstatres" alt="" coords="359,56,553,83"/>
-<area shape="rect" id="node5" href="$nfs2acl_8c.html#a0bfe202ccc73308ebd4ee8bd4278aadc" title="nfsaclsvc_encode_accessres" alt="" coords="359,107,553,133"/>
-</map>

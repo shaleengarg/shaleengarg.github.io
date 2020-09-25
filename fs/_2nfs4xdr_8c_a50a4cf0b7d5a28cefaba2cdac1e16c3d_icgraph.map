@@ -1,6 +1,0 @@
-<map id="svcxdr_dupstr" name="svcxdr_dupstr">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#ae011b54e6a26d28b64b9aa874fefcb09" title="nfsd4_decode_fattr" alt="" coords="157,56,291,83"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a3ec28e30cf11ca396dc4cd630e67db52" title="nfsd4_decode_create" alt="" coords="339,5,485,32"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="343,56,481,83"/>
-<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a609e33f86d5cd41e6feb373a08789242" title="nfsd4_decode_setattr" alt="" coords="339,107,485,133"/>
-</map>

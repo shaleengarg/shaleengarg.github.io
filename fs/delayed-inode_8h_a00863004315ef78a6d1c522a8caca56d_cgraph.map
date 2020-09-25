@@ -1,8 +1,0 @@
-<map id="btrfs_inode_delayed_dir_index_count" name="btrfs_inode_delayed_dir_index_count">
-<area shape="rect" id="node2" href="$delayed-inode_8c.html#a65a02af30bf83ac7463c0a28820968d3" title="btrfs_get_delayed_node" alt="" coords="204,5,364,32"/>
-<area shape="rect" id="node4" href="$delayed-inode_8c.html#ae41987e5af596d25876eee9105ba4fd4" title="btrfs_release_delayed_node" alt="" coords="192,56,376,83"/>
-<area shape="rect" id="node3" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="487,5,559,32"/>
-<area shape="rect" id="node5" href="$delayed-inode_8c.html#a51d5018ea68df7e8eed9847b35fa987e" title="__btrfs_release_delayed_node" alt="" coords="424,56,623,83"/>
-<area shape="rect" id="node6" href="$delayed-inode_8c.html#a0e2f539ab0f4224ea20e730b1ce92f0c" title="btrfs_queue_delayed_node" alt="" coords="677,31,855,57"/>
-<area shape="rect" id="node7" href="$delayed-inode_8c.html#a7dc0d496a3e3aac602124f28f213c1b5" title="btrfs_dequeue_delayed_node" alt="" coords="671,81,861,108"/>
-</map>

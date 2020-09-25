@@ -1,8 +1,0 @@
-<map id="remove_from_waiters_ms" name="remove_from_waiters_ms">
-<area shape="rect" id="node2" href="$dlm_2lock_8c.html#ae1ebe82b746cc28b90456ab7f3264fb5" title="_remove_from_waiters" alt="" coords="225,81,380,108"/>
-<area shape="rect" id="node3" href="$dlm_2lock_8c.html#ae0acd94636df45ccca31b553ba3bfdd7" title="is_overlap_unlock" alt="" coords="428,5,555,32"/>
-<area shape="rect" id="node4" href="$dlm_2lock_8c.html#a02be5f2b4d888e55580cbb2a5cbb7d77" title="is_overlap_cancel" alt="" coords="428,56,555,83"/>
-<area shape="rect" id="node5" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="713,157,812,184"/>
-<area shape="rect" id="node6" href="$dlm_2lock_8c.html#a0a3373645b905e4e06bc73273882c0c9" title="unhold_lkb" alt="" coords="449,157,533,184"/>
-<area shape="rect" id="node7" href="$dlm_2lock_8c.html#a8daaef8aa995c68981b37b44533dfe92" title="kill_lkb" alt="" coords="603,208,665,235"/>
-</map>

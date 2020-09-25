@@ -1,6 +1,0 @@
-<map id="o2net_debugfs_exit" name="o2net_debugfs_exit">
-<area shape="rect" id="node2" href="$tcp_8h.html#a63ae446e18b253df18335ace7ccfdf46" title="o2net_init" alt="" coords="321,5,399,32"/>
-<area shape="rect" id="node4" href="$tcp_8h.html#a7077ac688411fbab130c342d3a5f7e0d" title="o2net_exit" alt="" coords="188,56,271,83"/>
-<area shape="rect" id="node3" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="449,56,528,83"/>
-<area shape="rect" id="node5" href="$nodemanager_8c.html#a9eb95eee91524c301b0ebb332d8be27e" title="exit_o2nm" alt="" coords="319,107,401,133"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="free_bprm" name="free_bprm">
-<area shape="rect" id="node2" href="$exec_8c.html#ac0b61d55f4dd67a44cf07697a9ed21bf" title="do_execveat_common" alt="" coords="133,31,287,57"/>
-<area shape="rect" id="node3" href="$exec_8c.html#aa4df1492aba86473a5b3256668c8ef09" title="do_execve" alt="" coords="340,5,425,32"/>
-<area shape="rect" id="node5" href="$exec_8c.html#afd0511a1788a101f505f209989aa44d3" title="do_execveat" alt="" coords="335,56,431,83"/>
-<area shape="rect" id="node4" href="$exec_8c.html#abb5d6a332d69991b1e79797506468d8c" title="SYSCALL_DEFINE3" alt="" coords="479,5,625,32"/>
-<area shape="rect" id="node6" href="$exec_8c.html#a423778c1b4476f5bffe17579704ff820" title="SYSCALL_DEFINE5" alt="" coords="479,56,625,83"/>
-</map>

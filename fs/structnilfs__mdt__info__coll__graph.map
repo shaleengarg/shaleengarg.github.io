@@ -1,6 +1,0 @@
-<map id="nilfs_mdt_info" name="nilfs_mdt_info">
-<area shape="rect" id="node2" href="$structnilfs__palloc__cache.html" title="nilfs_palloc_cache" alt="" coords="5,124,135,151"/>
-<area shape="rect" id="node3" href="$structnilfs__bh__assoc.html" title="nilfs_bh_assoc" alt="" coords="15,5,125,32"/>
-<area shape="rect" id="node4" href="$structnilfs__shadow__map.html" title="nilfs_shadow_map" alt="" coords="159,124,290,151"/>
-<area shape="rect" id="node5" href="$structnilfs__bmap__store.html" title="nilfs_bmap_store" alt="" coords="164,5,285,32"/>
-</map>

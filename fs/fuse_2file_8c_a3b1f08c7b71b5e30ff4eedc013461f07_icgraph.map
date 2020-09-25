@@ -1,7 +1,0 @@
-<map id="fuse_writepage_end" name="fuse_writepage_end">
-<area shape="rect" id="node2" href="$fuse_2file_8c.html#a9e3af7948bd9a9e7a48b63430e9778ca" title="fuse_writepage_locked" alt="" coords="192,56,347,83"/>
-<area shape="rect" id="node5" href="$fuse_2file_8c.html#a8f50d63cfff20668ce6da4cc38dbfaa3" title="fuse_writepages_fill" alt="" coords="201,107,338,133"/>
-<area shape="rect" id="node3" href="$fuse_2file_8c.html#a98d6958b71b866530db3fedfeeeb60b5" title="fuse_writepage" alt="" coords="405,5,515,32"/>
-<area shape="rect" id="node4" href="$fuse_2file_8c.html#a5bd986ed9a048afb9081ff6370ff063a" title="fuse_launder_page" alt="" coords="395,56,525,83"/>
-<area shape="rect" id="node6" href="$fuse_2file_8c.html#a45b882f9a36587a618d9f27e1ea58a8d" title="fuse_writepages" alt="" coords="401,107,519,133"/>
-</map>

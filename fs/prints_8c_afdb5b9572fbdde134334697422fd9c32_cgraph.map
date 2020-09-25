@@ -1,7 +1,0 @@
-<map id="print_internal" name="print_internal">
-<area shape="rect" id="node2" href="$prints_8c.html#a8603f71d52465b85aaf7309890b3bb0c" title="check_internal" alt="" coords="149,5,256,32"/>
-<area shape="rect" id="node4" href="$prints_8c.html#af56aaa547b9dace57eed3bf16c2c7758" title="reiserfs_printk" alt="" coords="151,56,255,83"/>
-<area shape="rect" id="node5" href="$reiserfs_8h.html#a217596f2d243c107da5efba998900f0a" title="internal_key" alt="" coords="157,107,249,133"/>
-<area shape="rect" id="node3" href="$prints_8c.html#ab0ecc95176942a7feebf7b16fa1c2b92" title="check_internal_block_head" alt="" coords="304,5,483,32"/>
-<area shape="rect" id="node6" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="327,107,459,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="update_ckpt_flags" name="update_ckpt_flags">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="367,5,465,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="389,56,443,83"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a1b6805195d08887999e7fd5be949d26a" title="disable_nat_bits" alt="" coords="184,107,300,133"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a897735bc95b06bb72a78024dd397ec9c" title="__clear_ckpt_flags" alt="" coords="351,157,481,184"/>
-<area shape="rect" id="node7" href="$f2fs_8h.html#a1df29979ea88907683cfcdaf1f4e144e" title="__set_ckpt_flags" alt="" coords="181,208,303,235"/>
-<area shape="rect" id="node8" href="$f2fs_8h.html#a0233fb27dc3ca25611a05d87ecec1fdc" title="is_sbi_flag_set" alt="" coords="187,259,297,285"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a2cdfd24554c7f3f0cc5a0cccab495f11" title="set_sbi_flag" alt="" coords="370,107,462,133"/>
-</map>

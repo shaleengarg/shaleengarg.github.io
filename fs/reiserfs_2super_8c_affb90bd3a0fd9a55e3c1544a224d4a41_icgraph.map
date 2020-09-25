@@ -1,8 +1,0 @@
-<map id="remove_save_link_only" name="remove_save_link_only">
-<area shape="rect" id="node2" href="$reiserfs_2super_8c.html#ac03cc8df91087e0fd3adb0fcb69e18e0" title="finish_unfinished" alt="" coords="212,46,331,73"/>
-<area shape="rect" id="node3" href="$reiserfs_2super_8c.html#a43258fd374abc3f2844f5274f7081334" title="reiserfs_remount" alt="" coords="379,17,497,43"/>
-<area shape="rect" id="node6" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="917,46,1041,73"/>
-<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#ac978fb3dfb574e2a2d65ef33c5d4c836" title="is_any_reiserfs_magic\l_string" alt="" coords="545,5,697,47"/>
-<area shape="rect" id="node5" href="$reiserfs_2super_8c.html#a937e529fcad9e49d48f1acadb75dc17e" title="read_super_block" alt="" coords="745,17,869,43"/>
-<area shape="rect" id="node7" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="1089,46,1207,73"/>
-</map>

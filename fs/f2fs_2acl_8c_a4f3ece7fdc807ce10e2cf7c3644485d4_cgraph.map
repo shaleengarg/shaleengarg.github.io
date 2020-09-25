@@ -1,8 +1,0 @@
-<map id="f2fs_acl_from_disk" name="f2fs_acl_from_disk">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="535,5,590,32"/>
-<area shape="rect" id="node4" href="$f2fs_2acl_8c.html#ad1e47133869cc0b8b114052fbfd3dc5c" title="f2fs_acl_count" alt="" coords="187,31,294,57"/>
-<area shape="rect" id="node5" href="$posix__acl_8c.html#a541fec655bdc5efc247a60bf612cc911" title="posix_acl_alloc" alt="" coords="185,81,296,108"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="680,5,799,32"/>
-<area shape="rect" id="node6" href="$posix__acl_8c.html#adf2bdd41f79cdfef8afff7adbdad95ac" title="posix_acl_init" alt="" coords="344,31,445,57"/>
-<area shape="rect" id="node7" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="493,56,632,83"/>
-</map>

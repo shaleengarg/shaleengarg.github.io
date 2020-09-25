@@ -1,6 +1,0 @@
-<map id="nfs3_proc_fsinfo" name="nfs3_proc_fsinfo">
-<area shape="rect" id="node2" href="$nfs3proc_8c.html#aca2522b330d66efb370a9ee705383ca2" title="do_proc_fsinfo" alt="" coords="172,42,279,69"/>
-<area shape="rect" id="node3" href="$nfs_2inode_8c.html#a81ed57e217c4563faf406fe27093858b" title="nfs_fattr_init" alt="" coords="327,42,421,69"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#ad80c28b99f558acae79f418e445df851" title="nfs_inc_attr_generation\l_counter" alt="" coords="469,5,627,47"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="675,42,847,69"/>
-</map>

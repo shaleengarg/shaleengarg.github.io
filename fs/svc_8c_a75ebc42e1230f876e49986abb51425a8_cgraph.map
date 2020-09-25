@@ -1,5 +1,0 @@
-<map id="set_grace_period" name="set_grace_period">
-<area shape="rect" id="node2" href="$svc_8c.html#a7276d477be73cfffef04bb1113aa965d" title="get_lockd_grace_period" alt="" coords="175,5,333,32"/>
-<area shape="rect" id="node3" href="$grace_8c.html#a91a1c906383f90b9413d0517054f34dc" title="locks_start_grace" alt="" coords="191,56,317,83"/>
-<area shape="rect" id="node4" href="$grace_8c.html#a7a85d636026fb6e907fffc78d5637024" title="EXPORT_SYMBOL_GPL" alt="" coords="381,56,553,83"/>
-</map>

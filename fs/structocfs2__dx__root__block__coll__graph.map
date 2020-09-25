@@ -1,7 +1,0 @@
-<map id="ocfs2_dx_root_block" name="ocfs2_dx_root_block">
-<area shape="rect" id="node2" href="$structocfs2__dx__entry__list.html" title="ocfs2_dx_entry_list" alt="" coords="5,95,140,121"/>
-<area shape="rect" id="node3" href="$structocfs2__dx__entry.html" title="ocfs2_dx_entry" alt="" coords="17,5,128,32"/>
-<area shape="rect" id="node4" href="$structocfs2__block__check.html" title="ocfs2_block_check" alt="" coords="164,95,299,121"/>
-<area shape="rect" id="node5" href="$structocfs2__extent__list.html" title="ocfs2_extent_list" alt="" coords="323,95,444,121"/>
-<area shape="rect" id="node6" href="$structocfs2__extent__rec.html" title="ocfs2_extent_rec" alt="" coords="322,5,445,32"/>
-</map>

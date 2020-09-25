@@ -1,7 +1,0 @@
-<map id="destroy_journal" name="destroy_journal">
-<area shape="rect" id="node2" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="167,5,261,32"/>
-<area shape="rect" id="node5" href="$ubifs_2super_8c.html#a3e27f93e2785f1ef9580acc2fa8db34d" title="ubifs_umount" alt="" coords="164,56,264,83"/>
-<area shape="rect" id="node3" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="315,5,424,32"/>
-<area shape="rect" id="node4" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="475,5,568,32"/>
-<area shape="rect" id="node6" href="$ubifs_2super_8c.html#ae2f59fbee4bf3523cc44fbe10cc38917" title="ubifs_put_super" alt="" coords="312,56,427,83"/>
-</map>

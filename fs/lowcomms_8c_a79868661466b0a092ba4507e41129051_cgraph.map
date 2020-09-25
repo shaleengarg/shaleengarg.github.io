@@ -1,8 +1,0 @@
-<map id="send_to_sock" name="send_to_sock">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="219,5,274,32"/>
-<area shape="rect" id="node4" href="$lowcomms_8c.html#a67d86dc6db9bed0369d151d613e903e5" title="writequeue_entry_complete" alt="" coords="156,56,337,83"/>
-<area shape="rect" id="node6" href="$lowcomms_8c.html#a37b947868c2d0a40d010e707d9112e1d" title="close_connection" alt="" coords="185,107,308,133"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="388,5,507,32"/>
-<area shape="rect" id="node5" href="$lowcomms_8c.html#a8acc55461d1513c353d2ea6efdde06c7" title="free_entry" alt="" coords="407,56,487,83"/>
-<area shape="rect" id="node7" href="$lowcomms_8c.html#ae3312d6561b9f66b227cb6ac807290eb" title="restore_callbacks" alt="" coords="385,107,509,133"/>
-</map>

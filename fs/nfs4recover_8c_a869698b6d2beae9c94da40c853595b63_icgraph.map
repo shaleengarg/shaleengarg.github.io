@@ -1,5 +1,0 @@
-<map id="load_recdir" name="load_recdir">
-<area shape="rect" id="node2" href="$nfs4recover_8c.html#aa23cfebac633e3ec2e96c66dd630dd22" title="nfsd4_recdir_load" alt="" coords="139,5,263,32"/>
-<area shape="rect" id="node3" href="$nfs4recover_8c.html#a8018ff7de197d916fc0ccc6ccfcdb3c7" title="nfsd4_load_reboot_recovery_data" alt="" coords="311,5,528,32"/>
-<area shape="rect" id="node4" href="$nfs4recover_8c.html#afe93c0ddbff43e1565bf1abf15149d22" title="nfsd4_legacy_tracking_init" alt="" coords="576,5,752,32"/>
-</map>

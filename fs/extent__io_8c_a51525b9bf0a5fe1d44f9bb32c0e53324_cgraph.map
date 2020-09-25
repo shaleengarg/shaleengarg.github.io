@@ -1,7 +1,0 @@
-<map id="btrfs_create_repair_bio" name="btrfs_create_repair_bio">
-<area shape="rect" id="node2" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="252,5,321,32"/>
-<area shape="rect" id="node3" href="$extent__io_8c.html#a9f9d17215cada59b587797d0ff7be037" title="btrfs_io_bio_alloc" alt="" coords="225,56,348,83"/>
-<area shape="rect" id="node5" href="$volumes_8h.html#adc001f4db47bfcf0c0b78e6ceeaa66b2" title="btrfs_io_bio" alt="" coords="425,107,515,133"/>
-<area shape="rect" id="node6" href="$ctree_8h.html#ac2c048c08d98039688c6e1d3c216e44e" title="btrfs_super_csum_size" alt="" coords="208,157,365,184"/>
-<area shape="rect" id="node4" href="$extent__io_8c.html#a6f3ebcb650766d8b1c8aafc52b14203d" title="btrfs_io_bio_init" alt="" coords="413,56,527,83"/>
-</map>

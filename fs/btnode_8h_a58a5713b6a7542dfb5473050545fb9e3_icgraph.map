@@ -1,6 +1,0 @@
-<map id="nilfs_btnode_abort_change_key" name="nilfs_btnode_abort_change_key">
-<area shape="rect" id="node2" href="$nilfs2_2btree_8c.html#aa8309dc2635d198364319aa97d9f6054" title="nilfs_btree_abort_update_v" alt="" coords="181,13,360,39"/>
-<area shape="rect" id="node3" href="$nilfs2_2btree_8c.html#a7ae74a5be93361cfeb0317ee3422377c" title="nilfs_btree_prepare\l_propagate_v" alt="" coords="408,5,540,47"/>
-<area shape="rect" id="node4" href="$nilfs2_2btree_8c.html#a42f8626b103b9e5aec00fc84177d9b32" title="nilfs_btree_propagate_v" alt="" coords="588,13,748,39"/>
-<area shape="rect" id="node5" href="$nilfs2_2btree_8c.html#a0299cb5c34a2f4cae3158ef96064d932" title="nilfs_btree_propagate" alt="" coords="796,13,943,39"/>
-</map>

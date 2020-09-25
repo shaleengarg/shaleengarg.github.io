@@ -1,5 +1,0 @@
-<map id="do_make_pnode_dirty" name="do_make_pnode_dirty">
-<area shape="rect" id="node2" href="$lpt__commit_8c.html#a0e19e0a4226ca2a2502accf8a120c9fd" title="add_pnode_dirt" alt="" coords="220,5,331,32"/>
-<area shape="rect" id="node4" href="$lpt_8c.html#af853639d65479e588832f7abbc932bea" title="ubifs_add_nnode_dirt" alt="" coords="203,56,348,83"/>
-<area shape="rect" id="node3" href="$lpt_8c.html#ae5e7ec1ecf58650a45f5ffb5d4029d10" title="ubifs_add_lpt_dirt" alt="" coords="396,31,520,57"/>
-</map>

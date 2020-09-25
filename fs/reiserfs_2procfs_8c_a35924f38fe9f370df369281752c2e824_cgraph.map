@@ -1,7 +1,0 @@
-<map id="show_on_disk_super" name="show_on_disk_super">
-<area shape="rect" id="node2" href="$reiserfs_8h.html#a0e265314d75fff703a39c90e48f4462b" title="REISERFS_SB" alt="" coords="197,5,312,32"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="215,56,294,83"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="360,31,447,57"/>
-<area shape="rect" id="node6" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="495,81,633,108"/>
-<area shape="rect" id="node5" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="502,31,626,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="dentry_free" name="dentry_free">
-<area shape="rect" id="node2" href="$dcache_8c.html#a230d6245e3962408f039e2e33a251d98" title="dname_external" alt="" coords="145,5,260,32"/>
-<area shape="rect" id="node3" href="$dcache_8c.html#a1cda4f5743f52a426fe40cc5cf933675" title="external_name" alt="" coords="342,56,449,83"/>
-<area shape="rect" id="node4" href="$dcache_8c.html#a9017dd31269b4b6d79821de35551ae41" title="__d_free_external" alt="" coords="140,107,265,133"/>
-<area shape="rect" id="node6" href="$dcache_8c.html#a7d181ee17b4a49e02eac0f247fd484a9" title="__d_free" alt="" coords="167,157,239,184"/>
-<area shape="rect" id="node5" href="$dcache_8c.html#a711826e19d5ad53c7b0bbe26a878cfff" title="__d_free_external_name" alt="" coords="313,107,477,133"/>
-</map>

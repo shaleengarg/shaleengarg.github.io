@@ -1,9 +1,0 @@
-<map id="OP_I" name="OP_I">
-<area shape="rect" id="node2" href="$openpromfs_2inode_8c.html#a20457ea9ced05548efb705ed3ee66ff4" title="property_open" alt="" coords="125,5,229,32"/>
-<area shape="rect" id="node3" href="$openpromfs_2inode_8c.html#a6148b1a3f0ded81cd568d850f76a6a80" title="openpromfs_lookup" alt="" coords="110,56,245,83"/>
-<area shape="rect" id="node4" href="$openpromfs_2inode_8c.html#a8c2e7c0f0b528dc8d90bb922ad23d9e1" title="openpromfs_readdir" alt="" coords="109,107,245,133"/>
-<area shape="rect" id="node5" href="$openpromfs_2inode_8c.html#a3a1e46eba97bc9bd301c4dff8464074a" title="openprom_i_callback" alt="" coords="105,157,249,184"/>
-<area shape="rect" id="node7" href="$openpromfs_2inode_8c.html#a98db137d84fe028fc377d47a836e7401" title="openprom_fill_super" alt="" coords="108,208,247,235"/>
-<area shape="rect" id="node6" href="$openpromfs_2inode_8c.html#ae193e789c05dd37c8b41c6d6fde19f84" title="openprom_destroy_inode" alt="" coords="297,157,464,184"/>
-<area shape="rect" id="node8" href="$openpromfs_2inode_8c.html#a0d56efdc6be502f57fe406dc36022c93" title="openprom_mount" alt="" coords="319,208,442,235"/>
-</map>

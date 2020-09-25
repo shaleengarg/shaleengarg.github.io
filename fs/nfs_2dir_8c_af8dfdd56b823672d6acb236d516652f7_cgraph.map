@@ -1,8 +1,0 @@
-<map id="nfs_mkdir" name="nfs_mkdir">
-<area shape="rect" id="node2" href="$dcache_8c.html#a7b50883648fd69c385b8bac64314ce0c" title="d_drop" alt="" coords="187,31,249,57"/>
-<area shape="rect" id="node7" href="$fat_2dir_8c.html#a59ee3c6473393c9dde28f7c59e81446b" title="EXPORT_SYMBOL_GPL" alt="" coords="132,81,304,108"/>
-<area shape="rect" id="node3" href="$dcache_8c.html#ae4904480d16c7850ae6994e92d110f96" title="__d_drop" alt="" coords="352,5,427,32"/>
-<area shape="rect" id="node6" href="$dcache_8c.html#aeb5ec7bdf3301140d66dd18ae638685c" title="EXPORT_SYMBOL" alt="" coords="475,56,613,83"/>
-<area shape="rect" id="node4" href="$dcache_8c.html#afe7718ea6372af4edd41d375be2b7755" title="___d_drop" alt="" coords="503,5,585,32"/>
-<area shape="rect" id="node5" href="$dcache_8c.html#ad0da24b939325fb96de67394f99b2766" title="d_hash" alt="" coords="661,5,725,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ceph_sync_read" name="ceph_sync_read">
-<area shape="rect" id="node2" href="$ceph_2file_8c.html#ac4a607c0360b8421119da38b94380198" title="striped_read" alt="" coords="171,56,264,83"/>
-<area shape="rect" id="node3" href="$ceph_2super_8h.html#a5be186be86525c0059b447415c8f9667" title="ceph_inode_to_client" alt="" coords="312,5,456,32"/>
-<area shape="rect" id="node4" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="504,81,592,108"/>
-<area shape="rect" id="node5" href="$ceph_2super_8h.html#ab9776e3e695e4d6214fd8061a0ab43cb" title="ceph_vino" alt="" coords="343,107,425,133"/>
-</map>

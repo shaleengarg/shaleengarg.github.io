@@ -1,8 +1,0 @@
-<map id="romfs_dev_read" name="romfs_dev_read">
-<area shape="rect" id="node2" href="$romfs_2super_8c.html#aab1d79e6ad96094ac2a95222638434cc" title="romfs_readpage" alt="" coords="168,5,283,32"/>
-<area shape="rect" id="node3" href="$romfs_2super_8c.html#a4ca7b51cbcb25eccc19ddec4a42d9c71" title="romfs_readdir" alt="" coords="175,56,276,83"/>
-<area shape="rect" id="node4" href="$romfs_2super_8c.html#aa9d6b1b0741d4e99aaf923b5d1e7a584" title="romfs_lookup" alt="" coords="338,132,438,159"/>
-<area shape="rect" id="node5" href="$romfs_2super_8c.html#a103ed18522181d8e9e072a1786ae7484" title="romfs_iget" alt="" coords="184,157,267,184"/>
-<area shape="rect" id="node6" href="$romfs_2super_8c.html#af4063a2cd792bf52882639a125493eef" title="romfs_fill_super" alt="" coords="331,195,445,221"/>
-<area shape="rect" id="node7" href="$romfs_2super_8c.html#a3b45eff2c2ce9537e688794307543d72" title="romfs_mount" alt="" coords="493,195,592,221"/>
-</map>

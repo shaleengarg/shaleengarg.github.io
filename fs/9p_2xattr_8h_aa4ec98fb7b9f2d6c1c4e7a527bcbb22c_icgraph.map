@@ -1,5 +1,0 @@
-<map id="v9fs_xattr_get" name="v9fs_xattr_get">
-<area shape="rect" id="node2" href="$9p_2acl_8c.html#a2e3e4aa9cd422595673f33a0b527a4d5" title="v9fs_xattr_get_acl" alt="" coords="171,5,301,32"/>
-<area shape="rect" id="node3" href="$9p_2xattr_8h.html#afdb4ca2e2ab5275275bf51fa5a3354f5" title="v9fs_listxattr" alt="" coords="187,56,285,83"/>
-<area shape="rect" id="node4" href="$9p_2xattr_8c.html#ad91a9ff4d6067345a01553ce260b7b1b" title="v9fs_xattr_handler_get" alt="" coords="159,107,313,133"/>
-</map>

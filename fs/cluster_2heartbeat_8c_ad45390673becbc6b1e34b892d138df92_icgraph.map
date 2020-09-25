@@ -1,7 +1,0 @@
-<map id="o2hb_check_node_heartbeating_no_sem" name="o2hb_check_node_heartbeating_no_sem">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8h.html#ad45390673becbc6b1e34b892d138df92" title="o2hb_check_node_heartbeating\l_no_sem" alt="" coords="259,29,464,71"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#a7608a3970037514d207c376afe3190e4" title="dlm_query_join_handler" alt="" coords="512,66,671,93"/>
-<area shape="rect" id="node4" href="$dlmdomain_8c.html#adbe948e541ae35aec89e5c151f1beac6" title="dlm_register_net_handlers" alt="" coords="719,66,893,93"/>
-<area shape="rect" id="node5" href="$dlmdomain_8c.html#addbf35211d5ebd40c5524f13ab9b65c0" title="dlm_init" alt="" coords="941,66,1008,93"/>
-<area shape="rect" id="node6" href="$dlmdomain_8c.html#a3113f67c1f3d6ef0188e7b5bd9716e23" title="dlm_exit" alt="" coords="1056,66,1127,93"/>
-</map>

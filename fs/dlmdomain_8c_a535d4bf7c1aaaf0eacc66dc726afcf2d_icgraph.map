@@ -1,5 +1,0 @@
-<map id="dlm_no_joining_node" name="dlm_no_joining_node">
-<area shape="rect" id="node2" href="$dlmdomain_8c.html#a2fb8c95c298f507a3a4b675d3c5f8c0c" title="dlm_mark_domain_leaving" alt="" coords="196,5,372,32"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#aacb364555224210df2f23eb63808fe46" title="dlm_unregister_domain" alt="" coords="420,5,576,32"/>
-<area shape="rect" id="node4" href="$stack__o2cb_8c.html#aac5d658876cb3c17ae68bc77846d4ff2" title="o2cb_cluster_disconnect" alt="" coords="624,5,791,32"/>
-</map>

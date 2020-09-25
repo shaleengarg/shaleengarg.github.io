@@ -1,5 +1,0 @@
-<map id="ocfs2_control_do_down_msg" name="ocfs2_control_do_down_msg">
-<area shape="rect" id="node2" href="$stack__user_8c.html#a5d078e43deb77b0571c8ee93e816e7d3" title="ocfs2_control_get_handshake\l_state" alt="" coords="244,5,439,47"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#a2227918d5ef399c6208e4f8ec15782dd" title="ocfs2_control_send_down" alt="" coords="255,71,428,98"/>
-<area shape="rect" id="node4" href="$stack__user_8c.html#a51060f863b7ba6a80656625c2bb19300" title="ocfs2_connection_find" alt="" coords="487,71,639,98"/>
-</map>

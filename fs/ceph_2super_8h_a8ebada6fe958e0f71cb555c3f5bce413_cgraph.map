@@ -1,5 +1,0 @@
-<map id="ceph_inode_set_size" name="ceph_inode_set_size">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="243,5,331,32"/>
-<area shape="rect" id="node3" href="$ceph_2inode_8c.html#a23a864bbbf23f3534b42ebde7523b224" title="calc_inode_blocks" alt="" coords="223,56,352,83"/>
-<area shape="rect" id="node4" href="$caps_8c.html#a363ce909719906dbb051956f48f2544d" title="__ceph_should_report_size" alt="" coords="197,107,377,133"/>
-</map>

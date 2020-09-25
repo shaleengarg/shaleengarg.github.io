@@ -1,5 +1,0 @@
-<map id="ocfs2_cluster_hangup" name="ocfs2_cluster_hangup">
-<area shape="rect" id="node2" href="$stackglue_8c.html#ae07bbddade25e7c64251ba83bbb6af47" title="ocfs2_leave_group" alt="" coords="223,5,354,32"/>
-<area shape="rect" id="node3" href="$stackglue_8c.html#afbc5dcefe2414b9951e80b7c2b9d2c39" title="ocfs2_stack_driver_put" alt="" coords="210,56,367,83"/>
-<area shape="rect" id="node4" href="$stackglue_8c.html#a15052933b776705ee3821e1804f38e1f" title="EXPORT_SYMBOL_GPL" alt="" coords="203,107,375,133"/>
-</map>

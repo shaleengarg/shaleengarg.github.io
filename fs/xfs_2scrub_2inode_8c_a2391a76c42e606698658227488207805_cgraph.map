@@ -1,5 +1,0 @@
-<map id="xfs_scrub_inode_cowextsize" name="xfs_scrub_inode_cowextsize">
-<area shape="rect" id="node2" href="$xfs__inode__buf_8c.html#a96a6d15843e03079d0a45d48343db8eb" title="xfs_inode_validate\l_cowextsize" alt="" coords="266,5,397,47"/>
-<area shape="rect" id="node4" href="$common_8c.html#a2173ec856a38eea2665f72b48cb4484f" title="xfs_scrub_ino_set_corrupt" alt="" coords="244,71,419,98"/>
-<area shape="rect" id="node3" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="467,13,640,39"/>
-</map>

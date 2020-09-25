@@ -1,7 +1,0 @@
-<map id="nfs4_proc_setclientid" name="nfs4_proc_setclientid">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#a417357c616ab0ef0ee1cbc2159d52b1a" title="nfs4_init_boot_verifier" alt="" coords="203,5,353,32"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a6ef7ae74d00c26475a17cbc694a73a25" title="nfs4_init_uniform_client\l_string" alt="" coords="199,57,357,98"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#a9356fded9dd80c309cc209c9c074456d" title="nfs4_init_nonuniform\l_client_string" alt="" coords="207,122,349,163"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#a7ac52cc2a7bdc46cd5cb4c0ba56db5bf" title="nfs4_init_callback\l_netid" alt="" coords="215,187,341,229"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a2a2363cb0915924a9002a83d5fc711a3" title="nfs4_init_uniquifier\l_client_string" alt="" coords="405,57,536,98"/>
-</map>

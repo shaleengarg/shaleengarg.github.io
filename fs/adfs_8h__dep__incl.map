@@ -1,9 +1,0 @@
-<map id="adfs/adfs.h" name="adfs/adfs.h">
-<area shape="rect" id="node2" href="$adfs_2dir_8c.html" title="adfs/dir.c" alt="" coords="5,80,81,107"/>
-<area shape="rect" id="node3" href="$dir__f_8c.html" title="adfs/dir_f.c" alt="" coords="105,80,192,107"/>
-<area shape="rect" id="node4" href="$dir__fplus_8c.html" title="adfs/dir_fplus.c" alt="" coords="216,80,327,107"/>
-<area shape="rect" id="node5" href="$adfs_2file_8c.html" title="adfs/file.c" alt="" coords="351,80,429,107"/>
-<area shape="rect" id="node6" href="$adfs_2inode_8c.html" title="adfs/inode.c" alt="" coords="454,80,547,107"/>
-<area shape="rect" id="node7" href="$adfs_2map_8c.html" title="adfs/map.c" alt="" coords="572,80,659,107"/>
-<area shape="rect" id="node8" href="$adfs_2super_8c.html" title="adfs/super.c" alt="" coords="683,80,777,107"/>
-</map>

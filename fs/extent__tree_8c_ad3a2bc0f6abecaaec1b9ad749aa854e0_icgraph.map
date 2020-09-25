@@ -1,7 +1,0 @@
-<map id="ext_tree_first" name="ext_tree_first">
-<area shape="rect" id="node2" href="$extent__tree_8c.html#ab710f37417fdfc5aaab111508df5cd3d" title="ext_tree_encode_commit" alt="" coords="155,5,323,32"/>
-<area shape="rect" id="node5" href="$extent__tree_8c.html#a5bef134a36ad3e07747dfff349c657db" title="ext_tree_mark_committed" alt="" coords="152,56,325,83"/>
-<area shape="rect" id="node3" href="$extent__tree_8c.html#ae1694c1419c71668a011a0cb135cbb65" title="ext_tree_prepare_commit" alt="" coords="373,5,543,32"/>
-<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#aebcc6028ff1c75f1b0efbe30a8743d95" title="bl_prepare_layoutcommit" alt="" coords="591,5,757,32"/>
-<area shape="rect" id="node6" href="$blocklayout_2blocklayout_8c.html#a6fb268f610de24e1697f624288dc16ad" title="bl_cleanup_layoutcommit" alt="" coords="373,56,543,83"/>
-</map>

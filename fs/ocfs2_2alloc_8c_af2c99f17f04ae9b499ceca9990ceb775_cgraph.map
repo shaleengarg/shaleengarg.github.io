@@ -1,5 +1,0 @@
-<map id="ocfs2_extent_rec_contig" name="ocfs2_extent_rec_contig">
-<area shape="rect" id="node2" href="$ocfs2_2alloc_8c.html#a7cdda55f58d09d95a26f7e02b819666f" title="ocfs2_extents_adjacent" alt="" coords="217,5,377,32"/>
-<area shape="rect" id="node3" href="$ocfs2_2alloc_8c.html#af87e4e6dea85b9a3a07f3f007408ead8" title="ocfs2_block_extent\l_contig" alt="" coords="230,57,365,98"/>
-<area shape="rect" id="node4" href="$ocfs2_8h.html#ac2f56aa03d88002b636baddba9bee355" title="ocfs2_clusters_to_blocks" alt="" coords="425,64,596,91"/>
-</map>

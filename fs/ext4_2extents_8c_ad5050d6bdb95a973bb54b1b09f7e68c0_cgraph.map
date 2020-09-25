@@ -1,9 +1,0 @@
-<map id="ext4_ext_try_to_merge_right" name="ext4_ext_try_to_merge_right">
-<area shape="rect" id="node2" href="$ext4__extents_8h.html#acc4c0bbb9316350eac0184d408b07910" title="ext_depth" alt="" coords="253,5,331,32"/>
-<area shape="rect" id="node4" href="$ext4_2extents_8c.html#ac924ed6e7ec65e78150d57943ee85110" title="ext4_can_extents_be\l_merged" alt="" coords="219,107,365,149"/>
-<area shape="rect" id="node5" href="$ext4__extents_8h.html#a34786205ab7f44e45880b807bad94041" title="ext4_ext_is_unwritten" alt="" coords="431,60,580,87"/>
-<area shape="rect" id="node6" href="$ext4__extents_8h.html#a54c940ed94057b27143f08e7cb554864" title="ext4_ext_get_actual_len" alt="" coords="424,169,587,196"/>
-<area shape="rect" id="node8" href="$ext4__extents_8h.html#a0133597c17f9490e166ae372d0a0fdff" title="ext4_ext_mark_unwritten" alt="" coords="208,224,376,251"/>
-<area shape="rect" id="node3" href="$ext4__extents_8h.html#a8a07d83aa804e034e0c83e7d0eb26be5" title="ext_inode_hdr" alt="" coords="454,5,557,32"/>
-<area shape="rect" id="node7" href="$ext4__extents_8h.html#acced82c0f599b9be9515b06a3850c724" title="ext4_ext_pblock" alt="" coords="447,115,564,141"/>
-</map>

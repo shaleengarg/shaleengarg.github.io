@@ -1,7 +1,0 @@
-<map id="txResume" name="txResume">
-<area shape="rect" id="node2" href="$jfs_2super_8c.html#a6396d9d41e44b910a9a2cbf745f5b275" title="jfs_freeze" alt="" coords="283,5,362,32"/>
-<area shape="rect" id="node4" href="$jfs_2super_8c.html#a88c19060ef860b1139b773d595772caf" title="jfs_unfreeze" alt="" coords="136,56,229,83"/>
-<area shape="rect" id="node5" href="$jfs_2resize_8c.html#ad613ea07103a85b96bec4ff8846bb447" title="jfs_extendfs" alt="" coords="136,107,229,133"/>
-<area shape="rect" id="node3" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="416,56,539,83"/>
-<area shape="rect" id="node6" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="277,107,368,133"/>
-</map>

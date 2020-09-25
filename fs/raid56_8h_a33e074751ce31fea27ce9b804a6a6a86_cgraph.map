@@ -1,7 +1,0 @@
-<map id="btrfs_free_stripe_hash_table" name="btrfs_free_stripe_hash_table">
-<area shape="rect" id="node2" href="$raid56_8c.html#a68d86a995fa722bd0baca23184c917c6" title="btrfs_clear_rbio_cache" alt="" coords="204,31,357,57"/>
-<area shape="rect" id="node3" href="$raid56_8c.html#a2e2e1990f914392d351d468c8ed1a719" title="__remove_rbio_from\l_cache" alt="" coords="405,23,545,65"/>
-<area shape="rect" id="node4" href="$raid56_8c.html#ae9cfc028b2be955fd7c00bc10a91078a" title="rbio_bucket" alt="" coords="604,5,693,32"/>
-<area shape="rect" id="node5" href="$raid56_8c.html#a6aea58f4d228e7ca2f9a7ec523a1659f" title="__free_raid_bio" alt="" coords="593,56,704,83"/>
-<area shape="rect" id="node6" href="$volumes_8c.html#a2b27c3f73a9f1490121abcde8ab4b319" title="btrfs_put_bbio" alt="" coords="752,56,856,83"/>
-</map>

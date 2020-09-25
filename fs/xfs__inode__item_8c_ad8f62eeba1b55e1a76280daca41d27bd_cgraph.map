@@ -1,8 +1,0 @@
-<map id="xfs_inode_item_unlock" name="xfs_inode_item_unlock">
-<area shape="rect" id="node2" href="$xfs__inode__item_8c.html#acce610cc62768d30a26093741775da50" title="INODE_ITEM" alt="" coords="208,5,312,32"/>
-<area shape="rect" id="node3" href="$xfs__inode_8h.html#aedaa832cc1400d56df37c13d30163c98" title="xfs_isilocked" alt="" coords="211,56,309,83"/>
-<area shape="rect" id="node4" href="$xfs__inode_8c.html#a4650d4a5d4569e1dc53011f041fdd5e7" title="xfs_iunlock" alt="" coords="216,107,304,133"/>
-<area shape="rect" id="node5" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="391,56,450,83"/>
-<area shape="rect" id="node6" href="$mrlock_8h.html#aa69de408e4df2ae674775f2214e26fcc" title="mrunlock_excl" alt="" coords="367,107,474,133"/>
-<area shape="rect" id="node7" href="$mrlock_8h.html#a7ef2a20fefba2503eccde268d2ddfc39" title="mrunlock_shared" alt="" coords="360,157,481,184"/>
-</map>

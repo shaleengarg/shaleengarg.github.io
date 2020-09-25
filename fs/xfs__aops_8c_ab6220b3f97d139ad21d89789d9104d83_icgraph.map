@@ -1,5 +1,0 @@
-<map id="xfs_get_blocks" name="xfs_get_blocks">
-<area shape="rect" id="node2" href="$xfs__aops_8c.html#a2c85c362ccd4272cc943ff2c79f652cf" title="xfs_vm_bmap" alt="" coords="178,5,282,32"/>
-<area shape="rect" id="node3" href="$xfs__aops_8c.html#a8bee647664c36c12c65958879ce13e1c" title="xfs_vm_readpage" alt="" coords="167,56,293,83"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#a42ec0d98f3cc536389f9ed184b79d1e1" title="xfs_vm_readpages" alt="" coords="164,107,296,133"/>
-</map>

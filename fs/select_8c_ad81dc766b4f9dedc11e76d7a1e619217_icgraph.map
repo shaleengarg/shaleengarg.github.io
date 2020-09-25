@@ -1,6 +1,0 @@
-<map id="core_sys_select" name="core_sys_select">
-<area shape="rect" id="node2" href="$select_8c.html#aee2fd10ee5ce1bfad7559e5476718a67" title="kern_select" alt="" coords="171,5,260,32"/>
-<area shape="rect" id="node5" href="$select_8c.html#a7a4c03c4dae89028dcb09aecd30e247e" title="do_pselect" alt="" coords="173,56,258,83"/>
-<area shape="rect" id="node3" href="$select_8c.html#a2ee66e318d48b019e140f5524c322fdd" title="SYSCALL_DEFINE5" alt="" coords="308,5,455,32"/>
-<area shape="rect" id="node4" href="$select_8c.html#a6775938e4a7949205880bdf2c3ffbf13" title="SYSCALL_DEFINE6" alt="" coords="308,56,455,83"/>
-</map>

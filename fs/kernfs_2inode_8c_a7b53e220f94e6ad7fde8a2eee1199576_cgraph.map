@@ -1,5 +1,0 @@
-<map id="kernfs_setattr" name="kernfs_setattr">
-<area shape="rect" id="node2" href="$kernfs_2inode_8c.html#a3e26039a7da11a6615e71a58b94431f5" title="__kernfs_setattr" alt="" coords="156,5,272,32"/>
-<area shape="rect" id="node3" href="$kernfs_2inode_8c.html#aa9f3eff59b54ec6854ecbc6408b5449a" title="kernfs_iattrs" alt="" coords="320,5,415,32"/>
-<area shape="rect" id="node4" href="$fuse_2inode_8c.html#a8100df689e875199c8f3f3412be1ea2b" title="DEFINE_MUTEX" alt="" coords="463,5,589,32"/>
-</map>

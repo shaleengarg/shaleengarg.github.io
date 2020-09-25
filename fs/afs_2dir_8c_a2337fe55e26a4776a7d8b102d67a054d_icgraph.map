@@ -1,8 +1,0 @@
-<map id="afs_dir_iterate_block" name="afs_dir_iterate_block">
-<area shape="rect" id="node2" href="$afs_2dir_8c.html#a11f2e1e37497dbeefb5257a38a15c399" title="afs_dir_iterate" alt="" coords="196,56,300,83"/>
-<area shape="rect" id="node3" href="$afs_2dir_8c.html#ad7d74671f4495a646aea47ee84ca89d7" title="afs_readdir" alt="" coords="372,5,459,32"/>
-<area shape="rect" id="node4" href="$afs_2dir_8c.html#a1bc2b9d02539f4fd00a03ce933e6418c" title="afs_do_lookup_one" alt="" coords="348,56,483,83"/>
-<area shape="rect" id="node6" href="$afs_2dir_8c.html#a173d15a3ee04f912be6e1ca5e865d75a" title="afs_do_lookup" alt="" coords="362,107,469,133"/>
-<area shape="rect" id="node5" href="$afs_2dir_8c.html#ace722f78ca5b1886f97744c8f35a0913" title="afs_d_revalidate" alt="" coords="531,56,648,83"/>
-<area shape="rect" id="node7" href="$afs_2dir_8c.html#a6b3edbd1d9d4b2ee14ea511c9ab4a86a" title="afs_lookup" alt="" coords="547,107,632,133"/>
-</map>

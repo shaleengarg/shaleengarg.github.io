@@ -1,7 +1,0 @@
-<map id="smb2_check_receive" name="smb2_check_receive">
-<area shape="rect" id="node2" href="$cifs__debug_8h.html#af878413dc6fbc23c7751999f6c851f05" title="dump_smb" alt="" coords="241,5,327,32"/>
-<area shape="rect" id="node3" href="$smb2transport_8c.html#a23ea18fb44f022d5a16b3fee3ffbbf7e" title="smb2_verify_signature" alt="" coords="207,56,361,83"/>
-<area shape="rect" id="node4" href="$smb2maperror_8c.html#a1e95bba457a611d96262d10cf7cdff9e" title="map_smb2_to_linux_error" alt="" coords="199,107,369,133"/>
-<area shape="rect" id="node5" href="$smb2glob_8h.html#a95909fe75fb97ee67281d6ee12d3f0be" title="get_sync_hdr" alt="" coords="432,81,532,108"/>
-<area shape="rect" id="node6" href="$smb2maperror_8c.html#a652a8444be2bdafd00bce4421353e6b7" title="smb2_print_status" alt="" coords="417,132,547,159"/>
-</map>

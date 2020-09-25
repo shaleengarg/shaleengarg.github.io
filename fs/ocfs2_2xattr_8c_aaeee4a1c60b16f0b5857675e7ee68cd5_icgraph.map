@@ -1,7 +1,0 @@
-<map id="ocfs2_xa_get_free_start" name="ocfs2_xa_get_free_start">
-<area shape="rect" id="node2" href="$ocfs2_2xattr_8c.html#ae233f2e8af2ea6001644330e9e7670dc" title="ocfs2_xa_block_check\l_space" alt="" coords="220,5,375,47"/>
-<area shape="rect" id="node3" href="$ocfs2_2xattr_8c.html#a844328cd6abe2ed74af564f50ab2c189" title="ocfs2_xa_block_wipe\l_namevalue" alt="" coords="224,71,371,112"/>
-<area shape="rect" id="node4" href="$ocfs2_2xattr_8c.html#a48d167d142ce32e54ab9b1005cc4adef" title="ocfs2_xa_block_add\l_namevalue" alt="" coords="227,136,368,177"/>
-<area shape="rect" id="node5" href="$ocfs2_2xattr_8c.html#a9404bc69eba0414feaef09f1c4e4973b" title="ocfs2_xa_bucket_check\l_space" alt="" coords="216,201,379,243"/>
-<area shape="rect" id="node6" href="$ocfs2_2xattr_8c.html#ab137bd6ca5a5d9014994f9dffcb6f087" title="ocfs2_xa_bucket_add\l_namevalue" alt="" coords="223,267,372,308"/>
-</map>

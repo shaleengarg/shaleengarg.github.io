@@ -1,5 +1,0 @@
-<map id="xfs_ioctl_setattr_check_projid" name="xfs_ioctl_setattr_check_projid">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#a9c6ba0240584fecab238fad197fe242c" title="xfs_sb_version_hasprojid32bit" alt="" coords="211,5,408,32"/>
-<area shape="rect" id="node4" href="$xfs__inode_8h.html#a4b7891052fc2fd26bbf6ca9df0b72b46" title="xfs_get_projid" alt="" coords="258,56,361,83"/>
-<area shape="rect" id="node3" href="$xfs__format_8h.html#a7e23323ec0e631b683e2d7461748d07f" title="xfs_sb_version_hasmorebits" alt="" coords="456,5,644,32"/>
-</map>

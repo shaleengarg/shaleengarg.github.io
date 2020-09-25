@@ -1,9 +1,0 @@
-<map id="xfs_scrub_xref_is_not_owned_by" name="xfs_scrub_xref_is_not_owned_by">
-<area shape="rect" id="node2" href="$xfs_2scrub_2ialloc_8c.html#a966eef77f7af9f9ffc5a3d55152a87ec" title="xfs_scrub_iallocbt\l_check_freemask" alt="" coords="204,23,331,65"/>
-<area shape="rect" id="node7" href="$scrub_8h.html#aceb5d59c9b9b925f47590887d84de7b6" title="xfs_scrub_quota" alt="" coords="208,89,327,116"/>
-<area shape="rect" id="node3" href="$xfs_2scrub_2ialloc_8c.html#a5601bb4bd0a59d84b42cf8736b2b4739" title="xfs_scrub_iallocbt_rec" alt="" coords="379,31,531,57"/>
-<area shape="rect" id="node4" href="$xfs_2scrub_2ialloc_8c.html#a0a6de0fa29a73afd7a80e889c62f35f3" title="xfs_scrub_iallocbt" alt="" coords="579,31,705,57"/>
-<area shape="rect" id="node5" href="$scrub_8h.html#a95f52c8d990cdb0729b17a8d1c35cab8" title="xfs_scrub_inobt" alt="" coords="755,5,870,32"/>
-<area shape="rect" id="node6" href="$scrub_8h.html#a613e9f760a610926a45613a16be2ea84" title="xfs_scrub_finobt" alt="" coords="753,56,872,83"/>
-<area shape="rect" id="node8" href="$scrub_8h.html#a5d8b096bf6bf4172f95615819219b147" title="xfs_scrub_rtsummary" alt="" coords="381,89,529,116"/>
-</map>

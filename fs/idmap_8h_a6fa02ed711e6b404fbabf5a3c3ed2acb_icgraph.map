@@ -1,7 +1,0 @@
-<map id="nfsd_map_name_to_uid" name="nfsd_map_name_to_uid">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#ae011b54e6a26d28b64b9aa874fefcb09" title="nfsd4_decode_fattr" alt="" coords="223,56,356,83"/>
-<area shape="rect" id="node6" href="$idmap_8h.html#ac9ecbc3b19f42e01718acc0aba6e2349" title="nfsd_idmap_shutdown" alt="" coords="213,107,365,133"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a3ec28e30cf11ca396dc4cd630e67db52" title="nfsd4_decode_create" alt="" coords="413,5,560,32"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="417,56,556,83"/>
-<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a609e33f86d5cd41e6feb373a08789242" title="nfsd4_decode_setattr" alt="" coords="413,107,560,133"/>
-</map>

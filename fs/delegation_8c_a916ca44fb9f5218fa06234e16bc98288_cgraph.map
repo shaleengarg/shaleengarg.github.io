@@ -1,6 +1,0 @@
-<map id="nfs_delegation_find_inode" name="nfs_delegation_find_inode">
-<area shape="rect" id="node2" href="$delegation_8c.html#ade85c087f9ede6bf8690354a9deb054f" title="nfs_delegation_find\l_inode_server" alt="" coords="188,23,323,65"/>
-<area shape="rect" id="node3" href="$inode_8c.html#ad2a7d900c04745e54c8d2f3847922a59" title="igrab" alt="" coords="371,31,421,57"/>
-<area shape="rect" id="node4" href="$inode_8c.html#ab5747108c3d9a3f113b72a10a9be6a2f" title="__iget" alt="" coords="510,5,567,32"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="469,56,608,83"/>
-</map>

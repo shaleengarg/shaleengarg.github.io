@@ -1,7 +1,0 @@
-<map id="iomap_page_mkwrite" name="iomap_page_mkwrite">
-<area shape="rect" id="node2" href="$xfs__file_8c.html#a36fd3b5c559b62599737c838cc1968d9" title="__xfs_filemap_fault" alt="" coords="199,81,333,108"/>
-<area shape="rect" id="node3" href="$xfs__file_8c.html#ad2ab3c67c01d4716f726e0f8d9416767" title="xfs_filemap_fault" alt="" coords="409,5,531,32"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a69ea6c453918b5a71768203d86b5186c" title="xfs_filemap_pfn_mkwrite" alt="" coords="607,81,773,108"/>
-<area shape="rect" id="node5" href="$xfs__file_8c.html#aec1f1d550d880e0c0fa1f84c7a1d9f89" title="xfs_filemap_huge_fault" alt="" coords="392,107,548,133"/>
-<area shape="rect" id="node6" href="$xfs__file_8c.html#afbfc010c19d9cf4055cf86118d245124" title="xfs_filemap_page_mkwrite" alt="" coords="381,157,559,184"/>
-</map>

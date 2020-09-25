@@ -1,6 +1,0 @@
-<map id="fanotify_add_new_mark" name="fanotify_add_new_mark">
-<area shape="rect" id="node2" href="$fanotify__user_8c.html#aad5db845e5655c8761edf5780057a2e3" title="fanotify_add_vfsmount_mark" alt="" coords="213,5,404,32"/>
-<area shape="rect" id="node5" href="$fanotify__user_8c.html#aeeae99010f769ac09712e7c22b379adb" title="fanotify_add_inode_mark" alt="" coords="225,56,392,83"/>
-<area shape="rect" id="node3" href="$fanotify__user_8c.html#ab0738200dd1a8c6a7422f0a9e0225dd7" title="do_fanotify_mark" alt="" coords="452,31,575,57"/>
-<area shape="rect" id="node4" href="$fanotify__user_8c.html#a2e07a04f785fa6755807729e3278b35b" title="SYSCALL_DEFINE5" alt="" coords="623,31,769,57"/>
-</map>

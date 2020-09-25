@@ -1,6 +1,0 @@
-<map id="ext2_write_super" name="ext2_write_super">
-<area shape="rect" id="node2" href="$ext2_2super_8c.html#acf183b71385839ffbeda64c3dd3b303e" title="ext2_fill_super" alt="" coords="175,5,281,32"/>
-<area shape="rect" id="node4" href="$ext2_2super_8c.html#a16a63ac7c4ba20667996f11e0a0bf6e5" title="ext2_unfreeze" alt="" coords="176,56,280,83"/>
-<area shape="rect" id="node5" href="$ext2_2super_8c.html#aaf2091e93d8c2dfd03a66bbb0c8e487a" title="ext2_remount" alt="" coords="177,107,279,133"/>
-<area shape="rect" id="node3" href="$ext2_2super_8c.html#aee12f84983230d4124b17813aec7ea04" title="ext2_mount" alt="" coords="329,5,420,32"/>
-</map>

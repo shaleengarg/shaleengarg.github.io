@@ -1,9 +1,0 @@
-<map id="rubin_do_compress" name="rubin_do_compress">
-<area shape="rect" id="node2" href="$compr__rubin_8c.html#acd49d859a60779e52df14acea427d483" title="init_pushpull" alt="" coords="188,5,283,32"/>
-<area shape="rect" id="node3" href="$compr__rubin_8c.html#aa5ea458074cc96602c5328d018cdf827" title="init_rubin" alt="" coords="198,56,273,83"/>
-<area shape="rect" id="node4" href="$compr__rubin_8c.html#abdb918b99b020ecd64401194e2e083d1" title="out_byte" alt="" coords="199,107,271,133"/>
-<area shape="rect" id="node7" href="$compr__rubin_8c.html#af7661b8e21f040d50f2de5b990464ea1" title="end_rubin" alt="" coords="331,157,409,184"/>
-<area shape="rect" id="node8" href="$compr__rubin_8c.html#a37d5d9157472c7a8f114c2aebab93bd1" title="pushedbits" alt="" coords="193,208,278,235"/>
-<area shape="rect" id="node5" href="$compr__rubin_8c.html#a77da30e493d3399cae668ac1d0175646" title="encode" alt="" coords="338,107,402,133"/>
-<area shape="rect" id="node6" href="$compr__rubin_8c.html#a8556d7f3912d4ca8a1afd4bbad632367" title="pushbit" alt="" coords="457,132,521,159"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="smbd_recv_buf" name="smbd_recv_buf">
-<area shape="rect" id="node2" href="$smbdirect_8c.html#a6f38d72097e288b2550b512d6276394e" title="_get_first_reassembly" alt="" coords="172,5,323,32"/>
-<area shape="rect" id="node3" href="$smbdirect_8c.html#acb0d5f5e37506f77fd783e3072c8f106" title="smbd_response_payload" alt="" coords="164,56,331,83"/>
-<area shape="rect" id="node4" href="$smbdirect_8c.html#ac2865064677aabc8e3435f63af13c644" title="put_receive_buffer" alt="" coords="183,107,312,133"/>
-</map>

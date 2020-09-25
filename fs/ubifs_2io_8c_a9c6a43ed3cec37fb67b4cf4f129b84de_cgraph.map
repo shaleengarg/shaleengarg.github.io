@@ -1,5 +1,0 @@
-<map id="ubifs_wbuf_init" name="ubifs_wbuf_init">
-<area shape="rect" id="node2" href="$ubifs_2io_8c.html#a2d558cd61ed553bd7e3fb4048ccdada4" title="wbuf_timer_callback\l_nolock" alt="" coords="163,23,304,65"/>
-<area shape="rect" id="node3" href="$ubifs_2debug_8c.html#addcdbd9bce6753254851d6058f6de726" title="dbg_jhead" alt="" coords="379,5,460,32"/>
-<area shape="rect" id="node4" href="$misc_8h.html#adb074744f746423579a917e286726a65" title="ubifs_wake_up_bgt" alt="" coords="352,56,487,83"/>
-</map>

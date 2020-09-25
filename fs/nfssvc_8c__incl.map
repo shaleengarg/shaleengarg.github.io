@@ -1,9 +1,0 @@
-<map id="nfsd/nfssvc.c" name="nfsd/nfssvc.c">
-<area shape="rect" id="node17" href="$nfsd_8h.html" title="nfsd.h" alt="" coords="2165,155,2223,181"/>
-<area shape="rect" id="node32" href="$nfsd_2cache_8h.html" title="cache.h" alt="" coords="2553,155,2621,181"/>
-<area shape="rect" id="node33" href="$vfs_8h.html" title="vfs.h" alt="" coords="2182,80,2233,107"/>
-<area shape="rect" id="node38" href="$nfsd_2netns_8h.html" title="netns.h" alt="" coords="2041,80,2107,107"/>
-<area shape="rect" id="node27" href="$stats_8h.html" title="stats.h" alt="" coords="2296,229,2359,256"/>
-<area shape="rect" id="node29" href="$nfsd_2export_8h.html" title="export.h" alt="" coords="1837,229,1906,256"/>
-<area shape="rect" id="node34" href="$nfsfh_8h.html" title="nfsfh.h" alt="" coords="2797,155,2860,181"/>
-</map>

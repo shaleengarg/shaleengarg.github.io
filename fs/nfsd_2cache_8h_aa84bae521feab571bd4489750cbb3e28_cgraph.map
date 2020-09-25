@@ -1,6 +1,0 @@
-<map id="nfsd_reply_cache_init" name="nfsd_reply_cache_init">
-<area shape="rect" id="node2" href="$nfscache_8c.html#a124eab911943db37f82a4fba30299cab" title="nfsd_cache_size_limit" alt="" coords="219,5,370,32"/>
-<area shape="rect" id="node3" href="$nfscache_8c.html#afa46f163ee76de8f247b155cf854f04b" title="nfsd_hashsize" alt="" coords="241,56,348,83"/>
-<area shape="rect" id="node4" href="$nfscache_8c.html#ae26ce288c62d19cd0e0427720f6e7343" title="nfsd_reply_cache_shutdown" alt="" coords="201,107,388,133"/>
-<area shape="rect" id="node5" href="$nfscache_8c.html#acf44ec813982dcabebfb515edd22df9b" title="nfsd_reply_cache_free\l_locked" alt="" coords="436,99,589,141"/>
-</map>

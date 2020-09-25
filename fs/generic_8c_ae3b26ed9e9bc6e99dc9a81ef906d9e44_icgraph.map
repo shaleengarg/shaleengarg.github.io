@@ -1,8 +1,0 @@
-<map id="proc_symlink" name="proc_symlink">
-<area shape="rect" id="node2" href="$proc_2root_8c.html#a6ec4e514557ae5cd161e3b828bf3e0e3" title="proc_root_init" alt="" coords="335,5,435,32"/>
-<area shape="rect" id="node3" href="$nfs_2internal_8h.html#af66937214a851f3a5a82b83a4707c795" title="nfs_clients_init" alt="" coords="159,81,269,108"/>
-<area shape="rect" id="node5" href="$proc__net_8c.html#a1044f7368d10382d01a40e34bdf820e2" title="proc_net_init" alt="" coords="166,31,262,57"/>
-<area shape="rect" id="node6" href="$xfs__stats_8h.html#a332b2c13e84ce06848a1568a7b315e02" title="xfs_stats_clearall" alt="" coords="152,132,276,159"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a10f531049a981eae2ae80866bec66b7d" title="nfs_net_init" alt="" coords="341,81,430,108"/>
-<area shape="rect" id="node7" href="$xfs__sysfs_8c.html#a757d504c908b3242aa89c42a8fd9b3a7" title="stats_clear_store" alt="" coords="324,132,447,159"/>
-</map>

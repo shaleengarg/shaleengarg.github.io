@@ -1,8 +1,0 @@
-<map id="init_rubin" name="init_rubin">
-<area shape="rect" id="node2" href="$compr__rubin_8c.html#ace0418fe1feb8a8af3b213b4f2508b02" title="init_decode" alt="" coords="151,31,239,57"/>
-<area shape="rect" id="node6" href="$compr__rubin_8c.html#ac6966657765c460172c037e69400e0b5" title="rubin_do_compress" alt="" coords="128,81,263,108"/>
-<area shape="rect" id="node3" href="$compr__rubin_8c.html#a5ec3f2d8c72252863b38172ed8fbe9ca" title="rubin_do_decompress" alt="" coords="319,31,469,57"/>
-<area shape="rect" id="node4" href="$compr__rubin_8c.html#a97817029664aab1bf0bad823905d2572" title="jffs2_rubinmips_decompress" alt="" coords="525,5,713,32"/>
-<area shape="rect" id="node5" href="$compr__rubin_8c.html#a7a7b418660e36d189b9a5f82f847ecc2" title="jffs2_dynrubin_decompress" alt="" coords="529,56,710,83"/>
-<area shape="rect" id="node7" href="$compr__rubin_8c.html#af420a1f6b20ba3f68292c5a733785e3e" title="jffs2_dynrubin_compress" alt="" coords="311,81,477,108"/>
-</map>

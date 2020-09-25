@@ -1,5 +1,0 @@
-<map id="writepages_done" name="writepages_done">
-<area shape="rect" id="node2" href="$exofs_2inode_8c.html#aaf1dd5e37dfea43245d0ca9830c103de" title="write_exec" alt="" coords="173,31,259,57"/>
-<area shape="rect" id="node3" href="$exofs_2inode_8c.html#ab1586c4aae1eb4a824ee9198300ccc35" title="writepage_strip" alt="" coords="307,5,417,32"/>
-<area shape="rect" id="node4" href="$exofs_2inode_8c.html#af6e5ea8f08ec9491b3837fb30fe574fe" title="exofs_writepages" alt="" coords="465,31,589,57"/>
-</map>

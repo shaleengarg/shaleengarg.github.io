@@ -1,7 +1,0 @@
-<map id="exofs_find_entry" name="exofs_find_entry">
-<area shape="rect" id="node2" href="$exofs_8h.html#adb1971506c2a44eb3e80c50fd17c9877" title="exofs_inode_by_name" alt="" coords="172,5,324,32"/>
-<area shape="rect" id="node4" href="$exofs_2namei_8c.html#a8478d4f959bd23111a24c76681e2b83f" title="exofs_unlink" alt="" coords="201,56,295,83"/>
-<area shape="rect" id="node6" href="$exofs_2namei_8c.html#a0ee41dd79deebf33f1fe543a7a0958f8" title="exofs_rename" alt="" coords="196,107,300,133"/>
-<area shape="rect" id="node3" href="$exofs_2namei_8c.html#ac0aaab0616b43c0334d073e0a1ffdd30" title="exofs_lookup" alt="" coords="372,5,471,32"/>
-<area shape="rect" id="node5" href="$exofs_2namei_8c.html#a102a8b04aa5b8596321a439bffe99869" title="exofs_rmdir" alt="" coords="376,56,467,83"/>
-</map>

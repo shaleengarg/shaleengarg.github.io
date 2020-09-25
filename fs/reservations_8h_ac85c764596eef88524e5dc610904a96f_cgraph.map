@@ -1,7 +1,0 @@
-<map id="ocfs2_resmap_restart" name="ocfs2_resmap_restart">
-<area shape="rect" id="node2" href="$reservations_8c.html#a4b71987d7ee9bcb957d109055b907819" title="ocfs2_resmap_disabled" alt="" coords="201,5,360,32"/>
-<area shape="rect" id="node3" href="$reservations_8c.html#a8a69589f03bcb9f942d111965d516615" title="ocfs2_resmap_clear\l_all_resv" alt="" coords="211,57,350,98"/>
-<area shape="rect" id="node4" href="$reservations_8c.html#a0da735688415da618d04088d007ed3fd" title="__ocfs2_resv_discard" alt="" coords="408,64,557,91"/>
-<area shape="rect" id="node5" href="$reservations_8c.html#afc2501da576b092a84651df700053a0b" title="__ocfs2_resv_trunc" alt="" coords="605,39,741,65"/>
-<area shape="rect" id="node6" href="$reservations_8c.html#af42930a575c5c3f0ccbce557b52fda2f" title="ocfs2_resv_remove" alt="" coords="605,89,741,116"/>
-</map>

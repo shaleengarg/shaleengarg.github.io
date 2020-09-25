@@ -1,5 +1,0 @@
-<map id="nfs4_do_unlck" name="nfs4_do_unlck">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#ae7e995a0d3fd9ef5c548c8ef56400e27" title="nfs4_proc_unlck" alt="" coords="165,5,282,32"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a660717e6215e67320738e4e5cb9e289b" title="nfs4_lock_release" alt="" coords="160,56,287,83"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#adb7edeaa238f3204ca5791796599b309" title="nfs4_proc_lock" alt="" coords="335,5,445,32"/>
-</map>

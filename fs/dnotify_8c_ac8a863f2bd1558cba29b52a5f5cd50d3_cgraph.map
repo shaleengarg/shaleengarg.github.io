@@ -1,6 +1,0 @@
-<map id="dnotify_recalc_inode_mask" name="dnotify_recalc_inode_mask">
-<area shape="rect" id="node2" href="$mark_8c.html#ababf71c7ec915b658e782d6a44d0a298" title="fsnotify_recalc_mask" alt="" coords="233,35,380,61"/>
-<area shape="rect" id="node3" href="$mark_8c.html#acb90d9f4d1bdd3963bd0c72f885bbf08" title="__fsnotify_recalc_mask" alt="" coords="428,5,588,32"/>
-<area shape="rect" id="node5" href="$fsnotify_8c.html#a381b619a4feb9289789bf72870a83811" title="__fsnotify_update_child\l_dentry_flags" alt="" coords="429,57,587,98"/>
-<area shape="rect" id="node4" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="636,5,723,32"/>
-</map>

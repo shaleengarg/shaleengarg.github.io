@@ -1,8 +1,0 @@
-<map id="autofs_dev_ioctl_catatonic" name="autofs_dev_ioctl_catatonic">
-<area shape="rect" id="node2" href="$dev-ioctl_8c.html#a0c16ae9f8eb43a9feb9bd4d0bc0eda5f" title="lookup_dev_ioctl" alt="" coords="231,31,349,57"/>
-<area shape="rect" id="node3" href="$dev-ioctl_8c.html#a37310baaef7cd474b06beb78966bd794" title="_autofs_dev_ioctl" alt="" coords="397,31,521,57"/>
-<area shape="rect" id="node4" href="$dev-ioctl_8c.html#a2b7e82ce3e1444de3fbacaffc5af1fbe" title="autofs_dev_ioctl" alt="" coords="569,5,687,32"/>
-<area shape="rect" id="node5" href="$dev-ioctl_8c.html#aa4985777d57507d07be423fa220b9189" title="check_dev_ioctl_version" alt="" coords="735,5,900,32"/>
-<area shape="rect" id="node7" href="$dev-ioctl_8c.html#a14cde5a19367052a7b348817212a1c78" title="copy_dev_ioctl" alt="" coords="763,56,872,83"/>
-<area shape="rect" id="node6" href="$dev-ioctl_8c.html#a54da6ea4e9299e3643d1d37f284b4ed8" title="validate_dev_ioctl" alt="" coords="948,56,1075,83"/>
-</map>

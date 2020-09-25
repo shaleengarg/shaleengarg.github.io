@@ -1,9 +1,0 @@
-<map id="nfs_free_server" name="nfs_free_server">
-<area shape="rect" id="node2" href="$client_8c.html#a37e6ce08f86e4c2d22fb1cb5945b4170" title="nfs_server_remove_lists" alt="" coords="325,56,489,82"/>
-<area shape="rect" id="node3" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="540,106,712,133"/>
-<area shape="rect" id="node4" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="356,232,459,258"/>
-<area shape="rect" id="node6" href="$iostat_8h.html#a940b0a654d278e267bba3d5b60de46f0" title="nfs_free_iostats" alt="" coords="350,106,465,133"/>
-<area shape="rect" id="node7" href="$nfs_2namespace_8c.html#a6c2be83b710292b2760a348814eb033a" title="nfs_release_automount\l_timer" alt="" coords="329,283,486,324"/>
-<area shape="rect" id="node8" href="$client_8c.html#a018ec0f52c2d5038cfb4fbe85480bc0a" title="nfs_free_server" alt="" coords="165,181,277,208"/>
-<area shape="rect" id="node5" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="537,232,715,258"/>
-</map>

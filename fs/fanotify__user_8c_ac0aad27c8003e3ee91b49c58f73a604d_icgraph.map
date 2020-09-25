@@ -1,6 +1,0 @@
-<map id="fanotify_mark_remove_from_mask" name="fanotify_mark_remove_from_mask">
-<area shape="rect" id="node2" href="$fanotify__user_8c.html#ac239e4ee36bcd3ef919e1e3d98273632" title="fanotify_remove_vfsmount_mark" alt="" coords="204,5,416,32"/>
-<area shape="rect" id="node5" href="$fanotify__user_8c.html#aa2b43f64f50841b131622d8e1ec79998" title="fanotify_remove_inode_mark" alt="" coords="215,56,405,83"/>
-<area shape="rect" id="node3" href="$fanotify__user_8c.html#ab0738200dd1a8c6a7422f0a9e0225dd7" title="do_fanotify_mark" alt="" coords="464,31,587,57"/>
-<area shape="rect" id="node4" href="$fanotify__user_8c.html#a2e07a04f785fa6755807729e3278b35b" title="SYSCALL_DEFINE5" alt="" coords="635,31,781,57"/>
-</map>

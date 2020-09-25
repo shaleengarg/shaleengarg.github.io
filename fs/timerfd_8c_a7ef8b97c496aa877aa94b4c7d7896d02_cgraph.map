@@ -1,7 +1,0 @@
-<map id="timerfd_setup" name="timerfd_setup">
-<area shape="rect" id="node2" href="$timerfd_8c.html#a03d04798a30d6c89919f54645cdae3d5" title="isalarm" alt="" coords="186,5,250,32"/>
-<area shape="rect" id="node3" href="$timerfd_8c.html#a8d2081d176a79045f67b36b6931c0420" title="timerfd_alarmproc" alt="" coords="155,56,281,83"/>
-<area shape="rect" id="node5" href="$timerfd_8c.html#af968d922002f186dd0d5e5f109901a11" title="timerfd_tmrproc" alt="" coords="161,107,275,133"/>
-<area shape="rect" id="node6" href="$timerfd_8c.html#a86f23d0b10dfbe2cee27cb4ce5876475" title="timerfd_canceled" alt="" coords="157,157,279,184"/>
-<area shape="rect" id="node4" href="$timerfd_8c.html#a5ae80ea6a796bb0051b1dd675686c781" title="timerfd_triggered" alt="" coords="329,81,448,108"/>
-</map>

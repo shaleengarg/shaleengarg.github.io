@@ -1,8 +1,0 @@
-<map id="kernfs_drain" name="kernfs_drain">
-<area shape="rect" id="node2" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="183,5,269,32"/>
-<area shape="rect" id="node3" href="$kernfs_2dir_8c.html#a1ec4cfdb172541809c1aa2517b005b6e" title="kernfs_active" alt="" coords="176,56,276,83"/>
-<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#a11cf3bfb36050dd88b5c5b271164f527" title="kernfs_lockdep" alt="" coords="171,107,281,133"/>
-<area shape="rect" id="node5" href="$kernfs_2file_8c.html#a92ee2b578e3ad2cb7fc3403bcbfa7440" title="kernfs_drain_open_files" alt="" coords="147,157,305,184"/>
-<area shape="rect" id="node6" href="$kernfs_2file_8c.html#a10feb2b0255f9a9fbb140c3c288f1265" title="kernfs_release_file" alt="" coords="365,132,495,159"/>
-<area shape="rect" id="node7" href="$kernfs_2file_8c.html#aa6bb7ef71d94f030a9f3f37557ec540a" title="kernfs_put_open_node" alt="" coords="353,183,507,209"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="xfs_dir3_leaf" name="xfs_dir3_leaf">
-<area shape="rect" id="node2" href="$structxfs__dir2__leaf__entry.html" title="xfs_dir2_leaf_entry" alt="" coords="5,184,137,211"/>
-<area shape="rect" id="node3" href="$structxfs__dir3__leaf__hdr.html" title="xfs_dir3_leaf_hdr" alt="" coords="161,184,283,211"/>
-<area shape="rect" id="node4" href="$structxfs__da3__blkinfo.html" title="xfs_da3_blkinfo" alt="" coords="165,95,279,121"/>
-<area shape="rect" id="node5" href="$structxfs__da__blkinfo.html" title="xfs_da_blkinfo" alt="" coords="169,5,275,32"/>
-</map>

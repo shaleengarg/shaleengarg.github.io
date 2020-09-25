@@ -1,5 +1,0 @@
-<map id="scrub_blocked_if_needed" name="scrub_blocked_if_needed">
-<area shape="rect" id="node2" href="$btrfs_2scrub_8c.html#a00927f3d128445e255fea02787bd2d74" title="scrub_pause_on" alt="" coords="223,5,341,32"/>
-<area shape="rect" id="node3" href="$btrfs_2scrub_8c.html#a7efcfe697f4e026041a523d1f405ca2a" title="scrub_pause_off" alt="" coords="223,56,341,83"/>
-<area shape="rect" id="node4" href="$btrfs_2scrub_8c.html#a4cc3ac200ba28618e6e6238613115502" title="__scrub_blocked_if\l_needed" alt="" coords="389,49,524,90"/>
-</map>

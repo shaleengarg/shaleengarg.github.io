@@ -1,8 +1,0 @@
-<map id="nfs4_check_olstateid" name="nfs4_check_olstateid">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#ae9ee54de20c4725e3f95b9b6f8d4a489" title="nfsd4_check_openowner\l_confirmed" alt="" coords="199,5,365,47"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a89f44d52b1d8a982ed82ed334470bea5" title="nfs4_check_openmode" alt="" coords="204,71,360,98"/>
-<area shape="rect" id="node3" href="$state_8h.html#a26a72a7d62d604e6b52faf456272c0c2" title="openowner" alt="" coords="442,13,527,39"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#a6ea1ed9e68cf122dc6f374de8066d8eb" title="access_permit_write" alt="" coords="413,67,556,94"/>
-<area shape="rect" id="node7" href="$_2nfs4state_8c.html#abab23be1bcc6fa55fc4c5194bd1e417e" title="access_permit_read" alt="" coords="415,118,554,145"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#ac0b94a4561c2ca7a2bb9157d484f0aac" title="test_access" alt="" coords="604,93,697,119"/>
-</map>

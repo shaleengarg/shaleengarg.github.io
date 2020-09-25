@@ -1,9 +1,0 @@
-<map id="lookup_clientid" name="lookup_clientid">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a1a39e84278738642ed631ca0f01e85d4" title="same_clid" alt="" coords="583,5,664,32"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a10b9a25c90ec82fa5addecde72fb55da" title="STALE_CLIENTID" alt="" coords="167,49,301,76"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#aa295aafd99afcda92182f90f4364a24f" title="find_confirmed_client" alt="" coords="161,100,307,127"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#a14a8b23e149bd273205672d0361beffe" title="find_client_in_id_table" alt="" coords="355,75,505,101"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#a15f93c5de724bb57aabcdc3690c877c1" title="clientid_hashval" alt="" coords="566,68,681,95"/>
-<area shape="rect" id="node7" href="$_2nfs4state_8c.html#adb3869994df601ea6064a7eaf7952ed1" title="renew_client_locked" alt="" coords="553,119,693,145"/>
-<area shape="rect" id="node8" href="$_2nfs4state_8c.html#ae666db7dbdd46d29028e800d5996df93" title="is_client_expired" alt="" coords="741,119,860,145"/>
-</map>

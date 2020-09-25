@@ -1,6 +1,0 @@
-<map id="xfs_btree_sblock_calc_crc" name="xfs_btree_sblock_calc_crc">
-<area shape="rect" id="node2" href="$xfs__alloc__btree_8c.html#abd855c7b8d9370343e3ab87a90a01e90" title="xfs_allocbt_write_verify" alt="" coords="232,5,391,32"/>
-<area shape="rect" id="node3" href="$xfs__ialloc__btree_8c.html#a5f295793447cd27889434fdbd77e8a85" title="xfs_inobt_write_verify" alt="" coords="237,56,386,83"/>
-<area shape="rect" id="node4" href="$xfs__refcount__btree_8c.html#afea4849f92211bb1fcac20d67fc2b201" title="xfs_refcountbt_write\l_verify" alt="" coords="241,107,381,149"/>
-<area shape="rect" id="node5" href="$xfs__rmap__btree_8c.html#aa927e42541d9ed458a6030fcd339972c" title="xfs_rmapbt_write_verify" alt="" coords="231,173,392,200"/>
-</map>

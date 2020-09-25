@@ -1,5 +1,0 @@
-<map id="ocfs2_reflink_update_dest" name="ocfs2_reflink_update_dest">
-<area shape="rect" id="node2" href="$refcounttree_8h.html#aaf8eadc3b04ecb88a74dfdc4645e72d2" title="ocfs2_reflink_remap\l_range" alt="" coords="228,23,367,65"/>
-<area shape="rect" id="node3" href="$ocfs2_2file_8c.html#a6d59726fff4cfa0065651b68f5ad5cec" title="ocfs2_file_clone_range" alt="" coords="421,5,575,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2file_8c.html#a61f2c323da194bfc2f8ee0efc8fd2505" title="ocfs2_file_dedupe_range" alt="" coords="415,56,581,83"/>
-</map>

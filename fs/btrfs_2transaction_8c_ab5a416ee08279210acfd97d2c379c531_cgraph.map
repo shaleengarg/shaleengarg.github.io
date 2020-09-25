@@ -1,5 +1,0 @@
-<map id="join_transaction" name="join_transaction">
-<area shape="rect" id="node2" href="$btrfs_2transaction_8c.html#abe2a1b010af17b2fcf0fa9d6285ddb4e" title="extwriter_counter_inc" alt="" coords="167,5,313,32"/>
-<area shape="rect" id="node3" href="$btrfs_2transaction_8c.html#afcae6eca8bf7d4844f083402c8de7ce3" title="extwriter_counter_init" alt="" coords="167,56,313,83"/>
-<area shape="rect" id="node4" href="$extent__io_8c.html#a970fa44d8f72a23cdd8778cd2e683c1c" title="extent_io_tree_init" alt="" coords="176,107,304,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="inode_io_list_del" name="inode_io_list_del">
-<area shape="rect" id="node2" href="$fs-writeback_8c.html#ac55a800ef7f8194c63b9b304d31ffb98" title="inode_to_wb_and_lock_list" alt="" coords="172,5,351,32"/>
-<area shape="rect" id="node3" href="$fs-writeback_8c.html#a7a6ae4220731e250a48b3758d417227c" title="inode_io_list_del_locked" alt="" coords="180,56,343,83"/>
-<area shape="rect" id="node4" href="$fs-writeback_8c.html#aa31b94b7a70c8c8d396a5f0f3e8ef1ec" title="wb_io_lists_depopulated" alt="" coords="399,56,563,83"/>
-</map>

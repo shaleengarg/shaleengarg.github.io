@@ -1,5 +1,0 @@
-<map id="comm_addr_store" name="comm_addr_store">
-<area shape="rect" id="node2" href="$config_8c.html#ac2b849dda15f3cb51a6a417bfa100b2a" title="config_item_to_comm" alt="" coords="180,5,331,32"/>
-<area shape="rect" id="node3" href="$lowcomms_8c.html#a6bd0e6464d9b1587289dfa6a0bdb0b34" title="dlm_lowcomms_addr" alt="" coords="183,56,328,83"/>
-<area shape="rect" id="node4" href="$lowcomms_8c.html#a8dc97f3c90881a856e6738a5abd5bc2b" title="find_node_addr" alt="" coords="379,56,489,83"/>
-</map>

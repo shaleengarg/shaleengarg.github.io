@@ -1,8 +1,0 @@
-<map id="iomap_dio_zero" name="iomap_dio_zero">
-<area shape="rect" id="node2" href="$iomap_8c.html#a4e6a039b40196f21120afa5a090778df" title="iomap_dio_actor" alt="" coords="167,31,284,57"/>
-<area shape="rect" id="node3" href="$iomap_8c.html#a6bca16f0ecfc40b30b83f366cb031616" title="iomap_dio_rw" alt="" coords="332,31,435,57"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a035debab490c5ebe6427e56f164fec3d" title="xfs_file_dio_aio_read" alt="" coords="484,5,628,32"/>
-<area shape="rect" id="node6" href="$xfs__file_8c.html#aabb3042d6c8185a1bf327265125aa80e" title="xfs_file_dio_aio_write" alt="" coords="483,56,629,83"/>
-<area shape="rect" id="node5" href="$xfs__file_8c.html#a80d1a84c62f83f38601928e502dbb80e" title="xfs_file_read_iter" alt="" coords="679,5,800,32"/>
-<area shape="rect" id="node7" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="677,56,801,83"/>
-</map>

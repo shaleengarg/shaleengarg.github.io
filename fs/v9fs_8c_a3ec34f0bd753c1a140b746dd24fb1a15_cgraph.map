@@ -1,8 +1,0 @@
-<map id="v9fs_session_init" name="v9fs_session_init">
-<area shape="rect" id="node2" href="$v9fs_8c.html#af24427bd827f58517c9354248b75b5fe" title="v9fs_parse_options" alt="" coords="179,5,314,32"/>
-<area shape="rect" id="node4" href="$v9fs_8h.html#ad9d6821fa26b42f78ff76cb80a0f9224" title="v9fs_proto_dotl" alt="" coords="191,56,302,83"/>
-<area shape="rect" id="node5" href="$v9fs_8h.html#aa20a9b87db382b990ef3b0d7f5de4291" title="v9fs_proto_dotu" alt="" coords="189,107,304,133"/>
-<area shape="rect" id="node6" href="$9p_2cache_8c.html#aa879bca5222c997bb940be60efac134a" title="v9fs_cache_session\l_get_cookie" alt="" coords="176,158,317,199"/>
-<area shape="rect" id="node3" href="$v9fs_8c.html#a1b7e0d741d1df6ba053cb28bd4569eea" title="get_cache_mode" alt="" coords="383,5,505,32"/>
-<area shape="rect" id="node7" href="$9p_2cache_8c.html#a3d03762de1416dd4eb684327e59bcca3" title="v9fs_random_cachetag" alt="" coords="365,165,523,192"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="xfs_bmdr_to_bmbt" name="xfs_bmdr_to_bmbt">
-<area shape="rect" id="node2" href="$xfs__btree_8c.html#a25bc24c0cb4eb3f6d1eb856189868465" title="xfs_btree_init_block_int" alt="" coords="184,31,343,57"/>
-<area shape="rect" id="node5" href="$xfs__bmap__btree_8c.html#a9e406180fd58d2e5d1985c397b50fe00" title="xfs_bmdr_maxrecs" alt="" coords="197,81,330,108"/>
-<area shape="rect" id="node3" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="391,5,547,32"/>
-<area shape="rect" id="node4" href="$xfs__btree_8c.html#a494a673b40422d7f6e21459446946063" title="xfs_btree_magic" alt="" coords="409,56,528,83"/>
-</map>

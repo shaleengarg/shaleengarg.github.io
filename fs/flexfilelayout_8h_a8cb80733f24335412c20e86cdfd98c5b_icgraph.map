@@ -1,9 +1,0 @@
-<map id="ff_layout_avoid_read_on_rw" name="ff_layout_avoid_read_on_rw">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#ae7ca2631ea3f0b87296034f98401f0ec" title="ff_layout_pg_get_read" alt="" coords="208,5,359,32"/>
-<area shape="rect" id="node3" href="$flexfilelayout_2flexfilelayout_8c.html#a4a8db6b0436e5e7ed0e9e0d3e03a0787" title="ff_layout_pg_init_read" alt="" coords="423,5,573,32"/>
-<area shape="rect" id="node4" href="$flexfilelayout_8h.html#afd0bd3890b2d226f05e4e3015e825572" title="nfs4_ff_layout_ds_version" alt="" coords="196,107,371,133"/>
-<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#aadec16681f6a2a252e206debebaa8b2c" title="ff_layout_read_pagelist" alt="" coords="420,56,576,83"/>
-<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#a3ee795a2ec62653ec018695104ee1d67" title="ff_layout_write_pagelist" alt="" coords="419,107,577,133"/>
-<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a6d8c871189dc67d9024fb9144837180b" title="ff_layout_initiate\l_commit" alt="" coords="439,158,557,199"/>
-<area shape="rect" id="node8" href="$flexfilelayout_2flexfilelayout_8c.html#afec203e64e262b648cd6f5e82723e7ac" title="ff_layout_commit_pagelist" alt="" coords="625,165,800,192"/>
-</map>

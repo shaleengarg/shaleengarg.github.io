@@ -1,6 +1,0 @@
-<map id="nfsd_setuser_and_check_port" name="nfsd_setuser_and_check_port">
-<area shape="rect" id="node2" href="$auth_8c.html#ab13abe908e31db68a7e53b49e116018c" title="nfsexp_flags" alt="" coords="460,54,556,81"/>
-<area shape="rect" id="node3" href="$nfsfh_8c.html#af4dd38a3b59bffd2f349b7f97141309a" title="nfsd_originating_port_ok" alt="" coords="249,29,412,55"/>
-<area shape="rect" id="node4" href="$nfsd_2export_8h.html#a66ddec3a166114a80a055ebde47d5030" title="nfserrno" alt="" coords="296,79,365,106"/>
-<area shape="rect" id="node5" href="$auth_8c.html#af7c5b2e7ff20cf028c55b6718d56cb16" title="nfsd_setuser" alt="" coords="282,130,379,157"/>
-</map>

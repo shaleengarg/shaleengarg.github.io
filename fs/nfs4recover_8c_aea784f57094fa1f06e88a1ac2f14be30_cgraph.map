@@ -1,6 +1,0 @@
-<map id="nfsd4_cld_check" name="nfsd4_cld_check">
-<area shape="rect" id="node2" href="$nfs4recover_8c.html#abbde75b111b08da0d22dfe169b2a6e4d" title="alloc_cld_upcall" alt="" coords="173,5,288,32"/>
-<area shape="rect" id="node3" href="$nfs4recover_8c.html#a9baf7638747730530090964c84b8ee2f" title="cld_pipe_upcall" alt="" coords="175,56,286,83"/>
-<area shape="rect" id="node5" href="$nfs4recover_8c.html#a7e44307894afb5eb3d61ea4912aa0a70" title="free_cld_upcall" alt="" coords="176,107,285,133"/>
-<area shape="rect" id="node4" href="$nfs4recover_8c.html#a8dea516f7a7b02a677ad48c3aaf88356" title="__cld_pipe_upcall" alt="" coords="336,56,461,83"/>
-</map>

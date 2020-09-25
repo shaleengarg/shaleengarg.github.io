@@ -1,8 +1,0 @@
-<map id="show_expflags" name="show_expflags">
-<area shape="rect" id="node2" href="$nfsd_2export_8c.html#a1a9be93aa56df9531bd04d52adb2c14d" title="show_secinfo_flags" alt="" coords="163,5,300,32"/>
-<area shape="rect" id="node7" href="$nfsd_2export_8c.html#abb76f1acc2eda8e3787c0f86901a2872" title="exp_flags" alt="" coords="360,56,439,83"/>
-<area shape="rect" id="node3" href="$nfsd_2export_8c.html#a8a1722b9819f0c9f3177fc9d52ada332" title="show_secinfo" alt="" coords="348,5,451,32"/>
-<area shape="rect" id="node4" href="$nfsd_2export_8c.html#a90055b5e49c691ec44e01f3c03616bfa" title="svc_export_parse" alt="" coords="499,5,624,32"/>
-<area shape="rect" id="node5" href="$nfsd_2export_8c.html#a08bfe40de9c2b8edc08a9ef86b7554bc" title="svc_export_show" alt="" coords="499,56,623,83"/>
-<area shape="rect" id="node6" href="$nfsd_2export_8c.html#a26c804d912f9a04572a6615c9fd96ba3" title="e_show" alt="" coords="672,56,739,83"/>
-</map>

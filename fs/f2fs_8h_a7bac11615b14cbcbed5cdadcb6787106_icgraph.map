@@ -1,7 +1,0 @@
-<map id="set_opt_mode" name="set_opt_mode">
-<area shape="rect" id="node2" href="$f2fs_2super_8c.html#adb84e5c0dc0205f3ca3e85b263048f54" title="parse_options" alt="" coords="161,5,264,32"/>
-<area shape="rect" id="node6" href="$f2fs_2super_8c.html#aac2844f843a38dbe4bbdf56f9584271e" title="default_options" alt="" coords="157,56,268,83"/>
-<area shape="rect" id="node3" href="$f2fs_2super_8c.html#afbfdc826c4f9f9541681e0b95a292cc1" title="f2fs_remount" alt="" coords="318,5,417,32"/>
-<area shape="rect" id="node4" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="316,56,419,83"/>
-<area shape="rect" id="node5" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="467,56,553,83"/>
-</map>

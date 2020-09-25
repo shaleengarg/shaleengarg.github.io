@@ -1,5 +1,0 @@
-<map id="ceph_mdsmap_decode" name="ceph_mdsmap_decode">
-<area shape="rect" id="node2" href="$strings_8c.html#a736a91a0889f087bd9a7c8c852a08e21" title="ceph_mds_state_name" alt="" coords="237,5,395,32"/>
-<area shape="rect" id="node3" href="$mdsmap_8c.html#a78e4e22491b5e2edee7a057e1f25c5d1" title="__decode_and_drop_compat_set" alt="" coords="209,56,423,83"/>
-<area shape="rect" id="node4" href="$mdsmap_8c.html#a4185ae10a64e90d979b6f7e855ffb733" title="ceph_mdsmap_destroy" alt="" coords="237,107,395,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="blkdev_fallocate" name="blkdev_fallocate">
-<area shape="rect" id="node2" href="$block__dev_8c.html#ac58f1357c2d73d034c45d449d6ca1ea5" title="I_BDEV" alt="" coords="190,31,261,57"/>
-<area shape="rect" id="node5" href="$block__dev_8c.html#ac59da754f8c2eb1fd14f388724cbf0a2" title="bdev_file_inode" alt="" coords="169,81,281,108"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#acf33f219f70bbcbe7f9570031f3a512a" title="BDEV_I" alt="" coords="363,5,434,32"/>
-<area shape="rect" id="node4" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="329,56,468,83"/>
-</map>

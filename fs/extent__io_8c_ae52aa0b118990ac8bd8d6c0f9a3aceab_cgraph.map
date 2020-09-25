@@ -1,6 +1,0 @@
-<map id="__get_extent_map" name="__get_extent_map">
-<area shape="rect" id="node2" href="$btrfs_2extent__map_8h.html#a9d4a227dc84f87cd0204c51dac831c62" title="extent_map_in_tree" alt="" coords="349,24,485,50"/>
-<area shape="rect" id="node3" href="$btrfs_2extent__map_8h.html#a2ea46678c185fd0d0fdb91c1284cf0fb" title="extent_map_end" alt="" coords="183,24,301,50"/>
-<area shape="rect" id="node4" href="$btrfs_2extent__map_8c.html#ab41ea4f4bff6e04c5ee086967afc0b57" title="free_extent_map" alt="" coords="183,74,301,101"/>
-<area shape="rect" id="node5" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="203,125,281,152"/>
-</map>

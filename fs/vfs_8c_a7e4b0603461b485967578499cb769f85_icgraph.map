@@ -1,6 +1,0 @@
-<map id="nfsd_readdir" name="nfsd_readdir">
-<area shape="rect" id="node2" href="$_2nfs3proc_8c.html#a51c95da8868ab7530b16f22d18555292" title="nfsd3_proc_readdir" alt="" coords="159,5,291,32"/>
-<area shape="rect" id="node3" href="$_2nfs3proc_8c.html#ad4e60b5d5e897bc5b07b45b30bdd9304" title="nfsd3_proc_readdirplus" alt="" coords="147,56,303,83"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#aee08cd15370880e3b05a58d7f59677b8" title="nfsd4_encode_readdir" alt="" coords="150,107,299,133"/>
-<area shape="rect" id="node5" href="$nfsproc_8c.html#abee08389d0390dbfdb3b6457d877bb10" title="nfsd_proc_readdir" alt="" coords="162,157,287,184"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="deactivate_super" name="deactivate_super">
-<area shape="rect" id="node2" href="$super_8c.html#a5425c2e3202f1e3e7209b9b8002c1694" title="deactivate_locked_super" alt="" coords="175,56,341,83"/>
-<area shape="rect" id="node8" href="$super_8c.html#ab2644071a767512a8fe80c151e74e5e3" title="EXPORT_SYMBOL" alt="" coords="389,107,528,133"/>
-<area shape="rect" id="node3" href="$filesystems_8c.html#a102b0894c471011979a6ef8e6ee76e69" title="put_filesystem" alt="" coords="405,5,512,32"/>
-<area shape="rect" id="node4" href="$super_8c.html#ac29b0255e81405f2e9f69bae249af1e1" title="put_super" alt="" coords="419,56,498,83"/>
-<area shape="rect" id="node5" href="$super_8c.html#a3533b106df6dc38a0d0c6c3b4fd9d130" title="__put_super" alt="" coords="576,56,669,83"/>
-<area shape="rect" id="node6" href="$super_8c.html#ac18e1abceac6e84cf677a1ea4be14421" title="destroy_super_rcu" alt="" coords="717,56,847,83"/>
-<area shape="rect" id="node7" href="$super_8c.html#a627a37c41b63f3c8f96ef0206da0eed1" title="destroy_super_work" alt="" coords="895,56,1033,83"/>
-</map>

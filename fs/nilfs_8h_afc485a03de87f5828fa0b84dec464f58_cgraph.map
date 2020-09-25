@@ -1,8 +1,0 @@
-<map id="nilfs_dotdot" name="nilfs_dotdot">
-<area shape="rect" id="node2" href="$nilfs2_2dir_8c.html#a4dc0c428f8c2a9864844f6143dfeefab" title="nilfs_get_page" alt="" coords="147,56,253,83"/>
-<area shape="rect" id="node7" href="$nilfs2_2dir_8c.html#a33c2b0cfc5433731687404ea5faccd67" title="nilfs_next_entry" alt="" coords="143,107,257,133"/>
-<area shape="rect" id="node3" href="$nilfs2_2dir_8c.html#a5c97478983c805860e665d120d843f5d" title="nilfs_check_page" alt="" coords="305,5,428,32"/>
-<area shape="rect" id="node6" href="$nilfs2_2dir_8c.html#a3271ae4481f9cea4f05e6b4ee3ff221c" title="nilfs_put_page" alt="" coords="313,56,420,83"/>
-<area shape="rect" id="node4" href="$nilfs2_2dir_8c.html#adfaee11cbee626cafdadebb69286b9ee" title="nilfs_chunk_size" alt="" coords="496,5,615,32"/>
-<area shape="rect" id="node5" href="$nilfs2_2dir_8c.html#a53c206bee30a9e1ade4b6dca7d2bb3b3" title="nilfs_rec_len_from_disk" alt="" coords="476,81,635,108"/>
-</map>

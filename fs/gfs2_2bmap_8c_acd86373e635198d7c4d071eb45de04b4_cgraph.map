@@ -1,7 +1,0 @@
-<map id="hole_size" name="hole_size">
-<area shape="rect" id="node2" href="$incore_8h.html#af3bc95dcc324ad1e1c784c03e41049c6" title="GFS2_I" alt="" coords="149,5,216,32"/>
-<area shape="rect" id="node3" href="$incore_8h.html#a6e654b7e928c4d42d33bb0e5bf975339" title="GFS2_SB" alt="" coords="142,56,223,83"/>
-<area shape="rect" id="node4" href="$gfs2_2bmap_8c.html#a31c018e43337195f3b05b6ffb3e44d4b" title="find_metapath" alt="" coords="131,107,235,133"/>
-<area shape="rect" id="node5" href="$gfs2_2bmap_8c.html#ae07bb1f762b6251a78373eb0f86a096f" title="metapointer" alt="" coords="137,157,228,184"/>
-<area shape="rect" id="node6" href="$gfs2_2bmap_8c.html#aafc7fdbd4059b2023c0de2b990f5b008" title="metaptr1" alt="" coords="283,157,356,184"/>
-</map>

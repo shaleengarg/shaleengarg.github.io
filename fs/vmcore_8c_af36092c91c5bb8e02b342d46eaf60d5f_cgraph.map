@@ -1,7 +1,0 @@
-<map id="copy_notes_elf64" name="copy_notes_elf64">
-<area shape="rect" id="node2" href="$vmcore_8c.html#a04c937ba53a3f4ee3b6b3dc00435d1f8" title="elfcorehdr_read_notes" alt="" coords="177,31,328,57"/>
-<area shape="rect" id="node3" href="$vmcore_8c.html#aec70881827b590ad2aea09dab2916549" title="read_from_oldmem" alt="" coords="376,31,509,57"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="573,5,628,32"/>
-<area shape="rect" id="node6" href="$vmcore_8c.html#a16b5dbcf92d02d88ed7b7082544ffb4d" title="pfn_is_ram" alt="" coords="557,56,644,83"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="692,5,811,32"/>
-</map>

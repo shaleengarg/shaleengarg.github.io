@@ -1,5 +1,0 @@
-<map id="ext4_mb_generate_from_freelist" name="ext4_mb_generate_from_freelist">
-<area shape="rect" id="node2" href="$mballoc_8c.html#a4d358e1e21262fd2154516e08a16f77a" title="ext4_set_bits" alt="" coords="216,13,316,39"/>
-<area shape="rect" id="node3" href="$mballoc_8c.html#a50b68d2df67649c9329f3c7d160aa92e" title="mb_set_bit" alt="" coords="364,13,451,39"/>
-<area shape="rect" id="node4" href="$mballoc_8c.html#a5c8d02c67a5c9809c77b0b6eeafbd608" title="mb_correct_addr_and_bit" alt="" coords="499,13,667,39"/>
-</map>

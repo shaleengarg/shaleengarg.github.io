@@ -1,5 +1,0 @@
-<map id="idmap_pipe_downcall" name="idmap_pipe_downcall">
-<area shape="rect" id="node2" href="$nfs4idmap_8c.html#a1a1c06fee6571e1c84a53f6ebe2dd159" title="nfs_idmap_read_and\l_verify_message" alt="" coords="200,5,343,47"/>
-<area shape="rect" id="node4" href="$nfs4idmap_8c.html#a47e5894f75ce96ae9cf3702fb64958e6" title="nfs_idmap_complete\l_pipe_upcall_locked" alt="" coords="200,71,343,112"/>
-<area shape="rect" id="node3" href="$nfs4idmap_8c.html#a9d3c92e45e3bde912cf110d7adabff9d" title="nfs_idmap_instantiate" alt="" coords="391,13,540,39"/>
-</map>

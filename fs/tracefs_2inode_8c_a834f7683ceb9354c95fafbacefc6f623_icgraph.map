@@ -1,6 +1,0 @@
-<map id="start_creating" name="start_creating">
-<area shape="rect" id="node2" href="$tracefs_2inode_8c.html#a3aa7e145f3d52f40a11b081789a4f9de" title="tracefs_create_file" alt="" coords="155,5,284,32"/>
-<area shape="rect" id="node3" href="$tracefs_2inode_8c.html#ab331c3e604b17e5bdf173f6643e89cdd" title="__create_dir" alt="" coords="173,56,266,83"/>
-<area shape="rect" id="node4" href="$tracefs_2inode_8c.html#a1246e88c679ef6824bae640d51a64155" title="tracefs_create_dir" alt="" coords="360,31,487,57"/>
-<area shape="rect" id="node5" href="$tracefs_2inode_8c.html#aa9f90810f5c6d1b03ccf3a8b7545db36" title="tracefs_create_instance_dir" alt="" coords="332,81,515,108"/>
-</map>

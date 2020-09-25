@@ -1,7 +1,0 @@
-<map id="ubifs_recover_size_accum" name="ubifs_recover_size_accum">
-<area shape="rect" id="node2" href="$key_8h.html#a4a12b97ed78e138baf7886a6df7ed50f" title="key_inum" alt="" coords="189,5,268,32"/>
-<area shape="rect" id="node3" href="$key_8h.html#a06f47822510ef850cb7065778115453c" title="key_type" alt="" coords="191,56,266,83"/>
-<area shape="rect" id="node4" href="$ubifs_2recovery_8c.html#a93e3361d5b4ba48167d1aadf3a45e724" title="remove_ino" alt="" coords="184,107,273,133"/>
-<area shape="rect" id="node5" href="$ubifs_2recovery_8c.html#a574f611c4294ffdb6ff758f549cd798e" title="find_ino" alt="" coords="321,132,388,159"/>
-<area shape="rect" id="node6" href="$ubifs_2recovery_8c.html#ac39806a2c7eab3c00600eeb60b73daf0" title="add_ino" alt="" coords="195,208,262,235"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="nfs4_xdr_dec_cb_notify_lock" name="nfs4_xdr_dec_cb_notify_lock">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#a83ec690b90ba0913834c2f7af77cff0b" title="decode_cb_compound4res" alt="" coords="244,5,421,32"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#ae59ebd9d9e874dbb3b63cdf797d0f3be" title="decode_cb_sequence4res" alt="" coords="246,56,419,83"/>
-<area shape="rect" id="node5" href="$nfs4callback_8c.html#a79ff5ac9ae143047db961d168306859e" title="decode_cb_op_status" alt="" coords="488,107,637,133"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="709,56,843,83"/>
-<area shape="rect" id="node7" href="$nfs4callback_8c.html#a84952f958f537dc74c2eb02a36848089" title="decode_cb_sequence4resok" alt="" coords="469,56,656,83"/>
-<area shape="rect" id="node6" href="$nfs4callback_8c.html#afca38ca942d66cac6baf2eff2b72aff0" title="nfs_cb_stat_to_errno" alt="" coords="704,107,848,133"/>
-</map>

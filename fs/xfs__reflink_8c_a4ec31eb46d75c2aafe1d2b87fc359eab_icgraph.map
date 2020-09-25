@@ -1,7 +1,0 @@
-<map id="xfs_reflink_convert_cow" name="xfs_reflink_convert_cow">
-<area shape="rect" id="node2" href="$xfs__aops_8c.html#a8391d9ebed8658ccb6800cc779b91740" title="xfs_submit_ioend" alt="" coords="216,31,340,57"/>
-<area shape="rect" id="node3" href="$xfs__aops_8c.html#ab3b4b2735c124cb562ba26ff95395258" title="xfs_writepage_map" alt="" coords="388,31,523,57"/>
-<area shape="rect" id="node5" href="$xfs__aops_8c.html#a80aa6026194d3d165692d8244ecb3120" title="xfs_vm_writepage" alt="" coords="746,5,874,32"/>
-<area shape="rect" id="node6" href="$xfs__aops_8c.html#a970b8046d2421d8491be0c23f44b3abe" title="xfs_vm_writepages" alt="" coords="743,56,877,83"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#a817b5c463a4d7f442c4da9cf58e70723" title="xfs_do_writepage" alt="" coords="571,31,695,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ocfs2_generic_handle_bast" name="ocfs2_generic_handle_bast">
-<area shape="rect" id="node2" href="$dlmglue_8c.html#a0e2e370be399914913425c2e0ec95f95" title="ocfs2_highest_compat\l_lock_level" alt="" coords="233,5,387,47"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html#abc90cbec96bfe0b692d9a781ec798723" title="lockres_or_flags" alt="" coords="251,71,369,98"/>
-<area shape="rect" id="node4" href="$dlmglue_8c.html#a2f5ae82be6decde9f94541fcdf939d75" title="lockres_set_flags" alt="" coords="435,71,559,98"/>
-</map>

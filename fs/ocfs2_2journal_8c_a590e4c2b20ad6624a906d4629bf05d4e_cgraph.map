@@ -1,5 +1,0 @@
-<map id="ocfs2_mark_recovering_orphan_dir" name="ocfs2_mark_recovering_orphan_dir">
-<area shape="rect" id="node2" href="$heartbeat_8c.html#a6a3dbf2951b1ddec25f10d8965739f5d" title="ocfs2_node_map_set_bit" alt="" coords="211,5,377,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2journal_8c.html#a5bc345fa67fc312e09198f5950ed826d" title="ocfs2_orphan_recovery\l_can_continue" alt="" coords="215,57,373,98"/>
-<area shape="rect" id="node3" href="$heartbeat_8c.html#a6fa67d80ec5fffb109256e12cca123f8" title="__ocfs2_node_map_set_bit" alt="" coords="425,5,607,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="get_mem_for_virtual_node" name="get_mem_for_virtual_node">
-<area shape="rect" id="node2" href="$fix__node_8c.html#ae0db321977155a57e8a94e58d1fb47d6" title="get_virtual_node_size" alt="" coords="233,5,381,32"/>
-<area shape="rect" id="node3" href="$fix__node_8c.html#a9bf05021c61b7488b8b8ff2828addfae" title="free_buffers_in_tb" alt="" coords="243,56,370,83"/>
-<area shape="rect" id="node5" href="$fix__node_8c.html#ab7d9de05a254ceed81d9480bc39d51d2" title="tb_buffer_sanity_check" alt="" coords="228,107,385,133"/>
-<area shape="rect" id="node6" href="$reiserfs_8h.html#ae0e2d8866196537b150f2dc0c34a9fa8" title="B_IS_IN_TREE" alt="" coords="249,157,364,184"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a92ddb7f95feff3f2a45484b20c6a5840" title="pathrelse" alt="" coords="433,56,508,83"/>
-</map>

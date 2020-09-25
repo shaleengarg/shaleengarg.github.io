@@ -1,5 +1,0 @@
-<map id="ocfs2_stack_glue_unregister" name="ocfs2_stack_glue_unregister">
-<area shape="rect" id="node2" href="$stack__o2cb_8c.html#a87bf70944000d77dca359c5dca0a3473" title="o2cb_stack_exit" alt="" coords="496,25,613,51"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#a662b910c29fe85bed5f697b064679782" title="ocfs2_user_plugin_exit" alt="" coords="477,87,632,114"/>
-<area shape="rect" id="node4" href="$stackglue_8h.html#ac317cb8e3ce444fb599af7ff986d9d92" title="ocfs2_stack_glue_unregister" alt="" coords="241,50,429,77"/>
-</map>

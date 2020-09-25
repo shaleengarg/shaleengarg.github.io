@@ -1,8 +1,0 @@
-<map id="nfsd4_return_all_client_layouts" name="nfsd4_return_all_client_layouts">
-<area shape="rect" id="node2" href="$v9fs_8c.html#a962ef1b35907bdda12de2cddce8bc638" title="LIST_HEAD" alt="" coords="239,5,334,32"/>
-<area shape="rect" id="node3" href="$nfs4layouts_8c.html#a55128628c9570d0141fcc6b59c438800" title="nfsd4_return_all_layouts" alt="" coords="205,56,368,83"/>
-<area shape="rect" id="node4" href="$nfs4layouts_8c.html#acbcb8a8c72d1e7703fbac1a7d45f43d1" title="nfsd4_free_layouts" alt="" coords="221,107,353,133"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#a33801748542f905b0cbc283a48c59749" title="nfs4_put_stid" alt="" coords="416,107,516,133"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#a9a966030ded2d5e6d69a176f36c7bf4f" title="put_nfs4_file" alt="" coords="564,107,660,133"/>
-<area shape="rect" id="node7" href="$_2nfs4state_8c.html#a00c25c1cdf7500d9c23d9c37398e5984" title="nfsd4_free_file_rcu" alt="" coords="708,107,840,133"/>
-</map>

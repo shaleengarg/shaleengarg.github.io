@@ -1,5 +1,0 @@
-<map id="nfs42_proc_fallocate" name="nfs42_proc_fallocate">
-<area shape="rect" id="node2" href="$nfs42proc_8c.html#a11dcd84faf35641199d1fc0ac18e1809" title="nfs42_proc_allocate" alt="" coords="203,5,341,32"/>
-<area shape="rect" id="node4" href="$nfs42proc_8c.html#a2d5e2afcea49e43428ee7bd5e04d6eba" title="nfs42_proc_deallocate" alt="" coords="196,56,348,83"/>
-<area shape="rect" id="node3" href="$nfs4file_8c.html#aaa695de67c849f5499a0ea077e4b8d6d" title="nfs4_file_flush" alt="" coords="396,31,503,57"/>
-</map>

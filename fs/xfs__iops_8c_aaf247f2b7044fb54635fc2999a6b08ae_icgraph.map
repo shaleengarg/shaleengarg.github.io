@@ -1,9 +1,0 @@
-<map id="xfs_initxattrs" name="xfs_initxattrs">
-<area shape="rect" id="node2" href="$xfs__iops_8c.html#ad8cf1da11f6632e1f2501d8ac1d2967f" title="xfs_init_security" alt="" coords="151,81,268,108"/>
-<area shape="rect" id="node3" href="$xfs__iops_8c.html#ab26e9da7afbd4a9e35cfed42da95a51e" title="xfs_generic_create" alt="" coords="316,56,448,83"/>
-<area shape="rect" id="node8" href="$xfs__iops_8c.html#a9c637ad2828e899317fbcc12cf09b9be" title="xfs_vn_symlink" alt="" coords="325,107,439,133"/>
-<area shape="rect" id="node4" href="$xfs__iops_8c.html#a30a19f32888a9caa7d7561e15f8ee810" title="xfs_vn_mknod" alt="" coords="496,31,603,57"/>
-<area shape="rect" id="node7" href="$xfs__iops_8c.html#aedf85745b72c8abe1af3544109eb78da" title="xfs_vn_tmpfile" alt="" coords="496,81,603,108"/>
-<area shape="rect" id="node5" href="$xfs__iops_8c.html#a8834f3c367781576f03894371282254c" title="xfs_vn_create" alt="" coords="651,5,755,32"/>
-<area shape="rect" id="node6" href="$xfs__iops_8c.html#a28ca6512584d7c71c6238ad684c49374" title="xfs_vn_mkdir" alt="" coords="653,56,753,83"/>
-</map>

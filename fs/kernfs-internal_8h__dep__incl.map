@@ -1,8 +1,0 @@
-<map id="kernfs/kernfs&#45;internal.h" name="kernfs/kernfs&#45;internal.h">
-<area shape="rect" id="node2" href="$kernfs_2dir_8c.html" title="kernfs/dir.c" alt="" coords="5,80,92,107"/>
-<area shape="rect" id="node3" href="$kernfs_2file_8c.html" title="kernfs/file.c" alt="" coords="117,80,207,107"/>
-<area shape="rect" id="node4" href="$kernfs_2inode_8c.html" title="kernfs/inode.c" alt="" coords="231,80,335,107"/>
-<area shape="rect" id="node5" href="$kernfs_2mount_8c.html" title="kernfs/mount.c" alt="" coords="359,80,469,107"/>
-<area shape="rect" id="node6" href="$kernfs_2symlink_8c.html" title="kernfs/symlink.c" alt="" coords="493,80,612,107"/>
-<area shape="rect" id="node7" href="$sysfs_2file_8c.html" title="sysfs/file.c" alt="" coords="636,80,723,107"/>
-</map>

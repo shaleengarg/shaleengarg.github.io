@@ -1,4 +1,0 @@
-<map id="find_inode" name="find_inode">
-<area shape="rect" id="node2" href="$bfs_2inode_8c.html#a720a7f3ac36494f60e7d5430bfdcb475" title="bfs_write_inode" alt="" coords="135,5,248,32"/>
-<area shape="rect" id="node3" href="$bfs_2inode_8c.html#af36e6ed70602eebbffa4d2beee295a53" title="bfs_evict_inode" alt="" coords="135,56,248,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ocfs2_xattr_list_entries" name="ocfs2_xattr_list_entries">
-<area shape="rect" id="node2" href="$ocfs2__fs_8h.html#adfea3764ec78040e65ddaea656b05558" title="ocfs2_xattr_get_type" alt="" coords="212,5,356,32"/>
-<area shape="rect" id="node3" href="$ocfs2_2xattr_8c.html#a0ede6e3d2d24f209d0e2fcc2b1b76649" title="ocfs2_xattr_list_entry" alt="" coords="211,56,357,83"/>
-<area shape="rect" id="node4" href="$ocfs2_2xattr_8c.html#adc5a2bab89a91c9fdd1848ace0e88692" title="ocfs2_xattr_prefix" alt="" coords="405,31,532,57"/>
-<area shape="rect" id="node5" href="$hfsplus_2xattr_8c.html#ae4ccf1ceae3bf7792a62283b6ca6cd99" title="name_len" alt="" coords="429,81,508,108"/>
-<area shape="rect" id="node6" href="$hfsplus_2xattr_8c.html#a6ece997c19fd566eddee8e3c8c0c9e7d" title="is_known_namespace" alt="" coords="580,81,731,108"/>
-</map>

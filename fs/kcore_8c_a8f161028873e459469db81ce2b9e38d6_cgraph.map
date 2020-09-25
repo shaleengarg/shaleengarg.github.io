@@ -1,6 +1,0 @@
-<map id="read_kcore" name="read_kcore">
-<area shape="rect" id="node2" href="$kcore_8c.html#a78c852a9ba0250e49587a7b5f0f26e38" title="get_kcore_size" alt="" coords="153,5,263,32"/>
-<area shape="rect" id="node3" href="$kcore_8c.html#a47946b8f63abe480a00b7ab4ef223621" title="elf_kcore_store_hdr" alt="" coords="140,56,276,83"/>
-<area shape="rect" id="node4" href="$kcore_8c.html#ac43a4feb0d941c39ba67a5ea7e642f11" title="notesize" alt="" coords="327,31,397,57"/>
-<area shape="rect" id="node5" href="$kcore_8c.html#a95aab4fcca906b878a15da8806ecddf2" title="storenote" alt="" coords="324,81,400,108"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="cifs_find_tcp_session" name="cifs_find_tcp_session">
-<area shape="rect" id="node2" href="$connect_8c.html#a4257885d7923946e2022651548f10684" title="match_server" alt="" coords="201,81,303,108"/>
-<area shape="rect" id="node3" href="$cifsglob_8h.html#a76251f18fe72e8a675527b50635e7a24" title="cifs_net_ns" alt="" coords="361,5,451,32"/>
-<area shape="rect" id="node4" href="$connect_8c.html#a21e5e5806b27508733a69308c078c3c3" title="match_address" alt="" coords="351,56,461,83"/>
-<area shape="rect" id="node6" href="$connect_8c.html#ade3949837a33513eee480f0d23caacaa" title="match_port" alt="" coords="363,107,449,133"/>
-<area shape="rect" id="node7" href="$connect_8c.html#ae3de67f6c82407c724925e566a0a57ab" title="match_security" alt="" coords="351,157,461,184"/>
-<area shape="rect" id="node5" href="$connect_8c.html#a530be035871457c0af2ddabb32442265" title="srcip_matches" alt="" coords="509,56,616,83"/>
-</map>

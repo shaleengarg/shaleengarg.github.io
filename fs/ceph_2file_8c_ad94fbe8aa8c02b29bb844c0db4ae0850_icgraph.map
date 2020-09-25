@@ -1,6 +1,0 @@
-<map id="__iter_get_bvecs" name="__iter_get_bvecs">
-<area shape="rect" id="node2" href="$ceph_2file_8c.html#a2595ea9cc711a829cda033d8fbc409c5" title="iter_get_bvecs_alloc" alt="" coords="175,31,316,57"/>
-<area shape="rect" id="node3" href="$ceph_2file_8c.html#a37653a820bbf2b8e23c98ba1deaef31c" title="ceph_direct_read_write" alt="" coords="364,31,520,57"/>
-<area shape="rect" id="node4" href="$ceph_2file_8c.html#ab25c5614757da5077be4710cbb3ec98c" title="ceph_read_iter" alt="" coords="570,5,677,32"/>
-<area shape="rect" id="node5" href="$ceph_2file_8c.html#a94c42f499f5051ae4163de2ead8de322" title="ceph_write_iter" alt="" coords="568,56,679,83"/>
-</map>

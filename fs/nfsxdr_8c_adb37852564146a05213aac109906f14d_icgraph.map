@@ -1,5 +1,0 @@
-<map id="decode_sattr" name="decode_sattr">
-<area shape="rect" id="node2" href="$xdr_8h.html#a51b26685b7258dbcb1125bf9408b3a67" title="nfssvc_decode_sattrargs" alt="" coords="160,5,328,32"/>
-<area shape="rect" id="node3" href="$xdr_8h.html#a9af82cc02a4e1fecb59cdd117a2d285b" title="nfssvc_decode_createargs" alt="" coords="155,56,333,83"/>
-<area shape="rect" id="node4" href="$xdr_8h.html#a90442ee332ebe564621151c5e366b9f5" title="nfssvc_decode_symlinkargs" alt="" coords="151,107,337,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ff_layout_avoid_read_on_rw" name="ff_layout_avoid_read_on_rw">
-<area shape="rect" id="node2" href="$flexfilelayout_8h.html#acfd8622ab85d014009df89da6510e8e8" title="ff_layout_no_read_on_rw" alt="" coords="198,5,365,32"/>
-<area shape="rect" id="node4" href="$flexfilelayoutdev_8c.html#af9dfbb9f7297d9047a428b14d362eebf" title="module_param" alt="" coords="228,56,335,83"/>
-<area shape="rect" id="node5" href="$flexfilelayoutdev_8c.html#aab32986961c6a59fef4e7b734e048667" title="MODULE_PARM_DESC" alt="" coords="196,107,367,133"/>
-<area shape="rect" id="node3" href="$flexfilelayout_8h.html#ad3d3c011533c107708d54cf5edae52b9" title="FF_LAYOUT_LSEG" alt="" coords="415,5,555,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ext4_allocation_context" name="ext4_allocation_context">
-<area shape="rect" id="node2" href="$structext4__prealloc__space.html" title="ext4_prealloc_space" alt="" coords="5,5,147,32"/>
-<area shape="rect" id="node3" href="$structsuper__block.html" title="super_block" alt="" coords="171,5,263,32"/>
-<area shape="rect" id="node4" href="$structext4__free__extent.html" title="ext4_free_extent" alt="" coords="287,5,406,32"/>
-<area shape="rect" id="node5" href="$structext4__locality__group.html" title="ext4_locality_group" alt="" coords="430,5,565,32"/>
-</map>

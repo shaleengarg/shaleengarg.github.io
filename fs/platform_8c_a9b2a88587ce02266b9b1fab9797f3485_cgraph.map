@@ -1,5 +1,0 @@
-<map id="pstore_unregister_kmsg" name="pstore_unregister_kmsg">
-<area shape="rect" id="node2" href="$platform_8c.html#a251465b9d2e0f87d44ff9940d805908a" title="pstore_record_init" alt="" coords="239,5,365,32"/>
-<area shape="rect" id="node3" href="$platform_8c.html#a383893690138dbdd4177b2f2dd960368" title="pstore_register_console" alt="" coords="222,56,382,83"/>
-<area shape="rect" id="node4" href="$platform_8c.html#a23356f3d21b82a22ee29ac8f274bb6aa" title="pstore_unregister_console" alt="" coords="215,107,389,133"/>
-</map>

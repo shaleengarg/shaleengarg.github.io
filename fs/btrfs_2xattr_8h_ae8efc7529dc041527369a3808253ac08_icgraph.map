@@ -1,6 +1,0 @@
-<map id="btrfs_getxattr" name="btrfs_getxattr">
-<area shape="rect" id="node2" href="$btrfs_2acl_8c.html#adbca5f08427af23aac7a8299bface281" title="btrfs_get_acl" alt="" coords="181,5,278,32"/>
-<area shape="rect" id="node5" href="$btrfs_2xattr_8c.html#abd5f8f6cb9b1755a75c1965b0b2c1ed0" title="btrfs_xattr_handler_get" alt="" coords="152,56,307,83"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="355,5,529,32"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="577,5,675,32"/>
-</map>

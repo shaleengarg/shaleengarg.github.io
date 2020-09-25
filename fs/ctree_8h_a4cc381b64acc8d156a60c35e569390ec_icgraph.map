@@ -1,9 +1,0 @@
-<map id="btrfs_header_fsid" name="btrfs_header_fsid">
-<area shape="rect" id="node2" href="$disk-io_8c.html#a1226fca58cdbbbf6a2c92fa8872af371" title="csum_dirty_buffer" alt="" coords="176,60,303,87"/>
-<area shape="rect" id="node7" href="$disk-io_8c.html#ab85777af5a0e841d5a5f06499a730650" title="check_tree_block_fsid" alt="" coords="351,111,503,137"/>
-<area shape="rect" id="node3" href="$disk-io_8c.html#a08253d350a04c60e54c0ff822a23a7c2" title="btree_csum_one_bio" alt="" coords="355,56,498,83"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#ae5c6dfcb417b6951073189273f612e66" title="btree_submit_bio_start" alt="" coords="551,5,705,32"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#a5c8a6960b9eb2eefd752fde872397524" title="btree_submit_bio_hook" alt="" coords="753,56,909,83"/>
-<area shape="rect" id="node6" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="957,85,1055,112"/>
-<area shape="rect" id="node8" href="$disk-io_8c.html#a66cc9b58704cf43edbf838777f83e147" title="btree_readpage_end\l_io_hook" alt="" coords="559,107,697,149"/>
-</map>

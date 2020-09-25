@@ -1,8 +1,0 @@
-<map id="destroy_client" name="destroy_client">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a1a48d53638d7b4391fe6cd95b6e6f82f" title="nfs4_state_destroy_net" alt="" coords="156,31,315,57"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a2e4dfef567d643f64e53d7d13a50823f" title="nfs4_state_shutdown_net" alt="" coords="363,31,533,57"/>
-<area shape="rect" id="node4" href="$nfssvc_8c.html#a9dd5999326fe21f1ec0c3e5423fb4626" title="nfsd_shutdown_net" alt="" coords="581,31,716,57"/>
-<area shape="rect" id="node5" href="$nfssvc_8c.html#a729298b9be30157084389bb612834c3d" title="nfsd_last_thread" alt="" coords="764,5,883,32"/>
-<area shape="rect" id="node6" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="786,56,861,83"/>
-<area shape="rect" id="node7" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="931,56,1031,83"/>
-</map>

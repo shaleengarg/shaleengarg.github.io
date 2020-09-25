@@ -1,9 +1,0 @@
-<map id="requeue_inode" name="requeue_inode">
-<area shape="rect" id="node2" href="$fs-writeback_8c.html#a91e1d852b1c5df975f9a670eec29284f" title="redirty_tail" alt="" coords="161,5,244,32"/>
-<area shape="rect" id="node4" href="$fs-writeback_8c.html#a2a36a21e075aa2a912f5c3cb027692cf" title="inode_io_list_move\l_locked" alt="" coords="308,65,441,106"/>
-<area shape="rect" id="node7" href="$fs-writeback_8c.html#aaa5af98e387477edba431d1bff9704ad" title="requeue_io" alt="" coords="160,107,245,133"/>
-<area shape="rect" id="node8" href="$fs-writeback_8c.html#a7a6ae4220731e250a48b3758d417227c" title="inode_io_list_del_locked" alt="" coords="293,148,456,175"/>
-<area shape="rect" id="node3" href="$fs-writeback_8c.html#ad780ecdcb38af13c1820738c8c744833" title="wb_inode" alt="" coords="336,5,413,32"/>
-<area shape="rect" id="node5" href="$fs-writeback_8c.html#ad9e6fcccf4baffa8e6c91881c6e428a9" title="wb_io_lists_populated" alt="" coords="511,72,661,99"/>
-<area shape="rect" id="node6" href="$fs-writeback_8c.html#aa31b94b7a70c8c8d396a5f0f3e8ef1ec" title="wb_io_lists_depopulated" alt="" coords="504,127,668,153"/>
-</map>

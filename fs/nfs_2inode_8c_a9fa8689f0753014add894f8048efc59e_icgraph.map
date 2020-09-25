@@ -1,6 +1,0 @@
-<map id="nfs4_init_once" name="nfs4_init_once">
-<area shape="rect" id="node2" href="$nfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="160,5,235,32"/>
-<area shape="rect" id="node3" href="$nfs_2inode_8c.html#a078ebb794526024fb6f3ae2c0f1e00f9" title="nfs_init_inodecache" alt="" coords="283,5,420,32"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a9fd83ddb0596d34260239182288656bf" title="init_nfs_fs" alt="" coords="468,5,551,32"/>
-<area shape="rect" id="node5" href="$nfs_2inode_8c.html#a3c5c0616e9bd80645b86dbaaee570220" title="exit_nfs_fs" alt="" coords="599,5,685,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="nfsd_create" name="nfsd_create">
-<area shape="rect" id="node2" href="$_2nfs3proc_8c.html#a4420cddad3770a0a5fba8bb401bbfc82" title="nfsd3_proc_mkdir" alt="" coords="147,5,273,32"/>
-<area shape="rect" id="node3" href="$_2nfs3proc_8c.html#a77f0045627442429fdd9f327aafcbec4" title="nfsd3_proc_mknod" alt="" coords="144,56,276,83"/>
-<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#af898a4678c599894ad1ba4d757e7f300" title="nfsd4_create" alt="" coords="161,107,259,133"/>
-<area shape="rect" id="node6" href="$nfsproc_8c.html#aa7606490b7984f0b7e0f3daa89f51b43" title="nfsd_proc_mkdir" alt="" coords="151,157,269,184"/>
-<area shape="rect" id="node5" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="324,107,448,133"/>
-</map>

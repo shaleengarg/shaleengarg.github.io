@@ -1,8 +1,0 @@
-<map id="isofs_dentry_cmpi" name="isofs_dentry_cmpi">
-<area shape="rect" id="node2" href="$isofs_2inode_8c.html#afa68ac045f30063299a70d52f93a5991" title="isofs_dentry_cmp_common" alt="" coords="181,5,364,32"/>
-<area shape="rect" id="node3" href="$namei_8c.html#a6d05465ea29cfacd10ee6473e3879f3c" title="full_name_hash" alt="" coords="216,56,329,83"/>
-<area shape="rect" id="node6" href="$isofs_2inode_8c.html#abca5188367f8d0fd405e3b6f03af7ddb" title="isofs_hashi_common" alt="" coords="200,107,345,133"/>
-<area shape="rect" id="node4" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="456,5,507,32"/>
-<area shape="rect" id="node5" href="$namei_8c.html#ab6c058e9d297eedc75d075f53d48d3f5" title="EXPORT_SYMBOL" alt="" coords="412,56,551,83"/>
-<area shape="rect" id="node7" href="$inode_8c.html#aa1822403d896f1040c371de082022045" title="hash" alt="" coords="456,107,507,133"/>
-</map>

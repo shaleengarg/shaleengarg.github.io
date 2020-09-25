@@ -1,5 +1,0 @@
-<map id="hugetlbfs_size_to_hpages" name="hugetlbfs_size_to_hpages">
-<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#a53c4b41fad10cab44a532d51704d5327" title="hugetlbfs_parse_options" alt="" coords="227,5,389,32"/>
-<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#aa0959188cd9427960374b010fa49e6be" title="hugetlbfs_fill_super" alt="" coords="437,5,572,32"/>
-<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ac2e79ea5f30c2cb42b610b21f6b35190" title="hugetlbfs_mount" alt="" coords="620,5,739,32"/>
-</map>

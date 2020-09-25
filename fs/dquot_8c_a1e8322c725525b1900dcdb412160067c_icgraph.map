@@ -1,9 +1,0 @@
-<map id="dquot_mark_dquot_dirty" name="dquot_mark_dquot_dirty">
-<area shape="rect" id="node2" href="$ext4_2super_8c.html#ab34ff9f99899cbd04747819c6848c4a4" title="ext4_statfs" alt="" coords="224,5,311,32"/>
-<area shape="rect" id="node3" href="$f2fs_2super_8c.html#afbfdc826c4f9f9541681e0b95a292cc1" title="f2fs_remount" alt="" coords="218,56,317,83"/>
-<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#ab7c748fd26def6263cd7871af915aa72" title="reiserfs_statfs" alt="" coords="215,107,320,133"/>
-<area shape="rect" id="node5" href="$reiserfs_2super_8c.html#ac978fb3dfb574e2a2d65ef33c5d4c836" title="is_any_reiserfs_magic\l_string" alt="" coords="368,99,520,141"/>
-<area shape="rect" id="node6" href="$reiserfs_2super_8c.html#a937e529fcad9e49d48f1acadb75dc17e" title="read_super_block" alt="" coords="568,107,692,133"/>
-<area shape="rect" id="node7" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="740,107,864,133"/>
-<area shape="rect" id="node8" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="912,107,1029,133"/>
-</map>

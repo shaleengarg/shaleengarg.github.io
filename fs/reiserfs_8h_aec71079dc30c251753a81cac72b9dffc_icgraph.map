@@ -1,5 +1,0 @@
-<map id="reiserfs_free_bitmap_cache" name="reiserfs_free_bitmap_cache">
-<area shape="rect" id="node2" href="$reiserfs_2super_8c.html#ae52717c5cc13610b4ce48611d387fb82" title="reiserfs_put_super" alt="" coords="193,5,323,32"/>
-<area shape="rect" id="node3" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="196,56,320,83"/>
-<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="371,56,488,83"/>
-</map>

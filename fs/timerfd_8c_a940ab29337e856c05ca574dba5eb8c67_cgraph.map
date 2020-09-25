@@ -1,5 +1,0 @@
-<map id="do_timerfd_gettime" name="do_timerfd_gettime">
-<area shape="rect" id="node2" href="$timerfd_8c.html#a47d03f9d36421eb153c6e46871c97886" title="timerfd_fget" alt="" coords="217,5,307,32"/>
-<area shape="rect" id="node3" href="$timerfd_8c.html#a03d04798a30d6c89919f54645cdae3d5" title="isalarm" alt="" coords="385,81,449,108"/>
-<area shape="rect" id="node4" href="$timerfd_8c.html#ade62dfce8be7ce165cd40c77c5177298" title="timerfd_get_remaining" alt="" coords="187,107,337,133"/>
-</map>

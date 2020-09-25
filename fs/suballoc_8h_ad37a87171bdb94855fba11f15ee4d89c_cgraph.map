@@ -1,4 +1,0 @@
-<map id="ocfs2_init_steal_slots" name="ocfs2_init_steal_slots">
-<area shape="rect" id="node2" href="$suballoc_8c.html#a103e8cfb234dea747f9bc1b25597b700" title="ocfs2_init_inode_steal_slot" alt="" coords="201,5,380,32"/>
-<area shape="rect" id="node3" href="$suballoc_8c.html#a37ab2741203a576e29fb10814a82f4e2" title="ocfs2_init_meta_steal_slot" alt="" coords="202,56,379,83"/>
-</map>

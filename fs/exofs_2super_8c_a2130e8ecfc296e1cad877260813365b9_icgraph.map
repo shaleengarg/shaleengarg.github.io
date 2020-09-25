@@ -1,6 +1,0 @@
-<map id="exofs_free_sbi" name="exofs_free_sbi">
-<area shape="rect" id="node2" href="$exofs_2super_8c.html#a8754e4297e28049238e1cf7916eb421b" title="exofs_put_super" alt="" coords="160,5,279,32"/>
-<area shape="rect" id="node4" href="$exofs_2super_8c.html#a08a8884b2db1914994ed34f3dbce3067" title="exofs_fill_super" alt="" coords="163,56,276,83"/>
-<area shape="rect" id="node3" href="$exofs_2super_8c.html#a5fa70c2a857691f01af4836f1245c8b5" title="exofs_statfs" alt="" coords="328,5,423,32"/>
-<area shape="rect" id="node5" href="$exofs_2super_8c.html#a0e31d261657c630b458225ebe799f39c" title="exofs_mount" alt="" coords="327,56,424,83"/>
-</map>

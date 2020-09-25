@@ -1,7 +1,0 @@
-<map id="dlm_assert_master_priv" name="dlm_assert_master_priv">
-<area shape="rect" id="node2" href="$structdlm__lock__resource.html" title="dlm_lock_resource" alt="" coords="166,199,297,225"/>
-<area shape="rect" id="node3" href="$structdlm__ctxt.html" title="dlm_ctxt" alt="" coords="195,109,267,136"/>
-<area shape="rect" id="node4" href="$structo2hb__callback__func.html" title="o2hb_callback_func" alt="" coords="5,5,143,32"/>
-<area shape="rect" id="node5" href="$structdlm__recovery__ctxt.html" title="dlm_recovery_ctxt" alt="" coords="167,5,296,32"/>
-<area shape="rect" id="node6" href="$structdlm__protocol__version.html" title="dlm_protocol_version" alt="" coords="320,5,465,32"/>
-</map>

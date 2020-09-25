@@ -1,8 +1,0 @@
-<map id="nfs_server_return_all_delegations" name="nfs_server_return_all_delegations">
-<area shape="rect" id="node2" href="$nfs4client_8c.html#a1ac3acf726421597ddbe3143243ff761" title="nfs4_destroy_server" alt="" coords="196,35,336,61"/>
-<area shape="rect" id="node3" href="$nfs4client_8c.html#a9a6d260686511ea21f60e064ea08b9d4" title="nfs4_server_common\l_setup" alt="" coords="384,27,531,69"/>
-<area shape="rect" id="node4" href="$nfs4client_8c.html#acdee644958f1b84bc87b9cc359c3841b" title="nfs4_create_server" alt="" coords="581,5,714,32"/>
-<area shape="rect" id="node6" href="$nfs4client_8c.html#ae47bbbb9897bd93853fcc2f3935ec01f" title="nfs4_create_referral\l_server" alt="" coords="579,57,716,98"/>
-<area shape="rect" id="node5" href="$nfs4super_8c.html#add9ea0e95448084a9a18e8ce8b145a8f" title="nfs4_remote_mount" alt="" coords="766,5,903,32"/>
-<area shape="rect" id="node7" href="$nfs4super_8c.html#a80c028d31cf423d32a389da609c9c87f" title="nfs4_remote_referral\l_mount" alt="" coords="764,57,905,98"/>
-</map>

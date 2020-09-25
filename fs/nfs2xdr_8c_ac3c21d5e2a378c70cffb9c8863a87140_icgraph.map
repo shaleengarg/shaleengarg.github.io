@@ -1,5 +1,0 @@
-<map id="encode_sattr" name="encode_sattr">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a2e49af6c1b0f3ba84382f66136cb0c1b" title="nfs2_xdr_enc_sattrargs" alt="" coords="160,5,319,32"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#ae1c340c10b1cc15c3f39f36e94bbd091" title="nfs2_xdr_enc_createargs" alt="" coords="155,56,323,83"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#aaba32959e71ff70afff9aff6a0bcbfa7" title="nfs2_xdr_enc_symlinkargs" alt="" coords="151,107,328,133"/>
-</map>

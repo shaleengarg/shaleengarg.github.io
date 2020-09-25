@@ -1,6 +1,0 @@
-<map id="jffs2_dataflash_setup" name="jffs2_dataflash_setup">
-<area shape="rect" id="node2" href="$fs_8c.html#a46dd68c98eba0a545a67f2f24eb63dde" title="jffs2_flash_setup" alt="" coords="200,5,321,32"/>
-<area shape="rect" id="node3" href="$os-linux_8h.html#a0e271945f00995017090113d6804a430" title="jffs2_do_fill_super" alt="" coords="369,5,496,32"/>
-<area shape="rect" id="node4" href="$jffs2_2super_8c.html#ac626c42b039c451fa8759a92155a1773" title="jffs2_fill_super" alt="" coords="544,5,651,32"/>
-<area shape="rect" id="node5" href="$jffs2_2super_8c.html#a5399bb9f4f9d0a5a5f5f3014ec42876a" title="jffs2_mount" alt="" coords="699,5,789,32"/>
-</map>

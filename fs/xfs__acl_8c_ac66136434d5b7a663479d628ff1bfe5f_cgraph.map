@@ -1,9 +1,0 @@
-<map id="xfs_acl_from_disk" name="xfs_acl_from_disk">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="534,5,589,32"/>
-<area shape="rect" id="node4" href="$posix__acl_8c.html#a541fec655bdc5efc247a60bf612cc911" title="posix_acl_alloc" alt="" coords="183,43,293,69"/>
-<area shape="rect" id="node7" href="$xfs__linux_8h.html#a19689e6ac48d9d63ee0ebc8536d04e01" title="xfs_uid_to_kuid" alt="" coords="181,93,295,120"/>
-<area shape="rect" id="node8" href="$xfs__linux_8h.html#a7fe766c8cf2066e3a27960783a373377" title="xfs_gid_to_kgid" alt="" coords="181,144,295,171"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="679,5,797,32"/>
-<area shape="rect" id="node5" href="$posix__acl_8c.html#adf2bdd41f79cdfef8afff7adbdad95ac" title="posix_acl_init" alt="" coords="343,43,444,69"/>
-<area shape="rect" id="node6" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="492,68,631,95"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ceph_readpages_from_fscache" name="ceph_readpages_from_fscache">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="231,5,319,32"/>
-<area shape="rect" id="node3" href="$ceph_2cache_8c.html#a0f433e4cca9de6170ba6d9e15cba6681" title="cache_valid" alt="" coords="230,56,321,83"/>
-<area shape="rect" id="node4" href="$ceph_2cache_8c.html#a630d23cc6b6031ebb857e4dfceba0277" title="ceph_readpage_from\l_fscache_complete" alt="" coords="204,107,347,149"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="init_free_segmap" name="init_free_segmap">
-<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="197,5,301,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="390,56,445,83"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a047936c82a0a99dabfd6fb09cd837705" title="__set_free" alt="" coords="208,107,291,133"/>
-<area shape="rect" id="node7" href="$f2fs_2segment_8h.html#ab401fc665e34bc211f8ae30b552de703" title="CURSEG_I" alt="" coords="372,196,463,223"/>
-<area shape="rect" id="node8" href="$f2fs_2segment_8h.html#a98b9f79666c3723f8c87a0d4468d3de5" title="__set_test_and_inuse" alt="" coords="175,157,324,184"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="511,120,564,147"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="383,120,452,147"/>
-</map>

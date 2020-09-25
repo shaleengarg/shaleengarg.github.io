@@ -1,6 +1,0 @@
-<map id="v9fs_dir_readdir" name="v9fs_dir_readdir">
-<area shape="rect" id="node2" href="$vfs__dir_8c.html#afea73e886d9974f95e4e8da114a9003d" title="v9fs_alloc_rdir_buf" alt="" coords="168,5,299,32"/>
-<area shape="rect" id="node3" href="$vfs__dir_8c.html#ae61bd634c466ed80ee59992d75f70ab2" title="p9stat_init" alt="" coords="192,56,275,83"/>
-<area shape="rect" id="node4" href="$v9fs__vfs_8h.html#a79fd2ad5b31b0214db6c8d0c7011c43e" title="v9fs_qid2ino" alt="" coords="186,107,281,133"/>
-<area shape="rect" id="node5" href="$vfs__dir_8c.html#a78659d97eb3485bef6b4aea9f1de8c98" title="dt_type" alt="" coords="201,157,266,184"/>
-</map>

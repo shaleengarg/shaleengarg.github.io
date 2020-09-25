@@ -1,6 +1,0 @@
-<map id="crypt_message" name="crypt_message">
-<area shape="rect" id="node2" href="$smb2ops_8c.html#a180736c9f373732ae3861d8a97fadc5c" title="smb2_get_enc_key" alt="" coords="189,5,323,32"/>
-<area shape="rect" id="node3" href="$smb2proto_8h.html#ac5d830218f7187786d11a28cb0d470ba" title="smb3_crypto_aead_allocate" alt="" coords="164,56,348,83"/>
-<area shape="rect" id="node4" href="$smb2ops_8c.html#ae240d082648a4fb11250fdfffc06bc0a" title="init_sg" alt="" coords="226,107,286,133"/>
-<area shape="rect" id="node5" href="$smb2ops_8c.html#a9d6abb9c338da0749cfbec10ed36be1d" title="smb2_sg_set_buf" alt="" coords="396,107,521,133"/>
-</map>

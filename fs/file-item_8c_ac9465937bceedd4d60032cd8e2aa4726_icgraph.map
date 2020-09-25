@@ -1,9 +1,0 @@
-<map id="btrfs_lookup_bio_sums" name="btrfs_lookup_bio_sums">
-<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a2615d016ca805afc39763902e5c4f0c6" title="btrfs_submit_bio_hook" alt="" coords="461,5,615,32"/>
-<area shape="rect" id="node5" href="$compression_8h.html#ac2ce470a41c2a2d7b1514fdc30729d7b" title="btrfs_submit_compressed_read" alt="" coords="209,31,413,57"/>
-<area shape="rect" id="node6" href="$ctree_8h.html#a64893ed54e3a3760c561026c34dbe477" title="free_fs_info" alt="" coords="266,81,357,108"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="663,5,837,32"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="885,5,983,32"/>
-<area shape="rect" id="node7" href="$btrfs_2super_8c.html#a560d1a10868ee094b5ee24b98fe94619" title="btrfs_mount_root" alt="" coords="478,56,598,83"/>
-<area shape="rect" id="node8" href="$btrfs_2super_8c.html#a89866e36e3959d1dd885ced894dc0643" title="btrfs_kill_super" alt="" coords="695,81,805,108"/>
-</map>

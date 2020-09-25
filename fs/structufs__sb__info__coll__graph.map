@@ -1,8 +1,0 @@
-<map id="ufs_sb_info" name="ufs_sb_info">
-<area shape="rect" id="node2" href="$structsuper__block.html" title="super_block" alt="" coords="5,95,97,121"/>
-<area shape="rect" id="node3" href="$structufs__csum.html" title="ufs_csum" alt="" coords="121,95,200,121"/>
-<area shape="rect" id="node4" href="$structufs__cg__private__info.html" title="ufs_cg_private_info" alt="" coords="224,95,359,121"/>
-<area shape="rect" id="node5" href="$structufs__buffer__head.html" title="ufs_buffer_head" alt="" coords="247,5,362,32"/>
-<area shape="rect" id="node6" href="$structufs__sb__private__info.html" title="ufs_sb_private_info" alt="" coords="383,95,517,121"/>
-<area shape="rect" id="node7" href="$structufs__csum__core.html" title="ufs_csum_core" alt="" coords="395,5,505,32"/>
-</map>

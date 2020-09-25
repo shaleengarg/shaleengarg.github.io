@@ -1,8 +1,0 @@
-<map id="nfs_callback_up" name="nfs_callback_up">
-<area shape="rect" id="node2" href="$nfs_2callback_8c.html#a44606f3372da18d48559b3c53f7c7553" title="nfs_callback_create_svc" alt="" coords="169,5,336,32"/>
-<area shape="rect" id="node3" href="$nfs_2callback_8c.html#a479aa1f77a54b01460f96f8079466d03" title="nfs_callback_up_net" alt="" coords="182,56,323,83"/>
-<area shape="rect" id="node5" href="$nfs_2callback_8c.html#a917d449c12e60252ec9daea19142e222" title="nfs_callback_start_svc" alt="" coords="175,107,331,133"/>
-<area shape="rect" id="node7" href="$nfs_2callback_8c.html#a966d4f5bf251eaa2689373953071e445" title="nfs_callback_down_net" alt="" coords="173,157,332,184"/>
-<area shape="rect" id="node4" href="$nfs_2callback_8c.html#a5693554240104444fe9060fa8097f855" title="nfs4_callback_up_net" alt="" coords="384,56,532,83"/>
-<area shape="rect" id="node6" href="$nfs_2callback_8c.html#a4a89b024e3aebc0d47d07d0c661000ae" title="nfs_callback_bc_serv" alt="" coords="384,107,532,133"/>
-</map>

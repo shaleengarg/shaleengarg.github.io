@@ -1,5 +1,0 @@
-<map id="gfs2_recover_set" name="gfs2_recover_set">
-<area shape="rect" id="node2" href="$gfs2_2sys_8c.html#a5bec55156ae7c27af144f19c92f66459" title="recover_store" alt="" coords="188,5,289,32"/>
-<area shape="rect" id="node3" href="$lock__dlm_8c.html#aa789a40ff0068531c73d8f232409d7ef" title="gfs2_control_func" alt="" coords="176,56,301,83"/>
-<area shape="rect" id="node4" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="349,56,443,83"/>
-</map>

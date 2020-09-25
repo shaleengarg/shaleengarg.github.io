@@ -1,6 +1,0 @@
-<map id="vfs_read" name="vfs_read">
-<area shape="rect" id="node2" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="125,5,232,32"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#aaad08cb7a69ffa5dd39ecb2c25be9456" title="__vfs_read" alt="" coords="135,56,222,83"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="280,5,401,32"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#a3c8dee4a7ac07ac76e7f2269e90f0993" title="new_sync_read" alt="" coords="284,56,397,83"/>
-</map>

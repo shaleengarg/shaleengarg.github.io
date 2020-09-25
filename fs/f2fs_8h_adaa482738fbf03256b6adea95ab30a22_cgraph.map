@@ -1,9 +1,0 @@
-<map id="need_SSR" name="need_SSR">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a21274970a1ecd55f1d2967bff2288454" title="get_blocktype_secs" alt="" coords="139,5,277,32"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#a1a4a25872ae45545341a37aefba6aef7" title="free_sections" alt="" coords="158,56,258,83"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="509,107,563,133"/>
-<area shape="rect" id="node7" href="$f2fs_2segment_8h.html#ac08f83887aabacf8c8e8c74fce969f1f" title="reserved_sections" alt="" coords="144,157,272,184"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#ab9b89fbc6698715c48d39b8872a9d6ab" title="get_pages" alt="" coords="352,5,435,32"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="359,56,428,83"/>
-<area shape="rect" id="node8" href="$f2fs_2segment_8h.html#aea59cabbbe928c13475a7b8d330642ba" title="reserved_segments" alt="" coords="325,157,461,184"/>
-</map>

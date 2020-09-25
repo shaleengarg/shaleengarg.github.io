@@ -1,4 +1,0 @@
-<map id="persistent_ram_buffer_map" name="persistent_ram_buffer_map">
-<area shape="rect" id="node2" href="$ram__core_8c.html#aa14fdad32a0c9f61b43eaf8f28182f8d" title="persistent_ram_vmap" alt="" coords="235,5,382,32"/>
-<area shape="rect" id="node3" href="$ram__core_8c.html#a86732851ccf05db38bb93faabd786e78" title="persistent_ram_iomap" alt="" coords="233,56,384,83"/>
-</map>

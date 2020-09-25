@@ -1,5 +1,0 @@
-<map id="__ceph_caps_issued" name="__ceph_caps_issued">
-<area shape="rect" id="node2" href="$caps_8c.html#a35c397ce599c93d8d9ac5589d4fa5f1d" title="__cap_is_valid" alt="" coords="197,5,305,32"/>
-<area shape="rect" id="node3" href="$caps_8c.html#aee4ad867f02c07e329a4e9328fec14a2" title="ceph_cap_string" alt="" coords="353,31,471,57"/>
-<area shape="rect" id="node4" href="$caps_8c.html#aa158fde50093f72901e1c22ecf24fc99" title="gcap_string" alt="" coords="519,31,608,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="remove_extent_ref" name="remove_extent_ref">
-<area shape="rect" id="node2" href="$qgroup-tests_8c.html#a747c7d79fda9827a6821926bd7322d22" title="test_multiple_refs" alt="" coords="184,5,309,32"/>
-<area shape="rect" id="node3" href="$qgroup-tests_8c.html#ac421b3348dd5a86e74f3b009bad00481" title="btrfs_test_qgroups" alt="" coords="357,5,488,32"/>
-<area shape="rect" id="node4" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="536,5,687,32"/>
-<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="735,5,825,32"/>
-<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="873,5,968,32"/>
-</map>

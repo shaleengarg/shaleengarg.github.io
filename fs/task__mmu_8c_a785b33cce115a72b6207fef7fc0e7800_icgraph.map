@@ -1,5 +1,0 @@
-<map id="proc_maps_open" name="proc_maps_open">
-<area shape="rect" id="node2" href="$task__mmu_8c.html#acafedf49229220d40d287452af3a0b62" title="do_maps_open" alt="" coords="175,31,285,57"/>
-<area shape="rect" id="node3" href="$task__mmu_8c.html#acb8f8f024ff6442124d2b13bc6f4f51c" title="pid_maps_open" alt="" coords="333,5,447,32"/>
-<area shape="rect" id="node4" href="$task__mmu_8c.html#aa16d7b84330afe08da9d3bf0373e1464" title="tid_maps_open" alt="" coords="335,56,445,83"/>
-</map>

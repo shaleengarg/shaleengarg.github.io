@@ -1,8 +1,0 @@
-<map id="test_perm" name="test_perm">
-<area shape="rect" id="node2" href="$proc__sysctl_8c.html#a886920b00ecb976050fa2fd2ea74641c" title="sysctl_perm" alt="" coords="133,81,227,108"/>
-<area shape="rect" id="node3" href="$proc__sysctl_8c.html#abe6cfefc3a1c0058045a07400e2a16e7" title="proc_sys_call_handler" alt="" coords="275,56,425,83"/>
-<area shape="rect" id="node7" href="$proc__sysctl_8c.html#a06e069d63d5248f36af3aab6400c9e96" title="proc_sys_permission" alt="" coords="277,107,423,133"/>
-<area shape="rect" id="node4" href="$proc__sysctl_8c.html#aae76691ce99188d51fb33999ed7cd68e" title="proc_sys_read" alt="" coords="475,5,582,32"/>
-<area shape="rect" id="node6" href="$proc__sysctl_8c.html#a7bff29c483ee80464ca6a8e880536320" title="proc_sys_write" alt="" coords="473,56,584,83"/>
-<area shape="rect" id="node5" href="$proc__sysctl_8c.html#ad69278ca55f246a6d49f8f78f1da0e29" title="proc_sys_getattr" alt="" coords="632,56,751,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="smbd_register_mr" name="smbd_register_mr">
-<area shape="rect" id="node2" href="$smbdirect_8c.html#a90389c586c7ec8560f6d302b9eee044b" title="get_mr" alt="" coords="210,5,273,32"/>
-<area shape="rect" id="node3" href="$smbdirect_8c.html#ae79c99bf6d89212ec8149089cfa6787b" title="register_mr_done" alt="" coords="180,56,303,83"/>
-<area shape="rect" id="node4" href="$smbdirect_8c.html#a01fb5f06ab90ffef32007eda55a54f1b" title="smbd_disconnect_rdma\l_connection" alt="" coords="351,74,511,115"/>
-</map>

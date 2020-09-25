@@ -1,8 +1,0 @@
-<map id="qnx6_check_blockptr" name="qnx6_check_blockptr">
-<area shape="rect" id="node2" href="$qnx6_2inode_8c.html#ab764881c0fe355ecd97212da7af8a710" title="qnx6_block_map" alt="" coords="199,5,319,32"/>
-<area shape="rect" id="node3" href="$qnx6_2inode_8c.html#a949a9760ba202e191e1060fac9de05d6" title="qnx6_get_devblock" alt="" coords="367,5,501,32"/>
-<area shape="rect" id="node4" href="$qnx6_2inode_8c.html#a11353035dd39801f09a948d2759ef382" title="qnx6_get_block" alt="" coords="377,56,491,83"/>
-<area shape="rect" id="node5" href="$qnx6_2inode_8c.html#a00d2758143b25cf5115e3029bf7bc947" title="qnx6_readpage" alt="" coords="553,5,663,32"/>
-<area shape="rect" id="node6" href="$qnx6_2inode_8c.html#ad55f689b312374b685719959662da45b" title="qnx6_readpages" alt="" coords="549,56,667,83"/>
-<area shape="rect" id="node7" href="$qnx6_2inode_8c.html#a9c3c73ab75a867410067c89eaa69a4fa" title="qnx6_bmap" alt="" coords="563,107,653,133"/>
-</map>

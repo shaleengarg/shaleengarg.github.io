@@ -1,6 +1,0 @@
-<map id="send_message" name="send_message">
-<area shape="rect" id="node2" href="$dlm_2util_8c.html#a2c8252823528930977dea9a9d40dd826" title="dlm_message_out" alt="" coords="181,31,309,57"/>
-<area shape="rect" id="node5" href="$lowcomms_8c.html#ac9d7f3a2396c0b79cb3012452b09c21e" title="dlm_lowcomms_commit\l_buffer" alt="" coords="164,82,327,123"/>
-<area shape="rect" id="node3" href="$dlm_2util_8c.html#abd7e467a9d88bbab0ad3d0dc299a1603" title="header_out" alt="" coords="380,5,467,32"/>
-<area shape="rect" id="node4" href="$dlm_2util_8c.html#af1034a8f4c1dd7e2c8e141103549e505" title="to_dlm_errno" alt="" coords="375,56,472,83"/>
-</map>

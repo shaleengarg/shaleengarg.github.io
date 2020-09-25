@@ -1,5 +1,0 @@
-<map id="romfs_iget" name="romfs_iget">
-<area shape="rect" id="node2" href="$romfs_2super_8c.html#aa9d6b1b0741d4e99aaf923b5d1e7a584" title="romfs_lookup" alt="" coords="143,5,243,32"/>
-<area shape="rect" id="node3" href="$romfs_2super_8c.html#af4063a2cd792bf52882639a125493eef" title="romfs_fill_super" alt="" coords="136,56,251,83"/>
-<area shape="rect" id="node4" href="$romfs_2super_8c.html#a3b45eff2c2ce9537e688794307543d72" title="romfs_mount" alt="" coords="299,56,397,83"/>
-</map>

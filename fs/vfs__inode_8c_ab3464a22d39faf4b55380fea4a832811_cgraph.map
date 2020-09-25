@@ -1,9 +1,0 @@
-<map id="v9fs_init_inode" name="v9fs_init_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a40f590a020642f6d9ba3746bafb4c158" title="inode_init_owner" alt="" coords="166,5,285,32"/>
-<area shape="rect" id="node4" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="178,56,273,83"/>
-<area shape="rect" id="node5" href="$v9fs_8h.html#ad9d6821fa26b42f78ff76cb80a0f9224" title="v9fs_proto_dotl" alt="" coords="170,107,281,133"/>
-<area shape="rect" id="node6" href="$v9fs_8h.html#aa20a9b87db382b990ef3b0d7f5de4291" title="v9fs_proto_dotu" alt="" coords="168,157,283,184"/>
-<area shape="rect" id="node7" href="$inode_8c.html#aa992afd465d948c7fca769d396933c98" title="init_special_inode" alt="" coords="163,208,288,235"/>
-<area shape="rect" id="node8" href="$inode_8c.html#a9e6c5f183e4d22feba01bc18e9866dd1" title="inc_nlink" alt="" coords="189,259,262,285"/>
-<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="336,132,475,159"/>
-</map>

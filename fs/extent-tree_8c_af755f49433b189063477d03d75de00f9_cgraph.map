@@ -1,4 +1,0 @@
-<map id="btrfs_block_rsv_migrate" name="btrfs_block_rsv_migrate">
-<area shape="rect" id="node2" href="$extent-tree_8c.html#a238bc256e167bfe52b474496bab70e2a" title="block_rsv_use_bytes" alt="" coords="215,5,360,32"/>
-<area shape="rect" id="node3" href="$extent-tree_8c.html#a05980f1583539687dd2b1125d0918508" title="block_rsv_add_bytes" alt="" coords="215,56,360,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="BUI_ITEM" name="BUI_ITEM">
-<area shape="rect" id="node2" href="$xfs__bmap__item_8c.html#a897170140e6d73b33fb20418b1787006" title="xfs_bui_item_size" alt="" coords="145,5,271,32"/>
-<area shape="rect" id="node3" href="$xfs__bmap__item_8c.html#afb89e64e4961c26a25ee928ea07f4ad1" title="xfs_bui_item_format" alt="" coords="138,56,278,83"/>
-<area shape="rect" id="node4" href="$xfs__bmap__item_8c.html#a740115faa79739d4e499d1ff3e592ee2" title="xfs_bui_item_unpin" alt="" coords="141,107,275,133"/>
-<area shape="rect" id="node5" href="$xfs__bmap__item_8c.html#abc558635ded50b2cb10675c2928f74db" title="xfs_bui_item_unlock" alt="" coords="137,157,279,184"/>
-</map>

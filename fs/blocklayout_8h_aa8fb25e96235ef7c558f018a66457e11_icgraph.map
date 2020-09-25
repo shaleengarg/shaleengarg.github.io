@@ -1,9 +1,0 @@
-<map id="BLK_LSEG2EXT" name="BLK_LSEG2EXT">
-<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html#ad476a5e8de91c9b054212751ee6b1e21" title="bl_mark_devices_unavailable" alt="" coords="176,81,368,108"/>
-<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#a0619ede503935b3ddcf512ea28fe362f" title="bl_read_pagelist" alt="" coords="603,5,719,32"/>
-<area shape="rect" id="node6" href="$blocklayout_2blocklayout_8c.html#ad33173ca191d852196fe8841079b9313" title="bl_write_pagelist" alt="" coords="601,132,720,159"/>
-<area shape="rect" id="node7" href="$blocklayout_2blocklayout_8c.html#ac3eff1dee5ff8b181a43b0c70017a83f" title="bl_write_cleanup" alt="" coords="213,183,331,209"/>
-<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#a64dc6c73b1813daadf44c9d671ed10aa" title="bl_end_io_read" alt="" coords="430,31,539,57"/>
-<area shape="rect" id="node5" href="$blocklayout_2blocklayout_8c.html#a062e9eef39e97bd6741f6fe52056f68c" title="bl_end_io_write" alt="" coords="429,81,541,108"/>
-<area shape="rect" id="node8" href="$blocklayout_2blocklayout_8c.html#a429a567fb79ebe410044cf5f432e1649" title="bl_end_par_io_write" alt="" coords="416,183,553,209"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mnt_drop_write_file" name="mnt_drop_write_file">
-<area shape="rect" id="node2" href="$namespace_8c.html#ad990c81af66b82e8c66b009dd531b77b" title="__mnt_drop_write" alt="" coords="195,31,320,57"/>
-<area shape="rect" id="node5" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="188,81,327,108"/>
-<area shape="rect" id="node3" href="$namespace_8c.html#a6b6223aa5bccbed87645de18e8b0abac" title="mnt_dec_writers" alt="" coords="375,5,493,32"/>
-<area shape="rect" id="node4" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="391,56,477,83"/>
-</map>

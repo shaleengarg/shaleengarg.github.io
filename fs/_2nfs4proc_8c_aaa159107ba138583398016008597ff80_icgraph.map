@@ -1,6 +1,0 @@
-<map id="gen_boot_verifier" name="gen_boot_verifier">
-<area shape="rect" id="node2" href="$_2nfs4proc_8c.html#a95055f68c5f610bc7b2a038a060e420d" title="nfsd4_commit" alt="" coords="175,5,279,32"/>
-<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#aa5dcbf94d8a7f439f15c7730994a5aad" title="nfsd4_write" alt="" coords="182,56,271,83"/>
-<area shape="rect" id="node5" href="$_2nfs4proc_8c.html#a99cce79ce9a6efee39752cf9c26aa74b" title="nfsd4_copy" alt="" coords="182,107,271,133"/>
-<area shape="rect" id="node3" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="327,56,451,83"/>
-</map>

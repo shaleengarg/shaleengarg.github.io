@@ -1,5 +1,0 @@
-<map id="ocfs2_jbd2_file_inode" name="ocfs2_jbd2_file_inode">
-<area shape="rect" id="node2" href="$jbd2_2transaction_8c.html#a88c8a432ecccc179b578d9b809f097c5" title="jbd2_journal_inode\l_add_write" alt="" coords="200,5,329,47"/>
-<area shape="rect" id="node4" href="$ocfs2_2inode_8h.html#ad355602d6e917df63ae06c1734f0f203" title="OCFS2_I" alt="" coords="226,71,303,98"/>
-<area shape="rect" id="node3" href="$jbd2_2transaction_8c.html#a27ca9c778895537e5ab0d4194c1fa2c2" title="jbd2_journal_file_inode" alt="" coords="377,13,531,39"/>
-</map>

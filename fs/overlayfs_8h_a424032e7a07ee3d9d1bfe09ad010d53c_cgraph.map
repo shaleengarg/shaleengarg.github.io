@@ -1,8 +1,0 @@
-<map id="ovl_path_real" name="ovl_path_real">
-<area shape="rect" id="node2" href="$overlayfs_2util_8c.html#aaf0625bdfcaae996050894c9eb3e9103" title="ovl_path_type" alt="" coords="156,5,259,32"/>
-<area shape="rect" id="node6" href="$overlayfs_2util_8c.html#a50186b79e0179298f8fba38d3acf6616" title="ovl_path_lower" alt="" coords="153,56,262,83"/>
-<area shape="rect" id="node7" href="$overlayfs_2util_8c.html#a69519f98894bbeb266247fd6ad499ea7" title="ovl_path_upper" alt="" coords="152,107,263,133"/>
-<area shape="rect" id="node3" href="$overlayfs_2util_8c.html#a25a8881c373a94c936cb407f5e8a25b5" title="ovl_dentry_upper" alt="" coords="311,56,432,83"/>
-<area shape="rect" id="node4" href="$ovl__entry_8h.html#a041d29afdee572c0b88f51cd10986d27" title="ovl_upperdentry_dereference" alt="" coords="480,31,669,57"/>
-<area shape="rect" id="node5" href="$ovl__entry_8h.html#aa841e714a900ca921bdda503ee671a34" title="OVL_I" alt="" coords="545,81,604,108"/>
-</map>

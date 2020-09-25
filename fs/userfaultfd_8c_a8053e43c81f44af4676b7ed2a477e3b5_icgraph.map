@@ -1,5 +1,0 @@
-<map id="userfaultfd_event_complete" name="userfaultfd_event_complete">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#a93163998cdc0d2e85518391fc7fd56a9" title="userfaultfd_ctx_read" alt="" coords="236,5,376,32"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a9aea150380b8eaa3186058be040a370a" title="userfaultfd_read" alt="" coords="424,5,539,32"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#a5f6bd2d87ee717b7f3853b334775cfa6" title="userfaultfd_ioctl" alt="" coords="587,5,701,32"/>
-</map>

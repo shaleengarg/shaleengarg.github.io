@@ -1,8 +1,0 @@
-<map id="dax_iomap_rw" name="dax_iomap_rw">
-<area shape="rect" id="node2" href="$ext4_2file_8c.html#a33ba358ebfc1b932b594814a3248a4b7" title="ext4_write_checks" alt="" coords="160,5,291,32"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#ac6b71778a8df503115eceb43e6323e17" title="xfs_file_dax_read" alt="" coords="163,56,287,83"/>
-<area shape="rect" id="node6" href="$xfs__file_8c.html#a64b04eadb2020d599d47a4cbb63baafc" title="xfs_file_dax_write" alt="" coords="162,107,289,133"/>
-<area shape="rect" id="node3" href="$ext4_2file_8c.html#a2d978096b5fc5b1e10ae256d93886822" title="ext4_file_write_iter" alt="" coords="339,5,469,32"/>
-<area shape="rect" id="node5" href="$xfs__file_8c.html#a80d1a84c62f83f38601928e502dbb80e" title="xfs_file_read_iter" alt="" coords="343,56,465,83"/>
-<area shape="rect" id="node7" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="342,107,466,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="jfs_init_security" name="jfs_init_security">
-<area shape="rect" id="node2" href="$jfs_2namei_8c.html#acb5dbad87badfa2c17975c1e3f8f69a7" title="jfs_create" alt="" coords="171,5,250,32"/>
-<area shape="rect" id="node3" href="$jfs_2namei_8c.html#a8e38c78d443f599f358d74f9a0828ed4" title="jfs_mkdir" alt="" coords="173,56,248,83"/>
-<area shape="rect" id="node4" href="$jfs_2namei_8c.html#aba1fc327be9b506d66b67bfef6a435bf" title="jfs_symlink" alt="" coords="167,107,255,133"/>
-<area shape="rect" id="node5" href="$jfs_2namei_8c.html#a8e48423fb7b4d82fdb4214f061366964" title="jfs_mknod" alt="" coords="169,157,252,184"/>
-</map>

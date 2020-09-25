@@ -1,9 +1,0 @@
-<map id="get_dfs_path" name="get_dfs_path">
-<area shape="rect" id="node2" href="$cifs__dfs__ref_8c.html#a3a3ac509d4f6f68228d77aafe8e9c0bc" title="cifs_dfs_do_automount" alt="" coords="158,12,315,39"/>
-<area shape="rect" id="node4" href="$connect_8c.html#ae6489db393563c4b3def469e96225dbb" title="cifs_cleanup_volume_info" alt="" coords="151,69,323,96"/>
-<area shape="rect" id="node7" href="$smb1ops_8c.html#a89096852154679215b7b57ff65bb5e56" title="cifs_unix_dfs_readlink" alt="" coords="161,132,312,159"/>
-<area shape="rect" id="node3" href="$cifs__dfs__ref_8c.html#abc925e84b9babd036a231f8115e0e77d" title="cifs_dfs_d_automount" alt="" coords="371,5,521,32"/>
-<area shape="rect" id="node5" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="569,81,676,108"/>
-<area shape="rect" id="node6" href="$connect_8c.html#aeb495e48352a23816a0e8f29b5e0a34c" title="cifs_get_volume_info" alt="" coords="373,107,519,133"/>
-<area shape="rect" id="node8" href="$smb1ops_8c.html#a0e43198af4504c46db5ee2db77141654" title="cifs_query_symlink" alt="" coords="379,157,513,184"/>
-</map>

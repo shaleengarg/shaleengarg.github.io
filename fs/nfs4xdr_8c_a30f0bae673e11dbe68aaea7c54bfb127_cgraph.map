@@ -1,5 +1,0 @@
-<map id="decode_attr_time_delta" name="decode_attr_time_delta">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#add8d12f7cfe65cc6ab1320aebe84937f" title="decode_attr_time" alt="" coords="211,31,333,57"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a0fe22a8e9ea737a536b59f03ebda9c04" title="xdr_decode_nfstime4" alt="" coords="381,5,528,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="387,56,522,83"/>
-</map>

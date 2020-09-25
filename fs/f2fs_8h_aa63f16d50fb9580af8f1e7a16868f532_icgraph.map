@@ -1,6 +1,0 @@
-<map id="recover_inode_page" name="recover_inode_page">
-<area shape="rect" id="node2" href="$f2fs_2recovery_8c.html#a39eb91ab0b44097bc1c3417657f57798" title="find_fsync_dnodes" alt="" coords="192,5,323,32"/>
-<area shape="rect" id="node3" href="$f2fs_2recovery_8c.html#a27678512f558467924ed7e92009d0840" title="recover_fsync_data" alt="" coords="371,5,507,32"/>
-<area shape="rect" id="node4" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="555,5,657,32"/>
-<area shape="rect" id="node5" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="705,5,792,32"/>
-</map>

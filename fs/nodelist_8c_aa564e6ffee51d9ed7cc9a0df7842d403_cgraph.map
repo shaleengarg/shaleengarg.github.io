@@ -1,5 +1,0 @@
-<map id="no_overlapping_node" name="no_overlapping_node">
-<area shape="rect" id="node2" href="$nodelist_8c.html#a6f836110596d03203a5c76ec92c6e264" title="new_fragment" alt="" coords="215,5,319,32"/>
-<area shape="rect" id="node4" href="$malloc_8c.html#a290cdca370d3afa07ad6f8a5a629f6ec" title="jffs2_free_node_frag" alt="" coords="197,56,337,83"/>
-<area shape="rect" id="node3" href="$malloc_8c.html#a9ecc7efd159bd4fb303d34795a2cd277" title="jffs2_alloc_node_frag" alt="" coords="385,5,531,32"/>
-</map>

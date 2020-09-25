@@ -1,7 +1,0 @@
-<map id="first_usable_entry" name="first_usable_entry">
-<area shape="rect" id="node2" href="$proc__sysctl_8c.html#a90db62022f34beba552df20852cd5535" title="first_entry" alt="" coords="180,5,260,32"/>
-<area shape="rect" id="node5" href="$proc__sysctl_8c.html#a091cf7df76e63a357b1f68a9e6301837" title="next_entry" alt="" coords="179,56,261,83"/>
-<area shape="rect" id="node3" href="$proc__sysctl_8c.html#aa6bdb73df8759a6b59289357d34cf9fa" title="proc_sys_readdir" alt="" coords="328,5,449,32"/>
-<area shape="rect" id="node4" href="$proc__sysctl_8c.html#ad69278ca55f246a6d49f8f78f1da0e29" title="proc_sys_getattr" alt="" coords="516,5,635,32"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a224ce2f795665ce12f8cd62cd43244cd" title="f2fs_destroy_root_stats" alt="" coords="309,56,468,83"/>
-</map>

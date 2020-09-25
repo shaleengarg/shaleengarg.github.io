@@ -1,8 +1,0 @@
-<map id="btrfs_free_stale_devices" name="btrfs_free_stale_devices">
-<area shape="rect" id="node2" href="$btrfs_2sysfs_8c.html#af64f308e4d6415f4f9b3262c603eee1a" title="btrfs_sysfs_remove_fsid" alt="" coords="217,31,383,57"/>
-<area shape="rect" id="node5" href="$volumes_8c.html#a02e042fbd15e4e09d04091c74a83da52" title="free_fs_devices" alt="" coords="243,81,357,108"/>
-<area shape="rect" id="node6" href="$volumes_8c.html#a5df98fb50043117ebb12c413840fc73e" title="free_device" alt="" coords="475,119,565,145"/>
-<area shape="rect" id="node3" href="$volumes_8c.html#adc39e837a05fc36ea825560e65bc7c50" title="btrfs_get_fs_uuids" alt="" coords="455,5,585,32"/>
-<area shape="rect" id="node4" href="$btrfs_2sysfs_8c.html#ae02f0b9e8491cfc060d0c57f871307f9" title="__btrfs_sysfs_remove_fsid" alt="" coords="431,56,609,83"/>
-<area shape="rect" id="node7" href="$rcu-string_8h.html#ab194d10b7c02c78e0fddaef162dd04f1" title="rcu_string_free" alt="" coords="657,119,765,145"/>
-</map>

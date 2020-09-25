@@ -1,5 +1,0 @@
-<map id="delayed_free" name="delayed_free">
-<area shape="rect" id="node2" href="$connect_8c.html#af4abed2de1a394bac0df853c396bd2aa" title="cifs_umount" alt="" coords="149,31,243,57"/>
-<area shape="rect" id="node3" href="$cifsfs_8c.html#af5c69574d35b597192448a201bb0644a" title="cifs_kill_sb" alt="" coords="301,5,387,32"/>
-<area shape="rect" id="node4" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="291,56,397,83"/>
-</map>

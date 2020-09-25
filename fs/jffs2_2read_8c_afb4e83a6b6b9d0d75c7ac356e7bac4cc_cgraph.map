@@ -1,8 +1,0 @@
-<map id="jffs2_read_inode_range" name="jffs2_read_inode_range">
-<area shape="rect" id="node2" href="$nodelist_8c.html#ac66b85114c803740998555e26a7300cd" title="jffs2_lookup_node_frag" alt="" coords="209,31,365,57"/>
-<area shape="rect" id="node3" href="$jffs2_2read_8c.html#a61cac09251fd2d847bacd94dd6d81868" title="jffs2_read_dnode" alt="" coords="227,81,348,108"/>
-<area shape="rect" id="node4" href="$malloc_8c.html#a6f8a9a0f7158367399edb50c5bda2691" title="jffs2_alloc_raw_inode" alt="" coords="413,5,560,32"/>
-<area shape="rect" id="node5" href="$wbuf_8c.html#aeab128069ffeb72cb296580e988d8687" title="jffs2_flash_read" alt="" coords="429,56,544,83"/>
-<area shape="rect" id="node6" href="$malloc_8c.html#ac0558b9433ccf232e977fd5a5f61a556" title="jffs2_free_raw_inode" alt="" coords="415,107,558,133"/>
-<area shape="rect" id="node7" href="$compr_8c.html#a4620038e66349c4038b6ec0b87879199" title="jffs2_decompress" alt="" coords="424,157,549,184"/>
-</map>

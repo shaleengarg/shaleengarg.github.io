@@ -1,7 +1,0 @@
-<map id="SYSCALL_DEFINE3" name="SYSCALL_DEFINE3">
-<area shape="rect" id="node2" href="$readdir_8c.html#aae6d48286103743f46b0f483ae8e83e1" title="filldir" alt="" coords="215,5,264,32"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="369,56,423,83"/>
-<area shape="rect" id="node5" href="$readdir_8c.html#a2f27e987a46719a16192d200233535e2" title="iterate_dir" alt="" coords="200,107,279,133"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="513,56,632,83"/>
-<area shape="rect" id="node6" href="$readdir_8c.html#a0f03fe0c9ac1086f135f598163b15cb4" title="EXPORT_SYMBOL" alt="" coords="327,107,465,133"/>
-</map>

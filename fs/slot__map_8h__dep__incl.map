@@ -1,6 +1,0 @@
-<map id="ocfs2/slot_map.h" name="ocfs2/slot_map.h">
-<area shape="rect" id="node2" href="$dlmglue_8c.html" title="ocfs2/dlmglue.c" alt="" coords="5,80,120,107"/>
-<area shape="rect" id="node3" href="$ocfs2_2journal_8c.html" title="ocfs2/journal.c" alt="" coords="144,80,251,107"/>
-<area shape="rect" id="node4" href="$slot__map_8c.html" title="ocfs2/slot_map.c" alt="" coords="275,80,397,107"/>
-<area shape="rect" id="node5" href="$ocfs2_2super_8c.html" title="ocfs2/super.c" alt="" coords="421,80,523,107"/>
-</map>

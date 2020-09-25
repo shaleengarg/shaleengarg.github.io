@@ -1,6 +1,0 @@
-<map id="fsnotify_destroy_marks" name="fsnotify_destroy_marks">
-<area shape="rect" id="node2" href="$fsnotify_8h.html#a343d9b349b76fbd0a53a43515490b332" title="fsnotify_clear_marks\l_by_inode" alt="" coords="212,5,355,47"/>
-<area shape="rect" id="node4" href="$fsnotify_8h.html#a567c368a44e10d4547bfaaed15e3e1c9" title="fsnotify_clear_marks\l_by_mount" alt="" coords="212,71,355,112"/>
-<area shape="rect" id="node3" href="$fsnotify_8c.html#a07ef4325b2963533c26ee43bf0121a66" title="__fsnotify_inode_delete" alt="" coords="403,13,561,39"/>
-<area shape="rect" id="node5" href="$fsnotify_8c.html#adb0f988d58284e79fd5b2bf0f5605502" title="__fsnotify_vfsmount\l_delete" alt="" coords="412,71,552,112"/>
-</map>

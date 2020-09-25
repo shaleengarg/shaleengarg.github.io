@@ -1,7 +1,0 @@
-<map id="iterate_dir" name="iterate_dir">
-<area shape="rect" id="node2" href="$readdir_8c.html#a0f03fe0c9ac1086f135f598163b15cb4" title="EXPORT_SYMBOL" alt="" coords="136,5,275,32"/>
-<area shape="rect" id="node3" href="$readdir_8c.html#a2c270b426c399c78a90fb0a9144d6d5e" title="SYSCALL_DEFINE3" alt="" coords="132,56,279,83"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="327,107,381,133"/>
-<area shape="rect" id="node4" href="$readdir_8c.html#aae6d48286103743f46b0f483ae8e83e1" title="filldir" alt="" coords="329,56,379,83"/>
-<area shape="rect" id="node6" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="429,107,548,133"/>
-</map>

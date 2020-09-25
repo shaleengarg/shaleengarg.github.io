@@ -1,6 +1,0 @@
-<map id="__get_segment_type_4" name="__get_segment_type_4">
-<area shape="rect" id="node2" href="$node_8h.html#a00cb1095b69ed24f42d0f0892d6bad13" title="IS_DNODE" alt="" coords="211,31,301,57"/>
-<area shape="rect" id="node3" href="$node_8h.html#a6e2504e50fd5503fac18e580a94ad426" title="ofs_of_node" alt="" coords="374,5,467,32"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#aed18e7670f13cf639dda3164c86b9e78" title="f2fs_has_xattr_block" alt="" coords="349,56,492,83"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="540,5,640,32"/>
-</map>

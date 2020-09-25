@@ -1,8 +1,0 @@
-<map id="xfs_blkdev_put" name="xfs_blkdev_put">
-<area shape="rect" id="node2" href="$xfs__super_8c.html#a830a1c6e588c0cb240edf5321dc27053" title="xfs_close_devices" alt="" coords="164,59,295,85"/>
-<area shape="rect" id="node7" href="$xfs__super_8c.html#a11327fd8762c9dec8aedea5938468183" title="xfs_open_devices" alt="" coords="166,8,293,35"/>
-<area shape="rect" id="node3" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="345,8,463,35"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#ad673589bd85ed83fd3861c5bdeca5ab6" title="xfs_fs_put_super" alt="" coords="343,60,465,87"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="531,5,632,32"/>
-<area shape="rect" id="node6" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="513,57,649,98"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="xfs_map_trim_size" name="xfs_map_trim_size">
-<area shape="rect" id="node2" href="$xfs__aops_8c.html#ab6220b3f97d139ad21d89789d9104d83" title="xfs_get_blocks" alt="" coords="185,56,296,83"/>
-<area shape="rect" id="node3" href="$xfs__aops_8c.html#a2c85c362ccd4272cc943ff2c79f652cf" title="xfs_vm_bmap" alt="" coords="358,5,462,32"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#a8bee647664c36c12c65958879ce13e1c" title="xfs_vm_readpage" alt="" coords="347,56,473,83"/>
-<area shape="rect" id="node5" href="$xfs__aops_8c.html#a42ec0d98f3cc536389f9ed184b79d1e1" title="xfs_vm_readpages" alt="" coords="344,107,476,133"/>
-</map>

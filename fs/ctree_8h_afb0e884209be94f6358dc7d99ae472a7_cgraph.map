@@ -1,5 +1,0 @@
-<map id="btrfs_node_key_to_cpu" name="btrfs_node_key_to_cpu">
-<area shape="rect" id="node2" href="$ctree_8h.html#ad9e3e6081bf6c57503beefcb2f833e5b" title="btrfs_node_key" alt="" coords="232,13,343,39"/>
-<area shape="rect" id="node4" href="$ctree_8h.html#a140716a48536f88d5213fdd8e18ec0d2" title="btrfs_disk_key_to_cpu" alt="" coords="211,63,364,90"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#aa94ace94f530e840c21d590b85f94805" title="btrfs_node_key_ptr\l_offset" alt="" coords="412,5,545,47"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="jffs2_erase_block" name="jffs2_erase_block">
-<area shape="rect" id="node2" href="$erase_8c.html#afd6713ef449136ad90348202817be799" title="jffs2_erase_succeeded" alt="" coords="177,15,333,42"/>
-<area shape="rect" id="node5" href="$erase_8c.html#a0d39b7165f8f3e8cd8ead4f8be2ebbcd" title="jffs2_erase_failed" alt="" coords="193,67,317,94"/>
-<area shape="rect" id="node3" href="$background_8c.html#a80e9300edcaf3596b55458255e94fea3" title="jffs2_garbage_collect\l_trigger" alt="" coords="397,5,542,47"/>
-<area shape="rect" id="node4" href="$nodelist_8h.html#a3ff0293c12b3db05d2f57539d3d17b2e" title="jffs2_thread_should_wake" alt="" coords="605,13,779,39"/>
-<area shape="rect" id="node6" href="$wbuf_8c.html#a3f12054a0d5d08b8b45e61eb8353c062" title="jffs2_write_nand_badblock" alt="" coords="381,71,557,98"/>
-</map>

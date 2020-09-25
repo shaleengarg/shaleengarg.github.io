@@ -1,7 +1,0 @@
-<map id="__nfs3_proc_setacls" name="__nfs3_proc_setacls">
-<area shape="rect" id="node2" href="$nfs3acl_8c.html#a7277973ae7ba5be00e843ee9427af4b3" title="nfs3_proc_setacls" alt="" coords="196,56,324,83"/>
-<area shape="rect" id="node6" href="$nfs3acl_8c.html#abd4bd271ef0d43e448a0005509e3fe81" title="nfs3_set_acl" alt="" coords="212,107,308,133"/>
-<area shape="rect" id="node3" href="$nfs3proc_8c.html#ae6b88918b0588f49b1e6ab3380cf7fb4" title="nfs3_proc_create" alt="" coords="373,5,496,32"/>
-<area shape="rect" id="node4" href="$nfs3proc_8c.html#a53403318a560c2ff998d590df1062566" title="nfs3_proc_mkdir" alt="" coords="375,56,494,83"/>
-<area shape="rect" id="node5" href="$nfs3proc_8c.html#ab9934211cb060d4013d5dd678307da43" title="nfs3_proc_mknod" alt="" coords="372,107,497,133"/>
-</map>

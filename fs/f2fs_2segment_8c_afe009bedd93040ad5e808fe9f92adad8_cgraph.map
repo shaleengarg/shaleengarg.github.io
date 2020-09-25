@@ -1,8 +1,0 @@
-<map id="__remove_dirty_segment" name="__remove_dirty_segment">
-<area shape="rect" id="node2" href="$f2fs_8h.html#afba5ea72e2d34d08ac7d1be3f03559e0" title="DIRTY_I" alt="" coords="540,5,615,32"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="388,56,492,83"/>
-<area shape="rect" id="node6" href="$f2fs_2segment_8h.html#a0cb6f455698330ee766bf6392e28057b" title="get_valid_blocks" alt="" coords="221,107,340,133"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="663,31,716,57"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="550,56,605,83"/>
-<area shape="rect" id="node7" href="$f2fs_2segment_8h.html#a133ba535f58ff0a92717621028cc2779" title="get_sec_entry" alt="" coords="388,107,492,133"/>
-</map>

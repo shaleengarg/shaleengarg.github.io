@@ -1,9 +1,0 @@
-<map id="jbd2_journal_stop" name="jbd2_journal_stop">
-<area shape="rect" id="node2" href="$btrfs_2transaction_8c.html#a16ecc912c2adc8cf19cf96d49b0951ee" title="wait_for_commit" alt="" coords="205,5,324,32"/>
-<area shape="rect" id="node3" href="$jbd2_2journal_8c.html#af76c0a5b2d8217f40cec020891f51e45" title="jbd2_log_start_commit" alt="" coords="188,56,341,83"/>
-<area shape="rect" id="node5" href="$jbd2_2journal_8c.html#ab439c5e9596df21b2c724b98aef5176a" title="jbd2_log_wait_commit" alt="" coords="189,107,340,133"/>
-<area shape="rect" id="node6" href="$jbd2_2transaction_8c.html#a0b60332cc8afdfe46ac5ddae0d85748b" title="jbd2_journal_free_reserved" alt="" coords="176,157,353,184"/>
-<area shape="rect" id="node4" href="$jbd2_2journal_8c.html#a287143a795d0e0cd3faa439229d1f949" title="__jbd2_log_start_commit" alt="" coords="401,56,568,83"/>
-<area shape="rect" id="node7" href="$jbd2_2transaction_8c.html#af280ccc8a6dd9808ca132244d7b55eb2" title="sub_reserved_credits" alt="" coords="411,132,558,159"/>
-<area shape="rect" id="node8" href="$jbd2_2transaction_8c.html#a7eb1a00a20ab8c759702a530a8bde136" title="EXPORT_SYMBOL" alt="" coords="415,183,554,209"/>
-</map>

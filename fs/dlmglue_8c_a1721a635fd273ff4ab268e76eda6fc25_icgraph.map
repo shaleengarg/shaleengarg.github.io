@@ -1,7 +1,0 @@
-<map id="ocfs2_is_inode_lock" name="ocfs2_is_inode_lock">
-<area shape="rect" id="node2" href="$dlmglue_8c.html#aafc20bf2c7f3af9694f00cb9ff650301" title="ocfs2_lock_res_inode" alt="" coords="193,93,341,120"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html#ad313e3104a18e1e4651300e943730dac" title="ocfs2_get_inode_osb" alt="" coords="423,5,569,32"/>
-<area shape="rect" id="node4" href="$dlmglue_8c.html#a7355cdee6251acd0296945cce201ea48" title="ocfs2_data_convert\l_worker" alt="" coords="428,57,564,98"/>
-<area shape="rect" id="node5" href="$dlmglue_8c.html#a22e383e6996eec3a616ea1a18e33bdf0" title="ocfs2_check_meta_downconvert" alt="" coords="389,123,603,149"/>
-<area shape="rect" id="node6" href="$dlmglue_8c.html#a7989fdbc1264ad824b0ecc3cd9be335a" title="ocfs2_set_meta_lvb" alt="" coords="427,173,565,200"/>
-</map>

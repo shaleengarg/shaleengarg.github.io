@@ -1,8 +1,0 @@
-<map id="befs_bt_keydata" name="befs_bt_keydata">
-<area shape="rect" id="node2" href="$befs_2btree_8c.html#ab0c425bb7cebf99d486989ad32e02350" title="befs_bt_get_key" alt="" coords="172,31,291,57"/>
-<area shape="rect" id="node3" href="$befs_2btree_8c.html#a9f4851601c2e110fcbe29d516c1cc573" title="befs_find_key" alt="" coords="345,5,447,32"/>
-<area shape="rect" id="node6" href="$befs_2btree_8h.html#a1a2e106c9a4b068c19c053bed7f8f892" title="befs_btree_read" alt="" coords="339,56,453,83"/>
-<area shape="rect" id="node4" href="$befs_2btree_8h.html#a268480fe80526f18f2f7044adc01aea2" title="befs_btree_find" alt="" coords="501,5,612,32"/>
-<area shape="rect" id="node5" href="$linuxvfs_8c.html#a4f5bb7d4b2829b3fc8d5a0fccfb18aa2" title="befs_lookup" alt="" coords="660,5,752,32"/>
-<area shape="rect" id="node7" href="$linuxvfs_8c.html#a924a0b818a174dade47c07fb60ead6bf" title="befs_readdir" alt="" coords="510,56,603,83"/>
-</map>

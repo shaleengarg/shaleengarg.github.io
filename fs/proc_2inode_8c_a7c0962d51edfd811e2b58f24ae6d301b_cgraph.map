@@ -1,9 +1,0 @@
-<map id="proc_reg_llseek" name="proc_reg_llseek">
-<area shape="rect" id="node2" href="$proc_2internal_8h.html#af06d35fcc560b7b9aab608efbf4f4ad8" title="PDE" alt="" coords="193,5,243,32"/>
-<area shape="rect" id="node4" href="$proc_2inode_8c.html#a9beae67e50b0c153108de07506650a22" title="use_pde" alt="" coords="183,56,253,83"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#a006a0507ddc59251e0f080b38814f088" title="default_llseek" alt="" coords="167,107,269,133"/>
-<area shape="rect" id="node8" href="$proc_2inode_8c.html#a32f0bdf1ad3157f30807aced498a2509" title="unuse_pde" alt="" coords="175,157,261,184"/>
-<area shape="rect" id="node3" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="351,5,423,32"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="326,81,447,108"/>
-<area shape="rect" id="node7" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="317,132,456,159"/>
-</map>

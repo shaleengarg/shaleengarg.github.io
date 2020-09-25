@@ -1,6 +1,0 @@
-<map id="configfs_create_file" name="configfs_create_file">
-<area shape="rect" id="node2" href="$configfs__internal_8h.html#a143d9e05c87c5de5e153bebc5ff2d14e" title="configfs_make_dirent" alt="" coords="188,38,335,65"/>
-<area shape="rect" id="node3" href="$configfs_2dir_8c.html#a651a0ca48164982c25f5d613d225d52b" title="configfs_new_dirent" alt="" coords="383,13,521,39"/>
-<area shape="rect" id="node5" href="$configfs__internal_8h.html#a150714a18e6039f28185711f6ae3447b" title="configfs_get" alt="" coords="405,63,499,90"/>
-<area shape="rect" id="node4" href="$configfs_2dir_8c.html#a079f3668c0d9a10e60354dca984369d3" title="configfs_init_dirent\l_depth" alt="" coords="569,5,700,47"/>
-</map>

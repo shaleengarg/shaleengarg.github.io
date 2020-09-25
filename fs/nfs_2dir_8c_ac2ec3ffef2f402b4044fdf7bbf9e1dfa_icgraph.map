@@ -1,9 +1,0 @@
-<map id="nfs_readdir_alloc_pages" name="nfs_readdir_alloc_pages">
-<area shape="rect" id="node2" href="$nfs_2dir_8c.html#ab57f25e63f1e93edcb7aaaf10b6a8f06" title="nfs_readdir_xdr_to\l_array" alt="" coords="216,23,345,65"/>
-<area shape="rect" id="node3" href="$nfs_2dir_8c.html#af64979e091387c77ae12d05283b8a660" title="nfs_readdir_filler" alt="" coords="393,5,511,32"/>
-<area shape="rect" id="node8" href="$nfs_2dir_8c.html#afeee641835bb36cb1cbd052a088eff3a" title="uncached_readdir" alt="" coords="559,56,683,83"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a87f203472f8c81e6ce0d204f4dae24dc" title="get_cache_page" alt="" coords="562,5,679,32"/>
-<area shape="rect" id="node5" href="$nfs_2dir_8c.html#a88446eb53e70438928b0c8ab78677ced" title="find_cache_page" alt="" coords="731,5,851,32"/>
-<area shape="rect" id="node6" href="$nfs_2dir_8c.html#a41bd87f99dae30d6a168f7e45b7ceb6a" title="readdir_search_pagecache" alt="" coords="899,5,1076,32"/>
-<area shape="rect" id="node7" href="$nfs_2dir_8c.html#a0b6b30638a474336787a55092c3ccc71" title="nfs_readdir" alt="" coords="1124,31,1211,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="mb_test_and_clear_bits" name="mb_test_and_clear_bits">
-<area shape="rect" id="node2" href="$mballoc_8c.html#a5c81ba385ed83d94f92e4f1020452416" title="mb_find_next_zero_bit" alt="" coords="213,5,367,32"/>
-<area shape="rect" id="node4" href="$mballoc_8c.html#a180c058988ac4e746a50207ee0f49fd5" title="mb_test_and_clear_bit" alt="" coords="213,56,367,83"/>
-<area shape="rect" id="node3" href="$mballoc_8c.html#a5c8d02c67a5c9809c77b0b6eeafbd608" title="mb_correct_addr_and_bit" alt="" coords="415,31,583,57"/>
-</map>

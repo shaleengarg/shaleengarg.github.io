@@ -1,6 +1,0 @@
-<map id="init_victim_secmap" name="init_victim_secmap">
-<area shape="rect" id="node2" href="$f2fs_8h.html#afba5ea72e2d34d08ac7d1be3f03559e0" title="DIRTY_I" alt="" coords="200,5,275,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a5c13debb7490c6475b5d220a35764d8a" title="f2fs_kvzalloc" alt="" coords="188,56,287,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="359,5,413,32"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#ae1165e29e3458f6e3f5f23d3318f9fa3" title="f2fs_kvmalloc" alt="" coords="335,56,437,83"/>
-</map>

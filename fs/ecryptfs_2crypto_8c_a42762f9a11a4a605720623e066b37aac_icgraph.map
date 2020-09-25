@@ -1,6 +1,0 @@
-<map id="ecryptfs_write_metadata" name="ecryptfs_write_metadata">
-<area shape="rect" id="node2" href="$ecryptfs_2inode_8c.html#a6bc52bfbdbdae09b52647394d90fdc70" title="ecryptfs_initialize_file" alt="" coords="219,42,365,69"/>
-<area shape="rect" id="node3" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="413,5,532,47"/>
-<area shape="rect" id="node5" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="417,71,529,98"/>
-<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="580,13,684,39"/>
-</map>

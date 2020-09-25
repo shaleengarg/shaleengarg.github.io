@@ -1,9 +1,0 @@
-<map id="EMPTY_SCAN_SIZE" name="EMPTY_SCAN_SIZE">
-<area shape="rect" id="node2" href="$jffs2_2scan_8c.html#a7bbf7f32dbe6195cf4cb26274c11f7fb" title="jffs2_scan_eraseblock" alt="" coords="204,5,356,32"/>
-<area shape="rect" id="node3" href="$jffs2_2scan_8c.html#a90e32d21fe1b8891d0c91c6f421ef1dd" title="jffs2_scan_medium" alt="" coords="404,5,539,32"/>
-<area shape="rect" id="node4" href="$build_8c.html#a6a125309aed46b9b1e8a7ac2e0ea9fc4" title="jffs2_build_filesystem" alt="" coords="587,5,735,32"/>
-<area shape="rect" id="node5" href="$nodelist_8h.html#ace445086ae828460cfec2eafe668b0bc" title="jffs2_do_mount_fs" alt="" coords="783,5,912,32"/>
-<area shape="rect" id="node6" href="$os-linux_8h.html#a0e271945f00995017090113d6804a430" title="jffs2_do_fill_super" alt="" coords="960,5,1087,32"/>
-<area shape="rect" id="node7" href="$jffs2_2super_8c.html#ac626c42b039c451fa8759a92155a1773" title="jffs2_fill_super" alt="" coords="1135,5,1241,32"/>
-<area shape="rect" id="node8" href="$jffs2_2super_8c.html#a5399bb9f4f9d0a5a5f5f3014ec42876a" title="jffs2_mount" alt="" coords="1289,5,1380,32"/>
-</map>

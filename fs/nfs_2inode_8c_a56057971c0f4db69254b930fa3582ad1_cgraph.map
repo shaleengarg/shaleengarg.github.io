@@ -1,8 +1,0 @@
-<map id="nfs_zap_caches_locked" name="nfs_zap_caches_locked">
-<area shape="rect" id="node2" href="$iostat_8h.html#a827fa3b79055f4019a86f1f7dc3ba732" title="nfs_inc_stats" alt="" coords="241,9,341,36"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a2c8796a0dda755676128203347abd111" title="nfs_set_cache_invalid" alt="" coords="216,64,367,91"/>
-<area shape="rect" id="node7" href="$nfs_2internal_8h.html#a77fb109b626a134e5f31424aafde0dd0" title="nfs_zap_label_cache\l_locked" alt="" coords="219,115,363,157"/>
-<area shape="rect" id="node3" href="$iostat_8h.html#af6c43e25d4518ea95856ae498ba92e58" title="nfs_inc_server_stats" alt="" coords="421,5,563,32"/>
-<area shape="rect" id="node5" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="423,57,561,98"/>
-<area shape="rect" id="node6" href="$nfs_2fscache_8h.html#af3f2768c71063606516dbb0ee9cf7d72" title="nfs_fscache_invalidate" alt="" coords="415,123,569,149"/>
-</map>

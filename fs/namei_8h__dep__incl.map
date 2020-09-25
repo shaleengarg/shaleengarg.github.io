@@ -1,9 +1,0 @@
-<map id="ocfs2/namei.h" name="ocfs2/namei.h">
-<area shape="rect" id="node2" href="$ocfs2_2aops_8c.html" title="ocfs2/aops.c" alt="" coords="5,80,103,107"/>
-<area shape="rect" id="node3" href="$ocfs2_2dir_8c.html" title="ocfs2/dir.c" alt="" coords="127,80,210,107"/>
-<area shape="rect" id="node4" href="$ocfs2_2inode_8c.html" title="ocfs2/inode.c" alt="" coords="235,80,335,107"/>
-<area shape="rect" id="node5" href="$ocfs2_2journal_8c.html" title="ocfs2/journal.c" alt="" coords="359,80,466,107"/>
-<area shape="rect" id="node6" href="$ocfs2_2namei_8c.html" title="ocfs2/namei.c" alt="" coords="490,80,594,107"/>
-<area shape="rect" id="node7" href="$refcounttree_8c.html" title="ocfs2/refcounttree.c" alt="" coords="618,80,757,107"/>
-<area shape="rect" id="node8" href="$ocfs2_2super_8c.html" title="ocfs2/super.c" alt="" coords="781,80,882,107"/>
-</map>

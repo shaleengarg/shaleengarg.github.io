@@ -1,5 +1,0 @@
-<map id="userfaultfd_copy" name="userfaultfd_copy">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#af273c60a7a41b8e8ca4109458a25bf63" title="validate_range" alt="" coords="174,5,281,32"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a6ef8179c084f7879343b17de2ab4e046" title="wake_userfault" alt="" coords="172,56,283,83"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#a1990e8679c7735d08c6047d94194ba66" title="__wake_userfault" alt="" coords="331,56,455,83"/>
-</map>

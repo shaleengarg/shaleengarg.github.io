@@ -1,9 +1,0 @@
-<map id="xfs_attr_get" name="xfs_attr_get">
-<area shape="rect" id="node2" href="$xfs__acl_8c.html#ae9f9513dbd3230d31b88c988b7ea068c" title="xfs_get_acl" alt="" coords="172,5,261,32"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a78aff19d51aa4ab719f4c46da3272436" title="xfs_attrmulti_attr_get" alt="" coords="144,56,289,83"/>
-<area shape="rect" id="node8" href="$xfs__xattr_8c.html#a382b9d47446734589642c3d17bb00c9e" title="xfs_xattr_get" alt="" coords="167,107,266,133"/>
-<area shape="rect" id="node4" href="$xfs__ioctl_8c.html#a48c85463aad2d37212ef5f491321cbe6" title="xfs_attrmulti_by_handle" alt="" coords="337,31,497,57"/>
-<area shape="rect" id="node7" href="$xfs__ioctl32_8c.html#a7fa68851eda624ea6a0548a48c68ec47" title="xfs_compat_attrmulti\l_by_handle" alt="" coords="545,79,689,121"/>
-<area shape="rect" id="node5" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="570,28,665,55"/>
-<area shape="rect" id="node6" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="737,57,883,84"/>
-</map>

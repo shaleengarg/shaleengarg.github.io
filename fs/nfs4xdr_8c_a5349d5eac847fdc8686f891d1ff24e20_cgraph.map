@@ -1,9 +1,0 @@
-<map id="decode_attr_mdsthreshold" name="decode_attr_mdsthreshold">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a9e1d18798c24df18a4aa0f31c435be12" title="decode_first_threshold\l_item4" alt="" coords="228,121,381,162"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="813,103,948,130"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#ab18c2e1ed699eba263eb1079bce2977f" title="decode_attr_bitmap" alt="" coords="429,52,565,79"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a5ac41cdacb501dae00b4ce25c5640bb5" title="decode_attr_length" alt="" coords="623,103,755,130"/>
-<area shape="rect" id="node7" href="$nfs4xdr_8c.html#a10ac7caac2430babeff78e38ff2f0f50" title="decode_threshold_hint" alt="" coords="613,154,765,180"/>
-<area shape="rect" id="node8" href="$nfs4xdr_8c.html#a7d2eb112f23ec43abcf7cd934591230c" title="verify_attr_len" alt="" coords="445,204,549,231"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#aedf627993cbca129bab903bf987548fd" title="decode_bitmap4" alt="" coords="631,52,748,79"/>
-</map>

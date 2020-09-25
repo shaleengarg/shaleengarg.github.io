@@ -1,7 +1,0 @@
-<map id="btrfs_workqueue_set_max" name="btrfs_workqueue_set_max">
-<area shape="rect" id="node2" href="$btrfs_2super_8c.html#af5e10c683151fb965509285fce103882" title="btrfs_resize_thread_pool" alt="" coords="228,31,392,57"/>
-<area shape="rect" id="node3" href="$btrfs_2super_8c.html#a664e824d825c90f94492122e35dfc8a5" title="btrfs_remount" alt="" coords="440,31,543,57"/>
-<area shape="rect" id="node4" href="$btrfs_2super_8c.html#a727584f687f90b26e216838c539d53ed" title="btrfs_mount" alt="" coords="619,5,709,32"/>
-<area shape="rect" id="node6" href="$btrfs_2super_8c.html#a7dda0b70a36d7c3e84ade918df9c872d" title="btrfs_show_devname" alt="" coords="591,56,737,83"/>
-<area shape="rect" id="node5" href="$btrfs_2super_8c.html#a89866e36e3959d1dd885ced894dc0643" title="btrfs_kill_super" alt="" coords="785,5,896,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="maybe_release_space" name="maybe_release_space">
-<area shape="rect" id="node2" href="$lops_8c.html#a35b3b7b28c7fa982d88b3a0ed5fef74e" title="gfs2_unpin" alt="" coords="205,31,291,57"/>
-<area shape="rect" id="node3" href="$lops_8c.html#a3921f9c682e4776c47652c382b589edf" title="buf_lo_after_commit" alt="" coords="351,5,491,32"/>
-<area shape="rect" id="node4" href="$lops_8c.html#a2d7c3f53ea6174d1f46c4d64b4d2daa5" title="databuf_lo_after_commit" alt="" coords="339,56,504,83"/>
-</map>

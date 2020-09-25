@@ -1,5 +1,0 @@
-<map id="pid_getattr" name="pid_getattr">
-<area shape="rect" id="node2" href="$base_8c.html#a58cde411f46f5c28eb1b5a786a150b9b" title="proc_pident_readdir" alt="" coords="136,31,271,57"/>
-<area shape="rect" id="node3" href="$base_8c.html#a1e634b61511a8547eb00ea0ee603bc9e" title="proc_tgid_base_readdir" alt="" coords="319,5,475,32"/>
-<area shape="rect" id="node4" href="$base_8c.html#a55aa372a1219e3856cc6886ca78bd50e" title="proc_tid_base_readdir" alt="" coords="322,56,471,83"/>
-</map>

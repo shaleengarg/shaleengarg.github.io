@@ -1,7 +1,0 @@
-<map id="nfs_do_call_unlink" name="nfs_do_call_unlink">
-<area shape="rect" id="node2" href="$nfs_2internal_8h.html#a70ce7d10d2f883353ccab33a0163d4c9" title="nfs_sb_active" alt="" coords="183,9,285,36"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a81ed57e217c4563faf406fe27093858b" title="nfs_fattr_init" alt="" coords="187,64,281,91"/>
-<area shape="rect" id="node3" href="$nfs_2super_8c.html#a2176029a654c384d4ffdb1e2407a61bd" title="EXPORT_SYMBOL_GPL" alt="" coords="333,5,505,32"/>
-<area shape="rect" id="node5" href="$nfs_2inode_8c.html#ad80c28b99f558acae79f418e445df851" title="nfs_inc_attr_generation\l_counter" alt="" coords="341,57,498,98"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="553,93,725,120"/>
-</map>

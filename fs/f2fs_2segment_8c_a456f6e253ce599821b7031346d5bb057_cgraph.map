@@ -1,6 +1,0 @@
-<map id="init_min_max_mtime" name="init_min_max_mtime">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="348,21,403,48"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="196,21,300,48"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a47b7e114fb575c5309f9eb81b7ca78d0" title="get_mtime" alt="" coords="207,72,289,98"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="451,21,504,48"/>
-</map>

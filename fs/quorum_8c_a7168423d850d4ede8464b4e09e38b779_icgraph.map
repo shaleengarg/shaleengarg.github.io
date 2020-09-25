@@ -1,9 +1,0 @@
-<map id="o2quo_fence_self" name="o2quo_fence_self">
-<area shape="rect" id="node2" href="$quorum_8h.html#a761d702d7f6dd729e85122fdd72c7d1d" title="o2quo_disk_timeout" alt="" coords="183,5,322,32"/>
-<area shape="rect" id="node5" href="$quorum_8c.html#aa244afb42065f0271f85b8ac738a4393" title="o2quo_make_decision" alt="" coords="177,56,328,83"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a2723a887f9887607271c6ab0a830baad" title="o2hb_write_timeout" alt="" coords="376,5,511,32"/>
-<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#af950396e373c84f930a2168da781f6ec" title="o2hb_region_dev_store" alt="" coords="559,5,715,32"/>
-<area shape="rect" id="node6" href="$quorum_8h.html#a3f91d59b00d43a88e2c5f6c47c0769e7" title="o2quo_init" alt="" coords="403,56,484,83"/>
-<area shape="rect" id="node7" href="$tcp_8h.html#a63ae446e18b253df18335ace7ccfdf46" title="o2net_init" alt="" coords="597,56,676,83"/>
-<area shape="rect" id="node8" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="763,56,841,83"/>
-</map>

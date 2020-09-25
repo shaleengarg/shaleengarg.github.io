@@ -1,6 +1,0 @@
-<map id="nfs_readdir_filler" name="nfs_readdir_filler">
-<area shape="rect" id="node2" href="$nfs_2dir_8c.html#a87f203472f8c81e6ce0d204f4dae24dc" title="get_cache_page" alt="" coords="171,5,288,32"/>
-<area shape="rect" id="node3" href="$nfs_2dir_8c.html#a88446eb53e70438928b0c8ab78677ced" title="find_cache_page" alt="" coords="336,5,456,32"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a41bd87f99dae30d6a168f7e45b7ceb6a" title="readdir_search_pagecache" alt="" coords="504,5,681,32"/>
-<area shape="rect" id="node5" href="$nfs_2dir_8c.html#a0b6b30638a474336787a55092c3ccc71" title="nfs_readdir" alt="" coords="729,5,816,32"/>
-</map>

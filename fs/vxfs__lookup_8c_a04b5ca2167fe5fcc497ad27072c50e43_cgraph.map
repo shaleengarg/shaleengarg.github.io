@@ -1,7 +1,0 @@
-<map id="vxfs_find_entry" name="vxfs_find_entry">
-<area shape="rect" id="node2" href="$vxfs__extern_8h.html#acf23e372705c261df8d6573970ef1fee" title="vxfs_get_page" alt="" coords="164,5,271,32"/>
-<area shape="rect" id="node4" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="171,56,264,83"/>
-<area shape="rect" id="node6" href="$vxfs__extern_8h.html#a517f742349f92a0bd52be347540056de" title="vxfs_put_page" alt="" coords="164,107,271,133"/>
-<area shape="rect" id="node3" href="$vxfs__subr_8c.html#a68afffcc6704763ab94a4c9a74d49705" title="vxfs_put_page" alt="" coords="319,5,425,32"/>
-<area shape="rect" id="node5" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="331,56,413,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="nilfs_segctor_write" name="nilfs_segctor_write">
-<area shape="rect" id="node2" href="$segbuf_8c.html#ad50f85fb7783c54553be1109a82c3d14" title="nilfs_write_logs" alt="" coords="184,71,296,98"/>
-<area shape="rect" id="node3" href="$segbuf_8c.html#ad4043262b1785134acd529754a9e3ea9" title="nilfs_segbuf_write" alt="" coords="344,71,471,98"/>
-<area shape="rect" id="node4" href="$segbuf_8c.html#a2584f9926cc26e313f7477df542f6cba" title="nilfs_segbuf_prepare\l_write" alt="" coords="527,5,669,47"/>
-<area shape="rect" id="node5" href="$segbuf_8c.html#a99ed59e4d3f008f72bb24c6cdbea9ff3" title="nilfs_segbuf_submit_bh" alt="" coords="519,71,677,98"/>
-<area shape="rect" id="node7" href="$segbuf_8c.html#ae95e7fca0c0addd1eff9273a0d6d8d31" title="nilfs_segbuf_submit_bio" alt="" coords="725,122,888,149"/>
-<area shape="rect" id="node6" href="$segbuf_8c.html#abab1bd14e01bac4f746bc7103b82dae3" title="nilfs_alloc_seg_bio" alt="" coords="741,71,873,98"/>
-<area shape="rect" id="node8" href="$segbuf_8c.html#a65b64bc5ba84b4020918e3e3de507fb5" title="nilfs_end_bio_write" alt="" coords="936,122,1069,149"/>
-</map>

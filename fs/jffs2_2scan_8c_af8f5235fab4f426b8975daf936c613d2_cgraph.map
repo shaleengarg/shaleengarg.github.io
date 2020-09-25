@@ -1,6 +1,0 @@
-<map id="file_dirty" name="file_dirty">
-<area shape="rect" id="node2" href="$malloc_8c.html#a16c30fccbd14cc9b0b1445024fac9d51" title="jffs2_prealloc_raw\l_node_refs" alt="" coords="139,5,265,47"/>
-<area shape="rect" id="node4" href="$nodelist_8c.html#a39255988c1c9b27221805f715c1acc2e" title="jffs2_scan_dirty_space" alt="" coords="124,71,280,98"/>
-<area shape="rect" id="node3" href="$malloc_8c.html#ac764b09bc6dad2f43ca72d589c3b0cfd" title="jffs2_alloc_refblock" alt="" coords="328,13,463,39"/>
-<area shape="rect" id="node5" href="$nodelist_8c.html#ae2d47d02616e1d68fcc8aee61cd466b1" title="jffs2_link_node_ref" alt="" coords="330,71,461,98"/>
-</map>

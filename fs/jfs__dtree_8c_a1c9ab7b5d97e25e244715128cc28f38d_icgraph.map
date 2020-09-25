@@ -1,6 +1,0 @@
-<map id="free_index" name="free_index">
-<area shape="rect" id="node2" href="$jfs__dtree_8h.html#a3f84193817e8bd8ea64e79447aeb2303" title="dtDelete" alt="" coords="136,56,207,83"/>
-<area shape="rect" id="node3" href="$jfs_2namei_8c.html#a3ad6c390c8e4d1930e798bbdfc642678" title="jfs_rmdir" alt="" coords="262,5,334,32"/>
-<area shape="rect" id="node4" href="$jfs_2namei_8c.html#af04c1404d0730674146bc7f8d6b20f97" title="jfs_unlink" alt="" coords="259,56,337,83"/>
-<area shape="rect" id="node5" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="255,107,341,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="init_constants_sb" name="init_constants_sb">
-<area shape="rect" id="node2" href="$misc_8h.html#ac7a685691e935bc3ef4a7918e107c8de" title="ubifs_idx_node_sz" alt="" coords="183,5,313,32"/>
-<area shape="rect" id="node3" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="394,56,466,83"/>
-<area shape="rect" id="node4" href="$lpt_8c.html#af0dfe15f5321726023a967d0db0b332e" title="ubifs_calc_lpt_geom" alt="" coords="177,107,319,133"/>
-<area shape="rect" id="node5" href="$lpt_8c.html#a8b4d1e481e3c2afa2d9d7a3b334bba6c" title="do_calc_lpt_geom" alt="" coords="367,107,493,133"/>
-</map>

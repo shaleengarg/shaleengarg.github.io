@@ -1,9 +1,0 @@
-<map id="xfs_da3_node_verify" name="xfs_da3_node_verify">
-<area shape="rect" id="node2" href="$xfs__da__format_8c.html#a931cd397f09d0ad854a1d81d22ebccd0" title="xfs_dir_get_ops" alt="" coords="204,56,319,83"/>
-<area shape="rect" id="node3" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="380,5,536,32"/>
-<area shape="rect" id="node7" href="$xfs__log_8c.html#a85ca9841babc402bd450760079ee6f7e" title="xfs_log_check_lsn" alt="" coords="196,107,327,133"/>
-<area shape="rect" id="node4" href="$xfs__format_8h.html#aacfc0c47ddac02333fae197629124432" title="xfs_sb_version_hasftype" alt="" coords="375,56,541,83"/>
-<area shape="rect" id="node5" href="$xfs__format_8h.html#a43247c91afa80237231d0bbde4f614f2" title="xfs_sb_has_incompat\l_feature" alt="" coords="609,19,758,61"/>
-<area shape="rect" id="node6" href="$xfs__format_8h.html#a7e23323ec0e631b683e2d7461748d07f" title="xfs_sb_version_hasmorebits" alt="" coords="589,85,777,112"/>
-<area shape="rect" id="node8" href="$xfs__log__priv_8h.html#a25c85404b03fddb0a8083ac4243d6b3d" title="xlog_valid_lsn" alt="" coords="406,107,510,133"/>
-</map>

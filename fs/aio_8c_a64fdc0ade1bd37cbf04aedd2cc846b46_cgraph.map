@@ -1,6 +1,0 @@
-<map id="aio_get_req" name="aio_get_req">
-<area shape="rect" id="node2" href="$aio_8c.html#ae4c41793196d1ea387b445e74f530c39" title="get_reqs_available" alt="" coords="161,5,292,32"/>
-<area shape="rect" id="node3" href="$aio_8c.html#a1a442bf3ecf741fb971890363dac55c1" title="user_refill_reqs_available" alt="" coords="143,56,311,83"/>
-<area shape="rect" id="node5" href="$aio_8c.html#a3492486b4f200a8363f1bf57262bb353" title="put_reqs_available" alt="" coords="543,81,673,108"/>
-<area shape="rect" id="node4" href="$aio_8c.html#ad7663fa2dc8806c2b91ab7a2d2965e81" title="refill_reqs_available" alt="" coords="359,56,495,83"/>
-</map>

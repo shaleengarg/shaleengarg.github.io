@@ -1,8 +1,0 @@
-<map id="fscrypt_decrypt_bio_pages" name="fscrypt_decrypt_bio_pages">
-<area shape="rect" id="node2" href="$bio_8c.html#a22df46e1b17797d69ef56b9c7a53501f" title="completion_pages" alt="" coords="195,31,322,57"/>
-<area shape="rect" id="node7" href="$bio_8c.html#a63c751d96231e1c71249f4c0caf5e275" title="EXPORT_SYMBOL" alt="" coords="189,81,328,108"/>
-<area shape="rect" id="node3" href="$crypto_2crypto_8c.html#ae398edfad4b1ece50e7b77d02e440f36" title="fscrypt_decrypt_page" alt="" coords="376,5,523,32"/>
-<area shape="rect" id="node6" href="$crypto_2crypto_8c.html#a664e13aac936b7996a7ded8c10ad2df9" title="fscrypt_release_ctx" alt="" coords="381,56,517,83"/>
-<area shape="rect" id="node4" href="$crypto_2crypto_8c.html#a54b1c5526cd4eccd22ebb1e73c3fc385" title="fscrypt_do_page_crypto" alt="" coords="571,5,732,32"/>
-<area shape="rect" id="node5" href="$crypto_2crypto_8c.html#a191e3998d0d9505e9aa78f5d02c0e766" title="EXPORT_SYMBOL" alt="" coords="582,56,721,83"/>
-</map>

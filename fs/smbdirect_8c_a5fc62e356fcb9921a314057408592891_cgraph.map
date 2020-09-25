@@ -1,5 +1,0 @@
-<map id="smbd_post_send_negotiate_req" name="smbd_post_send_negotiate_req">
-<area shape="rect" id="node2" href="$smbdirect_8c.html#aff5f087444c46ab0f27cca154e494fa4" title="smbd_request_payload" alt="" coords="260,5,416,32"/>
-<area shape="rect" id="node3" href="$smbdirect_8c.html#a6d7de0383b560496d2a714e7b6beb1c8" title="send_done" alt="" coords="295,56,381,83"/>
-<area shape="rect" id="node4" href="$smbdirect_8c.html#a01fb5f06ab90ffef32007eda55a54f1b" title="smbd_disconnect_rdma\l_connection" alt="" coords="464,74,624,115"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="ep_alloc" name="ep_alloc">
-<area shape="rect" id="node2" href="$eventpoll_8c.html#ae11b1f5b5be837852cf7a79089ca3453" title="do_epoll_create" alt="" coords="124,5,237,32"/>
-<area shape="rect" id="node3" href="$eventpoll_8c.html#a35cfc10a2ff1ef1f15406c59e7cfba06" title="SYSCALL_DEFINE1" alt="" coords="285,5,432,32"/>
-</map>

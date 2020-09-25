@@ -1,8 +1,0 @@
-<map id="__set_task_comm" name="__set_task_comm">
-<area shape="rect" id="node2" href="$exec_8c.html#af6854a00575de80c5fedf19be40e92b7" title="setup_new_exec" alt="" coords="183,81,303,108"/>
-<area shape="rect" id="node3" href="$binfmt__aout_8c.html#a8c37c89223a655ba9d43210c9aaffaf4" title="load_aout_binary" alt="" coords="363,5,483,32"/>
-<area shape="rect" id="node4" href="$binfmt__elf_8c.html#a1645b2628ac43863a70bb8df7b0abd34" title="load_elf_binary" alt="" coords="368,56,477,83"/>
-<area shape="rect" id="node5" href="$binfmt__elf__fdpic_8c.html#a50a91a9ffb626861af3795de158b5103" title="load_elf_fdpic_binary" alt="" coords="351,107,495,133"/>
-<area shape="rect" id="node6" href="$binfmt__flat_8c.html#a65c947fb2c13dbabf54034e19ccabdec" title="load_flat_file" alt="" coords="375,157,470,184"/>
-<area shape="rect" id="node7" href="$binfmt__flat_8c.html#a936696a14973b1640876d30857fe4c24" title="load_flat_binary" alt="" coords="543,157,656,184"/>
-</map>

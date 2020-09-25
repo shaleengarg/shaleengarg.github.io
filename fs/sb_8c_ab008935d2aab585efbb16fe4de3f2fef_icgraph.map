@@ -1,9 +1,0 @@
-<map id="fixup_leb" name="fixup_leb">
-<area shape="rect" id="node2" href="$sb_8c.html#aa1a6d690124262b3f3c382e9596c6963" title="fixup_free_space" alt="" coords="128,31,249,57"/>
-<area shape="rect" id="node3" href="$ubifs_8h.html#a7bacccbb99ed3d3f67a20cac2ac99990" title="ubifs_fixup_free_space" alt="" coords="297,31,453,57"/>
-<area shape="rect" id="node4" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="517,5,611,32"/>
-<area shape="rect" id="node7" href="$ubifs_2super_8c.html#a294d4bb3f82a15e7bed2e2ae0c7f472d" title="ubifs_remount_rw" alt="" coords="501,56,627,83"/>
-<area shape="rect" id="node5" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="681,5,791,32"/>
-<area shape="rect" id="node6" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="845,5,939,32"/>
-<area shape="rect" id="node8" href="$ubifs_2super_8c.html#a819db79224fd15f0eb125fe0a3c6123e" title="ubifs_remount_fs" alt="" coords="675,56,797,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="nfs4_pnfs_ds_add" name="nfs4_pnfs_ds_add">
-<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#ade812fa2ddef4d050a31d29b7e58992c" title="nfs4_pnfs_remotestr" alt="" coords="197,5,338,32"/>
-<area shape="rect" id="node3" href="$pnfs__nfs_8c.html#aa95c368da9113b52084b23af3486874b" title="_data_server_lookup\l_locked" alt="" coords="196,57,339,98"/>
-<area shape="rect" id="node6" href="$pnfs__nfs_8c.html#ade46012790609368124a6619e0b27bf7" title="EXPORT_SYMBOL_GPL" alt="" coords="181,123,353,149"/>
-<area shape="rect" id="node4" href="$pnfs__nfs_8c.html#a03f9a2042944119e6a2b69463ce7337b" title="_same_data_server_addrs\l_locked" alt="" coords="401,57,576,98"/>
-<area shape="rect" id="node5" href="$pnfs__nfs_8c.html#a1da79ec0bd5d4978371f8b6a7702639a" title="same_sockaddr" alt="" coords="624,64,739,91"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ocfs2_ci_checkpointed" name="ocfs2_ci_checkpointed">
-<area shape="rect" id="node2" href="$journal_8h.html#a9b3f5c1921ab7dcf206718627e33bb28" title="ocfs2_ci_fully_checkpointed" alt="" coords="208,5,395,32"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#a00eef5505a2e46ff0b0ba32149a1b802" title="ocfs2_metadata_cache\l_get_super" alt="" coords="443,23,600,65"/>
-<area shape="rect" id="node4" href="$journal_8h.html#a77f362fc8927ae1cc5a2951c1b7ce4fc" title="ocfs2_start_checkpoint" alt="" coords="223,107,380,133"/>
-</map>

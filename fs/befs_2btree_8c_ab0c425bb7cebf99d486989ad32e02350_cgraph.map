@@ -1,6 +1,0 @@
-<map id="befs_bt_get_key" name="befs_bt_get_key">
-<area shape="rect" id="node2" href="$befs_2btree_8c.html#a308faff2dd15227ea697cc1265e41000" title="befs_bt_keydata" alt="" coords="187,5,305,32"/>
-<area shape="rect" id="node3" href="$befs_2btree_8c.html#a00871b5f40a4697567a689ac015ec6d9" title="befs_bt_keylen_index" alt="" coords="172,56,320,83"/>
-<area shape="rect" id="node4" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="199,107,293,133"/>
-<area shape="rect" id="node5" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="368,107,451,133"/>
-</map>

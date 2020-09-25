@@ -1,5 +1,0 @@
-<map id="reset_union_bmap_deny" name="reset_union_bmap_deny">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#add7f2696535bfd40cd60aa99c58f9987" title="clear_deny" alt="" coords="253,5,338,32"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a74d0af99eb0e0974dca9827f6445b3be" title="recalculate_deny_mode" alt="" coords="216,56,375,83"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a1ab2dd252276823b8e4bb3cc91956b63" title="bmap_to_share_mode" alt="" coords="423,56,573,83"/>
-</map>

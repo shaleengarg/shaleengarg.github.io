@@ -1,6 +1,0 @@
-<map id="nfs_access_cache_enforce_limit" name="nfs_access_cache_enforce_limit">
-<area shape="rect" id="node2" href="$nfs_2dir_8c.html#afecdf1c2f705be6e607171cb4d831f44" title="nfs_do_access_cache_scan" alt="" coords="235,31,421,57"/>
-<area shape="rect" id="node3" href="$nfs_2dir_8c.html#a234a905a576151f75507636c29451ff6" title="LIST_HEAD" alt="" coords="493,5,588,32"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a02e106bab7f5ce8074889fe92c4d676e" title="nfs_access_free_list" alt="" coords="469,56,612,83"/>
-<area shape="rect" id="node5" href="$nfs_2dir_8c.html#a59b2e0093d17abe677065242687d3535" title="nfs_access_free_entry" alt="" coords="660,56,815,83"/>
-</map>

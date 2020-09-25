@@ -1,7 +1,0 @@
-<map id="search_ioctl" name="search_ioctl">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#ad55144f0de574439b3ea1cec5f23c5f7" title="btrfs_ioctl_tree_search" alt="" coords="155,5,310,32"/>
-<area shape="rect" id="node6" href="$btrfs_2ioctl_8c.html#a6e3579d2edb3d71b39cd2a55f942e79a" title="btrfs_ioctl_tree_search_v2" alt="" coords="145,56,320,83"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="368,31,447,57"/>
-<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="495,31,669,57"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="717,31,815,57"/>
-</map>

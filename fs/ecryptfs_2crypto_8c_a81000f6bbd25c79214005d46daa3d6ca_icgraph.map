@@ -1,7 +1,0 @@
-<map id="ecryptfs_copy_mount_wide_sigs_to_inode_sigs" name="ecryptfs_copy_mount_wide_sigs_to_inode_sigs">
-<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#a324be797fb8eff4327b7e380210148df" title="ecryptfs_new_file_context" alt="" coords="228,42,403,69"/>
-<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#a6bc52bfbdbdae09b52647394d90fdc70" title="ecryptfs_initialize_file" alt="" coords="451,42,597,69"/>
-<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="645,5,764,47"/>
-<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a315185662a49f6919a74605196579f2f" title="ecryptfs_create" alt="" coords="649,71,761,98"/>
-<area shape="rect" id="node5" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="812,13,916,39"/>
-</map>

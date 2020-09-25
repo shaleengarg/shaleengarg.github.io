@@ -1,6 +1,0 @@
-<map id="__ocfs2_find_empty_slot" name="__ocfs2_find_empty_slot">
-<area shape="rect" id="node2" href="$slot__map_8h.html#aee814ebe15e4d1575a88f387f8d16862" title="ocfs2_find_slot" alt="" coords="220,5,331,32"/>
-<area shape="rect" id="node3" href="$ocfs2_2super_8c.html#a1152f914bd33b454eccbdd520fd7f521" title="ocfs2_mount_volume" alt="" coords="379,5,525,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2super_8c.html#aae09c84567eb36b012612fa7f187c3ee" title="ocfs2_fill_super" alt="" coords="573,5,687,32"/>
-<area shape="rect" id="node5" href="$ocfs2_2super_8c.html#aca38f76e33cde96ed91b51148bcdc947" title="ocfs2_mount" alt="" coords="735,5,832,32"/>
-</map>

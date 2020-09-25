@@ -1,6 +1,0 @@
-<map id="module_param" name="module_param">
-<area shape="rect" id="node2" href="$platform_8c.html#a6df0ad2d45b57d0897371130bde57dc8" title="pstore_choose_compression" alt="" coords="160,31,348,57"/>
-<area shape="rect" id="node3" href="$pstore_2inode_8c.html#a1b45ee0400743bf884987176b43484de" title="init_pstore_fs" alt="" coords="427,5,527,32"/>
-<area shape="rect" id="node4" href="$pstore_2internal_8h.html#a0c00326359d012a4e0c21e5f163c3932" title="pstore_unregister_pmsg" alt="" coords="396,56,557,83"/>
-<area shape="rect" id="node5" href="$pstore_2internal_8h.html#aef7ae4f5a78ba3cb98d35908a45b0156" title="pstore_unregister_ftrace" alt="" coords="605,56,768,83"/>
-</map>

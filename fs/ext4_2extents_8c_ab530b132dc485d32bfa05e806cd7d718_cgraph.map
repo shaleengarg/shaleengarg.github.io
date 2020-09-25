@@ -1,8 +1,0 @@
-<map id="ext4_ext_max_entries" name="ext4_ext_max_entries">
-<area shape="rect" id="node2" href="$ext4__extents_8h.html#acc4c0bbb9316350eac0184d408b07910" title="ext_depth" alt="" coords="253,5,331,32"/>
-<area shape="rect" id="node4" href="$ext4_2extents_8c.html#aaffce74d229a8250ebe893a07f894717" title="ext4_ext_space_root" alt="" coords="221,56,363,83"/>
-<area shape="rect" id="node5" href="$ext4_2extents_8c.html#ae3c09aebd800f10316829c510982e22c" title="ext4_ext_space_root_idx" alt="" coords="209,107,375,133"/>
-<area shape="rect" id="node6" href="$ext4_2extents_8c.html#aa5c70ff2f448122839f210302343ec24" title="ext4_ext_space_block" alt="" coords="216,157,368,184"/>
-<area shape="rect" id="node7" href="$ext4_2extents_8c.html#ac8b87cbddf92aaa14c7dd1eb08fd09ac" title="ext4_ext_space_block_idx" alt="" coords="204,208,380,235"/>
-<area shape="rect" id="node3" href="$ext4__extents_8h.html#a8a07d83aa804e034e0c83e7d0eb26be5" title="ext_inode_hdr" alt="" coords="428,5,531,32"/>
-</map>

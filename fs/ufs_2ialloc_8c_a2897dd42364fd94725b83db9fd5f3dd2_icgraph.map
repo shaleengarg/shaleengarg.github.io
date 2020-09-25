@@ -1,6 +1,0 @@
-<map id="ufs_free_inode" name="ufs_free_inode">
-<area shape="rect" id="node2" href="$ufs_8h.html#a1f548495add040f728f2d6108a961918" title="ufs_evict_inode" alt="" coords="160,31,273,57"/>
-<area shape="rect" id="node3" href="$ufs_2super_8c.html#ac4d25609cd85ba4cc80e0aa74c6d0ffd" title="destroy_inodecache" alt="" coords="321,31,460,57"/>
-<area shape="rect" id="node4" href="$ufs_2super_8c.html#ae44b3672a356a0edd270c6fcd066825b" title="init_ufs_fs" alt="" coords="508,5,591,32"/>
-<area shape="rect" id="node5" href="$ufs_2super_8c.html#ab9cd8947ea8a34a3334a89b2064be931" title="exit_ufs_fs" alt="" coords="639,31,725,57"/>
-</map>

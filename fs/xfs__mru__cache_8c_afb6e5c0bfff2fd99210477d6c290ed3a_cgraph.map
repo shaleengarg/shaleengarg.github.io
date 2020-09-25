@@ -1,6 +1,0 @@
-<map id="xfs_mru_cache_destroy" name="xfs_mru_cache_destroy">
-<area shape="rect" id="node2" href="$xfs__mru__cache_8c.html#ade73691641673fa315e9674b34171333" title="xfs_mru_cache_flush" alt="" coords="215,35,361,61"/>
-<area shape="rect" id="node5" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="245,85,331,112"/>
-<area shape="rect" id="node3" href="$xfs__mru__cache_8c.html#a4c2efd4a9696c25d5764f4b205e64960" title="_xfs_mru_cache_migrate" alt="" coords="409,5,577,32"/>
-<area shape="rect" id="node4" href="$xfs__mru__cache_8c.html#a08f0daac7ced8f2b4b12c6ceb4762019" title="_xfs_mru_cache_clear\l_reap_list" alt="" coords="417,57,570,98"/>
-</map>

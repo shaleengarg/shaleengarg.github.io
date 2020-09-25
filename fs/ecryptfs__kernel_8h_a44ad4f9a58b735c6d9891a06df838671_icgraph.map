@@ -1,7 +1,0 @@
-<map id="ecryptfs_parse_packet_set" name="ecryptfs_parse_packet_set">
-<area shape="rect" id="node2" href="$ecryptfs_2crypto_8c.html#a1971b0423a0e1cbe741f78712d319b20" title="ecryptfs_read_headers_virt" alt="" coords="232,42,411,69"/>
-<area shape="rect" id="node3" href="$ecryptfs__kernel_8h.html#a0f476d4db45796bb804042157fbd93fa" title="ecryptfs_read_metadata" alt="" coords="459,42,621,69"/>
-<area shape="rect" id="node4" href="$ecryptfs_2file_8c.html#a0248e328b772bb8a72ff8db7c316ccc5" title="read_or_initialize\l_metadata" alt="" coords="669,5,788,47"/>
-<area shape="rect" id="node6" href="$ecryptfs_2inode_8c.html#a34946e5592d6ec37a0d9cedef341291d" title="ecryptfs_setattr" alt="" coords="672,71,785,98"/>
-<area shape="rect" id="node5" href="$ecryptfs_2file_8c.html#ab77b53c00f24de64a0fcbb182f043f23" title="ecryptfs_open" alt="" coords="836,13,940,39"/>
-</map>

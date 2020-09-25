@@ -1,6 +1,0 @@
-<map id="__get_nat_bitmaps" name="__get_nat_bitmaps">
-<area shape="rect" id="node2" href="$node_8c.html#a535dd9a02d3e44af3f13558867dd5cfb" title="init_node_manager" alt="" coords="185,5,316,32"/>
-<area shape="rect" id="node3" href="$node_8c.html#a1055bda7415d2d151a1df94d2efd6ccc" title="build_node_manager" alt="" coords="364,5,505,32"/>
-<area shape="rect" id="node4" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="553,5,656,32"/>
-<area shape="rect" id="node5" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="704,5,791,32"/>
-</map>

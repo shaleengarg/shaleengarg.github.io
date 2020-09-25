@@ -1,9 +1,0 @@
-<map id="register_nfs_version" name="register_nfs_version">
-<area shape="rect" id="node2" href="$nfs_8h.html#a8c43a8edd4b2978d7800c38fac1356f8" title="register_nfs_version" alt="" coords="192,55,331,81"/>
-<area shape="rect" id="node3" href="$nfs2super_8c.html#a1199677321cb50d91e0b949fd9453767" title="init_nfs_v2" alt="" coords="379,5,464,32"/>
-<area shape="rect" id="node5" href="$nfs3super_8c.html#a0115811f9d07b9be89047af24dbf1fa8" title="init_nfs_v3" alt="" coords="379,80,464,107"/>
-<area shape="rect" id="node7" href="$nfs4super_8c.html#a23c4c32af2f7feccef0e78d82f7c6091" title="init_nfs_v4" alt="" coords="379,143,464,169"/>
-<area shape="rect" id="node4" href="$nfs2super_8c.html#a38cca224bb8c3be0fa726e5e13f9d749" title="exit_nfs_v2" alt="" coords="512,5,601,32"/>
-<area shape="rect" id="node6" href="$nfs3super_8c.html#afae6cbbaf03df7dd4bc36f8c08d0d704" title="exit_nfs_v3" alt="" coords="512,80,601,107"/>
-<area shape="rect" id="node8" href="$nfs4super_8c.html#a891ab77658501dd0b8a33cdbbd50a0ed" title="exit_nfs_v4" alt="" coords="512,143,601,169"/>
-</map>

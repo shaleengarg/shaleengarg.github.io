@@ -1,8 +1,0 @@
-<map id="kernfs_seq_start" name="kernfs_seq_start">
-<area shape="rect" id="node2" href="$kernfs_2file_8c.html#a6d675144e2a63dd55a0246ee7663a237" title="kernfs_ops" alt="" coords="399,56,486,83"/>
-<area shape="rect" id="node3" href="$kernfs_2dir_8c.html#acb30a8df494e7cca56095d943ac08b7e" title="kernfs_get_active" alt="" coords="189,5,315,32"/>
-<area shape="rect" id="node5" href="$kernfs_2file_8c.html#ad20ad6a0f510520d0f363f375c4da799" title="kernfs_seq_stop_active" alt="" coords="172,107,332,133"/>
-<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#a11cf3bfb36050dd88b5c5b271164f527" title="kernfs_lockdep" alt="" coords="553,31,664,57"/>
-<area shape="rect" id="node6" href="$kernfs_2dir_8c.html#a7f9d22e0386c7a16116127ed20fb04cc" title="kernfs_put_active" alt="" coords="380,107,505,133"/>
-<area shape="rect" id="node7" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="565,107,652,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="user_dlm_unregister" name="user_dlm_unregister">
-<area shape="rect" id="node2" href="$dlmfs_8c.html#a2fdc9e821d8aed705caab6a7ac049ccb" title="dlmfs_evict_inode" alt="" coords="192,5,319,32"/>
-<area shape="rect" id="node3" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="367,5,480,32"/>
-<area shape="rect" id="node4" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="528,5,625,32"/>
-</map>

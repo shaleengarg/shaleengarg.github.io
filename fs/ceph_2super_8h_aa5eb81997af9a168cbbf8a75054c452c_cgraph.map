@@ -1,4 +1,0 @@
-<map id="ceph_translate_ino" name="ceph_translate_ino">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a5cfd03d4fd1754c43ab0a99fb09c479c" title="ceph_sb_to_client" alt="" coords="186,5,313,32"/>
-<area shape="rect" id="node3" href="$ceph_2super_8h.html#affce4e0ade1bbe3fc4f287955f5a2745" title="ceph_ino_to_ino32" alt="" coords="184,56,315,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ocfs2_release_local_quota_bitmaps" name="ocfs2_release_local_quota_bitmaps">
-<area shape="rect" id="node2" href="$quota__local_8c.html#a198ba46f18f798ebb4ad2db24da6e3d1" title="ocfs2_load_local_quota\l_bitmaps" alt="" coords="191,5,349,47"/>
-<area shape="rect" id="node3" href="$quota__local_8c.html#a990f715c1b700666b5152bacab25139d" title="ocfs2_local_read_info" alt="" coords="397,42,545,69"/>
-<area shape="rect" id="node4" href="$quota__local_8c.html#acda16d3428ed03f55755fbd767b5dce9" title="ocfs2_local_free_info" alt="" coords="197,122,343,149"/>
-</map>

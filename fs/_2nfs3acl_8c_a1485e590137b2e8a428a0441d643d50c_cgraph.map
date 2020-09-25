@@ -1,5 +1,0 @@
-<map id="nfs3svc_decode_getaclargs" name="nfs3svc_decode_getaclargs">
-<area shape="rect" id="node2" href="$_2nfs3xdr_8c.html#a2ee17a0a256609cc086bc737e70e3b49" title="nfs3svc_decode_fh" alt="" coords="237,5,372,32"/>
-<area shape="rect" id="node3" href="$_2nfs3xdr_8c.html#aa7326ad5b808fd20a23d2303466c225f" title="decode_fh" alt="" coords="420,5,503,32"/>
-<area shape="rect" id="node4" href="$nfsfh_8h.html#a134fd702cff1276401e72df821ecc90c" title="fh_init" alt="" coords="551,5,608,32"/>
-</map>

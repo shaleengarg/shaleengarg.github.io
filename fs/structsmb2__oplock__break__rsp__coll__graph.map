@@ -1,4 +1,0 @@
-<map id="smb2_oplock_break_rsp" name="smb2_oplock_break_rsp">
-<area shape="rect" id="node2" href="$structsmb2__hdr.html" title="smb2_hdr" alt="" coords="47,95,126,121"/>
-<area shape="rect" id="node3" href="$structsmb2__sync__hdr.html" title="smb2_sync_hdr" alt="" coords="29,5,144,32"/>
-</map>

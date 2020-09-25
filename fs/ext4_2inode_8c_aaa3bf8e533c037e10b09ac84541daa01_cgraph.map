@@ -1,7 +1,0 @@
-<map id="ext4_meta_trans_blocks" name="ext4_meta_trans_blocks">
-<area shape="rect" id="node2" href="$ext4_2inode_8c.html#a303bdd4625dc75b5cfdc961ae1763f6a" title="ext4_index_trans_blocks" alt="" coords="217,35,384,61"/>
-<area shape="rect" id="node3" href="$indirect_8c.html#a77f74c2d512df943f5002f0902d1bc25" title="ext4_ind_trans_blocks" alt="" coords="432,5,584,32"/>
-<area shape="rect" id="node4" href="$ext4_2extents_8c.html#af471a94b1a99a91eebf67037fdd183d3" title="ext4_ext_index_trans\l_blocks" alt="" coords="435,57,581,98"/>
-<area shape="rect" id="node5" href="$ext4__extents_8h.html#acc4c0bbb9316350eac0184d408b07910" title="ext_depth" alt="" coords="632,64,711,91"/>
-<area shape="rect" id="node6" href="$ext4__extents_8h.html#a8a07d83aa804e034e0c83e7d0eb26be5" title="ext_inode_hdr" alt="" coords="759,64,861,91"/>
-</map>

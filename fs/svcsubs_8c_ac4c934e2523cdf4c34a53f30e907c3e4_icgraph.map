@@ -1,6 +1,0 @@
-<map id="EXPORT_SYMBOL_GPL" name="EXPORT_SYMBOL_GPL">
-<area shape="rect" id="node2" href="$svcsubs_8c.html#a62466e1aea67b46a5364d2ec8ccf59b8" title="nlmsvc_unlock_all_by_sb" alt="" coords="225,5,396,32"/>
-<area shape="rect" id="node4" href="$svcsubs_8c.html#ae431190b24bf74fa361c1f92c5d0f1ee" title="nlmsvc_unlock_all_by_ip" alt="" coords="227,56,394,83"/>
-<area shape="rect" id="node3" href="$nfsctl_8c.html#a6c56fcf987ec5a745a6de5e777dd7c76" title="write_unlock_fs" alt="" coords="444,5,557,32"/>
-<area shape="rect" id="node5" href="$nfsctl_8c.html#ad0937721be2fd8fa2e12f05b0a868420" title="write_unlock_ip" alt="" coords="445,56,557,83"/>
-</map>

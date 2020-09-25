@@ -1,9 +1,0 @@
-<map id="__reiserfs_set_acl" name="__reiserfs_set_acl">
-<area shape="rect" id="node2" href="$xattr__acl_8c.html#a35a8cd513ffbf04f70b42c5291c4dce3" title="reiserfs_posix_acl\l_to_disk" alt="" coords="181,5,308,47"/>
-<area shape="rect" id="node4" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="197,71,292,98"/>
-<area shape="rect" id="node6" href="$posix__acl_8c.html#ae2b78748fb46980065a144fc6032a1b8" title="set_cached_acl" alt="" coords="188,122,301,149"/>
-<area shape="rect" id="node3" href="$reiserfs_2acl_8h.html#a871f271ca9e66d221ae1ba085383390a" title="reiserfs_acl_size" alt="" coords="365,13,485,39"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="356,71,495,98"/>
-<area shape="rect" id="node7" href="$posix__acl_8c.html#a927d4fbd2c4d6e779ac2b6116364115e" title="acl_by_type" alt="" coords="379,122,471,149"/>
-<area shape="rect" id="node8" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="356,173,495,199"/>
-</map>

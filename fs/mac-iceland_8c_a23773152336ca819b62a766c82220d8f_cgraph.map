@@ -1,7 +1,0 @@
-<map id="exit_nls_maciceland" name="exit_nls_maciceland">
-<area shape="rect" id="node2" href="$nls__base_8c.html#a168a87828ea93c6a510f0192111dbcd9" title="unregister_nls" alt="" coords="214,5,317,32"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#a87e73e9fecb8e45efe6bd255ec6a37af" title="module_init" alt="" coords="221,56,309,83"/>
-<area shape="rect" id="node4" href="$mac-iceland_8c.html#ab674905e9d999b4c32f3ae214217ee5a" title="init_nls_maciceland" alt="" coords="197,107,333,133"/>
-<area shape="rect" id="node5" href="$afs_2main_8c.html#a0d4917801ba73ac6e83ea8b88f878202" title="module_exit" alt="" coords="219,157,311,184"/>
-<area shape="rect" id="node6" href="$affs_2super_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="193,208,337,235"/>
-</map>

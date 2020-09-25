@@ -1,5 +1,0 @@
-<map id="init_once" name="init_once">
-<area shape="rect" id="node2" href="$bfs_2inode_8c.html#a383280e7241ecff259afb2e90b1241b3" title="init_inodecache" alt="" coords="128,5,240,32"/>
-<area shape="rect" id="node3" href="$bfs_2inode_8c.html#ad08305b7295b09ab82d736611ed50545" title="init_bfs_fs" alt="" coords="288,5,371,32"/>
-<area shape="rect" id="node4" href="$bfs_2inode_8c.html#a71265128c74d5ea77f6e20e5b86fbff3" title="exit_bfs_fs" alt="" coords="419,5,505,32"/>
-</map>

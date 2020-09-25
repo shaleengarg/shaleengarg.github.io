@@ -1,9 +1,0 @@
-<map id="flags_to_propagation_type" name="flags_to_propagation_type">
-<area shape="rect" id="node2" href="$namespace_8c.html#ae80c27784743f05a6ff0994d281f81e0" title="do_change_type" alt="" coords="228,81,345,108"/>
-<area shape="rect" id="node3" href="$namespace_8c.html#af5083a7a89afd073f4073fb89c2042a0" title="do_mount" alt="" coords="393,81,472,108"/>
-<area shape="rect" id="node4" href="$compat_8c.html#a3d85834ab71c46c846be15644e3ac17f" title="COMPAT_SYSCALL_DEFINE5" alt="" coords="520,56,731,83"/>
-<area shape="rect" id="node7" href="$namespace_8c.html#ad34ea66cdaf4544bab397528d6d3e8c0" title="ksys_mount" alt="" coords="579,107,672,133"/>
-<area shape="rect" id="node5" href="$aio_8c.html#afa5fd2ceea4f0fab701cb14b1761fc4b" title="SYSCALL_DEFINE5" alt="" coords="779,5,925,32"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#a3027081c8ba8c50821f4222c2082badc" title="SYSCALL_DEFINE6" alt="" coords="779,56,925,83"/>
-<area shape="rect" id="node8" href="$namespace_8c.html#ae03e562d0aa8316cb400740651c2e690" title="SYSCALL_DEFINE5" alt="" coords="779,107,925,133"/>
-</map>

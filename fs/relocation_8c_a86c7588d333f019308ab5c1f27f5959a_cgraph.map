@@ -1,6 +1,0 @@
-<map id="find_next_inode" name="find_next_inode">
-<area shape="rect" id="node2" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="167,5,239,32"/>
-<area shape="rect" id="node3" href="$inode_8c.html#ad2a7d900c04745e54c8d2f3847922a59" title="igrab" alt="" coords="177,56,228,83"/>
-<area shape="rect" id="node4" href="$inode_8c.html#ab5747108c3d9a3f113b72a10a9be6a2f" title="__iget" alt="" coords="327,31,385,57"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="287,81,425,108"/>
-</map>

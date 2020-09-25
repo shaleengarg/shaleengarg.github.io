@@ -1,7 +1,0 @@
-<map id="check_mf_symlink" name="check_mf_symlink">
-<area shape="rect" id="node2" href="$link_8c.html#a7d68b775d26400bdce470e7778c884ac" title="couldbe_mf_symlink" alt="" coords="184,5,325,32"/>
-<area shape="rect" id="node3" href="$link_8c.html#a4b2a64922a8a2ae543ea3ac064ecd711" title="parse_mf_symlink" alt="" coords="191,56,319,83"/>
-<area shape="rect" id="node4" href="$link_8c.html#ab92546d2f4a3f8f883cf3e62a866ac41" title="symlink_hash" alt="" coords="373,56,476,83"/>
-<area shape="rect" id="node5" href="$cifsproto_8h.html#a69d2168a19e01f2ca2a86ccab9c567ee" title="cifs_alloc_hash" alt="" coords="524,31,636,57"/>
-<area shape="rect" id="node6" href="$cifsproto_8h.html#ac2d5f22bae004255b63878af9abecae9" title="cifs_free_hash" alt="" coords="527,81,633,108"/>
-</map>

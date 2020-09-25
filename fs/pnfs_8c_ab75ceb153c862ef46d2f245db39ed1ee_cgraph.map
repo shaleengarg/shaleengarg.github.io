@@ -1,5 +1,0 @@
-<map id="pnfs_free_returned_lsegs" name="pnfs_free_returned_lsegs">
-<area shape="rect" id="node2" href="$pnfs_8c.html#a8ea892f1fac777578f2994b532662ad3" title="pnfs_match_lseg_recall" alt="" coords="184,31,343,57"/>
-<area shape="rect" id="node3" href="$pnfs_8c.html#a319a6f1d5106160ac31c094d482bb7f6" title="pnfs_seqid_is_newer" alt="" coords="399,5,543,32"/>
-<area shape="rect" id="node4" href="$pnfs_8c.html#a3a3aeb49a8cc887cf452356cbb1dd46e" title="pnfs_should_free_range" alt="" coords="391,56,551,83"/>
-</map>

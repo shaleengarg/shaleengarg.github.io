@@ -1,5 +1,0 @@
-<map id="ocfs2_orphan_scan_start" name="ocfs2_orphan_scan_start">
-<area shape="rect" id="node2" href="$ocfs2_8h.html#a51e1d0086ac2d8afc66a67fb1d1a24df" title="ocfs2_is_hard_readonly" alt="" coords="235,5,393,32"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#a9e7c0045acf58827ffc9bf875f2d31ba" title="ocfs2_mount_local" alt="" coords="249,56,379,83"/>
-<area shape="rect" id="node4" href="$ocfs2_2journal_8c.html#a7271fde090d054e0f4ee1f89ff337838" title="ocfs2_orphan_scan_timeout" alt="" coords="221,107,407,133"/>
-</map>

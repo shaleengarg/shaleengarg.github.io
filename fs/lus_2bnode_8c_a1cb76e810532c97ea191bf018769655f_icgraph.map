@@ -1,7 +1,0 @@
-<map id="hfs_bnode_hash" name="hfs_bnode_hash">
-<area shape="rect" id="node2" href="$lus_2bnode_8c.html#a71c19907a55d918e5f3fe4e5d2bf4338" title="hfs_bnode_findhash" alt="" coords="171,5,309,32"/>
-<area shape="rect" id="node3" href="$lus_2bnode_8c.html#aa895d364561497855ae808624b826dbf" title="__hfs_bnode_create" alt="" coords="171,56,309,83"/>
-<area shape="rect" id="node6" href="$lus_2bnode_8c.html#a532f5e7bc3f95079c281e3ee0625a9bc" title="hfs_bnode_unhash" alt="" coords="175,107,305,133"/>
-<area shape="rect" id="node4" href="$lus_2bnode_8c.html#a7e3bbdf85d004d592b21e3d8a1f6530b" title="hfs_bnode_find" alt="" coords="365,31,475,57"/>
-<area shape="rect" id="node5" href="$lus_2bnode_8c.html#a31c3b4c525fc1b80a5c1d4e52bc74169" title="hfs_bnode_create" alt="" coords="357,81,483,108"/>
-</map>

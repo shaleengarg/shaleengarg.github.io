@@ -1,5 +1,0 @@
-<map id="orangefs_getattr" name="orangefs_getattr">
-<area shape="rect" id="node2" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="169,13,272,39"/>
-<area shape="rect" id="node3" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="320,5,455,47"/>
-<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="503,13,652,39"/>
-</map>

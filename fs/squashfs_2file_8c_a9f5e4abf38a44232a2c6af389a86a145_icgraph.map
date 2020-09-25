@@ -1,5 +1,0 @@
-<map id="read_indexes" name="read_indexes">
-<area shape="rect" id="node2" href="$squashfs_2file_8c.html#a19da932e92d50c90419f53fbb3a049ab" title="fill_meta_index" alt="" coords="152,5,261,32"/>
-<area shape="rect" id="node3" href="$squashfs_2file_8c.html#a3c7e57029c078d28fe54b688dcd975f8" title="read_blocklist" alt="" coords="309,31,412,57"/>
-<area shape="rect" id="node4" href="$squashfs_2file_8c.html#a0bd06ed1a7f82548ed746b23770e2b8e" title="squashfs_readpage" alt="" coords="460,31,595,57"/>
-</map>

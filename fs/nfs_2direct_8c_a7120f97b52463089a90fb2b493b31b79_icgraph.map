@@ -1,5 +1,0 @@
-<map id="nfs_direct_good_bytes" name="nfs_direct_good_bytes">
-<area shape="rect" id="node2" href="$nfs_2direct_8c.html#a262d5e1dd218b9ae094c0a80493c00d7" title="nfs_direct_read_completion" alt="" coords="208,5,389,32"/>
-<area shape="rect" id="node3" href="$nfs_2direct_8c.html#a9e80eca1a890584a5e2c9b7a65281733" title="nfs_direct_write_completion" alt="" coords="207,56,391,83"/>
-<area shape="rect" id="node4" href="$nfs_2direct_8c.html#a8bacd8b42ab8abbe409b7a80f39c7e24" title="nfs_direct_write_reschedule_io" alt="" coords="439,56,640,83"/>
-</map>

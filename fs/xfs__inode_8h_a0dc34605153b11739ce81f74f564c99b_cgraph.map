@@ -1,7 +1,0 @@
-<map id="xfs_isiflocked" name="xfs_isiflocked">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#a658777ad7c1ef780fc8d4a0a4ce8e4aa" title="xfs_iflags_test" alt="" coords="156,5,263,32"/>
-<area shape="rect" id="node4" href="$xfs__inode_8h.html#ac3b94b0f388ca0069d13d1d097c40a57" title="__xfs_iflock" alt="" coords="163,56,255,83"/>
-<area shape="rect" id="node3" href="$xfs__inode_8h.html#a53a85d4b55f2744d51678c6ba23ab05c" title="__xfs_iflags_test" alt="" coords="311,5,433,32"/>
-<area shape="rect" id="node5" href="$xfs__inode_8h.html#a3c1ebd3b446b15a2c2b511c803c1edae" title="xfs_iflock_nowait" alt="" coords="311,56,433,83"/>
-<area shape="rect" id="node6" href="$xfs__inode_8h.html#a144e80542c0e344103d339bc31f0b046" title="xfs_iflags_test_and_set" alt="" coords="481,56,641,83"/>
-</map>

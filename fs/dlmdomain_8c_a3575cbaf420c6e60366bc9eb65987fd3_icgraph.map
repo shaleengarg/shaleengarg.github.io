@@ -1,6 +1,0 @@
-<map id="dlm_exit_domain_handler" name="dlm_exit_domain_handler">
-<area shape="rect" id="node2" href="$dlmdomain_8c.html#a5a1e1b2dfb2beaf2266c20aaa8688155" title="dlm_register_domain\l_handlers" alt="" coords="223,5,365,47"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#affee3bbfcdea87eedd2014d822f30644" title="dlm_join_domain" alt="" coords="413,13,532,39"/>
-<area shape="rect" id="node4" href="$dlmdomain_8c.html#ae919e83248a462e98afc7b41066b992f" title="dlm_register_domain" alt="" coords="580,13,723,39"/>
-<area shape="rect" id="node5" href="$stack__o2cb_8c.html#a6fbec0ac0199f1beacbae9a3ad9d23ef" title="o2cb_cluster_connect" alt="" coords="771,13,920,39"/>
-</map>

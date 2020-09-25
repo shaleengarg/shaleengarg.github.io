@@ -1,5 +1,0 @@
-<map id="ceph_vino_to_ino" name="ceph_vino_to_ino">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#affce4e0ade1bbe3fc4f287955f5a2745" title="ceph_ino_to_ino32" alt="" coords="355,5,485,32"/>
-<area shape="rect" id="node3" href="$ceph_2super_8h.html#aa5eb81997af9a168cbbf8a75054c452c" title="ceph_translate_ino" alt="" coords="176,56,307,83"/>
-<area shape="rect" id="node4" href="$ceph_2super_8h.html#a5cfd03d4fd1754c43ab0a99fb09c479c" title="ceph_sb_to_client" alt="" coords="357,56,483,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="do_pollfd" name="do_pollfd">
-<area shape="rect" id="node2" href="$select_8c.html#a558304ba4d063f8d520d546f6020af14" title="do_poll" alt="" coords="128,56,191,83"/>
-<area shape="rect" id="node3" href="$select_8c.html#ae7602c4c2e2277dae5265782ae582a31" title="do_sys_poll" alt="" coords="239,56,329,83"/>
-<area shape="rect" id="node4" href="$select_8c.html#a596ee9216ca57163de16ce2a5383cb01" title="do_restart_poll" alt="" coords="397,5,504,32"/>
-<area shape="rect" id="node5" href="$select_8c.html#ac416698057b055d08d9dd1a90404359f" title="SYSCALL_DEFINE3" alt="" coords="572,31,719,57"/>
-<area shape="rect" id="node6" href="$select_8c.html#a5ff1a25c65df57d73e808e982cf1d106" title="SYSCALL_DEFINE5" alt="" coords="377,107,524,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="send_rcom" name="send_rcom">
-<area shape="rect" id="node2" href="$dlm_2util_8c.html#ada88b0d963169e35e40e5d0853710e4b" title="dlm_rcom_out" alt="" coords="169,5,273,32"/>
-<area shape="rect" id="node4" href="$lowcomms_8c.html#ac9d7f3a2396c0b79cb3012452b09c21e" title="dlm_lowcomms_commit\l_buffer" alt="" coords="140,57,303,98"/>
-<area shape="rect" id="node3" href="$dlm_2util_8c.html#abd7e467a9d88bbab0ad3d0dc299a1603" title="header_out" alt="" coords="351,5,437,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="nilfs_show_options" name="nilfs_show_options">
-<area shape="rect" id="node2" href="$nilfs_8h.html#a4f06a82c20559c61e8f30eac6bad1001" title="NILFS_I" alt="" coords="191,5,261,32"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#a7e5f420f36260aabc2ae80abca76a19f" title="seq_puts" alt="" coords="319,56,394,83"/>
-<area shape="rect" id="node6" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="187,107,265,133"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="455,56,579,83"/>
-<area shape="rect" id="node5" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="448,107,587,133"/>
-<area shape="rect" id="node7" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="313,107,400,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="ovl_show_options" name="ovl_show_options">
-<area shape="rect" id="node2" href="$seq__file_8c.html#a7e5f420f36260aabc2ae80abca76a19f" title="seq_puts" alt="" coords="387,5,462,32"/>
-<area shape="rect" id="node5" href="$overlayfs_2super_8c.html#a2095c4864935a8b44f4c92a965457188" title="ovl_redirect_mode_def" alt="" coords="180,107,333,133"/>
-<area shape="rect" id="node6" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="217,56,296,83"/>
-<area shape="rect" id="node8" href="$overlayfs_2super_8c.html#a2d02bc3a166f7e3ebd7194b96010181b" title="ovl_xino_def" alt="" coords="209,157,304,184"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="523,5,647,32"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="516,56,655,83"/>
-<area shape="rect" id="node7" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="381,56,468,83"/>
-</map>

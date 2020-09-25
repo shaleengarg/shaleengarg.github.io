@@ -1,9 +1,0 @@
-<map id="nfs_should_remove_suid" name="nfs_should_remove_suid">
-<area shape="rect" id="node2" href="$nfs_2write_8c.html#ae8a68f1f46e93e45628ca63cd96beadb" title="nfs_writeback_done" alt="" coords="220,107,359,133"/>
-<area shape="rect" id="node3" href="$nfs_2write_8c.html#a1919dc05049c1a22e1651bcfe9e47dad" title="nfs_destroy_writepagecache" alt="" coords="407,107,595,133"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a9fd83ddb0596d34260239182288656bf" title="init_nfs_fs" alt="" coords="823,107,905,133"/>
-<area shape="rect" id="node5" href="$nfs_2inode_8c.html#a3c5c0616e9bd80645b86dbaaee570220" title="exit_nfs_fs" alt="" coords="968,107,1055,133"/>
-<area shape="rect" id="node6" href="$nfs_2internal_8h.html#af88aebff7f7231ddc69f3c120bbd0c0b" title="nfs_fs_proc_exit" alt="" coords="643,56,761,83"/>
-<area shape="rect" id="node7" href="$nfs_2internal_8h.html#af66937214a851f3a5a82b83a4707c795" title="nfs_clients_init" alt="" coords="809,5,919,32"/>
-<area shape="rect" id="node8" href="$nfs_2inode_8c.html#a10f531049a981eae2ae80866bec66b7d" title="nfs_net_init" alt="" coords="967,5,1056,32"/>
-</map>

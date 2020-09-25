@@ -1,5 +1,0 @@
-<map id="dax_writeback_mapping_range" name="dax_writeback_mapping_range">
-<area shape="rect" id="node2" href="$ext2_2inode_8c.html#ab1b2c17a87dc6db356a155c565e4cf58" title="ext2_dax_writepages" alt="" coords="216,5,361,32"/>
-<area shape="rect" id="node3" href="$ext4_2inode_8c.html#a61d70202fd22bf346efd1d6de7a91b07" title="ext4_dax_writepages" alt="" coords="216,56,361,83"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#abfcdaea792fe270f40980a27bc7c4364" title="xfs_dax_writepages" alt="" coords="219,107,358,133"/>
-</map>

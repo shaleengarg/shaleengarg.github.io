@@ -1,7 +1,0 @@
-<map id="ocfs2_link_max" name="ocfs2_link_max">
-<area shape="rect" id="node2" href="$ocfs2_2namei_8c.html#a5a8fa945d08fb2eafc24f39630a6fa17" title="ocfs2_mknod" alt="" coords="169,31,269,57"/>
-<area shape="rect" id="node5" href="$ocfs2_2namei_8c.html#a407460229ee2fbf7ab6ee03e7e000407" title="ocfs2_link" alt="" coords="178,81,259,108"/>
-<area shape="rect" id="node6" href="$ocfs2_2namei_8c.html#a7e52237e2e01c71acd11510cbd85fc93" title="ocfs2_rename" alt="" coords="167,132,271,159"/>
-<area shape="rect" id="node3" href="$ocfs2_2namei_8c.html#a2cfeba05a2658265d1b4f4d135fe8a95" title="ocfs2_mkdir" alt="" coords="321,5,414,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2namei_8c.html#a5941207e141e5d428728f560689f1398" title="ocfs2_create" alt="" coords="319,56,416,83"/>
-</map>

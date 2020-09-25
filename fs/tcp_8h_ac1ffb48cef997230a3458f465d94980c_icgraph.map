@@ -1,8 +1,0 @@
-<map id="o2net_disconnect_node" name="o2net_disconnect_node">
-<area shape="rect" id="node2" href="$nodemanager_8c.html#a95d481ec4526f8c9545a7d115026338d" title="o2nm_node_group_drop_item" alt="" coords="429,56,621,83"/>
-<area shape="rect" id="node3" href="$tcp_8c.html#a39776777cbf8271e4c10f0392c558816" title="o2net_hb_node_down_cb" alt="" coords="212,5,381,32"/>
-<area shape="rect" id="node6" href="$tcp_8h.html#ae20792a5e77cd26e11e7d9891f73bae6" title="o2net_stop_listening" alt="" coords="226,107,367,133"/>
-<area shape="rect" id="node4" href="$tcp_8h.html#ae1de271c512302aba822502c0c3d6762" title="o2net_register_hb_callbacks" alt="" coords="432,5,619,32"/>
-<area shape="rect" id="node5" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="669,5,748,32"/>
-<area shape="rect" id="node7" href="$nodemanager_8c.html#a4b7a34e9cb0299e35a63d842a16dbb79" title="o2nm_node_local_store" alt="" coords="446,107,605,133"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="send_renew_caps" name="send_renew_caps">
-<area shape="rect" id="node2" href="$strings_8c.html#a736a91a0889f087bd9a7c8c852a08e21" title="ceph_mds_state_name" alt="" coords="180,5,337,32"/>
-<area shape="rect" id="node3" href="$mds__client_8c.html#ab0510fb7365b23d910ff9391293006a2" title="create_session_msg" alt="" coords="187,56,330,83"/>
-</map>

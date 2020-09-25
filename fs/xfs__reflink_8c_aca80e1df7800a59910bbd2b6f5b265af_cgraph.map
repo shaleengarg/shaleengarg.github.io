@@ -1,6 +1,0 @@
-<map id="xfs_reflink_ag_has_free_space" name="xfs_reflink_ag_has_free_space">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#a370c40fa2787e065d17780c7b3563e63" title="xfs_sb_version_hasrmapbt" alt="" coords="184,5,363,32"/>
-<area shape="rect" id="node3" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="221,56,325,83"/>
-<area shape="rect" id="node4" href="$xfs__ag__resv_8c.html#af43e5b5b5ff409c57b4b914982eee0e4" title="xfs_ag_resv_critical" alt="" coords="204,107,343,133"/>
-<area shape="rect" id="node5" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="221,157,325,184"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="nfs4_find_get_deviceid" name="nfs4_find_get_deviceid">
-<area shape="rect" id="node2" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="269,5,319,32"/>
-<area shape="rect" id="node3" href="$pnfs__dev_8c.html#aa60969b95f08c1b4e646a66803c21db6" title="nfs4_deviceid_hash" alt="" coords="225,56,363,83"/>
-<area shape="rect" id="node4" href="$pnfs__dev_8c.html#a0bdeaccfa155b97bfc0f37d99619943e" title="__nfs4_find_get_deviceid" alt="" coords="209,107,379,133"/>
-<area shape="rect" id="node6" href="$pnfs__dev_8c.html#a68364246767037bff39cdfc87eb1d062" title="nfs4_get_device_info" alt="" coords="221,157,367,184"/>
-<area shape="rect" id="node8" href="$pnfs__dev_8c.html#a580b48a27275d9a1109e2e773d4fc0ca" title="EXPORT_SYMBOL_GPL" alt="" coords="208,208,380,235"/>
-<area shape="rect" id="node5" href="$pnfs__dev_8c.html#a962443d22d05c3e7d1f8c9de6272dcb3" title="_lookup_deviceid" alt="" coords="434,107,557,133"/>
-<area shape="rect" id="node7" href="$nfs_2internal_8h.html#af602e541d1f73a197860df24ceadb17f" title="nfs_page_array_len" alt="" coords="428,157,563,184"/>
-</map>

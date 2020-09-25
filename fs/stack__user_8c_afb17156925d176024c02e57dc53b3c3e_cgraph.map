@@ -1,6 +1,0 @@
-<map id="ocfs2_control_validate_protocol" name="ocfs2_control_validate_protocol">
-<area shape="rect" id="node2" href="$stack__user_8c.html#a16ce1a03d9d772c9112af759dce1b2bb" title="ocfs2_control_cfu" alt="" coords="240,5,365,32"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#a2dede7f9ebc72b0baaff5a73f687d18f" title="ocfs2_control_set_handshake\l_state" alt="" coords="205,57,400,98"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="275,123,330,149"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="448,123,567,149"/>
-</map>

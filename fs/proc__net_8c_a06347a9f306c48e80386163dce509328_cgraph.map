@@ -1,6 +1,0 @@
-<map id="single_release_net" name="single_release_net">
-<area shape="rect" id="node2" href="$seq__file_8c.html#ac09cd41c79b109521d8ad8e0298a4bb2" title="single_release" alt="" coords="217,31,323,57"/>
-<area shape="rect" id="node5" href="$proc__net_8c.html#a50f0666fc4979cbfa9bb149efcc3b64d" title="EXPORT_SYMBOL_GPL" alt="" coords="184,81,356,108"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#a64b33cde1999efd86c566aaf3ad273c8" title="seq_release" alt="" coords="404,5,496,32"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="544,31,683,57"/>
-</map>

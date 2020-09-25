@@ -1,9 +1,0 @@
-<map id="nilfs_init_cachep" name="nilfs_init_cachep">
-<area shape="rect" id="node2" href="$nilfs2_2super_8c.html#ac334b81644760c10eb0c60e9d56823e9" title="nilfs_inode_init_once" alt="" coords="176,31,319,57"/>
-<area shape="rect" id="node7" href="$nilfs2_2super_8c.html#a5f95f99597611d4ac1d2d1c48f1b2860" title="nilfs_segbuf_init_once" alt="" coords="172,81,323,108"/>
-<area shape="rect" id="node8" href="$nilfs2_2super_8c.html#a43e14ddeca407619e091ee494a50a78a" title="nilfs_destroy_cachep" alt="" coords="175,132,320,159"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a183235cecd8d20b13b850d733c4646b7" title="address_space_init_once" alt="" coords="371,5,540,32"/>
-<area shape="rect" id="node6" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="399,56,511,83"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="588,5,771,32"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="610,56,749,83"/>
-</map>

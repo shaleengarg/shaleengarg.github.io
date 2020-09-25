@@ -1,5 +1,0 @@
-<map id="hfs_btree_inc_height" name="hfs_btree_inc_height">
-<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#a625285d4396b97f38ecab8e5a2f6b9fc" title="hfs_brec_insert" alt="" coords="196,5,307,32"/>
-<area shape="rect" id="node3" href="$brec_8c.html#a189b0fff348a099387e2da4255ae21da" title="hfs_brec_update_parent" alt="" coords="355,5,516,32"/>
-<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#ad1949dd61d98082640c1b6246b5a40aa" title="hfs_brec_remove" alt="" coords="564,5,687,32"/>
-</map>

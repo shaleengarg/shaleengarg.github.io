@@ -1,6 +1,0 @@
-<map id="load_recdir" name="load_recdir">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a38fec46b0ef673b752da70d53aa084bb" title="nfs4_client_to_reclaim" alt="" coords="139,31,291,57"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a922fc34afeef55241ac9a7d5f78ff830" title="alloc_reclaim" alt="" coords="349,5,448,32"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a3c398582204465af6e2bcb43bc126fff" title="clientstr_hashval" alt="" coords="339,56,459,83"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#af787f30e25ff365c937691afb8f01fb0" title="opaque_hashval" alt="" coords="507,56,623,83"/>
-</map>

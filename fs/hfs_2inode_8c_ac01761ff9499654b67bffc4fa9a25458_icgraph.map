@@ -1,8 +1,0 @@
-<map id="hfs_read_inode" name="hfs_read_inode">
-<area shape="rect" id="node2" href="$hfs_2inode_8c.html#ab6175ddbb48ea9553b3cf485da6651a9" title="hfs_iget" alt="" coords="185,56,253,83"/>
-<area shape="rect" id="node6" href="$hfs_2inode_8c.html#a4eae249b040ecba8d79782c4bdc743ac" title="hfs_file_lookup" alt="" coords="164,107,273,133"/>
-<area shape="rect" id="node3" href="$hfs_2dir_8c.html#a234b268b5a6696f89427fddb77eff15c" title="hfs_lookup" alt="" coords="330,5,415,32"/>
-<area shape="rect" id="node4" href="$hfs_2super_8c.html#a83be34d1c100f45d39029f598fd16164" title="hfs_fill_super" alt="" coords="323,56,422,83"/>
-<area shape="rect" id="node5" href="$hfs_2super_8c.html#ad02dab2d53d22ff0cddb9baadc2229ef" title="hfs_mount" alt="" coords="472,56,555,83"/>
-<area shape="rect" id="node7" href="$hfs_2inode_8c.html#ada6c2e06df7d6ebe7c5eb1e8b64acc3a" title="hfs_file_fsync" alt="" coords="321,107,424,133"/>
-</map>

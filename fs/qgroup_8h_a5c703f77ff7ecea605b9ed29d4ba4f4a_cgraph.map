@@ -1,5 +1,0 @@
-<map id="btrfs_free_qgroup_config" name="btrfs_free_qgroup_config">
-<area shape="rect" id="node2" href="$qgroup_8c.html#a2eb258ce55e0f12f4c432b3d845c3f21" title="__del_qgroup_rb" alt="" coords="219,5,336,32"/>
-<area shape="rect" id="node3" href="$ulist_8c.html#a143429c891c7afec75d6f10ca475bd9c" title="ulist_free" alt="" coords="240,56,315,83"/>
-<area shape="rect" id="node4" href="$ulist_8c.html#a97281cf35ded52735b80b53c0b8d0725" title="ulist_release" alt="" coords="384,56,479,83"/>
-</map>

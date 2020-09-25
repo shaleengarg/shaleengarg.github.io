@@ -1,9 +1,0 @@
-<map id="xfs_inobt_first_free_inode" name="xfs_inobt_first_free_inode">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#ae32e645613fd898e3b5aef3c0b5219e8" title="xfs_inobt_issparse" alt="" coords="215,12,345,39"/>
-<area shape="rect" id="node3" href="$xfs__bit_8h.html#aa4266b11522f9fc920604566c8008e98" title="xfs_lowbit64" alt="" coords="233,63,327,89"/>
-<area shape="rect" id="node7" href="$xfs__ialloc__btree_8c.html#a40e95cc46ff6adacbb75ff803f2fd1a3" title="xfs_inobt_irec_to_allocmask" alt="" coords="187,144,373,171"/>
-<area shape="rect" id="node4" href="$xfs__bit_8h.html#a0373bbf07963cbefd163c7758920a14d" title="xfs_bitmap_empty" alt="" coords="421,5,551,32"/>
-<area shape="rect" id="node5" href="$xfs__bit_8h.html#a9b1b29a46abc03d4e5fe305ec031cbcd" title="xfs_contig_bits" alt="" coords="431,56,541,83"/>
-<area shape="rect" id="node6" href="$xfs__bit_8h.html#ac8336e529188203061c62eb90f3a9689" title="xfs_next_bit" alt="" coords="439,107,533,133"/>
-<area shape="rect" id="node8" href="$xfs__bit_8c.html#ac8336e529188203061c62eb90f3a9689" title="xfs_next_bit" alt="" coords="439,157,533,184"/>
-</map>

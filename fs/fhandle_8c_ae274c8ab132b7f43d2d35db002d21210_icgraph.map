@@ -1,6 +1,0 @@
-<map id="get_vfsmount_from_fd" name="get_vfsmount_from_fd">
-<area shape="rect" id="node2" href="$fhandle_8c.html#a670f9924829accf4b2b9f1b97366e4f6" title="do_handle_to_path" alt="" coords="205,5,336,32"/>
-<area shape="rect" id="node3" href="$fhandle_8c.html#a17c70654716b6c76f0adc2a55a8663ad" title="handle_to_path" alt="" coords="384,5,495,32"/>
-<area shape="rect" id="node4" href="$fhandle_8c.html#a1249178e0b4cc93fb6d8a341e22c3816" title="do_handle_open" alt="" coords="543,5,659,32"/>
-<area shape="rect" id="node5" href="$fhandle_8c.html#a98d0611b3327939a216e5ead6147e729" title="SYSCALL_DEFINE3" alt="" coords="707,5,853,32"/>
-</map>

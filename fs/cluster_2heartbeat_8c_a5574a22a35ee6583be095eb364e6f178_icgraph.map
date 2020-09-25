@@ -1,7 +1,0 @@
-<map id="o2hb_queue_node_event" name="o2hb_queue_node_event">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a2b7ae04c0b295d0b054e332332ccbe45" title="o2hb_shutdown_slot" alt="" coords="399,5,540,32"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#a24dc40e2397d88f9da7f339d33a19a67" title="o2hb_check_slot" alt="" coords="220,56,340,83"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a2bc2625e842d179a5d84f407ccfbe93d" title="o2hb_thread" alt="" coords="599,31,692,57"/>
-<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#af950396e373c84f930a2168da781f6ec" title="o2hb_region_dev_store" alt="" coords="740,31,896,57"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#a7d84faee862e1cd6071968d4c5de9b73" title="o2hb_do_disk_heartbeat" alt="" coords="388,56,551,83"/>
-</map>

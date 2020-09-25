@@ -1,9 +1,0 @@
-<map id="nfs_proc_readdir" name="nfs_proc_readdir">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="215,5,270,32"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a67be40c648d995f25fcca591854ec05f" title="nfs_invalidate_atime" alt="" coords="172,56,313,83"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="388,5,507,32"/>
-<area shape="rect" id="node5" href="$nfs_2inode_8c.html#a2c8796a0dda755676128203347abd111" title="nfs_set_cache_invalid" alt="" coords="372,56,523,83"/>
-<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="361,107,533,133"/>
-<area shape="rect" id="node6" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="589,19,728,61"/>
-<area shape="rect" id="node7" href="$nfs_2fscache_8h.html#af3f2768c71063606516dbb0ee9cf7d72" title="nfs_fscache_invalidate" alt="" coords="581,85,736,112"/>
-</map>

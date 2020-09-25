@@ -1,4 +1,0 @@
-<map id="end_bio_extent_buffer_writepage" name="end_bio_extent_buffer_writepage">
-<area shape="rect" id="node2" href="$extent__io_8c.html#a96e23e8651158dcc4a3885cbbaf4a81c" title="set_btree_ioerr" alt="" coords="245,5,353,32"/>
-<area shape="rect" id="node3" href="$extent__io_8c.html#ac9225a965a7c054ac2740020147adc30" title="end_extent_buffer_writeback" alt="" coords="204,56,393,83"/>
-</map>

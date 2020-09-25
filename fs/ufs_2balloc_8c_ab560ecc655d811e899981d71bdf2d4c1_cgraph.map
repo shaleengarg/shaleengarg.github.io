@@ -1,7 +1,0 @@
-<map id="ufs_clusteracct" name="ufs_clusteracct">
-<area shape="rect" id="node2" href="$ufs_8h.html#abeb63dc517629bd2f7833215c463946e" title="UFS_SB" alt="" coords="309,22,384,49"/>
-<area shape="rect" id="node3" href="$ufs_2util_8h.html#ae903f016308b1d7aee5e9481f34043fb" title="UCPI_UBH" alt="" coords="164,22,255,49"/>
-<area shape="rect" id="node4" href="$sysv_8h.html#aa12492d428066ff04beb3b068ddae54d" title="fs32_add" alt="" coords="172,124,247,150"/>
-<area shape="rect" id="node6" href="$swab_8h.html#a6ed9292c17539264679a13576051314a" title="fs32_sub" alt="" coords="172,73,247,100"/>
-<area shape="rect" id="node5" href="$sysv_8h.html#a220d8f5ecb291bfa36e96330b04ff852" title="PDP_swab" alt="" coords="303,124,391,150"/>
-</map>

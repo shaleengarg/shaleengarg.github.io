@@ -1,7 +1,0 @@
-<map id="xfs_reinit_inode" name="xfs_reinit_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a844185001176cf3da6e2195a24931015" title="inode_init_always" alt="" coords="167,56,292,83"/>
-<area shape="rect" id="node5" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="192,107,267,133"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a585882dc429befcbe4638a49bc11dff6" title="no_open" alt="" coords="347,5,417,32"/>
-<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="472,107,611,133"/>
-<area shape="rect" id="node6" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="340,157,424,184"/>
-</map>

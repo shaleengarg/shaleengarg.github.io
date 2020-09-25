@@ -1,6 +1,0 @@
-<map id="unpack_ltab" name="unpack_ltab">
-<area shape="rect" id="node2" href="$lpt_8c.html#a96436eaf7459ebef6525d09761a38d2c" title="check_lpt_type" alt="" coords="145,73,256,99"/>
-<area shape="rect" id="node3" href="$lpt_8c.html#af769280c22d887914ee95e9c2e4cc7de" title="ubifs_unpack_bits" alt="" coords="304,22,431,49"/>
-<area shape="rect" id="node5" href="$lpt_8c.html#ac0dcb63535a53346f5364a21cd948dec" title="check_lpt_crc" alt="" coords="149,22,252,49"/>
-<area shape="rect" id="node4" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="331,73,403,99"/>
-</map>

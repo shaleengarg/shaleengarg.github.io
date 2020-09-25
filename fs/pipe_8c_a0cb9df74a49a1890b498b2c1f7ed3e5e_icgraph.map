@@ -1,6 +1,0 @@
-<map id="round_pipe_size" name="round_pipe_size">
-<area shape="rect" id="node2" href="$pipe_8c.html#ada561ac9ed76260b8feb207407da084e" title="pipe_set_size" alt="" coords="169,5,272,32"/>
-<area shape="rect" id="node3" href="$pipe_8c.html#ac1f8baa81aa9aaeaf83128515dc57c8d" title="pipe_fcntl" alt="" coords="320,5,399,32"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="447,5,515,32"/>
-<area shape="rect" id="node5" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="563,5,709,32"/>
-</map>

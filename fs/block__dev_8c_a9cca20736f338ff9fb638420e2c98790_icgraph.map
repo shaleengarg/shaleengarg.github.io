@@ -1,6 +1,0 @@
-<map id="__invalidate_device" name="__invalidate_device">
-<area shape="rect" id="node2" href="$block__dev_8c.html#a5ba4916f971d6740d64ca320cb9ce46a" title="flush_disk" alt="" coords="189,31,271,57"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#af10f0ff9095e5a36be5024b159b7a32b" title="check_disk_size_change" alt="" coords="319,5,487,32"/>
-<area shape="rect" id="node5" href="$block__dev_8c.html#a29bec430609879cb458f8dd92f6ab8b5" title="check_disk_change" alt="" coords="334,56,471,83"/>
-<area shape="rect" id="node4" href="$block__dev_8c.html#a24a486ce080744e86e97b22b6048509e" title="revalidate_disk" alt="" coords="535,5,644,32"/>
-</map>

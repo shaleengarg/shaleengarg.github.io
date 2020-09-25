@@ -1,5 +1,0 @@
-<map id="nfs_mark_return_unreferenced_delegations" name="nfs_mark_return_unreferenced_delegations">
-<area shape="rect" id="node2" href="$delegation_8c.html#af4b9eefe86a0bbb48e5af5c7adafdaf2" title="nfs_expire_unreferenced\l_delegations" alt="" coords="252,5,416,47"/>
-<area shape="rect" id="node3" href="$nfs4renewd_8c.html#a523dca237fb876fb22158be028811e0a" title="nfs4_renew_state" alt="" coords="464,13,589,39"/>
-<area shape="rect" id="node4" href="$nfs4client_8c.html#a58ce55b4af9aa50b72ade6b7fcabe458" title="nfs4_alloc_client" alt="" coords="637,13,756,39"/>
-</map>

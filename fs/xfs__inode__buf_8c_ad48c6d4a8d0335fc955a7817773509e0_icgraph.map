@@ -1,5 +1,0 @@
-<map id="xfs_inode_buf_verify" name="xfs_inode_buf_verify">
-<area shape="rect" id="node2" href="$xfs__inode__buf_8c.html#a2380d30f6e42f979d953fa7ce783e61a" title="xfs_inode_buf_read\l_verify" alt="" coords="214,5,349,47"/>
-<area shape="rect" id="node3" href="$xfs__inode__buf_8c.html#a87aecd7e09e76445332dba0045376385" title="xfs_inode_buf_readahead\l_verify" alt="" coords="196,71,367,112"/>
-<area shape="rect" id="node4" href="$xfs__inode__buf_8c.html#abaf621f7d48494af07e2993431544a8e" title="xfs_inode_buf_write\l_verify" alt="" coords="212,136,351,177"/>
-</map>

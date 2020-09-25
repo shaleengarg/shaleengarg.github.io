@@ -1,8 +1,0 @@
-<map id="mnt_set_expiry" name="mnt_set_expiry">
-<area shape="rect" id="node2" href="$namespace_8c.html#aab5bf9032eb83c969ad1cd7ed0152238" title="namespace_lock" alt="" coords="173,5,293,32"/>
-<area shape="rect" id="node3" href="$mount_8h.html#a799ce35ff6ad0c45266cbe2b631ac610" title="real_mount" alt="" coords="190,56,277,83"/>
-<area shape="rect" id="node4" href="$namespace_8c.html#adeb4483a72163da408ddde89b6ad9f37" title="namespace_unlock" alt="" coords="166,107,301,133"/>
-<area shape="rect" id="node7" href="$namespace_8c.html#aaa6b04953fbfe2185e8e0f5431d89c79" title="EXPORT_SYMBOL" alt="" coords="164,157,303,184"/>
-<area shape="rect" id="node5" href="$fs__pin_8c.html#ad57b4dc5027ec89a98260189258e1a81" title="group_pin_kill" alt="" coords="351,107,452,133"/>
-<area shape="rect" id="node6" href="$fs__pin_8c.html#a7bedc6852254e9e7b1ab972964382e6a" title="pin_kill" alt="" coords="500,107,563,133"/>
-</map>

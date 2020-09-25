@@ -1,5 +1,0 @@
-<map id="nfs_cache_defer_req_alloc" name="nfs_cache_defer_req_alloc">
-<area shape="rect" id="node2" href="$cache__lib_8c.html#a395cba7cb57861e223b9d3164330bef5" title="nfs_dns_cache_defer" alt="" coords="196,13,343,39"/>
-<area shape="rect" id="node3" href="$cache__lib_8c.html#a92d0251148da2693946ae0f7e68ec6db" title="nfs_dns_cache_revisit" alt="" coords="391,13,543,39"/>
-<area shape="rect" id="node4" href="$cache__lib_8c.html#a5829955a97bf6583b98964c541d1d11f" title="nfs_cache_defer_req_put" alt="" coords="591,13,759,39"/>
-</map>

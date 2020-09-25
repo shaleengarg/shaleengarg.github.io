@@ -1,7 +1,0 @@
-<map id="ext2_xattr_cache_insert" name="ext2_xattr_cache_insert">
-<area shape="rect" id="node2" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="270,5,321,32"/>
-<area shape="rect" id="node3" href="$mbcache_8c.html#a0976eeba4fcd57cf3542e764feba2bd6" title="mb_cache_entry_create" alt="" coords="215,56,376,83"/>
-<area shape="rect" id="node4" href="$mbcache_8c.html#ae471d9209cffb54e00d6cdf563b7391e" title="mb_cache_shrink" alt="" coords="431,5,555,32"/>
-<area shape="rect" id="node5" href="$mbcache_8c.html#a59e52a4a60fdacbe3c1cb7a6d0d2e315" title="mb_cache_entry_head" alt="" coords="611,31,764,57"/>
-<area shape="rect" id="node6" href="$mbcache_8c.html#a7e49ea34cfcc536119ac467d29731966" title="EXPORT_SYMBOL" alt="" coords="424,107,563,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="xfs_btree_check_lptr" name="xfs_btree_check_lptr">
-<area shape="rect" id="node2" href="$xfs__alloc_8c.html#a030343e3df157ed4bea0e887a8bbfdc4" title="xfs_verify_fsbno" alt="" coords="196,5,315,32"/>
-<area shape="rect" id="node3" href="$xfs__alloc_8c.html#a3ebbc0ba763771526309a919a18591b2" title="xfs_verify_agbno" alt="" coords="363,5,484,32"/>
-<area shape="rect" id="node4" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="532,5,671,32"/>
-</map>

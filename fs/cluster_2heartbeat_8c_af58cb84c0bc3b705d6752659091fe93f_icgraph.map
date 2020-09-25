@@ -1,8 +1,0 @@
-<map id="o2hb_check_node_heartbeating_from_callback" name="o2hb_check_node_heartbeating_from_callback">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8h.html#af58cb84c0bc3b705d6752659091fe93f" title="o2hb_check_node_heartbeating\l_from_callback" alt="" coords="259,29,464,71"/>
-<area shape="rect" id="node3" href="$tcp_8c.html#ac73d0c806814eca64213a06d1dacd771" title="o2net_accept_one" alt="" coords="512,66,640,93"/>
-<area shape="rect" id="node4" href="$tcp_8c.html#ada18952d3c8f540c6fb5cf0fb0901094" title="o2net_accept_many" alt="" coords="688,66,827,93"/>
-<area shape="rect" id="node5" href="$tcp_8c.html#ab41de79e6f9001bc68a1c45bad3445ce" title="o2net_open_listening_sock" alt="" coords="875,66,1053,93"/>
-<area shape="rect" id="node6" href="$tcp_8h.html#a85e16817b9ce24bc69259cfd93415810" title="o2net_start_listening" alt="" coords="1101,66,1244,93"/>
-<area shape="rect" id="node7" href="$nodemanager_8c.html#a4b7a34e9cb0299e35a63d842a16dbb79" title="o2nm_node_local_store" alt="" coords="1292,66,1451,93"/>
-</map>

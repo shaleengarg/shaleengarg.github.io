@@ -1,9 +1,0 @@
-<map id="v9fs_file_getlock" name="v9fs_file_getlock">
-<area shape="rect" id="node2" href="$locks_8c.html#ae13ea8d3ee951a3de5de182e39d9a0f4" title="posix_test_lock" alt="" coords="173,107,287,133"/>
-<area shape="rect" id="node3" href="$locks_8c.html#aad16468669f264d9945a5c59d5117ed8" title="posix_locks_conflict" alt="" coords="337,56,477,83"/>
-<area shape="rect" id="node7" href="$locks_8c.html#a087e6b3ca4cc4a9b1b6a5da70e9ac838" title="locks_copy_conflock" alt="" coords="335,107,479,133"/>
-<area shape="rect" id="node8" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="527,157,665,184"/>
-<area shape="rect" id="node4" href="$locks_8c.html#add16e3a243beb3ce042a53f767599e7e" title="posix_same_owner" alt="" coords="529,5,663,32"/>
-<area shape="rect" id="node5" href="$locks_8c.html#a708cd2317b05abfa607c61ecff3cd345" title="locks_overlap" alt="" coords="545,56,647,83"/>
-<area shape="rect" id="node6" href="$locks_8c.html#a299223ee3c8715c0018e770fb35164de" title="locks_conflict" alt="" coords="545,107,647,133"/>
-</map>

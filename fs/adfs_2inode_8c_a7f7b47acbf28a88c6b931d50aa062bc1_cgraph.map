@@ -1,8 +1,0 @@
-<map id="adfs_get_block" name="adfs_get_block">
-<area shape="rect" id="node2" href="$adfs_8h.html#a2368e39815fc7275e118e17a1110efd5" title="__adfs_block_map" alt="" coords="164,31,295,57"/>
-<area shape="rect" id="node3" href="$adfs_8h.html#acb83a8b1bcf495d9f3f84f82abb484ae" title="ADFS_SB" alt="" coords="515,5,598,32"/>
-<area shape="rect" id="node4" href="$adfs_8h.html#ab9fe0181bac476321d2ee2499a37c1cb" title="adfs_map_lookup" alt="" coords="343,56,467,83"/>
-<area shape="rect" id="node5" href="$adfs_8h.html#a61da61f938f5584a8ceed6c070dea580" title="signed_asl" alt="" coords="515,56,599,83"/>
-<area shape="rect" id="node6" href="$adfs_2map_8c.html#aba734290cf4f89eadad6c42c6da22828" title="scan_map" alt="" coords="515,107,598,133"/>
-<area shape="rect" id="node7" href="$adfs_2map_8c.html#a7e3a377847b565fd66e9ec24b0e0576a" title="lookup_zone" alt="" coords="647,107,741,133"/>
-</map>

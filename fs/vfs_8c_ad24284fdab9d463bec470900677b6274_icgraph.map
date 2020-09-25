@@ -1,6 +1,0 @@
-<map id="nfsd_symlink" name="nfsd_symlink">
-<area shape="rect" id="node2" href="$_2nfs3proc_8c.html#a4a3eda13623c979702c6b2c8469ea6d7" title="nfsd3_proc_symlink" alt="" coords="152,5,291,32"/>
-<area shape="rect" id="node3" href="$_2nfs4proc_8c.html#af898a4678c599894ad1ba4d757e7f300" title="nfsd4_create" alt="" coords="173,56,270,83"/>
-<area shape="rect" id="node5" href="$nfsproc_8c.html#aaafa78a19d57ca1f1f060c98585bf0bf" title="nfsd_proc_symlink" alt="" coords="156,107,287,133"/>
-<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="339,56,463,83"/>
-</map>

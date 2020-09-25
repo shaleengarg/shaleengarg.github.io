@@ -1,6 +1,0 @@
-<map id="btrfs_ioctl_subvol_getflags" name="btrfs_ioctl_subvol_getflags">
-<area shape="rect" id="node2" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="209,5,279,32"/>
-<area shape="rect" id="node3" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="205,56,283,83"/>
-<area shape="rect" id="node4" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="208,107,280,133"/>
-<area shape="rect" id="node5" href="$ctree_8h.html#a230bc9b439d0bc120be37cff1a87a558" title="btrfs_root_readonly" alt="" coords="177,157,311,184"/>
-</map>

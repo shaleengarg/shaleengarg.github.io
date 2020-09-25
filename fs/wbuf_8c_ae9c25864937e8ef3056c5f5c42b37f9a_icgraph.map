@@ -1,7 +1,0 @@
-<map id="jffs2_nor_wbuf_flash_cleanup" name="jffs2_nor_wbuf_flash_cleanup">
-<area shape="rect" id="node2" href="$os-linux_8h.html#a698ec5a7c447d129552a12df6d66ac90" title="jffs2_flash_cleanup" alt="" coords="196,31,331,57"/>
-<area shape="rect" id="node3" href="$jffs2_2super_8c.html#af7cc277df4ea63ebd75eb7c6bf7e50c0" title="jffs2_put_super" alt="" coords="387,5,497,32"/>
-<area shape="rect" id="node4" href="$os-linux_8h.html#a0e271945f00995017090113d6804a430" title="jffs2_do_fill_super" alt="" coords="379,56,505,83"/>
-<area shape="rect" id="node5" href="$jffs2_2super_8c.html#ac626c42b039c451fa8759a92155a1773" title="jffs2_fill_super" alt="" coords="553,56,660,83"/>
-<area shape="rect" id="node6" href="$jffs2_2super_8c.html#a5399bb9f4f9d0a5a5f5f3014ec42876a" title="jffs2_mount" alt="" coords="708,56,799,83"/>
-</map>

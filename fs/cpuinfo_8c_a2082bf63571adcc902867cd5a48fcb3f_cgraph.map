@@ -1,5 +1,0 @@
-<map id="cpuinfo_open" name="cpuinfo_open">
-<area shape="rect" id="node2" href="$cpuinfo_8c.html#a94d7bc47313211c29ccb4229a0fee457" title="arch_freq_prepare_all" alt="" coords="152,5,299,32"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#ab724d0b6f14722c374b1933b66c913d1" title="seq_open" alt="" coords="186,56,265,83"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="347,56,485,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ocfs2_prepare_orphan_dir" name="ocfs2_prepare_orphan_dir">
-<area shape="rect" id="node2" href="$ocfs2_2namei_8c.html#ac197733698d5f9e679269372e5f8bc59" title="ocfs2_unlink" alt="" coords="246,5,341,32"/>
-<area shape="rect" id="node3" href="$ocfs2_2namei_8c.html#a7e52237e2e01c71acd11510cbd85fc93" title="ocfs2_rename" alt="" coords="241,56,345,83"/>
-<area shape="rect" id="node4" href="$namei_8h.html#a9d23468f45a1c03b6102ea7f6796829e" title="ocfs2_add_inode_to\l_orphan" alt="" coords="224,107,363,149"/>
-<area shape="rect" id="node5" href="$ocfs2_2aops_8c.html#a62285e9f85b08e2890ad6d40f73fbe3a" title="ocfs2_dio_wr_get_block" alt="" coords="411,115,573,141"/>
-<area shape="rect" id="node6" href="$ocfs2_2aops_8c.html#a34403509b19366144ea3c92c7f2760c8" title="ocfs2_direct_IO" alt="" coords="621,115,736,141"/>
-</map>

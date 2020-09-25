@@ -1,9 +1,0 @@
-<map id="cifs_build_devname" name="cifs_build_devname">
-<area shape="rect" id="node2" href="$cifsproto_8h.html#ad0e36ac2c9fe6f720559712ffe2635de" title="cifs_compose_mount\l_options" alt="" coords="191,23,337,65"/>
-<area shape="rect" id="node3" href="$cifs__dfs__ref_8c.html#a76c26865ea6f264f30a9a26c8d8b38aa" title="cifs_dfs_do_refmount" alt="" coords="398,5,545,32"/>
-<area shape="rect" id="node6" href="$connect_8c.html#ae6489db393563c4b3def469e96225dbb" title="cifs_cleanup_volume_info" alt="" coords="385,56,557,83"/>
-<area shape="rect" id="node4" href="$cifs__dfs__ref_8c.html#a3a3ac509d4f6f68228d77aafe8e9c0bc" title="cifs_dfs_do_automount" alt="" coords="605,5,763,32"/>
-<area shape="rect" id="node5" href="$cifs__dfs__ref_8c.html#abc925e84b9babd036a231f8115e0e77d" title="cifs_dfs_d_automount" alt="" coords="811,5,961,32"/>
-<area shape="rect" id="node7" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="833,81,939,108"/>
-<area shape="rect" id="node8" href="$connect_8c.html#aeb495e48352a23816a0e8f29b5e0a34c" title="cifs_get_volume_info" alt="" coords="611,107,757,133"/>
-</map>

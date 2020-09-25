@@ -1,6 +1,0 @@
-<map id="end_buffer_write_sync" name="end_buffer_write_sync">
-<area shape="rect" id="node2" href="$buffer_8c.html#a15c60a53f942f27f505098848dda3f3e" title="buffer_io_error" alt="" coords="225,5,331,32"/>
-<area shape="rect" id="node3" href="$buffer_8c.html#a0c5a9b93af2e1cc8bdeb45d23f5fd4fd" title="mark_buffer_write_io\l_error" alt="" coords="207,57,349,98"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="397,123,536,149"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="228,173,328,200"/>
-</map>

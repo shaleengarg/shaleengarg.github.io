@@ -1,8 +1,0 @@
-<map id="sync_unlock" name="sync_unlock">
-<area shape="rect" id="node2" href="$lock__dlm_8c.html#ab9b549bd8918f8b3a3b5b46c6be582bb" title="mounted_unlock" alt="" coords="148,5,265,32"/>
-<area shape="rect" id="node5" href="$lock__dlm_8c.html#a5cbb86063999cb5b024c3083f9b7bd33" title="control_unlock" alt="" coords="153,56,260,83"/>
-<area shape="rect" id="node3" href="$lock__dlm_8c.html#a01da5943871b55aa6c544e68327ac5fd" title="control_mount" alt="" coords="324,5,428,32"/>
-<area shape="rect" id="node4" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="497,5,591,32"/>
-<area shape="rect" id="node6" href="$lock__dlm_8c.html#af2e54828744f14e2469b9ecbfb943610" title="control_first_done" alt="" coords="313,56,439,83"/>
-<area shape="rect" id="node7" href="$lock__dlm_8c.html#adabaca986d574a7217435e72d0229d27" title="gdlm_first_done" alt="" coords="487,56,601,83"/>
-</map>

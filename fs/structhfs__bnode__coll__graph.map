@@ -1,8 +1,0 @@
-<map id="hfs_bnode" name="hfs_bnode">
-<area shape="rect" id="node2" href="$structhfs__btree.html" title="hfs_btree" alt="" coords="158,273,234,300"/>
-<area shape="rect" id="node3" href="$unionhfs__btree__key.html" title="hfs_btree_key" alt="" coords="201,184,305,211"/>
-<area shape="rect" id="node4" href="$structhfs__cat__key.html" title="hfs_cat_key" alt="" coords="132,95,225,121"/>
-<area shape="rect" id="node5" href="$structhfs__name.html" title="hfs_name" alt="" coords="139,5,218,32"/>
-<area shape="rect" id="node6" href="$structhfs__ext__key.html" title="hfs_ext_key" alt="" coords="249,95,343,121"/>
-<area shape="rect" id="node7" href="$structsuper__block.html" title="super_block" alt="" coords="330,184,422,211"/>
-</map>

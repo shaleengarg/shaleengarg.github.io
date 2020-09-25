@@ -1,8 +1,0 @@
-<map id="pcol_free" name="pcol_free">
-<area shape="rect" id="node2" href="$ore_8c.html#ada4ddca7e5193d42a748b7afe020384f" title="ore_put_io_state" alt="" coords="128,56,247,83"/>
-<area shape="rect" id="node3" href="$ore__raid_8c.html#a85645f8c526306bd214be04e699f1d8e" title="_ore_free_raid_stuff" alt="" coords="295,56,433,83"/>
-<area shape="rect" id="node7" href="$ore_8c.html#a3a40092d96622c018306380323e84327" title="EXPORT_SYMBOL" alt="" coords="295,107,433,133"/>
-<area shape="rect" id="node4" href="$ore__raid_8c.html#a2636553f6ea7de0b4bb0b2525590327d" title="_raid_page_free" alt="" coords="481,5,596,32"/>
-<area shape="rect" id="node5" href="$ore__raid_8c.html#af1d1e50aea72d9f95b60a200f108825b" title="_sp2d_reset" alt="" coords="492,56,585,83"/>
-<area shape="rect" id="node6" href="$ore__raid_8c.html#a20ab6a9d5145be402cb95bebcb980daa" title="_sp2d_free" alt="" coords="495,107,582,133"/>
-</map>

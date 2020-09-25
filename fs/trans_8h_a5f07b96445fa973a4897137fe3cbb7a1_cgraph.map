@@ -1,8 +1,0 @@
-<map id="gfs2_trans_add_meta" name="gfs2_trans_add_meta">
-<area shape="rect" id="node2" href="$log_8h.html#aa07bf7138b0cab8cb509eacdcc9df3bc" title="gfs2_log_lock" alt="" coords="214,5,317,32"/>
-<area shape="rect" id="node3" href="$log_8h.html#a9e5568969fed5701427061a1a6f44e99" title="gfs2_log_unlock" alt="" coords="207,56,323,83"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="215,107,315,133"/>
-<area shape="rect" id="node6" href="$gfs2_2trans_8c.html#ace3fd41f765efa9fbbfd399cd74bf2de" title="gfs2_alloc_bufdata" alt="" coords="200,157,331,184"/>
-<area shape="rect" id="node7" href="$lops_8c.html#ac0f59c5f30ceb2e93c9c9e394d422c2f" title="gfs2_pin" alt="" coords="230,208,301,235"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="379,107,517,133"/>
-</map>

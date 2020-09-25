@@ -1,7 +1,0 @@
-<map id="cp_new_stat" name="cp_new_stat">
-<area shape="rect" id="node2" href="$stat_8c.html#a9ffa175af11c4e3ba457576c9916d02a" title="SYSCALL_DEFINE2" alt="" coords="149,5,296,32"/>
-<area shape="rect" id="node6" href="$stat_8c.html#a1eb76c2a4b57a1f7d7061534f6499b0a" title="SYSCALL_DEFINE4" alt="" coords="149,56,296,83"/>
-<area shape="rect" id="node3" href="$stat_8c.html#a72bd198f0953bcb2710c55bb9c4174c5" title="vfs_statx" alt="" coords="379,5,455,32"/>
-<area shape="rect" id="node5" href="$stat_8c.html#a92eecafe20a7870217bbce3e2ede485f" title="SYSCALL_DEFINE3" alt="" coords="344,56,491,83"/>
-<area shape="rect" id="node4" href="$stat_8c.html#a951314b128b8d6cacc9b662336855209" title="SYSCALL_DEFINE5" alt="" coords="539,5,685,32"/>
-</map>

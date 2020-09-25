@@ -1,5 +1,0 @@
-<map id="fat_write_failed" name="fat_write_failed">
-<area shape="rect" id="node2" href="$fat_2inode_8c.html#a92f90d40e9baa107e6781003052bd38a" title="fat_write_begin" alt="" coords="164,5,275,32"/>
-<area shape="rect" id="node3" href="$fat_2inode_8c.html#af1fc5c3a6c0d87d4ef9b0bba0f439ce8" title="fat_write_end" alt="" coords="169,56,269,83"/>
-<area shape="rect" id="node4" href="$fat_2inode_8c.html#a25b0e6260cfdfcbbabb64dcdf8f58211" title="fat_direct_IO" alt="" coords="171,107,268,133"/>
-</map>

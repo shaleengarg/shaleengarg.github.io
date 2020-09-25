@@ -1,7 +1,0 @@
-<map id="hfsplus_getxattr_finder_info" name="hfsplus_getxattr_finder_info">
-<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="240,21,349,47"/>
-<area shape="rect" id="node3" href="$lus_2catalog_8c.html#a813f02b437b6b550fe1abfdb91d83809" title="hfsplus_find_cat" alt="" coords="236,71,353,98"/>
-<area shape="rect" id="node4" href="$lus_2catalog_8c.html#a382c4e2e5acd8e7a9e22f6f781ee37d3" title="hfsplus_cat_build_key\l_with_cnid" alt="" coords="413,5,564,47"/>
-<area shape="rect" id="node5" href="$lus_2catalog_8c.html#a121fee6daeca6b340b649896c002fbb6" title="hfsplus_cat_build_key_uni" alt="" coords="401,71,576,98"/>
-<area shape="rect" id="node6" href="$lus_2bfind_8c.html#abd29e75a990354883bc8e9e55fcdcacf" title="hfs_find_rec_by_key" alt="" coords="417,122,560,149"/>
-</map>

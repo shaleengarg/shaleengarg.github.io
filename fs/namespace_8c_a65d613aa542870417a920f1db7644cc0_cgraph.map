@@ -1,6 +1,0 @@
-<map id="commit_tree" name="commit_tree">
-<area shape="rect" id="node2" href="$nfs_2namespace_8c.html#a644e4cf031f2da4b22392c119353610c" title="LIST_HEAD" alt="" coords="179,5,274,32"/>
-<area shape="rect" id="node3" href="$namespace_8c.html#a1524171e056d354a94374626f2c52dd5" title="__attach_mnt" alt="" coords="176,56,277,83"/>
-<area shape="rect" id="node5" href="$namespace_8c.html#a9342aa6e72134efb317caeab5e9b0b9c" title="touch_mnt_namespace" alt="" coords="148,107,305,133"/>
-<area shape="rect" id="node4" href="$namespace_8c.html#a512f7479be3deaff9f96119c68e879d0" title="m_hash" alt="" coords="353,56,421,83"/>
-</map>

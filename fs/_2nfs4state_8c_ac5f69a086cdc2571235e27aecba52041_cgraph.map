@@ -1,7 +1,0 @@
-<map id="find_lockowner_str_locked" name="find_lockowner_str_locked">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#aed87bd3dbaa43f3da542f1bc8a69c9a3" title="ownerstr_hashval" alt="" coords="193,5,317,32"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a408f5524a4726c3d8342d92f15c11a98" title="same_owner_str" alt="" coords="196,56,315,83"/>
-<area shape="rect" id="node5" href="$state_8h.html#ab7b0eb3f17368fac42811cce7ed9e67d" title="lockowner" alt="" coords="215,107,296,133"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#ae7cc55f43eede5d8153a868b62beaf29" title="nfs4_get_stateowner" alt="" coords="184,157,327,184"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#af787f30e25ff365c937691afb8f01fb0" title="opaque_hashval" alt="" coords="375,5,491,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="__fscache_check_page_write" name="__fscache_check_page_write">
-<area shape="rect" id="node2" href="$fscache_2page_8c.html#abff510733b38d5cfebe27f790f17d420" title="__fscache_wait_on_page\l_write" alt="" coords="217,5,387,47"/>
-<area shape="rect" id="node4" href="$fscache_2page_8c.html#af477cf2f9d1f0ab40ac269565b43a9be" title="release_page_wait_timeout" alt="" coords="212,71,392,98"/>
-<area shape="rect" id="node3" href="$fscache_2page_8c.html#abe9dd84cf00a6bbf66a00710115d395b" title="__fscache_uncache_all\l_inode_pages" alt="" coords="467,5,625,47"/>
-<area shape="rect" id="node5" href="$fscache_2page_8c.html#afd08471c4c076eb7469767aaf36f87c9" title="__fscache_maybe_release_page" alt="" coords="440,71,652,98"/>
-</map>

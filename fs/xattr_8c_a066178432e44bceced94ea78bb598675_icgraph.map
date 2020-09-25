@@ -1,9 +1,0 @@
-<map id="listxattr" name="listxattr">
-<area shape="rect" id="node2" href="$orangefs_2xattr_8c.html#a44ad373c529b0e54202af535029e8850" title="orangefs_listxattr" alt="" coords="131,13,253,39"/>
-<area shape="rect" id="node6" href="$xattr_8c.html#ae5d833758ef6f4d4cdb6fe6e050398ef" title="path_listxattr" alt="" coords="143,63,241,90"/>
-<area shape="rect" id="node8" href="$xattr_8c.html#a8cbee20932b0f2d82d980aed2b947b41" title="SYSCALL_DEFINE3" alt="" coords="119,114,265,141"/>
-<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="335,13,438,39"/>
-<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="508,5,643,47"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="691,13,840,39"/>
-<area shape="rect" id="node7" href="$xattr_8c.html#ad16c8b78119502141c571c046987e915" title="SYSCALL_DEFINE3" alt="" coords="313,63,460,90"/>
-</map>

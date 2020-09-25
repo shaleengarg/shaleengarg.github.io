@@ -1,5 +1,0 @@
-<map id="decode_attr_maxfilesize" name="decode_attr_maxfilesize">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a3a7328027c603f18713ae2882e111394" title="decode_fsinfo" alt="" coords="216,31,319,57"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ac64edc0de6c0c2fd960edf7a870bbefe" title="nfs4_xdr_dec_fsinfo" alt="" coords="387,5,525,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aa739013b24939a07ab7c3bf13321daea" title="nfs4_xdr_dec_fsid_present" alt="" coords="367,56,545,83"/>
-</map>

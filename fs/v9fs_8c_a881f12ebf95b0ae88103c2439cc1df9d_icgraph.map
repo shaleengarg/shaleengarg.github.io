@@ -1,6 +1,0 @@
-<map id="v9fs_inode_init_once" name="v9fs_inode_init_once">
-<area shape="rect" id="node2" href="$v9fs_8c.html#a335bc38f9c6acc97b0790fb8abbad9fa" title="v9fs_init_inode_cache" alt="" coords="197,5,348,32"/>
-<area shape="rect" id="node3" href="$v9fs_8c.html#a3bcc487636d29e40df5051ff4b0a74a6" title="v9fs_cache_register" alt="" coords="396,5,535,32"/>
-<area shape="rect" id="node4" href="$v9fs_8c.html#ae0c170a0f17ca93abaf02112ab3f27f4" title="init_v9fs" alt="" coords="583,5,653,32"/>
-<area shape="rect" id="node5" href="$v9fs_8c.html#ac28a957ece8b46d1b5a074c42bf0cfac" title="exit_v9fs" alt="" coords="701,5,776,32"/>
-</map>

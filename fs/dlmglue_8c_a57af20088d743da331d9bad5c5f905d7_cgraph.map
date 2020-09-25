@@ -1,6 +1,0 @@
-<map id="lockres_clear_pending" name="lockres_clear_pending">
-<area shape="rect" id="node2" href="$dlmglue_8c.html#a78422d0adcd56812aa2bd9d153a77488" title="__lockres_clear_pending" alt="" coords="204,35,369,61"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html#a71013118b51255ce41c8148bd3ae1256" title="lockres_clear_flags" alt="" coords="437,5,571,32"/>
-<area shape="rect" id="node5" href="$dlmglue_8c.html#adab2a2238011759a09a4406d6a93bed8" title="ocfs2_wake_downconvert\l_thread" alt="" coords="417,57,591,98"/>
-<area shape="rect" id="node4" href="$dlmglue_8c.html#a2f5ae82be6decde9f94541fcdf939d75" title="lockres_set_flags" alt="" coords="639,5,763,32"/>
-</map>

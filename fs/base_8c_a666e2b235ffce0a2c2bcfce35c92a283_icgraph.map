@@ -1,5 +1,0 @@
-<map id="proc_task_instantiate" name="proc_task_instantiate">
-<area shape="rect" id="node2" href="$base_8c.html#a1d2cc0a86594ec8471326e2f92ecc703" title="proc_task_lookup" alt="" coords="201,5,325,32"/>
-<area shape="rect" id="node4" href="$base_8c.html#ae7e56e8c0a3c635a847535b909126580" title="proc_task_readdir" alt="" coords="200,56,325,83"/>
-<area shape="rect" id="node3" href="$base_8c.html#aac8ee96c99ab66f3aea706fe0130a331" title="proc_task_getattr" alt="" coords="373,31,496,57"/>
-</map>

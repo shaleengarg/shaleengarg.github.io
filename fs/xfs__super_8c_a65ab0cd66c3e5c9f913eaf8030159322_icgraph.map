@@ -1,6 +1,0 @@
-<map id="xfs_destroy_percpu_counters" name="xfs_destroy_percpu_counters">
-<area shape="rect" id="node2" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="192,8,309,35"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#ad673589bd85ed83fd3861c5bdeca5ab6" title="xfs_fs_put_super" alt="" coords="189,60,312,87"/>
-<area shape="rect" id="node3" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="377,5,479,32"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="360,57,496,98"/>
-</map>

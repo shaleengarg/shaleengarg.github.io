@@ -1,5 +1,0 @@
-<map id="jffs2_do_setattr" name="jffs2_do_setattr">
-<area shape="rect" id="node2" href="$jffs2_2acl_8c.html#a5f972b921b618c61725029641807723b" title="jffs2_set_acl" alt="" coords="176,5,272,32"/>
-<area shape="rect" id="node3" href="$os-linux_8h.html#a90143831fdf411db95ae1c2596f1b363" title="jffs2_setattr" alt="" coords="179,56,269,83"/>
-<area shape="rect" id="node4" href="$os-linux_8h.html#a3350a416064ee436e8ae20a520157ab9" title="jffs2_dirty_inode" alt="" coords="165,107,283,133"/>
-</map>

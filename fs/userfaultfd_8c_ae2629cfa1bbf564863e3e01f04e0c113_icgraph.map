@@ -1,7 +1,0 @@
-<map id="userfaultfd_event_wait_completion" name="userfaultfd_event_wait_completion">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#a5979c89a023c7c45314d4e7a231633e7" title="dup_fctx" alt="" coords="265,5,337,32"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#a4ab88a8c06ff38422cdc4ecbd4d266c3" title="mremap_userfaultfd\l_complete" alt="" coords="233,57,370,98"/>
-<area shape="rect" id="node5" href="$userfaultfd_8c.html#aebf822918908b684624a466f9bbe17c3" title="userfaultfd_remove" alt="" coords="235,123,368,149"/>
-<area shape="rect" id="node6" href="$userfaultfd_8c.html#a7e046d772c00ee7f561a4521b6811dcb" title="userfaultfd_unmap_complete" alt="" coords="207,173,396,200"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a58d3eda4fbbefa13fc853d006b1faa8d" title="dup_userfaultfd_complete" alt="" coords="444,5,615,32"/>
-</map>

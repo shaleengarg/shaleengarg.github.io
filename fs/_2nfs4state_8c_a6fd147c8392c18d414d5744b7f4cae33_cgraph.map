@@ -1,7 +1,0 @@
-<map id="find_blocked_lock" name="find_blocked_lock">
-<area shape="rect" id="node2" href="$nfsfh_8h.html#a8e54d973040a3306107ca8ae851b3f63" title="fh_match" alt="" coords="210,5,286,32"/>
-<area shape="rect" id="node3" href="$locks_8c.html#a0d12a325da480a414c6c9fd805514447" title="posix_unblock_lock" alt="" coords="180,56,316,83"/>
-<area shape="rect" id="node4" href="$locks_8c.html#a34706a070522e1ed9f54d505deec93cd" title="__locks_delete_block" alt="" coords="364,31,511,57"/>
-<area shape="rect" id="node6" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="368,81,507,108"/>
-<area shape="rect" id="node5" href="$locks_8c.html#aca1f3e9910253289155c5236c83b9ff4" title="locks_delete_global\l_blocked" alt="" coords="559,23,695,65"/>
-</map>

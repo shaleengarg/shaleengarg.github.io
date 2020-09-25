@@ -1,7 +1,0 @@
-<map id="omfs_scan_list" name="omfs_scan_list">
-<area shape="rect" id="node2" href="$omfs_2dir_8c.html#a1e1e211b1e286a1e61a7118230876ce3" title="omfs_find_entry" alt="" coords="171,5,286,32"/>
-<area shape="rect" id="node4" href="$omfs_2dir_8c.html#a513ac0ab0e9978e68a948b260a0a8d22" title="omfs_delete_entry" alt="" coords="164,56,293,83"/>
-<area shape="rect" id="node3" href="$omfs_2dir_8c.html#a6e9854a9fb9246aeb7ca71e7b8946c1f" title="omfs_lookup" alt="" coords="344,5,440,32"/>
-<area shape="rect" id="node5" href="$omfs_2dir_8c.html#aae47fc0dad683c3c824b4db1a0e4131c" title="omfs_remove" alt="" coords="341,56,443,83"/>
-<area shape="rect" id="node6" href="$omfs_2dir_8c.html#ad9a3b5bddffd299668fb4b6356fedea0" title="omfs_rename" alt="" coords="491,81,592,108"/>
-</map>

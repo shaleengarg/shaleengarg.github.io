@@ -1,9 +1,0 @@
-<map id="ext4_issue_zeroout" name="ext4_issue_zeroout">
-<area shape="rect" id="node2" href="$bio_8c.html#af49f26d0ea04d229a7ec28d9cc6f315a" title="fscrypt_zeroout_range" alt="" coords="188,107,339,133"/>
-<area shape="rect" id="node3" href="$crypto_2crypto_8c.html#acd08deb87a35766b62dd8373706cf091" title="fscrypt_get_ctx" alt="" coords="421,5,533,32"/>
-<area shape="rect" id="node5" href="$crypto_2crypto_8c.html#a1f4b4ee23f3f6ea7869b12de76151f8e" title="fscrypt_alloc_bounce_page" alt="" coords="387,56,567,83"/>
-<area shape="rect" id="node6" href="$crypto_2crypto_8c.html#a54b1c5526cd4eccd22ebb1e73c3fc385" title="fscrypt_do_page_crypto" alt="" coords="396,107,557,133"/>
-<area shape="rect" id="node7" href="$crypto_2crypto_8c.html#a664e13aac936b7996a7ded8c10ad2df9" title="fscrypt_release_ctx" alt="" coords="409,157,545,184"/>
-<area shape="rect" id="node8" href="$bio_8c.html#a63c751d96231e1c71249f4c0caf5e275" title="EXPORT_SYMBOL" alt="" coords="407,208,546,235"/>
-<area shape="rect" id="node4" href="$crypto_2crypto_8c.html#a191e3998d0d9505e9aa78f5d02c0e766" title="EXPORT_SYMBOL" alt="" coords="615,81,753,108"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="generate_key" name="generate_key">
-<area shape="rect" id="node2" href="$smb2transport_8c.html#a0bedcf76973380efafc9c167fc7f9251" title="smb3_crypto_shash_allocate" alt="" coords="153,31,344,57"/>
-<area shape="rect" id="node3" href="$cifsproto_8h.html#a69d2168a19e01f2ca2a86ccab9c567ee" title="cifs_alloc_hash" alt="" coords="392,5,504,32"/>
-<area shape="rect" id="node4" href="$cifsproto_8h.html#ac2d5f22bae004255b63878af9abecae9" title="cifs_free_hash" alt="" coords="395,56,501,83"/>
-</map>

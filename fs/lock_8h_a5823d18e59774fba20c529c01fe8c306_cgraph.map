@@ -1,8 +1,0 @@
-<map id="dlm_dump_rsb_name" name="dlm_dump_rsb_name">
-<area shape="rect" id="node2" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="246,5,297,32"/>
-<area shape="rect" id="node3" href="$dlm_2lock_8c.html#a819dfea13f3e72ef232324fcec5dee4c" title="dlm_search_rsb_tree" alt="" coords="200,56,343,83"/>
-<area shape="rect" id="node5" href="$dlm_2lock_8c.html#a9831a9c1ef8a90e3dfe4cbb84ee14d47" title="dlm_dump_rsb" alt="" coords="218,107,325,133"/>
-<area shape="rect" id="node4" href="$dlm_2lock_8c.html#adaf5f84c4313552e11c18da4186b1cf4" title="rsb_cmp" alt="" coords="405,56,477,83"/>
-<area shape="rect" id="node6" href="$dlm_2lock_8c.html#a21733208f8044772a456f0c1d0ce10c0" title="dlm_print_rsb" alt="" coords="391,107,491,133"/>
-<area shape="rect" id="node7" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="391,157,490,184"/>
-</map>

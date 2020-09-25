@@ -1,7 +1,0 @@
-<map id="init_autofs4_fs" name="init_autofs4_fs">
-<area shape="rect" id="node2" href="$autofs__i_8h.html#a24428581dfa73065e769515c5cbac594" title="autofs_dev_ioctl_init" alt="" coords="162,5,303,32"/>
-<area shape="rect" id="node3" href="$filesystems_8c.html#a12c8edd3583d48417f03f189e05dd601" title="register_filesystem" alt="" coords="167,56,299,83"/>
-<area shape="rect" id="node6" href="$autofs__i_8h.html#acf2079a0b04fede4c8891ed7faf9c9e6" title="autofs_dev_ioctl_exit" alt="" coords="160,107,305,133"/>
-<area shape="rect" id="node4" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="367,31,478,57"/>
-<area shape="rect" id="node5" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="353,81,492,108"/>
-</map>

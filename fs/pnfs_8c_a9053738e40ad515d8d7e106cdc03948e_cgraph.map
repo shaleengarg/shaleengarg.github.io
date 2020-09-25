@@ -1,6 +1,0 @@
-<map id="pnfs_find_alloc_layout" name="pnfs_find_alloc_layout">
-<area shape="rect" id="node2" href="$pnfs_8c.html#af289d14d6f7e9f288864fffa6a5743a4" title="alloc_init_layout_hdr" alt="" coords="205,5,345,32"/>
-<area shape="rect" id="node4" href="$pnfs_8c.html#a430354f7f6e784e028df736e45a8c892" title="pnfs_free_layout_hdr" alt="" coords="204,56,347,83"/>
-<area shape="rect" id="node5" href="$pnfs_8c.html#a6861ce2f604594d396c306fb0ac0cd3e" title="pnfs_get_layout_hdr" alt="" coords="206,107,345,133"/>
-<area shape="rect" id="node3" href="$pnfs_8c.html#a14b7c7138bb5f60f61db2fe2754aabe3" title="pnfs_alloc_layout_hdr" alt="" coords="395,5,543,32"/>
-</map>

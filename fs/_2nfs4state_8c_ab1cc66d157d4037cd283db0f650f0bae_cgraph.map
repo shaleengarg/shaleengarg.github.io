@@ -1,6 +1,0 @@
-<map id="nfsd4_register_conn" name="nfsd4_register_conn">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a05c9d49620e08fff1001858f460afa0c" title="nfsd4_conn_lost" alt="" coords="192,31,309,57"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a2d9ac6b6f6ab363056d02a036ac64bbc" title="free_conn" alt="" coords="392,5,471,32"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#a654ca3fbc093c0d6c31809694c864d0d" title="nfsd4_probe_callback" alt="" coords="357,56,505,83"/>
-<area shape="rect" id="node5" href="$nfs4callback_8c.html#aa2419b4d6939e1664efcf05d0dbd3208" title="nfsd4_run_cb" alt="" coords="553,56,653,83"/>
-</map>

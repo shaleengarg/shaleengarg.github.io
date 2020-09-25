@@ -1,6 +1,0 @@
-<map id="nilfs_setup_super" name="nilfs_setup_super">
-<area shape="rect" id="node2" href="$nilfs2_2super_8c.html#a76497fa0cac9d156c73b94dd615621cd" title="nilfs_unfreeze" alt="" coords="179,5,281,32"/>
-<area shape="rect" id="node3" href="$nilfs2_2super_8c.html#a1ea867b4c80af5447edde8aad7f03a6c" title="nilfs_fill_super" alt="" coords="177,56,283,83"/>
-<area shape="rect" id="node5" href="$nilfs2_2super_8c.html#abaf12a9facc571b7e4e46389a440b694" title="nilfs_remount" alt="" coords="180,107,280,133"/>
-<area shape="rect" id="node4" href="$nilfs2_2super_8c.html#a6f69bb47bb8193c95863dfa7858e0556" title="nilfs_mount" alt="" coords="331,81,420,108"/>
-</map>

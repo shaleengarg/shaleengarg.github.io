@@ -1,9 +1,0 @@
-<map id="o2nm_node_ip_tree_lookup" name="o2nm_node_ip_tree_lookup">
-<area shape="rect" id="node2" href="$nodemanager_8h.html#a662a2f453508442e4ad38db6ad7cf1b2" title="o2nm_get_node_by_ip" alt="" coords="244,29,396,56"/>
-<area shape="rect" id="node8" href="$nodemanager_8c.html#acc31d06e7db2bc8ebc9d6fea25c3202e" title="o2nm_node_ipv4_address\l_store" alt="" coords="233,81,407,122"/>
-<area shape="rect" id="node3" href="$tcp_8c.html#ac73d0c806814eca64213a06d1dacd771" title="o2net_accept_one" alt="" coords="455,29,583,56"/>
-<area shape="rect" id="node4" href="$tcp_8c.html#ada18952d3c8f540c6fb5cf0fb0901094" title="o2net_accept_many" alt="" coords="631,29,769,56"/>
-<area shape="rect" id="node5" href="$tcp_8c.html#ab41de79e6f9001bc68a1c45bad3445ce" title="o2net_open_listening_sock" alt="" coords="817,29,996,56"/>
-<area shape="rect" id="node6" href="$tcp_8h.html#a85e16817b9ce24bc69259cfd93415810" title="o2net_start_listening" alt="" coords="1044,29,1187,56"/>
-<area shape="rect" id="node7" href="$nodemanager_8c.html#a4b7a34e9cb0299e35a63d842a16dbb79" title="o2nm_node_local_store" alt="" coords="1235,29,1393,56"/>
-</map>

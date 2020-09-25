@@ -1,7 +1,0 @@
-<map id="mnt_drop_write_file_path" name="mnt_drop_write_file_path">
-<area shape="rect" id="node2" href="$xattr_8c.html#aa655bd9e117cb62cb641db8ea1d2957a" title="SYSCALL_DEFINE5" alt="" coords="220,5,367,32"/>
-<area shape="rect" id="node3" href="$xattr_8c.html#aabc7e2da83ba8bd80fa7a6078bd492e8" title="SYSCALL_DEFINE2" alt="" coords="220,56,367,83"/>
-<area shape="rect" id="node4" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="232,107,355,133"/>
-<area shape="rect" id="node5" href="$open_8c.html#aa0b499660435aba6dd7f23a1902e2f07" title="ksys_fchown" alt="" coords="244,157,343,184"/>
-<area shape="rect" id="node6" href="$open_8c.html#aa482f01262213be4e86666b02b361594" title="SYSCALL_DEFINE3" alt="" coords="415,157,561,184"/>
-</map>

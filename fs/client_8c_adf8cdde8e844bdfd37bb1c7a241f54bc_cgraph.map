@@ -1,7 +1,0 @@
-<map id="nfs_init_client" name="nfs_init_client">
-<area shape="rect" id="node2" href="$client_8c.html#ae60929626ec12a41e3e16eeeb64c2e06" title="nfs_create_rpc_client" alt="" coords="159,29,306,56"/>
-<area shape="rect" id="node3" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="360,117,532,144"/>
-<area shape="rect" id="node4" href="$client_8c.html#ac26d3d6a8179483309418cd61c38b760" title="nfs_mark_client_ready" alt="" coords="156,155,309,181"/>
-<area shape="rect" id="node5" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="181,229,284,256"/>
-<area shape="rect" id="node6" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="357,229,535,256"/>
-</map>

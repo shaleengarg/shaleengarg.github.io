@@ -1,7 +1,0 @@
-<map id="omfs/omfs_fs.h" name="omfs/omfs_fs.h">
-<area shape="rect" id="node2" href="$omfs_8h.html" title="omfs/omfs.h" alt="" coords="179,80,273,107"/>
-<area shape="rect" id="node3" href="$omfs_2bitmap_8c.html" title="omfs/bitmap.c" alt="" coords="5,155,111,181"/>
-<area shape="rect" id="node4" href="$omfs_2dir_8c.html" title="omfs/dir.c" alt="" coords="134,155,214,181"/>
-<area shape="rect" id="node5" href="$omfs_2file_8c.html" title="omfs/file.c" alt="" coords="238,155,321,181"/>
-<area shape="rect" id="node6" href="$omfs_2inode_8c.html" title="omfs/inode.c" alt="" coords="345,155,443,181"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="DQUOT_ITEM" name="DQUOT_ITEM">
-<area shape="rect" id="node2" href="$xfs__dquot__item_8c.html#a073c2e0c85aa498579559a2499f358bb" title="xfs_qm_dquot_logitem\l_format" alt="" coords="180,5,333,47"/>
-<area shape="rect" id="node3" href="$xfs__dquot__item_8c.html#a55337be8cf08294af1eec0a157bbc991" title="xfs_qm_dquot_logitem_pin" alt="" coords="168,71,345,98"/>
-<area shape="rect" id="node4" href="$xfs__dquot__item_8c.html#a1783557a488bc6c96cf36c7391f40fc9" title="xfs_qm_dquot_logitem\l_unpin" alt="" coords="180,123,333,164"/>
-<area shape="rect" id="node5" href="$xfs__dquot__item_8c.html#a34fe7a619055efc0aa45d5554da146ad" title="xfs_dquot_item_error" alt="" coords="185,189,329,215"/>
-<area shape="rect" id="node6" href="$xfs__dquot__item_8c.html#a94fb3626deaeaefcf24721e0431f42a6" title="xfs_qm_dquot_logitem_push" alt="" coords="163,239,351,266"/>
-<area shape="rect" id="node7" href="$xfs__dquot__item_8c.html#ae16c44c0134fa4f10e1092dc72c61b41" title="xfs_qm_dquot_logitem\l_unlock" alt="" coords="180,291,333,332"/>
-</map>

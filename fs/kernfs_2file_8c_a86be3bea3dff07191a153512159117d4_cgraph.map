@@ -1,8 +1,0 @@
-<map id="kernfs_fop_mmap" name="kernfs_fop_mmap">
-<area shape="rect" id="node2" href="$kernfs_2file_8c.html#a6b2f1ffcbe7e252016243e911cf0e79f" title="kernfs_of" alt="" coords="205,5,281,32"/>
-<area shape="rect" id="node3" href="$kernfs_2file_8c.html#a6d675144e2a63dd55a0246ee7663a237" title="kernfs_ops" alt="" coords="199,56,286,83"/>
-<area shape="rect" id="node4" href="$kernfs_2dir_8c.html#acb30a8df494e7cca56095d943ac08b7e" title="kernfs_get_active" alt="" coords="180,107,305,133"/>
-<area shape="rect" id="node6" href="$kernfs_2dir_8c.html#a7f9d22e0386c7a16116127ed20fb04cc" title="kernfs_put_active" alt="" coords="180,157,305,184"/>
-<area shape="rect" id="node5" href="$kernfs_2dir_8c.html#a11cf3bfb36050dd88b5c5b271164f527" title="kernfs_lockdep" alt="" coords="353,107,464,133"/>
-<area shape="rect" id="node7" href="$kernfs-internal_8h.html#a0b78dc393cb72afd30f69d8555e3b0aa" title="kernfs_root" alt="" coords="365,157,452,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="fix_tail_page_for_writing" name="fix_tail_page_for_writing">
-<area shape="rect" id="node2" href="$reiserfs_8h.html#aa8743da37ca29249b1d6d963dc5159b2" title="reiserfs_unmap_buffer" alt="" coords="216,31,367,57"/>
-<area shape="rect" id="node3" href="$reiserfs_2journal_8c.html#a83390ea91e66867341737a681591baad" title="reiserfs_free_jh" alt="" coords="415,5,525,32"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="420,56,520,83"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="573,56,712,83"/>
-</map>

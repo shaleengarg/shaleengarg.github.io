@@ -1,8 +1,0 @@
-<map id="xfs_free_fsname" name="xfs_free_fsname">
-<area shape="rect" id="node2" href="$xfs__super_8c.html#a418460e2762d293fa4ef49ed332277b3" title="xfs_test_remount_options" alt="" coords="172,5,344,32"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="199,56,317,83"/>
-<area shape="rect" id="node7" href="$xfs__super_8c.html#ad673589bd85ed83fd3861c5bdeca5ab6" title="xfs_fs_put_super" alt="" coords="392,107,515,133"/>
-<area shape="rect" id="node3" href="$xfs__super_8c.html#aa8d3829d8a8b9f4a81e12b5d6d129a35" title="xfs_fs_remount" alt="" coords="397,5,509,32"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="563,49,699,90"/>
-<area shape="rect" id="node6" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="403,56,504,83"/>
-</map>

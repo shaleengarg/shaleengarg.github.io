@@ -1,7 +1,0 @@
-<map id="MODULE_AUTHOR" name="MODULE_AUTHOR">
-<area shape="rect" id="node2" href="$v9fs_8c.html#ac28a957ece8b46d1b5a074c42bf0cfac" title="exit_v9fs" alt="" coords="210,5,285,32"/>
-<area shape="rect" id="node3" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="212,56,283,83"/>
-<area shape="rect" id="node4" href="$ecryptfs_2main_8c.html#aa32ace6b7c319adb175778c357041568" title="ecryptfs_exit" alt="" coords="199,107,296,133"/>
-<area shape="rect" id="node5" href="$gfs2_2main_8c.html#abf3e6f16c343426ddc6d883d1ea782d0" title="exit_gfs2_fs" alt="" coords="201,157,294,184"/>
-<area shape="rect" id="node6" href="$mbcache_8c.html#a0de87511a2e8da38826dd308c6eac5fd" title="mbcache_exit" alt="" coords="196,208,299,235"/>
-</map>

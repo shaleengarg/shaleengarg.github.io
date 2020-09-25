@@ -1,9 +1,0 @@
-<map id="nfsd_startup_generic" name="nfsd_startup_generic">
-<area shape="rect" id="node2" href="$vfs_8c.html#a94b13bfdeaf8f3a02a8d2aa4c457909a" title="nfsd_racache_init" alt="" coords="196,5,320,32"/>
-<area shape="rect" id="node3" href="$vfs_8c.html#ad0bfadbc882185f491fa95e3e06da6be" title="nfsd_racache_shutdown" alt="" coords="368,5,531,32"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a5f283b97fb6ccc7d0badcd4c7ce9de76" title="nfs4_state_start" alt="" coords="200,115,316,141"/>
-<area shape="rect" id="node5" href="$nfs4callback_8c.html#a0d5ff56c6b1807cfa2b62f05851dc359" title="set_callback_cred" alt="" coords="386,56,513,83"/>
-<area shape="rect" id="node6" href="$nfs4callback_8c.html#aea0bccc2e459952397f29760c071065f" title="nfsd4_create_callback\l_queue" alt="" coords="373,107,525,149"/>
-<area shape="rect" id="node7" href="$_2nfs4state_8c.html#aef125aefc231724110f7ff264525762f" title="set_max_delegations" alt="" coords="377,173,522,200"/>
-<area shape="rect" id="node8" href="$nfs4callback_8c.html#a0814491288fa653b755f6be147e0e9dc" title="cleanup_callback_cred" alt="" coords="372,224,527,251"/>
-</map>

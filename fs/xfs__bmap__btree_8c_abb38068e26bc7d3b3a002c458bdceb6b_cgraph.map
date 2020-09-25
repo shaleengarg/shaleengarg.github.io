@@ -1,8 +1,0 @@
-<map id="xfs_bmbt_verify" name="xfs_bmbt_verify">
-<area shape="rect" id="node2" href="$xfs__btree_8c.html#a5ea777a37f70cbf20840e080af162f9e" title="xfs_btree_lblock_v5hdr\l_verify" alt="" coords="168,5,324,47"/>
-<area shape="rect" id="node4" href="$xfs__btree_8c.html#a4fa39e0854608be0eec22948a23bca98" title="xfs_btree_lblock_verify" alt="" coords="168,71,324,98"/>
-<area shape="rect" id="node3" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="372,13,528,39"/>
-<area shape="rect" id="node5" href="$xfs__alloc_8c.html#a030343e3df157ed4bea0e887a8bbfdc4" title="xfs_verify_fsbno" alt="" coords="391,71,509,98"/>
-<area shape="rect" id="node6" href="$xfs__alloc_8c.html#a3ebbc0ba763771526309a919a18591b2" title="xfs_verify_agbno" alt="" coords="576,71,697,98"/>
-<area shape="rect" id="node7" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="745,71,884,98"/>
-</map>

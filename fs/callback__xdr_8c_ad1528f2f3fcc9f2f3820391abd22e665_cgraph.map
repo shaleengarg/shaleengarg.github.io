@@ -1,8 +1,0 @@
-<map id="process_op" name="process_op">
-<area shape="rect" id="node2" href="$callback__xdr_8c.html#a41b4b46609117424504e0273ac42b85d" title="decode_op_hdr" alt="" coords="161,5,271,32"/>
-<area shape="rect" id="node4" href="$callback__xdr_8c.html#aa848830e9e62e5ab65f63b55d6c194a3" title="preprocess_nfs4_op" alt="" coords="147,56,285,83"/>
-<area shape="rect" id="node5" href="$callback__xdr_8c.html#a9e6be41abee57c4c7ac0b3a20e03e971" title="preprocess_nfs41_op" alt="" coords="143,107,289,133"/>
-<area shape="rect" id="node6" href="$callback__xdr_8c.html#a59b6550adb03aaf1624e448c2d516395" title="preprocess_nfs42_op" alt="" coords="143,157,289,184"/>
-<area shape="rect" id="node7" href="$callback__xdr_8c.html#ac8c6a63acb5040a909d69b773009adce" title="encode_op_hdr" alt="" coords="161,208,271,235"/>
-<area shape="rect" id="node3" href="$callback__xdr_8c.html#a424003612f2d52f01910869cf21e404d" title="read_buf" alt="" coords="337,5,409,32"/>
-</map>

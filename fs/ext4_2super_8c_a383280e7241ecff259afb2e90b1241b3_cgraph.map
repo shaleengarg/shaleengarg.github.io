@@ -1,8 +1,0 @@
-<map id="init_inodecache" name="init_inodecache">
-<area shape="rect" id="node2" href="$itree__v1_8c.html#ac07f31538fad245953ce2a6ef706bcfb" title="i_data" alt="" coords="174,5,231,32"/>
-<area shape="rect" id="node4" href="$ext4_2super_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="165,56,240,83"/>
-<area shape="rect" id="node3" href="$minix_8h.html#a4a247b8545a130e5fe04b65c4cb93455" title="minix_i" alt="" coords="313,5,375,32"/>
-<area shape="rect" id="node5" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="288,56,400,83"/>
-<area shape="rect" id="node6" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="448,31,631,57"/>
-<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="470,81,609,108"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="load_free_nid_bitmap" name="load_free_nid_bitmap">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="441,5,496,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a7a2e499600c155f217665b4a2f679c5a" title="enabled_nat_bits" alt="" coords="219,81,339,108"/>
-<area shape="rect" id="node7" href="$node_8c.html#a4f1f0a093445469a229327079ee3e544" title="update_free_nid_bitmap" alt="" coords="199,31,359,57"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#aa1fbd95eb602ca6a2eeb415faf02e0db" title="is_set_ckpt_flags" alt="" coords="407,81,531,108"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#abb6676bbd589a9ca63ae2dd34a6501f7" title="__is_set_ckpt_flags" alt="" coords="579,56,717,83"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="599,107,697,133"/>
-</map>

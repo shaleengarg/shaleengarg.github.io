@@ -1,5 +1,0 @@
-<map id="fill_device_from_item" name="fill_device_from_item">
-<area shape="rect" id="node2" href="$ctree_8h.html#a26204c078cfb39ea1bc22b5e3029361f" title="btrfs_device_total\l_bytes" alt="" coords="201,5,327,47"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#a578664995b433a182b707e1180d29a29" title="btrfs_device_uuid" alt="" coords="202,71,326,98"/>
-<area shape="rect" id="node4" href="$extent__io_8c.html#a13f34ad4413ed7398240de3304b1045b" title="read_extent_buffer" alt="" coords="199,122,329,149"/>
-</map>

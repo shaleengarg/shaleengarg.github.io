@@ -1,5 +1,0 @@
-<map id="attributes_need_mount" name="attributes_need_mount">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a380bbaaa0d838b59051cfc730e2d208f" title="nfsd4_encode_dirent\l_fattr" alt="" coords="208,5,351,47"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#adfe97205b45d0cacc8103a80130641ea" title="nfsd4_encode_dirent" alt="" coords="399,13,541,39"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#aee08cd15370880e3b05a58d7f59677b8" title="nfsd4_encode_readdir" alt="" coords="589,13,739,39"/>
-</map>

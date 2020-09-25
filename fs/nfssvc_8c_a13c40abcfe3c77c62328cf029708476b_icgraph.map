@@ -1,5 +1,0 @@
-<map id="nfsd_init_socks" name="nfsd_init_socks">
-<area shape="rect" id="node2" href="$nfssvc_8c.html#aeba7a0fe8aab7495582fc5354b6a125b" title="nfsd_startup_net" alt="" coords="167,5,285,32"/>
-<area shape="rect" id="node3" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="333,5,408,32"/>
-<area shape="rect" id="node4" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="456,5,556,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="destroy_inodecache" name="destroy_inodecache">
-<area shape="rect" id="node2" href="$udf_2super_8c.html#a20304612d96d9dbe0f344aa16fce1b30" title="init_udf_fs" alt="" coords="194,5,277,32"/>
-<area shape="rect" id="node5" href="$udf_2super_8c.html#a0b8f34c07fbfb6aa623d3104f416f6f3" title="exit_udf_fs" alt="" coords="192,56,279,83"/>
-<area shape="rect" id="node3" href="$udf_2super_8c.html#a782d56b85473ab247fe63e03a3171973" title="udf_count_free" alt="" coords="327,31,435,57"/>
-<area shape="rect" id="node4" href="$udf_2super_8c.html#a3d775f9fa7f251ca2a7f0a1282536daf" title="udf_statfs" alt="" coords="483,31,563,57"/>
-</map>

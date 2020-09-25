@@ -1,8 +1,0 @@
-<map id="wakeup_pipe_readers" name="wakeup_pipe_readers">
-<area shape="rect" id="node2" href="$fcntl_8c.html#a5a434f3099ac49e16d362421dea0e9c1" title="kill_fasync" alt="" coords="201,31,285,57"/>
-<area shape="rect" id="node3" href="$fcntl_8c.html#ab439268f4e746f76f44faf97ef3af17e" title="kill_fasync_rcu" alt="" coords="348,5,457,32"/>
-<area shape="rect" id="node7" href="$fcntl_8c.html#a96260ad34b4946a4c5c22a19887f36d3" title="EXPORT_SYMBOL" alt="" coords="333,56,472,83"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#a7b4f7b330f707178ae5513573df6e29e" title="send_sigio" alt="" coords="520,5,604,32"/>
-<area shape="rect" id="node5" href="$fcntl_8c.html#a3c961d893927e2fa472fb9de853ea225" title="send_sigio_to_task" alt="" coords="652,5,787,32"/>
-<area shape="rect" id="node6" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="835,5,920,32"/>
-</map>

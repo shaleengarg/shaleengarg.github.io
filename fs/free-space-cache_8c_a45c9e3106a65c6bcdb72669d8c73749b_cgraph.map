@@ -1,6 +1,0 @@
-<map id="merge_space_tree" name="merge_space_tree">
-<area shape="rect" id="node2" href="$free-space-cache_8c.html#ae6f7723726e0d433a216f99d55904979" title="unlink_free_space" alt="" coords="183,5,309,32"/>
-<area shape="rect" id="node4" href="$free-space-cache_8c.html#a1a9bb9f30bdf07eec2ec38ec1e236f39" title="link_free_space" alt="" coords="189,56,303,83"/>
-<area shape="rect" id="node3" href="$free-space-cache_8c.html#aa9b533bcfe8cbfc50520175df951d27a" title="__unlink_free_space" alt="" coords="357,5,499,32"/>
-<area shape="rect" id="node5" href="$free-space-cache_8c.html#a6e46501afab00d48acc8c9aafbc1bbf3" title="tree_insert_offset" alt="" coords="367,56,489,83"/>
-</map>

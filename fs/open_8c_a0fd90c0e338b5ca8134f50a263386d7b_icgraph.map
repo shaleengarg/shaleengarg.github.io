@@ -1,7 +1,0 @@
-<map id="chmod_common" name="chmod_common">
-<area shape="rect" id="node2" href="$open_8c.html#ac9a52e745b2beb5c3de31028ad45f00e" title="ksys_fchmod" alt="" coords="172,5,272,32"/>
-<area shape="rect" id="node4" href="$open_8c.html#a36122ae66c06815336703a7820b94f7d" title="do_fchmodat" alt="" coords="173,56,271,83"/>
-<area shape="rect" id="node3" href="$open_8c.html#a028af80285a4d0558d9b5fc2909d4b6b" title="SYSCALL_DEFINE2" alt="" coords="320,5,467,32"/>
-<area shape="rect" id="node5" href="$open_8c.html#a1cbb75f7fc01df5c8ddb6d6365ed7673" title="SYSCALL_DEFINE3" alt="" coords="320,56,467,83"/>
-<area shape="rect" id="node6" href="$open_8c.html#a368b6ae71264b2f601dbb7675731f1b8" title="SYSCALL_DEFINE2" alt="" coords="320,107,467,133"/>
-</map>

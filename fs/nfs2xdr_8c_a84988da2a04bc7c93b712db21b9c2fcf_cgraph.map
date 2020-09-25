@@ -1,5 +1,0 @@
-<map id="nfs2_xdr_dec_stat" name="nfs2_xdr_dec_stat">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a9d8be0c578da5baf3b8aea43cd2d7253" title="decode_stat" alt="" coords="197,5,291,32"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ae4e3536fce92515966ce15d8f618db08" title="nfs_stat_to_errno" alt="" coords="183,56,305,83"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="353,5,488,32"/>
-</map>

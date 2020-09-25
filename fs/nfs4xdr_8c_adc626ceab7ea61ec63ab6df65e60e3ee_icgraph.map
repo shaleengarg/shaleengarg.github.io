@@ -1,9 +1,0 @@
-<map id="encode_getfh" name="encode_getfh">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a790ff2d97d90e6a0c423158505e87aa3" title="nfs4_xdr_enc_lookup" alt="" coords="170,5,315,32"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a58e22d2428efe86400cc80620b16415a" title="nfs4_xdr_enc_lookupp" alt="" coords="167,56,319,83"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a9f7a2d481896c570df644b8fb31f93d9" title="nfs4_xdr_enc_lookup_root" alt="" coords="155,107,330,133"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a85932c6a259c669bba716d63cf41ba88" title="nfs4_xdr_enc_create" alt="" coords="171,157,314,184"/>
-<area shape="rect" id="node7" href="$nfs4xdr_8c.html#ac66d3792926f27232025255cba72761d" title="nfs4_xdr_enc_open" alt="" coords="175,208,310,235"/>
-<area shape="rect" id="node8" href="$nfs4xdr_8c.html#afbf626829fb0a9e74e385e5330691bc1" title="nfs4_xdr_enc_fsid_present" alt="" coords="153,259,332,285"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#ab7c5eaf13f6a48c3cfb00a5c27c06842" title="nfs4_xdr_enc_symlink" alt="" coords="380,157,532,184"/>
-</map>

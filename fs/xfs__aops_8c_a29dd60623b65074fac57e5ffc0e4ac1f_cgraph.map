@@ -1,7 +1,0 @@
-<map id="xfs_destroy_ioend" name="xfs_destroy_ioend">
-<area shape="rect" id="node2" href="$xfs__aops_8c.html#a280b8b00614cdcb5853cfc0010e9e05b" title="xfs_finish_page_writeback" alt="" coords="181,42,357,69"/>
-<area shape="rect" id="node6" href="$xfs__inode_8h.html#abe53bf47d7d5e603159ed1ef612027c5" title="XFS_I" alt="" coords="240,93,299,119"/>
-<area shape="rect" id="node3" href="$buffer_8c.html#a0c5a9b93af2e1cc8bdeb45d23f5fd4fd" title="mark_buffer_write_io\l_error" alt="" coords="405,5,548,47"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="427,71,527,98"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="596,42,735,69"/>
-</map>

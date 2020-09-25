@@ -1,5 +1,0 @@
-<map id="kill_fasync_rcu" name="kill_fasync_rcu">
-<area shape="rect" id="node2" href="$fcntl_8c.html#a7b4f7b330f707178ae5513573df6e29e" title="send_sigio" alt="" coords="163,5,247,32"/>
-<area shape="rect" id="node3" href="$fcntl_8c.html#a3c961d893927e2fa472fb9de853ea225" title="send_sigio_to_task" alt="" coords="295,5,429,32"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="477,5,563,32"/>
-</map>

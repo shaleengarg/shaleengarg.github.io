@@ -1,7 +1,0 @@
-<map id="fh_getattr" name="fh_getattr">
-<area shape="rect" id="node2" href="$nfsd_2export_8h.html#a66ddec3a166114a80a055ebde47d5030" title="nfserrno" alt="" coords="138,31,207,57"/>
-<area shape="rect" id="node3" href="$stat_8c.html#ad39ab79cf717f7ada99af52086fd5aab" title="vfs_getattr" alt="" coords="131,81,215,108"/>
-<area shape="rect" id="node4" href="$stat_8c.html#a56b3cf083c0db2c09e456a6dbdb091e4" title="vfs_getattr_nosec" alt="" coords="263,56,389,83"/>
-<area shape="rect" id="node6" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="588,56,727,83"/>
-<area shape="rect" id="node5" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="437,5,540,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="nfs4_destroy_server" name="nfs4_destroy_server">
-<area shape="rect" id="node2" href="$nfs4client_8c.html#a9a6d260686511ea21f60e064ea08b9d4" title="nfs4_server_common\l_setup" alt="" coords="193,27,340,69"/>
-<area shape="rect" id="node3" href="$nfs4client_8c.html#acdee644958f1b84bc87b9cc359c3841b" title="nfs4_create_server" alt="" coords="390,5,523,32"/>
-<area shape="rect" id="node5" href="$nfs4client_8c.html#ae47bbbb9897bd93853fcc2f3935ec01f" title="nfs4_create_referral\l_server" alt="" coords="388,57,525,98"/>
-<area shape="rect" id="node4" href="$nfs4super_8c.html#add9ea0e95448084a9a18e8ce8b145a8f" title="nfs4_remote_mount" alt="" coords="575,5,713,32"/>
-<area shape="rect" id="node6" href="$nfs4super_8c.html#a80c028d31cf423d32a389da609c9c87f" title="nfs4_remote_referral\l_mount" alt="" coords="573,57,715,98"/>
-</map>

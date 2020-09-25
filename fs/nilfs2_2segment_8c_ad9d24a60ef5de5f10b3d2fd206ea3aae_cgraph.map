@@ -1,5 +1,0 @@
-<map id="nilfs_abort_logs" name="nilfs_abort_logs">
-<area shape="rect" id="node2" href="$nilfs2_2segment_8c.html#a16dc692dbd44d7383adcfa601135a4a4" title="nilfs_end_page_io" alt="" coords="167,46,293,73"/>
-<area shape="rect" id="node3" href="$nilfs2_2page_8c.html#ae480881857e8afeef790a92ae1772630" title="nilfs_page_buffers\l_clean" alt="" coords="343,5,471,47"/>
-<area shape="rect" id="node4" href="$nilfs2_2page_8c.html#a6236b3bde5556e05843d2c5e34074b65" title="__nilfs_clear_page\l_dirty" alt="" coords="341,71,472,112"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="chkSuper" name="chkSuper">
-<area shape="rect" id="node2" href="$jfs__incore_8h.html#aa738744dc34cd43b8449acce52c8f3db" title="JFS_SBI" alt="" coords="141,5,216,32"/>
-<area shape="rect" id="node3" href="$jfs__mount_8c.html#a5ac6d2f9f542ca7ad31ae43fe1d8a688" title="readSuper" alt="" coords="138,56,219,83"/>
-<area shape="rect" id="node4" href="$jfs__types_8h.html#a9adb0b873ea17e769e0fbf437e13c282" title="lengthPXD" alt="" coords="136,107,221,133"/>
-<area shape="rect" id="node5" href="$jfs__types_8h.html#a2acefecdf5d285abf106623ae21c630d" title="addressPXD" alt="" coords="131,157,227,184"/>
-</map>

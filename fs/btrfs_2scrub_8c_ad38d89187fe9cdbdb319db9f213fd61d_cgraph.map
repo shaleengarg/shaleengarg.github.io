@@ -1,9 +1,0 @@
-<map id="scrub_checksum_super" name="scrub_checksum_super">
-<area shape="rect" id="node2" href="$btrfs_2scrub_8c.html#a32d25c1e8b6e334df584f6afe50c0d3f" title="scrub_check_fsid" alt="" coords="216,5,340,32"/>
-<area shape="rect" id="node3" href="$disk-io_8c.html#afefd1a76d3df3a8f54251a3aa9ef057b" title="btrfs_csum_data" alt="" coords="219,56,337,83"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#af1c87f201f23dab002e655d9c571af52" title="btrfs_csum_final" alt="" coords="219,107,337,133"/>
-<area shape="rect" id="node5" href="$volumes_8c.html#ae649625b18dbb6f0712d629b6cc322b9" title="btrfs_dev_stat_inc\l_and_print" alt="" coords="213,158,343,199"/>
-<area shape="rect" id="node6" href="$volumes_8h.html#a1eb97c479320c2e4d87fae7e93eedbe9" title="btrfs_dev_stat_inc" alt="" coords="395,136,524,163"/>
-<area shape="rect" id="node7" href="$volumes_8c.html#a49397ff0d559a80228c3e3103d42792d" title="btrfs_dev_stat_print\l_on_error" alt="" coords="391,187,528,229"/>
-<area shape="rect" id="node8" href="$volumes_8h.html#a001e4d4c3bfff212faa0d614efafe7dd" title="btrfs_dev_stat_read" alt="" coords="576,195,713,221"/>
-</map>

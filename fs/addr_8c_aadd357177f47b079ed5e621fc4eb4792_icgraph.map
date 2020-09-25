@@ -1,6 +1,0 @@
-<map id="ceph_do_readpage" name="ceph_do_readpage">
-<area shape="rect" id="node2" href="$addr_8c.html#a25eee0a02a2b3351b268891595426369" title="ceph_readpage" alt="" coords="224,5,335,32"/>
-<area shape="rect" id="node3" href="$addr_8c.html#a3712eb2307378095158e47d5acf45cc1" title="ceph_update_writeable_page" alt="" coords="184,56,375,83"/>
-<area shape="rect" id="node4" href="$addr_8c.html#a0eaf4bcdb46491382485ea5ae7aa5be1" title="ceph_write_begin" alt="" coords="431,31,553,57"/>
-<area shape="rect" id="node5" href="$addr_8c.html#a6c044271600cc580bff68ac3b8bd9510" title="ceph_page_mkwrite" alt="" coords="423,81,561,108"/>
-</map>

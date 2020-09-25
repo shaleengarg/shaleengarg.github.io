@@ -1,5 +1,0 @@
-<map id="DECLARE_DELAYED_WORK" name="DECLARE_DELAYED_WORK">
-<area shape="rect" id="node2" href="$fs-writeback_8c.html#acd77fd73d6e9a41c7fa130bc0e3bf018" title="wakeup_flusher_threads" alt="" coords="259,5,421,32"/>
-<area shape="rect" id="node3" href="$sync_8c.html#a8afa97bf9af465089a1711f1d494ae60" title="ksys_sync" alt="" coords="469,5,555,32"/>
-<area shape="rect" id="node4" href="$sync_8c.html#aea720904122429e3d896751bfc2a86dc" title="SYSCALL_DEFINE0" alt="" coords="603,5,749,32"/>
-</map>

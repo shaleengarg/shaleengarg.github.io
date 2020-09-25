@@ -1,8 +1,0 @@
-<map id="get_new_element" name="get_new_element">
-<area shape="rect" id="node2" href="$vmcore_8c.html#a66c3290f5dbf0f0d3b561a8deb351d0e" title="process_ptload_program\l_headers_elf64" alt="" coords="177,5,341,47"/>
-<area shape="rect" id="node6" href="$vmcore_8c.html#aba30d7a308c3b223b392a145aa27e6eb" title="process_ptload_program\l_headers_elf32" alt="" coords="177,71,341,112"/>
-<area shape="rect" id="node3" href="$vmcore_8c.html#ac897b94ba9093a5f0a3979f2099c0c6d" title="parse_crash_elf64_headers" alt="" coords="389,17,571,43"/>
-<area shape="rect" id="node4" href="$vmcore_8c.html#a01c022a0aa4c0ed90729636dee6c9a17" title="parse_crash_elf_headers" alt="" coords="619,46,785,73"/>
-<area shape="rect" id="node5" href="$vmcore_8c.html#a96b3f33aac2c6921c86e2e3c03514724" title="vmcore_init" alt="" coords="833,46,923,73"/>
-<area shape="rect" id="node7" href="$vmcore_8c.html#a92d26f114b60cf5e8bcb69ad3f43dd02" title="parse_crash_elf32_headers" alt="" coords="389,71,571,98"/>
-</map>

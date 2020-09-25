@@ -1,5 +1,0 @@
-<map id="encode_access" name="encode_access">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#af45d9eb700b5f74683e3c638d03418c1" title="nfs4_xdr_enc_access" alt="" coords="179,5,329,32"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ac66d3792926f27232025255cba72761d" title="nfs4_xdr_enc_open" alt="" coords="187,56,321,83"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a3951ac577a6fc2408b1013e316088457" title="nfs4_xdr_enc_open_noattr" alt="" coords="167,107,341,133"/>
-</map>

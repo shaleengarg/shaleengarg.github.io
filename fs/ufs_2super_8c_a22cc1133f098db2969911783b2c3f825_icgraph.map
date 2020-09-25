@@ -1,8 +1,0 @@
-<map id="ufs_read_cylinder_structures" name="ufs_read_cylinder_structures">
-<area shape="rect" id="node2" href="$ufs_2super_8c.html#a3f4b63ff3ff42b972395a4f5a9efa3a5" title="ufs_fill_super" alt="" coords="243,5,341,32"/>
-<area shape="rect" id="node4" href="$ufs_2super_8c.html#a2edca56802a119a2e1eba6e74ac2a1ea" title="ufs_remount" alt="" coords="245,56,339,83"/>
-<area shape="rect" id="node3" href="$ufs_2super_8c.html#a73e91865459b9c98431c3c2dfe98048f" title="ufs_mount" alt="" coords="417,5,500,32"/>
-<area shape="rect" id="node5" href="$ufs_2super_8c.html#ac4d25609cd85ba4cc80e0aa74c6d0ffd" title="destroy_inodecache" alt="" coords="389,56,528,83"/>
-<area shape="rect" id="node6" href="$ufs_2super_8c.html#ae44b3672a356a0edd270c6fcd066825b" title="init_ufs_fs" alt="" coords="576,31,659,57"/>
-<area shape="rect" id="node7" href="$ufs_2super_8c.html#ab9cd8947ea8a34a3334a89b2064be931" title="exit_ufs_fs" alt="" coords="707,56,793,83"/>
-</map>

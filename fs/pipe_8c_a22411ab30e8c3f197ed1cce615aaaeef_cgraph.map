@@ -1,6 +1,0 @@
-<map id="pipe_ioctl" name="pipe_ioctl">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="156,5,211,32"/>
-<area shape="rect" id="node4" href="$pipe_8c.html#acaa67b9297f65bad336f522141935d47" title="__pipe_lock" alt="" coords="138,56,229,83"/>
-<area shape="rect" id="node5" href="$pipe_8c.html#a38ed717193262b3dedcacf3364b44b07" title="__pipe_unlock" alt="" coords="131,107,236,133"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="284,5,403,32"/>
-</map>

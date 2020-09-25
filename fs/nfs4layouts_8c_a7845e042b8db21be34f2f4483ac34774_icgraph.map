@@ -1,7 +1,0 @@
-<map id="nfsd4_free_layout_stateid" name="nfsd4_free_layout_stateid">
-<area shape="rect" id="node2" href="$nfs4layouts_8c.html#a04a56556089729385154b309b69c7f39" title="nfsd4_alloc_layout\l_stateid" alt="" coords="224,5,355,47"/>
-<area shape="rect" id="node3" href="$nfs4layouts_8c.html#a639ad79b18a965c4884f59b298daa858" title="nfsd4_preprocess_layout\l_stateid" alt="" coords="403,5,569,47"/>
-<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#a0a0f5d419767f9487325712f7c90372b" title="nfsd4_verify" alt="" coords="832,13,925,39"/>
-<area shape="rect" id="node6" href="$nfs4layouts_8c.html#a7a4dca23bd76ae5acd6c1a1d326c6ce4" title="nfsd4_return_file_layouts" alt="" coords="617,38,784,65"/>
-<area shape="rect" id="node5" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="973,13,1097,39"/>
-</map>

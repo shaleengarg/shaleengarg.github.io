@@ -1,5 +1,0 @@
-<map id="send_sigurg" name="send_sigurg">
-<area shape="rect" id="node2" href="$fcntl_8c.html#ad6095f16d62907754a72cda524bb391b" title="send_sigurg_to_task" alt="" coords="147,5,290,32"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#a8e82485fd2c4abcc3978705eb786564d" title="DEFINE_SPINLOCK" alt="" coords="145,56,292,83"/>
-<area shape="rect" id="node3" href="$fcntl_8c.html#ab2adc961bea81d2a4fcb050ab15d3972" title="sigio_perm" alt="" coords="340,5,425,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="new_inode" name="new_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#aeddf64c5c9fa914485838a6db9201936" title="new_inode_pseudo" alt="" coords="137,5,271,32"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="712,56,851,83"/>
-<area shape="rect" id="node7" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="141,107,267,133"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a6328f7a2621c5365a1df969e8c7ab998" title="alloc_inode" alt="" coords="361,5,448,32"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a844185001176cf3da6e2195a24931015" title="inode_init_always" alt="" coords="539,5,664,32"/>
-<area shape="rect" id="node5" href="$inode_8c.html#a585882dc429befcbe4638a49bc11dff6" title="no_open" alt="" coords="746,5,817,32"/>
-<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="319,107,491,133"/>
-</map>

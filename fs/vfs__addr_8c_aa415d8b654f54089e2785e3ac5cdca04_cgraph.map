@@ -1,8 +1,0 @@
-<map id="v9fs_vfs_readpages" name="v9fs_vfs_readpages">
-<area shape="rect" id="node2" href="$9p_2cache_8h.html#aaf292f4115bd7baf27a099852a67d69a" title="v9fs_readpages_from\l_fscache" alt="" coords="192,5,339,47"/>
-<area shape="rect" id="node3" href="$vfs__addr_8c.html#a1daf983107c9216654b0c4d37a6c67fc" title="v9fs_vfs_readpage" alt="" coords="199,71,331,98"/>
-<area shape="rect" id="node4" href="$vfs__addr_8c.html#ad7cc6d08a6f522b4ab8ef18712744391" title="v9fs_fid_readpage" alt="" coords="387,71,515,98"/>
-<area shape="rect" id="node5" href="$9p_2cache_8h.html#a503c2ace3d075f096b7feb6a106b4706" title="v9fs_readpage_from\l_fscache" alt="" coords="582,5,722,47"/>
-<area shape="rect" id="node6" href="$9p_2cache_8h.html#accd00caf37178fe82c7d0bfec6c901d9" title="v9fs_uncache_page" alt="" coords="583,71,721,98"/>
-<area shape="rect" id="node7" href="$9p_2cache_8h.html#ab10823cf967416d8204fdc8063590ba4" title="v9fs_readpage_to_fscache" alt="" coords="563,122,741,149"/>
-</map>

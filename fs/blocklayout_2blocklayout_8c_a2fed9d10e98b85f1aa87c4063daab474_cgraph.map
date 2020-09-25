@@ -1,8 +1,0 @@
-<map id="nfs4blocklayout_init" name="nfs4blocklayout_init">
-<area shape="rect" id="node2" href="$blocklayout_8h.html#ad2586329414cdb7265b5040676aee37c" title="bl_init_pipefs" alt="" coords="234,5,333,32"/>
-<area shape="rect" id="node3" href="$pnfs_8c.html#a235ea8f02239c1ecc2800c361f2d0c30" title="pnfs_register_layoutdriver" alt="" coords="198,56,369,83"/>
-<area shape="rect" id="node6" href="$pnfs_8c.html#a4b68b75cb32db6dbb694f5ed144264ef" title="pnfs_unregister_layoutdriver" alt="" coords="191,107,376,133"/>
-<area shape="rect" id="node7" href="$blocklayout_8h.html#a0c034f94455987cc59e01eec0a7b8277" title="bl_cleanup_pipefs" alt="" coords="220,157,347,184"/>
-<area shape="rect" id="node4" href="$pnfs_8c.html#aaba209154c05263d876ef1ec21ed8a73" title="find_pnfs_driver_locked" alt="" coords="431,56,589,83"/>
-<area shape="rect" id="node5" href="$pnfs_8c.html#a988f879e23537553e2430103eabb3fcf" title="EXPORT_SYMBOL_GPL" alt="" coords="424,107,596,133"/>
-</map>

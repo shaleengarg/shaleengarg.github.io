@@ -1,5 +1,0 @@
-<map id="ovl_path_upper" name="ovl_path_upper">
-<area shape="rect" id="node2" href="$overlayfs_2util_8c.html#a25a8881c373a94c936cb407f5e8a25b5" title="ovl_dentry_upper" alt="" coords="164,31,285,57"/>
-<area shape="rect" id="node3" href="$ovl__entry_8h.html#a041d29afdee572c0b88f51cd10986d27" title="ovl_upperdentry_dereference" alt="" coords="333,5,523,32"/>
-<area shape="rect" id="node4" href="$ovl__entry_8h.html#aa841e714a900ca921bdda503ee671a34" title="OVL_I" alt="" coords="399,56,457,83"/>
-</map>

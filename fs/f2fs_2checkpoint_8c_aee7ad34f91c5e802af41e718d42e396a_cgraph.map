@@ -1,6 +1,0 @@
-<map id="is_valid_blkaddr" name="is_valid_blkaddr">
-<area shape="rect" id="node2" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="377,5,431,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="198,31,253,57"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a1ee55d25e5362f8b7452e54e5b004521" title="__start_cp_addr" alt="" coords="168,81,283,108"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a7dffbcf93012840e801f5357ebc2669e" title="F2FS_RAW_SUPER" alt="" coords="331,81,477,108"/>
-</map>

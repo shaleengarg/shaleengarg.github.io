@@ -1,7 +1,0 @@
-<map id="minix_find_entry" name="minix_find_entry">
-<area shape="rect" id="node2" href="$minix_8h.html#afbb26aab73a3465d0d59d2ea2c48957d" title="minix_inode_by_name" alt="" coords="171,5,321,32"/>
-<area shape="rect" id="node4" href="$minix_2namei_8c.html#a77149a94528b0d60b203a4728056e891" title="minix_unlink" alt="" coords="199,56,293,83"/>
-<area shape="rect" id="node6" href="$minix_2namei_8c.html#aca794ccd60526dd7458a11c3078c947b" title="minix_rename" alt="" coords="195,107,297,133"/>
-<area shape="rect" id="node3" href="$minix_2namei_8c.html#a3acea20df0a5675ea227c846485aa91b" title="minix_lookup" alt="" coords="369,5,468,32"/>
-<area shape="rect" id="node5" href="$minix_2namei_8c.html#a06475ab3fba79710c7c6a418e2cebf98" title="minix_rmdir" alt="" coords="374,56,463,83"/>
-</map>

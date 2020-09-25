@@ -1,9 +1,0 @@
-<map id="__wait_all_discard_cmd" name="__wait_all_discard_cmd">
-<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#a125227539fdab4284eb2eef62ce12c6c" title="f2fs_wait_discard_bios" alt="" coords="215,8,369,35"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8c.html#aa1264edc8512298e278f3e132ad832ad" title="issue_discard_thread" alt="" coords="219,60,365,87"/>
-<area shape="rect" id="node3" href="$f2fs_2super_8c.html#aad19a5f9488f11563b29758fa0995681" title="f2fs_put_super" alt="" coords="433,5,541,32"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a20856aa0470d32f338f1f2b7de62dafc" title="create_discard_cmd\l_control" alt="" coords="417,57,556,98"/>
-<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#afa166763e69e3cc5d86dac43bfafb1e3" title="build_segment_manager" alt="" coords="604,64,767,91"/>
-<area shape="rect" id="node7" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="815,64,917,91"/>
-<area shape="rect" id="node8" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="965,64,1052,91"/>
-</map>

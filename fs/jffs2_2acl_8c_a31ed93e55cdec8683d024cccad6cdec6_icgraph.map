@@ -1,7 +1,0 @@
-<map id="jffs2_init_acl_pre" name="jffs2_init_acl_pre">
-<area shape="rect" id="node2" href="$os-linux_8h.html#a4cab60314c0085dcbfcce95ba1ecd375" title="jffs2_new_inode" alt="" coords="173,81,289,108"/>
-<area shape="rect" id="node3" href="$jffs2_2dir_8c.html#aa6556ce09c5fd4b400010b6ed347d884" title="jffs2_create" alt="" coords="341,5,432,32"/>
-<area shape="rect" id="node4" href="$jffs2_2dir_8c.html#a0764e3824316e917b06bcb92865a9d77" title="jffs2_symlink" alt="" coords="337,56,436,83"/>
-<area shape="rect" id="node5" href="$jffs2_2dir_8c.html#abbaf9d9887bf16fe0c25e642d479fe4a" title="jffs2_mkdir" alt="" coords="343,107,430,133"/>
-<area shape="rect" id="node6" href="$jffs2_2dir_8c.html#a5be5c49ebc9184c934a91adac0d7c7e7" title="jffs2_mknod" alt="" coords="340,157,433,184"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="gfs2_ea_get_copy" name="gfs2_ea_get_copy">
-<area shape="rect" id="node2" href="$gfs2_2xattr_8h.html#a98a0dea49132e49aaed8b2ed72c76b30" title="gfs2_xattr_acl_get" alt="" coords="181,5,311,32"/>
-<area shape="rect" id="node5" href="$gfs2_2xattr_8c.html#a4c48ad21deda93d4fb38757c688058dc" title="__gfs2_xattr_get" alt="" coords="187,56,305,83"/>
-<area shape="rect" id="node3" href="$gfs2_2acl_8c.html#a50dfd3333a225a28dab33a3430e1edd8" title="__gfs2_get_acl" alt="" coords="359,5,469,32"/>
-<area shape="rect" id="node4" href="$gfs2_2acl_8h.html#aa38073739fa52e6347a34397c617a68d" title="gfs2_get_acl" alt="" coords="517,5,613,32"/>
-<area shape="rect" id="node6" href="$gfs2_2xattr_8c.html#a2767c185bee834e20b396edf5061f0c1" title="gfs2_xattr_get" alt="" coords="361,56,467,83"/>
-</map>

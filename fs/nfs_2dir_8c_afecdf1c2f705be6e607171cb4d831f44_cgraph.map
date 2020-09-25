@@ -1,5 +1,0 @@
-<map id="nfs_do_access_cache_scan" name="nfs_do_access_cache_scan">
-<area shape="rect" id="node2" href="$nfs_2dir_8c.html#a234a905a576151f75507636c29451ff6" title="LIST_HEAD" alt="" coords="264,5,359,32"/>
-<area shape="rect" id="node3" href="$nfs_2dir_8c.html#a02e106bab7f5ce8074889fe92c4d676e" title="nfs_access_free_list" alt="" coords="240,56,383,83"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a59b2e0093d17abe677065242687d3535" title="nfs_access_free_entry" alt="" coords="431,56,585,83"/>
-</map>

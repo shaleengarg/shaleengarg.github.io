@@ -1,8 +1,0 @@
-<map id="nfs4_sequence_free_slot" name="nfs4_sequence_free_slot">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#a6c6f628cce51fdcbd3c0eec4d6af85f1" title="nfs40_sequence_free_slot" alt="" coords="220,35,395,61"/>
-<area shape="rect" id="node3" href="$nfs4session_8c.html#a56a87a28bc57b41bfc1724018aaefb0a" title="nfs41_wake_and_assign_slot" alt="" coords="443,8,636,35"/>
-<area shape="rect" id="node6" href="$nfs4session_8c.html#a5ae0427effd61a64721e74656fd1a4c3" title="nfs4_free_slot" alt="" coords="487,60,591,87"/>
-<area shape="rect" id="node4" href="$nfs4session_8c.html#a8e6b7100453c5a24340361eb9973e0e0" title="__nfs41_wake_and_assign_slot" alt="" coords="684,5,891,32"/>
-<area shape="rect" id="node5" href="$nfs4session_8c.html#aee346e5c32ae2e80a30184a0b205194d" title="nfs41_assign_slot" alt="" coords="939,5,1065,32"/>
-<area shape="rect" id="node7" href="$nfs4session_8c.html#a1fec846336921455b953f9c39a0a84c9" title="nfs4_slot_tbl_drain\l_complete" alt="" coords="722,57,853,98"/>
-</map>

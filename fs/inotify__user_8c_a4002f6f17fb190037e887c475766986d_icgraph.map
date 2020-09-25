@@ -1,5 +1,0 @@
-<map id="inotify_add_to_idr" name="inotify_add_to_idr">
-<area shape="rect" id="node2" href="$inotify__user_8c.html#a52a081de56954432761b56eae23ffb2e" title="inotify_new_watch" alt="" coords="177,5,308,32"/>
-<area shape="rect" id="node3" href="$inotify__user_8c.html#a24dc6fd612cd4c9be138c3b002761a83" title="inotify_update_watch" alt="" coords="356,5,501,32"/>
-<area shape="rect" id="node4" href="$inotify__user_8c.html#a8fe0bf01ee3fda7e85db7d3903aee01c" title="SYSCALL_DEFINE3" alt="" coords="549,5,696,32"/>
-</map>

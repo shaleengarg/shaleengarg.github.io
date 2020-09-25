@@ -1,9 +1,0 @@
-<map id="fscache_update_aux" name="fscache_update_aux">
-<area shape="rect" id="node2" href="$cookie_8c.html#a5606e2846fa097ecf60b71f666e08b9f" title="__fscache_enable_cookie" alt="" coords="211,5,383,32"/>
-<area shape="rect" id="node3" href="$cookie_8c.html#ac86d3f4244ef4547cc938c6127c4b92e" title="__fscache_update_cookie" alt="" coords="210,56,383,83"/>
-<area shape="rect" id="node4" href="$cookie_8c.html#a47c216c40b832d896f7e8e4793843d48" title="__fscache_disable_cookie" alt="" coords="209,107,384,133"/>
-<area shape="rect" id="node8" href="$cookie_8c.html#a92eb1c039adf19d02acb4e895d163e26" title="__fscache_check_consistency" alt="" coords="196,157,397,184"/>
-<area shape="rect" id="node5" href="$cookie_8c.html#a018c741b3a71d877c5482037a3a1be4e" title="__fscache_relinquish\l_cookie" alt="" coords="445,99,589,141"/>
-<area shape="rect" id="node6" href="$ceph_2cache_8c.html#a468b276a7bc83326695d88050526469d" title="ceph_fscache_unregister_fs" alt="" coords="637,107,823,133"/>
-<area shape="rect" id="node7" href="$ceph_2super_8c.html#a7ec47b48644ac52bafcaa15b1db7673b" title="ceph_kill_sb" alt="" coords="871,107,965,133"/>
-</map>

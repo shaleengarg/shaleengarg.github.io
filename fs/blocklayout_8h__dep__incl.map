@@ -1,6 +1,0 @@
-<map id="nfs/blocklayout/blocklayout.h" name="nfs/blocklayout/blocklayout.h">
-<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html" title="nfs/blocklayout/blocklayout.c" alt="" coords="5,87,196,114"/>
-<area shape="rect" id="node3" href="$nfs_2blocklayout_2dev_8c.html" title="nfs/blocklayout/dev.c" alt="" coords="221,87,367,114"/>
-<area shape="rect" id="node4" href="$extent__tree_8c.html" title="nfs/blocklayout/extent\l_tree.c" alt="" coords="392,80,543,121"/>
-<area shape="rect" id="node5" href="$rpc__pipefs_8c.html" title="nfs/blocklayout/rpc\l_pipefs.c" alt="" coords="567,80,699,121"/>
-</map>

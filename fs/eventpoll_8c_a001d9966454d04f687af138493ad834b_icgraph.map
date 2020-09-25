@@ -1,6 +1,0 @@
-<map id="path_count_inc" name="path_count_inc">
-<area shape="rect" id="node2" href="$eventpoll_8c.html#aee6d50a5399c82d3dd072da3c0c83814" title="reverse_path_check_proc" alt="" coords="164,5,335,32"/>
-<area shape="rect" id="node3" href="$eventpoll_8c.html#afda2f19b339f31349be1860dd8edccd4" title="reverse_path_check" alt="" coords="383,5,521,32"/>
-<area shape="rect" id="node4" href="$eventpoll_8c.html#a82a3f7ce10f1bf94f8adaefe61610357" title="ep_insert" alt="" coords="569,5,644,32"/>
-<area shape="rect" id="node5" href="$eventpoll_8c.html#ae001bb116245d06fc0cf570f45eb6776" title="SYSCALL_DEFINE4" alt="" coords="692,5,839,32"/>
-</map>

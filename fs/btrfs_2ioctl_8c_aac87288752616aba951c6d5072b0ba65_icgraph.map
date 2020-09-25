@@ -1,6 +1,0 @@
-<map id="build_ino_list" name="build_ino_list">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a962cdee5a9e9b54f23901775d1d7d09d" title="btrfs_ioctl_logical\l_to_ino" alt="" coords="151,5,273,47"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="321,13,400,39"/>
-<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="448,13,623,39"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="671,13,768,39"/>
-</map>

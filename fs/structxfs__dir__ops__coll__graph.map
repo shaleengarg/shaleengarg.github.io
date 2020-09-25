@@ -1,8 +1,0 @@
-<map id="xfs_dir_ops" name="xfs_dir_ops">
-<area shape="rect" id="node2" href="$structxfs__dir2__leaf__entry.html" title="xfs_dir2_leaf_entry" alt="" coords="14,11,146,37"/>
-<area shape="rect" id="node3" href="$structxfs__dir2__data__unused.html" title="xfs_dir2_data_unused" alt="" coords="5,61,155,88"/>
-<area shape="rect" id="node4" href="$structxfs__dir2__data__entry.html" title="xfs_dir2_data_entry" alt="" coords="12,145,148,172"/>
-<area shape="rect" id="node5" href="$structxfs__dir2__sf__entry.html" title="xfs_dir2_sf_entry" alt="" coords="19,196,141,223"/>
-<area shape="rect" id="node6" href="$structxfs__da__node__entry.html" title="xfs_da_node_entry" alt="" coords="14,247,146,273"/>
-<area shape="rect" id="node7" href="$structxfs__dir2__data__free.html" title="xfs_dir2_data_free" alt="" coords="15,297,145,324"/>
-</map>

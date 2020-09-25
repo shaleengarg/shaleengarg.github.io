@@ -1,6 +1,0 @@
-<map id="befs_dump_index_node" name="befs_dump_index_node">
-<area shape="rect" id="node2" href="$befs_2debug_8c.html#a9adcbde37088a09e232dcb26c882f06d" title="befs_debug" alt="" coords="214,5,303,32"/>
-<area shape="rect" id="node3" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="212,56,305,83"/>
-<area shape="rect" id="node5" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="212,107,305,133"/>
-<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="353,81,436,108"/>
-</map>

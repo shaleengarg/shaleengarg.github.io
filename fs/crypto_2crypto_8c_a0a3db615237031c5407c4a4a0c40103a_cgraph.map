@@ -1,6 +1,0 @@
-<map id="module_init" name="module_init">
-<area shape="rect" id="node2" href="$crypto_2crypto_8c.html#afcd39fa09504d43e663466794cbbe1eb" title="fscrypt_destroy" alt="" coords="161,5,273,32"/>
-<area shape="rect" id="node3" href="$fscrypt__private_8h.html#aef01de70fa2d65e2a71d396d958a50cc" title="fscrypt_essiv_cleanup" alt="" coords="141,56,293,83"/>
-<area shape="rect" id="node4" href="$crypto_2crypto_8c.html#a46b5b784abf01a7a033f671cbcab0cb2" title="module_exit" alt="" coords="171,107,263,133"/>
-<area shape="rect" id="node5" href="$crypto_2crypto_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="145,157,289,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="decode_lock_stateid" name="decode_lock_stateid">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a35e1d6d7e06e4cc5d03e4159b0da34d9" title="decode_lock" alt="" coords="199,5,293,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aeb219b644e78a05a9dc8cefd3930e94d" title="decode_locku" alt="" coords="195,56,297,83"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ae19a3471f575b3b7c456ccf0120ed784" title="nfs4_xdr_dec_lock" alt="" coords="349,5,480,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a92f16ebbd6ad4c25566d6f04a72f2c22" title="nfs4_xdr_dec_locku" alt="" coords="345,56,484,83"/>
-</map>

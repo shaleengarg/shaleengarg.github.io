@@ -1,5 +1,0 @@
-<map id="ramfs_mknod" name="ramfs_mknod">
-<area shape="rect" id="node2" href="$ramfs_2inode_8c.html#a6c128b520f71aa3430cadba71780af4d" title="ramfs_mkdir" alt="" coords="157,5,251,32"/>
-<area shape="rect" id="node3" href="$ramfs_2inode_8c.html#a22ddff08c35237ba1cde62e99de73e8e" title="ramfs_symlink" alt="" coords="301,56,408,83"/>
-<area shape="rect" id="node4" href="$ramfs_2inode_8c.html#a90bd639e47230476c351be42bcc0a86d" title="ramfs_create" alt="" coords="155,107,253,133"/>
-</map>

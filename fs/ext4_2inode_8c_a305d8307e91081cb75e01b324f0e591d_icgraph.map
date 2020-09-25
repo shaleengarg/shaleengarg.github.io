@@ -1,7 +1,0 @@
-<map id="mpage_submit_page" name="mpage_submit_page">
-<area shape="rect" id="node2" href="$ext4_2inode_8c.html#a0d6a69394e25143ba38bf4a7cc65d8e2" title="mpage_process_page_bufs" alt="" coords="196,66,377,93"/>
-<area shape="rect" id="node3" href="$ext4_2inode_8c.html#a88939f9b23e69993014e3792ca869221" title="mpage_map_and_submit\l_buffers" alt="" coords="425,8,592,49"/>
-<area shape="rect" id="node6" href="$ext4_2inode_8c.html#a0e280aaf1c1fe9b486047c3270ae84e8" title="mpage_prepare_extent\l_to_map" alt="" coords="646,71,801,112"/>
-<area shape="rect" id="node4" href="$ext4_2inode_8c.html#a5d5c0f1ccb2f9411fc0a32761b8b5086" title="mpage_map_and_submit\l_extent" alt="" coords="640,5,807,47"/>
-<area shape="rect" id="node5" href="$ext4_2inode_8c.html#a510843a6643b30194a3e94f9726fcbdb" title="ext4_writepages" alt="" coords="855,46,972,73"/>
-</map>

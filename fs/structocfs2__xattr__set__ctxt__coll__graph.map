@@ -1,8 +1,0 @@
-<map id="ocfs2_xattr_set_ctxt" name="ocfs2_xattr_set_ctxt">
-<area shape="rect" id="node2" href="$structocfs2__cached__dealloc__ctxt.html" title="ocfs2_cached_dealloc_ctxt" alt="" coords="587,105,767,132"/>
-<area shape="rect" id="node3" href="$structocfs2__per__slot__free__list.html" title="ocfs2_per_slot_free_list" alt="" coords="261,109,421,136"/>
-<area shape="rect" id="node4" href="$structocfs2__cached__block__free.html" title="ocfs2_cached_block_free" alt="" coords="5,44,176,71"/>
-<area shape="rect" id="node5" href="$structocfs2__alloc__context.html" title="ocfs2_alloc_context" alt="" coords="607,165,746,192"/>
-<area shape="rect" id="node6" href="$structocfs2__suballoc__result.html" title="ocfs2_suballoc_result" alt="" coords="267,164,415,191"/>
-<area shape="rect" id="node7" href="$structocfs2__alloc__reservation.html" title="ocfs2_alloc_reservation" alt="" coords="262,215,421,241"/>
-</map>

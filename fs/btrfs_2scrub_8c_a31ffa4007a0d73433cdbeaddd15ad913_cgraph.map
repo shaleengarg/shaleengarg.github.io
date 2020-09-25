@@ -1,5 +1,0 @@
-<map id="scrub_missing_raid56_end_io" name="scrub_missing_raid56_end_io">
-<area shape="rect" id="node2" href="$async-thread_8c.html#a5ded67298bd56916d36e081d5fca426b" title="btrfs_queue_work" alt="" coords="201,13,327,39"/>
-<area shape="rect" id="node3" href="$async-thread_8c.html#aab231afb66f3a4b163068ff86f2b071d" title="__btrfs_queue_work" alt="" coords="375,13,513,39"/>
-<area shape="rect" id="node4" href="$async-thread_8c.html#a90a6f075cab66793ab82f810bdf4dbce" title="thresh_queue_hook" alt="" coords="561,13,696,39"/>
-</map>

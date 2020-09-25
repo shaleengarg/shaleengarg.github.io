@@ -1,6 +1,0 @@
-<map id="cifs_init_inodecache" name="cifs_init_inodecache">
-<area shape="rect" id="node2" href="$cifsfs_8c.html#a99ba2355b534a547b5df1777566bf652" title="cifs_init_once" alt="" coords="193,31,296,57"/>
-<area shape="rect" id="node3" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="344,31,456,57"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="504,5,687,32"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="526,56,665,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="ext2_sync_fs" name="ext2_sync_fs">
-<area shape="rect" id="node2" href="$ext2_2super_8c.html#acfd901b2bf1bd993b550d25516a68046" title="ext2_freeze" alt="" coords="169,5,259,32"/>
-<area shape="rect" id="node3" href="$ext2_2super_8c.html#a2c575451ba4b32e9b68b7c2661e41c68" title="ext2_write_super" alt="" coords="153,56,275,83"/>
-<area shape="rect" id="node4" href="$ext2_2super_8c.html#acf183b71385839ffbeda64c3dd3b303e" title="ext2_fill_super" alt="" coords="323,5,429,32"/>
-<area shape="rect" id="node6" href="$ext2_2super_8c.html#a16a63ac7c4ba20667996f11e0a0bf6e5" title="ext2_unfreeze" alt="" coords="324,56,428,83"/>
-<area shape="rect" id="node7" href="$ext2_2super_8c.html#aaf2091e93d8c2dfd03a66bbb0c8e487a" title="ext2_remount" alt="" coords="325,107,427,133"/>
-<area shape="rect" id="node5" href="$ext2_2super_8c.html#aee12f84983230d4124b17813aec7ea04" title="ext2_mount" alt="" coords="477,5,568,32"/>
-</map>

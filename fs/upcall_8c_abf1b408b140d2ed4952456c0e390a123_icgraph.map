@@ -1,8 +1,0 @@
-<map id="venus_getattr" name="venus_getattr">
-<area shape="rect" id="node2" href="$coda_2dir_8c.html#a3df99165db0c360479c0bcc688e1e920" title="coda_revalidate_inode" alt="" coords="155,5,305,32"/>
-<area shape="rect" id="node4" href="$coda__fs__i_8h.html#aa5a84a0d99ca252c63a5e5cc471f5a42" title="coda_cnode_make" alt="" coords="165,56,295,83"/>
-<area shape="rect" id="node3" href="$coda_2inode_8c.html#aa2e2a269b783a03ca9fdf6fe79d6030b" title="coda_getattr" alt="" coords="361,5,455,32"/>
-<area shape="rect" id="node5" href="$coda_2dir_8c.html#ada438898c4aed31d418e181ffba1b8e1" title="coda_lookup" alt="" coords="361,56,455,83"/>
-<area shape="rect" id="node6" href="$coda_2inode_8c.html#a4772e6734a1f2cfe8d178b62fe4262cb" title="coda_fill_super" alt="" coords="353,107,463,133"/>
-<area shape="rect" id="node7" href="$coda_2inode_8c.html#a294a578266689b95d871c0c6ff7ff8ce" title="coda_mount" alt="" coords="511,107,604,133"/>
-</map>

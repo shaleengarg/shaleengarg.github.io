@@ -1,9 +1,0 @@
-<map id="free_wbufs" name="free_wbufs">
-<area shape="rect" id="node2" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="156,5,249,32"/>
-<area shape="rect" id="node5" href="$ubifs_2super_8c.html#a3e27f93e2785f1ef9580acc2fa8db34d" title="ubifs_umount" alt="" coords="153,56,253,83"/>
-<area shape="rect" id="node7" href="$ubifs_2super_8c.html#a294d4bb3f82a15e7bed2e2ae0c7f472d" title="ubifs_remount_rw" alt="" coords="140,107,265,133"/>
-<area shape="rect" id="node3" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="320,5,429,32"/>
-<area shape="rect" id="node4" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="484,5,577,32"/>
-<area shape="rect" id="node6" href="$ubifs_2super_8c.html#ae2f59fbee4bf3523cc44fbe10cc38917" title="ubifs_put_super" alt="" coords="317,56,432,83"/>
-<area shape="rect" id="node8" href="$ubifs_2super_8c.html#a819db79224fd15f0eb125fe0a3c6123e" title="ubifs_remount_fs" alt="" coords="313,107,436,133"/>
-</map>

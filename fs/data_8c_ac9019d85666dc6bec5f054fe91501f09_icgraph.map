@@ -1,8 +1,0 @@
-<map id="__get_data_block" name="__get_data_block">
-<area shape="rect" id="node2" href="$data_8c.html#a80b1500338c619d88a803233be320df1" title="get_data_block" alt="" coords="197,5,307,32"/>
-<area shape="rect" id="node4" href="$data_8c.html#af2ea6fee591b0c410961653af7bb8a47" title="get_data_block_dio" alt="" coords="185,56,319,83"/>
-<area shape="rect" id="node6" href="$data_8c.html#a66a7b976a74f927209b27ccadadde84d" title="get_data_block_bmap" alt="" coords="177,107,327,133"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a4703f5829904bd37f463d4cb3c459f70" title="f2fs_fiemap" alt="" coords="381,5,472,32"/>
-<area shape="rect" id="node5" href="$data_8c.html#abca108edab6ee402ec4835c8031fb239" title="f2fs_direct_IO" alt="" coords="375,56,479,83"/>
-<area shape="rect" id="node7" href="$data_8c.html#a9e327c6086cec636d0a867da17ef2d96" title="f2fs_bmap" alt="" coords="385,107,468,133"/>
-</map>

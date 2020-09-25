@@ -1,9 +1,0 @@
-<map id="fpos_frag" name="fpos_frag">
-<area shape="rect" id="node2" href="$ceph_2dir_8c.html#af75738585b73d43c56f3cd8eac82e8fb" title="fpos_hash" alt="" coords="154,56,237,83"/>
-<area shape="rect" id="node3" href="$ceph_2dir_8c.html#aa4b771c9022eac5ac95204f62334a9cf" title="need_send_readdir" alt="" coords="309,5,440,32"/>
-<area shape="rect" id="node4" href="$ceph_2dir_8c.html#a3cb51a307540663ec2faab7a20d2c67a" title="ceph_readdir" alt="" coords="488,81,584,108"/>
-<area shape="rect" id="node5" href="$ceph_2dir_8c.html#a255d6b0eb2e488bdd953b9c42f16b848" title="fpos_cmp" alt="" coords="156,157,235,184"/>
-<area shape="rect" id="node7" href="$ceph_2dir_8c.html#a1c9a7fd9568207b6dc0072447004e43c" title="need_reset_readdir" alt="" coords="129,208,261,235"/>
-<area shape="rect" id="node6" href="$ceph_2dir_8c.html#aa94c3969cd843b05ffbe990a4e678e5c" title="__dcache_readdir" alt="" coords="313,157,437,184"/>
-<area shape="rect" id="node8" href="$ceph_2dir_8c.html#a175e1f1cfa883efde728eb951ab70237" title="ceph_dir_llseek" alt="" coords="319,208,431,235"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="load_elf_interp" name="load_elf_interp">
-<area shape="rect" id="node2" href="$binfmt__elf_8c.html#ad6c96b32f6e527d2f8ec97d6d4581fe1" title="total_mapping_size" alt="" coords="160,5,295,32"/>
-<area shape="rect" id="node3" href="$binfmt__elf_8c.html#a5d00fc1a98e558a41f0490faf1d969d2" title="elf_map" alt="" coords="193,56,261,83"/>
-<area shape="rect" id="node4" href="$binfmt__elf_8c.html#a91185d8fafdd3ddafbd95a537e1cf3d9" title="padzero" alt="" coords="193,107,261,133"/>
-</map>

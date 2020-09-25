@@ -1,7 +1,0 @@
-<map id="decode_verifier" name="decode_verifier">
-<area shape="rect" id="node2" href="$nfs42xdr_8c.html#a60a6d093ebe029bdf4518d21754a13d7" title="decode_write_response" alt="" coords="164,5,323,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#aed43b708ac7d7a3cba70d5ce41ccabb3" title="decode_readdir" alt="" coords="188,56,299,83"/>
-<area shape="rect" id="node3" href="$nfs42xdr_8c.html#a278b0a82e273df2d84f5da0b5a42f1f6" title="decode_copy" alt="" coords="395,5,493,32"/>
-<area shape="rect" id="node4" href="$nfs42xdr_8c.html#a36e53f75aa4f7bac5ecd86673f096453" title="nfs4_xdr_dec_copy" alt="" coords="565,5,700,32"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a4acee6f8477d43600fa3c5248e89207f" title="nfs4_xdr_dec_readdir" alt="" coords="371,56,517,83"/>
-</map>

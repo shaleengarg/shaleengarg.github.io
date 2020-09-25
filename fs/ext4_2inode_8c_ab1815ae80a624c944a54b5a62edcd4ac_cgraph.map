@@ -1,7 +1,0 @@
-<map id="ext4_set_inode_flags" name="ext4_set_inode_flags">
-<area shape="rect" id="node2" href="$ext4_2inode_8c.html#a6ff32a0fe653ccdc9a6cb68c0cc07f0b" title="ext4_should_use_dax" alt="" coords="199,5,347,32"/>
-<area shape="rect" id="node5" href="$inode_8c.html#abd5f64c5d3de9831c52db188a3825839" title="inode_set_flags" alt="" coords="216,56,329,83"/>
-<area shape="rect" id="node3" href="$ext4__jbd2_8h.html#a35ab556b109173fda3d1115d31f81ee1" title="ext4_should_journal_data" alt="" coords="395,5,564,32"/>
-<area shape="rect" id="node4" href="$ext4__jbd2_8h.html#a2c994e4f6e8a7a887eaa53f810e001a6" title="ext4_inode_journal_mode" alt="" coords="612,5,781,32"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="410,56,549,83"/>
-</map>

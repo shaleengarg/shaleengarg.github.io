@@ -1,5 +1,0 @@
-<map id="ext4_valid_extent_idx" name="ext4_valid_extent_idx">
-<area shape="rect" id="node2" href="$ext4_2extents_8c.html#a31e03f02654b583004fc8e95181d9597" title="ext4_valid_extent_entries" alt="" coords="201,13,372,39"/>
-<area shape="rect" id="node3" href="$ext4_2extents_8c.html#a5c73aede2283eea0128bed6f6279c57c" title="__ext4_ext_check" alt="" coords="420,13,548,39"/>
-<area shape="rect" id="node4" href="$ext4_2extents_8c.html#aa44a8afd796582a75ba4ca44a0b89665" title="__read_extent_tree\l_block" alt="" coords="596,5,729,47"/>
-</map>

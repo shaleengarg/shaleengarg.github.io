@@ -1,9 +1,0 @@
-<map id="__ocfs2_write_remove_suid" name="__ocfs2_write_remove_suid">
-<area shape="rect" id="node2" href="$ocfs2_2file_8c.html#a3ae23d2cd0e73b145008a81c887e8ded" title="ocfs2_write_remove_suid" alt="" coords="237,21,408,47"/>
-<area shape="rect" id="node5" href="$ocfs2_2file_8c.html#ac2c9c4e55b03aed68fa9a18942658d92" title="__ocfs2_change_file\l_space" alt="" coords="252,76,393,117"/>
-<area shape="rect" id="node3" href="$ocfs2_2file_8c.html#af355906d91ed23b9cca0acd2dd67413e" title="ocfs2_prepare_inode\l_for_write" alt="" coords="469,5,612,47"/>
-<area shape="rect" id="node4" href="$ocfs2_2file_8c.html#a725b0f054793fb44e6d15cb7bbfbc057" title="ocfs2_file_write_iter" alt="" coords="673,11,812,38"/>
-<area shape="rect" id="node6" href="$file_8h.html#af4c99f98a67833a1076658ae4a048697" title="ocfs2_change_file_space" alt="" coords="456,83,625,110"/>
-<area shape="rect" id="node8" href="$ocfs2_2file_8c.html#afa7d4cd6ace12ff88f43e8df02eec9ed" title="ocfs2_fallocate" alt="" coords="485,134,596,161"/>
-<area shape="rect" id="node7" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="700,86,785,113"/>
-</map>

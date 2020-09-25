@@ -1,7 +1,0 @@
-<map id="__get_super_thawed" name="__get_super_thawed">
-<area shape="rect" id="node2" href="$super_8c.html#a34d095a686cebef29705deada15b9f4c" title="__get_super" alt="" coords="196,5,289,32"/>
-<area shape="rect" id="node6" href="$super_8c.html#ac29b0255e81405f2e9f69bae249af1e1" title="put_super" alt="" coords="203,56,282,83"/>
-<area shape="rect" id="node3" href="$super_8c.html#a3533b106df6dc38a0d0c6c3b4fd9d130" title="__put_super" alt="" coords="337,31,431,57"/>
-<area shape="rect" id="node4" href="$super_8c.html#ac18e1abceac6e84cf677a1ea4be14421" title="destroy_super_rcu" alt="" coords="479,31,608,57"/>
-<area shape="rect" id="node5" href="$super_8c.html#a627a37c41b63f3c8f96ef0206da0eed1" title="destroy_super_work" alt="" coords="656,31,795,57"/>
-</map>

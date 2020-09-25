@@ -1,7 +1,0 @@
-<map id="tree_insert" name="tree_insert">
-<area shape="rect" id="node2" href="$delayed-ref_8c.html#ad7091b6fa4a1695ed12f6841a282caa3" title="comp_refs" alt="" coords="136,93,219,120"/>
-<area shape="rect" id="node3" href="$delayed-ref_8c.html#aa8c3f00cebe1cebe4e26c467f9f19597" title="comp_tree_refs" alt="" coords="278,5,390,32"/>
-<area shape="rect" id="node4" href="$delayed-ref_8h.html#a2a4e57b0b414a2faea8fec58e11eb308" title="btrfs_delayed_node\l_to_tree_ref" alt="" coords="267,57,401,98"/>
-<area shape="rect" id="node5" href="$delayed-ref_8c.html#af889878996d3525ab5e24612b48905ec" title="comp_data_refs" alt="" coords="277,123,391,149"/>
-<area shape="rect" id="node6" href="$delayed-ref_8h.html#a6d0911aa5ac29a4dba9d229fd2887ac6" title="btrfs_delayed_node\l_to_data_ref" alt="" coords="267,174,401,215"/>
-</map>

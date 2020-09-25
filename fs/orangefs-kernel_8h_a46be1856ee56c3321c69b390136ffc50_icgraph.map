@@ -1,7 +1,0 @@
-<map id="orangefs_remount" name="orangefs_remount">
-<area shape="rect" id="node2" href="$devorangefs-req_8c.html#af749a7bd2ec8b2aba4b25d32693a5d2c" title="dispatch_ioctl_command" alt="" coords="180,8,347,35"/>
-<area shape="rect" id="node4" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="212,60,315,87"/>
-<area shape="rect" id="node3" href="$devorangefs-req_8c.html#a2b8d16f4dbc6403ba0c64a0757e1beea" title="orangefs_devreq_ioctl" alt="" coords="395,5,544,32"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="402,57,537,98"/>
-<area shape="rect" id="node6" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="592,64,741,91"/>
-</map>

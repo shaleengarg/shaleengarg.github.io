@@ -1,8 +1,0 @@
-<map id="fuse_init_inode" name="fuse_init_inode">
-<area shape="rect" id="node2" href="$fuse_2dir_8c.html#ab13ebf8cba3a6ddab7c67650a18a144d" title="fuse_init_common" alt="" coords="165,5,293,32"/>
-<area shape="rect" id="node3" href="$fuse_2file_8c.html#a06a9608b607200c9349cfa6e901481a1" title="fuse_init_file_inode" alt="" coords="163,56,296,83"/>
-<area shape="rect" id="node4" href="$fuse_2dir_8c.html#a8e5d3ea241d19fdfbd4f8698b2c862b7" title="fuse_init_dir" alt="" coords="183,107,275,133"/>
-<area shape="rect" id="node5" href="$fuse_2dir_8c.html#adcb8966f97cebbf7ebb2403d41923145" title="fuse_init_symlink" alt="" coords="168,157,291,184"/>
-<area shape="rect" id="node6" href="$inode_8c.html#aa992afd465d948c7fca769d396933c98" title="init_special_inode" alt="" coords="167,208,292,235"/>
-<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="344,208,483,235"/>
-</map>

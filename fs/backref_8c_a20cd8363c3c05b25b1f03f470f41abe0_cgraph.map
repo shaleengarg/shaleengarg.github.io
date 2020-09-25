@@ -1,7 +1,0 @@
-<map id="free_leaf_list" name="free_leaf_list">
-<area shape="rect" id="node2" href="$ulist_8c.html#a55010872110a7943c51e1eb9bf90fc5f" title="ulist_next" alt="" coords="193,5,271,32"/>
-<area shape="rect" id="node3" href="$backref_8c.html#af49ede52b18a434e44bb108ba28d54ee" title="unode_aux_to_inode_list" alt="" coords="149,56,315,83"/>
-<area shape="rect" id="node4" href="$backref_8c.html#af4c4ab2527bf9e46ac74947f602f85a6" title="free_inode_elem_list" alt="" coords="161,107,303,133"/>
-<area shape="rect" id="node5" href="$ulist_8c.html#a143429c891c7afec75d6f10ca475bd9c" title="ulist_free" alt="" coords="195,157,269,184"/>
-<area shape="rect" id="node6" href="$ulist_8c.html#a97281cf35ded52735b80b53c0b8d0725" title="ulist_release" alt="" coords="363,157,457,184"/>
-</map>

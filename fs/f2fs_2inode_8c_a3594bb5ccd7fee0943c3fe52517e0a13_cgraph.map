@@ -1,7 +1,0 @@
-<map id="f2fs_inode_chksum_set" name="f2fs_inode_chksum_set">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a5e5a7af5a4dc3c84a46515ec1dcbf51b" title="F2FS_NODE" alt="" coords="441,24,541,51"/>
-<area shape="rect" id="node3" href="$f2fs_2inode_8c.html#a7a08f0752edcf77c25466844661e496e" title="f2fs_enable_inode_chksum" alt="" coords="213,24,393,51"/>
-<area shape="rect" id="node4" href="$f2fs_2inode_8c.html#a111ba8a0cd32f8b27b47a7a5611c801e" title="f2fs_inode_chksum" alt="" coords="236,75,371,102"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a0d23b4e32aa26d1a337e2932bfb9a22d" title="f2fs_chksum" alt="" coords="443,75,540,102"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a2ee7f55a8733c57fd2f2e1f57f7eb695" title="__f2fs_crc32" alt="" coords="589,75,687,102"/>
-</map>

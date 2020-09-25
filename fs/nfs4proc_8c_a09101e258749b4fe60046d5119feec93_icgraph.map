@@ -1,7 +1,0 @@
-<map id="nfs_fixup_referral_attributes" name="nfs_fixup_referral_attributes">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#a3e15dbd181a8f0602c604a761a1cc53c" title="nfs4_get_referral" alt="" coords="176,31,295,57"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a929dfebb7c46e2a50b962955cf6ab4b0" title="nfs4_proc_lookup_common" alt="" coords="343,31,524,57"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a6423b20e5c89296eadd88743cf22c506" title="nfs4_proc_lookup" alt="" coords="607,5,731,32"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#ad2002474313255f81f5c111effe8f12f" title="nfs4_proc_lookup_mountpoint" alt="" coords="572,56,767,83"/>
-<area shape="rect" id="node6" href="$nfs4namespace_8c.html#abb583edebee636f6f7feccde9ab72225" title="nfs4_submount" alt="" coords="815,56,925,83"/>
-</map>

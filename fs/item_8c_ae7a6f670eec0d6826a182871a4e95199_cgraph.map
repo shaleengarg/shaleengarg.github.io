@@ -1,8 +1,0 @@
-<map id="config_group_find_item" name="config_group_find_item">
-<area shape="rect" id="node2" href="$item_8c.html#a0be0504285374a3ff29f885570596bf0" title="to_item" alt="" coords="209,56,275,83"/>
-<area shape="rect" id="node6" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="861,107,1000,133"/>
-<area shape="rect" id="node7" href="$item_8c.html#a2fe4c03cd5fb7c4aa54724629e3f8811" title="config_item_get" alt="" coords="335,157,449,184"/>
-<area shape="rect" id="node3" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="323,56,461,83"/>
-<area shape="rect" id="node4" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="509,5,651,32"/>
-<area shape="rect" id="node5" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="699,56,813,83"/>
-</map>

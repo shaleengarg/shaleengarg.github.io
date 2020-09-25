@@ -1,7 +1,0 @@
-<map id="dlm_copy_master_names" name="dlm_copy_master_names">
-<area shape="rect" id="node2" href="$dlm_2dir_8c.html#a878a1969acce76f98bc524146bb34e39" title="find_rsb_root" alt="" coords="230,31,327,57"/>
-<area shape="rect" id="node6" href="$dlm_2dir_8c.html#acf4f6c744d587c624cee0ff07f93eafa" title="dlm_dir_nodeid" alt="" coords="224,81,333,108"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="427,5,478,32"/>
-<area shape="rect" id="node4" href="$dlm_2lock_8c.html#a819dfea13f3e72ef232324fcec5dee4c" title="dlm_search_rsb_tree" alt="" coords="381,56,524,83"/>
-<area shape="rect" id="node5" href="$dlm_2lock_8c.html#adaf5f84c4313552e11c18da4186b1cf4" title="rsb_cmp" alt="" coords="572,56,644,83"/>
-</map>

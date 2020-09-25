@@ -1,7 +1,0 @@
-<map id="coda_statfs" name="coda_statfs">
-<area shape="rect" id="node2" href="$upcall_8c.html#a15ab81c004c1e3201ad318c6e1900ad2" title="venus_statfs" alt="" coords="144,31,241,57"/>
-<area shape="rect" id="node3" href="$upcall_8c.html#aaffa91d1c8a5e874e8758a27c22ce678" title="coda_upcall" alt="" coords="289,31,380,57"/>
-<area shape="rect" id="node4" href="$upcall_8c.html#a061b2aa3b8cfa2256c2f5e1211e5abdc" title="coda_waitfor_upcall" alt="" coords="428,31,565,57"/>
-<area shape="rect" id="node5" href="$upcall_8c.html#a9699b95512723ea903b752015912ce31" title="coda_block_signals" alt="" coords="621,5,757,32"/>
-<area shape="rect" id="node6" href="$upcall_8c.html#aec1f235e526b282dc5cf5368ac84bafd" title="coda_unblock_signals" alt="" coords="613,56,764,83"/>
-</map>

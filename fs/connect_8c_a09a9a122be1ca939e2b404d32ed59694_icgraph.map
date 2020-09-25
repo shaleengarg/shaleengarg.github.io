@@ -1,5 +1,0 @@
-<map id="ip_connect" name="ip_connect">
-<area shape="rect" id="node2" href="$connect_8c.html#a1b47924149caa3e58ba07ae3d2e4da4a" title="cifs_get_tcp_session" alt="" coords="139,5,284,32"/>
-<area shape="rect" id="node3" href="$connect_8c.html#a929008d2b39722c35a2fb06bbb6d290b" title="cifs_mount" alt="" coords="332,5,419,32"/>
-<area shape="rect" id="node4" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="467,5,573,32"/>
-</map>

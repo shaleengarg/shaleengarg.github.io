@@ -1,9 +1,0 @@
-<map id="nfsd4_run_cb_work" name="nfsd4_run_cb_work">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#a494186007263a9efb9a7ce7dcfdadb84" title="nfsd4_process_cb_update" alt="" coords="188,56,363,83"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#a327e9f4ae9c458012f1a833b3e5afae9" title="__nfsd4_find_backchannel" alt="" coords="411,5,587,32"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#ac4ff4f66e1dce05fa8066f13cff6ba0d" title="setup_callback_client" alt="" coords="425,56,572,83"/>
-<area shape="rect" id="node7" href="$nfs4callback_8c.html#a2756747a2b16cd7072043925fdb501af" title="nfsd4_mark_cb_down" alt="" coords="424,107,573,133"/>
-<area shape="rect" id="node5" href="$nfs4callback_8c.html#aa5ef2b6cd8b90a240260877ec2ecb027" title="max_cb_time" alt="" coords="664,5,764,32"/>
-<area shape="rect" id="node6" href="$nfs4callback_8c.html#ae9875db1646f270021cf40c452e70908" title="get_backchannel_cred" alt="" coords="638,56,790,83"/>
-<area shape="rect" id="node8" href="$nfs4callback_8c.html#a4ea3315b5f458ddb5ff0a3c9734b430f" title="warn_no_callback_path" alt="" coords="635,107,793,133"/>
-</map>

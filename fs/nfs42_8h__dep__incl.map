@@ -1,6 +1,0 @@
-<map id="nfs/nfs42.h" name="nfs/nfs42.h">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html" title="nfs/flexfilelayout\l/flexfilelayout.c" alt="" coords="5,80,123,121"/>
-<area shape="rect" id="node3" href="$nfs42proc_8c.html" title="nfs/nfs42proc.c" alt="" coords="147,87,259,114"/>
-<area shape="rect" id="node4" href="$nfs42xdr_8c.html" title="nfs/nfs42xdr.c" alt="" coords="282,87,387,114"/>
-<area shape="rect" id="node5" href="$pnfs_8c.html" title="nfs/pnfs.c" alt="" coords="411,87,491,114"/>
-</map>

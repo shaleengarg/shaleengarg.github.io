@@ -1,6 +1,0 @@
-<map id="ntfs_lookup_inode_by_name" name="ntfs_lookup_inode_by_name">
-<area shape="rect" id="node2" href="$ntfs_2super_8c.html#a3ac011e0fc26b08a55c6105af8a6aa9d" title="ntfs_setup_allocators" alt="" coords="240,5,387,32"/>
-<area shape="rect" id="node5" href="$ntfs_2namei_8c.html#a0ffa88e6d3aa875d3313c7b039c61bf8" title="ntfs_lookup" alt="" coords="269,56,358,83"/>
-<area shape="rect" id="node3" href="$ntfs_2super_8c.html#a1afed2018068359ea80abae0cf8c4c96" title="ntfs_fill_super" alt="" coords="435,5,537,32"/>
-<area shape="rect" id="node4" href="$ntfs_2super_8c.html#a56d671e0fc29d48f7d8da76a48de59f2" title="ntfs_mount" alt="" coords="585,5,672,32"/>
-</map>

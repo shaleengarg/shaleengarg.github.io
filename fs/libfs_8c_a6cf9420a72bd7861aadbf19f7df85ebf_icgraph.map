@@ -1,7 +1,0 @@
-<map id="simple_lookup" name="simple_lookup">
-<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="178,5,253,32"/>
-<area shape="rect" id="node4" href="$ramfs_2inode_8c.html#a22ddff08c35237ba1cde62e99de73e8e" title="ramfs_symlink" alt="" coords="162,56,269,83"/>
-<area shape="rect" id="node5" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="159,107,272,133"/>
-<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="320,5,437,32"/>
-<area shape="rect" id="node6" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="330,107,427,133"/>
-</map>

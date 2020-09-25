@@ -1,5 +1,0 @@
-<map id="smb2_verify_signature" name="smb2_verify_signature">
-<area shape="rect" id="node2" href="$smb2transport_8c.html#aa08940b0a654fe8f37d861afa6c031ef" title="smb2_check_receive" alt="" coords="207,5,352,32"/>
-<area shape="rect" id="node3" href="$smb2pdu_8c.html#af4c228e8566f4022cc4ccacde9acedf8" title="smb2_writev_callback" alt="" coords="400,5,551,32"/>
-<area shape="rect" id="node4" href="$smb2proto_8h.html#addf4bc8868e1e32f7f1dc7168f0a4260" title="smb2_async_writev" alt="" coords="599,5,737,32"/>
-</map>

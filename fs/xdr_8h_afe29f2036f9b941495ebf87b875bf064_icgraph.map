@@ -1,6 +1,0 @@
-<map id="nfs2svc_decode_fh" name="nfs2svc_decode_fh">
-<area shape="rect" id="node2" href="$nfs2acl_8c.html#a89fe31f8aa236d68be18d8026b8aa897" title="nfsaclsvc_decode_getaclargs" alt="" coords="191,5,386,32"/>
-<area shape="rect" id="node3" href="$nfs2acl_8c.html#a5fd144f9b5a8a68e3a4e2c9394d2d6d6" title="nfsaclsvc_decode_setaclargs" alt="" coords="191,56,386,83"/>
-<area shape="rect" id="node4" href="$nfs2acl_8c.html#a61e6cbf10e51a904e9b0c04dc39649af" title="nfsaclsvc_decode_fhandleargs" alt="" coords="188,107,389,133"/>
-<area shape="rect" id="node5" href="$nfs2acl_8c.html#ab3a70cf58638903e810f8fac71ecf2c4" title="nfsaclsvc_decode_accessargs" alt="" coords="188,157,389,184"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="internal_delete_pointers_items" name="internal_delete_pointers_items">
-<area shape="rect" id="node2" href="$do__balan_8c.html#a4629932644adc896867490787a348adc" title="make_empty_node" alt="" coords="212,5,344,32"/>
-<area shape="rect" id="node3" href="$reiserfs_8h.html#a217596f2d243c107da5efba998900f0a" title="internal_key" alt="" coords="232,56,324,83"/>
-<area shape="rect" id="node5" href="$prints_8c.html#a8603f71d52465b85aaf7309890b3bb0c" title="check_internal" alt="" coords="225,107,331,133"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a7a6dac47406663c737862809fcf4d74e" title="reiserfs_node_data" alt="" coords="415,56,547,83"/>
-<area shape="rect" id="node6" href="$prints_8c.html#ab0ecc95176942a7feebf7b16fa1c2b92" title="check_internal_block_head" alt="" coords="392,107,571,133"/>
-</map>

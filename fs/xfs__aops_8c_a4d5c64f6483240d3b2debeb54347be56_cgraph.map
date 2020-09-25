@@ -1,8 +1,0 @@
-<map id="xfs_end_bio" name="xfs_end_bio">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#abe53bf47d7d5e603159ed1ef612027c5" title="XFS_I" alt="" coords="380,5,439,32"/>
-<area shape="rect" id="node3" href="$xfs__aops_8c.html#a29dd60623b65074fac57e5ffc0e4ac1f" title="xfs_destroy_ioend" alt="" coords="145,56,273,83"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#a280b8b00614cdcb5853cfc0010e9e05b" title="xfs_finish_page_writeback" alt="" coords="321,56,497,83"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a0c5a9b93af2e1cc8bdeb45d23f5fd4fd" title="mark_buffer_write_io\l_error" alt="" coords="545,19,688,61"/>
-<area shape="rect" id="node7" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="567,85,667,112"/>
-<area shape="rect" id="node6" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="736,56,875,83"/>
-</map>

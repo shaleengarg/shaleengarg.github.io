@@ -1,6 +1,0 @@
-<map id="asn1_header_decode" name="asn1_header_decode">
-<area shape="rect" id="node2" href="$asn1_8c.html#a5e0f50f8b5cff5e4e01434cd0081a5d4" title="asn1_id_decode" alt="" coords="199,23,315,49"/>
-<area shape="rect" id="node5" href="$asn1_8c.html#aee23923c360560414e4224622e9b7b7d" title="asn1_length_decode" alt="" coords="363,73,504,100"/>
-<area shape="rect" id="node3" href="$asn1_8c.html#a97bcdee44456c3f4f36ed9a8dec796ce" title="asn1_octet_decode" alt="" coords="552,23,687,49"/>
-<area shape="rect" id="node4" href="$asn1_8c.html#a990e3a51bd07dcef6afb0db327581eac" title="asn1_tag_decode" alt="" coords="371,23,495,49"/>
-</map>

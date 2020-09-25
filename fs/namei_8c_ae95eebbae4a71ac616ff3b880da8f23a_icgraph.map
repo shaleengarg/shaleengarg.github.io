@@ -1,6 +1,0 @@
-<map id="do_file_open_root" name="do_file_open_root">
-<area shape="rect" id="node2" href="$open_8c.html#a2659e3bd875a373caf1ed617b8a2f235" title="file_open_root" alt="" coords="177,31,280,57"/>
-<area shape="rect" id="node3" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="336,5,436,32"/>
-<area shape="rect" id="node4" href="$fhandle_8c.html#a1249178e0b4cc93fb6d8a341e22c3816" title="do_handle_open" alt="" coords="328,56,444,83"/>
-<area shape="rect" id="node5" href="$fhandle_8c.html#a98d0611b3327939a216e5ead6147e729" title="SYSCALL_DEFINE3" alt="" coords="492,56,639,83"/>
-</map>

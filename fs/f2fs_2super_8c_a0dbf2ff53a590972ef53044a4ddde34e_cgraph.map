@@ -1,7 +1,0 @@
-<map id="f2fs_statfs" name="f2fs_statfs">
-<area shape="rect" id="node2" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="161,5,240,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#ae72aed3be496d850be5d309898bbf056" title="valid_user_blocks" alt="" coords="137,56,264,83"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#aed9f6e2862079e965feb3376f601ce5f" title="valid_node_count" alt="" coords="139,107,262,133"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#ad89878e257c7564d31651c368d4dd540" title="is_inode_flag_set" alt="" coords="139,157,262,184"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="312,183,377,209"/>
-</map>

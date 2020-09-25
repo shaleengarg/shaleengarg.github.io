@@ -1,6 +1,0 @@
-<map id="fuse_device_clone" name="fuse_device_clone">
-<area shape="rect" id="node2" href="$fuse__i_8h.html#a68acd67c9ffc4df6e8c8a6ac559cd7ed" title="fuse_dev_alloc" alt="" coords="184,56,293,83"/>
-<area shape="rect" id="node3" href="$fuse_2inode_8c.html#acd2d6120f0cdf31a585307aa76999fe9" title="fuse_conn_get" alt="" coords="348,5,455,32"/>
-<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="509,31,681,57"/>
-<area shape="rect" id="node5" href="$fuse_2inode_8c.html#a7904c5cd5e644db5e8f7d9a00d2b3856" title="fuse_pqueue_init" alt="" coords="341,107,461,133"/>
-</map>

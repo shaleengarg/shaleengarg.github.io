@@ -1,5 +1,0 @@
-<map id="receive_convert_args" name="receive_convert_args">
-<area shape="rect" id="node2" href="$dlm_2lock_8c.html#aee5fee66260eec914fab6007986dae41" title="receive_lvb" alt="" coords="200,31,288,57"/>
-<area shape="rect" id="node3" href="$memory_8c.html#a296cd0ade9f165d66a268dbf6b1c9bd9" title="dlm_allocate_lvb" alt="" coords="336,5,455,32"/>
-<area shape="rect" id="node4" href="$dlm_2lock_8c.html#a26aefa5f2d78c37190b062b8d453bf7c" title="receive_extralen" alt="" coords="337,56,454,83"/>
-</map>

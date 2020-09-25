@@ -1,4 +1,0 @@
-<map id="jbd2_journal_try_to_free_buffers" name="jbd2_journal_try_to_free_buffers">
-<area shape="rect" id="node2" href="$ext4_2inode_8c.html#ae1106b5a1edb576ff6d9fe74eb731cfb" title="ext4_releasepage" alt="" coords="199,5,323,32"/>
-<area shape="rect" id="node3" href="$ext4_2super_8c.html#ac8bf02d8ba26312b685d75ca2ac87b20" title="bdev_try_to_free_page" alt="" coords="184,56,339,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="jffs2_remove_node_refs_from_ino_list" name="jffs2_remove_node_refs_from_ino_list">
-<area shape="rect" id="node2" href="$jffs2_2xattr_8c.html#a11aa0170617064eeda6a206aa4ea4690" title="jffs2_release_xattr\l_datum" alt="" coords="225,5,355,47"/>
-<area shape="rect" id="node3" href="$jffs2_2xattr_8c.html#a08d44196e655bc06001b18971dca4fe1" title="jffs2_release_xattr_ref" alt="" coords="215,71,365,98"/>
-<area shape="rect" id="node4" href="$nodelist_8c.html#aa0176cea494d87d3c51766a37140dc18" title="jffs2_del_ino_cache" alt="" coords="221,122,359,149"/>
-<area shape="rect" id="node5" href="$malloc_8c.html#a3051762b89b1a402dc582639f7b6fd67" title="jffs2_free_inode_cache" alt="" coords="413,122,569,149"/>
-</map>

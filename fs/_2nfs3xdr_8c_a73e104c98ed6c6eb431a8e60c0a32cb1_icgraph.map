@@ -1,8 +1,0 @@
-<map id="encode_wcc_data" name="encode_wcc_data">
-<area shape="rect" id="node2" href="$xdr3_8h.html#a222f0516fdd9ab1d54e9482d00bd8f1f" title="nfs3svc_encode_wccstat" alt="" coords="187,5,358,32"/>
-<area shape="rect" id="node3" href="$xdr3_8h.html#a99386310a6b2b9b437748d039fac31a3" title="nfs3svc_encode_writeres" alt="" coords="187,56,358,83"/>
-<area shape="rect" id="node4" href="$xdr3_8h.html#a18bc246f6a2fe7462af2d952cecfc64e" title="nfs3svc_encode_createres" alt="" coords="183,107,362,133"/>
-<area shape="rect" id="node5" href="$xdr3_8h.html#ad110bdbf5c75d28692bdd1020cb4374f" title="nfs3svc_encode_renameres" alt="" coords="180,157,365,184"/>
-<area shape="rect" id="node6" href="$xdr3_8h.html#ad0d5ce545ae0b8d7d49498b50439d78b" title="nfs3svc_encode_linkres" alt="" coords="191,208,354,235"/>
-<area shape="rect" id="node7" href="$xdr3_8h.html#ac0ecfc9c29ab89c799dce615b105fcda" title="nfs3svc_encode_commitres" alt="" coords="180,259,365,285"/>
-</map>

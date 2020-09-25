@@ -1,5 +1,0 @@
-<map id="nfs4_alloc_slot" name="nfs4_alloc_slot">
-<area shape="rect" id="node2" href="$nfs4session_8c.html#a1b8596f0771e688c405ee009adc830d4" title="nfs4_find_or_create_slot" alt="" coords="163,5,327,32"/>
-<area shape="rect" id="node4" href="$nfs4session_8c.html#a49336b7e8b2d96f81a9b920f587d7a27" title="nfs4_lock_slot" alt="" coords="191,56,298,83"/>
-<area shape="rect" id="node3" href="$nfs4session_8c.html#aa541623176dc49b6d9325d5238ddd4eb" title="nfs4_new_slot" alt="" coords="375,5,481,32"/>
-</map>

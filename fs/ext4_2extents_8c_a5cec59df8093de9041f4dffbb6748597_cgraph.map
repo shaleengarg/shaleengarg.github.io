@@ -1,5 +1,0 @@
-<map id="ext4_ext_binsearch" name="ext4_ext_binsearch">
-<area shape="rect" id="node2" href="$ext4__extents_8h.html#acced82c0f599b9be9515b06a3850c724" title="ext4_ext_pblock" alt="" coords="211,5,328,32"/>
-<area shape="rect" id="node3" href="$ext4__extents_8h.html#a34786205ab7f44e45880b807bad94041" title="ext4_ext_is_unwritten" alt="" coords="195,56,344,83"/>
-<area shape="rect" id="node4" href="$ext4__extents_8h.html#a54c940ed94057b27143f08e7cb554864" title="ext4_ext_get_actual_len" alt="" coords="188,107,351,133"/>
-</map>

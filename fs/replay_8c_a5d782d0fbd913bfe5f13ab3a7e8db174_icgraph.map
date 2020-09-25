@@ -1,7 +1,0 @@
-<map id="validate_ref" name="validate_ref">
-<area shape="rect" id="node2" href="$replay_8c.html#afc69bf474cbe8a69ea2bfea0494745df" title="replay_log_leb" alt="" coords="143,5,248,32"/>
-<area shape="rect" id="node3" href="$ubifs_8h.html#af76f722fe22c9c52675c75c16369d414" title="ubifs_replay_journal" alt="" coords="296,5,433,32"/>
-<area shape="rect" id="node4" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="481,5,575,32"/>
-<area shape="rect" id="node5" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="623,5,732,32"/>
-<area shape="rect" id="node6" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="780,5,873,32"/>
-</map>

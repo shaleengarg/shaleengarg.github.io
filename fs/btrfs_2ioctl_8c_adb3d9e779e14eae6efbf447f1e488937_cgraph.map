@@ -1,9 +1,0 @@
-<map id="btrfs_ioctl_get_dev_stats" name="btrfs_ioctl_get_dev_stats">
-<area shape="rect" id="node2" href="$volumes_8c.html#a637f06d08a8ab42a6bcd02997e00f9d3" title="btrfs_get_dev_stats" alt="" coords="185,93,323,120"/>
-<area shape="rect" id="node3" href="$volumes_8c.html#a6beb7016fa29392d3b9bab6beba52ab4" title="btrfs_find_device" alt="" coords="381,5,502,32"/>
-<area shape="rect" id="node5" href="$volumes_8h.html#aab054d3339c9bab46a2105ed129a453f" title="btrfs_dev_stat_read\l_and_reset" alt="" coords="373,57,510,98"/>
-<area shape="rect" id="node6" href="$volumes_8h.html#a988cb9e5db3c2d7f26d9d40412e85c2d" title="btrfs_dev_stat_reset" alt="" coords="371,123,512,149"/>
-<area shape="rect" id="node8" href="$volumes_8h.html#a001e4d4c3bfff212faa0d614efafe7dd" title="btrfs_dev_stat_read" alt="" coords="373,173,510,200"/>
-<area shape="rect" id="node4" href="$volumes_8c.html#afa8ca043b13dda92c03dfea32c5d6f0e" title="find_device" alt="" coords="581,5,669,32"/>
-<area shape="rect" id="node7" href="$volumes_8h.html#a9ee0c23b7b83f5989e1a91274a1af756" title="btrfs_dev_stat_set" alt="" coords="560,123,691,149"/>
-</map>

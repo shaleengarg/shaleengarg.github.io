@@ -1,5 +1,0 @@
-<map id="fuse_notify" name="fuse_notify">
-<area shape="rect" id="node2" href="$fuse_2dev_8c.html#a6457a22d444de23b361f5f4896c4107a" title="fuse_dev_do_write" alt="" coords="140,31,271,57"/>
-<area shape="rect" id="node3" href="$fuse_2dev_8c.html#a7c53fba56d0048fb9f7b064f1c51710a" title="fuse_dev_write" alt="" coords="339,5,449,32"/>
-<area shape="rect" id="node4" href="$fuse_2dev_8c.html#a5a934876338b1b8c7d5ca55ebcfea1be" title="fuse_dev_splice_write" alt="" coords="319,56,469,83"/>
-</map>

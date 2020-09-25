@@ -1,8 +1,0 @@
-<map id="ext4_es_find_delayed_extent_range" name="ext4_es_find_delayed_extent_range">
-<area shape="rect" id="node2" href="$extents__status_8h.html#a501828682c0abccbb82d7ece9451e705" title="ext4_es_pblock" alt="" coords="213,5,327,32"/>
-<area shape="rect" id="node3" href="$extents__status_8h.html#aff960667fe870906066044b4766a59eb" title="ext4_es_status" alt="" coords="215,56,325,83"/>
-<area shape="rect" id="node4" href="$extents__status_8c.html#a135eae32abd1c7c18b9c8c3ec08ab9d2" title="__es_tree_search" alt="" coords="207,107,333,133"/>
-<area shape="rect" id="node6" href="$extents__status_8h.html#a972dc8df744c978d8b8a4ebddb44e4d0" title="ext4_es_is_delayed" alt="" coords="201,157,339,184"/>
-<area shape="rect" id="node5" href="$extents__status_8c.html#ab5dd31e66e4605653b8fd1c797922fa7" title="ext4_es_end" alt="" coords="389,107,485,133"/>
-<area shape="rect" id="node7" href="$extents__status_8h.html#ac74cf4e8a973bd3ed3cc80541e09c612" title="ext4_es_type" alt="" coords="387,157,487,184"/>
-</map>

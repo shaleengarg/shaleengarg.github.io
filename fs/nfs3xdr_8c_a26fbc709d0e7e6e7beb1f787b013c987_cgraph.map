@@ -1,6 +1,0 @@
-<map id="nfs3_xdr_enc_setattr3args" name="nfs3_xdr_enc_setattr3args">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a77925b2eaeb401394e4c4dd7bb6e67db" title="encode_nfs_fh3" alt="" coords="240,5,355,32"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#aa9736c5cfa5786059fd2f0fba356a543" title="encode_sattr3" alt="" coords="245,56,349,83"/>
-<area shape="rect" id="node5" href="$nfs3xdr_8c.html#ad66ec80c3c8f93de316266e061dff479" title="encode_sattrguard3" alt="" coords="229,107,365,133"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#a7a7b63ad77e579e406e1ef542c82ea33" title="xdr_encode_nfstime3" alt="" coords="413,81,560,108"/>
-</map>

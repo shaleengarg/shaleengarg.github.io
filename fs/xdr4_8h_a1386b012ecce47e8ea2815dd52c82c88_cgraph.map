@@ -1,5 +1,0 @@
-<map id="nfsd4_backchannel_ctl" name="nfsd4_backchannel_ctl">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#ab7f1bff8a6d87a5c6180aeeba904bab3" title="nfsd4_check_cb_sec" alt="" coords="209,5,355,32"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#a654ca3fbc093c0d6c31809694c864d0d" title="nfsd4_probe_callback" alt="" coords="208,56,356,83"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#aa2419b4d6939e1664efcf05d0dbd3208" title="nfsd4_run_cb" alt="" coords="404,56,504,83"/>
-</map>

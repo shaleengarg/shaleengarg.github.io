@@ -1,6 +1,0 @@
-<map id="redirty_tail" name="redirty_tail">
-<area shape="rect" id="node2" href="$fs-writeback_8c.html#ad780ecdcb38af13c1820738c8c744833" title="wb_inode" alt="" coords="164,5,241,32"/>
-<area shape="rect" id="node3" href="$fs-writeback_8c.html#a2a36a21e075aa2a912f5c3cb027692cf" title="inode_io_list_move\l_locked" alt="" coords="136,57,269,98"/>
-<area shape="rect" id="node4" href="$fs-writeback_8c.html#ad9e6fcccf4baffa8e6c91881c6e428a9" title="wb_io_lists_populated" alt="" coords="324,39,475,65"/>
-<area shape="rect" id="node5" href="$fs-writeback_8c.html#aa31b94b7a70c8c8d396a5f0f3e8ef1ec" title="wb_io_lists_depopulated" alt="" coords="317,89,481,116"/>
-</map>

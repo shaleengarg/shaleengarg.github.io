@@ -1,5 +1,0 @@
-<map id="ocfs2_mknod_credits" name="ocfs2_mknod_credits">
-<area shape="rect" id="node2" href="$journal_8h.html#a0928d79d06a8a53f9d8f6b53b3cf5121" title="ocfs2_add_dir_index\l_credits" alt="" coords="217,5,358,47"/>
-<area shape="rect" id="node4" href="$journal_8h.html#a391304dfb5d31cd15d53a18e459e0194" title="ocfs2_quota_trans_credits" alt="" coords="200,71,375,98"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#ac2f56aa03d88002b636baddba9bee355" title="ocfs2_clusters_to_blocks" alt="" coords="423,13,593,39"/>
-</map>

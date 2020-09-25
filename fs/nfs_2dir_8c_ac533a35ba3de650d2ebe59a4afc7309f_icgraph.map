@@ -1,7 +1,0 @@
-<map id="nfs_readdir_inode_mapping_valid" name="nfs_readdir_inode_mapping_valid">
-<area shape="rect" id="node2" href="$nfs_2dir_8c.html#a1ec8e96de972f24e71d1cce39e961c4c" title="nfs_readdir_search\l_for_cookie" alt="" coords="233,5,365,47"/>
-<area shape="rect" id="node3" href="$nfs_2dir_8c.html#a3147048b7bac392ec47c18da20570f8e" title="nfs_readdir_search\l_array" alt="" coords="413,5,545,47"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a88446eb53e70438928b0c8ab78677ced" title="find_cache_page" alt="" coords="593,13,713,39"/>
-<area shape="rect" id="node5" href="$nfs_2dir_8c.html#a41bd87f99dae30d6a168f7e45b7ceb6a" title="readdir_search_pagecache" alt="" coords="761,13,939,39"/>
-<area shape="rect" id="node6" href="$nfs_2dir_8c.html#a0b6b30638a474336787a55092c3ccc71" title="nfs_readdir" alt="" coords="987,13,1073,39"/>
-</map>

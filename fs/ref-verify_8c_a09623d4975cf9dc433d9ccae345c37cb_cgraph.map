@@ -1,7 +1,0 @@
-<map id="add_shared_data_ref" name="add_shared_data_ref">
-<area shape="rect" id="node2" href="$ref-verify_8c.html#aeacc18173a366d7ecd0a22c18d000c9d" title="add_block_entry" alt="" coords="196,56,313,83"/>
-<area shape="rect" id="node5" href="$ref-verify_8c.html#a955803c5d0385e3f420a549ebcf7e6d9" title="insert_ref_entry" alt="" coords="199,107,311,133"/>
-<area shape="rect" id="node3" href="$ref-verify_8c.html#a947a57760ecef298345b3546497ea110" title="insert_block_entry" alt="" coords="361,5,489,32"/>
-<area shape="rect" id="node4" href="$ref-verify_8c.html#a55fdcbe1a0bb35c18ddf1aff8bca1fde" title="insert_root_entry" alt="" coords="366,56,485,83"/>
-<area shape="rect" id="node6" href="$ref-verify_8c.html#a8900e178285251a18693393846fbbd31" title="comp_refs" alt="" coords="384,107,467,133"/>
-</map>

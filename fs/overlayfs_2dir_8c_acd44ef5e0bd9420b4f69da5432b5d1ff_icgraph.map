@@ -1,6 +1,0 @@
-<map id="ovl_pure_upper" name="ovl_pure_upper">
-<area shape="rect" id="node2" href="$overlayfs_2dir_8c.html#a8f19b3e86a70725ac978fd7dc85ecfd5" title="ovl_do_remove" alt="" coords="164,31,275,57"/>
-<area shape="rect" id="node5" href="$overlayfs_2dir_8c.html#ae9b3c9db31a50dea2d1754dca9ccf74b" title="ovl_rename" alt="" coords="175,81,264,108"/>
-<area shape="rect" id="node3" href="$overlayfs_2dir_8c.html#ae177680fbff83597ba0aaee4483eec1d" title="ovl_unlink" alt="" coords="323,5,403,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2dir_8c.html#ace06ec42dcee809c569cf778d05d3b4f" title="ovl_rmdir" alt="" coords="325,56,400,83"/>
-</map>

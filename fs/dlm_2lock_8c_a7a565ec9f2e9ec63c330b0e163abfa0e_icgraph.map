@@ -1,6 +1,0 @@
-<map id="purge_proc_locks" name="purge_proc_locks">
-<area shape="rect" id="node2" href="$lock_8h.html#aa91530816d82aa250f09b66c4a4e81e3" title="dlm_user_purge" alt="" coords="177,5,292,32"/>
-<area shape="rect" id="node3" href="$user_8c.html#a843e117ad926fd507b896d4b23b77e93" title="device_user_purge" alt="" coords="340,5,471,32"/>
-<area shape="rect" id="node4" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="519,5,613,32"/>
-<area shape="rect" id="node5" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="661,5,809,32"/>
-</map>

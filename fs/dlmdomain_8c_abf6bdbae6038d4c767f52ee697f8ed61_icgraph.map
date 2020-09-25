@@ -1,6 +1,0 @@
-<map id="dlm_query_join_proto_check" name="dlm_query_join_proto_check">
-<area shape="rect" id="node2" href="$dlmdomain_8c.html#a7608a3970037514d207c376afe3190e4" title="dlm_query_join_handler" alt="" coords="199,13,357,39"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#adbe948e541ae35aec89e5c151f1beac6" title="dlm_register_net_handlers" alt="" coords="405,13,580,39"/>
-<area shape="rect" id="node4" href="$dlmdomain_8c.html#addbf35211d5ebd40c5524f13ab9b65c0" title="dlm_init" alt="" coords="628,13,695,39"/>
-<area shape="rect" id="node5" href="$dlmdomain_8c.html#a3113f67c1f3d6ef0188e7b5bd9716e23" title="dlm_exit" alt="" coords="743,13,813,39"/>
-</map>

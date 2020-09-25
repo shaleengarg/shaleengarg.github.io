@@ -1,6 +1,0 @@
-<map id="afs_flat_call_destructor" name="afs_flat_call_destructor">
-<area shape="rect" id="node2" href="$fsclient_8c.html#a5a82e739558895e17310240e6db93b42" title="afs_fetch_data_destructor" alt="" coords="211,5,384,32"/>
-<area shape="rect" id="node3" href="$fsclient_8c.html#a46bb7da393d2801dc5f60753cb43741d" title="afs_get_volume_status\l_call_destructor" alt="" coords="219,57,376,98"/>
-<area shape="rect" id="node4" href="$vlclient_8c.html#a44623b49a86b063831f2925871fea051" title="afs_destroy_vl_get\l_entry_by_name_u" alt="" coords="231,122,363,163"/>
-<area shape="rect" id="node5" href="$vlclient_8c.html#aa1c6b441cc8556f9218622c6796b457d" title="afs_vl_get_addrs_u\l_destructor" alt="" coords="230,187,365,229"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="submit_flush_wait" name="submit_flush_wait">
-<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#a02806391b9463369357795d5970ce49d" title="__submit_flush_wait" alt="" coords="180,5,321,32"/>
-<area shape="rect" id="node4" href="$f2fs_2checkpoint_8c.html#a20cafa430a9e29dbcab90c7e9cc594f5" title="is_dirty_device" alt="" coords="196,56,305,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a94fccd5613fad80a0f2682c4c6a9c3f5" title="f2fs_bio_alloc" alt="" coords="369,5,472,32"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a8519ed4a7ad303d626d8724becfba5e1" title="f2fs_test_bit" alt="" coords="373,56,468,83"/>
-</map>

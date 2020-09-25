@@ -1,5 +1,0 @@
-<map id="init_once" name="init_once">
-<area shape="rect" id="node2" href="$minix_2inode_8c.html#a383280e7241ecff259afb2e90b1241b3" title="init_inodecache" alt="" coords="128,5,240,32"/>
-<area shape="rect" id="node3" href="$minix_2inode_8c.html#a2bc539c59cac5b37accfbf61d49f7aa2" title="init_minix_fs" alt="" coords="288,5,383,32"/>
-<area shape="rect" id="node4" href="$minix_2inode_8c.html#a98f62823231409d83ef9306a94a20bb2" title="exit_minix_fs" alt="" coords="431,5,529,32"/>
-</map>

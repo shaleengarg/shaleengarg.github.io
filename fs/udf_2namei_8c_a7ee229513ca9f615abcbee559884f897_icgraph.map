@@ -1,8 +1,0 @@
-<map id="udf_match" name="udf_match">
-<area shape="rect" id="node2" href="$udf_2namei_8c.html#a6196b15727e352f3c442456c950503b5" title="udf_find_entry" alt="" coords="136,107,240,133"/>
-<area shape="rect" id="node3" href="$udf_2namei_8c.html#a52be3263022f322347db0d232df08068" title="udf_lookup" alt="" coords="299,5,385,32"/>
-<area shape="rect" id="node4" href="$udf_2namei_8c.html#a0ab283e6499c2642677a688f96627d72" title="udf_rmdir" alt="" coords="304,56,380,83"/>
-<area shape="rect" id="node5" href="$udf_2namei_8c.html#ad9372cf63ce4cf456960f635c5ac9ae6" title="udf_unlink" alt="" coords="301,107,383,133"/>
-<area shape="rect" id="node6" href="$udf_2namei_8c.html#ab19346a74adb4ca49c8fd3a6883cfd69" title="udf_rename" alt="" coords="297,157,387,184"/>
-<area shape="rect" id="node7" href="$udf_2namei_8c.html#a3fbe1b3d94722a255d0b48e68d37839e" title="udf_get_parent" alt="" coords="288,208,396,235"/>
-</map>

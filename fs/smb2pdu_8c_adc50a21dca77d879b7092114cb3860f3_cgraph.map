@@ -1,6 +1,0 @@
-<map id="smb2_echo_callback" name="smb2_echo_callback">
-<area shape="rect" id="node2" href="$cifsproto_8h.html#ae7447cf8cd38e54e560785d316f90f87" title="DeleteMidQEntry" alt="" coords="197,31,320,57"/>
-<area shape="rect" id="node5" href="$cifsglob_8h.html#a6118f29aa4ef772eb586b83e2e12f7f6" title="add_credits" alt="" coords="214,81,303,108"/>
-<area shape="rect" id="node3" href="$cifsproto_8h.html#a4493a45ab37187722dfc079c5189fa37" title="cifs_buf_release" alt="" coords="387,5,504,32"/>
-<area shape="rect" id="node4" href="$cifsproto_8h.html#a3f6c2c1cd609fd4c1d02f496ad371dd7" title="cifs_small_buf_release" alt="" coords="368,56,523,83"/>
-</map>

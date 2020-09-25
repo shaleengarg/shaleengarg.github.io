@@ -1,5 +1,0 @@
-<map id="o2net_fill_node_map" name="o2net_fill_node_map">
-<area shape="rect" id="node2" href="$tcp_8h.html#a0a5bc8293599d91a070c109a74304b54" title="o2net_fill_node_map" alt="" coords="195,29,336,56"/>
-<area shape="rect" id="node3" href="$stack__o2cb_8c.html#a97a9aa8204648bb56c1d511dc3de5644" title="o2cb_cluster_check" alt="" coords="384,55,523,81"/>
-<area shape="rect" id="node4" href="$stack__o2cb_8c.html#a6fbec0ac0199f1beacbae9a3ad9d23ef" title="o2cb_cluster_connect" alt="" coords="571,55,720,81"/>
-</map>

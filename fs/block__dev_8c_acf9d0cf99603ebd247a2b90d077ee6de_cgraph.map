@@ -1,7 +1,0 @@
-<map id="invalidate_bdev" name="invalidate_bdev">
-<area shape="rect" id="node2" href="$buffer_8c.html#af8b15597acd224dfa04357309707cfd4" title="invalidate_bh_lrus" alt="" coords="171,56,298,83"/>
-<area shape="rect" id="node6" href="$block__dev_8c.html#ad8301dbb3297e4ea3063019db7183347" title="EXPORT_SYMBOL" alt="" coords="165,107,304,133"/>
-<area shape="rect" id="node3" href="$buffer_8c.html#a58f08838fd5b5a280918cfa9551bc921" title="has_bh_in_lru" alt="" coords="387,5,489,32"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#ae42cb501946e9788971fc7a5011deac2" title="invalidate_bh_lru" alt="" coords="379,56,497,83"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#ae236845de65ed065f74eecf8f6ee9742" title="EXPORT_SYMBOL_GPL" alt="" coords="352,107,524,133"/>
-</map>

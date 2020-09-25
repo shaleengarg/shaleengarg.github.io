@@ -1,7 +1,0 @@
-<map id="debugfs_real_fops" name="debugfs_real_fops">
-<area shape="rect" id="node2" href="$debugfs_2file_8c.html#a5df419e4fe3514fa6b9f2b91be62abd8" title="open_proxy_open" alt="" coords="183,5,307,32"/>
-<area shape="rect" id="node3" href="$debugfs_2file_8c.html#a000ab4a827d51f63169dff035ccc6960" title="full_proxy_poll" alt="" coords="192,56,297,83"/>
-<area shape="rect" id="node5" href="$debugfs_2file_8c.html#a1fcfbc7514ee6e39f4b5277b6c0f6f36" title="full_proxy_open" alt="" coords="552,132,665,159"/>
-<area shape="rect" id="node6" href="$debugfs_2file_8c.html#a9dfc8bed04467019838d40a7deb87962" title="full_proxy_release" alt="" coords="181,107,308,133"/>
-<area shape="rect" id="node4" href="$debugfs_2file_8c.html#aadeff1fe8eec9eb9e050d96103b45ade" title="__full_proxy_fops_init" alt="" coords="356,107,504,133"/>
-</map>

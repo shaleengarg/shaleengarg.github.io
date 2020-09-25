@@ -1,6 +1,0 @@
-<map id="ext2_sb_info" name="ext2_sb_info">
-<area shape="rect" id="node2" href="$structext2__super__block.html" title="ext2_super_block" alt="" coords="5,95,129,121"/>
-<area shape="rect" id="node3" href="$structmb__cache.html" title="mb_cache" alt="" coords="154,95,237,121"/>
-<area shape="rect" id="node4" href="$structext2__reserve__window__node.html" title="ext2_reserve_window_node" alt="" coords="261,95,444,121"/>
-<area shape="rect" id="node5" href="$structext2__reserve__window.html" title="ext2_reserve_window" alt="" coords="279,5,427,32"/>
-</map>

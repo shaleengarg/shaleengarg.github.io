@@ -1,8 +1,0 @@
-<map id="lease_init" name="lease_init">
-<area shape="rect" id="node2" href="$locks_8c.html#a1461e00a9f073fba4079ba7fe06d415f" title="lease_alloc" alt="" coords="131,31,217,57"/>
-<area shape="rect" id="node3" href="$locks_8c.html#a36a225814ea739496b6872fd3976d84c" title="__break_lease" alt="" coords="279,5,386,32"/>
-<area shape="rect" id="node4" href="$locks_8c.html#ae175bfa4d1051d4ac8b6082f290bc0cc" title="do_fcntl_add_lease" alt="" coords="265,56,400,83"/>
-<area shape="rect" id="node5" href="$locks_8c.html#a2bb7d66c89b285bd07931a3679a542f4" title="fcntl_setlease" alt="" coords="448,56,551,83"/>
-<area shape="rect" id="node6" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="599,56,667,83"/>
-<area shape="rect" id="node7" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="715,56,861,83"/>
-</map>

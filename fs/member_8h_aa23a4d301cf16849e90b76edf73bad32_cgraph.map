@@ -1,5 +1,0 @@
-<map id="dlm_ls_stop" name="dlm_ls_stop">
-<area shape="rect" id="node2" href="$recoverd_8c.html#a6fae7df72dba8bb6ecd326d4da2f7e63" title="dlm_recoverd_suspend" alt="" coords="145,5,301,32"/>
-<area shape="rect" id="node3" href="$recoverd_8c.html#ac32e08a68cf39f00b242e6d20b1ea08d" title="dlm_recoverd_resume" alt="" coords="148,56,299,83"/>
-<area shape="rect" id="node4" href="$member_8c.html#a1fe101ea40f31a3986b49a11f1b13605" title="dlm_lsop_recover_prep" alt="" coords="145,107,301,133"/>
-</map>

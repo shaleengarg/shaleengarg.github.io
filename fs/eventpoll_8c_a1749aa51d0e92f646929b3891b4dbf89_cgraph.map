@@ -1,7 +1,0 @@
-<map id="ep_scan_ready_list" name="ep_scan_ready_list">
-<area shape="rect" id="node2" href="$eventpoll_8c.html#ad230030d160f8c10a3e45436e33b6503" title="LIST_HEAD" alt="" coords="210,5,305,32"/>
-<area shape="rect" id="node3" href="$eventpoll_8c.html#ae1c712dbbbc7795cb8c2d9d8ae40ce66" title="ep_is_linked" alt="" coords="210,56,305,83"/>
-<area shape="rect" id="node4" href="$eventpoll_8c.html#aefa040e7d61a424986ea45b2f147e5f8" title="ep_pm_stay_awake" alt="" coords="188,107,327,133"/>
-<area shape="rect" id="node6" href="$eventpoll_8c.html#a059a419b0772b4d0553dbaee0af8bf53" title="ep_poll_safewake" alt="" coords="194,157,321,184"/>
-<area shape="rect" id="node5" href="$eventpoll_8c.html#a5ffbf74d616adb46f5ed04139f41dce2" title="ep_wakeup_source" alt="" coords="375,107,509,133"/>
-</map>

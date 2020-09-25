@@ -1,5 +1,0 @@
-<map id="ceph_mdsc_stop" name="ceph_mdsc_stop">
-<area shape="rect" id="node2" href="$mdsmap_8c.html#a4185ae10a64e90d979b6f7e855ffb733" title="ceph_mdsmap_destroy" alt="" coords="179,5,337,32"/>
-<area shape="rect" id="node3" href="$caps_8c.html#accedc6bcd1f101ba36dac6b75bab925a" title="ceph_caps_finalize" alt="" coords="191,56,325,83"/>
-<area shape="rect" id="node4" href="$addr_8c.html#ac496960f1e6aa52cd256c7832191ef1c" title="ceph_pool_perm_destroy" alt="" coords="175,107,341,133"/>
-</map>

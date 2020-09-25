@@ -1,8 +1,0 @@
-<map id="nfs_sync_inode" name="nfs_sync_inode">
-<area shape="rect" id="node2" href="$nfs_2inode_8c.html#a584baf904b9633e8a304658f88b4ce2b" title="nfs_setattr" alt="" coords="189,5,273,32"/>
-<area shape="rect" id="node4" href="$nfs42proc_8c.html#a2d5e2afcea49e43428ee7bd5e04d6eba" title="nfs42_proc_deallocate" alt="" coords="346,56,498,83"/>
-<area shape="rect" id="node5" href="$nfs4file_8c.html#aaa695de67c849f5499a0ea077e4b8d6d" title="nfs4_file_flush" alt="" coords="549,107,656,133"/>
-<area shape="rect" id="node6" href="$nfs42proc_8c.html#a8bcbb75517d93885bf3ad6eb93e6bb18" title="_nfs42_proc_copy" alt="" coords="167,157,295,184"/>
-<area shape="rect" id="node3" href="$nfs_2namespace_8c.html#a842956bcee394616b5c9762e1467c46c" title="nfs_namespace_setattr" alt="" coords="343,5,501,32"/>
-<area shape="rect" id="node7" href="$nfs42proc_8c.html#a3f05de16735e66bf1d6abcdcdb21424f" title="nfs42_proc_copy" alt="" coords="361,157,483,184"/>
-</map>

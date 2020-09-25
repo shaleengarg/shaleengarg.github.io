@@ -1,6 +1,0 @@
-<map id="ocfs2_xa_loc" name="ocfs2_xa_loc">
-<area shape="rect" id="node2" href="$structocfs2__xattr__header.html" title="ocfs2_xattr_header" alt="" coords="141,95,275,121"/>
-<area shape="rect" id="node3" href="$structocfs2__xattr__entry.html" title="ocfs2_xattr_entry" alt="" coords="5,5,128,32"/>
-<area shape="rect" id="node4" href="$structocfs2__block__check.html" title="ocfs2_block_check" alt="" coords="153,5,287,32"/>
-<area shape="rect" id="node5" href="$structocfs2__xa__loc__operations.html" title="ocfs2_xa_loc_operations" alt="" coords="299,95,466,121"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="nfsd_shutdown_generic" name="nfsd_shutdown_generic">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a0dde2e5fabb31ca88a8f09e595f647af" title="nfs4_state_shutdown" alt="" coords="220,42,367,69"/>
-<area shape="rect" id="node5" href="$vfs_8c.html#ad0bfadbc882185f491fa95e3e06da6be" title="nfsd_racache_shutdown" alt="" coords="212,93,375,119"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#ae39d6eeb5241a39071acc8d4df16d3c2" title="nfsd4_destroy_callback\l_queue" alt="" coords="423,5,581,47"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#a0814491288fa653b755f6be147e0e9dc" title="cleanup_callback_cred" alt="" coords="425,71,579,98"/>
-</map>

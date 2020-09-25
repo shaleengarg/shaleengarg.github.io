@@ -1,6 +1,0 @@
-<map id="gfs2_log_write_page" name="gfs2_log_write_page">
-<area shape="rect" id="node2" href="$lops_8c.html#a4f6582e4497e6f40e27250e4c88458ab" title="gfs2_before_commit" alt="" coords="210,31,350,57"/>
-<area shape="rect" id="node5" href="$lops_8c.html#a1d7b01c4d02d78872765b5909186a04c" title="revoke_lo_before_commit" alt="" coords="195,81,365,108"/>
-<area shape="rect" id="node3" href="$lops_8c.html#a3f7d3866db581f468ec6982c38afac47" title="buf_lo_before_commit" alt="" coords="425,5,576,32"/>
-<area shape="rect" id="node4" href="$lops_8c.html#ad0a4eb99b2bde1c020bfae63ddeb34df" title="databuf_lo_before_commit" alt="" coords="413,56,588,83"/>
-</map>

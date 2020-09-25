@@ -1,6 +1,0 @@
-<map id="setattr_prepare" name="setattr_prepare">
-<area shape="rect" id="node2" href="$attr_8c.html#a7827e769d8b5704301fc520df3edad83" title="inode_newsize_ok" alt="" coords="181,5,310,32"/>
-<area shape="rect" id="node3" href="$attr_8c.html#a95285eda06ebaecaa53b77857030ae2d" title="EXPORT_SYMBOL" alt="" coords="376,31,515,57"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a2359f9f4ea541a79ff23035a6c89cb03" title="inode_owner_or_capable" alt="" coords="163,107,328,133"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="376,107,515,133"/>
-</map>

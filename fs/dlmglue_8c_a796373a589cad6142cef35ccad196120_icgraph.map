@@ -1,5 +1,0 @@
-<map id="ocfs2_flock_handle_signal" name="ocfs2_flock_handle_signal">
-<area shape="rect" id="node2" href="$dlmglue_8h.html#a58203339cb9dec414693c4521285960c" title="ocfs2_file_lock" alt="" coords="188,13,297,39"/>
-<area shape="rect" id="node3" href="$ocfs2_2locks_8c.html#ad383c7a718ce5dc4d8db6b0df86cc279" title="ocfs2_do_flock" alt="" coords="345,13,456,39"/>
-<area shape="rect" id="node4" href="$locks_8h.html#a35fa1a11e4feb7ca853eafc983544d2e" title="ocfs2_flock" alt="" coords="504,13,593,39"/>
-</map>

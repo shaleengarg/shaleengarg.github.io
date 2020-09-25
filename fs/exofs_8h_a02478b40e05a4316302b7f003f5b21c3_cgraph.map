@@ -1,8 +1,0 @@
-<map id="exofs_parent_ino" name="exofs_parent_ino">
-<area shape="rect" id="node2" href="$exofs_2dir_8c.html#ac5e360212129023b8afea86f11da366b" title="exofs_dotdot" alt="" coords="175,56,272,83"/>
-<area shape="rect" id="node6" href="$exofs_2dir_8c.html#a8ea9e324c05c58eee71c4f255f5aa025" title="exofs_put_page" alt="" coords="499,81,613,108"/>
-<area shape="rect" id="node3" href="$exofs_2dir_8c.html#abf503f62ae20dff97cbf0d43905984e9" title="exofs_get_page" alt="" coords="324,5,439,32"/>
-<area shape="rect" id="node7" href="$exofs_2dir_8c.html#a8cc08043e672b933160bdd3e26122c81" title="exofs_next_entry" alt="" coords="320,56,443,83"/>
-<area shape="rect" id="node4" href="$exofs_2dir_8c.html#a928ded6ade88968116a47895a467baec" title="exofs_check_page" alt="" coords="491,5,621,32"/>
-<area shape="rect" id="node5" href="$exofs_2dir_8c.html#a3eede7cdccfcb6f13efcbcf56f62398d" title="exofs_chunk_size" alt="" coords="669,5,796,32"/>
-</map>

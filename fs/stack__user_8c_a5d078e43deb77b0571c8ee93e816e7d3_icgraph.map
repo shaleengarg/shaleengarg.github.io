@@ -1,8 +1,0 @@
-<map id="ocfs2_control_get_handshake_state" name="ocfs2_control_get_handshake_state">
-<area shape="rect" id="node2" href="$stack__user_8c.html#a428b35004e6e65dad865468f10474786" title="ocfs2_control_do_setnode_msg" alt="" coords="255,5,461,32"/>
-<area shape="rect" id="node4" href="$stack__user_8c.html#ab7b051aab37b98ba093e6abc336b3af2" title="ocfs2_control_write" alt="" coords="724,120,859,147"/>
-<area shape="rect" id="node5" href="$stack__user_8c.html#a2fa9bcee6bfef3f1b1910ced3ef14de6" title="ocfs2_control_do_setversion_msg" alt="" coords="248,56,468,83"/>
-<area shape="rect" id="node6" href="$stack__user_8c.html#ab9dec8265eca8912eb90b94f415af37f" title="ocfs2_control_do_down_msg" alt="" coords="263,107,453,133"/>
-<area shape="rect" id="node7" href="$stack__user_8c.html#a9c4489192af24b3765d1e133299262fd" title="ocfs2_control_release" alt="" coords="283,208,433,235"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#a6b9cede3c772d97f34e9e9df8cca0da6" title="ocfs2_control_message" alt="" coords="516,81,676,108"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="nfs3svc_decode_diropargs" name="nfs3svc_decode_diropargs">
-<area shape="rect" id="node2" href="$_2nfs3xdr_8c.html#aa7326ad5b808fd20a23d2303466c225f" title="decode_fh" alt="" coords="249,5,332,32"/>
-<area shape="rect" id="node4" href="$_2nfs3xdr_8c.html#a93e7a855a19dda194ea5fdae60914230" title="decode_filename" alt="" coords="231,56,351,83"/>
-<area shape="rect" id="node3" href="$nfsfh_8h.html#a134fd702cff1276401e72df821ecc90c" title="fh_init" alt="" coords="399,5,456,32"/>
-</map>

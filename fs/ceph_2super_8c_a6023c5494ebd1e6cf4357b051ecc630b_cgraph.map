@@ -1,7 +1,0 @@
-<map id="init_caches" name="init_caches">
-<area shape="rect" id="node2" href="$ceph_2super_8c.html#ad82c787889a65a8729c262bede6a1a73" title="ceph_inode_init_once" alt="" coords="145,31,291,57"/>
-<area shape="rect" id="node6" href="$ceph_2cache_8c.html#aab233e9213882f9d4af517fd2b234b87" title="ceph_fscache_register" alt="" coords="141,81,295,108"/>
-<area shape="rect" id="node3" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="343,31,455,57"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="503,5,685,32"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="525,56,663,83"/>
-</map>

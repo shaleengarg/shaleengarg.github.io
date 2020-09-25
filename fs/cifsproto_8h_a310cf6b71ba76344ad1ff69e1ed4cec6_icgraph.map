@@ -1,6 +1,0 @@
-<map id="CIFSGetExtAttr" name="CIFSGetExtAttr">
-<area shape="rect" id="node2" href="$cifs_2ioctl_8c.html#ae9a827730cce43d81599fa6e8d7cbc5c" title="cifs_ioctl" alt="" coords="225,5,299,32"/>
-<area shape="rect" id="node4" href="$cifssmb_8c.html#a08f73fa93fdb39a2acf42c8e74e83a0f" title="CIFSSMB_set_compression" alt="" coords="168,56,356,83"/>
-<area shape="rect" id="node3" href="$cifs_2ioctl_8c.html#a8998f6c92612bcc05c8ec85602dc8afb" title="cifs_ioctl_copychunk" alt="" coords="407,5,551,32"/>
-<area shape="rect" id="node5" href="$smb1ops_8c.html#a76088dfa9e3722b314b32434cf516724" title="cifs_set_compression" alt="" coords="404,56,553,83"/>
-</map>

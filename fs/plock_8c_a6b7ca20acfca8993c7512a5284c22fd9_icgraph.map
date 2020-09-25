@@ -1,8 +1,0 @@
-<map id="send_op" name="send_op">
-<area shape="rect" id="node2" href="$plock_8c.html#a4c379122d42ed7e44ea93bc20f574ca9" title="do_unlock_close" alt="" coords="124,26,243,53"/>
-<area shape="rect" id="node3" href="$plock_8c.html#adf86579fbc7612c34b308a41b0372fc8" title="dlm_posix_lock" alt="" coords="298,26,410,53"/>
-<area shape="rect" id="node6" href="$plock_8c.html#ad7836e9e456518df1f34526a1126fbbf" title="dlm_posix_unlock" alt="" coords="291,77,417,103"/>
-<area shape="rect" id="node7" href="$plock_8c.html#a5b147d998ecfec1aa6d8e5eb34a9611c" title="dlm_posix_get" alt="" coords="301,127,407,154"/>
-<area shape="rect" id="node4" href="$gfs2_2file_8c.html#a05e3abde0f7e56d6d83814283cfde627" title="gfs2_file_splice_write" alt="" coords="465,51,612,78"/>
-<area shape="rect" id="node5" href="$stack__user_8c.html#a2aea0b34bbaa26ca4bfe2327bf4de9b5" title="user_plock" alt="" coords="496,102,581,129"/>
-</map>

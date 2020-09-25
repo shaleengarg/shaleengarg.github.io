@@ -1,9 +1,0 @@
-<map id="hfs_find_data" name="hfs_find_data">
-<area shape="rect" id="node2" href="$structhfs__bnode.html" title="hfs_bnode" alt="" coords="5,184,88,211"/>
-<area shape="rect" id="node3" href="$structhfs__btree.html" title="hfs_btree" alt="" coords="181,275,257,301"/>
-<area shape="rect" id="node4" href="$unionhfs__btree__key.html" title="hfs_btree_key" alt="" coords="319,184,423,211"/>
-<area shape="rect" id="node5" href="$structhfs__cat__key.html" title="hfs_cat_key" alt="" coords="249,95,343,121"/>
-<area shape="rect" id="node6" href="$structhfs__name.html" title="hfs_name" alt="" coords="257,5,335,32"/>
-<area shape="rect" id="node7" href="$structhfs__ext__key.html" title="hfs_ext_key" alt="" coords="367,95,460,121"/>
-<area shape="rect" id="node8" href="$structsuper__block.html" title="super_block" alt="" coords="202,184,294,211"/>
-</map>

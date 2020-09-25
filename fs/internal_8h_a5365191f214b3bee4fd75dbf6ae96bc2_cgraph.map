@@ -1,5 +1,0 @@
-<map id="user_get_super" name="user_get_super">
-<area shape="rect" id="node2" href="$super_8c.html#a3533b106df6dc38a0d0c6c3b4fd9d130" title="__put_super" alt="" coords="164,5,257,32"/>
-<area shape="rect" id="node3" href="$super_8c.html#ac18e1abceac6e84cf677a1ea4be14421" title="destroy_super_rcu" alt="" coords="305,5,435,32"/>
-<area shape="rect" id="node4" href="$super_8c.html#a627a37c41b63f3c8f96ef0206da0eed1" title="destroy_super_work" alt="" coords="483,5,621,32"/>
-</map>

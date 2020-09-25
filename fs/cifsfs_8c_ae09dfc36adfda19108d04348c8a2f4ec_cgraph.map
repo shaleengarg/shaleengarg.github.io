@@ -1,6 +1,0 @@
-<map id="cifs_evict_inode" name="cifs_evict_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a5ef1de74cc382d6cd8afddc6e66a47a4" title="clear_inode" alt="" coords="198,5,286,32"/>
-<area shape="rect" id="node4" href="$cifs_2fscache_8c.html#ab78975ecf959148c1b52c661ba83a132" title="cifs_fscache_release\l_inode_cookie" alt="" coords="169,57,315,98"/>
-<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="363,5,501,32"/>
-<area shape="rect" id="node5" href="$cifsglob_8h.html#ae3ecf9e285969a4c5ce00404a6f6ab52" title="CIFS_I" alt="" coords="400,64,464,91"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="dump_znode" name="dump_znode">
-<area shape="rect" id="node2" href="$ubifs_2debug_8c.html#a56365d730ac6932bf3163a8ba7279779" title="ubifs_dump_znode" alt="" coords="149,107,280,133"/>
-<area shape="rect" id="node3" href="$ubifs_2debug_8c.html#a33e36c49b5c19585e6cdb24955d1e937" title="dbg_snprintf_key" alt="" coords="328,107,449,133"/>
-<area shape="rect" id="node4" href="$key_8h.html#a06f47822510ef850cb7065778115453c" title="key_type" alt="" coords="510,5,585,32"/>
-<area shape="rect" id="node5" href="$key_8h.html#a4a12b97ed78e138baf7886a6df7ed50f" title="key_inum" alt="" coords="508,56,587,83"/>
-<area shape="rect" id="node6" href="$ubifs_2debug_8c.html#ad6af0af711fdb082f6df4eaeb4d82fe6" title="get_key_type" alt="" coords="497,107,597,133"/>
-<area shape="rect" id="node7" href="$key_8h.html#acddf1ca88d72a37e06c5c608cd084656" title="key_hash" alt="" coords="508,157,587,184"/>
-<area shape="rect" id="node8" href="$key_8h.html#a10c13375b52dbb12be6f9b685d1d1ba7" title="key_block" alt="" coords="507,208,588,235"/>
-</map>

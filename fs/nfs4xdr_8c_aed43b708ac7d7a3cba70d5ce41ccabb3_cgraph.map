@@ -1,8 +1,0 @@
-<map id="decode_readdir" name="decode_readdir">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a83af2e7f21f4e194703a99d7a18e4413" title="decode_op_hdr" alt="" coords="164,5,275,32"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a4e29f88ca98da794618b2b25ef12917d" title="decode_verifier" alt="" coords="164,56,275,83"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a669740e76608a6dd129ce745d78c2c36" title="__decode_op_hdr" alt="" coords="335,5,459,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a3ec30397630ee94cca7e9799356c78fc" title="nfs4_stat_to_errno" alt="" coords="521,5,651,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="519,56,653,83"/>
-<area shape="rect" id="node7" href="$nfs4xdr_8c.html#aa033f4efa9668bd3b1df2e451e2d2451" title="decode_opaque_fixed" alt="" coords="323,56,471,83"/>
-</map>

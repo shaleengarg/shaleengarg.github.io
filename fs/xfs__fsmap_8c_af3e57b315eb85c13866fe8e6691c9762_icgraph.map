@@ -1,8 +1,0 @@
-<map id="xfs_getfsmap_datadev_helper" name="xfs_getfsmap_datadev_helper">
-<area shape="rect" id="node2" href="$xfs__fsmap_8c.html#a2a76dafacf911e51dff3e8141c0456e9" title="xfs_getfsmap_datadev\l_rmapbt_query" alt="" coords="208,5,363,47"/>
-<area shape="rect" id="node3" href="$xfs__fsmap_8c.html#abb1dbbf39c02e0b8868f48839455c457" title="xfs_getfsmap_datadev\l_rmapbt" alt="" coords="411,5,565,47"/>
-<area shape="rect" id="node4" href="$xfs__fsmap_8h.html#a75363577bfb72bee79864a4c68f36946" title="xfs_getfsmap" alt="" coords="613,13,715,39"/>
-<area shape="rect" id="node5" href="$xfs__ioctl_8c.html#ae110dda109d0ab0e3d04d10e44971bab" title="xfs_ioc_getfsmap" alt="" coords="763,13,888,39"/>
-<area shape="rect" id="node6" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="936,13,1031,39"/>
-<area shape="rect" id="node7" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="1079,13,1224,39"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="npages_for_summary_flush" name="npages_for_summary_flush">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="201,5,299,32"/>
-<area shape="rect" id="node3" href="$f2fs_2segment_8h.html#a0ac91e50a53356b23e0e105165c91811" title="curseg_blkoff" alt="" coords="200,56,300,83"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#ab401fc665e34bc211f8ae30b552de703" title="CURSEG_I" alt="" coords="348,56,439,83"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="487,56,540,83"/>
-</map>

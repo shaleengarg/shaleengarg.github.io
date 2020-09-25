@@ -1,7 +1,0 @@
-<map id="iomap_seek_hole" name="iomap_seek_hole">
-<area shape="rect" id="node2" href="$iomap_8c.html#a5c785550be52a130b5a781a7d28dc1d9" title="iomap_apply" alt="" coords="215,5,309,32"/>
-<area shape="rect" id="node3" href="$iomap_8c.html#a1d633893ac997b182d3087540579a211" title="iomap_seek_hole_actor" alt="" coords="183,56,341,83"/>
-<area shape="rect" id="node6" href="$iomap_8c.html#a3281c284b125acfe65a3d1b75916db7e" title="EXPORT_SYMBOL_GPL" alt="" coords="176,107,348,133"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#a77a317a4a5c48ba6154b2979bf88db15" title="page_cache_seek_hole_data" alt="" coords="396,56,587,83"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#aed9828d8d9d9e43e00e5cb6d5a1fc7c1" title="page_seek_hole_data" alt="" coords="635,56,783,83"/>
-</map>

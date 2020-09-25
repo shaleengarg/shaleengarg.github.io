@@ -1,8 +1,0 @@
-<map id="cont_write_begin" name="cont_write_begin">
-<area shape="rect" id="node2" href="$affs_2file_8c.html#af83bbaef7f7025a660b283d8f45d271f" title="affs_write_begin" alt="" coords="183,5,301,32"/>
-<area shape="rect" id="node3" href="$hpfs_2file_8c.html#a146be8b06d26cc631f6d1cf8f987ab15" title="hpfs_write_begin" alt="" coords="182,56,302,83"/>
-<area shape="rect" id="node4" href="$adfs_2inode_8c.html#afadf54df7c28b88ee4b7d3b81b26e239" title="adfs_write_begin" alt="" coords="182,107,302,133"/>
-<area shape="rect" id="node5" href="$fat_2inode_8c.html#a92f90d40e9baa107e6781003052bd38a" title="fat_write_begin" alt="" coords="187,157,297,184"/>
-<area shape="rect" id="node6" href="$hfs_2inode_8c.html#ae4bab1bcf8f6d7595332459ee1903f8d" title="hfs_write_begin" alt="" coords="185,208,299,235"/>
-<area shape="rect" id="node7" href="$hfsplus_2inode_8c.html#a95d6c4d736f975fb95b6642bf50b46f9" title="hfsplus_write_begin" alt="" coords="173,259,311,285"/>
-</map>

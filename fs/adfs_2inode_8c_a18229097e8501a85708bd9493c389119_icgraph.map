@@ -1,6 +1,0 @@
-<map id="adfs_adfs2unix_time" name="adfs_adfs2unix_time">
-<area shape="rect" id="node2" href="$adfs_2inode_8c.html#ab4585d0bf6c9403c108bd9f714ec5051" title="adfs_iget" alt="" coords="196,31,271,57"/>
-<area shape="rect" id="node3" href="$adfs_2dir_8c.html#a8f2d9c83a0210094a28e60f5e38d39e0" title="adfs_lookup" alt="" coords="326,5,418,32"/>
-<area shape="rect" id="node4" href="$adfs_2super_8c.html#a31eb09ab9651d29319b01cb3494755ec" title="adfs_fill_super" alt="" coords="319,56,425,83"/>
-<area shape="rect" id="node5" href="$adfs_2super_8c.html#af3981b5b4472edcbe4c469ff58109e56" title="adfs_mount" alt="" coords="473,56,564,83"/>
-</map>

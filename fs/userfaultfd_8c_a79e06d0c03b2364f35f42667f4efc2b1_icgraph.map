@@ -1,5 +1,0 @@
-<map id="vma_can_userfault" name="vma_can_userfault">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#aeb2448f1eeb8309691cff46151595f66" title="userfaultfd_register" alt="" coords="192,5,325,32"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#ab5e1e36b6844c769ad2257b38fa36ef5" title="userfaultfd_unregister" alt="" coords="185,56,332,83"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a5f6bd2d87ee717b7f3853b334775cfa6" title="userfaultfd_ioctl" alt="" coords="380,31,495,57"/>
-</map>

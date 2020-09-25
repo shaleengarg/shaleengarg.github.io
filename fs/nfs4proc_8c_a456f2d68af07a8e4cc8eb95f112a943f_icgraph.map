@@ -1,6 +1,0 @@
-<map id="nfs4_state_find_open_context" name="nfs4_state_find_open_context">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#ab0a92082a8aa6e99e88d3a8dc731848f" title="nfs4_open_reclaim" alt="" coords="200,5,331,32"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a1355a9d05b995960300d6dfad522f5e3" title="nfs4_open_expired" alt="" coords="200,56,331,83"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a2b843f160dee6b11e434083873afb0aa" title="nfs40_open_expired" alt="" coords="379,27,518,53"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#abebc920de431db695cb051e4e4c69d8c" title="nfs40_test_and_free\l_expired_stateid" alt="" coords="379,78,519,119"/>
-</map>

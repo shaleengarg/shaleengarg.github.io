@@ -1,6 +1,0 @@
-<map id="ocfs2_cleanup_add_entry_failure" name="ocfs2_cleanup_add_entry_failure">
-<area shape="rect" id="node2" href="$ocfs2_2namei_8c.html#a5a8fa945d08fb2eafc24f39630a6fa17" title="ocfs2_mknod" alt="" coords="227,31,327,57"/>
-<area shape="rect" id="node5" href="$ocfs2_2namei_8c.html#a0089f75e44a9fd46e4b5f8b313d0af1e" title="ocfs2_symlink" alt="" coords="224,81,331,108"/>
-<area shape="rect" id="node3" href="$ocfs2_2namei_8c.html#a2cfeba05a2658265d1b4f4d135fe8a95" title="ocfs2_mkdir" alt="" coords="381,5,474,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2namei_8c.html#a5941207e141e5d428728f560689f1398" title="ocfs2_create" alt="" coords="379,56,476,83"/>
-</map>

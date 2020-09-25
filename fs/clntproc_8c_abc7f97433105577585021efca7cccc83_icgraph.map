@@ -1,7 +1,0 @@
-<map id="nlmclnt_reclaim" name="nlmclnt_reclaim">
-<area shape="rect" id="node2" href="$clntlock_8c.html#aa73234ceaa9be013c4b627eff42cc6c3" title="reclaimer" alt="" coords="167,31,241,57"/>
-<area shape="rect" id="node3" href="$clntlock_8c.html#ab2437a0cfb9d42f8aa9a8d24dc4fe0bf" title="nlmclnt_recovery" alt="" coords="289,31,411,57"/>
-<area shape="rect" id="node4" href="$host_8c.html#a7b3aa5a8da6db14462d5e03f54a38f4a" title="nlm_host_rebooted" alt="" coords="459,31,591,57"/>
-<area shape="rect" id="node5" href="$svc4proc_8c.html#a2c797bff1065843040c85a72eefd904b" title="nlm4svc_proc_sm_notify" alt="" coords="639,5,805,32"/>
-<area shape="rect" id="node6" href="$svcproc_8c.html#aa6252f981fb1ec60077826d0634760ff" title="nlmsvc_proc_sm_notify" alt="" coords="642,56,802,83"/>
-</map>

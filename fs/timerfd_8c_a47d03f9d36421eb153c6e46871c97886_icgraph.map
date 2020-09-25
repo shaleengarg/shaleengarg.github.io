@@ -1,6 +1,0 @@
-<map id="timerfd_fget" name="timerfd_fget">
-<area shape="rect" id="node2" href="$timerfd_8c.html#a7f4b73293ab79cdb90e7505cfa6874db" title="do_timerfd_settime" alt="" coords="144,5,277,32"/>
-<area shape="rect" id="node5" href="$timerfd_8c.html#a940ab29337e856c05ca574dba5eb8c67" title="do_timerfd_gettime" alt="" coords="144,56,277,83"/>
-<area shape="rect" id="node3" href="$timerfd_8c.html#a287a6ff8eb55264a31f73313239fd416" title="SYSCALL_DEFINE4" alt="" coords="325,5,472,32"/>
-<area shape="rect" id="node4" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="325,56,472,83"/>
-</map>

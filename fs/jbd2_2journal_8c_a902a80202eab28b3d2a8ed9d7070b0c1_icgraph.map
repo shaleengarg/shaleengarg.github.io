@@ -1,7 +1,0 @@
-<map id="jbd2_journal_destroy_handle_cache" name="jbd2_journal_destroy_handle_cache">
-<area shape="rect" id="node2" href="$jbd2_2journal_8c.html#a49ad675982a3ea585690db38dbdbbae0" title="jbd2_journal_destroy\l_caches" alt="" coords="195,23,336,65"/>
-<area shape="rect" id="node3" href="$jbd2_2journal_8c.html#ae6a40010b3cdb3b8678e75af1d2c9cdb" title="journal_init" alt="" coords="384,5,468,32"/>
-<area shape="rect" id="node6" href="$jbd2_2journal_8c.html#a58199172712abb6b55167a2049174d84" title="journal_exit" alt="" coords="534,56,622,83"/>
-<area shape="rect" id="node4" href="$reiserfs_2super_8c.html#a784f6c5c252673ee161298adf57e2e2f" title="reiserfs_fill_super" alt="" coords="516,5,640,32"/>
-<area shape="rect" id="node5" href="$reiserfs_2super_8c.html#a0d650f3d36733955edd11aa1d10f448d" title="get_super_block" alt="" coords="688,5,805,32"/>
-</map>

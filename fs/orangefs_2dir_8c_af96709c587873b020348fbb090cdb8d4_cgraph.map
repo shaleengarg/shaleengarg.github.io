@@ -1,6 +1,0 @@
-<map id="orangefs_dir_fill" name="orangefs_dir_fill">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="188,5,243,32"/>
-<area shape="rect" id="node4" href="$orangefs_2dir_8c.html#a0778fe15b64763a125c68e416e4a76de" title="fill_from_part" alt="" coords="167,56,264,83"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="336,5,455,32"/>
-<area shape="rect" id="node5" href="$orangefs-kernel_8h.html#a11db2de3df12d64949b3b54d5e7c0da0" title="orangefs_khandle_to_ino" alt="" coords="312,56,479,83"/>
-</map>

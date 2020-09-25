@@ -1,6 +1,0 @@
-<map id="show_mnt_opts" name="show_mnt_opts">
-<area shape="rect" id="node2" href="$proc__namespace_8c.html#a16615e722ae5f7e36968baddedd659a0" title="show_vfsmnt" alt="" coords="177,5,277,32"/>
-<area shape="rect" id="node4" href="$proc__namespace_8c.html#a02c5b7fbb6e01b9458d86508bd6fdaf6" title="show_mountinfo" alt="" coords="168,56,285,83"/>
-<area shape="rect" id="node3" href="$proc__namespace_8c.html#ab46d3693c856f70d92f8f7888b6bca77" title="mounts_open" alt="" coords="341,5,441,32"/>
-<area shape="rect" id="node5" href="$proc__namespace_8c.html#a01e5cfba62c85c228d49f6928101f100" title="mountinfo_open" alt="" coords="333,56,448,83"/>
-</map>

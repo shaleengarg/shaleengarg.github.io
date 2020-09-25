@@ -1,7 +1,0 @@
-<map id="decode_space_limit" name="decode_space_limit">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a740e2fe8071b6aeb2e72a627488332c8" title="decode_rw_delegation" alt="" coords="191,31,341,57"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a92451c342bdecefa203daca11d8c4ed2" title="decode_delegation" alt="" coords="389,31,520,57"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a325524ebd791868dade3ec9e25e3c3ff" title="decode_open" alt="" coords="568,31,667,57"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#ae75f94182733d5f38a322b751a4a3d03" title="nfs4_xdr_dec_open" alt="" coords="735,5,869,32"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a7908acb35fe5153c15681f77e66d6b98" title="nfs4_xdr_dec_open_noattr" alt="" coords="715,56,889,83"/>
-</map>

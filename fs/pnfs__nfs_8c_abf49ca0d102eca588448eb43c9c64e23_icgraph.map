@@ -1,8 +1,0 @@
-<map id="pnfs_generic_prepare_to_resend_writes" name="pnfs_generic_prepare_to_resend_writes">
-<area shape="rect" id="node2" href="$filelayout_8c.html#a060fdca14b3c4b588e0d9675f9e90379" title="filelayout_commit_done_cb" alt="" coords="200,5,380,32"/>
-<area shape="rect" id="node3" href="$filelayout_8c.html#a0922e148882fea18aafa07652be72e52" title="filelayout_initiate\l_commit" alt="" coords="428,33,547,74"/>
-<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#a8fad1c0bd227d350f4032bdba1c19187" title="ff_layout_commit_done_cb" alt="" coords="201,107,379,133"/>
-<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#a6d8c871189dc67d9024fb9144837180b" title="ff_layout_initiate\l_commit" alt="" coords="429,115,546,157"/>
-<area shape="rect" id="node4" href="$filelayout_8c.html#a2864d9d29f5de9f30c69eb86fca48739" title="filelayout_commit_pagelist" alt="" coords="595,40,771,67"/>
-<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#afec203e64e262b648cd6f5e82723e7ac" title="ff_layout_commit_pagelist" alt="" coords="595,123,770,149"/>
-</map>

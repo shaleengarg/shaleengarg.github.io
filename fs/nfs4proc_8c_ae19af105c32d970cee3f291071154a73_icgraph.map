@@ -1,5 +1,0 @@
-<map id="nfs_finish_clear_delegation_stateid" name="nfs_finish_clear_delegation_stateid">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#aee6094cbd71de9755e88be1e5caa77f1" title="nfs40_clear_delegation\l_stateid" alt="" coords="232,5,387,47"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#abebc920de431db695cb051e4e4c69d8c" title="nfs40_test_and_free\l_expired_stateid" alt="" coords="239,71,379,112"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a2b843f160dee6b11e434083873afb0aa" title="nfs40_open_expired" alt="" coords="435,13,573,39"/>
-</map>

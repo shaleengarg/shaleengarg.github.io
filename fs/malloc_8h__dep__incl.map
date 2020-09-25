@@ -1,9 +1,0 @@
-<map id="ntfs/malloc.h" name="ntfs/malloc.h">
-<area shape="rect" id="node2" href="$attrib_8c.html" title="ntfs/attrib.c" alt="" coords="5,80,93,107"/>
-<area shape="rect" id="node3" href="$ntfs_2file_8c.html" title="ntfs/file.c" alt="" coords="118,80,194,107"/>
-<area shape="rect" id="node4" href="$ntfs_2inode_8c.html" title="ntfs/inode.c" alt="" coords="219,80,309,107"/>
-<area shape="rect" id="node5" href="$mft_8c.html" title="ntfs/mft.c" alt="" coords="334,80,413,107"/>
-<area shape="rect" id="node6" href="$runlist_8c.html" title="ntfs/runlist.c" alt="" coords="437,80,531,107"/>
-<area shape="rect" id="node7" href="$ntfs_2super_8c.html" title="ntfs/super.c" alt="" coords="556,80,647,107"/>
-<area shape="rect" id="node8" href="$upcase_8c.html" title="ntfs/upcase.c" alt="" coords="671,80,772,107"/>
-</map>

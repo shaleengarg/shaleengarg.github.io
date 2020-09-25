@@ -1,6 +1,0 @@
-<map id="wait_for_free_request" name="wait_for_free_request">
-<area shape="rect" id="node2" href="$transport_8c.html#a387ea0e1171baad53bb339dcff9957ac" title="wait_for_free_credits" alt="" coords="200,56,343,83"/>
-<area shape="rect" id="node3" href="$cifsglob_8h.html#a7048612a0466d97df0ad3a9779be754b" title="cifs_num_waiters_inc" alt="" coords="393,5,541,32"/>
-<area shape="rect" id="node4" href="$cifsglob_8h.html#a935f47d469b28f875bb263122d2b78f8" title="has_credits" alt="" coords="422,56,511,83"/>
-<area shape="rect" id="node5" href="$cifsglob_8h.html#a95f58cb59547739692007324b458f1e8" title="cifs_num_waiters_dec" alt="" coords="391,107,543,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ovl_get_dentry" name="ovl_get_dentry">
-<area shape="rect" id="node2" href="$overlayfs_2export_8c.html#a586ca7eeada611131642639b7f4ec05d" title="ovl_upper_fh_to_d" alt="" coords="160,5,288,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2export_8c.html#a01ccbea91190a7712901048bc3683555" title="ovl_lower_fh_to_d" alt="" coords="161,56,287,83"/>
-<area shape="rect" id="node3" href="$overlayfs_2export_8c.html#a2f4516e7bf121cf109adddaecd4e19a1" title="ovl_fh_to_dentry" alt="" coords="336,31,455,57"/>
-</map>

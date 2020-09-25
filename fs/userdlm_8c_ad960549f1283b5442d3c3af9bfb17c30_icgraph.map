@@ -1,7 +1,0 @@
-<map id="user_dlm_lock_res_init" name="user_dlm_lock_res_init">
-<area shape="rect" id="node2" href="$dlmfs_8c.html#ada782a62be7fc31d98ebdb87602753ae" title="dlmfs_get_inode" alt="" coords="208,31,325,57"/>
-<area shape="rect" id="node3" href="$dlmfs_8c.html#a620990e3c7533cce1312b07d6dc767da" title="dlmfs_mkdir" alt="" coords="375,5,469,32"/>
-<area shape="rect" id="node6" href="$dlmfs_8c.html#a7f73880b7ba85b1ea7c04372e5819913" title="dlmfs_create" alt="" coords="373,56,471,83"/>
-<area shape="rect" id="node4" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="519,31,632,57"/>
-<area shape="rect" id="node5" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="680,31,777,57"/>
-</map>

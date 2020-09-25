@@ -1,5 +1,0 @@
-<map id="nilfs_btree_path" name="nilfs_btree_path">
-<area shape="rect" id="node2" href="$unionnilfs__bmap__ptr__req.html" title="nilfs_bmap_ptr_req" alt="" coords="5,95,137,121"/>
-<area shape="rect" id="node3" href="$structnilfs__palloc__req.html" title="nilfs_palloc_req" alt="" coords="15,5,127,32"/>
-<area shape="rect" id="node4" href="$structnilfs__btnode__chkey__ctxt.html" title="nilfs_btnode_chkey_ctxt" alt="" coords="162,95,325,121"/>
-</map>

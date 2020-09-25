@@ -1,5 +1,0 @@
-<map id="nfsd4_decode_opaque" name="nfsd4_decode_opaque">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a8c171ed1b6342a6983030bbdca76fc84" title="nfsd4_decode_open" alt="" coords="227,5,366,32"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a650dee6ae1649c4b4cd221130bdf4b3e" title="nfsd4_decode_setclientid" alt="" coords="212,56,381,83"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#ae77770ae288100b7376608faf739629a" title="nfsd4_decode_exchange_id" alt="" coords="205,107,388,133"/>
-</map>

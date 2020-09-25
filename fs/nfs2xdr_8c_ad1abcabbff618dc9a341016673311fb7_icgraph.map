@@ -1,9 +1,0 @@
-<map id="decode_fattr" name="decode_fattr">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a07f9a63e142271010c8179cfa0848ed4" title="decode_attrstat" alt="" coords="167,56,279,83"/>
-<area shape="rect" id="node5" href="$nfs2xdr_8c.html#adf772483a13836278649bfa430472382" title="decode_diropok" alt="" coords="167,107,280,133"/>
-<area shape="rect" id="node8" href="$nfs2xdr_8c.html#a4415b3c50a6b68a83a88887ed9367b54" title="nfs2_xdr_dec_readres" alt="" coords="148,157,299,184"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#ad96c29e00afe6ebcbb8f4fa2d3a83a22" title="nfs2_xdr_dec_attrstat" alt="" coords="349,5,497,32"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ae67e6350cffd16ce8bc5be14e24a6112" title="nfs2_xdr_dec_writeres" alt="" coords="347,56,500,83"/>
-<area shape="rect" id="node6" href="$nfs2xdr_8c.html#a494ad45591e61f22c991315970e668b5" title="decode_diropres" alt="" coords="365,107,482,133"/>
-<area shape="rect" id="node7" href="$nfs2xdr_8c.html#ab0c535b51ead7cf6a8d0408b12f1c754" title="nfs2_xdr_dec_diropres" alt="" coords="548,107,701,133"/>
-</map>

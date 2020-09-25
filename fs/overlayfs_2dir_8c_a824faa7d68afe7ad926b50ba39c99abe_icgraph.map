@@ -1,5 +1,0 @@
-<map id="ovl_remove_and_whiteout" name="ovl_remove_and_whiteout">
-<area shape="rect" id="node2" href="$overlayfs_2dir_8c.html#a8f19b3e86a70725ac978fd7dc85ecfd5" title="ovl_do_remove" alt="" coords="227,31,337,57"/>
-<area shape="rect" id="node3" href="$overlayfs_2dir_8c.html#ae177680fbff83597ba0aaee4483eec1d" title="ovl_unlink" alt="" coords="385,5,465,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2dir_8c.html#ace06ec42dcee809c569cf778d05d3b4f" title="ovl_rmdir" alt="" coords="388,56,463,83"/>
-</map>

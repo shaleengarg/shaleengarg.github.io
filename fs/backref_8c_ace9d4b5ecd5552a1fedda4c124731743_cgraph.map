@@ -1,9 +1,0 @@
-<map id="add_prelim_ref" name="add_prelim_ref">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="193,19,248,45"/>
-<area shape="rect" id="node4" href="$backref_8c.html#a7460b62a24b2638a8c655745e4a81f52" title="prelim_ref_insert" alt="" coords="161,81,280,108"/>
-<area shape="rect" id="node8" href="$backref_8c.html#a0c2db97144149c603e1442dd87ccdc1d" title="extent_is_shared" alt="" coords="160,132,281,159"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="339,5,458,32"/>
-<area shape="rect" id="node5" href="$backref_8c.html#a67a238f28ac9a7e71716d3d371fea9e9" title="prelim_ref_compare" alt="" coords="331,56,467,83"/>
-<area shape="rect" id="node6" href="$backref_8c.html#a6e1fede6056f0358e7e381144340b9dd" title="update_share_count" alt="" coords="329,107,468,133"/>
-<area shape="rect" id="node7" href="$backref_8c.html#ad1d2f6406701dc1a17d5512e5a9c71dd" title="free_pref" alt="" coords="362,157,435,184"/>
-</map>

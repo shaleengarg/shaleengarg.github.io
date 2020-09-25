@@ -1,9 +1,0 @@
-<map id="reiserfs_invalidatepage" name="reiserfs_invalidatepage">
-<area shape="rect" id="node2" href="$reiserfs_2inode_8c.html#aa47bbdd3e2b62eb128ff2989812f68cf" title="invalidatepage_can_drop" alt="" coords="208,56,373,83"/>
-<area shape="rect" id="node8" href="$reiserfs_8h.html#aa8743da37ca29249b1d6d963dc5159b2" title="reiserfs_unmap_buffer" alt="" coords="215,107,366,133"/>
-<area shape="rect" id="node3" href="$reiserfs_8h.html#afb5381c36d62fc8dd539a01f4a74a686" title="reiserfs_file_data_log" alt="" coords="421,5,567,32"/>
-<area shape="rect" id="node5" href="$reiserfs_2journal_8c.html#a83390ea91e66867341737a681591baad" title="reiserfs_free_jh" alt="" coords="439,107,549,133"/>
-<area shape="rect" id="node6" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="444,56,544,83"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a54c4b0f2afaa082072400dec2264284e" title="REISERFS_I" alt="" coords="633,5,735,32"/>
-<area shape="rect" id="node7" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="615,56,753,83"/>
-</map>

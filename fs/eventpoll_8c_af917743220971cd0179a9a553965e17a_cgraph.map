@@ -1,9 +1,0 @@
-<map id="ep_free" name="ep_free">
-<area shape="rect" id="node2" href="$eventpoll_8c.html#a059a419b0772b4d0553dbaee0af8bf53" title="ep_poll_safewake" alt="" coords="119,5,245,32"/>
-<area shape="rect" id="node3" href="$eventpoll_8c.html#ad0b21b1df44eb044a7de97d4546a270f" title="ep_unregister_pollwait" alt="" coords="293,56,444,83"/>
-<area shape="rect" id="node5" href="$eventpoll_8c.html#a8eb56461ede0bf759691bfcbb025267b" title="ep_remove" alt="" coords="139,107,225,133"/>
-<area shape="rect" id="node4" href="$eventpoll_8c.html#a48c905a9f542e3c94502a8098c90822d" title="ep_remove_wait_queue" alt="" coords="492,56,651,83"/>
-<area shape="rect" id="node6" href="$eventpoll_8c.html#ae1c712dbbbc7795cb8c2d9d8ae40ce66" title="ep_is_linked" alt="" coords="321,107,416,133"/>
-<area shape="rect" id="node7" href="$eventpoll_8c.html#a5ffbf74d616adb46f5ed04139f41dce2" title="ep_wakeup_source" alt="" coords="301,157,436,184"/>
-<area shape="rect" id="node8" href="$eventpoll_8c.html#acfa422c5d6fa50d980e45f405382015b" title="epi_rcu_free" alt="" coords="322,208,415,235"/>
-</map>

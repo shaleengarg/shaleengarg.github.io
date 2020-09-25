@@ -1,9 +1,0 @@
-<map id="xlog_discard_endio" name="xlog_discard_endio">
-<area shape="rect" id="node2" href="$xfs__log__cil_8c.html#a9c74b99ff70fd36ff4037bd96edff107" title="xlog_discard_endio_work" alt="" coords="187,132,355,159"/>
-<area shape="rect" id="node3" href="$xfs__extent__busy_8c.html#af91991431efe76b77ad245680566f4e1" title="xfs_extent_busy_clear" alt="" coords="403,81,556,108"/>
-<area shape="rect" id="node8" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="842,132,929,159"/>
-<area shape="rect" id="node4" href="$xfs__extent__busy_8c.html#a5c96b83175001e4d4e35853087da3227" title="xfs_extent_busy_put_pag" alt="" coords="609,5,780,32"/>
-<area shape="rect" id="node6" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="643,56,747,83"/>
-<area shape="rect" id="node7" href="$xfs__extent__busy_8c.html#a8f72592fb623fbf64e0f74eee231db44" title="xfs_extent_busy_clear_one" alt="" coords="604,107,785,133"/>
-<area shape="rect" id="node5" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="833,5,937,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="blkdev_get_block" name="blkdev_get_block">
-<area shape="rect" id="node2" href="$block__dev_8c.html#ad60cf6a3d1b756f06c6e34ffa0017e5f" title="blkdev_writepage" alt="" coords="181,5,304,32"/>
-<area shape="rect" id="node4" href="$block__dev_8c.html#a7dd3040203a1d8b126d56c75911b9d61" title="blkdev_readpage" alt="" coords="183,56,303,83"/>
-<area shape="rect" id="node5" href="$block__dev_8c.html#a67ef4ece59bd1677c3fc4da158c63789" title="blkdev_readpages" alt="" coords="179,107,306,133"/>
-<area shape="rect" id="node6" href="$block__dev_8c.html#a79f55c9dc8ec6bf5265408a217afa16e" title="blkdev_write_begin" alt="" coords="176,157,309,184"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#a87446c4001b804b7332197fddef2dd52" title="blkdev_writepages" alt="" coords="357,81,488,108"/>
-</map>

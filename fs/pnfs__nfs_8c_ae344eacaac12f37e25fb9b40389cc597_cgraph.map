@@ -1,6 +1,0 @@
-<map id="destroy_ds" name="destroy_ds">
-<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#a69cf00d7e2e8d655a99083e8d25cee81" title="print_ds" alt="" coords="157,5,225,32"/>
-<area shape="rect" id="node3" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="140,80,243,107"/>
-<area shape="rect" id="node4" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="291,55,468,81"/>
-<area shape="rect" id="node5" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="293,105,465,132"/>
-</map>

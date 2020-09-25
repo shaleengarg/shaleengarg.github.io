@@ -1,7 +1,0 @@
-<map id="btrfs_split_extent_hook" name="btrfs_split_extent_hook">
-<area shape="rect" id="node2" href="$ctree_8h.html#a9008b08bd86bea90e107049f3b23b06b" title="count_max_extents" alt="" coords="220,5,356,32"/>
-<area shape="rect" id="node3" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="249,56,327,83"/>
-<area shape="rect" id="node4" href="$btrfs__inode_8h.html#a36a6c94cdf8beaf463c2743f6112633d" title="btrfs_mod_outstanding\l_extents" alt="" coords="211,107,365,149"/>
-<area shape="rect" id="node5" href="$btrfs__inode_8h.html#a27fc80b23784d20a2b6485b3860c0e76" title="btrfs_is_free_space\l_inode" alt="" coords="413,78,549,119"/>
-<area shape="rect" id="node6" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="597,115,669,141"/>
-</map>

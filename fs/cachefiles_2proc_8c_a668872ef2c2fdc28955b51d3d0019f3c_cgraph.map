@@ -1,7 +1,0 @@
-<map id="cachefiles_histogram_show" name="cachefiles_histogram_show">
-<area shape="rect" id="node2" href="$seq__file_8c.html#a7e5f420f36260aabc2ae80abca76a19f" title="seq_puts" alt="" coords="369,5,443,32"/>
-<area shape="rect" id="node5" href="$seq__file_8c.html#a5a644509fc0a1f14bf32a7f9c3058042" title="seq_printf" alt="" coords="236,56,315,83"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#aa0c3da593b07f6448ddc691618738c67" title="seq_set_overflow" alt="" coords="505,5,629,32"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="497,56,636,83"/>
-<area shape="rect" id="node6" href="$seq__file_8c.html#a75db3c337849b0f4d8b7ab14216fb475" title="seq_vprintf" alt="" coords="363,56,449,83"/>
-</map>

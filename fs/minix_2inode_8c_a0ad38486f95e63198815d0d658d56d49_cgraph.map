@@ -1,6 +1,0 @@
-<map id="minix_statfs" name="minix_statfs">
-<area shape="rect" id="node2" href="$minix_8h.html#ac6ba967944dbe453727e50ba682dd6a7" title="minix_sb" alt="" coords="365,25,440,52"/>
-<area shape="rect" id="node3" href="$minix_2bitmap_8c.html#adc64404a43dcb048df0ed6c310b6665f" title="minix_count_free_blocks" alt="" coords="147,76,313,102"/>
-<area shape="rect" id="node5" href="$minix_2bitmap_8c.html#ac9f7e52c6fd50e534b795014d1153b6a" title="minix_count_free_inodes" alt="" coords="147,25,313,52"/>
-<area shape="rect" id="node4" href="$minix_2bitmap_8c.html#a0f01a78b5b837e59cb77976cd8c11633" title="count_free" alt="" coords="361,76,444,102"/>
-</map>

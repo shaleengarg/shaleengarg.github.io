@@ -1,9 +1,0 @@
-<map id="nfsd_get_default_max_blksize" name="nfsd_get_default_max_blksize">
-<area shape="rect" id="node2" href="$nfssvc_8c.html#ad13e5644050ad04af42a31c53eca6904" title="nfsd_create_serv" alt="" coords="204,56,327,83"/>
-<area shape="rect" id="node3" href="$nfsctl_8c.html#ad63abcd3f52a2b6c6eea863edcea3246" title="__write_ports_addfd" alt="" coords="381,5,519,32"/>
-<area shape="rect" id="node6" href="$nfsctl_8c.html#aa7aba14567ce82ae54d271816c9ca1a4" title="__write_ports_addxprt" alt="" coords="375,56,525,83"/>
-<area shape="rect" id="node7" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="413,107,487,133"/>
-<area shape="rect" id="node4" href="$nfsctl_8c.html#a86cf7be69ecc932f6aea3dd20a119da6" title="__write_ports" alt="" coords="573,31,673,57"/>
-<area shape="rect" id="node5" href="$nfsctl_8c.html#a5baae2a01636a44623fc2637a3e1edce" title="write_ports" alt="" coords="721,31,808,57"/>
-<area shape="rect" id="node8" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="573,107,673,133"/>
-</map>

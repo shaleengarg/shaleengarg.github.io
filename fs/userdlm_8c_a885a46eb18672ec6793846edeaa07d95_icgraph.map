@@ -1,6 +1,0 @@
-<map id="user_may_continue_on_blocked_lock" name="user_may_continue_on_blocked_lock">
-<area shape="rect" id="node2" href="$userdlm_8h.html#a4506af2c650ea82fe8ced033513735de" title="user_dlm_cluster_lock" alt="" coords="209,13,361,39"/>
-<area shape="rect" id="node3" href="$dlmfs_8c.html#af57175a47454298e86729b0308ad17c4" title="dlmfs_file_open" alt="" coords="409,13,523,39"/>
-<area shape="rect" id="node4" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="571,13,684,39"/>
-<area shape="rect" id="node5" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="732,13,829,39"/>
-</map>

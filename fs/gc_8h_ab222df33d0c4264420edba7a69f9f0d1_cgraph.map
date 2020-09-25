@@ -1,6 +1,0 @@
-<map id="free_user_blocks" name="free_user_blocks">
-<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#afaa651a3f0ec83a0f02051371caee5bb" title="free_segments" alt="" coords="175,5,283,32"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a49ac4acd0019ae717254e93b0b15cbc6" title="overprovision_segments" alt="" coords="331,56,493,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="377,5,447,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="541,31,595,57"/>
-</map>

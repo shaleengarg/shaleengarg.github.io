@@ -1,6 +1,0 @@
-<map id="nilfs_get_page" name="nilfs_get_page">
-<area shape="rect" id="node2" href="$nilfs2_2dir_8c.html#a5c97478983c805860e665d120d843f5d" title="nilfs_check_page" alt="" coords="160,31,283,57"/>
-<area shape="rect" id="node5" href="$nilfs2_2dir_8c.html#a3271ae4481f9cea4f05e6b4ee3ff221c" title="nilfs_put_page" alt="" coords="168,81,275,108"/>
-<area shape="rect" id="node3" href="$nilfs2_2dir_8c.html#adfaee11cbee626cafdadebb69286b9ee" title="nilfs_chunk_size" alt="" coords="351,5,469,32"/>
-<area shape="rect" id="node4" href="$nilfs2_2dir_8c.html#a53c206bee30a9e1ade4b6dca7d2bb3b3" title="nilfs_rec_len_from_disk" alt="" coords="331,56,489,83"/>
-</map>

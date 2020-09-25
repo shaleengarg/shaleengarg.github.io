@@ -1,8 +1,0 @@
-<map id="nfsacl_encode" name="nfsacl_encode">
-<area shape="rect" id="node2" href="$nfsacl_8c.html#a9416e9a8de936ac2a90c098a424172b4" title="xdr_nfsace_encode" alt="" coords="179,5,313,32"/>
-<area shape="rect" id="node3" href="$posix__acl_8c.html#adf2bdd41f79cdfef8afff7adbdad95ac" title="posix_acl_init" alt="" coords="195,56,297,83"/>
-<area shape="rect" id="node7" href="$nfsacl_8c.html#ad10df9a1be04f685206ae009b8cb0142" title="EXPORT_SYMBOL_GPL" alt="" coords="160,107,332,133"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="422,31,477,57"/>
-<area shape="rect" id="node6" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="380,81,519,108"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="567,31,685,57"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="_sess_auth_rawntlmssp_assemble_req" name="_sess_auth_rawntlmssp_assemble_req">
-<area shape="rect" id="node2" href="$sess_8c.html#ac6a0954518b1a3ab8ae61ac00e422c1e" title="sess_auth_rawntlmssp\l_negotiate" alt="" coords="420,5,576,47"/>
-<area shape="rect" id="node5" href="$sess_8c.html#ad848701aff422ad86b039a04ef75582e" title="sess_auth_rawntlmssp\l_authenticate" alt="" coords="216,35,372,76"/>
-<area shape="rect" id="node3" href="$sess_8c.html#abed14428fcd713471f264576b01d450a" title="select_sec" alt="" coords="624,13,709,39"/>
-<area shape="rect" id="node4" href="$sess_8c.html#a77c3a8af6e43e5591ae61afffa79aefa" title="CIFS_SessSetup" alt="" coords="757,13,881,39"/>
-</map>

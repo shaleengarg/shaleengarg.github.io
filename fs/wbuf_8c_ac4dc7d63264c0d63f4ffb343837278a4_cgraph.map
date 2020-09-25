@@ -1,6 +1,0 @@
-<map id="jffs2_wbuf_dirties_inode" name="jffs2_wbuf_dirties_inode">
-<area shape="rect" id="node2" href="$wbuf_8c.html#a700969dba04526abe954249b6ef31b49" title="jffs2_dirty_trigger" alt="" coords="199,5,321,32"/>
-<area shape="rect" id="node4" href="$wbuf_8c.html#af483873e059b79c053c859accbdb0122" title="jffs2_wbuf_pending\l_for_ino" alt="" coords="193,57,327,98"/>
-<area shape="rect" id="node5" href="$wbuf_8c.html#a8b238a278724d3dd8e27a1f4f2718fb4" title="jffs2_clear_wbuf_ino_list" alt="" coords="177,123,343,149"/>
-<area shape="rect" id="node3" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="391,5,444,32"/>
-</map>

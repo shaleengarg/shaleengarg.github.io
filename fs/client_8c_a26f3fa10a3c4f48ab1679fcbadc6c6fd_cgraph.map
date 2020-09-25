@@ -1,8 +1,0 @@
-<map id="nfs_alloc_client" name="nfs_alloc_client">
-<area shape="rect" id="node2" href="$nfs_2fscache_8c.html#a2bf864fa061c358b9bba2293c55f253f" title="nfs_fscache_get_client\l_cookie" alt="" coords="176,5,332,47"/>
-<area shape="rect" id="node3" href="$client_8c.html#a5dc566a37155be5c5ad6d85f674dd5e6" title="put_nfs_version" alt="" coords="197,71,311,98"/>
-<area shape="rect" id="node4" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="168,122,340,149"/>
-<area shape="rect" id="node5" href="$client_8c.html#addf78a148521b1c30ecb6e3d46724368" title="nfs_cleanup_cb_ident_idr" alt="" coords="169,173,339,199"/>
-<area shape="rect" id="node6" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="165,223,343,250"/>
-<area shape="rect" id="node7" href="$client_8c.html#a2476c1f0da815d4014f45958ef2aad9d" title="pnfs_init_server" alt="" coords="197,274,311,301"/>
-</map>

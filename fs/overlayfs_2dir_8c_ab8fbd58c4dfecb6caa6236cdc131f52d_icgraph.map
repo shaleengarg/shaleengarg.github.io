@@ -1,6 +1,0 @@
-<map id="ovl_create_object" name="ovl_create_object">
-<area shape="rect" id="node2" href="$overlayfs_2dir_8c.html#a2dc20583a9234d91bc7359ddb0706d4d" title="ovl_create" alt="" coords="181,5,264,32"/>
-<area shape="rect" id="node3" href="$overlayfs_2dir_8c.html#a69497153f75b92f560e5a8177ebe372e" title="ovl_mkdir" alt="" coords="183,56,262,83"/>
-<area shape="rect" id="node4" href="$overlayfs_2dir_8c.html#af47106a65ebf90719316dd60005b227c" title="ovl_mknod" alt="" coords="180,107,265,133"/>
-<area shape="rect" id="node5" href="$overlayfs_2dir_8c.html#a66b75ac9d56232515e26f5326d0a5ba4" title="ovl_symlink" alt="" coords="177,157,268,184"/>
-</map>

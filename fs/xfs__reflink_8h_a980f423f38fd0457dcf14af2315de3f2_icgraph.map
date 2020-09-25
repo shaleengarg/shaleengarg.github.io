@@ -1,5 +1,0 @@
-<map id="xfs_reflink_clear_inode_flag" name="xfs_reflink_clear_inode_flag">
-<area shape="rect" id="node2" href="$xfs__reflink_8c.html#a20b1eefffe96b23163c57ea5d64eb295" title="xfs_reflink_try_clear\l_inode_flag" alt="" coords="236,5,375,47"/>
-<area shape="rect" id="node3" href="$xfs__reflink_8h.html#a0e8c219f70d8f2f215dafd39e4bc03f8" title="xfs_reflink_unshare" alt="" coords="423,13,557,39"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="605,13,725,39"/>
-</map>

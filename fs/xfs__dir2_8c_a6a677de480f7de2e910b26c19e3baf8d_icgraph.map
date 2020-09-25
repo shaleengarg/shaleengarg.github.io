@@ -1,6 +1,0 @@
-<map id="xfs_dir_canenter" name="xfs_dir_canenter">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#a999c5f59f97aace37e75a78d78557161" title="xfs_link" alt="" coords="184,5,251,32"/>
-<area shape="rect" id="node4" href="$xfs__inode_8h.html#ab11bbd1d7db120a4ab2bf8abd5dd1347" title="xfs_rename" alt="" coords="172,56,263,83"/>
-<area shape="rect" id="node3" href="$xfs__iops_8c.html#a4aca1097ec09e73bf763c778e3d35cac" title="xfs_vn_link" alt="" coords="322,5,410,32"/>
-<area shape="rect" id="node5" href="$xfs__iops_8c.html#a6f54075d9c6565006d2b3683b7530115" title="xfs_vn_rename" alt="" coords="311,56,421,83"/>
-</map>

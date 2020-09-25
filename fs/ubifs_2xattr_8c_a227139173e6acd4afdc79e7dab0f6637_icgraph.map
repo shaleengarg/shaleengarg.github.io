@@ -1,6 +1,0 @@
-<map id="create_xattr" name="create_xattr">
-<area shape="rect" id="node2" href="$ubifs_2xattr_8c.html#a2c0f8e28d408b8e89b4ce7d6047af912" title="ubifs_xattr_set" alt="" coords="144,56,252,83"/>
-<area shape="rect" id="node3" href="$ubifs_2xattr_8c.html#ab1059c832c48181a6da6627bc5e9a1a7" title="ubifs_xattr_remove" alt="" coords="314,5,447,32"/>
-<area shape="rect" id="node4" href="$ubifs_2xattr_8c.html#a77418f005715889cfa65e2645c52415e" title="xattr_set" alt="" coords="509,31,583,57"/>
-<area shape="rect" id="node5" href="$ubifs_2crypto_8c.html#a4984848c1f6ebc630f98d30a9bbf2ed3" title="ubifs_crypt_set_context" alt="" coords="300,107,461,133"/>
-</map>

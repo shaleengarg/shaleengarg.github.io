@@ -1,6 +1,0 @@
-<map id="simple_rename" name="simple_rename">
-<area shape="rect" id="node2" href="$debugfs_2inode_8c.html#a66d3482e4bda1976fcedf4a0a02b23f1" title="debugfs_rename" alt="" coords="164,5,283,32"/>
-<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="186,56,261,83"/>
-<area shape="rect" id="node5" href="$ramfs_2inode_8c.html#a22ddff08c35237ba1cde62e99de73e8e" title="ramfs_symlink" alt="" coords="170,107,277,133"/>
-<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="331,56,448,83"/>
-</map>

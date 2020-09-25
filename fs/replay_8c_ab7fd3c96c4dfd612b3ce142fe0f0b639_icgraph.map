@@ -1,6 +1,0 @@
-<map id="destroy_bud_list" name="destroy_bud_list">
-<area shape="rect" id="node2" href="$ubifs_8h.html#af76f722fe22c9c52675c75c16369d414" title="ubifs_replay_journal" alt="" coords="171,5,308,32"/>
-<area shape="rect" id="node3" href="$ubifs_2super_8c.html#a46b3e42ff47f5cf6ff917d607a273c2e" title="mount_ubifs" alt="" coords="356,5,449,32"/>
-<area shape="rect" id="node4" href="$ubifs_2super_8c.html#a73c1841d0d4128ecdc7942ca25001f98" title="ubifs_fill_super" alt="" coords="497,5,607,32"/>
-<area shape="rect" id="node5" href="$ubifs_2super_8c.html#a9d5671876eccb7da1101b3039a34dffc" title="ubifs_mount" alt="" coords="655,5,748,32"/>
-</map>

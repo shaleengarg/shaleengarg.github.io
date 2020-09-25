@@ -1,4 +1,0 @@
-<map id="smb2_select_sectype" name="smb2_select_sectype">
-<area shape="rect" id="node2" href="$smb2pdu_8c.html#ac5c29dc7c8de7c80beb32c7d00233f72" title="SMB2_select_sec" alt="" coords="203,5,331,32"/>
-<area shape="rect" id="node3" href="$smb2proto_8h.html#aa1f9c2a45319fd4a15af94bb9cd0cb5f" title="SMB2_sess_setup" alt="" coords="379,5,511,32"/>
-</map>

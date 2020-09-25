@@ -1,6 +1,0 @@
-<map id="__gfs2_jdata_writepage" name="__gfs2_jdata_writepage">
-<area shape="rect" id="node2" href="$gfs2_2aops_8c.html#a90568f12fb8097b346362fc40b525cc5" title="gfs2_jdata_writepage" alt="" coords="226,5,371,32"/>
-<area shape="rect" id="node3" href="$gfs2_2aops_8c.html#a83dbff3c51e1b0b0f684b981ec0d1a46" title="gfs2_write_jdata_pagevec" alt="" coords="212,56,385,83"/>
-<area shape="rect" id="node4" href="$gfs2_2aops_8c.html#a56f578ea8155930045c13073cf026985" title="gfs2_write_cache_jdata" alt="" coords="433,56,592,83"/>
-<area shape="rect" id="node5" href="$gfs2_2aops_8c.html#a31e30c7a244982463a28412453628849" title="gfs2_jdata_writepages" alt="" coords="640,56,792,83"/>
-</map>

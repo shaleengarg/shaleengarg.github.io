@@ -1,9 +1,0 @@
-<map id="xfs_buf_allocate_memory" name="xfs_buf_allocate_memory">
-<area shape="rect" id="node2" href="$kmem_8c.html#a3a97008c8a56171b82c390137ed30046" title="kmem_alloc" alt="" coords="411,81,503,108"/>
-<area shape="rect" id="node7" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="250,81,337,108"/>
-<area shape="rect" id="node8" href="$xfs__buf_8c.html#a874b8a5cd11f8f89f27fad157575ef3c" title="_xfs_buf_get_pages" alt="" coords="224,132,363,159"/>
-<area shape="rect" id="node3" href="$kmem_8h.html#ab8d76f86e4e64d9effcdd9cebcc5525a" title="kmem_flags_convert" alt="" coords="551,56,693,83"/>
-<area shape="rect" id="node4" href="$kmem_8h.html#a0afa6f1821bad6ece6a338acfb0ee044" title="kmem_alloc" alt="" coords="759,5,851,32"/>
-<area shape="rect" id="node5" href="$kmem_8h.html#af973995edbeaf6562cb814a62b6365bf" title="kmem_alloc_large" alt="" coords="741,107,868,133"/>
-<area shape="rect" id="node6" href="$kmem_8h.html#ae4cd1b06b3106d670ee2763bc9fd68e6" title="kmem_realloc" alt="" coords="753,56,856,83"/>
-</map>

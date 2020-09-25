@@ -1,6 +1,0 @@
-<map id="d_instantiate_new" name="d_instantiate_new">
-<area shape="rect" id="node2" href="$dcache_8c.html#a3c471dd0d1ff573bdb8e84243685ceb3" title="__d_instantiate" alt="" coords="194,31,305,57"/>
-<area shape="rect" id="node5" href="$dcache_8c.html#aeb5ec7bdf3301140d66dd18ae638685c" title="EXPORT_SYMBOL" alt="" coords="180,81,319,108"/>
-<area shape="rect" id="node3" href="$dcache_8c.html#a990fb9ad584b8c9f0a0167ca94d6a01f" title="d_flags_for_inode" alt="" coords="388,5,512,32"/>
-<area shape="rect" id="node4" href="$dcache_8c.html#a95f527a9dc7c279bc6db816cd2899632" title="__d_set_inode_and_type" alt="" coords="367,56,533,83"/>
-</map>

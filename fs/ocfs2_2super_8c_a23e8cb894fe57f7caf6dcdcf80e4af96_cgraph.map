@@ -1,7 +1,0 @@
-<map id="__ocfs2_error" name="__ocfs2_error">
-<area shape="rect" id="node2" href="$ocfs2_2super_8c.html#ae4ca7c3fd444760a539faedfd92cb2c1" title="ocfs2_handle_error" alt="" coords="155,81,287,108"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#ab884f994690fd761194cd5308b5491eb" title="ocfs2_set_osb_flag" alt="" coords="347,5,481,32"/>
-<area shape="rect" id="node4" href="$ocfs2_8h.html#a7889c84bca8d56eaeb6945c1eb4d36c4" title="ocfs2_is_soft_readonly" alt="" coords="336,56,492,83"/>
-<area shape="rect" id="node5" href="$ocfs2_8h.html#a51e1d0086ac2d8afc66a67fb1d1a24df" title="ocfs2_is_hard_readonly" alt="" coords="335,107,493,133"/>
-<area shape="rect" id="node6" href="$ocfs2_8h.html#ab241824fac3a28f306bcbed764f400a9" title="ocfs2_set_ro_flag" alt="" coords="351,157,477,184"/>
-</map>

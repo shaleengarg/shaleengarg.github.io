@@ -1,8 +1,0 @@
-<map id="fsnotify_alloc_group" name="fsnotify_alloc_group">
-<area shape="rect" id="node2" href="$dnotify_8c.html#a1c257e337f59d58ee16079c6bc2b0c5f" title="dnotify_init" alt="" coords="223,5,308,32"/>
-<area shape="rect" id="node3" href="$fanotify__user_8c.html#a2db9d9a71af080619cb6a3c7f0bc2278" title="SYSCALL_DEFINE2" alt="" coords="192,56,339,83"/>
-<area shape="rect" id="node4" href="$inotify__user_8c.html#a9de8db95f4e23b6c9315bd003fe76463" title="inotify_new_group" alt="" coords="202,107,329,133"/>
-<area shape="rect" id="node5" href="$inotify__user_8c.html#abdfb40ae17619995270fd3693034b29e" title="do_inotify_init" alt="" coords="387,107,489,133"/>
-<area shape="rect" id="node6" href="$inotify__user_8c.html#a39839e33c7872b713a2e5e08776401a2" title="SYSCALL_DEFINE1" alt="" coords="537,81,684,108"/>
-<area shape="rect" id="node7" href="$inotify__user_8c.html#a6bb66b1348985ca75bbbbbb61a567521" title="SYSCALL_DEFINE0" alt="" coords="537,132,684,159"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="xfs_dir3_free_verify" name="xfs_dir3_free_verify">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="189,5,345,32"/>
-<area shape="rect" id="node3" href="$xfs__log_8c.html#a85ca9841babc402bd450760079ee6f7e" title="xfs_log_check_lsn" alt="" coords="202,56,333,83"/>
-<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#a25c85404b03fddb0a8083ac4243d6b3d" title="xlog_valid_lsn" alt="" coords="393,56,497,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ovl_cache_put" name="ovl_cache_put">
-<area shape="rect" id="node2" href="$overlayfs_2readdir_8c.html#a77148d6a32f4ba964aa7c3a67572edf5" title="ovl_dir_reset" alt="" coords="167,31,263,57"/>
-<area shape="rect" id="node5" href="$overlayfs_2readdir_8c.html#aee56d5980f57ae215ba9505cc9bd1f77" title="ovl_dir_release" alt="" coords="160,81,269,108"/>
-<area shape="rect" id="node3" href="$overlayfs_2readdir_8c.html#aab0e7e9ac977418d499ee151b08a1bb0" title="ovl_iterate" alt="" coords="327,5,409,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2readdir_8c.html#a533c709af49215afb88b1ca7224ccf2a" title="ovl_dir_llseek" alt="" coords="317,56,419,83"/>
-</map>

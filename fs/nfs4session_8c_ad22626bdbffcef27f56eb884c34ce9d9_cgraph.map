@@ -1,7 +1,0 @@
-<map id="nfs4_slot_wait_on_seqid" name="nfs4_slot_wait_on_seqid">
-<area shape="rect" id="node2" href="$nfs4session_8c.html#a469feca934aa2eb19e83783fab7e3d24" title="nfs4_slot_seqid_in_use" alt="" coords="219,5,377,32"/>
-<area shape="rect" id="node3" href="$nfs4session_8c.html#a70c5a9d3c449de5c1baf496272ab3ad5" title="nfs4_slot_get_seqid" alt="" coords="425,5,564,32"/>
-<area shape="rect" id="node4" href="$nfs4session_8c.html#a3054a27d9ca9330214f2d5e67abc850e" title="nfs4_lookup_slot" alt="" coords="612,5,732,32"/>
-<area shape="rect" id="node5" href="$nfs4session_8c.html#a1b8596f0771e688c405ee009adc830d4" title="nfs4_find_or_create_slot" alt="" coords="780,5,944,32"/>
-<area shape="rect" id="node6" href="$nfs4session_8c.html#aa541623176dc49b6d9325d5238ddd4eb" title="nfs4_new_slot" alt="" coords="992,5,1099,32"/>
-</map>

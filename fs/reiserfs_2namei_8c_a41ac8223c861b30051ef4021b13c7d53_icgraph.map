@@ -1,6 +1,0 @@
-<map id="new_inode_init" name="new_inode_init">
-<area shape="rect" id="node2" href="$reiserfs_2namei_8c.html#a00a5e63042c9b6b62314b77e52b1e4e0" title="reiserfs_create" alt="" coords="166,5,274,32"/>
-<area shape="rect" id="node3" href="$reiserfs_2namei_8c.html#a6a7627b8e5f4735b87545255ff23ad27" title="reiserfs_mknod" alt="" coords="165,56,275,83"/>
-<area shape="rect" id="node4" href="$reiserfs_2namei_8c.html#a429d1156e703362c5ff7f7c9d373cfa3" title="reiserfs_mkdir" alt="" coords="168,107,272,133"/>
-<area shape="rect" id="node5" href="$reiserfs_2namei_8c.html#a9fb6078115f91c85b3217c1d28613760" title="reiserfs_symlink" alt="" coords="161,157,279,184"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="ufs_find_entry" name="ufs_find_entry">
-<area shape="rect" id="node2" href="$ufs_8h.html#adde52f2b18a21ec68bdc3fb3d43045be" title="ufs_inode_by_name" alt="" coords="157,56,296,83"/>
-<area shape="rect" id="node5" href="$ufs_2namei_8c.html#a3590d2eba7dba24cb77feffe678229ed" title="ufs_unlink" alt="" coords="186,107,267,133"/>
-<area shape="rect" id="node7" href="$ufs_2namei_8c.html#a60a226ff98c51b5c208213c531c08c36" title="ufs_rename" alt="" coords="181,157,272,184"/>
-<area shape="rect" id="node3" href="$ufs_2super_8c.html#a765ba66e9ec0d42aa4878265ba75ffeb" title="ufs_get_parent" alt="" coords="344,5,452,32"/>
-<area shape="rect" id="node4" href="$ufs_2namei_8c.html#aa478838ef2c89b748bc2d633435e59f0" title="ufs_lookup" alt="" coords="355,56,441,83"/>
-<area shape="rect" id="node6" href="$ufs_2namei_8c.html#aa5f7e42d5247a66a4e2c8ced3dd6a5af" title="ufs_rmdir" alt="" coords="360,107,436,133"/>
-</map>

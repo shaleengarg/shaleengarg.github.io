@@ -1,6 +1,0 @@
-<map id="ecryptfs_set_dentry_private" name="ecryptfs_set_dentry_private">
-<area shape="rect" id="node2" href="$ecryptfs_2inode_8c.html#a74a31bd5ba682c414a61bab2ea0b2f76" title="ecryptfs_lookup_interpose" alt="" coords="191,8,365,35"/>
-<area shape="rect" id="node4" href="$ecryptfs_2main_8c.html#aa971f29739b630fd4439bee2feb73003" title="ecryptfs_mount" alt="" coords="222,60,334,87"/>
-<area shape="rect" id="node3" href="$ecryptfs_2inode_8c.html#a12d536a3a1a72ba18dcc8ff49a79e9af" title="ecryptfs_lookup" alt="" coords="421,5,536,32"/>
-<area shape="rect" id="node5" href="$ecryptfs_2main_8c.html#afc526befd9b281d81555e8ee7f643d6e" title="ecryptfs_kill_block\l_super" alt="" coords="413,57,544,98"/>
-</map>

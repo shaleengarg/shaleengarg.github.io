@@ -1,7 +1,0 @@
-<map id="__fat_nfs_get_inode" name="__fat_nfs_get_inode">
-<area shape="rect" id="node2" href="$nfs_8c.html#a61ef8d084cdf7fea2ecbbc9cb5204c35" title="fat_nfs_get_inode" alt="" coords="212,31,337,57"/>
-<area shape="rect" id="node5" href="$nfs_8c.html#a9a25b14c38fa430f2b3a5425bc5f7a44" title="fat_fh_to_dentry_nostale" alt="" coords="192,81,357,108"/>
-<area shape="rect" id="node6" href="$nfs_8c.html#adbaa8face48e176d58d800b7bf35cb21" title="fat_fh_to_parent_nostale" alt="" coords="192,132,357,159"/>
-<area shape="rect" id="node3" href="$nfs_8c.html#ac4f514ea5fa22ebb9b42e4b642f4a24d" title="fat_fh_to_dentry" alt="" coords="405,5,521,32"/>
-<area shape="rect" id="node4" href="$nfs_8c.html#a445bf212c40cf7207ee0d388c12625fb" title="fat_fh_to_parent" alt="" coords="405,56,521,83"/>
-</map>

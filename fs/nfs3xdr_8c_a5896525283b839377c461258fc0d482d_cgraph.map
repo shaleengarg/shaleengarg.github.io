@@ -1,5 +1,0 @@
-<map id="nfs3_xdr_enc_remove3args" name="nfs3_xdr_enc_remove3args">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a1c1ae771244dfbf31b4e8be28804b2f9" title="encode_diropargs3" alt="" coords="236,31,367,57"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#a77925b2eaeb401394e4c4dd7bb6e67db" title="encode_nfs_fh3" alt="" coords="421,5,535,32"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#aac99569f42001b031547c7b0504b4333" title="encode_filename3" alt="" coords="415,56,541,83"/>
-</map>

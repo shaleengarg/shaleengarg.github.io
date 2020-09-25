@@ -1,6 +1,0 @@
-<map id="xdr_decode_AFSVolSync" name="xdr_decode_AFSVolSync">
-<area shape="rect" id="node2" href="$fsclient_8c.html#aa5dac82a8444b9ea6b17166496f0dba3" title="afs_deliver_fs_fetch\l_status_vnode" alt="" coords="240,5,379,47"/>
-<area shape="rect" id="node3" href="$fsclient_8c.html#a07b91e8e6dab34e72bbc6c9e6fd412b7" title="afs_deliver_fs_fetch_data" alt="" coords="224,71,395,98"/>
-<area shape="rect" id="node4" href="$fsclient_8c.html#a6c11006d406d97a017b6dcd5ea836533" title="afs_deliver_fs_fetch\l_status" alt="" coords="240,123,379,164"/>
-<area shape="rect" id="node5" href="$fsclient_8c.html#a06a566d495a34e0a4c2b9aaf871dd449" title="afs_deliver_fs_inline\l_bulk_status" alt="" coords="239,188,379,229"/>
-</map>

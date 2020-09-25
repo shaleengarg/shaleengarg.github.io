@@ -1,8 +1,0 @@
-<map id="nlmclnt_grant" name="nlmclnt_grant">
-<area shape="rect" id="node2" href="$svc4proc_8c.html#ad32be73ea91a0f7b3506dd549ee8a2c7" title="__nlm4svc_proc_granted" alt="" coords="153,56,320,83"/>
-<area shape="rect" id="node5" href="$svcproc_8c.html#a7990faedeeaa5e858cc78ab240fa0cb8" title="__nlmsvc_proc_granted" alt="" coords="157,107,317,133"/>
-<area shape="rect" id="node3" href="$svc4proc_8c.html#ac8ebf2658a372de357f98ab68939cc88" title="nlm4svc_proc_granted" alt="" coords="384,5,537,32"/>
-<area shape="rect" id="node4" href="$svc4proc_8c.html#a0f64f750ca2427cec1364e45a4c2e5d2" title="nlm4svc_proc_granted_msg" alt="" coords="368,56,553,83"/>
-<area shape="rect" id="node6" href="$svcproc_8c.html#a6c9197ac18c70ab71cce3d984089274d" title="nlmsvc_proc_granted" alt="" coords="387,107,534,133"/>
-<area shape="rect" id="node7" href="$svcproc_8c.html#ac9049578be64406d47a4f9c457c52392" title="nlmsvc_proc_granted_msg" alt="" coords="371,157,550,184"/>
-</map>

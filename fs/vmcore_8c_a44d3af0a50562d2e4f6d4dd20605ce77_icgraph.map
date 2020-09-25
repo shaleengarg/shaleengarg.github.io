@@ -1,9 +1,0 @@
-<map id="remap_oldmem_pfn_range" name="remap_oldmem_pfn_range">
-<area shape="rect" id="node2" href="$vmcore_8c.html#a72dbe4fc848921c62879eb9845843997" title="alloc_elfnotes_buf" alt="" coords="228,46,355,73"/>
-<area shape="rect" id="node3" href="$vmcore_8c.html#a2583937126689e215c0386b86dffebe6" title="merge_note_headers\l_elf64" alt="" coords="403,5,545,47"/>
-<area shape="rect" id="node7" href="$vmcore_8c.html#a38bbdf37e0c1906579cc9d28235244c7" title="merge_note_headers\l_elf32" alt="" coords="403,71,545,112"/>
-<area shape="rect" id="node4" href="$vmcore_8c.html#ac897b94ba9093a5f0a3979f2099c0c6d" title="parse_crash_elf64_headers" alt="" coords="593,17,775,43"/>
-<area shape="rect" id="node5" href="$vmcore_8c.html#a01c022a0aa4c0ed90729636dee6c9a17" title="parse_crash_elf_headers" alt="" coords="823,46,989,73"/>
-<area shape="rect" id="node6" href="$vmcore_8c.html#a96b3f33aac2c6921c86e2e3c03514724" title="vmcore_init" alt="" coords="1037,46,1127,73"/>
-<area shape="rect" id="node8" href="$vmcore_8c.html#a92d26f114b60cf5e8bcb69ad3f43dd02" title="parse_crash_elf32_headers" alt="" coords="593,71,775,98"/>
-</map>

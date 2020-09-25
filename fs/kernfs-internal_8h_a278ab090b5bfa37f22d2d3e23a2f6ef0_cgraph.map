@@ -1,9 +1,0 @@
-<map id="kernfs_iop_getattr" name="kernfs_iop_getattr">
-<area shape="rect" id="node2" href="$kernfs_2inode_8c.html#aa1f056c3bf2ac74d639eb6f670b81ba2" title="kernfs_refresh_inode" alt="" coords="180,56,323,83"/>
-<area shape="rect" id="node7" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="200,107,303,133"/>
-<area shape="rect" id="node3" href="$kernfs_2inode_8c.html#a55d074f7fb2530f085d307e71fd7aacc" title="set_inode_attr" alt="" coords="388,5,492,32"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="403,56,477,83"/>
-<area shape="rect" id="node5" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="557,31,641,57"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="689,56,828,83"/>
-<area shape="rect" id="node8" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="371,107,509,133"/>
-</map>

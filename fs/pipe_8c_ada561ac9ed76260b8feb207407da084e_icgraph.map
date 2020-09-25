@@ -1,5 +1,0 @@
-<map id="pipe_set_size" name="pipe_set_size">
-<area shape="rect" id="node2" href="$pipe_8c.html#ac1f8baa81aa9aaeaf83128515dc57c8d" title="pipe_fcntl" alt="" coords="156,5,235,32"/>
-<area shape="rect" id="node3" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="283,5,351,32"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="399,5,545,32"/>
-</map>

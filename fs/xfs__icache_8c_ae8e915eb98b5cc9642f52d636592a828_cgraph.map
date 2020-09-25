@@ -1,7 +1,0 @@
-<map id="xfs_inode_ag_walk_grab" name="xfs_inode_ag_walk_grab">
-<area shape="rect" id="node2" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="250,5,309,32"/>
-<area shape="rect" id="node3" href="$xfs__inode_8h.html#a53a85d4b55f2744d51678c6ba23ab05c" title="__xfs_iflags_test" alt="" coords="219,56,340,83"/>
-<area shape="rect" id="node4" href="$inode_8c.html#ad2a7d900c04745e54c8d2f3847922a59" title="igrab" alt="" coords="254,107,305,133"/>
-<area shape="rect" id="node5" href="$inode_8c.html#ab5747108c3d9a3f113b72a10a9be6a2f" title="__iget" alt="" coords="429,81,486,108"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="388,132,527,159"/>
-</map>

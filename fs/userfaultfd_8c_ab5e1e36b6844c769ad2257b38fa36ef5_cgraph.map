@@ -1,6 +1,0 @@
-<map id="userfaultfd_unregister" name="userfaultfd_unregister">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#af273c60a7a41b8e8ca4109458a25bf63" title="validate_range" alt="" coords="213,5,319,32"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a79e06d0c03b2364f35f42667f4efc2b1" title="vma_can_userfault" alt="" coords="200,56,332,83"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#a6ef8179c084f7879343b17de2ab4e046" title="wake_userfault" alt="" coords="211,107,321,133"/>
-<area shape="rect" id="node5" href="$userfaultfd_8c.html#a1990e8679c7735d08c6047d94194ba66" title="__wake_userfault" alt="" coords="380,107,504,133"/>
-</map>

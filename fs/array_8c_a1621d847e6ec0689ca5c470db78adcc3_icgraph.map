@@ -1,5 +1,0 @@
-<map id="render_sigset_t" name="render_sigset_t">
-<area shape="rect" id="node2" href="$array_8c.html#ae588cb08789dea1e3c6d08b2421baef5" title="task_sig" alt="" coords="178,5,249,32"/>
-<area shape="rect" id="node4" href="$signalfd_8c.html#a170f21934f6d88ddfd40262de58fa5cf" title="signalfd_read" alt="" coords="164,56,263,83"/>
-<area shape="rect" id="node3" href="$proc_2internal_8h.html#aa8a30438e03391929f1796a26b49e0e2" title="proc_pid_status" alt="" coords="311,5,425,32"/>
-</map>

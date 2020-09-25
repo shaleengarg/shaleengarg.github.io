@@ -1,8 +1,0 @@
-<map id="nfsd_direct_splice_actor" name="nfsd_direct_splice_actor">
-<area shape="rect" id="node2" href="$vfs_8h.html#ab78bc70485a870cfdf60425ef5650e7c" title="nfsd_splice_read" alt="" coords="180,31,300,57"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a5b516d6c27b4a11685153a35ccd82a08" title="nfsd4_encode_splice_read" alt="" coords="348,5,524,32"/>
-<area shape="rect" id="node5" href="$vfs_8h.html#a2a17a6fd6b09a492a5c74963776be1a3" title="nfsd_read" alt="" coords="397,56,475,83"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a662ac286c8cb631120088e4ea584d5e4" title="nfsd4_encode_read" alt="" coords="572,5,707,32"/>
-<area shape="rect" id="node6" href="$_2nfs3proc_8c.html#a3d950996f2107a53edbbe3b952796cd6" title="nfsd3_proc_read" alt="" coords="580,56,699,83"/>
-<area shape="rect" id="node7" href="$nfsproc_8c.html#a75d92ed077029c375a458d78768e93ce" title="nfsd_proc_read" alt="" coords="584,107,695,133"/>
-</map>

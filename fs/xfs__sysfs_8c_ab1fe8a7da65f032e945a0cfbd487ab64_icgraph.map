@@ -1,6 +1,0 @@
-<map id="to_xlog" name="to_xlog">
-<area shape="rect" id="node2" href="$xfs__sysfs_8c.html#a4966e5dce81a7d9534268ce7d446afb5" title="log_head_lsn_show" alt="" coords="137,5,273,32"/>
-<area shape="rect" id="node3" href="$xfs__sysfs_8c.html#ae90d212ffa31f6fd5543f00c61702458" title="log_tail_lsn_show" alt="" coords="142,56,267,83"/>
-<area shape="rect" id="node4" href="$xfs__sysfs_8c.html#aa68b9ffe6224d22b4642dedfb1425752" title="reserve_grant_head_show" alt="" coords="117,107,292,133"/>
-<area shape="rect" id="node5" href="$xfs__sysfs_8c.html#af3773bd5f46cc5ef627cecd1a05176fc" title="write_grant_head_show" alt="" coords="125,157,284,184"/>
-</map>

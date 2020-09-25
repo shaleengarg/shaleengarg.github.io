@@ -1,6 +1,0 @@
-<map id="efivarfs_get_inode" name="efivarfs_get_inode">
-<area shape="rect" id="node2" href="$efivarfs_2inode_8c.html#a785a8be26b168e94210cb5e5981fd23f" title="efivarfs_create" alt="" coords="187,5,295,32"/>
-<area shape="rect" id="node3" href="$efivarfs_2super_8c.html#a4b6b5b4707e78fbf705935f7c939087a" title="efivarfs_callback" alt="" coords="181,56,301,83"/>
-<area shape="rect" id="node4" href="$efivarfs_2super_8c.html#a93450b182242ebc83bc15d865fea6aa9" title="efivarfs_fill_super" alt="" coords="349,81,473,108"/>
-<area shape="rect" id="node5" href="$efivarfs_2super_8c.html#a4f2fa0d7e3a8acf226ce86d917f860ad" title="efivarfs_mount" alt="" coords="521,81,629,108"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="btrfs_dec_test_first_ordered_pending" name="btrfs_dec_test_first_ordered_pending">
-<area shape="rect" id="node2" href="$ctree_8h.html#a5d24abb485c124f8677ddfff67baa805" title="btrfs_sb" alt="" coords="199,5,268,32"/>
-<area shape="rect" id="node3" href="$btrfs__inode_8h.html#a06054e181bcdece3ad4de3bca790a091" title="BTRFS_I" alt="" coords="195,56,272,83"/>
-<area shape="rect" id="node4" href="$ordered-data_8c.html#a1ce1980bf84b0ff091ee8d2066e50e6d" title="tree_search" alt="" coords="188,157,279,184"/>
-<area shape="rect" id="node5" href="$ordered-data_8c.html#aa03cc14419be353cd957290fe3a788e0" title="offset_in_entry" alt="" coords="327,107,435,133"/>
-<area shape="rect" id="node6" href="$ordered-data_8c.html#af28576a0e92f352e755be898eb3f9402" title="__tree_search" alt="" coords="329,157,433,184"/>
-<area shape="rect" id="node7" href="$ordered-data_8c.html#a8ed7c0969e3946a8190fb8133ee9a248" title="entry_end" alt="" coords="483,157,561,184"/>
-</map>

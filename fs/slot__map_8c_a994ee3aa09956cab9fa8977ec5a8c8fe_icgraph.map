@@ -1,7 +1,0 @@
-<map id="ocfs2_slot_map_physical_size" name="ocfs2_slot_map_physical_size">
-<area shape="rect" id="node2" href="$slot__map_8c.html#aa1cbedd21e299ec557dc310fc3bd2213" title="ocfs2_map_slot_buffers" alt="" coords="253,5,415,32"/>
-<area shape="rect" id="node3" href="$slot__map_8h.html#ae4b21af279c912d22b6efc1f82cf7b43" title="ocfs2_init_slot_info" alt="" coords="463,5,597,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2super_8c.html#acde5a063bcd0ae6340db5ad59b6230ba" title="ocfs2_initialize_super" alt="" coords="645,5,792,32"/>
-<area shape="rect" id="node5" href="$ocfs2_2super_8c.html#aae09c84567eb36b012612fa7f187c3ee" title="ocfs2_fill_super" alt="" coords="840,5,953,32"/>
-<area shape="rect" id="node6" href="$ocfs2_2super_8c.html#aca38f76e33cde96ed91b51148bcdc947" title="ocfs2_mount" alt="" coords="1001,5,1099,32"/>
-</map>

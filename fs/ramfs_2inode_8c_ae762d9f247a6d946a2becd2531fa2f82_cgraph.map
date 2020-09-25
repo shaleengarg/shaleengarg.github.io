@@ -1,6 +1,0 @@
-<map id="init_ramfs_fs" name="init_ramfs_fs">
-<area shape="rect" id="node2" href="$filesystems_8c.html#a12c8edd3583d48417f03f189e05dd601" title="register_filesystem" alt="" coords="151,31,283,57"/>
-<area shape="rect" id="node5" href="$ramfs_2inode_8c.html#ad13c182e898d8838d8f12fd3d6bdb137" title="fs_initcall" alt="" coords="178,81,255,108"/>
-<area shape="rect" id="node3" href="$filesystems_8c.html#a7dae715a4fd6f1446c939efeb9894fd0" title="find_filesystem" alt="" coords="345,5,455,32"/>
-<area shape="rect" id="node4" href="$filesystems_8c.html#a4fbacada18b2c62d76aabe88bf31c2af" title="EXPORT_SYMBOL" alt="" coords="331,56,469,83"/>
-</map>

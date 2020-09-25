@@ -1,5 +1,0 @@
-<map id="__close_session" name="__close_session">
-<area shape="rect" id="node2" href="$mds__client_8c.html#abab2da4105360ad973877ec0a11c1397" title="request_close_session" alt="" coords="172,31,327,57"/>
-<area shape="rect" id="node3" href="$mds__client_8c.html#afaba7f45f5f30ce2e396519d30889d67" title="ceph_session_state_name" alt="" coords="375,5,552,32"/>
-<area shape="rect" id="node4" href="$mds__client_8c.html#ab0510fb7365b23d910ff9391293006a2" title="create_session_msg" alt="" coords="392,56,535,83"/>
-</map>

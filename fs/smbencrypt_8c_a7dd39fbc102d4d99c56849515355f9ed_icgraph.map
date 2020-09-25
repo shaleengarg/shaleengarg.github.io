@@ -1,6 +1,0 @@
-<map id="SMBencrypt" name="SMBencrypt">
-<area shape="rect" id="node2" href="$cifsproto_8h.html#a74701b9832dad299798efb9fee368e02" title="setup_ntlm_response" alt="" coords="148,5,295,32"/>
-<area shape="rect" id="node3" href="$sess_8c.html#ab23e2b3ab00a8b247bfeaeddd25237c3" title="sess_auth_ntlm" alt="" coords="343,5,457,32"/>
-<area shape="rect" id="node4" href="$sess_8c.html#abed14428fcd713471f264576b01d450a" title="select_sec" alt="" coords="505,5,591,32"/>
-<area shape="rect" id="node5" href="$sess_8c.html#a77c3a8af6e43e5591ae61afffa79aefa" title="CIFS_SessSetup" alt="" coords="639,5,763,32"/>
-</map>

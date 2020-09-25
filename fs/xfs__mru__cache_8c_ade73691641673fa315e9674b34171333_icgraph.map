@@ -1,8 +1,0 @@
-<map id="xfs_mru_cache_flush" name="xfs_mru_cache_flush">
-<area shape="rect" id="node2" href="$xfs__mru__cache_8h.html#afb6e5c0bfff2fd99210477d6c290ed3a" title="xfs_mru_cache_destroy" alt="" coords="200,35,361,61"/>
-<area shape="rect" id="node3" href="$xfs__filestream_8h.html#a325c8c596596cd8c3bcda2ebea09f70c" title="xfs_filestream_unmount" alt="" coords="409,35,571,61"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="621,8,739,35"/>
-<area shape="rect" id="node6" href="$xfs__super_8c.html#ad673589bd85ed83fd3861c5bdeca5ab6" title="xfs_fs_put_super" alt="" coords="619,60,741,87"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="807,5,908,32"/>
-<area shape="rect" id="node7" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="789,57,925,98"/>
-</map>

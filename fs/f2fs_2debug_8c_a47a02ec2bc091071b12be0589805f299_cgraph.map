@@ -1,9 +1,0 @@
-<map id="update_mem_info" name="update_mem_info">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a9950694608ca4299c7199d648974c035" title="f2fs_discard_en" alt="" coords="187,5,301,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a83ac0b6590c66024dd5262b491a767ee" title="__bitmap_size" alt="" coords="191,56,297,83"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="217,107,271,133"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="217,157,271,184"/>
-<area shape="rect" id="node7" href="$f2fs_8h.html#aab8e501a500e723cf611b0d816e9d6a1" title="NODE_MAPPING" alt="" coords="179,208,309,235"/>
-<area shape="rect" id="node8" href="$f2fs_8h.html#a8826c1c198e1e502d643792da13615d4" title="META_MAPPING" alt="" coords="180,259,308,285"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="357,56,455,83"/>
-</map>

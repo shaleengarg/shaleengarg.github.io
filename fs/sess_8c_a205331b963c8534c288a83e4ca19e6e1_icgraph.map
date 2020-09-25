@@ -1,6 +1,0 @@
-<map id="ascii_ssetup_strings" name="ascii_ssetup_strings">
-<area shape="rect" id="node2" href="$sess_8c.html#ab23e2b3ab00a8b247bfeaeddd25237c3" title="sess_auth_ntlm" alt="" coords="201,5,316,32"/>
-<area shape="rect" id="node5" href="$sess_8c.html#a995785335a4169b0bb5816045416db14" title="sess_auth_ntlmv2" alt="" coords="195,56,323,83"/>
-<area shape="rect" id="node3" href="$sess_8c.html#abed14428fcd713471f264576b01d450a" title="select_sec" alt="" coords="371,31,456,57"/>
-<area shape="rect" id="node4" href="$sess_8c.html#a77c3a8af6e43e5591ae61afffa79aefa" title="CIFS_SessSetup" alt="" coords="504,31,628,57"/>
-</map>

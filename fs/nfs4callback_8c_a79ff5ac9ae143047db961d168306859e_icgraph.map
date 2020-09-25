@@ -1,5 +1,0 @@
-<map id="decode_cb_op_status" name="decode_cb_op_status">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#ae59ebd9d9e874dbb3b63cdf797d0f3be" title="decode_cb_sequence4res" alt="" coords="203,31,376,57"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#adb8914dc67ee5f99d67be5384ac84689" title="nfs4_xdr_dec_cb_recall" alt="" coords="440,5,599,32"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#a6d4e035364df407bb55d43436117f042" title="nfs4_xdr_dec_cb_notify_lock" alt="" coords="424,68,615,95"/>
-</map>

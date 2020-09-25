@@ -1,5 +1,0 @@
-<map id="ext4_attr_show" name="ext4_attr_show">
-<area shape="rect" id="node2" href="$ext4_2sysfs_8c.html#af70dfecfbfd091f024c46015524a945f" title="calc_ptr" alt="" coords="223,5,291,32"/>
-<area shape="rect" id="node3" href="$ext4_2sysfs_8c.html#a3b7f57a92b6ed37442b6ec73657873ab" title="session_write_kbytes_show" alt="" coords="164,56,351,83"/>
-<area shape="rect" id="node4" href="$ext4_2sysfs_8c.html#ae7ab2af10e31893b2f41a9071eb6b387" title="lifetime_write_kbytes_show" alt="" coords="166,107,349,133"/>
-</map>

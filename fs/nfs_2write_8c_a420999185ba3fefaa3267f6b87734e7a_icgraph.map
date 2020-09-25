@@ -1,9 +1,0 @@
-<map id="nfs_commitdata_release" name="nfs_commitdata_release">
-<area shape="rect" id="node2" href="$nfs_2write_8c.html#affb5d8ca3f363cbe6e7c28027f4f824a" title="nfs_commit_release" alt="" coords="221,13,360,39"/>
-<area shape="rect" id="node3" href="$pnfs__nfs_8c.html#ada8939f881e7569c0508181276aa1f91" title="pnfs_generic_commit\l_release" alt="" coords="217,64,364,105"/>
-<area shape="rect" id="node4" href="$filelayout_8c.html#a0922e148882fea18aafa07652be72e52" title="filelayout_initiate\l_commit" alt="" coords="438,5,557,47"/>
-<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#a8ae36a590634d2d62d3f089243437ca8" title="ff_layout_commit_release" alt="" coords="412,71,583,98"/>
-<area shape="rect" id="node7" href="$flexfilelayout_2flexfilelayout_8c.html#a6d8c871189dc67d9024fb9144837180b" title="ff_layout_initiate\l_commit" alt="" coords="439,123,556,164"/>
-<area shape="rect" id="node5" href="$filelayout_8c.html#a2864d9d29f5de9f30c69eb86fca48739" title="filelayout_commit_pagelist" alt="" coords="631,13,807,39"/>
-<area shape="rect" id="node8" href="$flexfilelayout_2flexfilelayout_8c.html#afec203e64e262b648cd6f5e82723e7ac" title="ff_layout_commit_pagelist" alt="" coords="631,130,806,157"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="proc_parse_options" name="proc_parse_options">
-<area shape="rect" id="node2" href="$proc_2internal_8h.html#a599740a0d008407630458aa4e90557ab" title="proc_fill_super" alt="" coords="188,5,295,32"/>
-<area shape="rect" id="node4" href="$proc_2internal_8h.html#ad568c68ba79e607ff5725b480a4eff10" title="proc_tty_init" alt="" coords="343,81,436,108"/>
-<area shape="rect" id="node7" href="$proc_2root_8c.html#a8e5408a4702767e33b9ae33ea232e97a" title="proc_remount" alt="" coords="191,107,292,133"/>
-<area shape="rect" id="node3" href="$proc_2root_8c.html#ae359089dc83c7b9937b8df39cac6903a" title="proc_mount" alt="" coords="344,5,435,32"/>
-<area shape="rect" id="node5" href="$proc_2internal_8h.html#afa8e5d4ed0f98d8fdccc4b1612c56407" title="proc_sys_evict_inode" alt="" coords="484,81,632,108"/>
-<area shape="rect" id="node6" href="$proc_2internal_8h.html#a7c3c6665dc14d5e445cb0927a4f9edaa" title="proc_net_init" alt="" coords="680,81,776,108"/>
-</map>

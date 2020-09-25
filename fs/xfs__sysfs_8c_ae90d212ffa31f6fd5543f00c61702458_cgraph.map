@@ -1,5 +1,0 @@
-<map id="log_tail_lsn_show" name="log_tail_lsn_show">
-<area shape="rect" id="node2" href="$xfs__sysfs_8c.html#ab1fe8a7da65f032e945a0cfbd487ab64" title="to_xlog" alt="" coords="224,5,288,32"/>
-<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#a4490ca2ab1a34ab3868a52a90d09a7b3" title="xlog_crack_atomic_lsn" alt="" coords="179,56,333,83"/>
-<area shape="rect" id="node3" href="$xfs__sysfs_8h.html#a53a10478c73d578f96f05fd27e663839" title="to_kobj" alt="" coords="381,5,445,32"/>
-</map>

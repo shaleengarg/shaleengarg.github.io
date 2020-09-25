@@ -1,6 +1,0 @@
-<map id="ocfs2_dinode_extent_map_truncate" name="ocfs2_dinode_extent_map_truncate">
-<area shape="rect" id="node2" href="$ocfs2_2inode_8h.html#ab0da555fa706034b92ef3742dfedd52c" title="cache_info_to_inode" alt="" coords="208,5,349,32"/>
-<area shape="rect" id="node3" href="$ocfs2_2extent__map_8c.html#ad32d248efc9ba93083000a833d41a8bf" title="ocfs2_extent_map_trunc" alt="" coords="196,56,361,83"/>
-<area shape="rect" id="node4" href="$ocfs2_2inode_8h.html#ad355602d6e917df63ae06c1734f0f203" title="OCFS2_I" alt="" coords="418,31,495,57"/>
-<area shape="rect" id="node5" href="$v9fs_8c.html#a962ef1b35907bdda12de2cddce8bc638" title="LIST_HEAD" alt="" coords="409,81,504,108"/>
-</map>

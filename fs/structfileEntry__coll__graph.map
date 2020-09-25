@@ -1,8 +1,0 @@
-<map id="fileEntry" name="fileEntry">
-<area shape="rect" id="node2" href="$structicbtag.html" title="icbtag" alt="" coords="5,95,63,121"/>
-<area shape="rect" id="node3" href="$structlb__addr.html" title="lb_addr" alt="" coords="70,5,134,32"/>
-<area shape="rect" id="node6" href="$structlong__ad.html" title="long_ad" alt="" coords="126,95,193,121"/>
-<area shape="rect" id="node4" href="$structtag.html" title="tag" alt="" coords="241,95,281,121"/>
-<area shape="rect" id="node5" href="$structregid.html" title="regid" alt="" coords="321,95,371,121"/>
-<area shape="rect" id="node7" href="$structtimestamp.html" title="timestamp" alt="" coords="395,95,478,121"/>
-</map>

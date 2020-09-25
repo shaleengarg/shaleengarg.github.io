@@ -1,5 +1,0 @@
-<map id="__set_inuse" name="__set_inuse">
-<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#a9898645925a20201a02d9df9410831eb" title="get_new_segment" alt="" coords="145,13,273,39"/>
-<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#a84d1a0433306b10f1cbf064f6f13ad0f" title="new_curseg" alt="" coords="321,13,413,39"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8c.html#afcf164a05cd84d3806476d67ec70a8b0" title="allocate_segment_by\l_default" alt="" coords="461,5,607,47"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="__check_sit_bitmap" name="__check_sit_bitmap">
-<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="207,5,311,32"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a151a30e762b03d6d6bba8feddc975810" title="__find_rev_next_bit" alt="" coords="192,56,327,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="406,5,461,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="540,5,593,32"/>
-<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#a1ded52a1a1feddbb84bce187e645c34b" title="__reverse_ulong" alt="" coords="375,56,492,83"/>
-<area shape="rect" id="node7" href="$f2fs_2segment_8c.html#a29ea7d475cad2cd49aeb43f03202b097" title="__reverse_ffs" alt="" coords="383,107,484,133"/>
-</map>

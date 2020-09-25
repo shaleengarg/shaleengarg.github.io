@@ -1,9 +1,0 @@
-<map id="ff_layout_free_mirror" name="ff_layout_free_mirror">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#aabfaa72bd1f72e9358e3fc958eaf0256" title="ff_layout_remove_mirror" alt="" coords="195,5,357,32"/>
-<area shape="rect" id="node3" href="$flexfilelayout_8h.html#a820777dd9b761650f504c1a73581fcb8" title="nfs4_ff_layout_put\l_deviceid" alt="" coords="211,57,341,98"/>
-<area shape="rect" id="node4" href="$pnfs__dev_8c.html#a9947f60f634d516c83f55563b9de55ca" title="nfs4_put_deviceid_node" alt="" coords="405,64,568,91"/>
-<area shape="rect" id="node5" href="$pnfs__dev_8c.html#ad892a7ab19422c51794c8b138e1661f6" title="nfs4_delete_deviceid" alt="" coords="616,64,760,91"/>
-<area shape="rect" id="node8" href="$pnfs__dev_8c.html#a580b48a27275d9a1109e2e773d4fc0ca" title="EXPORT_SYMBOL_GPL" alt="" coords="808,115,980,141"/>
-<area shape="rect" id="node6" href="$pnfs__dev_8c.html#a962443d22d05c3e7d1f8c9de6272dcb3" title="_lookup_deviceid" alt="" coords="833,13,955,40"/>
-<area shape="rect" id="node7" href="$pnfs__dev_8c.html#aa60969b95f08c1b4e646a66803c21db6" title="nfs4_deviceid_hash" alt="" coords="825,64,963,91"/>
-</map>

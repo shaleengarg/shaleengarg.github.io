@@ -1,9 +1,0 @@
-<map id="reiserfs_dir_entry" name="reiserfs_dir_entry">
-<area shape="rect" id="node2" href="$structitem__head.html" title="item_head" alt="" coords="65,184,147,211"/>
-<area shape="rect" id="node3" href="$structreiserfs__key.html" title="reiserfs_key" alt="" coords="49,95,142,121"/>
-<area shape="rect" id="node4" href="$structoffset__v1.html" title="offset_v1" alt="" coords="5,5,81,32"/>
-<area shape="rect" id="node5" href="$structoffset__v2.html" title="offset_v2" alt="" coords="109,5,185,32"/>
-<area shape="rect" id="node6" href="$structcpu__key.html" title="cpu_key" alt="" coords="176,184,247,211"/>
-<area shape="rect" id="node7" href="$structin__core__key.html" title="in_core_key" alt="" coords="167,95,259,121"/>
-<area shape="rect" id="node8" href="$structreiserfs__de__head.html" title="reiserfs_de_head" alt="" coords="271,184,392,211"/>
-</map>

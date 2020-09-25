@@ -1,9 +1,0 @@
-<map id="ecryptfs_init_global_auth_toks" name="ecryptfs_init_global_auth_toks">
-<area shape="rect" id="node2" href="$ecryptfs__kernel_8h.html#ab6b148e66717e54b2087a18b51531450" title="ecryptfs_keyring_auth\l_tok_for_sig" alt="" coords="188,49,339,90"/>
-<area shape="rect" id="node3" href="$ecryptfs__kernel_8h.html#add65e0a3cb09fdffdcc1828b0e331d32" title="ecryptfs_get_encrypted_key" alt="" coords="387,5,573,32"/>
-<area shape="rect" id="node4" href="$keystore_8c.html#a8e375031494d4e18494b23647b117360" title="process_request_key_err" alt="" coords="396,56,564,83"/>
-<area shape="rect" id="node5" href="$keystore_8c.html#ad34bd330acbf6c1cfc0347a8e6337fc1" title="ecryptfs_verify_auth\l_tok_from_key" alt="" coords="410,107,550,149"/>
-<area shape="rect" id="node6" href="$ecryptfs__kernel_8h.html#a17cb5e0da33b0a3da45e14fb4085ad6a" title="ecryptfs_get_key_payload_data" alt="" coords="621,89,828,116"/>
-<area shape="rect" id="node8" href="$keystore_8c.html#a51fbc3dfa25435572fbb4c39efb8b515" title="ecryptfs_verify_version" alt="" coords="646,140,803,167"/>
-<area shape="rect" id="node7" href="$ecryptfs__kernel_8h.html#a580da71e4af9cdf7b9c749dd686f0cdf" title="ecryptfs_get_encrypted\l_key_payload_data" alt="" coords="876,82,1035,123"/>
-</map>

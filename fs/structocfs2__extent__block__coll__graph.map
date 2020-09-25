@@ -1,5 +1,0 @@
-<map id="ocfs2_extent_block" name="ocfs2_extent_block">
-<area shape="rect" id="node2" href="$structocfs2__block__check.html" title="ocfs2_block_check" alt="" coords="5,95,140,121"/>
-<area shape="rect" id="node3" href="$structocfs2__extent__list.html" title="ocfs2_extent_list" alt="" coords="164,95,285,121"/>
-<area shape="rect" id="node4" href="$structocfs2__extent__rec.html" title="ocfs2_extent_rec" alt="" coords="163,5,286,32"/>
-</map>

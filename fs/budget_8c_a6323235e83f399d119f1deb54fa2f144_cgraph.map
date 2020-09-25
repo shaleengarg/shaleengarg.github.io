@@ -1,5 +1,0 @@
-<map id="ubifs_get_free_space_nolock" name="ubifs_get_free_space_nolock">
-<area shape="rect" id="node2" href="$budget_8c.html#a6109e1d36eaa593c345944d0d4b30745" title="ubifs_calc_min_idx_lebs" alt="" coords="200,5,364,32"/>
-<area shape="rect" id="node3" href="$budget_8c.html#adaa1427281786d8bfca793236b5f0457" title="ubifs_calc_available" alt="" coords="213,56,351,83"/>
-<area shape="rect" id="node4" href="$budget_8c.html#a66e49aaeea4680a7b2c9973ba0dde86c" title="ubifs_reported_space" alt="" coords="209,107,355,133"/>
-</map>

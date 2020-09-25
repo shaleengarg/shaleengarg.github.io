@@ -1,8 +1,0 @@
-<map id="gfs2_adjust_reservation" name="gfs2_adjust_reservation">
-<area shape="rect" id="node2" href="$rgrp_8h.html#a080af10e67279fc46f168726a19191d1" title="gfs2_rs_active" alt="" coords="408,26,515,53"/>
-<area shape="rect" id="node3" href="$incore_8h.html#a38f1b79b7b9d9edd3d815e86c6cb345a" title="gfs2_rbm_eq" alt="" coords="238,26,335,53"/>
-<area shape="rect" id="node4" href="$incore_8h.html#a2415cade48e3029cb2552698e5e109ce" title="gfs2_rbm_to_block" alt="" coords="221,128,353,154"/>
-<area shape="rect" id="node6" href="$rgrp_8c.html#acd02e2f3930749f05f29e3d71c2875e1" title="gfs2_rbm_from_block" alt="" coords="213,178,360,205"/>
-<area shape="rect" id="node7" href="$rgrp_8c.html#af4bcb2e7a58d78f2fcf825f3e35f5d34" title="__rs_deltree" alt="" coords="240,77,333,104"/>
-<area shape="rect" id="node5" href="$incore_8h.html#ada00f94956c6c2f5d11e1af4c38068ec" title="rbm_bi" alt="" coords="431,128,492,154"/>
-</map>

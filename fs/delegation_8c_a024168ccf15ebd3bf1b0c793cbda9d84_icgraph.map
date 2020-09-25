@@ -1,6 +1,0 @@
-<map id="nfs4_have_delegation" name="nfs4_have_delegation">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#abebc920de431db695cb051e4e4c69d8c" title="nfs40_test_and_free\l_expired_stateid" alt="" coords="211,5,351,47"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a0f7477675fa15849b039045e4e8d721c" title="nfs4_close_prepare" alt="" coords="213,71,348,98"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a096ced24fd9f1b504f711d38928ed80f" title="nfs4_write_need_cache\l_consistency_data" alt="" coords="201,123,360,164"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#a7ae996677eac66f7ffdf58a492fdac5a" title="nfs4_proc_write_setup" alt="" coords="408,130,561,157"/>
-</map>

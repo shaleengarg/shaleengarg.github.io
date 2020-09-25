@@ -1,7 +1,0 @@
-<map id="cifs_dump_detail" name="cifs_dump_detail">
-<area shape="rect" id="node2" href="$cifs__debug_8h.html#a30c217532d6786cd4ec0d3fa9afb4f8a" title="cifs_dump_mids" alt="" coords="173,5,291,32"/>
-<area shape="rect" id="node3" href="$connect_8c.html#a8473d6d3b687aed2c0fe8214f1faa014" title="cifs_demultiplex_thread" alt="" coords="339,5,497,32"/>
-<area shape="rect" id="node4" href="$connect_8c.html#a1b47924149caa3e58ba07ae3d2e4da4a" title="cifs_get_tcp_session" alt="" coords="545,5,691,32"/>
-<area shape="rect" id="node5" href="$connect_8c.html#a929008d2b39722c35a2fb06bbb6d290b" title="cifs_mount" alt="" coords="739,5,825,32"/>
-<area shape="rect" id="node6" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="873,5,980,32"/>
-</map>

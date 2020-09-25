@@ -1,7 +1,0 @@
-<map id="refill_free_cache" name="refill_free_cache">
-<area shape="rect" id="node2" href="$sysv_8h.html#a2dfcaee4ffddb74513a544af9944900f" title="SYSV_SB" alt="" coords="335,25,417,51"/>
-<area shape="rect" id="node3" href="$sysv_2ialloc_8c.html#a85acb6fa45b6af88def9755ddd45d666" title="sysv_raw_inode" alt="" coords="171,25,287,51"/>
-<area shape="rect" id="node4" href="$sysv_2ialloc_8c.html#a35702d8e87c4126c069faede94b0608f" title="sv_sb_fic_inode" alt="" coords="171,75,287,102"/>
-<area shape="rect" id="node5" href="$befs_2endian_8h.html#a3220c033bf495e76bbdbec2253053825" title="cpu_to_fs16" alt="" coords="182,126,275,153"/>
-<area shape="rect" id="node6" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="335,126,417,153"/>
-</map>

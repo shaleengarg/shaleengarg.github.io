@@ -1,5 +1,0 @@
-<map id="v9fs_vfs_mknod" name="v9fs_vfs_mknod">
-<area shape="rect" id="node2" href="$vfs__inode_8c.html#a4e8c2d44da17a3563e72ae54056cab66" title="v9fs_refresh_inode" alt="" coords="172,56,304,83"/>
-<area shape="rect" id="node3" href="$vfs__dentry_8c.html#a3d403da144308713ce6cd74624599e7d" title="v9fs_lookup_revalidate" alt="" coords="352,5,507,32"/>
-<area shape="rect" id="node4" href="$vfs__inode_8c.html#a33ccbe1c11b8be929086b2690c7c646a" title="v9fs_vfs_link" alt="" coords="380,56,479,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="ore_io_execute" name="ore_io_execute">
-<area shape="rect" id="node2" href="$ore_8c.html#a82ce1476203378d5329c767b3483e3d0" title="_sync_done" alt="" coords="167,5,259,32"/>
-<area shape="rect" id="node3" href="$ore_8c.html#afb76b45feae280cee5126ec7203aa4aa" title="_ios_cred" alt="" coords="174,56,253,83"/>
-<area shape="rect" id="node4" href="$ore_8c.html#a8263cf563e4398a3028a2ac9018f6f26" title="_done_io" alt="" coords="176,107,251,133"/>
-<area shape="rect" id="node5" href="$ore_8c.html#aa71ca2b6e9a93d838e14ca4b13808e9d" title="_last_io" alt="" coords="347,120,413,147"/>
-<area shape="rect" id="node6" href="$ore_8c.html#aafa57dd52a0a94330362f79f191742ef" title="ore_check_io" alt="" coords="164,208,263,235"/>
-<area shape="rect" id="node7" href="$ore_8c.html#aaa6fdc25bc89468e5795585bd6a6587b" title="_clear_bio" alt="" coords="339,183,421,209"/>
-<area shape="rect" id="node8" href="$ore_8c.html#a3a40092d96622c018306380323e84327" title="EXPORT_SYMBOL" alt="" coords="311,233,449,260"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="xfs_attr3_node_inactive" name="xfs_attr3_node_inactive">
-<area shape="rect" id="node2" href="$xfs__attr__inactive_8c.html#a5417d78a003c4f7a0d292c74585cb66a" title="xfs_attr3_root_inactive" alt="" coords="213,13,368,39"/>
-<area shape="rect" id="node3" href="$xfs__attr__inactive_8c.html#a89f61d19c05b68cffb8d6f62e854a7f3" title="xfs_attr_inactive" alt="" coords="416,13,535,39"/>
-<area shape="rect" id="node4" href="$xfs__inode_8h.html#a4b9101aa3b8f2a25bff50f1b910c2a73" title="xfs_inactive" alt="" coords="583,13,675,39"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#ab527e7dc7474b9efc7addff151cc8f1a" title="xfs_fs_destroy_inode" alt="" coords="723,13,869,39"/>
-<area shape="rect" id="node6" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="917,5,1053,47"/>
-</map>

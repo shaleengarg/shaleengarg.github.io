@@ -1,7 +1,0 @@
-<map id="le_type" name="le_type">
-<area shape="rect" id="node2" href="$reiserfs_8h.html#addd3f441c6f82ae08002a90f19877170" title="le_key_version" alt="" coords="117,5,227,32"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a6d1761c8e1733df0ffcb6574cc7af0ba" title="le_key_k_type" alt="" coords="119,56,225,83"/>
-<area shape="rect" id="node3" href="$reiserfs_8h.html#a4777fbe92047586f192fb3de56ed270a" title="offset_v2_k_type" alt="" coords="275,5,397,32"/>
-<area shape="rect" id="node5" href="$reiserfs_8h.html#a2b87be5696e3915b3c61c36f8960fa60" title="uniqueness2type" alt="" coords="276,56,396,83"/>
-<area shape="rect" id="node6" href="$reiserfs_8h.html#a43bfdda5012a205dbe2d8b44a2c9aeb9" title="type2uniqueness" alt="" coords="445,56,565,83"/>
-</map>

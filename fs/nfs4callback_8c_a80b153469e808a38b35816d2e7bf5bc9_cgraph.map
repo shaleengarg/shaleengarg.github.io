@@ -1,5 +1,0 @@
-<map id="encode_cb_sequence4args" name="encode_cb_sequence4args">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#a8141aa266186866f82f72805798b397e" title="encode_nfs_cb_opnum4" alt="" coords="236,5,399,32"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#a1f28d29aba87ee1b900dcd01e0f39a1c" title="encode_sessionid4" alt="" coords="251,56,384,83"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#ac380445256f2061a24c25fe018acc969" title="xdr_encode_empty_array" alt="" coords="233,107,401,133"/>
-</map>

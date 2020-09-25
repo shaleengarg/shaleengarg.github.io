@@ -1,9 +1,0 @@
-<map id="vfs_iter_read" name="vfs_iter_read">
-<area shape="rect" id="node2" href="$coda_2file_8c.html#a505189e3610307437ff6024cdecc35d4" title="coda_file_read_iter" alt="" coords="151,5,281,32"/>
-<area shape="rect" id="node3" href="$vfs_8h.html#ae0053c5140c77c50323f9d5ed543a647" title="nfsd_readv" alt="" coords="173,56,259,83"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a212847701082d46e75f42447942edb14" title="nfsd4_encode_readv" alt="" coords="329,31,472,57"/>
-<area shape="rect" id="node6" href="$vfs_8h.html#a2a17a6fd6b09a492a5c74963776be1a3" title="nfsd_read" alt="" coords="361,81,440,108"/>
-<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a662ac286c8cb631120088e4ea584d5e4" title="nfsd4_encode_read" alt="" coords="520,31,655,57"/>
-<area shape="rect" id="node7" href="$_2nfs3proc_8c.html#a3d950996f2107a53edbbe3b952796cd6" title="nfsd3_proc_read" alt="" coords="528,81,647,108"/>
-<area shape="rect" id="node8" href="$nfsproc_8c.html#a75d92ed077029c375a458d78768e93ce" title="nfsd_proc_read" alt="" coords="532,132,643,159"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="fs_path_copy" name="fs_path_copy">
-<area shape="rect" id="node2" href="$send_8c.html#a8a6c710e5dc28c182896b4d2728c46d4" title="fs_path_reset" alt="" coords="165,5,267,32"/>
-<area shape="rect" id="node3" href="$send_8c.html#af3977446ee71f7c3f45e0b684b39125e" title="fs_path_add_path" alt="" coords="153,56,279,83"/>
-<area shape="rect" id="node4" href="$send_8c.html#a8fedfab3d316fbfe3696050bf2559db9" title="fs_path_prepare_for_add" alt="" coords="327,56,492,83"/>
-<area shape="rect" id="node5" href="$send_8c.html#a9e534447ec547ad6dc480d3ac6b589ee" title="fs_path_ensure_buf" alt="" coords="540,56,676,83"/>
-</map>

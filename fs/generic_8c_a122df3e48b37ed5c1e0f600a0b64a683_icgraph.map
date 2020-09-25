@@ -1,9 +1,0 @@
-<map id="proc_remove" name="proc_remove">
-<area shape="rect" id="node2" href="$afs_2proc_8c.html#ac99be778cf3eb32633e6ec2e1ee71d27" title="afs_proc_init" alt="" coords="165,5,261,32"/>
-<area shape="rect" id="node5" href="$afs_2proc_8c.html#a2e3476e627e2b6583d152c5f0a60c1cf" title="afs_proc_cleanup" alt="" coords="151,56,275,83"/>
-<area shape="rect" id="node8" href="$vmcore_8c.html#add8cd602143a752ac2b27baf6b85a41c" title="vmcore_cleanup" alt="" coords="154,107,271,133"/>
-<area shape="rect" id="node3" href="$afs_2main_8c.html#ab6a4572f7db6bca3bff4781b3dfec4d9" title="afs_net_init" alt="" coords="325,5,414,32"/>
-<area shape="rect" id="node4" href="$afs_2main_8c.html#a6c32b7e048d19484ff1747eabb3cabae" title="afs_init" alt="" coords="466,5,530,32"/>
-<area shape="rect" id="node6" href="$afs_2main_8c.html#a5bc529a1155c92624e7627877eef8d60" title="afs_net_exit" alt="" coords="323,56,416,83"/>
-<area shape="rect" id="node7" href="$afs_2main_8c.html#a5dd54d3d55e89898260d8186a131e1d3" title="afs_exit" alt="" coords="464,56,532,83"/>
-</map>

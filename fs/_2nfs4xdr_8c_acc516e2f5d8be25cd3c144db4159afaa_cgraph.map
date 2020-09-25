@@ -1,5 +1,0 @@
-<map id="nfsd4_decode_open_downgrade" name="nfsd4_decode_open_downgrade">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a87799d331f89cc1c31ff1dcb5a082eea" title="nfsd4_decode_stateid" alt="" coords="275,5,425,32"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a4e690481cbec64fb519fea4340c9e3ee" title="nfsd4_decode_share\l_access" alt="" coords="279,57,421,98"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#a33480af8a4f4888b6e16e9b959ff41ed" title="nfsd4_decode_share_deny" alt="" coords="261,123,439,149"/>
-</map>

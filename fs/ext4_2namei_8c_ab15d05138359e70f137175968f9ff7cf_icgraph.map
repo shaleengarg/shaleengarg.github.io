@@ -1,8 +1,0 @@
-<map id="ext4_delete_entry" name="ext4_delete_entry">
-<area shape="rect" id="node2" href="$ext4_2namei_8c.html#ad49abfa350c1fc907df3f4b619f7d0cf" title="ext4_rmdir" alt="" coords="214,5,297,32"/>
-<area shape="rect" id="node3" href="$ext4_2namei_8c.html#a8c5cd0a47d6e90a1f56d4bcb23cd3750" title="ext4_unlink" alt="" coords="211,56,299,83"/>
-<area shape="rect" id="node4" href="$ext4_2namei_8c.html#a225fc2def40a34d2bbf643061bb6116a" title="ext4_find_delete_entry" alt="" coords="179,107,332,133"/>
-<area shape="rect" id="node5" href="$ext4_2namei_8c.html#afd06fa9467673842c828d6b6234c5d72" title="ext4_rename_delete" alt="" coords="380,132,519,159"/>
-<area shape="rect" id="node6" href="$ext4_2namei_8c.html#aef892a18d69e63d761033c1cf06148eb" title="ext4_rename" alt="" coords="567,132,664,159"/>
-<area shape="rect" id="node7" href="$ext4_2namei_8c.html#afe76a34888785c92026ad93833f0c93e" title="ext4_rename2" alt="" coords="712,132,816,159"/>
-</map>

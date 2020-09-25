@@ -1,4 +1,0 @@
-<map id="pnfs_read_through_mds" name="pnfs_read_through_mds">
-<area shape="rect" id="node2" href="$pnfs_8c.html#ac0b6761391c29ab0ff59dd3d8a2610f6" title="pnfs_do_read" alt="" coords="215,5,315,32"/>
-<area shape="rect" id="node3" href="$pnfs_8c.html#aefe27931df0c3951b8f7bbfe04288109" title="pnfs_generic_pg_readpages" alt="" coords="363,5,547,32"/>
-</map>

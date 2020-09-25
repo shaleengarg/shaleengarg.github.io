@@ -1,6 +1,0 @@
-<map id="pnfs_ff_layout" name="pnfs_ff_layout">
-<area shape="rect" id="node2" href="$structnfsd4__deviceid.html" title="nfsd4_deviceid" alt="" coords="5,184,115,211"/>
-<area shape="rect" id="node3" href="$structstateid__t.html" title="stateid_t" alt="" coords="139,184,211,211"/>
-<area shape="rect" id="node4" href="$structstateid__opaque__t.html" title="stateid_opaque_t" alt="" coords="114,95,235,121"/>
-<area shape="rect" id="node5" href="$structclientid__t.html" title="clientid_t" alt="" coords="137,5,212,32"/>
-</map>

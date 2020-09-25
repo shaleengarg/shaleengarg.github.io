@@ -1,5 +1,0 @@
-<map id="jffs2_zlib_exit" name="jffs2_zlib_exit">
-<area shape="rect" id="node2" href="$compr_8h.html#aaaebc1c7778de67139c152dc7a536c2b" title="jffs2_compressors_exit" alt="" coords="156,31,313,57"/>
-<area shape="rect" id="node3" href="$jffs2_2super_8c.html#ada8dce06e76419fa4b8962c92ab79beb" title="init_jffs2_fs" alt="" coords="361,5,451,32"/>
-<area shape="rect" id="node4" href="$jffs2_2super_8c.html#a31e0a1b18c45bc5888279ccd9f17b556" title="exit_jffs2_fs" alt="" coords="499,31,592,57"/>
-</map>

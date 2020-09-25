@@ -1,8 +1,0 @@
-<map id="__refresh_next_blkoff" name="__refresh_next_blkoff">
-<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#acaf07930e142e16c189cf65b2d5dcf0d" title="__next_free_blkoff" alt="" coords="200,56,329,83"/>
-<area shape="rect" id="node3" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="409,5,513,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="623,31,678,57"/>
-<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#a5df5cd6947dcf9e151553b6bd17f0a5b" title="__find_rev_next_zero_bit" alt="" coords="377,107,544,133"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="757,31,811,57"/>
-<area shape="rect" id="node7" href="$f2fs_2segment_8c.html#a1ded52a1a1feddbb84bce187e645c34b" title="__reverse_ulong" alt="" coords="592,107,709,133"/>
-</map>

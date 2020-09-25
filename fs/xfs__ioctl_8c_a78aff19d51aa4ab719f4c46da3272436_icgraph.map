@@ -1,6 +1,0 @@
-<map id="xfs_attrmulti_attr_get" name="xfs_attrmulti_attr_get">
-<area shape="rect" id="node2" href="$xfs__ioctl_8c.html#a48c85463aad2d37212ef5f491321cbe6" title="xfs_attrmulti_by_handle" alt="" coords="199,8,359,35"/>
-<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a7fa68851eda624ea6a0548a48c68ec47" title="xfs_compat_attrmulti\l_by_handle" alt="" coords="407,57,551,98"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="431,5,526,32"/>
-<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="599,35,744,61"/>
-</map>

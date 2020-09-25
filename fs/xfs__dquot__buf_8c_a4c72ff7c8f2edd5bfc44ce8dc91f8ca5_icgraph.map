@@ -1,6 +1,0 @@
-<map id="xfs_dquot_buf_verify" name="xfs_dquot_buf_verify">
-<area shape="rect" id="node2" href="$xfs__dquot__buf_8c.html#a99d9abebcbef6c7564ef2f9805985239" title="xfs_dquot_buf_verify\l_struct" alt="" coords="210,5,353,47"/>
-<area shape="rect" id="node3" href="$xfs__dquot__buf_8c.html#aaa6946b9db5abc858c744bc72dc4277e" title="xfs_dquot_buf_read\l_verify" alt="" coords="213,71,349,112"/>
-<area shape="rect" id="node4" href="$xfs__dquot__buf_8c.html#a3c8a6742c1a69b9168a4a47fd872ee65" title="xfs_dquot_buf_readahead\l_verify" alt="" coords="196,136,367,177"/>
-<area shape="rect" id="node5" href="$xfs__dquot__buf_8c.html#a6b34182163bad05dd0dd961231b4fc77" title="xfs_dquot_buf_write\l_verify" alt="" coords="212,201,351,243"/>
-</map>

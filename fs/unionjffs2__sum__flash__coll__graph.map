@@ -1,7 +1,0 @@
-<map id="jffs2_sum_flash" name="jffs2_sum_flash">
-<area shape="rect" id="node2" href="$structjffs2__sum__xref__flash.html" title="jffs2_sum_xref_flash" alt="" coords="21,5,163,32"/>
-<area shape="rect" id="node3" href="$structjffs2__sum__xattr__flash.html" title="jffs2_sum_xattr_flash" alt="" coords="19,56,165,83"/>
-<area shape="rect" id="node4" href="$structjffs2__sum__dirent__flash.html" title="jffs2_sum_dirent_flash" alt="" coords="15,107,169,133"/>
-<area shape="rect" id="node5" href="$structjffs2__sum__unknown__flash.html" title="jffs2_sum_unknown_flash" alt="" coords="5,157,179,184"/>
-<area shape="rect" id="node6" href="$structjffs2__sum__inode__flash.html" title="jffs2_sum_inode_flash" alt="" coords="16,208,168,235"/>
-</map>

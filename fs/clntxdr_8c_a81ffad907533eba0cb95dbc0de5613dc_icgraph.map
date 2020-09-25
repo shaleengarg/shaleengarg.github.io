@@ -1,8 +1,0 @@
-<map id="encode_cookie" name="encode_cookie">
-<area shape="rect" id="node2" href="$clntxdr_8c.html#a2fe3ed5e3e9df277a1e1ab3cd8652640" title="nlm_xdr_enc_testargs" alt="" coords="171,5,321,32"/>
-<area shape="rect" id="node3" href="$clntxdr_8c.html#af88e0e652157213df82fe96378485e66" title="nlm_xdr_enc_lockargs" alt="" coords="170,56,322,83"/>
-<area shape="rect" id="node4" href="$clntxdr_8c.html#a8f9076316c95498d7fdf40031bacaca7" title="nlm_xdr_enc_cancargs" alt="" coords="168,107,324,133"/>
-<area shape="rect" id="node5" href="$clntxdr_8c.html#afc74264ab5f2278a6a8470135d20ab05" title="nlm_xdr_enc_unlockargs" alt="" coords="163,157,329,184"/>
-<area shape="rect" id="node6" href="$clntxdr_8c.html#ac6fa75c8f1bb52b558c581a018440d71" title="nlm_xdr_enc_res" alt="" coords="185,208,307,235"/>
-<area shape="rect" id="node7" href="$clntxdr_8c.html#aa55b09e705cbcce23c67bfaf32ff7786" title="nlm_xdr_enc_testres" alt="" coords="175,259,317,285"/>
-</map>

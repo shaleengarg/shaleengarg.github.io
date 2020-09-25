@@ -1,5 +1,0 @@
-<map id="devpts_remount" name="devpts_remount">
-<area shape="rect" id="node2" href="$devpts_2inode_8c.html#a60e3d73915c97c1266d5dd78da043971" title="DEVPTS_SB" alt="" coords="191,5,292,32"/>
-<area shape="rect" id="node3" href="$devpts_2inode_8c.html#afc8028085dba4cf0428a22c9761a45ea" title="parse_mount_options" alt="" coords="168,56,315,83"/>
-<area shape="rect" id="node4" href="$devpts_2inode_8c.html#ae8ad1ad266e1fa9109cb323c53a1c525" title="update_ptmx_mode" alt="" coords="173,107,309,133"/>
-</map>

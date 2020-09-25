@@ -1,5 +1,0 @@
-<map id="ocfs2_trim_extent" name="ocfs2_trim_extent">
-<area shape="rect" id="node2" href="$ocfs2_2alloc_8c.html#aba7534e599ffc4d775494531c44c4f08" title="ocfs2_trim_group" alt="" coords="180,29,303,56"/>
-<area shape="rect" id="node3" href="$ocfs2_2alloc_8h.html#a9d0e9326f4bea53a1b0285dee34d04c3" title="ocfs2_trim_fs" alt="" coords="351,29,452,56"/>
-<area shape="rect" id="node4" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="500,29,585,56"/>
-</map>

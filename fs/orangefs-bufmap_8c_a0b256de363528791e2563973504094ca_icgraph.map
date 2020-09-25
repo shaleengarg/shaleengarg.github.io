@@ -1,7 +1,0 @@
-<map id="orangefs_bufmap_shift_query" name="orangefs_bufmap_shift_query">
-<area shape="rect" id="node2" href="$orangefs_2super_8c.html#af0f11001e500202f452bc1c473b9ec9d" title="orangefs_fill_sb" alt="" coords="208,13,321,39"/>
-<area shape="rect" id="node3" href="$orangefs_2super_8c.html#acb317ef56c2948149fb8f789e1e0d52f" title="orangefs_mount" alt="" coords="369,13,484,39"/>
-<area shape="rect" id="node4" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="532,13,635,39"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="683,5,817,47"/>
-<area shape="rect" id="node6" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="865,13,1015,39"/>
-</map>

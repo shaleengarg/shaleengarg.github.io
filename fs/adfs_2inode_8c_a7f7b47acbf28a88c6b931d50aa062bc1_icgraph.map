@@ -1,6 +1,0 @@
-<map id="adfs_get_block" name="adfs_get_block">
-<area shape="rect" id="node2" href="$adfs_2inode_8c.html#a0f62f3e7003ab95356d88d81acab3dd5" title="adfs_writepage" alt="" coords="169,5,279,32"/>
-<area shape="rect" id="node3" href="$adfs_2inode_8c.html#ad161a1bd6b60ad5e17331fd876d62547" title="adfs_readpage" alt="" coords="171,56,277,83"/>
-<area shape="rect" id="node4" href="$adfs_2inode_8c.html#afadf54df7c28b88ee4b7d3b81b26e239" title="adfs_write_begin" alt="" coords="164,107,284,133"/>
-<area shape="rect" id="node5" href="$adfs_2inode_8c.html#a62365fe140d2ff55f23a56440804db63" title="_adfs_bmap" alt="" coords="177,157,271,184"/>
-</map>

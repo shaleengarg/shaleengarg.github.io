@@ -1,6 +1,0 @@
-<map id="nilfs_destroy_logs" name="nilfs_destroy_logs">
-<area shape="rect" id="node2" href="$segbuf_8h.html#aa75d4afc4cdc2e67447692eed706e48c" title="nilfs_truncate_logs" alt="" coords="180,31,311,57"/>
-<area shape="rect" id="node3" href="$segbuf_8c.html#ab061b6f9e4a21469962f8af1d75fd7a4" title="nilfs_segbuf_clear" alt="" coords="359,5,485,32"/>
-<area shape="rect" id="node5" href="$segbuf_8c.html#a63aa16390b9358fa427baa180df2584f" title="nilfs_segbuf_free" alt="" coords="361,56,483,83"/>
-<area shape="rect" id="node4" href="$segbuf_8c.html#a276141d258f026d72301ae652198c96e" title="nilfs_release_buffers" alt="" coords="533,5,676,32"/>
-</map>

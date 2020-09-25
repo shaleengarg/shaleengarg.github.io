@@ -1,5 +1,0 @@
-<map id="afs_send_pages" name="afs_send_pages">
-<area shape="rect" id="node2" href="$rxrpc_8c.html#a73667b1e0ab00e208d227dbf4db33454" title="afs_load_bvec" alt="" coords="205,5,311,32"/>
-<area shape="rect" id="node3" href="$rxrpc_8c.html#ad072fcf21d333ab1d029f57e69be0e49" title="afs_notify_end_request_tx" alt="" coords="171,56,345,83"/>
-<area shape="rect" id="node4" href="$afs_2internal_8h.html#a4b8af249f6ab8fd36a632c17b3392169" title="afs_set_call_state" alt="" coords="393,56,521,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="do_vfs_lock" name="do_vfs_lock">
-<area shape="rect" id="node2" href="$clntproc_8c.html#a14ed941bb3e62d78a83ad83764350f94" title="nlmclnt_lock" alt="" coords="153,5,247,32"/>
-<area shape="rect" id="node6" href="$clntproc_8c.html#a10ee3a846cdb803d0b0a12dfa4582c62" title="nlmclnt_unlock" alt="" coords="145,56,255,83"/>
-<area shape="rect" id="node3" href="$clntproc_8c.html#a2b2f90da99fcd10bd08900e6cbc8f1c4" title="nlmclnt_proc" alt="" coords="303,31,399,57"/>
-<area shape="rect" id="node4" href="$nfs_2proc_8c.html#acb3f7793114c7260976a83886ec8421d" title="nfs_proc_lock" alt="" coords="451,5,553,32"/>
-<area shape="rect" id="node5" href="$nfs3proc_8c.html#a37ce0d3aedfe899aea95433c6318c7ae" title="nfs3_proc_lock" alt="" coords="447,56,557,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="sysfs/sysfs.h" name="sysfs/sysfs.h">
-<area shape="rect" id="node2" href="$sysfs_2dir_8c.html" title="sysfs/dir.c" alt="" coords="5,80,88,107"/>
-<area shape="rect" id="node3" href="$sysfs_2file_8c.html" title="sysfs/file.c" alt="" coords="113,80,199,107"/>
-<area shape="rect" id="node4" href="$sysfs_2group_8c.html" title="sysfs/group.c" alt="" coords="224,80,325,107"/>
-<area shape="rect" id="node5" href="$sysfs_2mount_8c.html" title="sysfs/mount.c" alt="" coords="350,80,455,107"/>
-<area shape="rect" id="node6" href="$sysfs_2symlink_8c.html" title="sysfs/symlink.c" alt="" coords="480,80,595,107"/>
-</map>

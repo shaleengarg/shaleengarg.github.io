@@ -1,7 +1,0 @@
-<map id="jffs2_sum_xattr_mem" name="jffs2_sum_xattr_mem">
-<area shape="rect" id="node2" href="$unionjffs2__sum__mem.html" title="jffs2_sum_mem" alt="" coords="313,95,427,121"/>
-<area shape="rect" id="node3" href="$structjffs2__sum__unknown__mem.html" title="jffs2_sum_unknown_mem" alt="" coords="5,184,180,211"/>
-<area shape="rect" id="node4" href="$structjffs2__sum__dirent__mem.html" title="jffs2_sum_dirent_mem" alt="" coords="205,184,359,211"/>
-<area shape="rect" id="node5" href="$structjffs2__sum__xref__mem.html" title="jffs2_sum_xref_mem" alt="" coords="383,184,527,211"/>
-<area shape="rect" id="node6" href="$structjffs2__sum__inode__mem.html" title="jffs2_sum_inode_mem" alt="" coords="552,184,705,211"/>
-</map>

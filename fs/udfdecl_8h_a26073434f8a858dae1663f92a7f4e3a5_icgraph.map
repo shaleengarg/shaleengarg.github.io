@@ -1,9 +1,0 @@
-<map id="udf_iget" name="udf_iget">
-<area shape="rect" id="node2" href="$udf_2super_8c.html#ab2eee2fa60f5a477777b160305ebec19" title="udf_fill_super" alt="" coords="136,5,235,32"/>
-<area shape="rect" id="node4" href="$udf_2namei_8c.html#a52be3263022f322347db0d232df08068" title="udf_lookup" alt="" coords="143,56,228,83"/>
-<area shape="rect" id="node5" href="$udf_2namei_8c.html#a3fbe1b3d94722a255d0b48e68d37839e" title="udf_get_parent" alt="" coords="131,107,239,133"/>
-<area shape="rect" id="node6" href="$udf_2namei_8c.html#ac3b49e859e4ef879db5749bd24ad2ac1" title="udf_nfs_get_inode" alt="" coords="121,157,249,184"/>
-<area shape="rect" id="node3" href="$udf_2super_8c.html#a0ec35e26e2479c52d479cc4c24ab98cb" title="udf_mount" alt="" coords="315,5,398,32"/>
-<area shape="rect" id="node7" href="$udf_2namei_8c.html#a28b83c03d8f171180b82bfb608e7c4f1" title="udf_fh_to_dentry" alt="" coords="297,132,416,159"/>
-<area shape="rect" id="node8" href="$udf_2namei_8c.html#a7564a3ead1a03b76a6abdbf951b73bfe" title="udf_fh_to_parent" alt="" coords="297,183,416,209"/>
-</map>

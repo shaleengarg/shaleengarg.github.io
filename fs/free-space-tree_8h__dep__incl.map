@@ -1,7 +1,0 @@
-<map id="btrfs/free&#45;space&#45;tree.h" name="btrfs/free&#45;space&#45;tree.h">
-<area shape="rect" id="node2" href="$disk-io_8c.html" title="btrfs/disk&#45;io.c" alt="" coords="5,87,107,114"/>
-<area shape="rect" id="node3" href="$extent-tree_8c.html" title="btrfs/extent&#45;tree.c" alt="" coords="131,87,256,114"/>
-<area shape="rect" id="node4" href="$free-space-tree_8c.html" title="btrfs/free&#45;space&#45;tree.c" alt="" coords="281,87,431,114"/>
-<area shape="rect" id="node5" href="$btrfs-tests_8c.html" title="btrfs/tests/btrfs&#45;tests.c" alt="" coords="456,87,611,114"/>
-<area shape="rect" id="node6" href="$free-space-tree-tests_8c.html" title="btrfs/tests/free&#45;space\l&#45;tree&#45;tests.c" alt="" coords="635,80,781,121"/>
-</map>

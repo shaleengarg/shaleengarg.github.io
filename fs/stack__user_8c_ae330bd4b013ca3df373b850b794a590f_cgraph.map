@@ -1,7 +1,0 @@
-<map id="ocfs2_user_plugin_init" name="ocfs2_user_plugin_init">
-<area shape="rect" id="node2" href="$stack__user_8c.html#a8bd6124058be612fd752eb6b08005cb4" title="ocfs2_control_init" alt="" coords="229,5,353,32"/>
-<area shape="rect" id="node3" href="$stackglue_8c.html#a344b122f4bb8bcc4e0daa7d72926e6ad" title="ocfs2_stack_glue_register" alt="" coords="204,80,379,107"/>
-<area shape="rect" id="node6" href="$stack__user_8c.html#a4adff354a2814361c01680490e8113bc" title="ocfs2_control_exit" alt="" coords="227,131,355,157"/>
-<area shape="rect" id="node4" href="$stackglue_8c.html#a8b0d74705c2d5b3791ce95625705f409" title="ocfs2_stack_lookup" alt="" coords="443,55,582,81"/>
-<area shape="rect" id="node5" href="$stackglue_8c.html#a15052933b776705ee3821e1804f38e1f" title="EXPORT_SYMBOL_GPL" alt="" coords="427,105,599,132"/>
-</map>

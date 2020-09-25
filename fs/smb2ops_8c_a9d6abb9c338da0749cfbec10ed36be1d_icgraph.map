@@ -1,9 +1,0 @@
-<map id="smb2_sg_set_buf" name="smb2_sg_set_buf">
-<area shape="rect" id="node2" href="$smb2ops_8c.html#ae240d082648a4fb11250fdfffc06bc0a" title="init_sg" alt="" coords="179,31,239,57"/>
-<area shape="rect" id="node3" href="$smb2ops_8c.html#af60e4f5b64f21a3149e77817be21d9e1" title="crypt_message" alt="" coords="287,31,397,57"/>
-<area shape="rect" id="node4" href="$smb2ops_8c.html#ab4a44ed24034faeeba9fedd599fbf243" title="smb3_init_transform_rq" alt="" coords="445,5,604,32"/>
-<area shape="rect" id="node5" href="$smb2ops_8c.html#ad877729c3d30d3bfeb3fffb97ccb10c9" title="decrypt_raw_data" alt="" coords="462,56,587,83"/>
-<area shape="rect" id="node6" href="$smb2ops_8c.html#a995322e4f17f922d00e65d9b5075e809" title="receive_encrypted_read" alt="" coords="665,31,825,57"/>
-<area shape="rect" id="node8" href="$smb2ops_8c.html#a99fedc79b84fdf2a53e4ac44688fbff8" title="receive_encrypted_standard" alt="" coords="652,81,837,108"/>
-<area shape="rect" id="node7" href="$smb2ops_8c.html#a9f25a97d4c7242f6ccabec8d906b5cba" title="smb3_receive_transform" alt="" coords="885,56,1051,83"/>
-</map>

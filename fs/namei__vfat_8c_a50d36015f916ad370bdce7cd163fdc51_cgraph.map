@@ -1,6 +1,0 @@
-<map id="vfat_hashi" name="vfat_hashi">
-<area shape="rect" id="node2" href="$fat_8h.html#afb4074c3637b57b356f41a600d5b2ea2" title="MSDOS_SB" alt="" coords="147,5,243,32"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="169,56,220,83"/>
-<area shape="rect" id="node4" href="$namei__vfat_8c.html#a2129aaddef218f77b52817a5ccfbfbe7" title="vfat_striptail_len" alt="" coords="136,107,253,133"/>
-<area shape="rect" id="node5" href="$namei__vfat_8c.html#a2983f48030287c321a6f09543a501c7d" title="__vfat_striptail_len" alt="" coords="301,107,432,133"/>
-</map>

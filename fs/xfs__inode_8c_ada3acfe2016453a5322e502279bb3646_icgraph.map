@@ -1,7 +1,0 @@
-<map id="xfs_ifree_local_data" name="xfs_ifree_local_data">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#acfe05906710836d5793784943390a339" title="xfs_ifree" alt="" coords="192,13,264,39"/>
-<area shape="rect" id="node3" href="$xfs__inode_8c.html#ad6ce94d41ba413b1713edfc82a8307f2" title="xfs_inactive_ifree" alt="" coords="312,13,436,39"/>
-<area shape="rect" id="node4" href="$xfs__inode_8h.html#a4b9101aa3b8f2a25bff50f1b910c2a73" title="xfs_inactive" alt="" coords="484,13,576,39"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#ab527e7dc7474b9efc7addff151cc8f1a" title="xfs_fs_destroy_inode" alt="" coords="624,13,771,39"/>
-<area shape="rect" id="node6" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="819,5,955,47"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="mark_inode_clean" name="mark_inode_clean">
-<area shape="rect" id="node2" href="$budget_8c.html#a42a33c943c4f8862342d84cc1b152182" title="ubifs_release_dirty\l_inode_budget" alt="" coords="180,74,311,115"/>
-<area shape="rect" id="node3" href="$budget_8c.html#afb4a050131358f08985939fa532bc694" title="ubifs_release_budget" alt="" coords="359,81,504,108"/>
-<area shape="rect" id="node4" href="$budget_8c.html#ae7fb821f0bda60b202ba1bd7b8445634" title="calc_data_growth" alt="" coords="572,5,696,32"/>
-<area shape="rect" id="node5" href="$budget_8c.html#ad59159f2a92429bd81d6bcb530d7c5c5" title="calc_dd_growth" alt="" coords="577,56,691,83"/>
-<area shape="rect" id="node6" href="$budget_8c.html#ac3fe021e20fd3d248577fe5d2623ad96" title="calc_idx_growth" alt="" coords="576,107,692,133"/>
-<area shape="rect" id="node7" href="$budget_8c.html#a6109e1d36eaa593c345944d0d4b30745" title="ubifs_calc_min_idx_lebs" alt="" coords="552,157,716,184"/>
-</map>

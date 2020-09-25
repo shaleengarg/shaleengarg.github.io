@@ -1,5 +1,0 @@
-<map id="btrfs_qgroup_rescan_resume" name="btrfs_qgroup_rescan_resume">
-<area shape="rect" id="node2" href="$async-thread_8c.html#a5ded67298bd56916d36e081d5fca426b" title="btrfs_queue_work" alt="" coords="193,13,319,39"/>
-<area shape="rect" id="node3" href="$async-thread_8c.html#aab231afb66f3a4b163068ff86f2b071d" title="__btrfs_queue_work" alt="" coords="367,13,505,39"/>
-<area shape="rect" id="node4" href="$async-thread_8c.html#a90a6f075cab66793ab82f810bdf4dbce" title="thresh_queue_hook" alt="" coords="553,13,688,39"/>
-</map>

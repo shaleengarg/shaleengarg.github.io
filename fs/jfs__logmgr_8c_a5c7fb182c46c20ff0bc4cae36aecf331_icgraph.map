@@ -1,8 +1,0 @@
-<map id="open_dummy_log" name="open_dummy_log">
-<area shape="rect" id="node2" href="$jfs__logmgr_8h.html#a545f670f4bb4e6725d2429085b7d0b5d" title="lmLogOpen" alt="" coords="177,31,265,57"/>
-<area shape="rect" id="node3" href="$jfs__superblock_8h.html#ad7a26da0f4cd7aa706741fff90ba8df5" title="jfs_mount_rw" alt="" coords="313,31,413,57"/>
-<area shape="rect" id="node4" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="609,5,699,32"/>
-<area shape="rect" id="node6" href="$jfs_2super_8c.html#a21307747421cfa90f0d4127e5d20f422" title="jfs_fill_super" alt="" coords="461,56,556,83"/>
-<area shape="rect" id="node5" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="752,31,875,57"/>
-<area shape="rect" id="node7" href="$jfs_2super_8c.html#a11a394ce651f4a27d9e9f0450fb865f3" title="jfs_do_mount" alt="" coords="604,56,704,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="is_aligned_req" name="is_aligned_req">
-<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html#a63b0ac8bf2536b5561542d1abbb20d49" title="bl_pg_init_read" alt="" coords="163,5,272,32"/>
-<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#a24984ca9943677df4398923b83122377" title="bl_pg_test_read" alt="" coords="160,56,275,83"/>
-<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#a9650ca193c5cc1cd6e2d8bc25b065a2c" title="bl_pg_init_write" alt="" coords="161,107,273,133"/>
-<area shape="rect" id="node5" href="$blocklayout_2blocklayout_8c.html#ace3665909c4ed9aed2e8cb4ed4529f7b" title="bl_pg_test_write" alt="" coords="159,157,276,184"/>
-</map>

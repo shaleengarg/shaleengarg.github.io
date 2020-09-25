@@ -1,9 +1,0 @@
-<map id="xfs_ifunlock" name="xfs_ifunlock">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#a0dc34605153b11739ce81f74f564c99b" title="xfs_isiflocked" alt="" coords="151,56,253,83"/>
-<area shape="rect" id="node8" href="$xfs__inode_8h.html#aa7c1be3b4c37574f68ddd1516b9a3622" title="xfs_iflags_clear" alt="" coords="145,107,259,133"/>
-<area shape="rect" id="node3" href="$xfs__inode_8h.html#a658777ad7c1ef780fc8d4a0a4ce8e4aa" title="xfs_iflags_test" alt="" coords="307,5,413,32"/>
-<area shape="rect" id="node5" href="$xfs__inode_8h.html#ac3b94b0f388ca0069d13d1d097c40a57" title="__xfs_iflock" alt="" coords="314,56,406,83"/>
-<area shape="rect" id="node4" href="$xfs__inode_8h.html#a53a85d4b55f2744d51678c6ba23ab05c" title="__xfs_iflags_test" alt="" coords="462,5,583,32"/>
-<area shape="rect" id="node6" href="$xfs__inode_8h.html#a3c1ebd3b446b15a2c2b511c803c1edae" title="xfs_iflock_nowait" alt="" coords="461,56,584,83"/>
-<area shape="rect" id="node7" href="$xfs__inode_8h.html#a144e80542c0e344103d339bc31f0b046" title="xfs_iflags_test_and_set" alt="" coords="632,56,792,83"/>
-</map>

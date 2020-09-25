@@ -1,7 +1,0 @@
-<map id="max_file_blocks" name="max_file_blocks">
-<area shape="rect" id="node2" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="193,5,295,32"/>
-<area shape="rect" id="node4" href="$data_8c.html#a66a7b976a74f927209b27ccadadde84d" title="get_data_block_bmap" alt="" coords="169,56,319,83"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a4703f5829904bd37f463d4cb3c459f70" title="f2fs_fiemap" alt="" coords="199,107,289,133"/>
-<area shape="rect" id="node3" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="367,5,453,32"/>
-<area shape="rect" id="node5" href="$data_8c.html#a9e327c6086cec636d0a867da17ef2d96" title="f2fs_bmap" alt="" coords="369,56,451,83"/>
-</map>

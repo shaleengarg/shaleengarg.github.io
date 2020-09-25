@@ -1,5 +1,0 @@
-<map id="ext4_init_acl" name="ext4_init_acl">
-<area shape="rect" id="node2" href="$ext4_2acl_8h.html#af69be350205bc03d642ff4012be29a39" title="ext4_acl_count" alt="" coords="148,5,259,32"/>
-<area shape="rect" id="node3" href="$ext4_2acl_8c.html#a42208b66343fb54fc684cbe502e68d28" title="ext4_acl_from_disk" alt="" coords="307,5,441,32"/>
-<area shape="rect" id="node4" href="$ext4_2acl_8c.html#ac6daa76ca559336ab3c8ebb84c5c67b1" title="ext4_get_acl" alt="" coords="489,5,585,32"/>
-</map>

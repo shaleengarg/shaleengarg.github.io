@@ -1,5 +1,0 @@
-<map id="ep_pqueue" name="ep_pqueue">
-<area shape="rect" id="node2" href="$structepitem.html" title="epitem" alt="" coords="69,95,131,121"/>
-<area shape="rect" id="node4" href="$structeventpoll.html" title="eventpoll" alt="" coords="124,184,199,211"/>
-<area shape="rect" id="node3" href="$structepoll__filefd.html" title="epoll_filefd" alt="" coords="58,5,142,32"/>
-</map>

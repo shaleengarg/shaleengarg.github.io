@@ -1,5 +1,0 @@
-<map id="ff_layout_choose_best_ds_for_read" name="ff_layout_choose_best_ds_for_read">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#a4a8db6b0436e5e7ed0e9e0d3e03a0787" title="ff_layout_pg_init_read" alt="" coords="212,5,361,32"/>
-<area shape="rect" id="node3" href="$flexfilelayout_2flexfilelayout_8c.html#a1dcb74a395f13ddca6a33b56a617c438" title="ff_layout_read_done_cb" alt="" coords="207,56,367,83"/>
-<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#aadec16681f6a2a252e206debebaa8b2c" title="ff_layout_read_pagelist" alt="" coords="415,56,571,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ocfs2/acl.h" name="ocfs2/acl.h">
-<area shape="rect" id="node2" href="$ocfs2_2acl_8c.html" title="ocfs2/acl.c" alt="" coords="5,80,92,107"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html" title="ocfs2/dlmglue.c" alt="" coords="117,80,231,107"/>
-<area shape="rect" id="node4" href="$ocfs2_2file_8c.html" title="ocfs2/file.c" alt="" coords="256,80,343,107"/>
-<area shape="rect" id="node5" href="$ocfs2_2namei_8c.html" title="ocfs2/namei.c" alt="" coords="367,80,471,107"/>
-<area shape="rect" id="node6" href="$ocfs2_2xattr_8c.html" title="ocfs2/xattr.c" alt="" coords="496,80,591,107"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="__prepare_cp_block" name="__prepare_cp_block">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="207,5,304,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="367,81,421,108"/>
-<area shape="rect" id="node4" href="$node_8h.html#a4d4a14be29d549bffe0f84e8cd6a4f21" title="next_free_nid" alt="" coords="205,107,305,133"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#ae72aed3be496d850be5d309898bbf056" title="valid_user_blocks" alt="" coords="192,157,319,184"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#aed9f6e2862079e965feb3376f601ce5f" title="valid_node_count" alt="" coords="194,208,317,235"/>
-<area shape="rect" id="node7" href="$f2fs_8h.html#aee9966e781dc663e607c19706c503ea0" title="valid_inode_count" alt="" coords="192,259,319,285"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="BUD_ITEM" name="BUD_ITEM">
-<area shape="rect" id="node2" href="$xfs__bmap__item_8c.html#aac8ffcf9bfb347fa15b1d78b1b899e5c" title="xfs_bud_item_format" alt="" coords="156,5,300,32"/>
-<area shape="rect" id="node3" href="$xfs__bmap__item_8c.html#ab9585ad1bee95ee17f4141663aa65aa1" title="xfs_bud_item_unlock" alt="" coords="155,56,301,83"/>
-<area shape="rect" id="node4" href="$xfs__bmap__item_8c.html#ac6337ae56574b780a867971b11229055" title="xfs_bud_item_committed" alt="" coords="144,107,312,133"/>
-</map>

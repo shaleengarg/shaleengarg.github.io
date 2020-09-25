@@ -1,5 +1,0 @@
-<map id="xfs_iolock_two_inodes_and_break_layout" name="xfs_iolock_two_inodes_and_break_layout">
-<area shape="rect" id="node2" href="$xfs__reflink_8h.html#a693f178d32a07921a528160ac2f94d1e" title="xfs_reflink_remap_range" alt="" coords="208,31,372,57"/>
-<area shape="rect" id="node3" href="$xfs__file_8c.html#a777e597798120a67292187c95056dd57" title="xfs_file_clone_range" alt="" coords="425,5,567,32"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a47173f58ab762ace727aab3d46afcf7b" title="xfs_file_dedupe_range" alt="" coords="420,56,572,83"/>
-</map>

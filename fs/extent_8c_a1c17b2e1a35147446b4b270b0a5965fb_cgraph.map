@@ -1,9 +1,0 @@
-<map id="hfs_ext_read_extent" name="hfs_ext_read_extent">
-<area shape="rect" id="node2" href="$extent_8c.html#a74f4bbc97e7f780ebb891cee132013c7" title="__hfs_ext_cache_extent" alt="" coords="193,56,357,83"/>
-<area shape="rect" id="node3" href="$extent_8c.html#a32ce02ef90f7c1347914d50b94d13fac" title="__hfs_ext_write_extent" alt="" coords="405,5,563,32"/>
-<area shape="rect" id="node5" href="$extent_8c.html#afd6bf0b3b38b53f9b1e3ec733f7a1ee1" title="__hfs_ext_read_extent" alt="" coords="407,56,561,83"/>
-<area shape="rect" id="node6" href="$extent_8c.html#ad02466be930cfafbd9e6b5034ad121e1" title="hfs_ext_block_count" alt="" coords="413,107,555,133"/>
-<area shape="rect" id="node4" href="$extent_8c.html#ac6d1fce5ab51b170ed87d4530b0279c2" title="hfs_ext_build_key" alt="" coords="611,31,737,57"/>
-<area shape="rect" id="node7" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="647,107,701,133"/>
-<area shape="rect" id="node8" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="785,107,904,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="nfsd_return_dirop" name="nfsd_return_dirop">
-<area shape="rect" id="node2" href="$vfs_8h.html#a5c3db292105502fb911a1a42f6900409" title="fh_getattr" alt="" coords="176,56,253,83"/>
-<area shape="rect" id="node3" href="$nfsd_2export_8h.html#a66ddec3a166114a80a055ebde47d5030" title="nfserrno" alt="" coords="309,31,378,57"/>
-<area shape="rect" id="node4" href="$stat_8c.html#ad39ab79cf717f7ada99af52086fd5aab" title="vfs_getattr" alt="" coords="301,81,385,108"/>
-<area shape="rect" id="node5" href="$stat_8c.html#a56b3cf083c0db2c09e456a6dbdb091e4" title="vfs_getattr_nosec" alt="" coords="433,56,560,83"/>
-<area shape="rect" id="node7" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="759,56,897,83"/>
-<area shape="rect" id="node6" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="608,5,711,32"/>
-</map>

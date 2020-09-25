@@ -1,9 +1,0 @@
-<map id="create_new_entry" name="create_new_entry">
-<area shape="rect" id="node2" href="$fuse_2dir_8c.html#ab748e8fce8b98daa7d39d0e4f9b37da2" title="fuse_mknod" alt="" coords="181,56,275,83"/>
-<area shape="rect" id="node6" href="$fuse_2dir_8c.html#a35893207fd047f1d973e39d2ab3ae6d3" title="fuse_mkdir" alt="" coords="185,107,271,133"/>
-<area shape="rect" id="node7" href="$fuse_2dir_8c.html#a506ba280746b5b64cc35501daf2bf964" title="fuse_symlink" alt="" coords="179,157,277,184"/>
-<area shape="rect" id="node8" href="$fuse_2dir_8c.html#a3d5ec73d21b168eb8f1938053fd848af" title="fuse_link" alt="" coords="191,208,265,235"/>
-<area shape="rect" id="node3" href="$fuse_2dir_8c.html#a1855d74c3b9aebaad5a1793c75bb5fc0" title="fuse_create_open" alt="" coords="325,5,451,32"/>
-<area shape="rect" id="node4" href="$fuse_2dir_8c.html#a22e61bc8f7cb5af54feb54f63c7851f7" title="fuse_atomic_open" alt="" coords="499,31,627,57"/>
-<area shape="rect" id="node5" href="$fuse_2dir_8c.html#a2ec12ce69851e1e13f179b2b43da1752" title="fuse_create" alt="" coords="343,107,433,133"/>
-</map>

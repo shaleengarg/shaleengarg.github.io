@@ -1,5 +1,0 @@
-<map id="xfs_dir3_block_init" name="xfs_dir3_block_init">
-<area shape="rect" id="node2" href="$xfs__trans_8h.html#a2ff71de81eebf4956539d648542332ca" title="xfs_trans_buf_set_type" alt="" coords="184,5,343,32"/>
-<area shape="rect" id="node4" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="185,56,341,83"/>
-<area shape="rect" id="node3" href="$xfs__log__format_8h.html#a8ffc85ccb1b464022dd017a1cfa7e119" title="xfs_blft_to_flags" alt="" coords="391,5,509,32"/>
-</map>

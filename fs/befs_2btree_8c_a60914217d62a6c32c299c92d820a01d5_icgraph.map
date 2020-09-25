@@ -1,7 +1,0 @@
-<map id="befs_leafnode" name="befs_leafnode">
-<area shape="rect" id="node2" href="$befs_2btree_8h.html#a268480fe80526f18f2f7044adc01aea2" title="befs_btree_find" alt="" coords="170,5,281,32"/>
-<area shape="rect" id="node4" href="$befs_2btree_8c.html#a1ed27d613fa8974ec09164c52cfb4a56" title="befs_btree_seekleaf" alt="" coords="156,56,295,83"/>
-<area shape="rect" id="node3" href="$linuxvfs_8c.html#a4f5bb7d4b2829b3fc8d5a0fccfb18aa2" title="befs_lookup" alt="" coords="354,5,446,32"/>
-<area shape="rect" id="node5" href="$befs_2btree_8h.html#a1a2e106c9a4b068c19c053bed7f8f892" title="befs_btree_read" alt="" coords="343,56,457,83"/>
-<area shape="rect" id="node6" href="$linuxvfs_8c.html#a924a0b818a174dade47c07fb60ead6bf" title="befs_readdir" alt="" coords="505,56,599,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="encode_createhow3" name="encode_createhow3">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a7b1d52b96693d045e5425d1bda1b1876" title="encode_uint32" alt="" coords="207,5,313,32"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#aa9736c5cfa5786059fd2f0fba356a543" title="encode_sattr3" alt="" coords="208,56,312,83"/>
-<area shape="rect" id="node5" href="$nfs3xdr_8c.html#ae340f016a2bc7502e97145a7746f782f" title="encode_createverf3" alt="" coords="192,107,328,133"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#a7a7b63ad77e579e406e1ef542c82ea33" title="xdr_encode_nfstime3" alt="" coords="376,56,523,83"/>
-</map>

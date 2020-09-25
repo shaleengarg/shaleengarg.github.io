@@ -1,6 +1,0 @@
-<map id="kmem_zone_init_flags" name="kmem_zone_init_flags">
-<area shape="rect" id="node2" href="$xfs__buf_8h.html#ad5cb90fc903b10c826259ef21d4ae274" title="xfs_buf_init" alt="" coords="214,5,303,32"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#a9a6ea95bbdf2de1f3103629925d45603" title="xfs_init_zones" alt="" coords="205,56,312,83"/>
-<area shape="rect" id="node3" href="$xfs__super_8c.html#a195477451f30ab17d1855392825e56e4" title="init_xfs_fs" alt="" coords="360,31,443,57"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#a2fe336df2be1dd74b03a62eaffe0cead" title="exit_xfs_fs" alt="" coords="491,31,577,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="xfs_update_prealloc_flags" name="xfs_update_prealloc_flags">
-<area shape="rect" id="node2" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="199,5,319,32"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a469cdd5bcd7f0165e447baa3d519e5b1" title="xfs_ioc_space" alt="" coords="206,56,313,83"/>
-<area shape="rect" id="node6" href="$xfs__pnfs_8c.html#a22693ae15305a05db86d92dbdc6a40bd" title="xfs_fs_map_blocks" alt="" coords="192,107,327,133"/>
-<area shape="rect" id="node4" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="375,31,469,57"/>
-<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="517,56,663,83"/>
-</map>

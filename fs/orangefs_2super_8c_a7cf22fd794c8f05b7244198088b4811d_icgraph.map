@@ -1,8 +1,0 @@
-<map id="parse_mount_options" name="parse_mount_options">
-<area shape="rect" id="node2" href="$orangefs_2super_8c.html#acac80ae8db87a2dc99190e6372d46bfa" title="orangefs_remount_fs" alt="" coords="200,5,344,32"/>
-<area shape="rect" id="node3" href="$orangefs_2super_8c.html#af0f11001e500202f452bc1c473b9ec9d" title="orangefs_fill_sb" alt="" coords="215,56,329,83"/>
-<area shape="rect" id="node4" href="$orangefs_2super_8c.html#acb317ef56c2948149fb8f789e1e0d52f" title="orangefs_mount" alt="" coords="392,56,507,83"/>
-<area shape="rect" id="node5" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="555,56,657,83"/>
-<area shape="rect" id="node6" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="705,49,840,90"/>
-<area shape="rect" id="node7" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="888,56,1037,83"/>
-</map>

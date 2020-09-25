@@ -1,6 +1,0 @@
-<map id="o2nm_cluster_reconnect_delay_ms_store" name="o2nm_cluster_reconnect_delay_ms_store">
-<area shape="rect" id="node2" href="$nodemanager_8c.html#a15f9f324e1257e7a4c43ade60dae917d" title="o2nm_cluster_attr_write" alt="" coords="217,5,379,32"/>
-<area shape="rect" id="node5" href="$nodemanager_8c.html#a6bb25185734998a9302cd84b228fcc7a" title="to_o2nm_cluster" alt="" coords="239,56,357,83"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="427,5,481,32"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="529,5,648,32"/>
-</map>

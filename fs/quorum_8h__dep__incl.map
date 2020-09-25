@@ -1,5 +1,0 @@
-<map id="ocfs2/cluster/quorum.h" name="ocfs2/cluster/quorum.h">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html" title="ocfs2/cluster/heartbeat.c" alt="" coords="5,80,172,107"/>
-<area shape="rect" id="node3" href="$quorum_8c.html" title="ocfs2/cluster/quorum.c" alt="" coords="197,80,351,107"/>
-<area shape="rect" id="node4" href="$tcp_8c.html" title="ocfs2/cluster/tcp.c" alt="" coords="375,80,506,107"/>
-</map>

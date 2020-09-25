@@ -1,8 +1,0 @@
-<map id="afs_probe_cell_name" name="afs_probe_cell_name">
-<area shape="rect" id="node2" href="$cell_8c.html#a85be6b87b8930ebdd08a7b0029d07b23" title="afs_lookup_cell_rcu" alt="" coords="199,56,336,83"/>
-<area shape="rect" id="node3" href="$cell_8c.html#af1e2a474c0fe033e96957cd070d6c52a" title="afs_put_cell" alt="" coords="384,5,476,32"/>
-<area shape="rect" id="node7" href="$afs_2internal_8h.html#ae2ec4df4291711ca4ed143da8956ab18" title="afs_d2net" alt="" coords="228,107,307,133"/>
-<area shape="rect" id="node6" href="$cell_8c.html#a1ef49c122651e2ceadb184c9358c9b09" title="afs_get_cell" alt="" coords="384,56,476,83"/>
-<area shape="rect" id="node4" href="$cell_8c.html#a0dcd6b8b691da343d0b32c8f96c3ebfb" title="afs_set_cell_timer" alt="" coords="524,5,652,32"/>
-<area shape="rect" id="node5" href="$cell_8c.html#a1354c53831375a8e3a5e2b9843232ae1" title="afs_dec_cells_outstanding" alt="" coords="700,5,876,32"/>
-</map>

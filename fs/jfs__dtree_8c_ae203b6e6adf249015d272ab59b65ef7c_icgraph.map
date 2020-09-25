@@ -1,7 +1,0 @@
-<map id="dtTruncateEntry" name="dtTruncateEntry">
-<area shape="rect" id="node2" href="$jfs__dtree_8c.html#aedf5fd73859e01dd9d25d72a5982f711" title="dtDeleteUp" alt="" coords="168,56,256,83"/>
-<area shape="rect" id="node3" href="$jfs__dtree_8h.html#a3f84193817e8bd8ea64e79447aeb2303" title="dtDelete" alt="" coords="304,56,375,83"/>
-<area shape="rect" id="node4" href="$jfs_2namei_8c.html#a3ad6c390c8e4d1930e798bbdfc642678" title="jfs_rmdir" alt="" coords="430,5,502,32"/>
-<area shape="rect" id="node5" href="$jfs_2namei_8c.html#af04c1404d0730674146bc7f8d6b20f97" title="jfs_unlink" alt="" coords="427,56,505,83"/>
-<area shape="rect" id="node6" href="$jfs_2namei_8c.html#aa3534a98002c7bc2ba0c791cd3c44c37" title="jfs_rename" alt="" coords="423,107,509,133"/>
-</map>

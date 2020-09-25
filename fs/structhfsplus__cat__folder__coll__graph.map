@@ -1,7 +1,0 @@
-<map id="hfsplus_cat_folder" name="hfsplus_cat_folder">
-<area shape="rect" id="node2" href="$structDInfo.html" title="DInfo" alt="" coords="88,95,143,121"/>
-<area shape="rect" id="node3" href="$structhfsp__rect.html" title="hfsp_rect" alt="" coords="5,5,81,32"/>
-<area shape="rect" id="node4" href="$structhfsp__point.html" title="hfsp_point" alt="" coords="135,5,218,32"/>
-<area shape="rect" id="node5" href="$structDXInfo.html" title="DXInfo" alt="" coords="175,95,237,121"/>
-<area shape="rect" id="node6" href="$structhfsplus__perm.html" title="hfsplus_perm" alt="" coords="261,95,361,121"/>
-</map>

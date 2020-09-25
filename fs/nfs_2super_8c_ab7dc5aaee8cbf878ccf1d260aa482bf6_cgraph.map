@@ -1,6 +1,0 @@
-<map id="nfs_compare_super" name="nfs_compare_super">
-<area shape="rect" id="node2" href="$nfs_2super_8c.html#aea67fd6d72967fb901fb7042a653ff22" title="nfs_compare_super_address" alt="" coords="189,5,379,32"/>
-<area shape="rect" id="node3" href="$nfs_2super_8c.html#a251375c9da8c5d290890c75652bfa3fc" title="nfs_compare_mount_options" alt="" coords="189,56,379,83"/>
-<area shape="rect" id="node4" href="$nfs_2super_8c.html#a34b8eafd44e688c2920c8a49af2dfe6e" title="nfs_get_cache_cookie" alt="" coords="208,107,360,133"/>
-<area shape="rect" id="node5" href="$nfs_2fscache_8c.html#ae2d6a2e83cd79cef31daeb1604882a3d" title="nfs_fscache_get_super\l_cookie" alt="" coords="205,158,363,199"/>
-</map>

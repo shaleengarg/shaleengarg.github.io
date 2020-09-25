@@ -1,7 +1,0 @@
-<map id="nfs_start_lockd" name="nfs_start_lockd">
-<area shape="rect" id="node2" href="$client_8c.html#a79567e458591ffb59de706e040bd5cf0" title="nfs_init_server" alt="" coords="171,29,278,56"/>
-<area shape="rect" id="node5" href="$nfs_2internal_8h.html#a74da40629c00a2d52eb709fbbf64a754" title="nfs_clone_server" alt="" coords="164,104,285,131"/>
-<area shape="rect" id="node3" href="$nfs_2internal_8h.html#a40007155e8fe7d9b21830cfcfc2b2318" title="nfs_create_server" alt="" coords="334,29,461,56"/>
-<area shape="rect" id="node4" href="$nfs3client_8c.html#af53154f90bb786156a08f3f746020f06" title="nfs3_create_server" alt="" coords="509,29,643,56"/>
-<area shape="rect" id="node6" href="$nfs3client_8c.html#aaeacfa9e9f6837b2257cff046f54e055" title="nfs3_clone_server" alt="" coords="333,104,461,131"/>
-</map>

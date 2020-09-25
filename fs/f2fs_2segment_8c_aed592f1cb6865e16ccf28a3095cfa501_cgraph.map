@@ -1,5 +1,0 @@
-<map id="add_sit_entry" name="add_sit_entry">
-<area shape="rect" id="node2" href="$f2fs_2segment_8c.html#af48863c45ae8aacdd848cd8de663eecb" title="adjust_sit_entry_set" alt="" coords="153,5,292,32"/>
-<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#a17d5506adfc1e7d28104b47e8fe7d409" title="grab_sit_entry_set" alt="" coords="158,56,287,83"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="340,56,503,83"/>
-</map>

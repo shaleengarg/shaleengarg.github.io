@@ -1,7 +1,0 @@
-<map id="xfs_btree_irec" name="xfs_btree_irec">
-<area shape="rect" id="node2" href="$structxfs__inobt__rec__incore.html" title="xfs_inobt_rec_incore" alt="" coords="5,5,148,32"/>
-<area shape="rect" id="node3" href="$structxfs__rmap__irec.html" title="xfs_rmap_irec" alt="" coords="25,56,129,83"/>
-<area shape="rect" id="node4" href="$structxfs__refcount__irec.html" title="xfs_refcount_irec" alt="" coords="15,107,138,133"/>
-<area shape="rect" id="node5" href="$structxfs__alloc__rec__incore.html" title="xfs_alloc_rec_incore" alt="" coords="6,157,147,184"/>
-<area shape="rect" id="node6" href="$structxfs__bmbt__irec.html" title="xfs_bmbt_irec" alt="" coords="25,208,129,235"/>
-</map>

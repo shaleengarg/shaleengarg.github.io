@@ -1,6 +1,0 @@
-<map id="f2fs_set_inode_flags" name="f2fs_set_inode_flags">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="237,5,302,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#ab2b0bb50bacb1e82df81f84287d13e1e" title="f2fs_encrypted_inode" alt="" coords="196,56,343,83"/>
-<area shape="rect" id="node4" href="$inode_8c.html#abd5f64c5d3de9831c52db188a3825839" title="inode_set_flags" alt="" coords="213,107,326,133"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="391,107,529,133"/>
-</map>

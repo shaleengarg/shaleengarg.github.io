@@ -1,9 +1,0 @@
-<map id="kernfs_walk_and_get_ns" name="kernfs_walk_and_get_ns">
-<area shape="rect" id="node2" href="$kernfs_2dir_8c.html#a2369f64a6bf738b3e66900d469e35d9f" title="kernfs_walk_ns" alt="" coords="220,31,333,57"/>
-<area shape="rect" id="node7" href="$kernfs_2dir_8c.html#a69687e23cff9011ddd1f323ed2caeb0f" title="kernfs_get" alt="" coords="235,81,318,108"/>
-<area shape="rect" id="node3" href="$kernfs_2dir_8c.html#ab0f0f03501ea3d4b9b71a08625bb4120" title="kernfs_find_ns" alt="" coords="414,31,521,57"/>
-<area shape="rect" id="node4" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="804,5,855,32"/>
-<area shape="rect" id="node5" href="$kernfs_2dir_8c.html#ad5ec091dee249df67a0d933ebd3198b8" title="kernfs_name_hash" alt="" coords="613,31,745,57"/>
-<area shape="rect" id="node6" href="$kernfs_2dir_8c.html#a9b720069a13be1cbadc90a8f3b842619" title="kernfs_name_compare" alt="" coords="601,81,756,108"/>
-<area shape="rect" id="node8" href="$fat_2dir_8c.html#a59ee3c6473393c9dde28f7c59e81446b" title="EXPORT_SYMBOL_GPL" alt="" coords="381,81,553,108"/>
-</map>

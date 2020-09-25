@@ -1,8 +1,0 @@
-<map id="xfs_setup_inode" name="xfs_setup_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a1871c58d9c393006e24f7fea1bcc288d" title="inode_sb_list_add" alt="" coords="178,5,305,32"/>
-<area shape="rect" id="node4" href="$xfs__linux_8h.html#a19689e6ac48d9d63ee0ebc8536d04e01" title="xfs_uid_to_kuid" alt="" coords="185,56,298,83"/>
-<area shape="rect" id="node5" href="$xfs__linux_8h.html#a7fe766c8cf2066e3a27960783a373377" title="xfs_gid_to_kgid" alt="" coords="185,107,298,133"/>
-<area shape="rect" id="node6" href="$xfs__iops_8c.html#aba1bea0ecb2a44d0ad41508d02b77228" title="xfs_diflags_to_iflags" alt="" coords="171,157,312,184"/>
-<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="360,5,532,32"/>
-<area shape="rect" id="node7" href="$xfs__inode_8h.html#a48b5745ca5e1cc018d395c5b815266d4" title="xfs_is_reflink_inode" alt="" coords="377,157,515,184"/>
-</map>

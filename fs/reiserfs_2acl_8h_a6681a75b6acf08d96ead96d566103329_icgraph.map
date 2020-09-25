@@ -1,5 +1,0 @@
-<map id="reiserfs_inherit_default_acl" name="reiserfs_inherit_default_acl">
-<area shape="rect" id="node2" href="$reiserfs_2acl_8h.html#a8ccef80cfe203a867ae77e2b4546a974" title="reiserfs_acl_count" alt="" coords="231,13,359,39"/>
-<area shape="rect" id="node3" href="$xattr__acl_8c.html#a33c48cbc02c9778b16713c5dd1693793" title="reiserfs_posix_acl\l_from_disk" alt="" coords="407,5,533,47"/>
-<area shape="rect" id="node4" href="$xattr__acl_8c.html#a5a1626eb51aaf7ebef58bd025a106e18" title="reiserfs_get_acl" alt="" coords="581,13,696,39"/>
-</map>

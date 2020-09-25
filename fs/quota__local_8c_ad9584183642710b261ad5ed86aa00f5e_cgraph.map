@@ -1,8 +1,0 @@
-<map id="ocfs2_find_free_entry" name="ocfs2_find_free_entry">
-<area shape="rect" id="node2" href="$quota__local_8c.html#a3940ca861ee592f00579fe4f6d545144" title="ol_chunk_entries" alt="" coords="215,56,335,83"/>
-<area shape="rect" id="node4" href="$quota__local_8c.html#ab0366013e628777baf0c87e6eb257652" title="ol_quota_entries_per\l_block" alt="" coords="589,49,732,90"/>
-<area shape="rect" id="node5" href="$quota__local_8c.html#abd04781bf79d9f41220d73e466cb29f4" title="ol_quota_chunk_block" alt="" coords="200,5,351,32"/>
-<area shape="rect" id="node6" href="$ocfs2_8h.html#af854b8d0ef0aedd25dac01839645f6c7" title="ocfs2_find_next_zero\l_bit_unaligned" alt="" coords="202,158,349,199"/>
-<area shape="rect" id="node3" href="$quota__local_8c.html#a44a871d0309351a5ac7c7f82ab4f3b89" title="ol_chunk_blocks" alt="" coords="411,5,529,32"/>
-<area shape="rect" id="node7" href="$ocfs2_8h.html#a462e1c8a89654b303b6945e671ef5cd5" title="correct_addr_and_bit\l_unaligned" alt="" coords="399,158,541,199"/>
-</map>

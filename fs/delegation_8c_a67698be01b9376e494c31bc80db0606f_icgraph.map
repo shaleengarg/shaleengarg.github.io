@@ -1,6 +1,0 @@
-<map id="nfs_remove_bad_delegation" name="nfs_remove_bad_delegation">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#ae19af105c32d970cee3f291071154a73" title="nfs_finish_clear_delegation\l_stateid" alt="" coords="237,39,416,80"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#aee6094cbd71de9755e88be1e5caa77f1" title="nfs40_clear_delegation\l_stateid" alt="" coords="464,5,619,47"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#abebc920de431db695cb051e4e4c69d8c" title="nfs40_test_and_free\l_expired_stateid" alt="" coords="471,71,611,112"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a2b843f160dee6b11e434083873afb0aa" title="nfs40_open_expired" alt="" coords="667,13,805,39"/>
-</map>

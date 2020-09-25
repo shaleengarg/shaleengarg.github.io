@@ -1,6 +1,0 @@
-<map id="hugetlbfs_inc_free_inodes" name="hugetlbfs_inc_free_inodes">
-<area shape="rect" id="node2" href="$hugetlbfs_2inode_8c.html#af053601be32afcef98665a3c9a1899a1" title="hugetlbfs_alloc_inode" alt="" coords="189,5,336,32"/>
-<area shape="rect" id="node5" href="$hugetlbfs_2inode_8c.html#a6a15b832cf0734c82a0c48a16859a69d" title="hugetlbfs_destroy_inode" alt="" coords="181,56,344,83"/>
-<area shape="rect" id="node3" href="$hugetlbfs_2inode_8c.html#ac94582025e10222db6e3afa7b80f3d6d" title="init_once" alt="" coords="392,31,467,57"/>
-<area shape="rect" id="node4" href="$hugetlbfs_2inode_8c.html#ad2eb0878d0af539b5dd744952327024f" title="init_hugetlbfs_fs" alt="" coords="515,31,632,57"/>
-</map>

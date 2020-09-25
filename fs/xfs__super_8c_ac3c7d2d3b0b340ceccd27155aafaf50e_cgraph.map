@@ -1,7 +1,0 @@
-<map id="xfs_fs_unfreeze" name="xfs_fs_unfreeze">
-<area shape="rect" id="node2" href="$xfs__super_8c.html#a7a37d4fe7f918bff890d6175ad9832b4" title="xfs_restore_resvblks" alt="" coords="168,31,311,57"/>
-<area shape="rect" id="node6" href="$xfs__log_8c.html#ad8e030221a285496344e560ece981b5f" title="xfs_log_work_queue" alt="" coords="169,81,310,108"/>
-<area shape="rect" id="node3" href="$xfs__mount_8c.html#af1dfdca63dc95a1e1003cf2eda5795ac" title="xfs_default_resblks" alt="" coords="359,5,493,32"/>
-<area shape="rect" id="node4" href="$xfs__fsops_8c.html#a79f397a69af78cc910b7c7498d4f9b98" title="xfs_reserve_blocks" alt="" coords="359,56,493,83"/>
-<area shape="rect" id="node5" href="$xfs__mount_8c.html#ac19fadd06cee33909de2577b5add0da0" title="xfs_mod_fdblocks" alt="" coords="541,56,669,83"/>
-</map>

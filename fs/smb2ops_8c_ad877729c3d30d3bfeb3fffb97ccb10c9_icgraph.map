@@ -1,5 +1,0 @@
-<map id="decrypt_raw_data" name="decrypt_raw_data">
-<area shape="rect" id="node2" href="$smb2ops_8c.html#a995322e4f17f922d00e65d9b5075e809" title="receive_encrypted_read" alt="" coords="191,5,351,32"/>
-<area shape="rect" id="node4" href="$smb2ops_8c.html#a99fedc79b84fdf2a53e4ac44688fbff8" title="receive_encrypted_standard" alt="" coords="179,56,364,83"/>
-<area shape="rect" id="node3" href="$smb2ops_8c.html#a9f25a97d4c7242f6ccabec8d906b5cba" title="smb3_receive_transform" alt="" coords="412,31,577,57"/>
-</map>

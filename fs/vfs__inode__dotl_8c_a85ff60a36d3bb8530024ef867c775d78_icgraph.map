@@ -1,7 +1,0 @@
-<map id="v9fs_get_fsgid_for_create" name="v9fs_get_fsgid_for_create">
-<area shape="rect" id="node2" href="$vfs__inode__dotl_8c.html#adb047c18af0fb75512499b964e272053" title="v9fs_vfs_atomic_open_dotl" alt="" coords="183,5,364,32"/>
-<area shape="rect" id="node3" href="$vfs__inode__dotl_8c.html#a1551e426c154bcda591527db334199f5" title="v9fs_vfs_mkdir_dotl" alt="" coords="204,56,343,83"/>
-<area shape="rect" id="node4" href="$vfs__inode__dotl_8c.html#a1b3473138b8503f2b871273e4ee80a01" title="v9fs_vfs_symlink_dotl" alt="" coords="197,107,349,133"/>
-<area shape="rect" id="node5" href="$vfs__inode__dotl_8c.html#a3273638b8655020cb91492e42198807e" title="v9fs_vfs_mknod_dotl" alt="" coords="200,157,347,184"/>
-<area shape="rect" id="node6" href="$vfs__inode__dotl_8c.html#a106ae819d705877e73c81ff990c9a1f1" title="v9fs_vfs_create_dotl" alt="" coords="412,157,555,184"/>
-</map>

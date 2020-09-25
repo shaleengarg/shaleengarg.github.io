@@ -1,6 +1,0 @@
-<map id="purge_inprogress_ops" name="purge_inprogress_ops">
-<area shape="rect" id="node2" href="$devorangefs-req_8c.html#ab6f0208c8d5234794d7cc69d34ccfae3" title="orangefs_devreq_release" alt="" coords="203,5,369,32"/>
-<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="235,56,337,83"/>
-<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="417,49,552,90"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="600,56,749,83"/>
-</map>

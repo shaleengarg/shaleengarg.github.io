@@ -1,9 +1,0 @@
-<map id="nlmclnt_locks_release_private" name="nlmclnt_locks_release_private">
-<area shape="rect" id="node2" href="$clntproc_8c.html#aebbe64772c1479302749cb73049cdccc" title="nlm_put_lockowner" alt="" coords="204,31,339,57"/>
-<area shape="rect" id="node3" href="$host_8c.html#ae94ae9443a5957465a08465e1000dd46" title="nlmclnt_release_host" alt="" coords="387,31,532,57"/>
-<area shape="rect" id="node4" href="$host_8c.html#a042d94457a210fb0665dbfb59a0eddbb" title="nlm_destroy_host_locked" alt="" coords="580,31,751,57"/>
-<area shape="rect" id="node5" href="$mon_8c.html#ae1d7ba45724982961298316f533faee9" title="nsm_unmonitor" alt="" coords="799,5,909,32"/>
-<area shape="rect" id="node8" href="$mon_8c.html#a56d74dc56902e37e26b64394278cb967" title="nsm_release" alt="" coords="806,56,902,83"/>
-<area shape="rect" id="node6" href="$mon_8c.html#a442d33ea17dd78a3257f304ffb5ba1af" title="nsm_mon_unmon" alt="" coords="957,5,1083,32"/>
-<area shape="rect" id="node7" href="$mon_8c.html#aa11b1648c7ca2be81fda175acd892745" title="nsm_create" alt="" coords="1131,5,1221,32"/>
-</map>

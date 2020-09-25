@@ -1,5 +1,0 @@
-<map id="nfs2_xdr_enc_readdirargs" name="nfs2_xdr_enc_readdirargs">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a74e60aa48ca8c0de98a97adc2a03f60f" title="encode_readdirargs" alt="" coords="227,5,361,32"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ace7f4cf0fe738d35a8e7a84ffb5455c6" title="prepare_reply_buffer" alt="" coords="224,56,364,83"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a71028f192b6b109bacc5ed86f06fdb48" title="encode_fhandle" alt="" coords="412,5,525,32"/>
-</map>

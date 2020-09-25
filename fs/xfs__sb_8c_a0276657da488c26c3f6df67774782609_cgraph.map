@@ -1,5 +1,0 @@
-<map id="__xfs_sb_from_disk" name="__xfs_sb_from_disk">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#a9798319303f16748b8341a7e735379f6" title="xfs_sb_version_hasmetauuid" alt="" coords="192,5,383,32"/>
-<area shape="rect" id="node3" href="$xfs__sb_8c.html#a47ab9295c20d8bef21af03a31488cb9f" title="xfs_sb_quota_from_disk" alt="" coords="205,56,369,83"/>
-<area shape="rect" id="node4" href="$xfs__format_8h.html#af8def6250b04fcac883700315577d06f" title="xfs_sb_version_has\l_pquotino" alt="" coords="431,49,569,90"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="DEFINE_SPINLOCK" name="DEFINE_SPINLOCK">
-<area shape="rect" id="node2" href="$char__dev_8c.html#ae890cf06b51a5db5f0efb70440e52a89" title="__unregister_chrdev" alt="" coords="200,31,339,57"/>
-<area shape="rect" id="node3" href="$internal_8h.html#ac35912dfd6fa18106f5158b5b84f8afc" title="chrdev_init" alt="" coords="387,31,472,57"/>
-<area shape="rect" id="node4" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="520,5,643,32"/>
-<area shape="rect" id="node5" href="$dcache_8c.html#a8e57b1d00f73b05cbc11789c78196ce4" title="vfs_caches_init" alt="" coords="525,56,638,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="hfs_cat_create" name="hfs_cat_create">
-<area shape="rect" id="node2" href="$catalog_8c.html#a4d40a6a57c47ca5f5786d94fa436ea32" title="hfs_cat_build_key" alt="" coords="169,5,296,32"/>
-<area shape="rect" id="node4" href="$catalog_8c.html#a07d432189cb8904801e85ef210af40aa" title="hfs_cat_build_thread" alt="" coords="161,56,304,83"/>
-<area shape="rect" id="node5" href="$catalog_8c.html#a08514e3c1da7357728e38949fcba5bad" title="hfs_cat_build_record" alt="" coords="161,107,304,133"/>
-<area shape="rect" id="node6" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="185,157,280,184"/>
-<area shape="rect" id="node3" href="$hfs__fs_8h.html#a981f063b7a4af6258137e6da13759b89" title="hfs_asc2mac" alt="" coords="371,31,471,57"/>
-<area shape="rect" id="node7" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="352,157,491,184"/>
-</map>

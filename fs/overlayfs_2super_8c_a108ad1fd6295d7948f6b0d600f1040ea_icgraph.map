@@ -1,7 +1,0 @@
-<map id="ovl_workdir_create" name="ovl_workdir_create">
-<area shape="rect" id="node2" href="$overlayfs_2super_8c.html#ad717f69be88c348082240906eb324806" title="ovl_make_workdir" alt="" coords="184,5,311,32"/>
-<area shape="rect" id="node6" href="$overlayfs_2super_8c.html#a9a7f21c0904797c93f599c58bb437b69" title="ovl_get_indexdir" alt="" coords="359,56,475,83"/>
-<area shape="rect" id="node3" href="$overlayfs_2super_8c.html#aa63776bb3d56cb3a974cbde6cc4f8c4a" title="ovl_get_workdir" alt="" coords="360,5,473,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2super_8c.html#ad189fedacb7a346e19cbf4d7ba775ba9" title="ovl_fill_super" alt="" coords="523,31,621,57"/>
-<area shape="rect" id="node5" href="$overlayfs_2super_8c.html#a45212ef365fb5aead6ac0d4ce69ce1ca" title="ovl_mount" alt="" coords="669,31,752,57"/>
-</map>

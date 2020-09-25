@@ -1,9 +1,0 @@
-<map id="__test_eb_bitmaps" name="__test_eb_bitmaps">
-<area shape="rect" id="node2" href="$extent__io_8c.html#aadb34b43a729da66e0912409a69f719e" title="memzero_extent_buffer" alt="" coords="185,5,344,32"/>
-<area shape="rect" id="node3" href="$extent__io_8c.html#a11e9d909f707735282435977e116cad9" title="memcmp_extent_buffer" alt="" coords="185,56,344,83"/>
-<area shape="rect" id="node4" href="$extent__io_8c.html#a7e8bdd63562566f16a8d9c43b6d3767d" title="extent_buffer_bitmap_set" alt="" coords="392,107,561,133"/>
-<area shape="rect" id="node6" href="$extent-io-tests_8c.html#a88d2b6857e333d60107268cdfeeeefec" title="check_eb_bitmap" alt="" coords="203,157,327,184"/>
-<area shape="rect" id="node8" href="$extent__io_8c.html#ae3047523da5fcaa68eac79da0851a5d4" title="extent_buffer_bitmap\l_clear" alt="" coords="405,209,549,250"/>
-<area shape="rect" id="node5" href="$extent__io_8c.html#abd07484f87c6ee98b4ff56ca27f7951c" title="eb_bitmap_offset" alt="" coords="609,157,732,184"/>
-<area shape="rect" id="node7" href="$extent__io_8c.html#a5476f8a8a038de2a49cb6b44b551956a" title="extent_buffer_test_bit" alt="" coords="403,157,551,184"/>
-</map>

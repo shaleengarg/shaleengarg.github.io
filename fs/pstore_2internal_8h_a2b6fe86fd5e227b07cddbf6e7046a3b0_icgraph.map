@@ -1,9 +1,0 @@
-<map id="pstore_get_records" name="pstore_get_records">
-<area shape="rect" id="node2" href="$pstore_2inode_8c.html#a1a941df5e64e5388d72ad01ca068eb70" title="pstore_fill_super" alt="" coords="209,5,326,32"/>
-<area shape="rect" id="node4" href="$pstore_2internal_8h.html#a0c00326359d012a4e0c21e5f163c3932" title="pstore_unregister_pmsg" alt="" coords="187,56,348,83"/>
-<area shape="rect" id="node6" href="$platform_8c.html#a41474fc2d746cbf31285aa7e7b3918d3" title="pstore_register" alt="" coords="213,107,321,133"/>
-<area shape="rect" id="node8" href="$platform_8c.html#a1a551823f36fb0822a2c8806d72afd58" title="pstore_dowork" alt="" coords="214,157,321,184"/>
-<area shape="rect" id="node3" href="$pstore_2inode_8c.html#af5ca74b98740d3baefff72190910057b" title="pstore_mount" alt="" coords="427,5,528,32"/>
-<area shape="rect" id="node5" href="$pstore_2internal_8h.html#aef7ae4f5a78ba3cb98d35908a45b0156" title="pstore_unregister_ftrace" alt="" coords="396,56,559,83"/>
-<area shape="rect" id="node7" href="$ram_8c.html#a23560d3889a2859d02b0d939f20bd6de" title="ramoops_probe" alt="" coords="422,107,533,133"/>
-</map>

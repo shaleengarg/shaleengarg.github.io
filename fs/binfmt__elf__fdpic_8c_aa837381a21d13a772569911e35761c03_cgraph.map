@@ -1,7 +1,0 @@
-<map id="exit_elf_fdpic_binfmt" name="exit_elf_fdpic_binfmt">
-<area shape="rect" id="node2" href="$exec_8c.html#aa4217a607e4fa264eacc4c8dd4e258dc" title="unregister_binfmt" alt="" coords="204,5,327,32"/>
-<area shape="rect" id="node4" href="$binfmt__elf__fdpic_8c.html#adbdfbded2b3eb82b76bff491b555184b" title="core_initcall" alt="" coords="220,56,311,83"/>
-<area shape="rect" id="node5" href="$binfmt__elf__fdpic_8c.html#ae19310e7222fb30f263d6a7e4d50305d" title="init_elf_fdpic_binfmt" alt="" coords="196,107,335,133"/>
-<area shape="rect" id="node6" href="$binfmt__elf__fdpic_8c.html#aef127e9b93ae2d8f62a6ea391c692e4d" title="module_exit" alt="" coords="219,157,311,184"/>
-<area shape="rect" id="node3" href="$exec_8c.html#ab96a58357b2f88a781d9f77c5320fed7" title="EXPORT_SYMBOL" alt="" coords="383,5,521,32"/>
-</map>

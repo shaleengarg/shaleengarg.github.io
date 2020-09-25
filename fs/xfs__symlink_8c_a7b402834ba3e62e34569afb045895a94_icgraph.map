@@ -1,6 +1,0 @@
-<map id="xfs_inactive_symlink_rmt" name="xfs_inactive_symlink_rmt">
-<area shape="rect" id="node2" href="$xfs__symlink_8h.html#a1f002c223a17cc0b1ae5404d4257b789" title="xfs_inactive_symlink" alt="" coords="224,13,368,39"/>
-<area shape="rect" id="node3" href="$xfs__inode_8h.html#a4b9101aa3b8f2a25bff50f1b910c2a73" title="xfs_inactive" alt="" coords="416,13,508,39"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#ab527e7dc7474b9efc7addff151cc8f1a" title="xfs_fs_destroy_inode" alt="" coords="556,13,703,39"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="751,5,887,47"/>
-</map>

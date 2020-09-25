@@ -1,8 +1,0 @@
-<map id="ocfs2_dentry_lock_res_init" name="ocfs2_dentry_lock_res_init">
-<area shape="rect" id="node2" href="$ocfs2_2inode_8h.html#ad355602d6e917df63ae06c1734f0f203" title="OCFS2_I" alt="" coords="277,5,354,32"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html#a921be977b509be3d94adbde9aef04fae" title="ocfs2_lock_res_init_once" alt="" coords="231,56,400,83"/>
-<area shape="rect" id="node4" href="$ocfs2__lockid_8h.html#a0a3f806947ca0aedea3e523f092d8b9a" title="ocfs2_lock_type_char" alt="" coords="241,107,390,133"/>
-<area shape="rect" id="node5" href="$dlmglue_8c.html#a08e1a5f13a8b4fca8a256fdaf1ae3299" title="ocfs2_lock_res_init\l_common" alt="" coords="248,158,383,199"/>
-<area shape="rect" id="node6" href="$dlmglue_8c.html#a33450712e2c6787aa29ff06de1003c82" title="ocfs2_add_lockres_tracking" alt="" coords="448,140,632,167"/>
-<area shape="rect" id="node7" href="$dlmglue_8c.html#a6f0334d5bd7f4db6f82d49fb52817190" title="ocfs2_init_lock_stats" alt="" coords="467,191,613,217"/>
-</map>

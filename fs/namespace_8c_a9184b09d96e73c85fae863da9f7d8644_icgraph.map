@@ -1,8 +1,0 @@
-<map id="mount_subtree" name="mount_subtree">
-<area shape="rect" id="node2" href="$btrfs_2super_8c.html#a29d29bde364a25ef1aeb57bc00d2204e" title="mount_subvol" alt="" coords="190,5,293,32"/>
-<area shape="rect" id="node5" href="$nfs4super_8c.html#a5b78f0b39a662afde8ab68cbcda182a1" title="nfs_follow_remote_path" alt="" coords="161,56,321,83"/>
-<area shape="rect" id="node3" href="$btrfs_2super_8c.html#a727584f687f90b26e216838c539d53ed" title="btrfs_mount" alt="" coords="393,5,483,32"/>
-<area shape="rect" id="node4" href="$btrfs_2super_8c.html#a89866e36e3959d1dd885ced894dc0643" title="btrfs_kill_super" alt="" coords="555,5,665,32"/>
-<area shape="rect" id="node6" href="$nfs4super_8c.html#a33266b4c1cebfa82278ed9fa22e12730" title="nfs4_try_mount" alt="" coords="382,56,494,83"/>
-<area shape="rect" id="node7" href="$nfs4super_8c.html#a144b3194e34c6d2c7008a1301cd9efd5" title="nfs4_referral_mount" alt="" coords="369,107,507,133"/>
-</map>

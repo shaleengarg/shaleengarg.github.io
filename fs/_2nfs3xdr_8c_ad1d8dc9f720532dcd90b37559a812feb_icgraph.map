@@ -1,7 +1,0 @@
-<map id="encode_entryplus_baggage" name="encode_entryplus_baggage">
-<area shape="rect" id="node2" href="$_2nfs3xdr_8c.html#a6b1267cee13f8ffc8a209370095b5059" title="encode_entry" alt="" coords="233,31,333,57"/>
-<area shape="rect" id="node3" href="$xdr3_8h.html#ab769efed6f6dee5c74c24fbe0749e76e" title="nfs3svc_encode_entry" alt="" coords="397,5,550,32"/>
-<area shape="rect" id="node5" href="$xdr3_8h.html#a0e3a7f588a36be8d96d19948732602f3" title="nfs3svc_encode_entry_plus" alt="" coords="381,56,565,83"/>
-<area shape="rect" id="node4" href="$_2nfs3proc_8c.html#a51c95da8868ab7530b16f22d18555292" title="nfsd3_proc_readdir" alt="" coords="625,5,757,32"/>
-<area shape="rect" id="node6" href="$_2nfs3proc_8c.html#ad4e60b5d5e897bc5b07b45b30bdd9304" title="nfsd3_proc_readdirplus" alt="" coords="613,56,769,83"/>
-</map>

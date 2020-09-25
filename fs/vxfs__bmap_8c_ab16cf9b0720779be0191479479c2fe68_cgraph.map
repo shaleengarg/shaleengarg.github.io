@@ -1,7 +1,0 @@
-<map id="vxfs_bmap_typed" name="vxfs_bmap_typed">
-<area shape="rect" id="node2" href="$vxfs__inode_8h.html#a4fac57fd2d8f245d743af74212171aad" title="VXFS_INO" alt="" coords="193,5,281,32"/>
-<area shape="rect" id="node3" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="344,81,437,108"/>
-<area shape="rect" id="node5" href="$vxfs__bmap_8c.html#af93fb1482592b25a65ddcc00238ff27b" title="vxfs_bmap_indir" alt="" coords="179,107,296,133"/>
-<area shape="rect" id="node6" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="344,132,437,159"/>
-<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="485,107,568,133"/>
-</map>

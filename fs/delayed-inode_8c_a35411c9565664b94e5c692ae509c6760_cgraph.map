@@ -1,6 +1,0 @@
-<map id="btrfs_delayed_item_reserve_metadata" name="btrfs_delayed_item_reserve_metadata">
-<area shape="rect" id="node2" href="$ctree_8h.html#a79530e42573c0ee074ceb96fb035254f" title="btrfs_calc_trans_metadata_size" alt="" coords="187,5,393,32"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#a5d019af2b768bf234183977d633546ce" title="btrfs_block_rsv_migrate" alt="" coords="209,56,371,83"/>
-<area shape="rect" id="node4" href="$extent-tree_8c.html#a238bc256e167bfe52b474496bab70e2a" title="block_rsv_use_bytes" alt="" coords="441,31,587,57"/>
-<area shape="rect" id="node5" href="$extent-tree_8c.html#a05980f1583539687dd2b1125d0918508" title="block_rsv_add_bytes" alt="" coords="441,81,587,108"/>
-</map>

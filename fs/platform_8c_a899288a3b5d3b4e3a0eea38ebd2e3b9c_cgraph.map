@@ -1,9 +1,0 @@
-<map id="pstore_dump" name="pstore_dump">
-<area shape="rect" id="node2" href="$platform_8c.html#a882c3ba617bff93a02f46a23c50e1181" title="get_reason_str" alt="" coords="184,5,292,32"/>
-<area shape="rect" id="node3" href="$platform_8c.html#a5b1af28697ceba2eb780cd55a0e6dd8b" title="pstore_cannot_block_path" alt="" coords="151,56,325,83"/>
-<area shape="rect" id="node5" href="$platform_8c.html#a251465b9d2e0f87d44ff9940d805908a" title="pstore_record_init" alt="" coords="175,107,301,133"/>
-<area shape="rect" id="node6" href="$platform_8c.html#aa702f687f9508e2367f53a746d92e075" title="pstore_compress" alt="" coords="177,157,299,184"/>
-<area shape="rect" id="node7" href="$platform_8c.html#a3ba7c206042e7016e1c401384c8db2ef" title="copy_kmsg_to_buffer" alt="" coords="165,208,311,235"/>
-<area shape="rect" id="node8" href="$pstore_2inode_8c.html#a6dbb79be9066aba6f8c5967562513c82" title="pstore_is_mounted" alt="" coords="172,259,304,285"/>
-<area shape="rect" id="node4" href="$platform_8c.html#a2744ea0f253829c255d3a1a4f85fbe7c" title="EXPORT_SYMBOL_GPL" alt="" coords="373,56,545,83"/>
-</map>

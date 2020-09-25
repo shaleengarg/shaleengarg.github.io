@@ -1,8 +1,0 @@
-<map id="init_once" name="init_once">
-<area shape="rect" id="node2" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="128,31,240,57"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="145,81,223,108"/>
-<area shape="rect" id="node6" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="146,132,222,159"/>
-<area shape="rect" id="node7" href="$f2fs_8h.html#a433912635a7fb7c70dcf942a26f35c49" title="f2fs_readonly" alt="" coords="134,183,234,209"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="288,5,471,32"/>
-<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="310,56,449,83"/>
-</map>

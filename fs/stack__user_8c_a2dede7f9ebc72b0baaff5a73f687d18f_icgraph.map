@@ -1,9 +1,0 @@
-<map id="ocfs2_control_set_handshake_state" name="ocfs2_control_set_handshake_state">
-<area shape="rect" id="node2" href="$stack__user_8c.html#afb17156925d176024c02e57dc53b3c3e" title="ocfs2_control_validate\l_protocol" alt="" coords="709,5,861,47"/>
-<area shape="rect" id="node4" href="$stack__user_8c.html#a8d1b74aaf9d2fcb4de87aca0087dfb55" title="ocfs2_control_install\l_private" alt="" coords="248,64,389,105"/>
-<area shape="rect" id="node8" href="$stack__user_8c.html#a9087002fa86fdb910348a6ce4d777889" title="ocfs2_control_read" alt="" coords="253,130,385,157"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#ab7b051aab37b98ba093e6abc336b3af2" title="ocfs2_control_write" alt="" coords="913,42,1048,69"/>
-<area shape="rect" id="node5" href="$stack__user_8c.html#a428b35004e6e65dad865468f10474786" title="ocfs2_control_do_setnode_msg" alt="" coords="444,67,651,94"/>
-<area shape="rect" id="node7" href="$stack__user_8c.html#a2fa9bcee6bfef3f1b1910ced3ef14de6" title="ocfs2_control_do_setversion_msg" alt="" coords="437,118,657,145"/>
-<area shape="rect" id="node6" href="$stack__user_8c.html#a6b9cede3c772d97f34e9e9df8cca0da6" title="ocfs2_control_message" alt="" coords="705,71,865,98"/>
-</map>

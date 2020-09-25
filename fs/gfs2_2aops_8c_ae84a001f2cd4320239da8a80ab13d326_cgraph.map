@@ -1,5 +1,0 @@
-<map id="gfs2_writepage_common" name="gfs2_writepage_common">
-<area shape="rect" id="node2" href="$incore_8h.html#af3bc95dcc324ad1e1c784c03e41049c6" title="GFS2_I" alt="" coords="269,5,335,32"/>
-<area shape="rect" id="node3" href="$incore_8h.html#a6e654b7e928c4d42d33bb0e5bf975339" title="GFS2_SB" alt="" coords="261,56,343,83"/>
-<area shape="rect" id="node4" href="$glock_8h.html#afa40a4b1b4163eb66cf4c087e48776cc" title="gfs2_glock_is_held_excl" alt="" coords="220,107,384,133"/>
-</map>

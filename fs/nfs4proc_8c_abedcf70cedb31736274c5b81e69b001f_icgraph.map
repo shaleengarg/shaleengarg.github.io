@@ -1,7 +1,0 @@
-<map id="nfs4_do_setattr" name="nfs4_do_setattr">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#a42bc234737bac5a3112d6f2a4d21821f" title="_nfs4_do_open" alt="" coords="171,31,282,57"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#addce183921ef11637f1d4189795c04f0" title="nfs4_proc_setattr" alt="" coords="165,81,288,108"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a4d76e21426c2445eb232093cae7fcb87" title="nfs4_do_open" alt="" coords="336,31,439,57"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#ae5867549d21e71ae3e3bd25c9f84f76a" title="nfs4_atomic_open" alt="" coords="487,5,615,32"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#a0832ef444b1654fc2b2c6a24563138b6" title="nfs4_proc_create" alt="" coords="489,56,612,83"/>
-</map>

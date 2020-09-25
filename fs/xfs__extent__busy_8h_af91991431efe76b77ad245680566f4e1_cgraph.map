@@ -1,7 +1,0 @@
-<map id="xfs_extent_busy_clear" name="xfs_extent_busy_clear">
-<area shape="rect" id="node2" href="$xfs__extent__busy_8c.html#a5c96b83175001e4d4e35853087da3227" title="xfs_extent_busy_put_pag" alt="" coords="212,5,383,32"/>
-<area shape="rect" id="node4" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="245,56,349,83"/>
-<area shape="rect" id="node5" href="$xfs__extent__busy_8c.html#a8f72592fb623fbf64e0f74eee231db44" title="xfs_extent_busy_clear_one" alt="" coords="207,107,388,133"/>
-<area shape="rect" id="node3" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="436,5,540,32"/>
-<area shape="rect" id="node6" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="445,107,531,133"/>
-</map>

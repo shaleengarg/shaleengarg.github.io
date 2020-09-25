@@ -1,5 +1,0 @@
-<map id="m_next" name="m_next">
-<area shape="rect" id="node2" href="$task__mmu_8c.html#ade60d2b1ffa13ec0a6271b40b9007f1f" title="m_next_vma" alt="" coords="119,5,216,32"/>
-<area shape="rect" id="node3" href="$task__mmu_8c.html#a617e30cb77ed3cf60b82eebd963d62de" title="vma_stop" alt="" coords="128,56,207,83"/>
-<area shape="rect" id="node4" href="$task__mmu_8c.html#a6be5ffabd0174ea203ce75de47c1ad19" title="release_task_mempolicy" alt="" coords="264,56,431,83"/>
-</map>

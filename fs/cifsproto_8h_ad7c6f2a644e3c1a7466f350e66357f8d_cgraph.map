@@ -1,5 +1,0 @@
-<map id="cifs_put_tcp_session" name="cifs_put_tcp_session">
-<area shape="rect" id="node2" href="$cifsglob_8h.html#a76251f18fe72e8a675527b50635e7a24" title="cifs_net_ns" alt="" coords="227,5,317,32"/>
-<area shape="rect" id="node3" href="$cifsencrypt_8c.html#a11f914963f9bccda86dd0a17a0e24267" title="cifs_crypto_secmech\l_release" alt="" coords="199,57,345,98"/>
-<area shape="rect" id="node4" href="$cifs_2fscache_8c.html#a3706c49cd33f874f35803f62112f1289" title="cifs_fscache_release\l_client_cookie" alt="" coords="199,122,345,163"/>
-</map>

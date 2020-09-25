@@ -1,8 +1,0 @@
-<map id="fuse_setattr_fill" name="fuse_setattr_fill">
-<area shape="rect" id="node2" href="$fuse__i_8h.html#a9745578c6486c01ebaef156a2dc08369" title="fuse_flush_times" alt="" coords="164,5,285,32"/>
-<area shape="rect" id="node4" href="$fuse__i_8h.html#a2421089b713731fad804d79bae4e6070" title="fuse_do_setattr" alt="" coords="169,56,281,83"/>
-<area shape="rect" id="node3" href="$fuse__i_8h.html#a86d31de959682842fcf48dff5b6c7d86" title="fuse_write_inode" alt="" coords="335,5,455,32"/>
-<area shape="rect" id="node5" href="$fuse_2dir_8c.html#a3796a031315308b1075278ee526c752a" title="fuse_setattr" alt="" coords="349,56,440,83"/>
-<area shape="rect" id="node6" href="$fuse_2file_8c.html#a51348ab3b342b0c6dd051341f5940f81" title="fuse_do_truncate" alt="" coords="333,107,456,133"/>
-<area shape="rect" id="node7" href="$fuse_2file_8c.html#accac2bad94ddb8570bf6ca5b6c43f9ef" title="fuse_direct_IO" alt="" coords="504,107,611,133"/>
-</map>

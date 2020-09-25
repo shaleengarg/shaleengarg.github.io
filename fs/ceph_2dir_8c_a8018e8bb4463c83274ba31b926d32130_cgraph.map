@@ -1,5 +1,0 @@
-<map id="ceph_d_init" name="ceph_d_init">
-<area shape="rect" id="node2" href="$ceph_2dir_8c.html#adfc1b56cdfd9c2c6ab43a2106d8ca087" title="ceph_dentry_lru_add" alt="" coords="141,31,284,57"/>
-<area shape="rect" id="node3" href="$ceph_2super_8h.html#a6ddd70137143052b74727ba4c2a0c35c" title="ceph_dentry" alt="" coords="349,5,442,32"/>
-<area shape="rect" id="node4" href="$ceph_2super_8h.html#a5cfd03d4fd1754c43ab0a99fb09c479c" title="ceph_sb_to_client" alt="" coords="332,56,459,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="unlock_mount" name="unlock_mount">
-<area shape="rect" id="node2" href="$namespace_8c.html#a1e4afd23428633502ff5d08a01b6f886" title="put_mountpoint" alt="" coords="168,5,279,32"/>
-<area shape="rect" id="node3" href="$namespace_8c.html#adeb4483a72163da408ddde89b6ad9f37" title="namespace_unlock" alt="" coords="156,56,291,83"/>
-<area shape="rect" id="node4" href="$fs__pin_8c.html#ad57b4dc5027ec89a98260189258e1a81" title="group_pin_kill" alt="" coords="339,56,440,83"/>
-<area shape="rect" id="node5" href="$fs__pin_8c.html#a7bedc6852254e9e7b1ab972964382e6a" title="pin_kill" alt="" coords="488,56,551,83"/>
-</map>

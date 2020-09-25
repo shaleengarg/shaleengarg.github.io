@@ -1,6 +1,0 @@
-<map id="ext4_count_dirs" name="ext4_count_dirs">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="215,5,270,32"/>
-<area shape="rect" id="node4" href="$ext4_2balloc_8c.html#a25075b6d3e6db4fea13fab4092f04f40" title="ext4_get_group_desc" alt="" coords="169,56,316,83"/>
-<area shape="rect" id="node5" href="$ext4_2super_8c.html#a43a46d82099cbf339d983d6cbf24893b" title="ext4_used_dirs_count" alt="" coords="168,107,317,133"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="365,5,484,32"/>
-</map>

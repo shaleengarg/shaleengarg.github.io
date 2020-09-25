@@ -1,7 +1,0 @@
-<map id="xlog_regrant_reserve_log_space" name="xlog_regrant_reserve_log_space">
-<area shape="rect" id="node2" href="$xfs__log_8c.html#ab3f8e452a61ce4688572c0442d42bf1b" title="xlog_grant_sub_space" alt="" coords="196,56,348,83"/>
-<area shape="rect" id="node5" href="$xfs__log_8c.html#aec2ad4a88d011462f2bf5743f32a5992" title="xlog_tic_reset_res" alt="" coords="208,107,336,133"/>
-<area shape="rect" id="node6" href="$xfs__log_8c.html#a260425529e3749f42a68e2d424c5ebbf" title="xlog_grant_add_space" alt="" coords="196,5,348,32"/>
-<area shape="rect" id="node3" href="$xfs__log__priv_8h.html#a03f5a362f2f4cc1ff577afdf18682862" title="xlog_crack_grant_head_val" alt="" coords="399,5,579,32"/>
-<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#ae53ea1ed8af8d8586fb47fe5545099f9" title="xlog_assign_grant_head_val" alt="" coords="396,56,583,83"/>
-</map>

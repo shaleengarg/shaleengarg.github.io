@@ -1,7 +1,0 @@
-<map id="config_group_init_type_name" name="config_group_init_type_name">
-<area shape="rect" id="node2" href="$configfs_2dir_8c.html#a5a8b332794cb2a23d4493fea588b2d8e" title="configfs_register_default\l_group" alt="" coords="244,5,408,47"/>
-<area shape="rect" id="node3" href="$config_8c.html#a8224f150586ec52b4faf16c2a500d92a" title="make_cluster" alt="" coords="276,71,376,98"/>
-<area shape="rect" id="node4" href="$config_8c.html#acd4e51ca34eccc85ca1920c73daf82dc" title="make_space" alt="" coords="278,122,374,149"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8h.html#ad841599b29b2ce38f6056fcd95c6236e" title="o2hb_alloc_hb_set" alt="" coords="261,173,391,199"/>
-<area shape="rect" id="node6" href="$nodemanager_8c.html#a0a988bb5b87ac4d18bf5a9b116d492d0" title="o2nm_cluster_group\l_make_group" alt="" coords="456,191,595,232"/>
-</map>

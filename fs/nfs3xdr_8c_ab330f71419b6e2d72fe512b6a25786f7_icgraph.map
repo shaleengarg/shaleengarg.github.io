@@ -1,6 +1,0 @@
-<map id="xdr_encode_cookie3" name="xdr_encode_cookie3">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a321c72146cf9dd43a6256fd1767811a9" title="encode_readdir3args" alt="" coords="207,5,349,32"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#a76fe38a73af069283d57b9dacf043fe1" title="encode_readdirplus3args" alt="" coords="195,56,361,83"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ab2adf04aba184bcc8def5892d9d4e8f1" title="nfs3_xdr_enc_readdir3args" alt="" coords="421,5,600,32"/>
-<area shape="rect" id="node5" href="$nfs3xdr_8c.html#aac7898866da566188e1573b0eff71a6a" title="nfs3_xdr_enc_readdirplus3args" alt="" coords="409,56,612,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="find_next_key" name="find_next_key">
-<area shape="rect" id="node2" href="$ctree_8h.html#afb0e884209be94f6358dc7d99ae472a7" title="btrfs_node_key_to_cpu" alt="" coords="156,38,313,65"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#ad9e3e6081bf6c57503beefcb2f833e5b" title="btrfs_node_key" alt="" coords="383,13,493,39"/>
-<area shape="rect" id="node5" href="$ctree_8h.html#a140716a48536f88d5213fdd8e18ec0d2" title="btrfs_disk_key_to_cpu" alt="" coords="361,63,515,90"/>
-<area shape="rect" id="node4" href="$ctree_8h.html#aa94ace94f530e840c21d590b85f94805" title="btrfs_node_key_ptr\l_offset" alt="" coords="563,5,696,47"/>
-</map>

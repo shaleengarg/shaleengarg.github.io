@@ -1,8 +1,0 @@
-<map id="v9fs_cache_register" name="v9fs_cache_register">
-<area shape="rect" id="node2" href="$v9fs_8c.html#a335bc38f9c6acc97b0790fb8abbad9fa" title="v9fs_init_inode_cache" alt="" coords="192,31,343,57"/>
-<area shape="rect" id="node7" href="$v9fs_8c.html#a22c565c32723c82fa31a21aeb90a3668" title="v9fs_destroy_inode\l_cache" alt="" coords="200,82,335,123"/>
-<area shape="rect" id="node3" href="$v9fs_8c.html#a881f12ebf95b0ae88103c2439cc1df9d" title="v9fs_inode_init_once" alt="" coords="391,31,535,57"/>
-<area shape="rect" id="node4" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="583,31,695,57"/>
-<area shape="rect" id="node5" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="743,5,925,32"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="765,56,903,83"/>
-</map>

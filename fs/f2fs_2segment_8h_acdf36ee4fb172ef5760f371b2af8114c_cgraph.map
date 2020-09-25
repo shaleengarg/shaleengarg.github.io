@@ -1,5 +1,0 @@
-<map id="sum_blk_addr" name="sum_blk_addr">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a1ee55d25e5362f8b7452e54e5b004521" title="__start_cp_addr" alt="" coords="156,5,271,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a6cc2e1e6c8f1a74f4014989ac3367df1" title="F2FS_CKPT" alt="" coords="165,56,262,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a7dffbcf93012840e801f5357ebc2669e" title="F2FS_RAW_SUPER" alt="" coords="319,5,465,32"/>
-</map>

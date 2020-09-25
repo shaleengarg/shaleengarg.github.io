@@ -1,6 +1,0 @@
-<map id="smbd_ia_open" name="smbd_ia_open">
-<area shape="rect" id="node2" href="$smbdirect_8c.html#ad30bf90af7ee888cec278c6547476fa9" title="smbd_create_id" alt="" coords="165,5,280,32"/>
-<area shape="rect" id="node5" href="$smbdirect_8c.html#a6a55f6749960e71ea00562a5be277371" title="frwr_is_supported" alt="" coords="160,56,285,83"/>
-<area shape="rect" id="node3" href="$smbdirect_8c.html#a6448ff803a6c95b57c3bb51adabe6e3a" title="smbd_conn_upcall" alt="" coords="333,5,464,32"/>
-<area shape="rect" id="node4" href="$smbdirect_8c.html#a5af24acaf44c22da1b93d00b52991872" title="smbd_process_disconnected" alt="" coords="512,5,703,32"/>
-</map>

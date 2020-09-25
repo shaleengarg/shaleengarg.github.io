@@ -1,7 +1,0 @@
-<map id="ceph_caps_issued_mask" name="ceph_caps_issued_mask">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a8e0de74dcc174711bc6306d4e08c25c5" title="__ceph_caps_issued_mask" alt="" coords="223,31,405,57"/>
-<area shape="rect" id="node3" href="$caps_8c.html#aee4ad867f02c07e329a4e9328fec14a2" title="ceph_cap_string" alt="" coords="609,5,727,32"/>
-<area shape="rect" id="node5" href="$caps_8c.html#a35c397ce599c93d8d9ac5589d4fa5f1d" title="__cap_is_valid" alt="" coords="453,31,561,57"/>
-<area shape="rect" id="node6" href="$caps_8c.html#aba9fdf4d7e2830f3179d4ead0bac94f4" title="__touch_cap" alt="" coords="459,81,555,108"/>
-<area shape="rect" id="node4" href="$caps_8c.html#aa158fde50093f72901e1c22ecf24fc99" title="gcap_string" alt="" coords="775,5,864,32"/>
-</map>

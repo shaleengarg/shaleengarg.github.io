@@ -1,4 +1,0 @@
-<map id="fuse_conn_limit_write" name="fuse_conn_limit_write">
-<area shape="rect" id="node2" href="$control_8c.html#aad165730ca825f63fca20768f2a81e14" title="fuse_conn_max_background\l_write" alt="" coords="201,5,389,47"/>
-<area shape="rect" id="node3" href="$control_8c.html#ac298da8ea2cda067de986bfd96bf2564" title="fuse_conn_congestion\l_threshold_write" alt="" coords="219,71,371,112"/>
-</map>

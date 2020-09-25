@@ -1,9 +1,0 @@
-<map id="decode_nlm_testrply" name="decode_nlm_testrply">
-<area shape="rect" id="node2" href="$clntxdr_8c.html#a4e5fa3f25051088712357f24e87b63df" title="decode_nlm_stat" alt="" coords="203,5,324,32"/>
-<area shape="rect" id="node4" href="$clntxdr_8c.html#a76d944437aff0e8814ecfdc09727f4b5" title="decode_nlm_holder" alt="" coords="196,68,331,95"/>
-<area shape="rect" id="node3" href="$clntxdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="543,43,677,69"/>
-<area shape="rect" id="node5" href="$locks_8c.html#a9803e0d3f490f560784da3766206b1e4" title="locks_init_lock" alt="" coords="379,144,487,171"/>
-<area shape="rect" id="node8" href="$clntxdr_8c.html#ad7c985538f8b688efcf3c18b91e4a404" title="decode_netobj" alt="" coords="379,93,486,120"/>
-<area shape="rect" id="node6" href="$locks_8c.html#aaf0eec7769579a2fbc1ddd9804470873" title="locks_init_lock_heads" alt="" coords="535,119,685,145"/>
-<area shape="rect" id="node7" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="541,169,679,196"/>
-</map>

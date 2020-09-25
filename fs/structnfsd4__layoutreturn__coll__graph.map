@@ -1,6 +1,0 @@
-<map id="nfsd4_layoutreturn" name="nfsd4_layoutreturn">
-<area shape="rect" id="node2" href="$structnfsd4__layout__seg.html" title="nfsd4_layout_seg" alt="" coords="5,184,129,211"/>
-<area shape="rect" id="node3" href="$structstateid__t.html" title="stateid_t" alt="" coords="154,184,226,211"/>
-<area shape="rect" id="node4" href="$structstateid__opaque__t.html" title="stateid_opaque_t" alt="" coords="129,95,251,121"/>
-<area shape="rect" id="node5" href="$structclientid__t.html" title="clientid_t" alt="" coords="153,5,227,32"/>
-</map>

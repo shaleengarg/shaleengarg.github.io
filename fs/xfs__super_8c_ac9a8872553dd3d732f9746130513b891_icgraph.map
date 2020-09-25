@@ -1,6 +1,0 @@
-<map id="xfs_destroy_mount_workqueues" name="xfs_destroy_mount_workqueues">
-<area shape="rect" id="node2" href="$xfs__super_8c.html#a26e5fa00e70ce52da76c944d048ebcf7" title="xfs_fs_fill_super" alt="" coords="267,8,384,35"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#ad673589bd85ed83fd3861c5bdeca5ab6" title="xfs_fs_put_super" alt="" coords="264,60,387,87"/>
-<area shape="rect" id="node3" href="$xfs__super_8c.html#a55affa9adc283c8de4016408918f74a0" title="xfs_fs_mount" alt="" coords="452,5,553,32"/>
-<area shape="rect" id="node5" href="$xfs__super_8c.html#a07fd1c73d013314077cf04982434c66e" title="xfs_fs_free_cached\l_objects" alt="" coords="435,57,571,98"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="ksys_getdents64" name="ksys_getdents64">
-<area shape="rect" id="node2" href="$readdir_8c.html#ad46a28cc765cb1d1931bf8eade325d7c" title="filldir64" alt="" coords="183,5,245,32"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="496,107,551,133"/>
-<area shape="rect" id="node5" href="$readdir_8c.html#a2f27e987a46719a16192d200233535e2" title="iterate_dir" alt="" coords="175,157,253,184"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="599,107,717,133"/>
-<area shape="rect" id="node6" href="$readdir_8c.html#a0f03fe0c9ac1086f135f598163b15cb4" title="EXPORT_SYMBOL" alt="" coords="305,157,444,184"/>
-<area shape="rect" id="node7" href="$readdir_8c.html#a2c270b426c399c78a90fb0a9144d6d5e" title="SYSCALL_DEFINE3" alt="" coords="301,208,448,235"/>
-<area shape="rect" id="node8" href="$readdir_8c.html#aae6d48286103743f46b0f483ae8e83e1" title="filldir" alt="" coords="499,208,548,235"/>
-</map>

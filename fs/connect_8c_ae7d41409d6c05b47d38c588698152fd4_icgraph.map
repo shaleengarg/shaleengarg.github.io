@@ -1,5 +1,0 @@
-<map id="cleanup_volume_info_contents" name="cleanup_volume_info_contents">
-<area shape="rect" id="node2" href="$connect_8c.html#ae6489db393563c4b3def469e96225dbb" title="cifs_cleanup_volume_info" alt="" coords="197,13,369,39"/>
-<area shape="rect" id="node3" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="611,13,717,39"/>
-<area shape="rect" id="node4" href="$connect_8c.html#aeb495e48352a23816a0e8f29b5e0a34c" title="cifs_get_volume_info" alt="" coords="417,38,563,65"/>
-</map>

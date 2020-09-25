@@ -1,7 +1,0 @@
-<map id="nfsd4_umh_cltrack_upcall" name="nfsd4_umh_cltrack_upcall">
-<area shape="rect" id="node2" href="$nfs4recover_8c.html#a9ae6ff584e67bd137735d7cb4e40f93b" title="nfsd4_umh_cltrack_init" alt="" coords="252,5,408,32"/>
-<area shape="rect" id="node3" href="$nfs4recover_8c.html#a989acd4b071f866ed6a72e44e07d31a1" title="nfsd4_umh_cltrack_create" alt="" coords="243,56,417,83"/>
-<area shape="rect" id="node4" href="$nfs4recover_8c.html#a83b2f804c30293759a56635c96756f2f" title="nfsd4_umh_cltrack_remove" alt="" coords="239,107,421,133"/>
-<area shape="rect" id="node5" href="$nfs4recover_8c.html#a4386a3d50b443e4430ba968c101696a2" title="nfsd4_umh_cltrack_check" alt="" coords="243,157,417,184"/>
-<area shape="rect" id="node6" href="$nfs4recover_8c.html#a21971be78afafcead3d43f9d4a481859" title="nfsd4_umh_cltrack_grace_done" alt="" coords="227,208,433,235"/>
-</map>

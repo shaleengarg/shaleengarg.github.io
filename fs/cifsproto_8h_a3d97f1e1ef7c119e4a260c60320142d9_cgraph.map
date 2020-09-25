@@ -1,7 +1,0 @@
-<map id="checkSMB" name="checkSMB">
-<area shape="rect" id="node2" href="$cifs_2misc_8c.html#a0285eeeb3ee338567521e599ac6501bf" title="check_smb_hdr" alt="" coords="140,5,255,32"/>
-<area shape="rect" id="node3" href="$cifsglob_8h.html#a2c515df36ff693b7a0702308ac38250d" title="get_mid" alt="" coords="303,31,371,57"/>
-<area shape="rect" id="node4" href="$cifsproto_8h.html#a88c03a38d54a1589d9ebf012245c6e3d" title="smbCalcSize" alt="" coords="147,107,247,133"/>
-<area shape="rect" id="node5" href="$cifspdu_8h.html#a9c6005fac713a26e4cc643593f433654" title="get_bcc" alt="" coords="303,107,371,133"/>
-<area shape="rect" id="node6" href="$cifspdu_8h.html#aa5bfe483a4f1601b043ca205c5399923" title="BCC" alt="" coords="419,107,469,133"/>
-</map>

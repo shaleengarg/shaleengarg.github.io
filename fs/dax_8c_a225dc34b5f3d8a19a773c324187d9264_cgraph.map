@@ -1,6 +1,0 @@
-<map id="dax_iomap_rw" name="dax_iomap_rw">
-<area shape="rect" id="node2" href="$internal_8h.html#a5c785550be52a130b5a781a7d28dc1d9" title="iomap_apply" alt="" coords="199,5,293,32"/>
-<area shape="rect" id="node3" href="$dax_8c.html#a70342053464147ba7cb3c0132083f171" title="dax_iomap_actor" alt="" coords="185,56,307,83"/>
-<area shape="rect" id="node5" href="$dax_8c.html#a73026b9bc7c4769c55611e21335f44ba" title="EXPORT_SYMBOL_GPL" alt="" coords="160,107,332,133"/>
-<area shape="rect" id="node4" href="$dax_8c.html#a399969f6972f931c894537bde51bb82a" title="dax_iomap_sector" alt="" coords="380,56,508,83"/>
-</map>

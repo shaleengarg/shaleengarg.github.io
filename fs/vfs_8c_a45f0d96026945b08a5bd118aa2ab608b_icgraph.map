@@ -1,7 +1,0 @@
-<map id="nfsd_buffered_readdir" name="nfsd_buffered_readdir">
-<area shape="rect" id="node2" href="$vfs_8h.html#ab62ac400a60543e814ee3aae24f429aa" title="nfsd_readdir" alt="" coords="200,81,293,108"/>
-<area shape="rect" id="node3" href="$_2nfs3proc_8c.html#a51c95da8868ab7530b16f22d18555292" title="nfsd3_proc_readdir" alt="" coords="353,5,485,32"/>
-<area shape="rect" id="node4" href="$_2nfs3proc_8c.html#ad4e60b5d5e897bc5b07b45b30bdd9304" title="nfsd3_proc_readdirplus" alt="" coords="341,56,497,83"/>
-<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#aee08cd15370880e3b05a58d7f59677b8" title="nfsd4_encode_readdir" alt="" coords="345,107,494,133"/>
-<area shape="rect" id="node6" href="$nfsproc_8c.html#abee08389d0390dbfdb3b6457d877bb10" title="nfsd_proc_readdir" alt="" coords="357,157,482,184"/>
-</map>

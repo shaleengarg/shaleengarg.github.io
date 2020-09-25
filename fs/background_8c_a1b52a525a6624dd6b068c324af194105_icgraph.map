@@ -1,8 +1,0 @@
-<map id="jffs2_garbage_collect_thread" name="jffs2_garbage_collect_thread">
-<area shape="rect" id="node2" href="$os-linux_8h.html#a74da685e9bd65fae042e6e1674ee3955" title="jffs2_start_garbage\l_collect_thread" alt="" coords="199,23,332,65"/>
-<area shape="rect" id="node3" href="$os-linux_8h.html#ad62758f4d47c267be432a4a0358b0d98" title="jffs2_do_remount_fs" alt="" coords="380,5,520,32"/>
-<area shape="rect" id="node5" href="$os-linux_8h.html#a0e271945f00995017090113d6804a430" title="jffs2_do_fill_super" alt="" coords="387,56,513,83"/>
-<area shape="rect" id="node4" href="$jffs2_2super_8c.html#a13e79dc92ed9dec822169bc676724238" title="jffs2_remount_fs" alt="" coords="568,5,687,32"/>
-<area shape="rect" id="node6" href="$jffs2_2super_8c.html#ac626c42b039c451fa8759a92155a1773" title="jffs2_fill_super" alt="" coords="574,56,681,83"/>
-<area shape="rect" id="node7" href="$jffs2_2super_8c.html#a5399bb9f4f9d0a5a5f5f3014ec42876a" title="jffs2_mount" alt="" coords="735,56,825,83"/>
-</map>

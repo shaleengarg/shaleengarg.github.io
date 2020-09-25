@@ -1,5 +1,0 @@
-<map id="cpu_key_k_offset_dec" name="cpu_key_k_offset_dec">
-<area shape="rect" id="node2" href="$item__ops_8c.html#a917d6c1597faad7ff7f2e4888e33d7b8" title="direct_decrement_key" alt="" coords="212,5,363,32"/>
-<area shape="rect" id="node3" href="$item__ops_8c.html#af7eda307fa9b0e59b5464e4b8ff463ea" title="indirect_decrement_key" alt="" coords="207,56,367,83"/>
-<area shape="rect" id="node4" href="$item__ops_8c.html#a2d2508c60fac42bc4721d5ab13df454f" title="direntry_decrement_key" alt="" coords="207,107,368,133"/>
-</map>

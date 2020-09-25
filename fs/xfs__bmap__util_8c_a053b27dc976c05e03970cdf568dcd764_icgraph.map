@@ -1,6 +1,0 @@
-<map id="xfs_zero_file_space" name="xfs_zero_file_space">
-<area shape="rect" id="node2" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="192,5,312,32"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a469cdd5bcd7f0165e447baa3d519e5b1" title="xfs_ioc_space" alt="" coords="199,56,305,83"/>
-<area shape="rect" id="node4" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="360,31,455,57"/>
-<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="503,56,648,83"/>
-</map>

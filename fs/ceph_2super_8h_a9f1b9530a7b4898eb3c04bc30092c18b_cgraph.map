@@ -1,6 +1,0 @@
-<map id="ceph_fill_file_size" name="ceph_fill_file_size">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="221,5,309,32"/>
-<area shape="rect" id="node3" href="$ceph_2inode_8c.html#a23a864bbbf23f3534b42ebde7523b224" title="calc_inode_blocks" alt="" coords="200,56,329,83"/>
-<area shape="rect" id="node4" href="$caps_8c.html#a257847d3c72f3657e8f7c964223ea362" title="__ceph_caps_file_wanted" alt="" coords="179,107,351,133"/>
-<area shape="rect" id="node5" href="$ceph_2cache_8h.html#ae948edf0ebca920d58d8746406e009df" title="ceph_fscache_invalidate" alt="" coords="182,157,347,184"/>
-</map>

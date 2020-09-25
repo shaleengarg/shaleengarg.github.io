@@ -1,5 +1,0 @@
-<map id="CIFSSMBSetPosixACL" name="CIFSSMBSetPosixACL">
-<area shape="rect" id="node2" href="$cifs_2xattr_8c.html#af358085a8a37fb7c5155900a78db897f" title="cifs_xattr_set" alt="" coords="258,5,359,32"/>
-<area shape="rect" id="node3" href="$cifssmb_8c.html#a08f73fa93fdb39a2acf42c8e74e83a0f" title="CIFSSMB_set_compression" alt="" coords="215,56,403,83"/>
-<area shape="rect" id="node4" href="$smb1ops_8c.html#a76088dfa9e3722b314b32434cf516724" title="cifs_set_compression" alt="" coords="451,56,600,83"/>
-</map>

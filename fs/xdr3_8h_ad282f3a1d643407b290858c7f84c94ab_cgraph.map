@@ -1,6 +1,0 @@
-<map id="nfs3svc_decode_mknodargs" name="nfs3svc_decode_mknodargs">
-<area shape="rect" id="node2" href="$_2nfs3xdr_8c.html#aa7326ad5b808fd20a23d2303466c225f" title="decode_fh" alt="" coords="260,5,343,32"/>
-<area shape="rect" id="node4" href="$_2nfs3xdr_8c.html#a93e7a855a19dda194ea5fdae60914230" title="decode_filename" alt="" coords="241,56,361,83"/>
-<area shape="rect" id="node5" href="$_2nfs3xdr_8c.html#aa4dabe66d6a813e65ef115e49b42f2c1" title="decode_sattr3" alt="" coords="249,107,353,133"/>
-<area shape="rect" id="node3" href="$nfsfh_8h.html#a134fd702cff1276401e72df821ecc90c" title="fh_init" alt="" coords="409,5,467,32"/>
-</map>

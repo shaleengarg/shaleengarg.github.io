@@ -1,7 +1,0 @@
-<map id="wait_obj_created" name="wait_obj_created">
-<area shape="rect" id="node2" href="$exofs_8h.html#a620fcd5b00f7420f6e685d990b8d8392" title="obj_created" alt="" coords="401,5,491,32"/>
-<area shape="rect" id="node3" href="$exofs_8h.html#a81de1eb6a20cc7ad77067461a01c4088" title="__exofs_wait_obj_created" alt="" coords="173,56,347,83"/>
-<area shape="rect" id="node4" href="$exofs_8h.html#a5482e0234ecf234d45a1fda11699dcd6" title="obj_2bcreated" alt="" coords="395,56,497,83"/>
-<area shape="rect" id="node5" href="$bad__inode_8c.html#a7db3c62ffb9390ef7191a63e19073333" title="is_bad_inode" alt="" coords="397,107,495,133"/>
-<area shape="rect" id="node6" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="545,107,684,133"/>
-</map>

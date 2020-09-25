@@ -1,9 +1,0 @@
-<map id="sess_free_buffer" name="sess_free_buffer">
-<area shape="rect" id="node2" href="$sess_8c.html#ab23e2b3ab00a8b247bfeaeddd25237c3" title="sess_auth_ntlm" alt="" coords="400,5,515,32"/>
-<area shape="rect" id="node5" href="$sess_8c.html#a995785335a4169b0bb5816045416db14" title="sess_auth_ntlmv2" alt="" coords="601,56,729,83"/>
-<area shape="rect" id="node6" href="$sess_8c.html#ac6a0954518b1a3ab8ae61ac00e422c1e" title="sess_auth_rawntlmssp\l_negotiate" alt="" coords="587,129,743,170"/>
-<area shape="rect" id="node7" href="$sess_8c.html#ad848701aff422ad86b039a04ef75582e" title="sess_auth_rawntlmssp\l_authenticate" alt="" coords="172,183,328,225"/>
-<area shape="rect" id="node3" href="$sess_8c.html#abed14428fcd713471f264576b01d450a" title="select_sec" alt="" coords="791,56,876,83"/>
-<area shape="rect" id="node4" href="$sess_8c.html#a77c3a8af6e43e5591ae61afffa79aefa" title="CIFS_SessSetup" alt="" coords="924,56,1048,83"/>
-<area shape="rect" id="node8" href="$sess_8c.html#adb32187fd0b86ce17d0296893b0cff4c" title="_sess_auth_rawntlmssp\l_assemble_req" alt="" coords="376,209,539,250"/>
-</map>

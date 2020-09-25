@@ -1,6 +1,0 @@
-<map id="xfs_iext_valid" name="xfs_iext_valid">
-<area shape="rect" id="node2" href="$xfs__iext__tree_8c.html#a1821bd5c3d32fb56355002d80edc1b78" title="xfs_iext_max_recs" alt="" coords="167,5,299,32"/>
-<area shape="rect" id="node4" href="$xfs__iext__tree_8c.html#ac105ccd680d06d4766fcd63741536880" title="xfs_iext_rec_is_empty" alt="" coords="156,56,309,83"/>
-<area shape="rect" id="node5" href="$xfs__iext__tree_8c.html#ae9f186479b8cf47f5c32089a70759252" title="cur_rec" alt="" coords="200,107,265,133"/>
-<area shape="rect" id="node3" href="$xfs__iext__tree_8c.html#ac2ac42e1664505fe83c7ce435110fb01" title="xfs_iext_count" alt="" coords="357,5,464,32"/>
-</map>

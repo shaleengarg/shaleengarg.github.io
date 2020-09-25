@@ -1,7 +1,0 @@
-<map id="nfs4_ff_layout_stat_io_start_read" name="nfs4_ff_layout_stat_io_start_read">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#a00c91da8c17571354dc952a46bc1e102" title="nfs4_ff_layoutstat\l_start_io" alt="" coords="199,27,325,69"/>
-<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#aca75a72fc087206bbe8ae799ddc4c8cb" title="nfs4_ff_layout_stat\l_io_update_requested" alt="" coords="187,93,337,134"/>
-<area shape="rect" id="node6" href="$pnfs_8h.html#a70c2fcd58b64f82d91b2bd2283f8372f" title="pnfs_report_layoutstat" alt="" coords="187,159,337,185"/>
-<area shape="rect" id="node3" href="$flexfilelayout_8h.html#af853e9eed5a206d84f6818870366adea" title="FF_LAYOUT_FROM_HDR" alt="" coords="385,5,567,32"/>
-<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#a5f6bd8acfbf4eec8f60995c4632540f3" title="nfs4_ff_start_busy\l_timer" alt="" coords="411,57,541,98"/>
-</map>

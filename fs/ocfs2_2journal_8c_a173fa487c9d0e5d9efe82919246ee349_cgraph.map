@@ -1,7 +1,0 @@
-<map id="ocfs2_db_frozen_trigger" name="ocfs2_db_frozen_trigger">
-<area shape="rect" id="node2" href="$ocfs2_2dir_8c.html#a9b61c64b5befaea1e6380cba4d5a83ab" title="ocfs2_dir_trailer_from_size" alt="" coords="221,5,399,32"/>
-<area shape="rect" id="node3" href="$blockcheck_8c.html#a9148382c2539adb3e0087002f6e6c58d" title="ocfs2_block_check_compute" alt="" coords="215,56,405,83"/>
-<area shape="rect" id="node4" href="$blockcheck_8c.html#a9aed8227e93ff4374120c5ec7699cd89" title="ocfs2_hamming_encode\l_block" alt="" coords="453,49,616,90"/>
-<area shape="rect" id="node5" href="$blockcheck_8c.html#a331750d6745869fb9ce282af1322f084" title="ocfs2_hamming_encode" alt="" coords="664,56,827,83"/>
-<area shape="rect" id="node6" href="$blockcheck_8c.html#affb8712495f45892fd1c86a7ecd072c8" title="calc_code_bit" alt="" coords="875,56,977,83"/>
-</map>

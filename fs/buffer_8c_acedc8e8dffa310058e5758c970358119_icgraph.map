@@ -1,5 +1,0 @@
-<map id="emergency_thaw_bdev" name="emergency_thaw_bdev">
-<area shape="rect" id="node2" href="$super_8c.html#afecbeb9a5cb98065716ced929e9fae96" title="do_thaw_all_callback" alt="" coords="209,5,356,32"/>
-<area shape="rect" id="node3" href="$super_8c.html#a8663cec0282f39d4c821ce668361f952" title="do_thaw_all" alt="" coords="404,5,495,32"/>
-<area shape="rect" id="node4" href="$super_8c.html#a44aa50451d817a57dcd4b3154a24dd27" title="emergency_thaw_all" alt="" coords="543,5,684,32"/>
-</map>

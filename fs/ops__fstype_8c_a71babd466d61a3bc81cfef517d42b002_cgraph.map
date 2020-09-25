@@ -1,6 +1,0 @@
-<map id="gfs2_read_sb" name="gfs2_read_sb">
-<area shape="rect" id="node2" href="$ops__fstype_8c.html#a0af365ef6e84ded257265b9625eb959e" title="gfs2_read_super" alt="" coords="153,56,272,83"/>
-<area shape="rect" id="node3" href="$ops__fstype_8c.html#a41869a8d93cc02367285cec7ba860ac6" title="end_bio_io_page" alt="" coords="320,5,439,32"/>
-<area shape="rect" id="node4" href="$ops__fstype_8c.html#ab504dad508ab23f8e4f0c208425cd980" title="gfs2_sb_in" alt="" coords="337,56,422,83"/>
-<area shape="rect" id="node5" href="$ops__fstype_8c.html#a82db0115bdbfa98b63ed1c8cd732d1ee" title="gfs2_check_sb" alt="" coords="324,107,435,133"/>
-</map>

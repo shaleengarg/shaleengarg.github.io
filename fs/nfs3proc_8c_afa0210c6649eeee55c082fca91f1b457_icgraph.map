@@ -1,6 +1,0 @@
-<map id="nfs3_do_create" name="nfs3_do_create">
-<area shape="rect" id="node2" href="$nfs3proc_8c.html#ae6b88918b0588f49b1e6ab3380cf7fb4" title="nfs3_proc_create" alt="" coords="168,5,291,32"/>
-<area shape="rect" id="node3" href="$nfs3proc_8c.html#a4248e6ce106a3fa773dae2811c22e0dd" title="nfs3_proc_symlink" alt="" coords="164,56,295,83"/>
-<area shape="rect" id="node4" href="$nfs3proc_8c.html#a53403318a560c2ff998d590df1062566" title="nfs3_proc_mkdir" alt="" coords="170,107,289,133"/>
-<area shape="rect" id="node5" href="$nfs3proc_8c.html#ab9934211cb060d4013d5dd678307da43" title="nfs3_proc_mknod" alt="" coords="167,157,292,184"/>
-</map>

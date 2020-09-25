@@ -1,6 +1,0 @@
-<map id="xfs_btree_ptr_addr" name="xfs_btree_ptr_addr">
-<area shape="rect" id="node2" href="$xfs__btree_8h.html#a5046f663671cd885863a2d807984ac7f" title="xfs_btree_get_level" alt="" coords="186,5,321,32"/>
-<area shape="rect" id="node3" href="$xfs__btree_8c.html#acaff4d014fc43d95b944421c356a8419" title="xfs_btree_ptr_offset" alt="" coords="184,56,323,83"/>
-<area shape="rect" id="node4" href="$xfs__btree_8c.html#a1fa1efc33b60f4ec3a764335daaf0422" title="xfs_btree_block_len" alt="" coords="371,31,509,57"/>
-<area shape="rect" id="node5" href="$xfs__btree_8c.html#ab7515a5504336f80ae9cfb07f4e712c4" title="xfs_btree_ptr_len" alt="" coords="379,81,501,108"/>
-</map>

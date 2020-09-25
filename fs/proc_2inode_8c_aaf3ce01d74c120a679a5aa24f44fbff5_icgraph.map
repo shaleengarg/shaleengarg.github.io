@@ -1,8 +1,0 @@
-<map id="proc_get_inode" name="proc_get_inode">
-<area shape="rect" id="node2" href="$proc_2internal_8h.html#a599740a0d008407630458aa4e90557ab" title="proc_fill_super" alt="" coords="167,5,274,32"/>
-<area shape="rect" id="node4" href="$proc_2internal_8h.html#a693572b6572ae8df8344f1e5af9bf184" title="proc_lookup_de" alt="" coords="164,56,277,83"/>
-<area shape="rect" id="node3" href="$proc_2root_8c.html#ae359089dc83c7b9937b8df39cac6903a" title="proc_mount" alt="" coords="353,5,443,32"/>
-<area shape="rect" id="node5" href="$proc_2internal_8h.html#ad6a2c2143af4b3af3f1d12c62fb22fb4" title="proc_lookup" alt="" coords="352,56,444,83"/>
-<area shape="rect" id="node7" href="$proc__net_8c.html#a2df5dbd7afd40a3f604b62ca43b108e4" title="proc_tgid_net_lookup" alt="" coords="325,107,471,133"/>
-<area shape="rect" id="node6" href="$proc_2root_8c.html#adf046c3951053b439fb6891f864761c5" title="proc_root_lookup" alt="" coords="519,56,640,83"/>
-</map>

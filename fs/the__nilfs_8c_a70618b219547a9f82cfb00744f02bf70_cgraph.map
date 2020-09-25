@@ -1,7 +1,0 @@
-<map id="nilfs_load_super_block" name="nilfs_load_super_block">
-<area shape="rect" id="node2" href="$nilfs_8h.html#a40b62ad5e04cb348ddb8f9edf50a765a" title="nilfs_read_super_block" alt="" coords="211,5,366,32"/>
-<area shape="rect" id="node3" href="$the__nilfs_8c.html#a8ceb12beba6767b9686f05cfe939f93d" title="nilfs_valid_sb" alt="" coords="238,56,339,83"/>
-<area shape="rect" id="node4" href="$the__nilfs_8c.html#a6bf9ab796af0877e613972d42d084863" title="nilfs_sb2_bad_offset" alt="" coords="217,107,360,133"/>
-<area shape="rect" id="node5" href="$the__nilfs_8c.html#a7fe98e87527e9147b95f7297f33a5ef9" title="nilfs_release_super\l_block" alt="" coords="221,158,356,199"/>
-<area shape="rect" id="node6" href="$the__nilfs_8c.html#ab41ad60b507d8f217c2062c254a00367" title="nilfs_swap_super_block" alt="" coords="208,224,369,251"/>
-</map>

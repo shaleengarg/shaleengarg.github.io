@@ -1,8 +1,0 @@
-<map id="cifs_discard_remaining_data" name="cifs_discard_remaining_data">
-<area shape="rect" id="node2" href="$cifssmb_8c.html#acd1c11b3d4e6e80798f92e97fccc03de" title="cifs_readv_discard" alt="" coords="255,5,385,32"/>
-<area shape="rect" id="node3" href="$cifssmb_8c.html#a1718a53d6847daf9a8247b2aaba9f25b" title="cifs_readv_receive" alt="" coords="465,31,596,57"/>
-<area shape="rect" id="node6" href="$smb2ops_8c.html#a995322e4f17f922d00e65d9b5075e809" title="receive_encrypted_read" alt="" coords="240,107,400,133"/>
-<area shape="rect" id="node4" href="$cifssmb_8c.html#ae8f788cea060822e236fc09cc877e346" title="cifs_async_readv" alt="" coords="667,5,791,32"/>
-<area shape="rect" id="node5" href="$smb2proto_8h.html#aa3db58ad1d0e43865b2756d59cfb89c4" title="smb2_async_readv" alt="" coords="661,56,796,83"/>
-<area shape="rect" id="node7" href="$smb2ops_8c.html#a9f25a97d4c7242f6ccabec8d906b5cba" title="smb3_receive_transform" alt="" coords="448,107,613,133"/>
-</map>

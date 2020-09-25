@@ -1,5 +1,0 @@
-<map id="cifs_writev_requeue" name="cifs_writev_requeue">
-<area shape="rect" id="node2" href="$cifssmb_8c.html#a9f52b500f0253a763aae67821a1cb93c" title="cifs_writev_complete" alt="" coords="192,5,337,32"/>
-<area shape="rect" id="node3" href="$cifs_2file_8c.html#ad252be0cf0fa2a64cac0c4f8402fa8e5" title="wdata_alloc_and_fillpages" alt="" coords="385,5,560,32"/>
-<area shape="rect" id="node4" href="$cifs_2file_8c.html#a16f303489b02eb63567635a8a311722c" title="cifs_writepages" alt="" coords="608,5,721,32"/>
-</map>

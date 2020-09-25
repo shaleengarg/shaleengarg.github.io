@@ -1,7 +1,0 @@
-<map id="encode_layoutstats" name="encode_layoutstats">
-<area shape="rect" id="node2" href="$callback__xdr_8c.html#ac8c6a63acb5040a909d69b773009adce" title="encode_op_hdr" alt="" coords="204,5,315,32"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#aeb6935e87253006dc578e9f5f5709dd2" title="reserve_space" alt="" coords="206,56,313,83"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aad7b07d6441393b8cb49dc91e3c86f08" title="encode_nfs4_stateid" alt="" coords="188,107,331,133"/>
-<area shape="rect" id="node6" href="$nfs3xdr_8c.html#a7b1d52b96693d045e5425d1bda1b1876" title="encode_uint32" alt="" coords="206,157,313,184"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a2e97a3560d7e1904d702ec9f343873fe" title="encode_opaque_fixed" alt="" coords="379,107,527,133"/>
-</map>

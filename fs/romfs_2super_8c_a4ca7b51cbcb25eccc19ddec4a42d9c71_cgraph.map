@@ -1,5 +1,0 @@
-<map id="romfs_readdir" name="romfs_readdir">
-<area shape="rect" id="node2" href="$romfs_2internal_8h.html#aea8dd8c2325a8bb43a18cbd82db06b46" title="romfs_maxsize" alt="" coords="332,23,443,49"/>
-<area shape="rect" id="node3" href="$romfs_2internal_8h.html#ae377ec59a8d42a3d023465673889382f" title="romfs_dev_read" alt="" coords="162,23,277,49"/>
-<area shape="rect" id="node4" href="$romfs_2internal_8h.html#a9eeef066389f50a37453f493006b66f1" title="romfs_dev_strnlen" alt="" coords="155,73,284,100"/>
-</map>

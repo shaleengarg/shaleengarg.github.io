@@ -1,7 +1,0 @@
-<map id="decode_recall_args" name="decode_recall_args">
-<area shape="rect" id="node2" href="$callback__xdr_8c.html#a2b002f6bf68c49a585f67ac04f47104e" title="decode_delegation_stateid" alt="" coords="188,5,364,32"/>
-<area shape="rect" id="node3" href="$callback__xdr_8c.html#a25a486de0e58fadd4d202f1df57c20f2" title="decode_stateid" alt="" coords="412,56,523,83"/>
-<area shape="rect" id="node4" href="$callback__xdr_8c.html#a424003612f2d52f01910869cf21e404d" title="read_buf" alt="" coords="571,132,643,159"/>
-<area shape="rect" id="node5" href="$callback__xdr_8c.html#aa4554ab57769084d9ee14ae13339fdd2" title="decode_fh" alt="" coords="426,157,509,184"/>
-<area shape="rect" id="node6" href="$callback__xdr_8c.html#ab514f5b4ae4d647754bf929e252de0fa" title="decode_bitmap" alt="" coords="221,208,331,235"/>
-</map>

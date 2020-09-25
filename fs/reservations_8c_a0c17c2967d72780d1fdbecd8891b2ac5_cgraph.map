@@ -1,6 +1,0 @@
-<map id="ocfs2_adjust_resv_from_alloc" name="ocfs2_adjust_resv_from_alloc">
-<area shape="rect" id="node2" href="$reservations_8c.html#a4465fe47cda3837254e11d528e3a006f" title="ocfs2_resv_end" alt="" coords="232,5,347,32"/>
-<area shape="rect" id="node3" href="$reservations_8c.html#a0da735688415da618d04088d007ed3fd" title="__ocfs2_resv_discard" alt="" coords="215,56,364,83"/>
-<area shape="rect" id="node4" href="$reservations_8c.html#afc2501da576b092a84651df700053a0b" title="__ocfs2_resv_trunc" alt="" coords="412,31,548,57"/>
-<area shape="rect" id="node5" href="$reservations_8c.html#af42930a575c5c3f0ccbce557b52fda2f" title="ocfs2_resv_remove" alt="" coords="412,81,548,108"/>
-</map>

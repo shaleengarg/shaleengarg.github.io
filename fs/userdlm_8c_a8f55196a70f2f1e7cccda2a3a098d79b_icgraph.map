@@ -1,5 +1,0 @@
-<map id="user_dlm_cluster_unlock" name="user_dlm_cluster_unlock">
-<area shape="rect" id="node2" href="$dlmfs_8c.html#ab3f1c819fe844fc7fb7e41f3caeefa4e" title="dlmfs_file_release" alt="" coords="220,5,347,32"/>
-<area shape="rect" id="node3" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="395,5,508,32"/>
-<area shape="rect" id="node4" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="556,5,653,32"/>
-</map>

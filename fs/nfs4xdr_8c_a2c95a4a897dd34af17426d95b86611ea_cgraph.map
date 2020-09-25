@@ -1,6 +1,0 @@
-<map id="decode_getfh" name="decode_getfh">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a83af2e7f21f4e194703a99d7a18e4413" title="decode_op_hdr" alt="" coords="153,5,264,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="484,56,619,83"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a669740e76608a6dd129ce745d78c2c36" title="__decode_op_hdr" alt="" coords="312,5,436,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a3ec30397630ee94cca7e9799356c78fc" title="nfs4_stat_to_errno" alt="" coords="486,5,617,32"/>
-</map>

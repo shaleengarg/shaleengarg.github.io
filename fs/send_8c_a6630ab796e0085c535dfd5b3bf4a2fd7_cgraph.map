@@ -1,9 +1,0 @@
-<map id="write_buf" name="write_buf">
-<area shape="rect" id="node2" href="$read__write_8c.html#ac6f49e41c807d8118fbf37d68ca28a74" title="kernel_write" alt="" coords="128,56,220,83"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#a23ff4bbdd012c1944bd2366c76c1371c" title="vfs_write" alt="" coords="300,31,375,57"/>
-<area shape="rect" id="node8" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="268,81,407,108"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="455,5,561,32"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#afa78d288f1d4bb4b053c65e1b0155dbd" title="__vfs_write" alt="" coords="463,56,553,83"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="609,5,731,32"/>
-<area shape="rect" id="node7" href="$read__write_8c.html#a4b2f4ef6718d3c4726de9b775fb4ea0f" title="new_sync_write" alt="" coords="612,56,728,83"/>
-</map>

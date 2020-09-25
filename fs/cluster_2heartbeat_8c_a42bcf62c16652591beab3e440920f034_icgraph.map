@@ -1,8 +1,0 @@
-<map id="o2hb_setup_one_bio" name="o2hb_setup_one_bio">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a63d63f17c03c61c87c4c55def3b8b455" title="o2hb_read_slots" alt="" coords="215,31,333,57"/>
-<area shape="rect" id="node7" href="$cluster_2heartbeat_8c.html#adf5667d6f0003e05403172d066dc92f4" title="o2hb_issue_node_write" alt="" coords="195,81,353,108"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a7d84faee862e1cd6071968d4c5de9b73" title="o2hb_do_disk_heartbeat" alt="" coords="401,56,564,83"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#a967d55a01ecb105c953836eab4a554a2" title="o2hb_populate_slot_data" alt="" coords="612,5,779,32"/>
-<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#a2bc2625e842d179a5d84f407ccfbe93d" title="o2hb_thread" alt="" coords="649,56,742,83"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#af950396e373c84f930a2168da781f6ec" title="o2hb_region_dev_store" alt="" coords="827,31,983,57"/>
-</map>

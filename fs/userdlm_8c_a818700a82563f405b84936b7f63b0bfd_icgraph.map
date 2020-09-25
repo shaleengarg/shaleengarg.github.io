@@ -1,6 +1,0 @@
-<map id="__user_dlm_cond_queue_lockres" name="__user_dlm_cond_queue_lockres">
-<area shape="rect" id="node2" href="$userdlm_8h.html#a8f55196a70f2f1e7cccda2a3a098d79b" title="user_dlm_cluster_unlock" alt="" coords="220,13,387,39"/>
-<area shape="rect" id="node3" href="$dlmfs_8c.html#ab3f1c819fe844fc7fb7e41f3caeefa4e" title="dlmfs_file_release" alt="" coords="435,13,561,39"/>
-<area shape="rect" id="node4" href="$dlmfs_8c.html#a162ef18384e40602d9e4cbb0bf7dcf23" title="dlmfs_fill_super" alt="" coords="609,13,723,39"/>
-<area shape="rect" id="node5" href="$dlmfs_8c.html#abc979045a0115b27d308b3462af040fc" title="dlmfs_mount" alt="" coords="771,13,868,39"/>
-</map>

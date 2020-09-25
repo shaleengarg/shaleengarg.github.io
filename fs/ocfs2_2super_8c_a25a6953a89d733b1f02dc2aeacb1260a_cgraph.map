@@ -1,8 +1,0 @@
-<map id="ocfs2_verify_heartbeat" name="ocfs2_verify_heartbeat">
-<area shape="rect" id="node2" href="$ocfs2_8h.html#a9e7c0045acf58827ffc9bf875f2d31ba" title="ocfs2_mount_local" alt="" coords="222,5,353,32"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#af20fe2ee5a1bd3987d82cd04010ed7b5" title="ocfs2_userspace_stack" alt="" coords="415,59,575,85"/>
-<area shape="rect" id="node5" href="$ocfs2_8h.html#a76201f38d96bf31d42adc64a1ddcbdaa" title="ocfs2_cluster_o2cb\l_global_heartbeat" alt="" coords="220,107,355,149"/>
-<area shape="rect" id="node7" href="$ocfs2_8h.html#a51e1d0086ac2d8afc66a67fb1d1a24df" title="ocfs2_is_hard_readonly" alt="" coords="208,173,367,200"/>
-<area shape="rect" id="node4" href="$ocfs2_8h.html#adc36bcf9a8642335c68581ce4aecdb20" title="ocfs2_clusterinfo_valid" alt="" coords="623,85,777,112"/>
-<area shape="rect" id="node6" href="$ocfs2_8h.html#a3b83f745d57dc9f1f8168ebaab712827" title="ocfs2_o2cb_stack" alt="" coords="431,111,559,137"/>
-</map>

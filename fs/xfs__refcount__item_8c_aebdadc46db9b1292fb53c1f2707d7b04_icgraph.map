@@ -1,6 +1,0 @@
-<map id="CUI_ITEM" name="CUI_ITEM">
-<area shape="rect" id="node2" href="$xfs__refcount__item_8c.html#ade23d1601fdb7d29c168c4fcdfbe7160" title="xfs_cui_item_size" alt="" coords="146,5,273,32"/>
-<area shape="rect" id="node3" href="$xfs__refcount__item_8c.html#afb685669ed53e60c4728a55558494f87" title="xfs_cui_item_format" alt="" coords="139,56,279,83"/>
-<area shape="rect" id="node4" href="$xfs__refcount__item_8c.html#a72c31147de56f827a11810cab3f35e10" title="xfs_cui_item_unpin" alt="" coords="142,107,277,133"/>
-<area shape="rect" id="node5" href="$xfs__refcount__item_8c.html#a89bae36fa2a0b3051203504e5849fba2" title="xfs_cui_item_unlock" alt="" coords="139,157,280,184"/>
-</map>

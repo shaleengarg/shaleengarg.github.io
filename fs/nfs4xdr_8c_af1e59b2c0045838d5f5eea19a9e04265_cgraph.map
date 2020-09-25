@@ -1,5 +1,0 @@
-<map id="decode_open_stateid" name="decode_open_stateid">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a0045ab4bee3ddf49313d169c42d6c12a" title="decode_stateid" alt="" coords="199,5,309,32"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#aa033f4efa9668bd3b1df2e451e2d2451" title="decode_opaque_fixed" alt="" coords="357,5,505,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="553,5,688,32"/>
-</map>

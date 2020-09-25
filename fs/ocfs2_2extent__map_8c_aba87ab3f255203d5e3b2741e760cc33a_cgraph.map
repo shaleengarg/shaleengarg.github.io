@@ -1,7 +1,0 @@
-<map id="ocfs2_fiemap_inline" name="ocfs2_fiemap_inline">
-<area shape="rect" id="node2" href="$ocfs2_2inode_8h.html#ad355602d6e917df63ae06c1734f0f203" title="OCFS2_I" alt="" coords="230,5,307,32"/>
-<area shape="rect" id="node3" href="$symlink_8h.html#adc1f2c8f815eee8b953b38539ca85340" title="ocfs2_inode_is_fast\l_symlink" alt="" coords="199,57,338,98"/>
-<area shape="rect" id="node4" href="$ocfs2__fs_8h.html#ab207ea4c0203a271e9fc45b6949a5734" title="ocfs2_fast_symlink\l_chars" alt="" coords="201,122,336,163"/>
-<area shape="rect" id="node5" href="$ioctl_8c.html#a0b5d91d2c0d5c6debf5d05dc6227463b" title="fiemap_fill_next_extent" alt="" coords="191,188,347,215"/>
-<area shape="rect" id="node6" href="$ioctl_8c.html#ab35e86d56c82732d0d821cec3911420c" title="EXPORT_SYMBOL" alt="" coords="395,188,533,215"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="iomap_dirty_actor" name="iomap_dirty_actor">
-<area shape="rect" id="node2" href="$iomap_8c.html#a940db4e34882484993943265c5dbb8d9" title="iomap_file_dirty" alt="" coords="179,5,292,32"/>
-<area shape="rect" id="node3" href="$xfs__reflink_8c.html#a83a967c11172ce0733116bc950cdb2e4" title="xfs_reflink_dirty_extents" alt="" coords="340,5,504,32"/>
-<area shape="rect" id="node4" href="$xfs__reflink_8h.html#a0e8c219f70d8f2f215dafd39e4bc03f8" title="xfs_reflink_unshare" alt="" coords="552,5,687,32"/>
-<area shape="rect" id="node5" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="735,5,855,32"/>
-</map>

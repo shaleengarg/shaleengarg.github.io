@@ -1,8 +1,0 @@
-<map id="btrfs_scrub_progress" name="btrfs_scrub_progress">
-<area shape="rect" id="node2" href="$ctree_8h.html#a96286deb5ec8fd334f6d7f22e8211c48" title="btrfs_init_acl" alt="" coords="237,5,333,32"/>
-<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#a8065d7c8fff31d9569dc78f67c8d68d6" title="btrfs_ioctl_scrub_progress" alt="" coords="197,56,372,83"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#ad5d401001e26cb4bb5b14d36cc960102" title="__btrfs_fs_compat_ro" alt="" coords="420,5,568,32"/>
-<area shape="rect" id="node5" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="455,56,533,83"/>
-<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="616,56,791,83"/>
-<area shape="rect" id="node7" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="839,56,936,83"/>
-</map>

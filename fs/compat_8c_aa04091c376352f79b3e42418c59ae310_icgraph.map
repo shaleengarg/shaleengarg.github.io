@@ -1,6 +1,0 @@
-<map id="compat_nfs_string" name="compat_nfs_string">
-<area shape="rect" id="node2" href="$compat_8c.html#a8605797988a78cf0573c10f2ffef1871" title="do_nfs4_super_data_conv" alt="" coords="183,31,357,57"/>
-<area shape="rect" id="node3" href="$compat_8c.html#a3d85834ab71c46c846be15644e3ac17f" title="COMPAT_SYSCALL_DEFINE5" alt="" coords="405,31,616,57"/>
-<area shape="rect" id="node4" href="$aio_8c.html#afa5fd2ceea4f0fab701cb14b1761fc4b" title="SYSCALL_DEFINE5" alt="" coords="664,5,811,32"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#a3027081c8ba8c50821f4222c2082badc" title="SYSCALL_DEFINE6" alt="" coords="664,56,811,83"/>
-</map>

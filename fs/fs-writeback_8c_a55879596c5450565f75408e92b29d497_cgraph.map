@@ -1,5 +1,0 @@
-<map id="wakeup_flusher_threads_bdi" name="wakeup_flusher_threads_bdi">
-<area shape="rect" id="node2" href="$fs-writeback_8c.html#ab198d8902d59220af2b210513c02b199" title="__wakeup_flusher_threads_bdi" alt="" coords="240,5,441,32"/>
-<area shape="rect" id="node3" href="$fs-writeback_8c.html#a901de282afd06451f60fd80cbaccf2d9" title="wb_start_writeback" alt="" coords="489,5,624,32"/>
-<area shape="rect" id="node4" href="$fs-writeback_8c.html#a5005d8ed38bec5e5a7841abcad098d55" title="wb_wakeup" alt="" coords="672,5,763,32"/>
-</map>

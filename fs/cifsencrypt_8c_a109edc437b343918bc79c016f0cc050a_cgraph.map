@@ -1,6 +1,0 @@
-<map id="cifs_sign_smbv" name="cifs_sign_smbv">
-<area shape="rect" id="node2" href="$cifsencrypt_8c.html#a0efd454278c99ff2251ab0d5a2ddf570" title="cifs_sign_rqst" alt="" coords="167,31,269,57"/>
-<area shape="rect" id="node3" href="$cifsencrypt_8c.html#aac76d08f0601c9fe8f448acc8c327f9c" title="cifs_calc_signature" alt="" coords="317,31,452,57"/>
-<area shape="rect" id="node4" href="$cifsproto_8h.html#a69d2168a19e01f2ca2a86ccab9c567ee" title="cifs_alloc_hash" alt="" coords="518,5,630,32"/>
-<area shape="rect" id="node5" href="$cifsencrypt_8c.html#ac2646f5af9406020b329f44a4562584c" title="__cifs_calc_signature" alt="" coords="500,56,648,83"/>
-</map>

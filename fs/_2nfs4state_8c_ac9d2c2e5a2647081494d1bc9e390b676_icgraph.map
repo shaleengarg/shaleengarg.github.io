@@ -1,8 +1,0 @@
-<map id="nfs4_laundromat" name="nfs4_laundromat">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a7036cf1ea110ef1861dc37d2eba83177" title="laundromat_main" alt="" coords="172,5,293,32"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a81e36445a575cc5e87e3a3eff13ca4f0" title="nfs4_state_create_net" alt="" coords="341,5,492,32"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#abb3cfd638963e8a95d429035032924ed" title="nfs4_state_start_net" alt="" coords="540,5,681,32"/>
-<area shape="rect" id="node5" href="$nfssvc_8c.html#aeba7a0fe8aab7495582fc5354b6a125b" title="nfsd_startup_net" alt="" coords="729,5,848,32"/>
-<area shape="rect" id="node6" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="896,5,971,32"/>
-<area shape="rect" id="node7" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="1019,5,1119,32"/>
-</map>

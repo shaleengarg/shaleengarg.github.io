@@ -1,6 +1,0 @@
-<map id="seg_info_to_sit_page" name="seg_info_to_sit_page">
-<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#aa739d3ae2ad512fc11a7fc462beaddeb" title="get_seg_entry" alt="" coords="223,5,327,32"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8h.html#a5b24c8254b1e03268b29f5b75d4d9a8a" title="__seg_info_to_raw_sit" alt="" coords="199,56,351,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="399,5,453,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="501,5,555,32"/>
-</map>

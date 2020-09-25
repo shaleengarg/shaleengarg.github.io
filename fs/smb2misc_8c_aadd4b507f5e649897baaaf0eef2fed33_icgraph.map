@@ -1,7 +1,0 @@
-<map id="smb2_get_data_area_len" name="smb2_get_data_area_len">
-<area shape="rect" id="node2" href="$smb2proto_8h.html#a11274b02b5655f31bbbddbf1dbe3f343" title="smb2_calc_size" alt="" coords="221,56,337,83"/>
-<area shape="rect" id="node5" href="$smb2proto_8h.html#a59252483a043e4e305176533b1066f0b" title="SMB2_negotiate" alt="" coords="220,107,339,133"/>
-<area shape="rect" id="node3" href="$smb2proto_8h.html#a16df496cd8fc7f0e350bd3deb4bc3653" title="smb2_check_message" alt="" coords="387,5,543,32"/>
-<area shape="rect" id="node4" href="$smb2ops_8c.html#a10cb0b2f2bdd66643aa2d40ba4a9ea65" title="smb2_dump_detail" alt="" coords="399,56,530,83"/>
-<area shape="rect" id="node6" href="$smb2ops_8c.html#a84f7cb71de5147fd5f0d8a3d2293152d" title="smb2_negotiate" alt="" coords="407,107,522,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="is_stack" name="is_stack">
-<area shape="rect" id="node2" href="$task__mmu_8c.html#a938fbfbb3c58a673611bb53b30f0f656" title="show_map_vma" alt="" coords="124,31,241,57"/>
-<area shape="rect" id="node3" href="$task__mmu_8c.html#aa2da057264e047fa2159b0c9ddc5f2ef" title="show_map" alt="" coords="289,31,375,57"/>
-<area shape="rect" id="node4" href="$task__mmu_8c.html#ab5d4f6a6cf6a8a3d2c9173aab8bcbcc9" title="show_pid_map" alt="" coords="423,5,532,32"/>
-<area shape="rect" id="node5" href="$task__mmu_8c.html#aebe283c702ba1714db7e90e71c1981ff" title="show_tid_map" alt="" coords="424,56,531,83"/>
-</map>

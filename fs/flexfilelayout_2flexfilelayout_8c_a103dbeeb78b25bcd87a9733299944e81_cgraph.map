@@ -1,8 +1,0 @@
-<map id="ff_layout_write_count_stats" name="ff_layout_write_count_stats">
-<area shape="rect" id="node2" href="$flexfilelayout_2flexfilelayout_8c.html#adce0ddc577ab392147eb046314f94a93" title="ff_layout_write_record\l_layoutstats_done" alt="" coords="200,35,351,76"/>
-<area shape="rect" id="node3" href="$flexfilelayout_2flexfilelayout_8c.html#a9ccd87d74041b897512f6725dbb7de8f" title="nfs4_ff_layout_stat\l_io_end_write" alt="" coords="405,5,538,47"/>
-<area shape="rect" id="node6" href="$flexfilelayout_8h.html#ac72d06b3d9f6b8bedef57016ce7cfc00" title="FF_LAYOUT_COMP" alt="" coords="399,71,544,98"/>
-<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#a7f2a9a418d4436610f481bdaff683141" title="nfs4_ff_layout_stat\l_io_update_completed" alt="" coords="592,5,744,47"/>
-<area shape="rect" id="node5" href="$flexfilelayout_2flexfilelayout_8c.html#aef1ac29770c52753e0ff93633639d8e8" title="nfs4_ff_end_busy_timer" alt="" coords="792,13,953,39"/>
-<area shape="rect" id="node7" href="$flexfilelayout_8h.html#ad3d3c011533c107708d54cf5edae52b9" title="FF_LAYOUT_LSEG" alt="" coords="598,71,738,98"/>
-</map>

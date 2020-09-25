@@ -1,8 +1,0 @@
-<map id="free_session" name="free_session">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a8d0377b8a08091096890979a20d9da9c" title="nfsd4_del_conns" alt="" coords="159,5,279,32"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a66df80b9edb297cc1eec5e0ad7f7ea07" title="nfsd4_put_drc_mem" alt="" coords="149,56,289,83"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#ac2e177b6d56acafd4a6e9d7d0f1a15a8" title="__free_session" alt="" coords="164,107,275,133"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a2d9ac6b6f6ab363056d02a036ac64bbc" title="free_conn" alt="" coords="363,5,442,32"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#ac4e4090eb39a442cdd5fdefb7798db55" title="slot_bytes" alt="" coords="361,56,444,83"/>
-<area shape="rect" id="node7" href="$_2nfs4state_8c.html#a314589c8995dac2d9ec105dca2400a64" title="free_session_slots" alt="" coords="337,107,468,133"/>
-</map>

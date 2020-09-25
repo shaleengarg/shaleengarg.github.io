@@ -1,6 +1,0 @@
-<map id="gfs2_set_iop" name="gfs2_set_iop">
-<area shape="rect" id="node2" href="$incore_8h.html#a6e654b7e928c4d42d33bb0e5bf975339" title="GFS2_SB" alt="" coords="171,5,253,32"/>
-<area shape="rect" id="node3" href="$gfs2_2inode_8h.html#ad74db5e6c36769a726d95363edd1148b" title="gfs2_localflocks" alt="" coords="154,56,270,83"/>
-<area shape="rect" id="node4" href="$inode_8c.html#aa992afd465d948c7fca769d396933c98" title="init_special_inode" alt="" coords="149,107,275,133"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="323,107,461,133"/>
-</map>

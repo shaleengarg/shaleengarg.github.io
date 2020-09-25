@@ -1,9 +1,0 @@
-<map id="lockd_up_net" name="lockd_up_net">
-<area shape="rect" id="node2" href="$svc_8c.html#ae410c8c4ccaa3cb172dceb26505cccb3" title="make_socks" alt="" coords="165,5,261,32"/>
-<area shape="rect" id="node5" href="$svc_8c.html#a75ebc42e1230f876e49986abb51425a8" title="set_grace_period" alt="" coords="152,56,273,83"/>
-<area shape="rect" id="node3" href="$svc_8c.html#a5057a2d686a2f6791f106ae63d9c4676" title="create_lockd_family" alt="" coords="331,5,470,32"/>
-<area shape="rect" id="node4" href="$svc_8c.html#a0dffb86a49da58857e55fe09ad63b029" title="create_lockd_listener" alt="" coords="541,5,687,32"/>
-<area shape="rect" id="node6" href="$svc_8c.html#a7276d477be73cfffef04bb1113aa965d" title="get_lockd_grace_period" alt="" coords="321,56,480,83"/>
-<area shape="rect" id="node7" href="$grace_8c.html#a91a1c906383f90b9413d0517054f34dc" title="locks_start_grace" alt="" coords="338,107,463,133"/>
-<area shape="rect" id="node8" href="$grace_8c.html#a7a85d636026fb6e907fffc78d5637024" title="EXPORT_SYMBOL_GPL" alt="" coords="528,107,700,133"/>
-</map>

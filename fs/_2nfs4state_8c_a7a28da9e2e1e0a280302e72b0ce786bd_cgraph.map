@@ -1,9 +1,0 @@
-<map id="nfsd4_sequence_check_conn" name="nfsd4_sequence_check_conn">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a897a1e55d48606fc8d14416c57092e08" title="__nfsd4_find_conn" alt="" coords="252,5,383,32"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a96dec611f31fa23e4d90788fdf2cd89d" title="__nfsd4_hash_conn" alt="" coords="248,56,387,83"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#ab1cc66d157d4037cd283db0f650f0bae" title="nfsd4_register_conn" alt="" coords="248,107,387,133"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#a05c9d49620e08fff1001858f460afa0c" title="nfsd4_conn_lost" alt="" coords="435,157,552,184"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#a2d9ac6b6f6ab363056d02a036ac64bbc" title="free_conn" alt="" coords="635,208,713,235"/>
-<area shape="rect" id="node7" href="$nfs4callback_8c.html#a654ca3fbc093c0d6c31809694c864d0d" title="nfsd4_probe_callback" alt="" coords="600,157,748,184"/>
-<area shape="rect" id="node8" href="$nfs4callback_8c.html#aa2419b4d6939e1664efcf05d0dbd3208" title="nfsd4_run_cb" alt="" coords="796,157,896,184"/>
-</map>

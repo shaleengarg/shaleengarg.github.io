@@ -1,8 +1,0 @@
-<map id="nfsaclsvc_encode_accessres" name="nfsaclsvc_encode_accessres">
-<area shape="rect" id="node2" href="$nfsxdr_8c.html#a1b3d3783978947c73f89d8a368491598" title="nfs2svc_encode_fattr" alt="" coords="248,31,395,57"/>
-<area shape="rect" id="node3" href="$nfsxdr_8c.html#a02b04bfc308a0c2bff628281d9ec593b" title="encode_fattr" alt="" coords="443,31,537,57"/>
-<area shape="rect" id="node4" href="$locks_8c.html#ac4d228ca205d6564238a8d6e36e27455" title="lease_get_mtime" alt="" coords="585,31,707,57"/>
-<area shape="rect" id="node5" href="$inode_8c.html#ab2eaca3b9ec87b9dd6568776059cb715" title="current_time" alt="" coords="777,5,871,32"/>
-<area shape="rect" id="node7" href="$locks_8c.html#ac392262fb562857fdac04d764121e0b7" title="EXPORT_SYMBOL" alt="" coords="755,56,893,83"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="941,5,1080,32"/>
-</map>

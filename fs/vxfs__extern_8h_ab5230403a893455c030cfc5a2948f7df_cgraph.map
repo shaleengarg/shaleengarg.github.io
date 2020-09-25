@@ -1,7 +1,0 @@
-<map id="vxfs_read_olt" name="vxfs_read_olt">
-<area shape="rect" id="node2" href="$vxfs__olt_8c.html#a1d151df1403c24224a558dc3ae8dac40" title="vxfs_oblock" alt="" coords="167,5,259,32"/>
-<area shape="rect" id="node3" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="320,107,413,133"/>
-<area shape="rect" id="node5" href="$vxfs__olt_8c.html#ab6ce674444eb9ce32342e62e2036470d" title="vxfs_get_fshead" alt="" coords="153,107,272,133"/>
-<area shape="rect" id="node6" href="$vxfs__olt_8c.html#aeedefae3917fbd37ca4a01fae3756d75" title="vxfs_get_ilist" alt="" coords="163,157,262,184"/>
-<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="461,107,544,133"/>
-</map>

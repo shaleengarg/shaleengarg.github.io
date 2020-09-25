@@ -1,5 +1,0 @@
-<map id="strip_xattr_flag" name="strip_xattr_flag">
-<area shape="rect" id="node2" href="$ecryptfs_2mmap_8c.html#a71adfacc67a2f9b01c0680e05f5a2a73" title="ecryptfs_copy_up_encrypted\l_with_header" alt="" coords="161,23,351,65"/>
-<area shape="rect" id="node3" href="$ecryptfs_2mmap_8c.html#a8f8e487f41eae0bd59f0f73483c8b0bd" title="ecryptfs_readpage" alt="" coords="405,5,535,32"/>
-<area shape="rect" id="node4" href="$ecryptfs_2mmap_8c.html#a6a4799f05bb0baa6b8d31732c51a633f" title="ecryptfs_write_begin" alt="" coords="399,56,541,83"/>
-</map>

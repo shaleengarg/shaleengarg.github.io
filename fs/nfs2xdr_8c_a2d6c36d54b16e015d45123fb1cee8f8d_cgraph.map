@@ -1,6 +1,0 @@
-<map id="nfs2_xdr_enc_writeargs" name="nfs2_xdr_enc_writeargs">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#ada4d45087f37b0db77234b7b3348d25c" title="encode_writeargs" alt="" coords="213,31,337,57"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="415,5,469,32"/>
-<area shape="rect" id="node5" href="$nfs2xdr_8c.html#a71028f192b6b109bacc5ed86f06fdb48" title="encode_fhandle" alt="" coords="385,56,499,83"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="547,5,665,32"/>
-</map>

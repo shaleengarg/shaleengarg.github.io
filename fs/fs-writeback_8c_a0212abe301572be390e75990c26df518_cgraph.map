@@ -1,5 +1,0 @@
-<map id="get_nr_dirty_pages" name="get_nr_dirty_pages">
-<area shape="rect" id="node2" href="$inode_8c.html#aa66e4e917c986fb8fcb36efebf00a217" title="get_nr_dirty_inodes" alt="" coords="185,31,320,57"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a5db22a5f7f1481c08a65593e46808324" title="get_nr_inodes" alt="" coords="393,5,495,32"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a53c046a2c130aa89a1f077f278302092" title="get_nr_inodes_unused" alt="" coords="368,56,520,83"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="pstore_evict_inode" name="pstore_evict_inode">
-<area shape="rect" id="node2" href="$inode_8c.html#a5ef1de74cc382d6cd8afddc6e66a47a4" title="clear_inode" alt="" coords="207,5,295,32"/>
-<area shape="rect" id="node4" href="$pstore_2inode_8c.html#a271a2f18b88f9335a5797c97ef5f2e83" title="free_pstore_private" alt="" coords="184,56,317,83"/>
-<area shape="rect" id="node3" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="365,5,504,32"/>
-</map>

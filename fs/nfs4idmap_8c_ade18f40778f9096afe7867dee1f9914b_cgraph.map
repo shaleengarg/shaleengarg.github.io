@@ -1,4 +1,0 @@
-<map id="idmap_pipe_destroy_msg" name="idmap_pipe_destroy_msg">
-<area shape="rect" id="node2" href="$nfs4idmap_8c.html#a9bb53eb09d31fc79089ab5036cbae2ac" title="nfs_idmap_abort_pipe\l_upcall" alt="" coords="224,5,373,47"/>
-<area shape="rect" id="node3" href="$nfs4idmap_8c.html#a47e5894f75ce96ae9cf3702fb64958e6" title="nfs_idmap_complete\l_pipe_upcall_locked" alt="" coords="421,5,564,47"/>
-</map>

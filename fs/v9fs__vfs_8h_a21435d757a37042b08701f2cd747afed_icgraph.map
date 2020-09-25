@@ -1,7 +1,0 @@
-<map id="v9fs_get_inode" name="v9fs_get_inode">
-<area shape="rect" id="node2" href="$vfs__inode__dotl_8c.html#a1551e426c154bcda591527db334199f5" title="v9fs_vfs_mkdir_dotl" alt="" coords="171,5,309,32"/>
-<area shape="rect" id="node3" href="$vfs__inode__dotl_8c.html#a1b3473138b8503f2b871273e4ee80a01" title="v9fs_vfs_symlink_dotl" alt="" coords="164,56,316,83"/>
-<area shape="rect" id="node4" href="$vfs__inode__dotl_8c.html#a3273638b8655020cb91492e42198807e" title="v9fs_vfs_mknod_dotl" alt="" coords="167,107,313,133"/>
-<area shape="rect" id="node6" href="$vfs__super_8c.html#a732c4734905aafb03f10cfae2888633f" title="v9fs_mount" alt="" coords="195,157,285,184"/>
-<area shape="rect" id="node5" href="$vfs__inode__dotl_8c.html#a106ae819d705877e73c81ff990c9a1f1" title="v9fs_vfs_create_dotl" alt="" coords="364,107,507,133"/>
-</map>

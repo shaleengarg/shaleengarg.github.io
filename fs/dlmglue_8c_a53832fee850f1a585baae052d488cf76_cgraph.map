@@ -1,7 +1,0 @@
-<map id="ocfs2_cancel_convert" name="ocfs2_cancel_convert">
-<area shape="rect" id="node2" href="$stackglue_8c.html#a6d77aad5198c0b357fe9e39148ac2131" title="ocfs2_dlm_unlock" alt="" coords="208,29,335,56"/>
-<area shape="rect" id="node4" href="$dlmglue_8c.html#a566034c585bf11c1a1d496d66bab9586" title="ocfs2_recover_from\l_dlm_error" alt="" coords="203,81,340,122"/>
-<area shape="rect" id="node3" href="$stackglue_8c.html#a15052933b776705ee3821e1804f38e1f" title="EXPORT_SYMBOL_GPL" alt="" coords="388,29,560,56"/>
-<area shape="rect" id="node5" href="$dlmglue_8c.html#a71013118b51255ce41c8148bd3ae1256" title="lockres_clear_flags" alt="" coords="407,88,541,115"/>
-<area shape="rect" id="node6" href="$dlmglue_8c.html#a2f5ae82be6decde9f94541fcdf939d75" title="lockres_set_flags" alt="" coords="608,88,732,115"/>
-</map>

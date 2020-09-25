@@ -1,9 +1,0 @@
-<map id="exofs/common.h" name="exofs/common.h">
-<area shape="rect" id="node2" href="$exofs_8h.html" title="exofs/exofs.h" alt="" coords="285,80,387,107"/>
-<area shape="rect" id="node3" href="$exofs_2dir_8c.html" title="exofs/dir.c" alt="" coords="5,155,88,181"/>
-<area shape="rect" id="node4" href="$exofs_2file_8c.html" title="exofs/file.c" alt="" coords="113,155,199,181"/>
-<area shape="rect" id="node5" href="$exofs_2inode_8c.html" title="exofs/inode.c" alt="" coords="223,155,323,181"/>
-<area shape="rect" id="node6" href="$exofs_2namei_8c.html" title="exofs/namei.c" alt="" coords="348,155,452,181"/>
-<area shape="rect" id="node7" href="$exofs_2super_8c.html" title="exofs/super.c" alt="" coords="476,155,577,181"/>
-<area shape="rect" id="node8" href="$exofs_2sys_8c.html" title="exofs/sys.c" alt="" coords="601,155,692,181"/>
-</map>

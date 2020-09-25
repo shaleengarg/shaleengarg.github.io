@@ -1,6 +1,0 @@
-<map id="aio_kiocb" name="aio_kiocb">
-<area shape="rect" id="node2" href="$structkioctx.html" title="kioctx" alt="" coords="77,95,135,121"/>
-<area shape="rect" id="node3" href="$structctx__rq__wait.html" title="ctx_rq_wait" alt="" coords="5,5,95,32"/>
-<area shape="rect" id="node4" href="$structkioctx__cpu.html" title="kioctx_cpu" alt="" coords="119,5,205,32"/>
-<area shape="rect" id="node5" href="$structeventfd__ctx.html" title="eventfd_ctx" alt="" coords="159,95,250,121"/>
-</map>

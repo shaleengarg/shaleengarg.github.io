@@ -1,8 +1,0 @@
-<map id="ntfs_clear_extent_inode" name="ntfs_clear_extent_inode">
-<area shape="rect" id="node2" href="$bad__inode_8c.html#a7db3c62ffb9390ef7191a63e19073333" title="is_bad_inode" alt="" coords="233,5,331,32"/>
-<area shape="rect" id="node4" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="253,56,311,83"/>
-<area shape="rect" id="node5" href="$ntfs_2inode_8c.html#abbc5f657cb686d3a983afcbbffc41031" title="__ntfs_clear_inode" alt="" coords="217,107,347,133"/>
-<area shape="rect" id="node7" href="$ntfs_2inode_8c.html#ad4e37700ea8d70a20fb28f28fcf2d4d5" title="ntfs_destroy_extent\l_inode" alt="" coords="213,158,351,199"/>
-<area shape="rect" id="node3" href="$bad__inode_8c.html#a74ff3566c64350315f12163f4ddfdae7" title="EXPORT_SYMBOL" alt="" coords="399,5,537,32"/>
-<area shape="rect" id="node6" href="$malloc_8h.html#ab6824be4d6e004aa075b1fe66fd0d737" title="ntfs_free" alt="" coords="431,107,505,133"/>
-</map>

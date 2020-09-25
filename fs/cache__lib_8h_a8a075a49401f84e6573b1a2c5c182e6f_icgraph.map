@@ -1,6 +1,0 @@
-<map id="nfs_cache_register_sb" name="nfs_cache_register_sb">
-<area shape="rect" id="node2" href="$nfs_2dns__resolve_8c.html#ac12ceffe1d38ac9dc3cfff96088ead88" title="rpc_pipefs_event" alt="" coords="225,5,346,32"/>
-<area shape="rect" id="node3" href="$cache__lib_8h.html#a5af9b2ef6ff1d35ae8dc00f92ccf35c9" title="nfs_cache_register_net" alt="" coords="207,56,364,83"/>
-<area shape="rect" id="node4" href="$nfs_2dns__resolve_8h.html#abfa8d95bafc6e204b225deeb4dcd64f2" title="nfs_dns_resolver_cache_init" alt="" coords="412,56,599,83"/>
-<area shape="rect" id="node5" href="$nfs_2dns__resolve_8c.html#a3625de77b60168ef8f436cfc422bfaeb" title="nfs4_dns_net_init" alt="" coords="647,56,771,83"/>
-</map>

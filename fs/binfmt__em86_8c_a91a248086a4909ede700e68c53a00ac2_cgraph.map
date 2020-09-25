@@ -1,8 +1,0 @@
-<map id="exit_em86_binfmt" name="exit_em86_binfmt">
-<area shape="rect" id="node2" href="$exec_8c.html#aa4217a607e4fa264eacc4c8dd4e258dc" title="unregister_binfmt" alt="" coords="189,5,312,32"/>
-<area shape="rect" id="node4" href="$binfmt__em86_8c.html#a8c47e667863a25afdd529c8775f28983" title="core_initcall" alt="" coords="205,56,296,83"/>
-<area shape="rect" id="node5" href="$binfmt__em86_8c.html#a048c1d8292f920866d1fba335be4ecad" title="init_em86_binfmt" alt="" coords="190,107,311,133"/>
-<area shape="rect" id="node6" href="$binfmt__em86_8c.html#af51affba77be541fd4385f77c4900482" title="module_exit" alt="" coords="205,157,297,184"/>
-<area shape="rect" id="node7" href="$binfmt__em86_8c.html#ad94b36675e7eb067ea3ce6ff9e244a44" title="MODULE_LICENSE" alt="" coords="179,208,323,235"/>
-<area shape="rect" id="node3" href="$exec_8c.html#ab96a58357b2f88a781d9f77c5320fed7" title="EXPORT_SYMBOL" alt="" coords="371,5,509,32"/>
-</map>

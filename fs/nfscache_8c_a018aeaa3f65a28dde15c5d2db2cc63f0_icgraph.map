@@ -1,6 +1,0 @@
-<map id="prune_bucket" name="prune_bucket">
-<area shape="rect" id="node2" href="$nfscache_8c.html#a0803df5bb80172362f3729b24708235e" title="prune_cache_entries" alt="" coords="153,5,296,32"/>
-<area shape="rect" id="node4" href="$nfscache_8c.html#a44b7e586ffa4fac0bc979b7fe40e8038" title="nfsd_cache_lookup" alt="" coords="157,56,292,83"/>
-<area shape="rect" id="node3" href="$nfscache_8c.html#ab555df40d11c4e9c472ffe21c2422fc9" title="nfsd_reply_cache_scan" alt="" coords="344,5,503,32"/>
-<area shape="rect" id="node5" href="$nfssvc_8c.html#adce58307c4e28cca76873661eed9046f" title="nfsd_dispatch" alt="" coords="372,56,475,83"/>
-</map>

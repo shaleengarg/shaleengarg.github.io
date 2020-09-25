@@ -1,6 +1,0 @@
-<map id="jffs2_inode_info" name="jffs2_inode_info">
-<area shape="rect" id="node2" href="$structjffs2__full__dnode.html" title="jffs2_full_dnode" alt="" coords="5,145,119,172"/>
-<area shape="rect" id="node3" href="$structjffs2__raw__node__ref.html" title="jffs2_raw_node_ref" alt="" coords="112,5,244,32"/>
-<area shape="rect" id="node4" href="$structjffs2__full__dirent.html" title="jffs2_full_dirent" alt="" coords="123,95,233,121"/>
-<area shape="rect" id="node5" href="$structjffs2__inode__cache.html" title="jffs2_inode_cache" alt="" coords="227,196,353,223"/>
-</map>

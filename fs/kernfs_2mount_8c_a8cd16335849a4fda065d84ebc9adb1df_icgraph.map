@@ -1,5 +1,0 @@
-<map id="kernfs_init" name="kernfs_init">
-<area shape="rect" id="node2" href="$namespace_8c.html#a9711762b62c5909c8297c2dc1cdd704b" title="mnt_init" alt="" coords="136,31,204,57"/>
-<area shape="rect" id="node3" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="252,5,375,32"/>
-<area shape="rect" id="node4" href="$dcache_8c.html#a8e57b1d00f73b05cbc11789c78196ce4" title="vfs_caches_init" alt="" coords="257,56,370,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="bfs_dump_imap" name="bfs_dump_imap">
-<area shape="rect" id="node2" href="$bfs_2dir_8c.html#a83661bdd2bfef8d29ea29f57e2dfdf07" title="bfs_create" alt="" coords="183,5,266,32"/>
-<area shape="rect" id="node3" href="$bfs_2inode_8c.html#af36e6ed70602eebbffa4d2beee295a53" title="bfs_evict_inode" alt="" coords="168,56,281,83"/>
-<area shape="rect" id="node4" href="$bfs_2inode_8c.html#a7005fdab145c03c3e375053d8f642f06" title="bfs_fill_super" alt="" coords="175,107,274,133"/>
-<area shape="rect" id="node5" href="$bfs_2inode_8c.html#a4f9fe98d8ee4431c33e5185d8bd8e84c" title="bfs_mount" alt="" coords="329,107,412,133"/>
-</map>

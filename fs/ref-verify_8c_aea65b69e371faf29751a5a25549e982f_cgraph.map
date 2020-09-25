@@ -1,6 +1,0 @@
-<map id="btrfs_free_ref_tree_range" name="btrfs_free_ref_tree_range">
-<area shape="rect" id="node2" href="$ref-verify_8c.html#a90264c789aceac714f1f46941227bd19" title="dump_block_entry" alt="" coords="181,5,309,32"/>
-<area shape="rect" id="node5" href="$ref-verify_8c.html#abccfc8ef81350d06c3f93334c93f2d96" title="free_block_entry" alt="" coords="186,56,305,83"/>
-<area shape="rect" id="node3" href="$ref-verify_8c.html#a1995545d49f91a070f3f035a98bf33ba" title="dump_ref_action" alt="" coords="357,5,476,32"/>
-<area shape="rect" id="node4" href="$ref-verify_8c.html#afb8d8ed2b452f30cedcdcd7d8d69ae75" title="__print_stack_trace" alt="" coords="524,5,660,32"/>
-</map>

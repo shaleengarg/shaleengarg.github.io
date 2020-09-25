@@ -1,6 +1,0 @@
-<map id="current_sit_addr" name="current_sit_addr">
-<area shape="rect" id="node2" href="$f2fs_8h.html#a47b6613afe5d00de8205bd048875e951" title="SIT_I" alt="" coords="203,5,257,32"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8h.html#a758a111ff7d6143fdf46c86297aa7b16" title="check_seg_range" alt="" coords="168,56,292,83"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a8519ed4a7ad303d626d8724becfba5e1" title="f2fs_test_bit" alt="" coords="183,107,277,133"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="340,5,393,32"/>
-</map>

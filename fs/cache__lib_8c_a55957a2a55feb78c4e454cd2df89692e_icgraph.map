@@ -1,6 +1,0 @@
-<map id="nfs_cache_unregister_sb" name="nfs_cache_unregister_sb">
-<area shape="rect" id="node2" href="$nfs_2dns__resolve_8c.html#ac12ceffe1d38ac9dc3cfff96088ead88" title="rpc_pipefs_event" alt="" coords="245,5,366,32"/>
-<area shape="rect" id="node3" href="$cache__lib_8h.html#a700b6fea564e88d4c4b8ddce481610a5" title="nfs_cache_unregister_net" alt="" coords="220,56,391,83"/>
-<area shape="rect" id="node4" href="$nfs_2dns__resolve_8h.html#a8b9cecd6ba490473530aa7c5e7587b20" title="nfs_dns_resolver_cache\l_destroy" alt="" coords="439,49,601,90"/>
-<area shape="rect" id="node5" href="$nfs_2dns__resolve_8c.html#a12cba6a53a6f15175501fdb83c24e449" title="nfs4_dns_net_exit" alt="" coords="649,56,777,83"/>
-</map>

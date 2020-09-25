@@ -1,6 +1,0 @@
-<map id="get_acl" name="get_acl">
-<area shape="rect" id="node2" href="$posix__acl_8c.html#a6ec21ae9e17bf36ad3ecae1415316000" title="get_cached_acl" alt="" coords="117,26,231,53"/>
-<area shape="rect" id="node3" href="$posix__acl_8c.html#a927d4fbd2c4d6e779ac2b6116364115e" title="acl_by_type" alt="" coords="302,26,394,53"/>
-<area shape="rect" id="node4" href="$posix__acl_8c.html#ababcdde0deadad27c9fa957eceb317c9" title="EXPORT_SYMBOL" alt="" coords="279,77,417,104"/>
-<area shape="rect" id="node5" href="$posix__acl_8c.html#ae2b78748fb46980065a144fc6032a1b8" title="set_cached_acl" alt="" coords="117,77,231,104"/>
-</map>

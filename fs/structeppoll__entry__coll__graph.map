@@ -1,5 +1,0 @@
-<map id="eppoll_entry" name="eppoll_entry">
-<area shape="rect" id="node2" href="$structepitem.html" title="epitem" alt="" coords="85,95,146,121"/>
-<area shape="rect" id="node4" href="$structeventpoll.html" title="eventpoll" alt="" coords="135,184,210,211"/>
-<area shape="rect" id="node3" href="$structepoll__filefd.html" title="epoll_filefd" alt="" coords="73,5,157,32"/>
-</map>

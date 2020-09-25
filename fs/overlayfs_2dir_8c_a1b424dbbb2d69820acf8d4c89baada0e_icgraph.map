@@ -1,8 +1,0 @@
-<map id="ovl_type_origin" name="ovl_type_origin">
-<area shape="rect" id="node2" href="$overlayfs_2dir_8c.html#a9a590658173d5c3877890d78df1ed4ef" title="ovl_link" alt="" coords="193,5,260,32"/>
-<area shape="rect" id="node3" href="$overlayfs_2dir_8c.html#ac84a62c2202f3ecc23a8ecf03c60e0ca" title="ovl_remove_upper" alt="" coords="163,56,291,83"/>
-<area shape="rect" id="node7" href="$overlayfs_2dir_8c.html#ae9b3c9db31a50dea2d1754dca9ccf74b" title="ovl_rename" alt="" coords="182,107,271,133"/>
-<area shape="rect" id="node4" href="$overlayfs_2dir_8c.html#a8f19b3e86a70725ac978fd7dc85ecfd5" title="ovl_do_remove" alt="" coords="339,56,449,83"/>
-<area shape="rect" id="node5" href="$overlayfs_2dir_8c.html#ae177680fbff83597ba0aaee4483eec1d" title="ovl_unlink" alt="" coords="497,31,577,57"/>
-<area shape="rect" id="node6" href="$overlayfs_2dir_8c.html#ace06ec42dcee809c569cf778d05d3b4f" title="ovl_rmdir" alt="" coords="500,81,575,108"/>
-</map>

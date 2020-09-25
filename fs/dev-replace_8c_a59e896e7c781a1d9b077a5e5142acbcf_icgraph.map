@@ -1,6 +1,0 @@
-<map id="btrfs_dev_replace_cancel" name="btrfs_dev_replace_cancel">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#aab9a7c9e43e79a823629589545e795b0" title="btrfs_ioctl_dev_replace" alt="" coords="224,5,380,32"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="428,5,507,32"/>
-<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="555,5,729,32"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="777,5,875,32"/>
-</map>

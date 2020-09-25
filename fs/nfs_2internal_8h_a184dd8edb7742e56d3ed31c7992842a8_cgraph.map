@@ -1,6 +1,0 @@
-<map id="nfs_free_client" name="nfs_free_client">
-<area shape="rect" id="node2" href="$nfs_2fscache_8c.html#a8eced8f3ba0186d48cd483aec3c9a0ef" title="nfs_fscache_release\l_client_cookie" alt="" coords="329,5,472,47"/>
-<area shape="rect" id="node3" href="$client_8c.html#a5dc566a37155be5c5ad6d85f674dd5e6" title="put_nfs_version" alt="" coords="343,86,458,113"/>
-<area shape="rect" id="node4" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="315,149,487,175"/>
-<area shape="rect" id="node5" href="$client_8c.html#a116d8bf02938ff51396cffe44ef4008a" title="nfs_free_client" alt="" coords="160,73,267,99"/>
-</map>

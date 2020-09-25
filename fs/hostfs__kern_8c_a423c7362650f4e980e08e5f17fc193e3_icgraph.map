@@ -1,6 +1,0 @@
-<map id="hostfs_iget" name="hostfs_iget">
-<area shape="rect" id="node2" href="$hostfs__kern_8c.html#ae46b99854342882045793dd8b83409a9" title="hostfs_create" alt="" coords="141,5,243,32"/>
-<area shape="rect" id="node4" href="$hostfs__kern_8c.html#aa613eade8e6b19a317e3b995094e3bf1" title="hostfs_lookup" alt="" coords="141,56,243,83"/>
-<area shape="rect" id="node5" href="$hostfs__kern_8c.html#abbee8d0dc849701d0454cab922b644b6" title="hostfs_mknod" alt="" coords="140,107,244,133"/>
-<area shape="rect" id="node3" href="$hostfs__kern_8c.html#a6d21001dfbee5b0c82dbaeafc9df0c28" title="hostfs_setattr" alt="" coords="292,56,395,83"/>
-</map>

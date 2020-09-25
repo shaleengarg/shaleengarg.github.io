@@ -1,5 +1,0 @@
-<map id="xattr_rmdir" name="xattr_rmdir">
-<area shape="rect" id="node2" href="$reiserfs_2xattr_8c.html#a493864a224063928b872a6b83d8f7a38" title="delete_one_xattr" alt="" coords="137,5,256,32"/>
-<area shape="rect" id="node3" href="$reiserfs_2xattr_8h.html#a1181014998295939dd4b33a4f078448d" title="reiserfs_delete_xattrs" alt="" coords="304,5,451,32"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a3f4fd21bda4c7e9487b7275dbee329c4" title="reiserfs_evict_inode" alt="" coords="499,5,637,32"/>
-</map>

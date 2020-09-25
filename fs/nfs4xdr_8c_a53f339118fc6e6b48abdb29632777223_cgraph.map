@@ -1,7 +1,0 @@
-<map id="encode_setacl" name="encode_setacl">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#af331741cfbeebb9874e32761ef58433a" title="encode_op_hdr" alt="" coords="176,5,287,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aad7b07d6441393b8cb49dc91e3c86f08" title="encode_nfs4_stateid" alt="" coords="160,56,303,83"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#aeb6935e87253006dc578e9f5f5709dd2" title="reserve_space" alt="" coords="178,107,285,133"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ab33bed6588aeafcdec18900fffe81db3" title="encode_uint32" alt="" coords="371,5,478,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a2e97a3560d7e1904d702ec9f343873fe" title="encode_opaque_fixed" alt="" coords="351,56,499,83"/>
-</map>

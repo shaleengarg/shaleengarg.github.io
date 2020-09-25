@@ -1,9 +1,0 @@
-<map id="nfs_pageio_reset_read_mds" name="nfs_pageio_reset_read_mds">
-<area shape="rect" id="node2" href="$blocklayout_2blocklayout_8c.html#a63b0ac8bf2536b5561542d1abbb20d49" title="bl_pg_init_read" alt="" coords="460,56,569,83"/>
-<area shape="rect" id="node3" href="$filelayout_8c.html#a6e4f6215c069d72867d4817de10f0a11" title="filelayout_pg_init_read" alt="" coords="250,31,401,58"/>
-<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#a4a8db6b0436e5e7ed0e9e0d3e03a0787" title="ff_layout_pg_init_read" alt="" coords="251,82,400,108"/>
-<area shape="rect" id="node5" href="$pnfs_8c.html#af2a2cc619c6e45fc78cab9ff1522b27b" title="pnfs_generic_pg_init_read" alt="" coords="239,132,412,159"/>
-<area shape="rect" id="node6" href="$pnfs_8c.html#a27b681d364cdb94acb383a0208ba1cac" title="pnfs_read_through_mds" alt="" coords="245,183,406,210"/>
-<area shape="rect" id="node7" href="$pnfs_8c.html#ac0b6761391c29ab0ff59dd3d8a2610f6" title="pnfs_do_read" alt="" coords="465,183,565,210"/>
-<area shape="rect" id="node8" href="$pnfs_8c.html#aefe27931df0c3951b8f7bbfe04288109" title="pnfs_generic_pg_readpages" alt="" coords="617,183,801,210"/>
-</map>

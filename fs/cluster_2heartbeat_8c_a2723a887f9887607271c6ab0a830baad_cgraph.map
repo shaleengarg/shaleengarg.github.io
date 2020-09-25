@@ -1,8 +1,0 @@
-<map id="o2hb_write_timeout" name="o2hb_write_timeout">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#ab0efa6a39d40342632c4f1a7d9e247c1" title="o2hb_global_heartbeat\l_active" alt="" coords="188,29,340,71"/>
-<area shape="rect" id="node4" href="$quorum_8c.html#a761d702d7f6dd729e85122fdd72c7d1d" title="o2quo_disk_timeout" alt="" coords="195,95,333,122"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#ad306fd3febbe0e26805f31170d33b316" title="EXPORT_SYMBOL" alt="" coords="388,37,527,63"/>
-<area shape="rect" id="node5" href="$quorum_8c.html#a7168423d850d4ede8464b4e09e38b779" title="o2quo_fence_self" alt="" coords="395,95,519,122"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#a2c9160ad7d66f960a1b40eb18ff3b2d8" title="o2hb_stop_all_regions" alt="" coords="575,95,725,122"/>
-<area shape="rect" id="node7" href="$cluster_2heartbeat_8c.html#aae9d726ce9c58d7e470f5e25f6ef316e" title="EXPORT_SYMBOL_GPL" alt="" coords="773,95,945,122"/>
-</map>

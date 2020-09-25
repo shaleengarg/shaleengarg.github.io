@@ -1,5 +1,0 @@
-<map id="v7_sanity_check" name="v7_sanity_check">
-<area shape="rect" id="node2" href="$befs_2endian_8h.html#aaa8c79959db5e2ef0095b801e89a0416" title="fs16_to_cpu" alt="" coords="173,5,267,32"/>
-<area shape="rect" id="node4" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="173,56,267,83"/>
-<area shape="rect" id="node3" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="315,31,397,57"/>
-</map>

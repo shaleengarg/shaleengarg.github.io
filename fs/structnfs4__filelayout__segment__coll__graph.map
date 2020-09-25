@@ -1,5 +1,0 @@
-<map id="nfs4_filelayout_segment" name="nfs4_filelayout_segment">
-<area shape="rect" id="node2" href="$structnfs4__file__layout__dsaddr.html" title="nfs4_file_layout_dsaddr" alt="" coords="5,95,164,121"/>
-<area shape="rect" id="node3" href="$structnfs4__pnfs__ds.html" title="nfs4_pnfs_ds" alt="" coords="35,5,135,32"/>
-<area shape="rect" id="node4" href="$structpnfs__layout__segment.html" title="pnfs_layout_segment" alt="" coords="189,95,335,121"/>
-</map>

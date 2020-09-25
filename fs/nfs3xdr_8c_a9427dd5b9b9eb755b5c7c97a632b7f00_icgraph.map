@@ -1,5 +1,0 @@
-<map id="decode_writeverf3" name="decode_writeverf3">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a56a403c50a1b293cffffbed0789d955f" title="decode_write3resok" alt="" coords="199,5,338,32"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#a3fdbd69abc7b49e25c0ee8b1ac40ba1d" title="nfs3_xdr_dec_commit3res" alt="" coords="181,56,356,83"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ad21732d662699c26a412743a72c57954" title="nfs3_xdr_dec_write3res" alt="" coords="404,5,564,32"/>
-</map>

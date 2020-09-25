@@ -1,6 +1,0 @@
-<map id="_remove_lock" name="_remove_lock">
-<area shape="rect" id="node2" href="$dlm_2lock_8c.html#aa3174650640ace95f6ab28af1d1e328d" title="del_lkb" alt="" coords="156,5,219,32"/>
-<area shape="rect" id="node3" href="$dlm_2lock_8c.html#a0a3373645b905e4e06bc73273882c0c9" title="unhold_lkb" alt="" coords="267,31,351,57"/>
-<area shape="rect" id="node4" href="$dlm_2lock_8c.html#a8daaef8aa995c68981b37b44533dfe92" title="kill_lkb" alt="" coords="399,5,461,32"/>
-<area shape="rect" id="node5" href="$dlm_2lock_8c.html#afd8912eb4b4260a164ee38de91dd9d51" title="dlm_print_lkb" alt="" coords="509,31,608,57"/>
-</map>

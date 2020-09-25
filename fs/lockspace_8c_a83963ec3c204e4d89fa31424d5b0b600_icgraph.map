@@ -1,9 +1,0 @@
-<map id="new_lockspace" name="new_lockspace">
-<area shape="rect" id="node2" href="$lockspace_8c.html#a1c7ae17536c2eb523b3adc588b4d7c38" title="dlm_new_lockspace" alt="" coords="165,81,305,108"/>
-<area shape="rect" id="node3" href="$dlm_2main_8c.html#af3c0ca4f1349a431a67422c8791d6f1e" title="exit_dlm" alt="" coords="403,5,473,32"/>
-<area shape="rect" id="node4" href="$user_8c.html#a038e8ed4ae320e5928f71fcc5eab6ff3" title="device_create_lockspace" alt="" coords="353,56,523,83"/>
-<area shape="rect" id="node7" href="$lock__dlm_8c.html#af027444e33e5b6d21d8517d8f56fcdd4" title="gdlm_mount" alt="" coords="391,107,485,133"/>
-<area shape="rect" id="node8" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="365,157,511,184"/>
-<area shape="rect" id="node5" href="$user_8c.html#a35157d114972783a070dde077ecd66d0" title="device_write" alt="" coords="571,56,665,83"/>
-<area shape="rect" id="node6" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="713,56,861,83"/>
-</map>

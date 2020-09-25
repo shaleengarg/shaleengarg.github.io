@@ -1,9 +1,0 @@
-<map id="v9fs_cache_inode_flush_cookie" name="v9fs_cache_inode_flush_cookie">
-<area shape="rect" id="node2" href="$9p_2cache_8c.html#a4894f3ea8737ff0cffd73c11f33c85ff" title="v9fs_cache_inode_set\l_cookie" alt="" coords="216,49,368,90"/>
-<area shape="rect" id="node3" href="$vfs__file_8c.html#a3c0b1e13f86067933e01defb959a0f3c" title="v9fs_file_open" alt="" coords="453,5,560,32"/>
-<area shape="rect" id="node4" href="$vfs__inode_8c.html#a60f9d7b10b46c2b28da2920cbf748dbb" title="v9fs_vfs_atomic_open" alt="" coords="430,56,583,83"/>
-<area shape="rect" id="node8" href="$vfs__inode__dotl_8c.html#adb047c18af0fb75512499b964e272053" title="v9fs_vfs_atomic_open_dotl" alt="" coords="416,107,597,133"/>
-<area shape="rect" id="node5" href="$vfs__inode_8c.html#a4e8c2d44da17a3563e72ae54056cab66" title="v9fs_refresh_inode" alt="" coords="645,56,777,83"/>
-<area shape="rect" id="node6" href="$vfs__dentry_8c.html#a3d403da144308713ce6cd74624599e7d" title="v9fs_lookup_revalidate" alt="" coords="825,5,980,32"/>
-<area shape="rect" id="node7" href="$vfs__inode_8c.html#a33ccbe1c11b8be929086b2690c7c646a" title="v9fs_vfs_link" alt="" coords="853,56,952,83"/>
-</map>

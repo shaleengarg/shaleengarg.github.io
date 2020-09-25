@@ -1,9 +1,0 @@
-<map id="ocfs2_reflink_xattr_block" name="ocfs2_reflink_xattr_block">
-<area shape="rect" id="node2" href="$ocfs2_2xattr_8c.html#acc9e393e955b0070ea8c15ad308ff91a" title="ocfs2_reflink_xattr\l_in_block" alt="" coords="183,22,312,63"/>
-<area shape="rect" id="node3" href="$ocfs2_2xattr_8h.html#ad9ca1e7e3135555466255da0faf0838e" title="ocfs2_reflink_xattrs" alt="" coords="360,29,496,56"/>
-<area shape="rect" id="node4" href="$refcounttree_8c.html#aff36b539227d81e01b41b7e4bc340a19" title="__ocfs2_reflink" alt="" coords="544,29,655,56"/>
-<area shape="rect" id="node5" href="$refcounttree_8c.html#a101167830b0fff3f5d3811f8d17eafb3" title="ocfs2_reflink" alt="" coords="703,29,799,56"/>
-<area shape="rect" id="node6" href="$refcounttree_8c.html#a361ae2a79adeb5fe8a05c925e48b2c1a" title="ocfs2_vfs_reflink" alt="" coords="847,29,968,56"/>
-<area shape="rect" id="node7" href="$refcounttree_8h.html#aea81895d4cf45213d159bb7062179172" title="ocfs2_reflink_ioctl" alt="" coords="1016,29,1143,56"/>
-<area shape="rect" id="node8" href="$ocfs2_2ioctl_8h.html#a0d3e986b070b7d2532c25ef751dc0aee" title="ocfs2_ioctl" alt="" coords="1191,29,1276,56"/>
-</map>

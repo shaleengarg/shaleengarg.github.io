@@ -1,8 +1,0 @@
-<map id="xfs_ag_resv_critical" name="xfs_ag_resv_critical">
-<area shape="rect" id="node2" href="$xfs__reflink_8c.html#aca80e1df7800a59910bbd2b6f5b265af" title="xfs_reflink_ag_has\l_free_space" alt="" coords="192,23,323,65"/>
-<area shape="rect" id="node3" href="$xfs__reflink_8c.html#a1c7a28b8814e728db2cf35b02f14f1f9" title="xfs_reflink_remap_extent" alt="" coords="371,31,539,57"/>
-<area shape="rect" id="node4" href="$xfs__reflink_8c.html#a676b5479c830c4f7886f5bb9e6e6b6ea" title="xfs_reflink_remap_blocks" alt="" coords="587,31,757,57"/>
-<area shape="rect" id="node5" href="$xfs__reflink_8h.html#a693f178d32a07921a528160ac2f94d1e" title="xfs_reflink_remap_range" alt="" coords="805,31,969,57"/>
-<area shape="rect" id="node6" href="$xfs__file_8c.html#a777e597798120a67292187c95056dd57" title="xfs_file_clone_range" alt="" coords="1023,5,1164,32"/>
-<area shape="rect" id="node7" href="$xfs__file_8c.html#a47173f58ab762ace727aab3d46afcf7b" title="xfs_file_dedupe_range" alt="" coords="1017,56,1169,83"/>
-</map>

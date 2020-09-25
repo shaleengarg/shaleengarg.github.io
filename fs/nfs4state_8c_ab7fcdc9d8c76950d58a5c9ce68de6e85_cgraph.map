@@ -1,7 +1,0 @@
-<map id="nfs4_get_lock_state" name="nfs4_get_lock_state">
-<area shape="rect" id="node2" href="$nfs4state_8c.html#a40d9d441cfde0c789347b439b57d547f" title="__nfs4_find_lock_state" alt="" coords="192,5,348,32"/>
-<area shape="rect" id="node3" href="$nfs4state_8c.html#ae87b3488eef3497ce00a656be7b2fcfc" title="nfs4_alloc_lock_state" alt="" coords="196,56,344,83"/>
-<area shape="rect" id="node5" href="$nfs4state_8c.html#a189518d59bbfc6de8a69bd38273f211b" title="nfs4_free_lock_state" alt="" coords="199,108,341,135"/>
-<area shape="rect" id="node4" href="$nfs4state_8c.html#afdeb16a8ca2ac4f4370a596206d45a75" title="nfs4_init_seqid_counter" alt="" coords="396,53,555,80"/>
-<area shape="rect" id="node6" href="$nfs4state_8c.html#a44ccf42f70dcbfd211125cf839bd75cd" title="nfs4_destroy_seqid\l_counter" alt="" coords="408,105,543,146"/>
-</map>

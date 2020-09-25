@@ -1,5 +1,0 @@
-<map id="cifs_readpage_from_fscache" name="cifs_readpage_from_fscache">
-<area shape="rect" id="node2" href="$cifs_2file_8c.html#a822fe3c89031c5881301d979f1a81a4d" title="cifs_readpage_worker" alt="" coords="189,31,339,57"/>
-<area shape="rect" id="node3" href="$cifs_2file_8c.html#aca6d27767194410038bb208cd30b1707" title="cifs_readpage" alt="" coords="393,5,496,32"/>
-<area shape="rect" id="node4" href="$cifs_2file_8c.html#a00b35c4de37a69a7cf7e85f49f0bd935" title="cifs_write_begin" alt="" coords="387,56,503,83"/>
-</map>

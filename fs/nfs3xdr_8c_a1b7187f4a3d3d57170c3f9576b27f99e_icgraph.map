@@ -1,5 +1,0 @@
-<map id="encode_specdata3" name="encode_specdata3">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a579eccedcae39ff9e4847961157240bc" title="encode_devicedata3" alt="" coords="184,5,325,32"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#a573f97842a6ab41a277a74b2ebd780be" title="encode_mknoddata3" alt="" coords="373,5,516,32"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#a1f0ad1b9e1368667af10808e65b5faf3" title="nfs3_xdr_enc_mknod3args" alt="" coords="564,5,743,32"/>
-</map>

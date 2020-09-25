@@ -1,6 +1,0 @@
-<map id="FANOTIFY_E" name="FANOTIFY_E">
-<area shape="rect" id="node2" href="$fanotify_8c.html#a6430cba88db47b80ebb7c1aafe7fd091" title="should_merge" alt="" coords="173,5,275,32"/>
-<area shape="rect" id="node5" href="$fanotify_8c.html#a599c673e8204cfe91a458dd592126f1c" title="fanotify_free_event" alt="" coords="157,56,291,83"/>
-<area shape="rect" id="node3" href="$fanotify_8c.html#a402119517cb1f56326d204e5b8c042b7" title="fanotify_merge" alt="" coords="339,5,447,32"/>
-<area shape="rect" id="node4" href="$fanotify_8c.html#a16339419ff08bdf451c6b9f8995e50e9" title="fanotify_handle_event" alt="" coords="495,5,644,32"/>
-</map>

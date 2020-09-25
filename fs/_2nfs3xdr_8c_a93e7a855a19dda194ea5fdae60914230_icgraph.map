@@ -1,9 +1,0 @@
-<map id="decode_filename" name="decode_filename">
-<area shape="rect" id="node2" href="$xdr3_8h.html#a0adf9d33ad186929eea4d19a6ff70f7e" title="nfs3svc_decode_diropargs" alt="" coords="182,5,359,32"/>
-<area shape="rect" id="node3" href="$xdr3_8h.html#a0db192d62d99af1f70af73c1843abf87" title="nfs3svc_decode_createargs" alt="" coords="178,56,363,83"/>
-<area shape="rect" id="node4" href="$xdr3_8h.html#adeae464333e615ff782ee35485e1518a" title="nfs3svc_decode_mkdirargs" alt="" coords="180,107,361,133"/>
-<area shape="rect" id="node5" href="$xdr3_8h.html#a5fb47589218ee52279dd25d1c751e70e" title="nfs3svc_decode_symlinkargs" alt="" coords="173,157,368,184"/>
-<area shape="rect" id="node6" href="$xdr3_8h.html#ad282f3a1d643407b290858c7f84c94ab" title="nfs3svc_decode_mknodargs" alt="" coords="177,208,365,235"/>
-<area shape="rect" id="node7" href="$xdr3_8h.html#aacd1ae2160c1dffac90b725064b866bb" title="nfs3svc_decode_renameargs" alt="" coords="175,259,367,285"/>
-<area shape="rect" id="node8" href="$xdr3_8h.html#a679f3a55e7b7485d620ee0abbeeceac3" title="nfs3svc_decode_linkargs" alt="" coords="186,309,355,336"/>
-</map>

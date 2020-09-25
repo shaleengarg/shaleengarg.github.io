@@ -1,8 +1,0 @@
-<map id="nfs_parse_mount_options" name="nfs_parse_mount_options">
-<area shape="rect" id="node2" href="$nfs_2super_8c.html#a521e5ce77001dbe0d6ded1f8e68a579c" title="nfs_get_option_ul" alt="" coords="441,7,565,34"/>
-<area shape="rect" id="node3" href="$nfs_2super_8c.html#a92821bf9573fc09fb35e0a0e3559f214" title="nfs_get_option_ul_bound" alt="" coords="224,32,391,59"/>
-<area shape="rect" id="node4" href="$nfs_2super_8c.html#acd40f4cf0d1dc84d476fc5816e306106" title="nfs_parse_version_string" alt="" coords="224,83,391,110"/>
-<area shape="rect" id="node5" href="$nfs_2super_8c.html#a65e4c7a335bf78855ce3f104dfc3b646" title="nfs_parse_security\l_flavors" alt="" coords="241,134,373,176"/>
-<area shape="rect" id="node7" href="$nfs_2super_8c.html#a561d14b5d80ef9d146c7ed87e2383c3d" title="nfs_get_option_str" alt="" coords="243,200,372,227"/>
-<area shape="rect" id="node6" href="$nfs_2super_8c.html#af58602a0c602fb571b398fa3e195f9ac" title="nfs_auth_info_add" alt="" coords="439,142,567,168"/>
-</map>

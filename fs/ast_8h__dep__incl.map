@@ -1,8 +1,0 @@
-<map id="dlm/ast.h" name="dlm/ast.h">
-<area shape="rect" id="node2" href="$ast_8c.html" title="dlm/ast.c" alt="" coords="5,80,81,107"/>
-<area shape="rect" id="node3" href="$dlm_2lock_8c.html" title="dlm/lock.c" alt="" coords="106,80,189,107"/>
-<area shape="rect" id="node4" href="$lockspace_8c.html" title="dlm/lockspace.c" alt="" coords="213,80,330,107"/>
-<area shape="rect" id="node5" href="$recover_8c.html" title="dlm/recover.c" alt="" coords="354,80,455,107"/>
-<area shape="rect" id="node6" href="$recoverd_8c.html" title="dlm/recoverd.c" alt="" coords="480,80,588,107"/>
-<area shape="rect" id="node7" href="$user_8c.html" title="dlm/user.c" alt="" coords="613,80,695,107"/>
-</map>

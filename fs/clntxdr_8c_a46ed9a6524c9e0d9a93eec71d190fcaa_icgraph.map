@@ -1,9 +1,0 @@
-<map id="print_overflow_msg" name="print_overflow_msg">
-<area shape="rect" id="node2" href="$clntxdr_8c.html#ad7c985538f8b688efcf3c18b91e4a404" title="decode_netobj" alt="" coords="195,107,302,133"/>
-<area shape="rect" id="node3" href="$clntxdr_8c.html#a76d944437aff0e8814ecfdc09727f4b5" title="decode_nlm_holder" alt="" coords="357,132,492,159"/>
-<area shape="rect" id="node6" href="$clntxdr_8c.html#a8ae664ac429d03ed3c2a968674f89760" title="decode_cookie" alt="" coords="194,5,303,32"/>
-<area shape="rect" id="node8" href="$clntxdr_8c.html#a4e5fa3f25051088712357f24e87b63df" title="decode_nlm_stat" alt="" coords="188,56,309,83"/>
-<area shape="rect" id="node4" href="$clntxdr_8c.html#a06ddb455f604b1bb101f134d895da692" title="decode_nlm_testrply" alt="" coords="540,81,683,108"/>
-<area shape="rect" id="node5" href="$clntxdr_8c.html#aade66188526151fef13addab93e87102" title="nlm_xdr_dec_testres" alt="" coords="731,31,873,57"/>
-<area shape="rect" id="node7" href="$clntxdr_8c.html#a1442ffe00bbfa7504191326e1f0c0efd" title="nlm_xdr_dec_res" alt="" coords="364,31,485,57"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="nfs_pgio_release" name="nfs_pgio_release">
-<area shape="rect" id="node2" href="$pagelist_8c.html#a8a6e2181123766a4e3bfc670aa10976d" title="nfs_destroy_nfspagecache" alt="" coords="173,107,352,133"/>
-<area shape="rect" id="node3" href="$nfs_2inode_8c.html#a9fd83ddb0596d34260239182288656bf" title="init_nfs_fs" alt="" coords="580,107,663,133"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a3c5c0616e9bd80645b86dbaaee570220" title="exit_nfs_fs" alt="" coords="725,107,812,133"/>
-<area shape="rect" id="node5" href="$nfs_2internal_8h.html#af88aebff7f7231ddc69f3c120bbd0c0b" title="nfs_fs_proc_exit" alt="" coords="400,56,519,83"/>
-<area shape="rect" id="node6" href="$nfs_2internal_8h.html#af66937214a851f3a5a82b83a4707c795" title="nfs_clients_init" alt="" coords="567,5,676,32"/>
-<area shape="rect" id="node7" href="$nfs_2inode_8c.html#a10f531049a981eae2ae80866bec66b7d" title="nfs_net_init" alt="" coords="724,5,813,32"/>
-</map>

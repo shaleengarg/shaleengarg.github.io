@@ -1,7 +1,0 @@
-<map id="befs_check_inode" name="befs_check_inode">
-<area shape="rect" id="node2" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="185,5,278,32"/>
-<area shape="rect" id="node4" href="$befs_2endian_8h.html#a13e7cd2d34be798771b754b84053c63d" title="fsrun_to_cpu" alt="" coords="183,56,280,83"/>
-<area shape="rect" id="node5" href="$befs_2debug_8c.html#a9baf4105a9869a847e645272ae9fdc1a" title="befs_error" alt="" coords="191,107,271,133"/>
-<area shape="rect" id="node6" href="$befs_8h.html#a2b4a80c2e280b28d9099caca37f79de7" title="iaddr2blockno" alt="" coords="180,157,283,184"/>
-<area shape="rect" id="node3" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="331,56,413,83"/>
-</map>

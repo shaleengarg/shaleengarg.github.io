@@ -1,9 +1,0 @@
-<map id="o2nm_node_num_store" name="o2nm_node_num_store">
-<area shape="rect" id="node2" href="$nodemanager_8c.html#ac24fe6bf33132882bc799ae5afc209ff" title="to_o2nm_node" alt="" coords="251,5,357,32"/>
-<area shape="rect" id="node3" href="$nodemanager_8c.html#aff2b5b89a41bb2fe215e36a49ebca259" title="o2nm_lock_subsystem" alt="" coords="226,56,382,83"/>
-<area shape="rect" id="node4" href="$nodemanager_8c.html#a08fe66d291f37037c7a038d2bdd52f2d" title="to_o2nm_cluster_from_node" alt="" coords="211,107,397,133"/>
-<area shape="rect" id="node6" href="$nodemanager_8c.html#a0ad306883dea24c63c0701fb3b47f142" title="o2nm_unlock_subsystem" alt="" coords="219,157,389,184"/>
-<area shape="rect" id="node7" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="277,208,331,235"/>
-<area shape="rect" id="node5" href="$nodemanager_8c.html#a6bb25185734998a9302cd84b228fcc7a" title="to_o2nm_cluster" alt="" coords="445,107,564,133"/>
-<area shape="rect" id="node8" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="445,208,564,235"/>
-</map>

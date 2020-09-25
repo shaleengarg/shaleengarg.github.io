@@ -1,8 +1,0 @@
-<map id="update_device_state" name="update_device_state">
-<area shape="rect" id="node2" href="$data_8c.html#aa2873a469167cd107b05c77fc98d9644" title="f2fs_target_device\l_index" alt="" coords="196,5,325,47"/>
-<area shape="rect" id="node3" href="$f2fs_2checkpoint_8c.html#ac23a60317281fdb41392f21ba094b8bc" title="set_dirty_device" alt="" coords="202,71,319,98"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a9487b62fcb011b42114ddb9ff9b6bc74" title="f2fs_set_bit" alt="" coords="575,122,665,149"/>
-<area shape="rect" id="node7" href="$f2fs_8h.html#a8519ed4a7ad303d626d8724becfba5e1" title="f2fs_test_bit" alt="" coords="213,173,308,199"/>
-<area shape="rect" id="node4" href="$f2fs_2checkpoint_8c.html#a536cf74484dd445cce139167aaefde8d" title="__add_ino_entry" alt="" coords="373,71,491,98"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="539,71,701,98"/>
-</map>

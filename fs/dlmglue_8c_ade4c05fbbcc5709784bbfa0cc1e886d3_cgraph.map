@@ -1,7 +1,0 @@
-<map id="ocfs2_dlm_debug_open" name="ocfs2_dlm_debug_open">
-<area shape="rect" id="node2" href="$seq__file_8c.html#aa3460f915ba4e468b62c9dc00238b042" title="__seq_open_private" alt="" coords="235,31,373,57"/>
-<area shape="rect" id="node5" href="$dlmglue_8c.html#a3adc9a87509b923501f2b2a27d0d4ec4" title="ocfs2_get_dlm_debug" alt="" coords="229,81,379,108"/>
-<area shape="rect" id="node6" href="$dlmglue_8c.html#a33450712e2c6787aa29ff06de1003c82" title="ocfs2_add_lockres_tracking" alt="" coords="212,132,396,159"/>
-<area shape="rect" id="node3" href="$seq__file_8c.html#ab724d0b6f14722c374b1933b66c913d1" title="seq_open" alt="" coords="444,5,523,32"/>
-<area shape="rect" id="node4" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="571,31,709,57"/>
-</map>

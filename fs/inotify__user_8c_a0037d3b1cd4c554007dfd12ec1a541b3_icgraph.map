@@ -1,6 +1,0 @@
-<map id="round_event_name_len" name="round_event_name_len">
-<area shape="rect" id="node2" href="$inotify__user_8c.html#aac96e9a6eb245c146f41a132e101ecde" title="get_one_event" alt="" coords="225,5,332,32"/>
-<area shape="rect" id="node4" href="$inotify__user_8c.html#a3f52848c70f6158bb1d5c04b1b8c99bc" title="copy_event_to_user" alt="" coords="209,56,348,83"/>
-<area shape="rect" id="node5" href="$inotify__user_8c.html#a2f82aad299ef7c2843926eb072e6a77f" title="inotify_ioctl" alt="" coords="235,107,323,133"/>
-<area shape="rect" id="node3" href="$inotify__user_8c.html#a7d4e32b66feddb827ec614af77977492" title="inotify_read" alt="" coords="396,31,485,57"/>
-</map>

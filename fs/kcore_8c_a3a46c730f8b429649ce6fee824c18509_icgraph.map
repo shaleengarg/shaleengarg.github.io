@@ -1,7 +1,0 @@
-<map id="get_sparsemem_vmemmap_info" name="get_sparsemem_vmemmap_info">
-<area shape="rect" id="node2" href="$kcore_8c.html#ad77784326ceb006bd4ba7d2601380909" title="__kcore_update_ram" alt="" coords="264,31,407,57"/>
-<area shape="rect" id="node6" href="$kcore_8c.html#a883bbd2fb9f7edd14c485ab1ea46bb26" title="kclist_add_private" alt="" coords="272,81,399,108"/>
-<area shape="rect" id="node3" href="$kcore_8c.html#a95945c011d8e6ab0149fabf651826dc6" title="kcore_update_ram" alt="" coords="455,31,584,57"/>
-<area shape="rect" id="node4" href="$kcore_8c.html#a949e9748b4214f71ac27e3226767ef62" title="open_kcore" alt="" coords="643,5,732,32"/>
-<area shape="rect" id="node5" href="$kcore_8c.html#a0c8f592df2f895e8732d81530aad6944" title="proc_kcore_init" alt="" coords="632,56,743,83"/>
-</map>

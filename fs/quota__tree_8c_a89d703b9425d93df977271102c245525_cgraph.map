@@ -1,7 +1,0 @@
-<map id="remove_free_dqentry" name="remove_free_dqentry">
-<area shape="rect" id="node2" href="$quota__tree_8c.html#adfe8ab3a55ba7592c1ecad6ad1d1c0e8" title="getdqbuf" alt="" coords="217,5,289,32"/>
-<area shape="rect" id="node3" href="$quota__tree_8c.html#a9d261b8d59ca5bbd6f4abade5dbb1318" title="read_blk" alt="" coords="217,56,288,83"/>
-<area shape="rect" id="node4" href="$quota__tree_8c.html#ac2cfe67ce5f4f7773e00855115d87e34" title="write_blk" alt="" coords="215,107,290,133"/>
-<area shape="rect" id="node5" href="$dquot_8c.html#a292204c7d5d1aa2df76f819850269ef5" title="mark_info_dirty" alt="" coords="197,157,308,184"/>
-<area shape="rect" id="node6" href="$dquot_8c.html#aa55d5209dd35fd9f5ae8aa87141918ee" title="EXPORT_SYMBOL" alt="" coords="356,157,495,184"/>
-</map>

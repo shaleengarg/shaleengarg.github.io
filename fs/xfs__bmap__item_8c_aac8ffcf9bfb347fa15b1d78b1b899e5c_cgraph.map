@@ -1,6 +1,0 @@
-<map id="xfs_bud_item_format" name="xfs_bud_item_format">
-<area shape="rect" id="node2" href="$xfs__bmap__item_8c.html#a573f368764b6fa89b9352f9de511194b" title="BUD_ITEM" alt="" coords="211,5,302,32"/>
-<area shape="rect" id="node3" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="197,56,316,83"/>
-<area shape="rect" id="node4" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="364,31,499,57"/>
-<area shape="rect" id="node5" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="370,81,493,108"/>
-</map>

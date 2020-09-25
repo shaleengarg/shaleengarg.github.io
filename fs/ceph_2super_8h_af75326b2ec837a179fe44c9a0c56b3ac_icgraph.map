@@ -1,5 +1,0 @@
-<map id="ceph_dir_is_complete_ordered" name="ceph_dir_is_complete_ordered">
-<area shape="rect" id="node2" href="$ceph_2dir_8c.html#a89cc32095ae2dedeb8caa31ff9561a4b" title="__dcache_find_get_entry" alt="" coords="201,13,368,39"/>
-<area shape="rect" id="node3" href="$ceph_2dir_8c.html#aa94c3969cd843b05ffbe990a4e678e5c" title="__dcache_readdir" alt="" coords="416,13,540,39"/>
-<area shape="rect" id="node4" href="$ceph_2dir_8c.html#a3cb51a307540663ec2faab7a20d2c67a" title="ceph_readdir" alt="" coords="588,13,684,39"/>
-</map>

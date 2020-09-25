@@ -1,6 +1,0 @@
-<map id="xdr_encode_empty_array" name="xdr_encode_empty_array">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#a3f22b7a38a0a628ca799ed757e23073d" title="encode_cb_compound4args" alt="" coords="221,5,405,32"/>
-<area shape="rect" id="node5" href="$nfs4callback_8c.html#a80b153469e808a38b35816d2e7bf5bc9" title="encode_cb_sequence4args" alt="" coords="223,56,403,83"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#a03db72f594d31435f834d65397fa439f" title="nfs4_xdr_enc_cb_recall" alt="" coords="453,5,612,32"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#adb8914dc67ee5f99d67be5384ac84689" title="nfs4_xdr_dec_cb_recall" alt="" coords="453,56,612,83"/>
-</map>

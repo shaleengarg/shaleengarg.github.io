@@ -1,6 +1,0 @@
-<map id="iattr_to_fattr" name="iattr_to_fattr">
-<area shape="rect" id="node2" href="$fuse__i_8h.html#a2421089b713731fad804d79bae4e6070" title="fuse_do_setattr" alt="" coords="145,31,257,57"/>
-<area shape="rect" id="node3" href="$fuse_2dir_8c.html#a3796a031315308b1075278ee526c752a" title="fuse_setattr" alt="" coords="321,5,412,32"/>
-<area shape="rect" id="node4" href="$fuse_2file_8c.html#a51348ab3b342b0c6dd051341f5940f81" title="fuse_do_truncate" alt="" coords="305,56,428,83"/>
-<area shape="rect" id="node5" href="$fuse_2file_8c.html#accac2bad94ddb8570bf6ca5b6c43f9ef" title="fuse_direct_IO" alt="" coords="476,56,583,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="crypt_extent" name="crypt_extent">
-<area shape="rect" id="node2" href="$ecryptfs_2crypto_8c.html#aa4738f6aeb7582859b83cdbc08285349" title="ecryptfs_derive_iv" alt="" coords="148,31,276,57"/>
-<area shape="rect" id="node6" href="$ecryptfs_2crypto_8c.html#a5e8c886dee08f09877d14958da5378ce" title="crypt_scatterlist" alt="" coords="155,81,269,108"/>
-<area shape="rect" id="node3" href="$ecryptfs_2debug_8c.html#a045879c3d789610d64a216956beeaf09" title="ecryptfs_dump_hex" alt="" coords="336,56,472,83"/>
-<area shape="rect" id="node4" href="$ecryptfs_2crypto_8c.html#afe9ebb3f8af0e14969d856f179bccc8d" title="ecryptfs_calculate_md5" alt="" coords="324,5,484,32"/>
-<area shape="rect" id="node5" href="$ecryptfs_2crypto_8c.html#a726904aa633b92bfbeed8630f90d532d" title="ecryptfs_hash_digest" alt="" coords="532,5,679,32"/>
-<area shape="rect" id="node7" href="$ecryptfs_2crypto_8c.html#a4ab616c4970b99d534139e9a1a08324a" title="extent_crypt_complete" alt="" coords="327,107,481,133"/>
-</map>

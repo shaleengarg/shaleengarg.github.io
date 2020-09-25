@@ -1,9 +1,0 @@
-<map id="btrfs_printable_features" name="btrfs_printable_features">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a30840dbc92ab1ec99a82f7f80dc11891" title="check_feature_bits" alt="" coords="229,5,361,32"/>
-<area shape="rect" id="node3" href="$btrfs_2sysfs_8h.html#aa5b98b993f71dec796336bf6d29cae29" title="attr_to_btrfs_feature_attr" alt="" coords="212,56,377,83"/>
-<area shape="rect" id="node4" href="$btrfs_2sysfs_8c.html#a99fe06e499ee1e6af431b0d47404b2fc" title="btrfs_feature_visible" alt="" coords="425,31,564,57"/>
-<area shape="rect" id="node5" href="$btrfs_2sysfs_8c.html#a875e23cf1255618eb489a993b720b76a" title="init_feature_attrs" alt="" coords="435,81,554,108"/>
-<area shape="rect" id="node6" href="$btrfs_2sysfs_8c.html#a3ecc3a370ea58d178626809928b18ec3" title="btrfs_init_sysfs" alt="" coords="612,81,723,108"/>
-<area shape="rect" id="node7" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="771,81,861,108"/>
-<area shape="rect" id="node8" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="909,81,1004,108"/>
-</map>

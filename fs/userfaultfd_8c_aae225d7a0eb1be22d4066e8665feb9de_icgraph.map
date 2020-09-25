@@ -1,7 +1,0 @@
-<map id="find_userfault_in" name="find_userfault_in">
-<area shape="rect" id="node2" href="$userfaultfd_8c.html#ab25c481fb2793ae901c56cc8cb82650e" title="find_userfault" alt="" coords="183,5,283,32"/>
-<area shape="rect" id="node6" href="$userfaultfd_8c.html#ac904fd18c18d04d2323396d8ad28f4c0" title="find_userfault_evt" alt="" coords="171,56,296,83"/>
-<area shape="rect" id="node3" href="$userfaultfd_8c.html#a93163998cdc0d2e85518391fc7fd56a9" title="userfaultfd_ctx_read" alt="" coords="344,31,484,57"/>
-<area shape="rect" id="node4" href="$userfaultfd_8c.html#a9aea150380b8eaa3186058be040a370a" title="userfaultfd_read" alt="" coords="532,31,647,57"/>
-<area shape="rect" id="node5" href="$userfaultfd_8c.html#a5f6bd2d87ee717b7f3853b334775cfa6" title="userfaultfd_ioctl" alt="" coords="695,31,809,57"/>
-</map>

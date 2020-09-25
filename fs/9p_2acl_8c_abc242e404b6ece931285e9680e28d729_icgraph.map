@@ -1,6 +1,0 @@
-<map id="v9fs_put_acl" name="v9fs_put_acl">
-<area shape="rect" id="node2" href="$vfs__inode__dotl_8c.html#adb047c18af0fb75512499b964e272053" title="v9fs_vfs_atomic_open_dotl" alt="" coords="149,5,331,32"/>
-<area shape="rect" id="node3" href="$vfs__inode__dotl_8c.html#a1551e426c154bcda591527db334199f5" title="v9fs_vfs_mkdir_dotl" alt="" coords="171,56,309,83"/>
-<area shape="rect" id="node4" href="$vfs__inode__dotl_8c.html#a3273638b8655020cb91492e42198807e" title="v9fs_vfs_mknod_dotl" alt="" coords="167,107,313,133"/>
-<area shape="rect" id="node5" href="$vfs__inode__dotl_8c.html#a106ae819d705877e73c81ff990c9a1f1" title="v9fs_vfs_create_dotl" alt="" coords="379,107,521,133"/>
-</map>

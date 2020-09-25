@@ -1,5 +1,0 @@
-<map id="try_read_node" name="try_read_node">
-<area shape="rect" id="node2" href="$ubifs_2debug_8c.html#a1bb9ed2a2e382da8b419ce5d2a772b81" title="dbg_ntype" alt="" coords="169,5,252,32"/>
-<area shape="rect" id="node3" href="$ubifs_2io_8c.html#ab6a2a3c4a79d6d4c52350540437d3cb3" title="ubifs_leb_read" alt="" coords="157,56,264,83"/>
-<area shape="rect" id="node4" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="312,81,384,108"/>
-</map>

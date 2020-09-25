@@ -1,9 +1,0 @@
-<map id="recv_done" name="recv_done">
-<area shape="rect" id="node2" href="$smbdirect_8c.html#a01fb5f06ab90ffef32007eda55a54f1b" title="smbd_disconnect_rdma\l_connection" alt="" coords="149,5,309,47"/>
-<area shape="rect" id="node3" href="$smbdirect_8c.html#aa58f91c553c57a7fb6829b92b297594a" title="dump_smbd_negotiate_resp" alt="" coords="136,71,321,98"/>
-<area shape="rect" id="node4" href="$smbdirect_8c.html#acb0d5f5e37506f77fd783e3072c8f106" title="smbd_response_payload" alt="" coords="369,151,536,178"/>
-<area shape="rect" id="node5" href="$smbdirect_8c.html#a39e76344626cd4d85dd62758fb219a8f" title="process_negotiation\l_response" alt="" coords="159,173,298,215"/>
-<area shape="rect" id="node6" href="$smbdirect_8c.html#a7f40e5cacabe0cacfa81eda0fb7979f4" title="enqueue_reassembly" alt="" coords="156,239,301,266"/>
-<area shape="rect" id="node7" href="$smbdirect_8c.html#a042a6831ceac5fa852a91aae1173fa4c" title="put_empty_packet" alt="" coords="164,290,293,317"/>
-<area shape="rect" id="node8" href="$smbdirect_8c.html#ac2865064677aabc8e3435f63af13c644" title="put_receive_buffer" alt="" coords="164,341,293,367"/>
-</map>

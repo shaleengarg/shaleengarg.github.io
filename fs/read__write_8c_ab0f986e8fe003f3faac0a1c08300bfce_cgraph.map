@@ -1,8 +1,0 @@
-<map id="do_preadv" name="do_preadv">
-<area shape="rect" id="node2" href="$read__write_8c.html#a4b3ad7e105b6ed51d75a5a39cedb0f1e" title="vfs_readv" alt="" coords="136,56,215,83"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#aaa6a37f6c84e5d25832dd1a06ea1a774" title="do_iter_read" alt="" coords="263,56,356,83"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="425,5,531,32"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="407,56,549,83"/>
-<area shape="rect" id="node7" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="404,107,552,133"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="600,5,721,32"/>
-</map>

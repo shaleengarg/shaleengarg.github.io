@@ -1,8 +1,0 @@
-<map id="mnt_change_mountpoint" name="mnt_change_mountpoint">
-<area shape="rect" id="node2" href="$namespace_8c.html#a8ebc5db29f5c062c02103dd81726c5a1" title="attach_mnt" alt="" coords="229,56,316,83"/>
-<area shape="rect" id="node4" href="$namespace_8c.html#a6f4abf87f4f266868477f4308911c8e0" title="mnt_add_count" alt="" coords="564,81,675,108"/>
-<area shape="rect" id="node7" href="$namespace_8c.html#a1e4afd23428633502ff5d08a01b6f886" title="put_mountpoint" alt="" coords="217,157,328,184"/>
-<area shape="rect" id="node3" href="$namespace_8c.html#add4bf06df8d93dcc7bf5dc3ffd3a4f67" title="mnt_set_mountpoint" alt="" coords="376,56,516,83"/>
-<area shape="rect" id="node5" href="$namespace_8c.html#a1524171e056d354a94374626f2c52dd5" title="__attach_mnt" alt="" coords="395,5,497,32"/>
-<area shape="rect" id="node6" href="$namespace_8c.html#a512f7479be3deaff9f96119c68e879d0" title="m_hash" alt="" coords="585,5,653,32"/>
-</map>

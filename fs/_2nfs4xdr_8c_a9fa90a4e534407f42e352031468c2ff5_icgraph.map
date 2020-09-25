@@ -1,7 +1,0 @@
-<map id="encode_cinfo" name="encode_cinfo">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a7c4549f1602801fc02f4672b3497366a" title="nfsd4_encode_create" alt="" coords="155,5,302,32"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#ad2f111daa5664f437bf53fa9b9786415" title="nfsd4_encode_link" alt="" coords="163,56,294,83"/>
-<area shape="rect" id="node4" href="$_2nfs4xdr_8c.html#ae45d00bfa7b7a01bf09a5bb70881dc51" title="nfsd4_encode_open" alt="" coords="159,107,298,133"/>
-<area shape="rect" id="node5" href="$_2nfs4xdr_8c.html#a97d71f6fc74a322274d1e75d2e404166" title="nfsd4_encode_remove" alt="" coords="152,157,305,184"/>
-<area shape="rect" id="node6" href="$_2nfs4xdr_8c.html#a0cc09f9e50cb2b25c2325294d7587286" title="nfsd4_encode_rename" alt="" coords="152,208,305,235"/>
-</map>

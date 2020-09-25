@@ -1,7 +1,0 @@
-<map id="hfsplus_system_write_inode" name="hfsplus_system_write_inode">
-<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="417,5,527,32"/>
-<area shape="rect" id="node3" href="$hfsplus_2super_8c.html#a08564b5e3a168f5fd92260f24d0c44d3" title="hfsplus_mark_mdb_dirty" alt="" coords="204,56,368,83"/>
-<area shape="rect" id="node5" href="$hfsplus__fs_8h.html#ae1b70d5fb37e02e4d4377c16e701d89b" title="hfsplus_inode_write_fork" alt="" coords="203,107,369,133"/>
-<area shape="rect" id="node4" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="445,56,499,83"/>
-<area shape="rect" id="node6" href="$hfsplus__fs_8h.html#a871906844552b3b3ec070e1caaec9ed5" title="HFSPLUS_I" alt="" coords="425,107,519,133"/>
-</map>

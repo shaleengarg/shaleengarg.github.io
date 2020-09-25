@@ -1,4 +1,0 @@
-<map id="nfs4_cb_free_slot" name="nfs4_cb_free_slot">
-<area shape="rect" id="node2" href="$callback__xdr_8c.html#a9855c6b1291bd00d7d3bf065d8659ed7" title="encode_getattr_res" alt="" coords="179,5,312,32"/>
-<area shape="rect" id="node3" href="$callback__xdr_8c.html#acee5fa4f5a4e91e9f3588c29c80288b2" title="nfs4_callback_compound" alt="" coords="360,31,529,57"/>
-</map>

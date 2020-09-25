@@ -1,5 +1,0 @@
-<map id="prepare_open_request" name="prepare_open_request">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a5cfd03d4fd1754c43ab0a99fb09c479c" title="ceph_sb_to_client" alt="" coords="232,5,359,32"/>
-<area shape="rect" id="node3" href="$mds__client_8c.html#a1f4e3ccc5b0a05d39ed1a8b0febd0808" title="ceph_mdsc_create_request" alt="" coords="204,56,387,83"/>
-<area shape="rect" id="node4" href="$ceph_2file_8c.html#a9f82f336301713bedbd33671dc1d8bb1" title="ceph_flags_sys2wire" alt="" coords="223,107,367,133"/>
-</map>

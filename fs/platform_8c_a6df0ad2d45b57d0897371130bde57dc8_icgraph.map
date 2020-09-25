@@ -1,5 +1,0 @@
-<map id="pstore_choose_compression" name="pstore_choose_compression">
-<area shape="rect" id="node2" href="$pstore_2inode_8c.html#a1b45ee0400743bf884987176b43484de" title="init_pstore_fs" alt="" coords="272,5,372,32"/>
-<area shape="rect" id="node3" href="$pstore_2internal_8h.html#a0c00326359d012a4e0c21e5f163c3932" title="pstore_unregister_pmsg" alt="" coords="241,56,403,83"/>
-<area shape="rect" id="node4" href="$pstore_2internal_8h.html#aef7ae4f5a78ba3cb98d35908a45b0156" title="pstore_unregister_ftrace" alt="" coords="451,56,613,83"/>
-</map>

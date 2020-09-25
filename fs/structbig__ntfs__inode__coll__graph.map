@@ -1,7 +1,0 @@
-<map id="big_ntfs_inode" name="big_ntfs_inode">
-<area shape="rect" id="node2" href="$struct__ntfs__inode.html" title="_ntfs_inode" alt="" coords="63,200,152,227"/>
-<area shape="rect" id="node3" href="$structntfs__volume.html" title="ntfs_volume" alt="" coords="11,95,105,121"/>
-<area shape="rect" id="node4" href="$structsuper__block.html" title="super_block" alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node5" href="$structrunlist.html" title="runlist" alt="" coords="141,95,199,121"/>
-<area shape="rect" id="node6" href="$structrunlist__element.html" title="runlist_element" alt="" coords="121,5,232,32"/>
-</map>

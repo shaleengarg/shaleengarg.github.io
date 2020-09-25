@@ -1,7 +1,0 @@
-<map id="primaryVolDesc" name="primaryVolDesc">
-<area shape="rect" id="node2" href="$structtag.html" title="tag" alt="" coords="5,5,45,32"/>
-<area shape="rect" id="node3" href="$structcharspec.html" title="charspec" alt="" coords="73,5,148,32"/>
-<area shape="rect" id="node4" href="$structregid.html" title="regid" alt="" coords="229,5,280,32"/>
-<area shape="rect" id="node5" href="$structextent__ad.html" title="extent_ad" alt="" coords="305,5,383,32"/>
-<area shape="rect" id="node6" href="$structtimestamp.html" title="timestamp" alt="" coords="408,5,491,32"/>
-</map>

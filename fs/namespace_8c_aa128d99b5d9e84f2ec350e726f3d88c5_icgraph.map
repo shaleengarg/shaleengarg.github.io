@@ -1,5 +1,0 @@
-<map id="mark_mounts_for_expiry" name="mark_mounts_for_expiry">
-<area shape="rect" id="node2" href="$mntpt_8c.html#a26c8a6d42a400f9f89422e381fefe8bb" title="afs_mntpt_expiry_timed_out" alt="" coords="219,5,405,32"/>
-<area shape="rect" id="node3" href="$cifs__dfs__ref_8c.html#ad31107608999b92962e6ed801d7d6ad7" title="cifs_dfs_expire_automounts" alt="" coords="219,56,405,83"/>
-<area shape="rect" id="node4" href="$nfs_2namespace_8c.html#af2e0e20a387498e2cc7ae574c880b416" title="nfs_expire_automounts" alt="" coords="233,107,391,133"/>
-</map>

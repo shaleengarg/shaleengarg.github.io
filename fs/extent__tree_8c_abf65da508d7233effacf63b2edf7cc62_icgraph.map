@@ -1,8 +1,0 @@
-<map id="__ext_tree_lookup" name="__ext_tree_lookup">
-<area shape="rect" id="node2" href="$extent__tree_8c.html#ad5acbcf97898b66ee48ca114ef70e55b" title="ext_tree_lookup" alt="" coords="181,47,296,73"/>
-<area shape="rect" id="node3" href="$blocklayout_2blocklayout_8c.html#ad476a5e8de91c9b054212751ee6b1e21" title="bl_mark_devices_unavailable" alt="" coords="344,47,536,73"/>
-<area shape="rect" id="node5" href="$blocklayout_2blocklayout_8c.html#a0619ede503935b3ddcf512ea28fe362f" title="bl_read_pagelist" alt="" coords="745,9,861,36"/>
-<area shape="rect" id="node7" href="$blocklayout_2blocklayout_8c.html#ad33173ca191d852196fe8841079b9313" title="bl_write_pagelist" alt="" coords="744,85,863,112"/>
-<area shape="rect" id="node4" href="$blocklayout_2blocklayout_8c.html#a64dc6c73b1813daadf44c9d671ed10aa" title="bl_end_io_read" alt="" coords="585,21,695,48"/>
-<area shape="rect" id="node6" href="$blocklayout_2blocklayout_8c.html#a062e9eef39e97bd6741f6fe52056f68c" title="bl_end_io_write" alt="" coords="584,72,696,99"/>
-</map>

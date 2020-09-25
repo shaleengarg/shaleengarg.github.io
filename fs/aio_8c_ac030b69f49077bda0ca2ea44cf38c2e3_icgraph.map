@@ -1,8 +1,0 @@
-<map id="put_aio_ring_file" name="put_aio_ring_file">
-<area shape="rect" id="node2" href="$aio_8c.html#a60524b4e53710ef4b10ec4f55ed29216" title="aio_free_ring" alt="" coords="169,56,265,83"/>
-<area shape="rect" id="node3" href="$aio_8c.html#ab5d6cb239217c85e2135668104902ba7" title="aio_setup_ring" alt="" coords="313,5,420,32"/>
-<area shape="rect" id="node4" href="$aio_8c.html#a68a89ba1cf7746151ddca072e61d7a94" title="ioctx_alloc" alt="" coords="627,56,711,83"/>
-<area shape="rect" id="node6" href="$aio_8c.html#a79c0c0dd8db86a6dbcb2714259e8519e" title="free_ioctx" alt="" coords="327,107,406,133"/>
-<area shape="rect" id="node5" href="$aio_8c.html#a368cfdba5365e829032ccb392c5e91d5" title="SYSCALL_DEFINE2" alt="" coords="759,56,905,83"/>
-<area shape="rect" id="node7" href="$aio_8c.html#a58f5a9d39017a0dc15e722c46d1475f7" title="free_ioctx_reqs" alt="" coords="468,107,579,133"/>
-</map>

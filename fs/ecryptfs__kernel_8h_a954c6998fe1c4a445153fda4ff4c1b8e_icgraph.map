@@ -1,7 +1,0 @@
-<map id="ecryptfs_write_tag_70_packet" name="ecryptfs_write_tag_70_packet">
-<area shape="rect" id="node2" href="$ecryptfs_2crypto_8c.html#a7c08ddd3f800324ed36c5f9b4544c870" title="ecryptfs_encrypt_filename" alt="" coords="187,31,361,57"/>
-<area shape="rect" id="node6" href="$ecryptfs__kernel_8h.html#ac96ef599ae7878dc4c2459b1f2f3de4b" title="ecryptfs_wait_for_response" alt="" coords="183,81,365,108"/>
-<area shape="rect" id="node3" href="$ecryptfs__kernel_8h.html#aa0f5463cff0ed1050e3f754759add6d1" title="ecryptfs_encrypt_and\l_encode_filename" alt="" coords="413,23,560,65"/>
-<area shape="rect" id="node4" href="$ecryptfs_2inode_8c.html#a12d536a3a1a72ba18dcc8ff49a79e9af" title="ecryptfs_lookup" alt="" coords="611,5,726,32"/>
-<area shape="rect" id="node5" href="$ecryptfs_2inode_8c.html#ae9629ba2454c02f4efeba467903fb345" title="ecryptfs_symlink" alt="" coords="608,56,729,83"/>
-</map>

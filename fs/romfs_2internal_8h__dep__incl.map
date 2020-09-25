@@ -1,5 +1,0 @@
-<map id="romfs/internal.h" name="romfs/internal.h">
-<area shape="rect" id="node2" href="$mmap-nommu_8c.html" title="romfs/mmap&#45;nommu.c" alt="" coords="5,80,159,107"/>
-<area shape="rect" id="node3" href="$storage_8c.html" title="romfs/storage.c" alt="" coords="183,80,296,107"/>
-<area shape="rect" id="node4" href="$romfs_2super_8c.html" title="romfs/super.c" alt="" coords="320,80,423,107"/>
-</map>

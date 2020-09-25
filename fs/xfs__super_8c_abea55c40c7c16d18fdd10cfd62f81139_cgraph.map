@@ -1,5 +1,0 @@
-<map id="xfs_fs_nr_cached_objects" name="xfs_fs_nr_cached_objects">
-<area shape="rect" id="node2" href="$xfs__icache_8c.html#ae0657b6ef6a6d627d76a29b007e95caa" title="xfs_reclaim_inodes\l_count" alt="" coords="228,23,363,65"/>
-<area shape="rect" id="node3" href="$xfs__sb_8c.html#a5313accce241a8ac437a7d34de4f6f08" title="xfs_perag_get_tag" alt="" coords="411,5,540,32"/>
-<area shape="rect" id="node4" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="423,56,527,83"/>
-</map>

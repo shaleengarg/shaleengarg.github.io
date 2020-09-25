@@ -1,7 +1,0 @@
-<map id="configfs/configfs_internal.h" name="configfs/configfs_internal.h">
-<area shape="rect" id="node2" href="$configfs_2dir_8c.html" title="configfs/dir.c" alt="" coords="5,80,103,107"/>
-<area shape="rect" id="node3" href="$configfs_2file_8c.html" title="configfs/file.c" alt="" coords="127,80,227,107"/>
-<area shape="rect" id="node4" href="$configfs_2inode_8c.html" title="configfs/inode.c" alt="" coords="251,80,366,107"/>
-<area shape="rect" id="node5" href="$configfs_2mount_8c.html" title="configfs/mount.c" alt="" coords="391,80,509,107"/>
-<area shape="rect" id="node6" href="$configfs_2symlink_8c.html" title="configfs/symlink.c" alt="" coords="534,80,662,107"/>
-</map>

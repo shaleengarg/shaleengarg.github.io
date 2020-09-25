@@ -1,7 +1,0 @@
-<map id="ext4_htree_next_block" name="ext4_htree_next_block">
-<area shape="rect" id="node2" href="$ext4_2namei_8c.html#a3eb92093a9319141e5640b918f0026db" title="dx_get_count" alt="" coords="207,5,307,32"/>
-<area shape="rect" id="node5" href="$ext4_2namei_8c.html#a1c56499bdd162d50b89ea6c08bd164b4" title="dx_get_hash" alt="" coords="209,56,305,83"/>
-<area shape="rect" id="node6" href="$ext4_2namei_8c.html#aa13a8413038131a81178693f0de0208f" title="dx_get_block" alt="" coords="207,107,306,133"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="355,5,409,32"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="457,5,576,32"/>
-</map>

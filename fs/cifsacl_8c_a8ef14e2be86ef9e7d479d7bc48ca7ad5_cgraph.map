@@ -1,9 +1,0 @@
-<map id="parse_sec_desc" name="parse_sec_desc">
-<area shape="rect" id="node2" href="$cifsacl_8c.html#a50d771b96882a93c87b2cfaf25f1dd19" title="parse_sid" alt="" coords="174,5,253,32"/>
-<area shape="rect" id="node3" href="$cifsacl_8c.html#ae1ecd8b1d34be7f6ebe10f70a4f2a49b" title="sid_to_id" alt="" coords="176,56,251,83"/>
-<area shape="rect" id="node6" href="$cifsacl_8c.html#a8a1304bed14727127ca0739efb8aef4d" title="parse_dacl" alt="" coords="171,107,256,133"/>
-<area shape="rect" id="node4" href="$cifsacl_8c.html#a4f712de74361c3af9b4d829c95227b87" title="is_well_known_sid" alt="" coords="317,5,447,32"/>
-<area shape="rect" id="node5" href="$cifsacl_8c.html#a6f270e4386ae40730e24878a6ff16d33" title="sid_to_key_str" alt="" coords="329,56,435,83"/>
-<area shape="rect" id="node7" href="$cifsacl_8c.html#ae739c46ff45d2cf19b633a2867f951dd" title="compare_sids" alt="" coords="331,107,433,133"/>
-<area shape="rect" id="node8" href="$cifsacl_8c.html#a19141a8af019b6a46f2e8ae759043f68" title="access_flags_to_mode" alt="" coords="304,157,460,184"/>
-</map>

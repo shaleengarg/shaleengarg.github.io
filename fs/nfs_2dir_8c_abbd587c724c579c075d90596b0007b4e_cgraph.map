@@ -1,5 +1,0 @@
-<map id="nfs_do_filldir" name="nfs_do_filldir">
-<area shape="rect" id="node2" href="$nfs_2inode_8c.html#a3e210178c445358a99ea4fd43c4a245b" title="nfs_compat_user_ino64" alt="" coords="148,5,308,32"/>
-<area shape="rect" id="node3" href="$nfs_2dir_8c.html#aeee8a782cc68ed6209938fa9c7a28f81" title="cache_page_release" alt="" coords="157,56,299,83"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a0061a4b90294aac22e65409dbed8fb4d" title="nfs_readdir_clear_array" alt="" coords="356,56,513,83"/>
-</map>

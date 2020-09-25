@@ -1,9 +1,0 @@
-<map id="nfs4_ff_layout_free_deviceid" name="nfs4_ff_layout_free_deviceid">
-<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#a51e50c050b3cee6e6eb030de6e47415a" title="nfs4_pnfs_ds_put" alt="" coords="187,68,312,95"/>
-<area shape="rect" id="node3" href="$pnfs__nfs_8c.html#ae344eacaac12f37e25fb9b40389cc597" title="destroy_ds" alt="" coords="403,43,489,69"/>
-<area shape="rect" id="node8" href="$pnfs__nfs_8c.html#ade46012790609368124a6619e0b27bf7" title="EXPORT_SYMBOL_GPL" alt="" coords="360,93,532,120"/>
-<area shape="rect" id="node4" href="$pnfs__nfs_8c.html#a69cf00d7e2e8d655a99083e8d25cee81" title="print_ds" alt="" coords="597,5,665,32"/>
-<area shape="rect" id="node5" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="580,80,683,107"/>
-<area shape="rect" id="node6" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="731,55,908,81"/>
-<area shape="rect" id="node7" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="733,105,905,132"/>
-</map>

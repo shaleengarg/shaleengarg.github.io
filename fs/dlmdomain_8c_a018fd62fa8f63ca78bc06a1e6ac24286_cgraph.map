@@ -1,6 +1,0 @@
-<map id="dlm_put" name="dlm_put">
-<area shape="rect" id="node2" href="$dlmdomain_8c.html#a15b482ab18b6b2bd7062b8773211b831" title="dlm_ctxt_release" alt="" coords="121,42,243,69"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#aac19dacc47138488fe3afbddc8626bec" title="dlm_free_ctxt_mem" alt="" coords="291,42,428,69"/>
-<area shape="rect" id="node4" href="$dlmdebug_8h.html#a9eb76b4ecf671b3f9115a37891e908fe" title="dlm_destroy_debugfs\l_subroot" alt="" coords="476,5,623,47"/>
-<area shape="rect" id="node5" href="$dlmdomain_8c.html#ae7084cc4198646ba07695d8ff70c7589" title="dlm_free_pagevec" alt="" coords="485,71,613,98"/>
-</map>

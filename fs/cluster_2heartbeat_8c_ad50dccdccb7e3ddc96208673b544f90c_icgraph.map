@@ -1,8 +1,0 @@
-<map id="o2hb_compute_block_crc_le" name="o2hb_compute_block_crc_le">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#ae09033996f08c4d9bd4d8e45ef415eaa" title="o2hb_verify_crc" alt="" coords="199,5,313,32"/>
-<area shape="rect" id="node7" href="$cluster_2heartbeat_8c.html#a21fdf110154f5b27e9e47633ed0c2dab" title="o2hb_prepare_block" alt="" coords="361,56,500,83"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#a24dc40e2397d88f9da7f339d33a19a67" title="o2hb_check_slot" alt="" coords="371,5,491,32"/>
-<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#a7d84faee862e1cd6071968d4c5de9b73" title="o2hb_do_disk_heartbeat" alt="" coords="548,5,711,32"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#a2bc2625e842d179a5d84f407ccfbe93d" title="o2hb_thread" alt="" coords="759,31,852,57"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#af950396e373c84f930a2168da781f6ec" title="o2hb_region_dev_store" alt="" coords="900,31,1056,57"/>
-</map>

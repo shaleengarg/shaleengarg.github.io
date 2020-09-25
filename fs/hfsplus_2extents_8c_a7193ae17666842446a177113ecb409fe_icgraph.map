@@ -1,8 +1,0 @@
-<map id="hfsplus_get_block" name="hfsplus_get_block">
-<area shape="rect" id="node2" href="$hfsplus_2inode_8c.html#ab1a3757d1f1a36f8f98e1e3e73ef123c" title="hfsplus_readpage" alt="" coords="187,5,311,32"/>
-<area shape="rect" id="node3" href="$hfsplus_2inode_8c.html#ad8690a478f61cf6bd3f271a6c860dcaf" title="hfsplus_writepage" alt="" coords="185,56,312,83"/>
-<area shape="rect" id="node4" href="$hfsplus_2inode_8c.html#a95d6c4d736f975fb95b6642bf50b46f9" title="hfsplus_write_begin" alt="" coords="180,107,317,133"/>
-<area shape="rect" id="node5" href="$hfsplus_2inode_8c.html#a0414ca092609cb7b6b3bf105b3cb949b" title="hfsplus_bmap" alt="" coords="197,157,300,184"/>
-<area shape="rect" id="node6" href="$hfsplus_2inode_8c.html#ac171a8fae67ad2537798f1c09ed16eb5" title="hfsplus_direct_IO" alt="" coords="187,208,311,235"/>
-<area shape="rect" id="node7" href="$hfsplus_2inode_8c.html#ac211f2ea3c778561565c06706aece3ce" title="hfsplus_writepages" alt="" coords="181,259,316,285"/>
-</map>

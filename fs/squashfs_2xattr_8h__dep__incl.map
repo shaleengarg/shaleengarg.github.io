@@ -1,7 +1,0 @@
-<map id="squashfs/xattr.h" name="squashfs/xattr.h">
-<area shape="rect" id="node2" href="$squashfs_2inode_8c.html" title="squashfs/inode.c" alt="" coords="5,80,127,107"/>
-<area shape="rect" id="node3" href="$squashfs_2namei_8c.html" title="squashfs/namei.c" alt="" coords="151,80,277,107"/>
-<area shape="rect" id="node4" href="$squashfs_2super_8c.html" title="squashfs/super.c" alt="" coords="301,80,423,107"/>
-<area shape="rect" id="node5" href="$squashfs_2symlink_8c.html" title="squashfs/symlink.c" alt="" coords="448,80,583,107"/>
-<area shape="rect" id="node6" href="$xattr__id_8c.html" title="squashfs/xattr_id.c" alt="" coords="607,80,741,107"/>
-</map>

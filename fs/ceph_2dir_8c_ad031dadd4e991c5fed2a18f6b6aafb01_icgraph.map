@@ -1,6 +1,0 @@
-<map id="is_hash_order" name="is_hash_order">
-<area shape="rect" id="node2" href="$ceph_2dir_8c.html#aa4b771c9022eac5ac95204f62334a9cf" title="need_send_readdir" alt="" coords="157,5,287,32"/>
-<area shape="rect" id="node3" href="$ceph_2dir_8c.html#a3cb51a307540663ec2faab7a20d2c67a" title="ceph_readdir" alt="" coords="344,44,440,71"/>
-<area shape="rect" id="node4" href="$ceph_2dir_8c.html#a1c9a7fd9568207b6dc0072447004e43c" title="need_reset_readdir" alt="" coords="156,107,288,133"/>
-<area shape="rect" id="node5" href="$ceph_2dir_8c.html#a175e1f1cfa883efde728eb951ab70237" title="ceph_dir_llseek" alt="" coords="336,120,448,147"/>
-</map>

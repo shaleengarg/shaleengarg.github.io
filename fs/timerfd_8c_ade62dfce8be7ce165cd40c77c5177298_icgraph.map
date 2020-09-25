@@ -1,7 +1,0 @@
-<map id="timerfd_get_remaining" name="timerfd_get_remaining">
-<area shape="rect" id="node2" href="$timerfd_8c.html#aa19c84a773f6e0a99fbdb0f8997d2067" title="timerfd_read" alt="" coords="223,5,318,32"/>
-<area shape="rect" id="node3" href="$timerfd_8c.html#a7f4b73293ab79cdb90e7505cfa6874db" title="do_timerfd_settime" alt="" coords="204,56,337,83"/>
-<area shape="rect" id="node6" href="$timerfd_8c.html#a940ab29337e856c05ca574dba5eb8c67" title="do_timerfd_gettime" alt="" coords="204,107,337,133"/>
-<area shape="rect" id="node4" href="$timerfd_8c.html#a287a6ff8eb55264a31f73313239fd416" title="SYSCALL_DEFINE4" alt="" coords="385,56,532,83"/>
-<area shape="rect" id="node5" href="$timerfd_8c.html#a34624b8603b2d8b98baa8936f69819bb" title="SYSCALL_DEFINE2" alt="" coords="385,107,532,133"/>
-</map>

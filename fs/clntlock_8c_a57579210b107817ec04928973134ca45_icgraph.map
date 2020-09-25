@@ -1,9 +1,0 @@
-<map id="nlmclnt_done" name="nlmclnt_done">
-<area shape="rect" id="node2" href="$client_8c.html#aba99dc96fe5d7175c65096960fbfdd17" title="nfs_destroy_server" alt="" coords="152,67,285,93"/>
-<area shape="rect" id="node3" href="$client_8c.html#a2b6c7f4d415605ed94995bd7000bd5ea" title="nfs_start_lockd" alt="" coords="333,67,444,93"/>
-<area shape="rect" id="node4" href="$client_8c.html#a79567e458591ffb59de706e040bd5cf0" title="nfs_init_server" alt="" coords="499,29,606,56"/>
-<area shape="rect" id="node7" href="$nfs_2internal_8h.html#a74da40629c00a2d52eb709fbbf64a754" title="nfs_clone_server" alt="" coords="492,104,613,131"/>
-<area shape="rect" id="node5" href="$nfs_2internal_8h.html#a40007155e8fe7d9b21830cfcfc2b2318" title="nfs_create_server" alt="" coords="662,29,789,56"/>
-<area shape="rect" id="node6" href="$nfs3client_8c.html#af53154f90bb786156a08f3f746020f06" title="nfs3_create_server" alt="" coords="837,29,971,56"/>
-<area shape="rect" id="node8" href="$nfs3client_8c.html#aaeacfa9e9f6837b2257cff046f54e055" title="nfs3_clone_server" alt="" coords="661,104,789,131"/>
-</map>

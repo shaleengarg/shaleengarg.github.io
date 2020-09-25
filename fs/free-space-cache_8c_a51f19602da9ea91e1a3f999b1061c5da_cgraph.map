@@ -1,5 +1,0 @@
-<map id="io_ctl_set_crc" name="io_ctl_set_crc">
-<area shape="rect" id="node2" href="$free-space-cache_8c.html#ab04efc5914b94d4a23464c9704a3435f" title="io_ctl_unmap_page" alt="" coords="156,5,291,32"/>
-<area shape="rect" id="node3" href="$disk-io_8c.html#afefd1a76d3df3a8f54251a3aa9ef057b" title="btrfs_csum_data" alt="" coords="164,56,283,83"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#af1c87f201f23dab002e655d9c571af52" title="btrfs_csum_final" alt="" coords="164,107,283,133"/>
-</map>

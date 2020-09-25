@@ -1,7 +1,0 @@
-<map id="ntfs_attr_reinit_search_ctx" name="ntfs_attr_reinit_search_ctx">
-<area shape="rect" id="node2" href="$mft_8h.html#a811ffb1e431fb1a2eb8646378b4cebe4" title="unmap_extent_mft_record" alt="" coords="229,5,403,32"/>
-<area shape="rect" id="node6" href="$attrib_8c.html#abc2c6bb40d94683fcee382267c2db928" title="ntfs_attr_init_search_ctx" alt="" coords="233,56,399,83"/>
-<area shape="rect" id="node3" href="$mft_8h.html#acdca69e797b129f8be7643ed91f691bd" title="unmap_mft_record" alt="" coords="451,5,581,32"/>
-<area shape="rect" id="node4" href="$mft_8c.html#a7f853eae19270e8962f1d1e7a910f9b5" title="unmap_mft_record_page" alt="" coords="629,5,795,32"/>
-<area shape="rect" id="node5" href="$ntfs_2aops_8h.html#a1598f6a34c91644e4e765b5b04080784" title="ntfs_unmap_page" alt="" coords="843,5,968,32"/>
-</map>

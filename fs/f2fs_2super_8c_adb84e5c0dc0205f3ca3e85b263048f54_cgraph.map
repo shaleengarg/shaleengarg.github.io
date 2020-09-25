@@ -1,9 +1,0 @@
-<map id="parse_options" name="parse_options">
-<area shape="rect" id="node2" href="$f2fs_8h.html#ae4ef40bc46e01abbe539204218bcf106" title="F2FS_SB" alt="" coords="175,5,253,32"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#a433912635a7fb7c70dcf942a26f35c49" title="f2fs_readonly" alt="" coords="164,56,264,83"/>
-<area shape="rect" id="node4" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="176,107,252,133"/>
-<area shape="rect" id="node5" href="$f2fs_8h.html#a7bac11615b14cbcbed5cdadcb6787106" title="set_opt_mode" alt="" coords="162,157,266,184"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a970b10b512e98ebcca90c7f19f0fb16f" title="inline_xattr_size" alt="" coords="156,208,272,235"/>
-<area shape="rect" id="node7" href="$f2fs_8h.html#aaf466c7387eabc7ff17fcd26f3840967" title="get_inline_xattr_addrs" alt="" coords="320,208,469,235"/>
-<area shape="rect" id="node8" href="$f2fs_8h.html#a1b311f9398d72f3b9ba540f7acf8e9cb" title="F2FS_I" alt="" coords="517,208,583,235"/>
-</map>

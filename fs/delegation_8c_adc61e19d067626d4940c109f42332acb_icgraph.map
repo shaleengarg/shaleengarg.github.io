@@ -1,6 +1,0 @@
-<map id="nfs_mark_return_unused_delegation_types" name="nfs_mark_return_unused_delegation_types">
-<area shape="rect" id="node2" href="$delegation_8c.html#a1ece88c35e3af679fd740c33b9fb1ef5" title="nfs_client_mark_return\l_unused_delegation_types" alt="" coords="219,5,395,47"/>
-<area shape="rect" id="node3" href="$delegation_8c.html#add77b4a8d09a7cfee7b5fc31b05812ed" title="nfs_expire_unused_delegation\l_types" alt="" coords="443,5,640,47"/>
-<area shape="rect" id="node4" href="$callback__proc_8c.html#acfaa691c43847f2cafee424870292191" title="nfs4_callback_recall" alt="" coords="688,13,828,39"/>
-<area shape="rect" id="node5" href="$callback__xdr_8c.html#acee5fa4f5a4e91e9f3588c29c80288b2" title="nfs4_callback_compound" alt="" coords="876,13,1045,39"/>
-</map>

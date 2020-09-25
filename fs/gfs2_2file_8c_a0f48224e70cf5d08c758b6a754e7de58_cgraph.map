@@ -1,9 +1,0 @@
-<map id="gfs2_release" name="gfs2_release">
-<area shape="rect" id="node2" href="$incore_8h.html#af3bc95dcc324ad1e1c784c03e41049c6" title="GFS2_I" alt="" coords="177,5,243,32"/>
-<area shape="rect" id="node3" href="$rgrp_8c.html#ae6df94821ad96b999e5f8f78f2ab3140" title="gfs2_rsqa_delete" alt="" coords="149,56,271,83"/>
-<area shape="rect" id="node4" href="$rgrp_8c.html#a28862718a3960bb5028cc2f6c10c5edd" title="gfs2_rs_deltree" alt="" coords="319,31,429,57"/>
-<area shape="rect" id="node8" href="$gfs2_2quota_8c.html#a6fa61deb3fa89e71cc5ea7b47544a522" title="gfs2_qa_delete" alt="" coords="319,81,429,108"/>
-<area shape="rect" id="node5" href="$rgrp_8c.html#af4bcb2e7a58d78f2fcf825f3e35f5d34" title="__rs_deltree" alt="" coords="477,31,571,57"/>
-<area shape="rect" id="node6" href="$rgrp_8h.html#a080af10e67279fc46f168726a19191d1" title="gfs2_rs_active" alt="" coords="619,5,725,32"/>
-<area shape="rect" id="node7" href="$incore_8h.html#ada00f94956c6c2f5d11e1af4c38068ec" title="rbm_bi" alt="" coords="641,56,703,83"/>
-</map>

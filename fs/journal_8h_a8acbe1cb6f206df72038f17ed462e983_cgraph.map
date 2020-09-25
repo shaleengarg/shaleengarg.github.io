@@ -1,6 +1,0 @@
-<map id="ocfs2_calc_symlink_credits" name="ocfs2_calc_symlink_credits">
-<area shape="rect" id="node2" href="$journal_8h.html#a63458d0be659d79be2c01985d6e9c35b" title="ocfs2_mknod_credits" alt="" coords="191,21,337,47"/>
-<area shape="rect" id="node4" href="$ocfs2_8h.html#ac2f56aa03d88002b636baddba9bee355" title="ocfs2_clusters_to_blocks" alt="" coords="608,67,779,94"/>
-<area shape="rect" id="node5" href="$journal_8h.html#a391304dfb5d31cd15d53a18e459e0194" title="ocfs2_quota_trans_credits" alt="" coords="385,71,560,98"/>
-<area shape="rect" id="node3" href="$journal_8h.html#a0928d79d06a8a53f9d8f6b53b3cf5121" title="ocfs2_add_dir_index\l_credits" alt="" coords="402,5,543,47"/>
-</map>

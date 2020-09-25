@@ -1,9 +1,0 @@
-<map id="xfs/libxfs/xfs_ag_resv.h" name="xfs/libxfs/xfs_ag_resv.h">
-<area shape="rect" id="node2" href="$xfs__ag__resv_8c.html" title="xfs/libxfs/xfs_ag_resv.c" alt="" coords="5,87,167,114"/>
-<area shape="rect" id="node3" href="$xfs__alloc_8c.html" title="xfs/libxfs/xfs_alloc.c" alt="" coords="191,87,333,114"/>
-<area shape="rect" id="node4" href="$xfs__bmap_8c.html" title="xfs/libxfs/xfs_bmap.c" alt="" coords="358,87,505,114"/>
-<area shape="rect" id="node5" href="$xfs__rmap__btree_8c.html" title="xfs/libxfs/xfs_rmap\l_btree.c" alt="" coords="529,80,662,121"/>
-<area shape="rect" id="node6" href="$xfs__filestream_8c.html" title="xfs/xfs_filestream.c" alt="" coords="687,87,824,114"/>
-<area shape="rect" id="node7" href="$xfs__fsops_8c.html" title="xfs/xfs_fsops.c" alt="" coords="849,87,961,114"/>
-<area shape="rect" id="node8" href="$xfs__reflink_8c.html" title="xfs/xfs_reflink.c" alt="" coords="985,87,1099,114"/>
-</map>

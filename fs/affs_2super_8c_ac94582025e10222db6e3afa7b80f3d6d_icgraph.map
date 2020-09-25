@@ -1,5 +1,0 @@
-<map id="init_once" name="init_once">
-<area shape="rect" id="node2" href="$affs_2super_8c.html#a383280e7241ecff259afb2e90b1241b3" title="init_inodecache" alt="" coords="128,5,240,32"/>
-<area shape="rect" id="node3" href="$affs_2super_8c.html#ab302813ba7d0231eb8bae7b952777054" title="init_affs_fs" alt="" coords="288,5,375,32"/>
-<area shape="rect" id="node4" href="$affs_2super_8c.html#aa0625a72d9204b466cf676b3ab74ec2e" title="exit_affs_fs" alt="" coords="423,5,513,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="hfsplus_inode_read_fork" name="hfsplus_inode_read_fork">
-<area shape="rect" id="node2" href="$hfsplus__fs_8h.html#ae413757578638e3ce7105a39f35810c0" title="HFSPLUS_SB" alt="" coords="220,5,329,32"/>
-<area shape="rect" id="node3" href="$hfsplus__fs_8h.html#a871906844552b3b3ec070e1caaec9ed5" title="HFSPLUS_I" alt="" coords="227,56,322,83"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="247,107,302,133"/>
-<area shape="rect" id="node6" href="$stat_8c.html#aaad2ca9f72ea597e34af1b3a5104f9c6" title="inode_set_bytes" alt="" coords="216,157,333,184"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="391,107,510,133"/>
-<area shape="rect" id="node7" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="381,157,520,184"/>
-</map>

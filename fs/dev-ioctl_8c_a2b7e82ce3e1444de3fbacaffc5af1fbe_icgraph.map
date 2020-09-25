@@ -1,6 +1,0 @@
-<map id="autofs_dev_ioctl" name="autofs_dev_ioctl">
-<area shape="rect" id="node2" href="$dev-ioctl_8c.html#aa4985777d57507d07be423fa220b9189" title="check_dev_ioctl_version" alt="" coords="171,5,336,32"/>
-<area shape="rect" id="node4" href="$dev-ioctl_8c.html#a37310baaef7cd474b06beb78966bd794" title="_autofs_dev_ioctl" alt="" coords="559,68,683,95"/>
-<area shape="rect" id="node5" href="$dev-ioctl_8c.html#a14cde5a19367052a7b348817212a1c78" title="copy_dev_ioctl" alt="" coords="393,131,502,157"/>
-<area shape="rect" id="node3" href="$dev-ioctl_8c.html#a54da6ea4e9299e3643d1d37f284b4ed8" title="validate_dev_ioctl" alt="" coords="384,5,511,32"/>
-</map>

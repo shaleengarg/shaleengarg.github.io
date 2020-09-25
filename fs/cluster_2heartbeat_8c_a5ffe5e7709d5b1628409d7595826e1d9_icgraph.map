@@ -1,7 +1,0 @@
-<map id="o2hb_debug_create" name="o2hb_debug_create">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#af99933acd96caa8253ab5b43801ab3fa" title="o2hb_debug_init" alt="" coords="209,8,325,35"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#af7b12251ba7716f9e89a925bb8ab9118" title="o2hb_debug_region_init" alt="" coords="188,60,347,87"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8h.html#aa55620d77882e2ef23a7b262bb863753" title="o2hb_init" alt="" coords="433,5,507,32"/>
-<area shape="rect" id="node4" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="593,5,672,32"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#af040c863276ab4008d7a7eca1cd5244a" title="o2hb_heartbeat_group\l_make_item" alt="" coords="395,57,545,98"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="nfs4blocklayout_net_exit" name="nfs4blocklayout_net_exit">
-<area shape="rect" id="node2" href="$rpc__pipefs_8c.html#a20d17c864705aba2aaecc35505fb8b81" title="nfs4blocklayout_unregister_net" alt="" coords="220,5,423,32"/>
-<area shape="rect" id="node3" href="$rpc__pipefs_8c.html#aa33686aa2ef975acfc4c63b8a376a0e1" title="nfs4blocklayout_unregister_sb" alt="" coords="471,5,669,32"/>
-</map>

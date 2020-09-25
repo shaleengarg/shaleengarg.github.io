@@ -1,6 +1,0 @@
-<map id="xtRelocate" name="xtRelocate">
-<area shape="rect" id="node2" href="$jfs__xtree_8c.html#a573a0c73d4d6f253b64e7d8bf331cee6" title="xtAppend" alt="" coords="139,5,216,32"/>
-<area shape="rect" id="node3" href="$jfs_2resize_8c.html#ad613ea07103a85b96bec4ff8846bb447" title="jfs_extendfs" alt="" coords="264,5,357,32"/>
-<area shape="rect" id="node4" href="$jfs_2super_8c.html#a0141f2a6760432e6ac3dc87944f7e09c" title="jfs_remount" alt="" coords="405,5,496,32"/>
-<area shape="rect" id="node5" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="544,5,667,32"/>
-</map>

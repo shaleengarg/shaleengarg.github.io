@@ -1,5 +1,0 @@
-<map id="ocfs2_dlm_lock_status" name="ocfs2_dlm_lock_status">
-<area shape="rect" id="node2" href="$userdlm_8c.html#a16fa49590471469a3ae7883b80b4a477" title="user_ast" alt="" coords="441,24,513,51"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html#aa78274cb016bcbce412c3e84204427b3" title="ocfs2_locking_ast" alt="" coords="413,87,540,113"/>
-<area shape="rect" id="node4" href="$stackglue_8h.html#a718dc9dc2d88fdb92556bcd0ee9ead13" title="ocfs2_dlm_lock_status" alt="" coords="209,49,365,76"/>
-</map>

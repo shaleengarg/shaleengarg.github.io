@@ -1,6 +1,0 @@
-<map id="attach_nobh_buffers" name="attach_nobh_buffers">
-<area shape="rect" id="node2" href="$buffer_8c.html#a4a158e45bae0963803e68d91862ea139" title="nobh_write_begin" alt="" coords="193,31,316,57"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a1b5edbba187a6ae5138c888a00f157ff" title="nobh_write_end" alt="" coords="198,81,311,108"/>
-<area shape="rect" id="node3" href="$ext2_2inode_8c.html#af70bbc718aa841a0479ae316c0a6628a" title="ext2_nobh_write_begin" alt="" coords="364,5,519,32"/>
-<area shape="rect" id="node4" href="$jfs_2inode_8c.html#a66eb093b60a561ae0d9f17f56e82fbb7" title="jfs_write_begin" alt="" coords="387,56,496,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ocfs2_should_refresh_lock_res" name="ocfs2_should_refresh_lock_res">
-<area shape="rect" id="node2" href="$dlmglue_8c.html#a2620b8c6de8a3025be5be321c93cc06a" title="ocfs2_wait_on_refreshing_lock" alt="" coords="200,5,401,32"/>
-<area shape="rect" id="node4" href="$dlmglue_8c.html#abc90cbec96bfe0b692d9a781ec798723" title="lockres_or_flags" alt="" coords="242,56,359,83"/>
-<area shape="rect" id="node3" href="$dlmglue_8c.html#af6a5a646a5bbfe85ba1241bae7686d74" title="ocfs2_check_wait_flag" alt="" coords="449,5,604,32"/>
-<area shape="rect" id="node5" href="$dlmglue_8c.html#a2f5ae82be6decde9f94541fcdf939d75" title="lockres_set_flags" alt="" coords="465,56,589,83"/>
-</map>

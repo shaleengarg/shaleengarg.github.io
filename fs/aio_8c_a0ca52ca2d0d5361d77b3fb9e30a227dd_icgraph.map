@@ -1,6 +1,0 @@
-<map id="kiocb_cancel" name="kiocb_cancel">
-<area shape="rect" id="node2" href="$aio_8c.html#a697c2620e0b490feb0c1f4b64739fa1e" title="free_ioctx_users" alt="" coords="166,5,285,32"/>
-<area shape="rect" id="node5" href="$aio_8c.html#abbfa8109e6bd796b0befc17dbbdc3448" title="SYSCALL_DEFINE3" alt="" coords="152,56,299,83"/>
-<area shape="rect" id="node3" href="$aio_8c.html#a68a89ba1cf7746151ddca072e61d7a94" title="ioctx_alloc" alt="" coords="347,5,431,32"/>
-<area shape="rect" id="node4" href="$aio_8c.html#a368cfdba5365e829032ccb392c5e91d5" title="SYSCALL_DEFINE2" alt="" coords="479,5,625,32"/>
-</map>

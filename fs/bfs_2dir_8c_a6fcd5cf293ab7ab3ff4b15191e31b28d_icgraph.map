@@ -1,6 +1,0 @@
-<map id="bfs_namecmp" name="bfs_namecmp">
-<area shape="rect" id="node2" href="$bfs_2dir_8c.html#acb51f5ff33ef57036186569263e5c91e" title="bfs_find_entry" alt="" coords="157,56,261,83"/>
-<area shape="rect" id="node3" href="$bfs_2dir_8c.html#ae975bb617a9b36a749e9acb2431ff8b4" title="bfs_lookup" alt="" coords="312,5,397,32"/>
-<area shape="rect" id="node4" href="$bfs_2dir_8c.html#a56ee4c2d28963cf8089a2a6de4cac8b2" title="bfs_unlink" alt="" coords="314,56,395,83"/>
-<area shape="rect" id="node5" href="$bfs_2dir_8c.html#aff5689f200fba935e324bca8857b4056" title="bfs_rename" alt="" coords="309,107,400,133"/>
-</map>

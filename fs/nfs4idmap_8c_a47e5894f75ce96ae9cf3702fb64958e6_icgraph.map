@@ -1,7 +1,0 @@
-<map id="nfs_idmap_complete_pipe_upcall_locked" name="nfs_idmap_complete_pipe_upcall_locked">
-<area shape="rect" id="node2" href="$nfs4idmap_8c.html#a9bb53eb09d31fc79089ab5036cbae2ac" title="nfs_idmap_abort_pipe\l_upcall" alt="" coords="196,49,345,90"/>
-<area shape="rect" id="node6" href="$nfs4idmap_8c.html#ae2864e0990763998d76f0e8b454f1d6f" title="idmap_pipe_downcall" alt="" coords="197,115,344,141"/>
-<area shape="rect" id="node3" href="$nfs4idmap_8c.html#ae33307efeae17757e00025ee2bd6da1a" title="nfs_idmap_legacy_upcall" alt="" coords="395,5,563,32"/>
-<area shape="rect" id="node4" href="$nfs4idmap_8c.html#ade18f40778f9096afe7867dee1f9914b" title="idmap_pipe_destroy_msg" alt="" coords="393,56,564,83"/>
-<area shape="rect" id="node5" href="$nfs4idmap_8c.html#a0087c5de5d83ddb9c965e17fa8f08c2b" title="idmap_release_pipe" alt="" coords="410,107,547,133"/>
-</map>

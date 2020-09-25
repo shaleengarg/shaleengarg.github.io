@@ -1,8 +1,0 @@
-<map id="get_joliet_filename" name="get_joliet_filename">
-<area shape="rect" id="node2" href="$isofs_8h.html#ac130c6a17d2c404bb5b9dff9e4cd99e5" title="ISOFS_SB" alt="" coords="197,5,283,32"/>
-<area shape="rect" id="node3" href="$nls__base_8c.html#a39b96130a8a569652acaafa049768a89" title="utf16s_to_utf8s" alt="" coords="184,56,296,83"/>
-<area shape="rect" id="node7" href="$joliet_8c.html#a83dbd14424230f93d5ea9efc5fc816aa" title="uni16_to_x8" alt="" coords="194,107,286,133"/>
-<area shape="rect" id="node4" href="$nls__base_8c.html#ad806af1e8e7e66a65c53fbdb0b2ca36e" title="get_utf16" alt="" coords="355,5,431,32"/>
-<area shape="rect" id="node5" href="$nls__base_8c.html#a5840e4ae16cca75c47d7b0133959ebdf" title="utf32_to_utf8" alt="" coords="344,56,443,83"/>
-<area shape="rect" id="node6" href="$nls__base_8c.html#a2c440fcf315dd54d6ae38a741aa24d74" title="EXPORT_SYMBOL" alt="" coords="491,81,629,108"/>
-</map>

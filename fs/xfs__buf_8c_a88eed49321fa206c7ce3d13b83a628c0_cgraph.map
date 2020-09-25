@@ -1,7 +1,0 @@
-<map id="xfs_buf_free" name="xfs_buf_free">
-<area shape="rect" id="node2" href="$xfs__buf_8c.html#adc2dd3454f0182cc54d74ccb6a4ebb82" title="xfs_buf_is_vmapped" alt="" coords="148,5,291,32"/>
-<area shape="rect" id="node3" href="$kmem_8h.html#a5bed54e8757e371319f8123e8ecdbd62" title="kmem_free" alt="" coords="339,107,425,133"/>
-<area shape="rect" id="node4" href="$xfs__buf_8c.html#aedb54342ddce5fd9c4e53e3da9dd9d5b" title="_xfs_buf_free_pages" alt="" coords="148,107,291,133"/>
-<area shape="rect" id="node5" href="$xfs__buf_8c.html#a22c30966f8c60d596e1d0721f22f488d" title="xfs_buf_free_maps" alt="" coords="153,157,286,184"/>
-<area shape="rect" id="node6" href="$kmem_8h.html#aa8054cedad8a37a0c5b6d0b963b6fc4b" title="kmem_zone_free" alt="" coords="158,208,281,235"/>
-</map>

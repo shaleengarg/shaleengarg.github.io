@@ -1,5 +1,0 @@
-<map id="create_fd" name="create_fd">
-<area shape="rect" id="node2" href="$fanotify__user_8c.html#a847cafb0894ceaacebfa6cbb02c9de88" title="fill_event_metadata" alt="" coords="129,5,264,32"/>
-<area shape="rect" id="node3" href="$fanotify__user_8c.html#aa53a97066c0d5be87cae51f3b6401030" title="copy_event_to_user" alt="" coords="312,5,451,32"/>
-<area shape="rect" id="node4" href="$fanotify__user_8c.html#ac5d57126a7f90f5e68352fb13cf84bc6" title="fanotify_read" alt="" coords="499,5,596,32"/>
-</map>

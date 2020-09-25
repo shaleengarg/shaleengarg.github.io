@@ -1,6 +1,0 @@
-<map id="btrfs_trim_fs" name="btrfs_trim_fs">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#aaf4944cca58dd82568803a4e42cd5d33" title="btrfs_ioctl_fitrim" alt="" coords="148,5,263,32"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="311,5,389,32"/>
-<area shape="rect" id="node4" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="437,5,612,32"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="660,5,757,32"/>
-</map>

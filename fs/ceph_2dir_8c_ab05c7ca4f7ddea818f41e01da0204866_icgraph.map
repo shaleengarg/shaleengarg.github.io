@@ -1,5 +1,0 @@
-<map id="fpos_off" name="fpos_off">
-<area shape="rect" id="node2" href="$ceph_2dir_8c.html#a255d6b0eb2e488bdd953b9c42f16b848" title="fpos_cmp" alt="" coords="123,5,201,32"/>
-<area shape="rect" id="node3" href="$ceph_2dir_8c.html#aa94c3969cd843b05ffbe990a4e678e5c" title="__dcache_readdir" alt="" coords="249,56,373,83"/>
-<area shape="rect" id="node4" href="$ceph_2dir_8c.html#a3cb51a307540663ec2faab7a20d2c67a" title="ceph_readdir" alt="" coords="421,81,517,108"/>
-</map>

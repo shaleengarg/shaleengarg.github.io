@@ -1,7 +1,0 @@
-<map id="cmp_acl_entry" name="cmp_acl_entry">
-<area shape="rect" id="node2" href="$nfsacl_8c.html#a5d70f6b5e2e274f89b4f5ddf5a2973c2" title="posix_acl_from_nfsacl" alt="" coords="160,56,312,83"/>
-<area shape="rect" id="node3" href="$nfsacl_8c.html#a516a4548b7401fdf2619cf372bbfa76f" title="nfsacl_decode" alt="" coords="360,56,467,83"/>
-<area shape="rect" id="node4" href="$_2nfs3acl_8c.html#a907eb9c9c1f6d3cea9a249d264d9f29a" title="nfs3svc_decode_setaclargs" alt="" coords="520,5,704,32"/>
-<area shape="rect" id="node5" href="$nfs3xdr_8c.html#a3fdbd69abc7b49e25c0ee8b1ac40ba1d" title="nfs3_xdr_dec_commit3res" alt="" coords="525,56,699,83"/>
-<area shape="rect" id="node6" href="$nfs2acl_8c.html#a5fd144f9b5a8a68e3a4e2c9394d2d6d6" title="nfsaclsvc_decode_setaclargs" alt="" coords="515,107,709,133"/>
-</map>

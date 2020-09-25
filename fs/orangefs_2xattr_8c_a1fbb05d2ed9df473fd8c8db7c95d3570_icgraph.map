@@ -1,6 +1,0 @@
-<map id="is_reserved_key" name="is_reserved_key">
-<area shape="rect" id="node2" href="$orangefs_2xattr_8c.html#a44ad373c529b0e54202af535029e8850" title="orangefs_listxattr" alt="" coords="171,13,293,39"/>
-<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="341,13,444,39"/>
-<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="492,5,627,47"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="675,13,824,39"/>
-</map>

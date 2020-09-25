@@ -1,9 +1,0 @@
-<map id="default_file_splice_read" name="default_file_splice_read">
-<area shape="rect" id="node2" href="$splice_8c.html#a558087483e6504f85f8020b98bb7e438" title="kernel_readv" alt="" coords="212,56,308,83"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#a4b3ad7e105b6ed51d75a5a39cedb0f1e" title="vfs_readv" alt="" coords="356,56,435,83"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#aaa6a37f6c84e5d25832dd1a06ea1a774" title="do_iter_read" alt="" coords="483,56,576,83"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="645,5,751,32"/>
-<area shape="rect" id="node7" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="627,56,769,83"/>
-<area shape="rect" id="node8" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="624,107,772,133"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="820,5,941,32"/>
-</map>

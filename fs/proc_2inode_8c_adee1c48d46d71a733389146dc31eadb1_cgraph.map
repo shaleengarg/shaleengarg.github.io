@@ -1,6 +1,0 @@
-<map id="proc_reg_mmap" name="proc_reg_mmap">
-<area shape="rect" id="node2" href="$proc_2internal_8h.html#af06d35fcc560b7b9aab608efbf4f4ad8" title="PDE" alt="" coords="185,5,236,32"/>
-<area shape="rect" id="node4" href="$proc_2inode_8c.html#a9beae67e50b0c153108de07506650a22" title="use_pde" alt="" coords="175,56,246,83"/>
-<area shape="rect" id="node5" href="$proc_2inode_8c.html#a32f0bdf1ad3157f30807aced498a2509" title="unuse_pde" alt="" coords="168,107,253,133"/>
-<area shape="rect" id="node3" href="$proc_2internal_8h.html#acd338ab707cc009afbad4a14c558fb97" title="PROC_I" alt="" coords="301,5,373,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="autofs4/autofs_i.h" name="autofs4/autofs_i.h">
-<area shape="rect" id="node2" href="$dev-ioctl_8c.html" title="autofs4/dev&#45;ioctl.c" alt="" coords="5,80,135,107"/>
-<area shape="rect" id="node3" href="$expire_8c.html" title="autofs4/expire.c" alt="" coords="159,80,274,107"/>
-<area shape="rect" id="node4" href="$init_8c.html" title="autofs4/init.c" alt="" coords="299,80,396,107"/>
-<area shape="rect" id="node5" href="$autofs4_2inode_8c.html" title="autofs4/inode.c" alt="" coords="420,80,531,107"/>
-<area shape="rect" id="node6" href="$autofs4_2root_8c.html" title="autofs4/root.c" alt="" coords="555,80,657,107"/>
-<area shape="rect" id="node7" href="$autofs4_2symlink_8c.html" title="autofs4/symlink.c" alt="" coords="682,80,807,107"/>
-<area shape="rect" id="node8" href="$waitq_8c.html" title="autofs4/waitq.c" alt="" coords="832,80,943,107"/>
-</map>

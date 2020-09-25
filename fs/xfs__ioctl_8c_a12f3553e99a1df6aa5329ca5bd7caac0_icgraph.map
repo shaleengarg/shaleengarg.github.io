@@ -1,9 +1,0 @@
-<map id="xfs_handlereq_to_dentry" name="xfs_handlereq_to_dentry">
-<area shape="rect" id="node2" href="$xfs__ioctl_8h.html#ad6c097e24e34454eff55be1895c5f816" title="xfs_open_by_handle" alt="" coords="227,5,368,32"/>
-<area shape="rect" id="node5" href="$xfs__ioctl_8h.html#a990f316365705b118180e6cd2068c9ec" title="xfs_readlink_by_handle" alt="" coords="218,208,377,235"/>
-<area shape="rect" id="node6" href="$xfs__ioctl_8c.html#ac1e873c3416edd169046a0b70a615245" title="xfs_fssetdm_by_handle" alt="" coords="217,56,377,83"/>
-<area shape="rect" id="node7" href="$xfs__ioctl_8c.html#a35cd7698be8494b9bbd5daa853ecbf2b" title="xfs_attrlist_by_handle" alt="" coords="223,107,372,133"/>
-<area shape="rect" id="node8" href="$xfs__ioctl_8c.html#a48c85463aad2d37212ef5f491321cbe6" title="xfs_attrmulti_by_handle" alt="" coords="217,157,377,184"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="425,107,520,133"/>
-<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="568,107,713,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="fuse_ctl_file_conn_get" name="fuse_ctl_file_conn_get">
-<area shape="rect" id="node2" href="$control_8c.html#a13daab3a9c163960fdfe0e179d7a137f" title="fuse_conn_abort_write" alt="" coords="239,5,392,32"/>
-<area shape="rect" id="node3" href="$control_8c.html#ab1a535da1585e8b8f071da7baf43b9d7" title="fuse_conn_waiting_read" alt="" coords="234,56,397,83"/>
-<area shape="rect" id="node4" href="$control_8c.html#af27495fcd6b819768d51ba8b79f04c95" title="fuse_conn_max_background_read" alt="" coords="205,107,425,133"/>
-<area shape="rect" id="node5" href="$control_8c.html#aad165730ca825f63fca20768f2a81e14" title="fuse_conn_max_background\l_write" alt="" coords="221,158,409,199"/>
-<area shape="rect" id="node6" href="$control_8c.html#ad809b8447945bb0181c47921b4f2a76c" title="fuse_conn_congestion\l_threshold_read" alt="" coords="239,223,391,265"/>
-<area shape="rect" id="node7" href="$control_8c.html#ac298da8ea2cda067de986bfd96bf2564" title="fuse_conn_congestion\l_threshold_write" alt="" coords="239,289,391,330"/>
-</map>

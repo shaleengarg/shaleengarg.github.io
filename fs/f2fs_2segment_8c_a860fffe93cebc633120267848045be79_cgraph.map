@@ -1,5 +1,0 @@
-<map id="is_next_segment_free" name="is_next_segment_free">
-<area shape="rect" id="node2" href="$f2fs_2segment_8h.html#ab401fc665e34bc211f8ae30b552de703" title="CURSEG_I" alt="" coords="204,5,295,32"/>
-<area shape="rect" id="node4" href="$f2fs_8h.html#a276e1a9ee4f10353e7f23d6ae089112b" title="FREE_I" alt="" coords="215,56,284,83"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="343,31,396,57"/>
-</map>

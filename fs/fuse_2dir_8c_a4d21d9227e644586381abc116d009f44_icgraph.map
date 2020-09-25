@@ -1,7 +1,0 @@
-<map id="update_mtime" name="update_mtime">
-<area shape="rect" id="node2" href="$fuse_2dir_8c.html#a546a28ac6f4a89f0e1dd06fd2774d06e" title="iattr_to_fattr" alt="" coords="157,31,249,57"/>
-<area shape="rect" id="node3" href="$fuse__i_8h.html#a2421089b713731fad804d79bae4e6070" title="fuse_do_setattr" alt="" coords="297,31,409,57"/>
-<area shape="rect" id="node4" href="$fuse_2dir_8c.html#a3796a031315308b1075278ee526c752a" title="fuse_setattr" alt="" coords="473,5,564,32"/>
-<area shape="rect" id="node5" href="$fuse_2file_8c.html#a51348ab3b342b0c6dd051341f5940f81" title="fuse_do_truncate" alt="" coords="457,56,580,83"/>
-<area shape="rect" id="node6" href="$fuse_2file_8c.html#accac2bad94ddb8570bf6ca5b6c43f9ef" title="fuse_direct_IO" alt="" coords="628,56,735,83"/>
-</map>

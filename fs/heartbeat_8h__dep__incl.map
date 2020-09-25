@@ -1,8 +1,0 @@
-<map id="ocfs2/heartbeat.h" name="ocfs2/heartbeat.h">
-<area shape="rect" id="node2" href="$dlmglue_8c.html" title="ocfs2/dlmglue.c" alt="" coords="5,80,120,107"/>
-<area shape="rect" id="node3" href="$heartbeat_8c.html" title="ocfs2/heartbeat.c" alt="" coords="144,80,267,107"/>
-<area shape="rect" id="node4" href="$ocfs2_2inode_8c.html" title="ocfs2/inode.c" alt="" coords="291,80,391,107"/>
-<area shape="rect" id="node5" href="$ocfs2_2journal_8c.html" title="ocfs2/journal.c" alt="" coords="416,80,523,107"/>
-<area shape="rect" id="node6" href="$slot__map_8c.html" title="ocfs2/slot_map.c" alt="" coords="547,80,669,107"/>
-<area shape="rect" id="node7" href="$ocfs2_2super_8c.html" title="ocfs2/super.c" alt="" coords="693,80,795,107"/>
-</map>

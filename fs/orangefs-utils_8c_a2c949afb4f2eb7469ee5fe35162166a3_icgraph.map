@@ -1,6 +1,0 @@
-<map id="fsid_of_op" name="fsid_of_op">
-<area shape="rect" id="node2" href="$devorangefs-req_8c.html#a633ea4adb2c9ee1bb296307531f6946b" title="orangefs_devreq_read" alt="" coords="136,5,287,32"/>
-<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="160,56,263,83"/>
-<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="335,49,469,90"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="517,56,667,83"/>
-</map>

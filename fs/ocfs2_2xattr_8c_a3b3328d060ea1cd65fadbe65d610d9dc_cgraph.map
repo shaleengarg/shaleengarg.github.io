@@ -1,7 +1,0 @@
-<map id="ocfs2_cp_xattr_block_to_bucket" name="ocfs2_cp_xattr_block_to_bucket">
-<area shape="rect" id="node2" href="$ocfs2_2xattr_8c.html#adfff3b53ee9a4b24acf75b9d19ae92f1" title="ocfs2_blocks_per_xattr\l_bucket" alt="" coords="200,5,357,47"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="251,71,306,98"/>
-<area shape="rect" id="node5" href="$ocfs2_2xattr_8c.html#aff955a3b7c1544589893caa1ff079b4c" title="cmp_xe" alt="" coords="245,122,313,149"/>
-<area shape="rect" id="node6" href="$ocfs2_2xattr_8c.html#a421cd41380000a5e06a3f9580757293c" title="swap_xe" alt="" coords="241,173,316,199"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="405,71,524,98"/>
-</map>

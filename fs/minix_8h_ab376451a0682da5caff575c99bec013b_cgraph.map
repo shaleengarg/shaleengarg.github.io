@@ -1,7 +1,0 @@
-<map id="minix_getattr" name="minix_getattr">
-<area shape="rect" id="node2" href="$stat_8c.html#a189219051729f64a7768419c3a15a2db" title="generic_fillattr" alt="" coords="160,5,263,32"/>
-<area shape="rect" id="node4" href="$itree__v1_8c.html#a36b68ebbd5f08c0d9edc6ca555bd8574" title="V1_minix_blocks" alt="" coords="151,56,272,83"/>
-<area shape="rect" id="node6" href="$itree__v2_8c.html#a39709dc6e1ad42435faa52a22572b4bc" title="V2_minix_blocks" alt="" coords="151,107,272,133"/>
-<area shape="rect" id="node3" href="$stat_8c.html#affd1fdb8f01b3cac9b32a14d77d44b21" title="EXPORT_SYMBOL" alt="" coords="320,5,459,32"/>
-<area shape="rect" id="node5" href="$itree__common_8c.html#a9e0e9bc5296a639c2e2a4b9b99733033" title="nblocks" alt="" coords="356,81,423,108"/>
-</map>

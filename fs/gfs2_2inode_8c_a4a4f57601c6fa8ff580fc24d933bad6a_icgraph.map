@@ -1,7 +1,0 @@
-<map id="gfs2_create_inode" name="gfs2_create_inode">
-<area shape="rect" id="node2" href="$gfs2_2inode_8c.html#aff80e8285d46b688518bbe8660def4a5" title="gfs2_create" alt="" coords="200,5,291,32"/>
-<area shape="rect" id="node3" href="$gfs2_2inode_8c.html#a674195ba40c5d33781b112ec91b1b3c6" title="gfs2_symlink" alt="" coords="196,56,295,83"/>
-<area shape="rect" id="node4" href="$gfs2_2inode_8c.html#a6cc68bec7e8a7ace3e496f6ce7c401aa" title="gfs2_mkdir" alt="" coords="202,107,289,133"/>
-<area shape="rect" id="node5" href="$gfs2_2inode_8c.html#a65e5bb68bca712891c24a1aaba4ad07c" title="gfs2_mknod" alt="" coords="199,157,292,184"/>
-<area shape="rect" id="node6" href="$gfs2_2inode_8c.html#ae18ecbe4551de429cb5e5d560a3fc20b" title="gfs2_atomic_open" alt="" coords="181,208,309,235"/>
-</map>

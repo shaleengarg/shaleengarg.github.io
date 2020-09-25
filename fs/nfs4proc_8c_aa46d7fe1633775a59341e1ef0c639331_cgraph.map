@@ -1,8 +1,0 @@
-<map id="nfs_state_set_open_stateid" name="nfs_state_set_open_stateid">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#a9b53fa419f5d004a000718be02f435f0" title="nfs_set_open_stateid\l_locked" alt="" coords="189,84,336,125"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a7dbda27b69214b28ce907221c170aab6" title="nfs_need_update_open\l_stateid" alt="" coords="384,25,540,67"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a17df3fc049c984d5b59098c388e470bf" title="nfs_state_log_update\l_open_stateid" alt="" coords="804,25,951,67"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#ac964c3d7a8a6f4a93c15dc1b0708c255" title="nfs_test_and_clear\l_all_open_stateid" alt="" coords="396,143,528,184"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#a9446362540b4e101585a18732fa46c46" title="nfs_state_log_out_of\l_order_open_stateid" alt="" coords="601,25,743,67"/>
-<area shape="rect" id="node7" href="$nfs4state_8c.html#ab592cd0a31f86fa750021490fdc41595" title="nfs4_state_mark_reclaim\l_nograce" alt="" coords="588,143,756,184"/>
-</map>

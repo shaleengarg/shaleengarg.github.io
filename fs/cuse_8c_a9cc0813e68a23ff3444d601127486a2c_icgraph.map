@@ -1,8 +1,0 @@
-<map id="cuse_parse_one" name="cuse_parse_one">
-<area shape="rect" id="node2" href="$cuse_8c.html#a8f661b8e37063605231dea1fa1238b0f" title="cuse_parse_devinfo" alt="" coords="171,5,309,32"/>
-<area shape="rect" id="node3" href="$cuse_8c.html#a5deab4441e44f0e69cf786ddcf422824" title="cuse_process_init_reply" alt="" coords="357,5,520,32"/>
-<area shape="rect" id="node4" href="$cuse_8c.html#a3ce2a0bcd2db9c9de9b2b53081fe67f2" title="cuse_send_init" alt="" coords="568,5,677,32"/>
-<area shape="rect" id="node5" href="$cuse_8c.html#ab830a43600556672955f140ecabb99d7" title="cuse_channel_open" alt="" coords="725,5,863,32"/>
-<area shape="rect" id="node6" href="$cuse_8c.html#a259338d3d0bcc5e07ce88b0024113be2" title="cuse_init" alt="" coords="911,5,985,32"/>
-<area shape="rect" id="node7" href="$cuse_8c.html#a82e5d1268caa23564c91c0f105e1ddbd" title="cuse_exit" alt="" coords="1033,5,1112,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="fat_cache_add" name="fat_cache_add">
-<area shape="rect" id="node2" href="$fat_8h.html#a5eb6c1d4c9ac766204f6485eb606cd07" title="MSDOS_I" alt="" coords="355,31,437,58"/>
-<area shape="rect" id="node3" href="$fat_2cache_8c.html#a9ce20c9f0ae4be526fa7ff6280f44ca3" title="fat_cache_merge" alt="" coords="172,31,295,58"/>
-<area shape="rect" id="node4" href="$fat_2cache_8c.html#a1780b64d65c584074ebd557e94855fc1" title="fat_max_cache" alt="" coords="178,82,289,108"/>
-<area shape="rect" id="node5" href="$fat_2cache_8c.html#aa9d2a0f1851e1bfbe92b8c922539a3d4" title="fat_cache_alloc" alt="" coords="177,132,290,159"/>
-<area shape="rect" id="node6" href="$fat_2cache_8c.html#aa3f7aa1152d0c9e4ca29c29aa3b4460e" title="fat_cache_free" alt="" coords="179,183,287,210"/>
-<area shape="rect" id="node7" href="$fat_2cache_8c.html#ad6fef87fdb6a8d3e9847c33997b4ed64" title="fat_cache_update_lru" alt="" coords="160,234,307,260"/>
-</map>

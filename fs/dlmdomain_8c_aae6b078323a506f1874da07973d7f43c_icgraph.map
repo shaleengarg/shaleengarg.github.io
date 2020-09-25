@@ -1,7 +1,0 @@
-<map id="dlm_query_join_wire_to_packet" name="dlm_query_join_wire_to_packet">
-<area shape="rect" id="node2" href="$dlmdomain_8c.html#a93595b41cda4b88a17b1dc3d22e2c5f3" title="dlm_request_join" alt="" coords="193,13,313,39"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#a27b354d68c034ca4b65aebf4e0beb81e" title="dlm_try_to_join_domain" alt="" coords="361,13,520,39"/>
-<area shape="rect" id="node4" href="$dlmdomain_8c.html#affee3bbfcdea87eedd2014d822f30644" title="dlm_join_domain" alt="" coords="568,13,687,39"/>
-<area shape="rect" id="node5" href="$dlmdomain_8c.html#ae919e83248a462e98afc7b41066b992f" title="dlm_register_domain" alt="" coords="735,13,877,39"/>
-<area shape="rect" id="node6" href="$stack__o2cb_8c.html#a6fbec0ac0199f1beacbae9a3ad9d23ef" title="o2cb_cluster_connect" alt="" coords="925,13,1075,39"/>
-</map>

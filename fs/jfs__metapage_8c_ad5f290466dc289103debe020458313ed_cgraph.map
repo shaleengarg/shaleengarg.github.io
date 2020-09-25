@@ -1,5 +1,0 @@
-<map id="metapage_write_end_io" name="metapage_write_end_io">
-<area shape="rect" id="node2" href="$jfs__metapage_8c.html#a34de6f0268f94f930452d500db4808dd" title="last_write_complete" alt="" coords="212,31,351,57"/>
-<area shape="rect" id="node3" href="$jfs__metapage_8c.html#a812006336cb68a7001c4b824390d7176" title="page_to_mp" alt="" coords="427,5,521,32"/>
-<area shape="rect" id="node4" href="$jfs__metapage_8c.html#a62405f9b7729e9ba0748381675f3e79f" title="remove_from_logsync" alt="" coords="399,56,549,83"/>
-</map>

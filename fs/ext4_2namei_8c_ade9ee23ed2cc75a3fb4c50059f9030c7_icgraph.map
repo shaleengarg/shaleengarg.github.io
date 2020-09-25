@@ -1,8 +1,0 @@
-<map id="ext4_inc_count" name="ext4_inc_count">
-<area shape="rect" id="node2" href="$ext4_2namei_8c.html#a52d8013bff99681c172be9b85d243513" title="ext4_mkdir" alt="" coords="197,5,284,32"/>
-<area shape="rect" id="node3" href="$ext4_2namei_8c.html#a7832fe071c88551bd349b87e062e120f" title="ext4_link" alt="" coords="203,56,278,83"/>
-<area shape="rect" id="node4" href="$ext4_2namei_8c.html#a28756a2a0858737f6208b9813fb72cb4" title="ext4_update_dir_count" alt="" coords="164,107,317,133"/>
-<area shape="rect" id="node7" href="$ext4_2namei_8c.html#aef892a18d69e63d761033c1cf06148eb" title="ext4_rename" alt="" coords="385,157,482,184"/>
-<area shape="rect" id="node5" href="$ext4_2namei_8c.html#a2454346467520bcffd2a92143798f47d" title="ext4_cross_rename" alt="" coords="365,107,501,133"/>
-<area shape="rect" id="node6" href="$ext4_2namei_8c.html#afe76a34888785c92026ad93833f0c93e" title="ext4_rename2" alt="" coords="549,132,653,159"/>
-</map>

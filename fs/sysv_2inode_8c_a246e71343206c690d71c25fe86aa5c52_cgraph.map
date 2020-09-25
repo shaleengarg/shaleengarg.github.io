@@ -1,6 +1,0 @@
-<map id="sysv_init_icache" name="sysv_init_icache">
-<area shape="rect" id="node2" href="$sysv_2inode_8c.html#a195346c7eb4cc9dfbbc80bd39a3ca699" title="init_once" alt="" coords="172,31,247,57"/>
-<area shape="rect" id="node3" href="$inode_8c.html#ac402a0147515d6f4f59ff04cfe8eb2f7" title="inode_init_once" alt="" coords="295,31,407,57"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="455,5,637,32"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="477,56,615,83"/>
-</map>

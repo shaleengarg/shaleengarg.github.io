@@ -1,9 +1,0 @@
-<map id="cifs_from_utf16" name="cifs_from_utf16">
-<area shape="rect" id="node2" href="$cifs__unicode_8c.html#aafb50d2df24d64a52d3224e73352db18" title="cifs_mapchar" alt="" coords="165,56,265,83"/>
-<area shape="rect" id="node3" href="$cifs__unicode_8c.html#af8b339ffb270e1b2cfb6905b3990606b" title="convert_sfm_char" alt="" coords="313,5,440,32"/>
-<area shape="rect" id="node4" href="$cifs__unicode_8c.html#aeebe15896bceb73789f78929b6e2b87f" title="convert_sfu_char" alt="" coords="315,56,438,83"/>
-<area shape="rect" id="node5" href="$nls__base_8c.html#a39b96130a8a569652acaafa049768a89" title="utf16s_to_utf8s" alt="" coords="321,107,433,133"/>
-<area shape="rect" id="node6" href="$nls__base_8c.html#ad806af1e8e7e66a65c53fbdb0b2ca36e" title="get_utf16" alt="" coords="499,56,575,83"/>
-<area shape="rect" id="node7" href="$nls__base_8c.html#a5840e4ae16cca75c47d7b0133959ebdf" title="utf32_to_utf8" alt="" coords="488,107,587,133"/>
-<area shape="rect" id="node8" href="$nls__base_8c.html#a2c440fcf315dd54d6ae38a741aa24d74" title="EXPORT_SYMBOL" alt="" coords="635,132,773,159"/>
-</map>

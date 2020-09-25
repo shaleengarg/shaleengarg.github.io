@@ -1,5 +1,0 @@
-<map id="ext2_add_nondir" name="ext2_add_nondir">
-<area shape="rect" id="node2" href="$ext2_2namei_8c.html#a19d51954118b3544ae1f6404d80e26ab" title="ext2_create" alt="" coords="175,5,265,32"/>
-<area shape="rect" id="node3" href="$ext2_2namei_8c.html#a3296ff7060d7c3d14a9b2f78d279c9be" title="ext2_mknod" alt="" coords="173,56,267,83"/>
-<area shape="rect" id="node4" href="$ext2_2namei_8c.html#ab0188bfc0488270b4cd2f049f3dfb6dc" title="ext2_symlink" alt="" coords="171,107,269,133"/>
-</map>

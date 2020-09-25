@@ -1,6 +1,0 @@
-<map id="btrfs_init_full_stripe_locks_tree" name="btrfs_init_full_stripe_locks_tree">
-<area shape="rect" id="node2" href="$ctree_8h.html#a4476a4d2ab950305823708853a261a84" title="btrfs_bio_counter_inc\l_blocked" alt="" coords="188,5,335,47"/>
-<area shape="rect" id="node4" href="$ctree_8h.html#afca7ba5e50e01f6a4cf02babc33fcbcc" title="btrfs_bio_counter_sub" alt="" coords="581,46,732,73"/>
-<area shape="rect" id="node5" href="$ctree_8h.html#a367f73adcc70644e6872b0a7ee3d6c16" title="btrfs_bio_counter_inc\l_noblocked" alt="" coords="188,123,335,164"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#ac78ce5e05da4e46f58f771fd49cea908" title="btrfs_bio_counter_dec" alt="" coords="383,17,533,43"/>
-</map>

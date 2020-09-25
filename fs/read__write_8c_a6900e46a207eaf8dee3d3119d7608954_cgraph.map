@@ -1,6 +1,0 @@
-<map id="fixed_size_llseek" name="fixed_size_llseek">
-<area shape="rect" id="node2" href="$read__write_8c.html#a671b38c1409ed29a6d0a97ba76303fa6" title="generic_file_llseek_size" alt="" coords="176,56,336,83"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="519,56,657,83"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#a0ba1e453b6ea109fba765f8317691688" title="vfs_setpos" alt="" coords="384,5,471,32"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="527,5,649,32"/>
-</map>

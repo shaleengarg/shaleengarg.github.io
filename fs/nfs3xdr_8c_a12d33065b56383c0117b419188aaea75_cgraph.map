@@ -1,8 +1,0 @@
-<map id="decode_wcc_attr" name="decode_wcc_attr">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a8e70ce7fbd230eda44911f5de3a62f32" title="xdr_decode_size3" alt="" coords="208,5,335,32"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ae558a08ddc9f10875abbca8fbb6f2019" title="xdr_decode_nfstime3" alt="" coords="198,56,345,83"/>
-<area shape="rect" id="node4" href="$nfs_2internal_8h.html#a00efa7565e17a5ddf636c024d52d98e3" title="nfs_timespec_to_change_attr" alt="" coords="175,107,368,133"/>
-<area shape="rect" id="node7" href="$nfs3xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="204,157,339,184"/>
-<area shape="rect" id="node5" href="$nfs_2internal_8h.html#afbd4fd368ad6ac178078f4269d75bb7b" title="nfs_fhandle_hash" alt="" coords="416,81,540,108"/>
-<area shape="rect" id="node6" href="$nfs_2internal_8h.html#a95033472927b041003da0407b35fda2b" title="nfs_stateid_hash" alt="" coords="417,132,539,159"/>
-</map>

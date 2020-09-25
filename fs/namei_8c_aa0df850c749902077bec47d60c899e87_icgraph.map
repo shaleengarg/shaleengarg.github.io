@@ -1,6 +1,0 @@
-<map id="do_unlinkat" name="do_unlinkat">
-<area shape="rect" id="node2" href="$namei_8c.html#a7adb014da1671b710d494b3a83808cbd" title="SYSCALL_DEFINE3" alt="" coords="141,5,288,32"/>
-<area shape="rect" id="node3" href="$namei_8c.html#a4102c57d76c4962d692f10c4acacf3ab" title="SYSCALL_DEFINE1" alt="" coords="141,56,288,83"/>
-<area shape="rect" id="node4" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="153,107,276,133"/>
-<area shape="rect" id="node5" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="165,157,265,184"/>
-</map>

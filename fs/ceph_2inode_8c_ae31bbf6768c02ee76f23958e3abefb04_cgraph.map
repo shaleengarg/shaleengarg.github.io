@@ -1,6 +1,0 @@
-<map id="ceph_fill_dirfrag" name="ceph_fill_dirfrag">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="195,5,283,32"/>
-<area shape="rect" id="node3" href="$ceph_2inode_8c.html#aa70c67ff20a7670cf115c9fc3904e991" title="__ceph_find_frag" alt="" coords="178,56,299,83"/>
-<area shape="rect" id="node5" href="$ceph_2inode_8c.html#acf997ad7f9b351f12007e0b606168b2a" title="__get_or_create_frag" alt="" coords="167,107,311,133"/>
-<area shape="rect" id="node4" href="$ceph__frag_8c.html#a735f49070162231ca19778930878e05c" title="ceph_frag_compare" alt="" coords="359,81,495,108"/>
-</map>

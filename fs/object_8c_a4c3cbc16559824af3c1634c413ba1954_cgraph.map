@@ -1,8 +1,0 @@
-<map id="fscache_lookup_failure" name="fscache_lookup_failure">
-<area shape="rect" id="node2" href="$object_8c.html#ad595049cd9d3251bc25ac0220d7992da" title="fscache_done_parent_op" alt="" coords="208,56,375,83"/>
-<area shape="rect" id="node3" href="$fscache_2internal_8h.html#aae52858a78e36ae08f2098a073e68db6" title="fscache_raise_event" alt="" coords="423,56,565,83"/>
-<area shape="rect" id="node4" href="$fscache_2internal_8h.html#a3d39a831595401a170f4984148482c3a" title="fscache_enqueue_object" alt="" coords="613,56,780,83"/>
-<area shape="rect" id="node5" href="$object_8c.html#a56a15d20f5e28b4e88921cc74fd54057" title="fscache_get_object" alt="" coords="849,5,984,32"/>
-<area shape="rect" id="node6" href="$fscache_2internal_8h.html#ad018e8818f8733cc02afef4b643b3400" title="fscache_object_congested" alt="" coords="828,56,1005,83"/>
-<area shape="rect" id="node7" href="$object_8c.html#a049577147beb84269b63d41bcad8743e" title="fscache_put_object" alt="" coords="849,107,984,133"/>
-</map>

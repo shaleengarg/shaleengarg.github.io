@@ -1,6 +1,0 @@
-<map id="put_comm" name="put_comm">
-<area shape="rect" id="node2" href="$item_8c.html#afd0bcff0b03e9723fcbf977d5feaa360" title="config_item_put" alt="" coords="136,56,251,83"/>
-<area shape="rect" id="node3" href="$item_8c.html#aaeaebb53a7147a9ecd6436bf638d51b5" title="config_item_release" alt="" coords="299,5,437,32"/>
-<area shape="rect" id="node5" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="299,56,437,83"/>
-<area shape="rect" id="node4" href="$item_8c.html#a758a62c19b940beb28751beb36f350c5" title="config_item_cleanup" alt="" coords="485,56,627,83"/>
-</map>

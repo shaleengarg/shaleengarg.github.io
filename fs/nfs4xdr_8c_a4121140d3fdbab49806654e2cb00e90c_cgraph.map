@@ -1,8 +1,0 @@
-<map id="nfs4_xdr_dec_release_lockowner" name="nfs4_xdr_dec_release_lockowner">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#aec0f64cb408a499195bcf23c4943ee13" title="decode_compound_hdr" alt="" coords="588,5,744,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#aa1db73f2c315c649e228cd858fdad6b1" title="decode_release_lockowner" alt="" coords="203,56,381,83"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a3ec30397630ee94cca7e9799356c78fc" title="nfs4_stat_to_errno" alt="" coords="794,5,925,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="792,56,927,83"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#a83af2e7f21f4e194703a99d7a18e4413" title="decode_op_hdr" alt="" coords="429,56,540,83"/>
-<area shape="rect" id="node7" href="$nfs4xdr_8c.html#a669740e76608a6dd129ce745d78c2c36" title="__decode_op_hdr" alt="" coords="604,56,728,83"/>
-</map>

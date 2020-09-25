@@ -1,5 +1,0 @@
-<map id="fuse_dev_poll" name="fuse_dev_poll">
-<area shape="rect" id="node2" href="$fuse_2dev_8c.html#a6f22a42c68eb1e951bbb0949dc704bd8" title="fuse_get_dev" alt="" coords="165,5,265,32"/>
-<area shape="rect" id="node3" href="$fuse_2dev_8c.html#ab9bab35861f89583284102864c093450" title="request_pending" alt="" coords="156,56,273,83"/>
-<area shape="rect" id="node4" href="$fuse_2dev_8c.html#ae59f144db1e2664949580db71ff1f639" title="forget_pending" alt="" coords="321,56,428,83"/>
-</map>

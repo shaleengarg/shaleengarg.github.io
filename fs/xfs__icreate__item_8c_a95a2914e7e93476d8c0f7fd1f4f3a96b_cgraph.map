@@ -1,6 +1,0 @@
-<map id="xfs_icreate_item_format" name="xfs_icreate_item_format">
-<area shape="rect" id="node2" href="$xfs__icreate__item_8c.html#a77592902e72c759440f2251f91fd9925" title="ICR_ITEM" alt="" coords="233,5,318,32"/>
-<area shape="rect" id="node3" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="216,56,335,83"/>
-<area shape="rect" id="node4" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="383,31,517,57"/>
-<area shape="rect" id="node5" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="389,81,511,108"/>
-</map>

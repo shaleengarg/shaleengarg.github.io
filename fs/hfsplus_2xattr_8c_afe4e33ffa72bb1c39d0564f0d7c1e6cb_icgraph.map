@@ -1,9 +1,0 @@
-<map id="hfsplus_getxattr_finder_info" name="hfsplus_getxattr_finder_info">
-<area shape="rect" id="node2" href="$hfsplus_2xattr_8h.html#a924d5b0670aa15fbd7bd23ff241797f1" title="__hfsplus_getxattr" alt="" coords="236,107,365,133"/>
-<area shape="rect" id="node3" href="$hfsplus_2xattr_8h.html#afb07cddc82ed9858b86d28dbc4135673" title="hfsplus_getxattr" alt="" coords="431,56,546,83"/>
-<area shape="rect" id="node7" href="$hfsplus_2xattr_8c.html#a63a734b6479e2e8fe6e20cf012c8261b" title="hfsplus_osx_getxattr" alt="" coords="417,107,560,133"/>
-<area shape="rect" id="node8" href="$hfsplus_2posix__acl_8c.html#af2664bf99c2aa6a91daf109a3be8d727" title="hfsplus_get_posix_acl" alt="" coords="413,157,564,184"/>
-<area shape="rect" id="node4" href="$hfsplus_2xattr__security_8c.html#ab60658a84ada7287364337182cf414e5" title="hfsplus_security_getxattr" alt="" coords="612,5,780,32"/>
-<area shape="rect" id="node5" href="$hfsplus_2xattr__trusted_8c.html#aa7fd3964aef0816cf78556c146123da5" title="hfsplus_trusted_getxattr" alt="" coords="615,56,777,83"/>
-<area shape="rect" id="node6" href="$hfsplus_2xattr__user_8c.html#a1fe776c39188fb61d4f187cdcfd82389" title="hfsplus_user_getxattr" alt="" coords="623,107,769,133"/>
-</map>

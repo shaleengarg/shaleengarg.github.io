@@ -1,7 +1,0 @@
-<map id="ecryptfs_init_messaging" name="ecryptfs_init_messaging">
-<area shape="rect" id="node2" href="$miscdev_8c.html#ad8d24b9b77b2d32acdee2791476fe77a" title="ecryptfs_init_ecryptfs\l_miscdev" alt="" coords="237,5,383,47"/>
-<area shape="rect" id="node3" href="$messaging_8c.html#a83a551f817e776aaea301bb9191199f9" title="ecryptfs_release_messaging" alt="" coords="216,71,404,98"/>
-<area shape="rect" id="node4" href="$messaging_8c.html#a2f2b66714d779ad0e2c9347f7c412da4" title="ecryptfs_exorcise_daemon" alt="" coords="452,42,631,69"/>
-<area shape="rect" id="node6" href="$miscdev_8c.html#aa5d62a4fd16cf95e9322d432653b7c59" title="ecryptfs_destroy_ecryptfs\l_miscdev" alt="" coords="455,93,628,135"/>
-<area shape="rect" id="node5" href="$messaging_8c.html#afa5f0c6e4ccfb9753a323ff2c5ae993c" title="ecryptfs_msg_ctx_alloc\l_to_free" alt="" coords="679,35,839,76"/>
-</map>

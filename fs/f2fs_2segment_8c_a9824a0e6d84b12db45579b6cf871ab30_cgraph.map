@@ -1,6 +1,0 @@
-<map id="__drop_discard_cmd" name="__drop_discard_cmd">
-<area shape="rect" id="node2" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="455,5,509,32"/>
-<area shape="rect" id="node3" href="$f2fs_2segment_8c.html#aee54f1020d046a7d0c8816dc6ae9d513" title="__remove_discard_cmd" alt="" coords="196,56,356,83"/>
-<area shape="rect" id="node4" href="$f2fs_2super_8c.html#a2e467fc587c0c33bacafbe0e1200255e" title="f2fs_msg" alt="" coords="444,56,520,83"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a94a30ae7ae7150e8d8e9bc5cd4c6ef94" title="__detach_discard_cmd" alt="" coords="404,107,560,133"/>
-</map>

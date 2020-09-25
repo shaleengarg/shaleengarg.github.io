@@ -1,8 +1,0 @@
-<map id="encode_share_access" name="encode_share_access">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a89a4c2b64f6430a4171dd52bfb9c2bb4" title="encode_openhdr" alt="" coords="231,31,349,57"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#ae2e9f46c44e4deb474ba2425ab48845e" title="encode_open_downgrade" alt="" coords="205,81,375,108"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#a1b41ffc7deab9e79d495e03cc14165ac" title="encode_open" alt="" coords="476,31,575,57"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#ac66d3792926f27232025255cba72761d" title="nfs4_xdr_enc_open" alt="" coords="696,5,831,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a3951ac577a6fc2408b1013e316088457" title="nfs4_xdr_enc_open_noattr" alt="" coords="676,56,851,83"/>
-<area shape="rect" id="node7" href="$nfs4xdr_8c.html#a8585bcccfc9ecf64e6b4ea44bf72996a" title="nfs4_xdr_enc_open_downgrade" alt="" coords="423,81,628,108"/>
-</map>

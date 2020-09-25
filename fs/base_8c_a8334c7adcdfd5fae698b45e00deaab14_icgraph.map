@@ -1,6 +1,0 @@
-<map id="proc_pid_instantiate" name="proc_pid_instantiate">
-<area shape="rect" id="node2" href="$proc_2internal_8h.html#a163540b64b61813a099f85aa5d1e7b49" title="proc_pid_lookup" alt="" coords="193,5,309,32"/>
-<area shape="rect" id="node4" href="$proc_2internal_8h.html#a4ae4653e54a0a987694d075a53b3d4a4" title="proc_pid_readdir" alt="" coords="192,56,309,83"/>
-<area shape="rect" id="node3" href="$proc_2root_8c.html#adf046c3951053b439fb6891f864761c5" title="proc_root_lookup" alt="" coords="358,5,479,32"/>
-<area shape="rect" id="node5" href="$proc_2root_8c.html#a35c5af2597b92e530d4861d5aa2e636f" title="proc_root_readdir" alt="" coords="357,56,480,83"/>
-</map>

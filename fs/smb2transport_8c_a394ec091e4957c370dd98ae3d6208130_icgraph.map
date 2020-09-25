@@ -1,5 +1,0 @@
-<map id="smb2_mid_entry_alloc" name="smb2_mid_entry_alloc">
-<area shape="rect" id="node2" href="$smb2transport_8c.html#afbcdb437fe168778f347ad0cc96b8c19" title="smb2_get_mid_entry" alt="" coords="227,5,369,32"/>
-<area shape="rect" id="node4" href="$smb2transport_8c.html#a23f30bb189f0082be9a127b23588d826" title="smb2_setup_async_request" alt="" coords="205,56,391,83"/>
-<area shape="rect" id="node3" href="$smb2transport_8c.html#a1dc590cefdf41e9aa40f15fc92b8e31d" title="smb2_setup_request" alt="" coords="439,5,581,32"/>
-</map>

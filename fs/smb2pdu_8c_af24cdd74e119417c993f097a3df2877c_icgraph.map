@@ -1,8 +1,0 @@
-<map id="SMB2_sess_sendreceive" name="SMB2_sess_sendreceive">
-<area shape="rect" id="node2" href="$smb2pdu_8c.html#a0d7eefceff0a64db845d9a92f798d0ea" title="SMB2_sess_establish\l_session" alt="" coords="224,5,376,47"/>
-<area shape="rect" id="node3" href="$smb2pdu_8c.html#a9fcd80fe4bb561b83ca27442ca6d6d76" title="SMB2_sess_auth_rawntlmssp\l_authenticate" alt="" coords="424,60,623,101"/>
-<area shape="rect" id="node7" href="$smb2pdu_8c.html#a7950e3fc1dffe2bdca912d5b0d38e97a" title="SMB2_sess_auth_rawntlmssp\l_negotiate" alt="" coords="671,89,869,131"/>
-<area shape="rect" id="node4" href="$smb2pdu_8c.html#a6150a50d6d320d466af0cf4b954e56f3" title="SMB2_auth_kerberos" alt="" coords="697,38,843,65"/>
-<area shape="rect" id="node5" href="$smb2pdu_8c.html#ac5c29dc7c8de7c80beb32c7d00233f72" title="SMB2_select_sec" alt="" coords="917,67,1045,94"/>
-<area shape="rect" id="node6" href="$smb2proto_8h.html#aa1f9c2a45319fd4a15af94bb9cd0cb5f" title="SMB2_sess_setup" alt="" coords="1093,67,1225,94"/>
-</map>

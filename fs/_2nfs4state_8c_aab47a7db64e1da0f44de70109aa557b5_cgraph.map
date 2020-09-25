@@ -1,9 +1,0 @@
-<map id="nfsd4_cb_recall_release" name="nfsd4_cb_recall_release">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#a33801748542f905b0cbc283a48c59749" title="nfs4_put_stid" alt="" coords="247,5,347,32"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#aca5a764ebd4b985dfda586a377550c5b" title="nfsd4_cb_recall_prepare" alt="" coords="216,56,379,83"/>
-<area shape="rect" id="node8" href="$_2nfs4state_8c.html#a54830a1b7c53d9886d72d75fdf5ec40a" title="nfsd4_cb_recall_done" alt="" coords="223,107,371,133"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a9a966030ded2d5e6d69a176f36c7bf4f" title="put_nfs4_file" alt="" coords="442,5,538,32"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a00c25c1cdf7500d9c23d9c37398e5984" title="nfsd4_free_file_rcu" alt="" coords="601,5,733,32"/>
-<area shape="rect" id="node6" href="$_2nfs4state_8c.html#a4358b475d06546bde14e838d88455183" title="block_delegations" alt="" coords="427,56,553,83"/>
-<area shape="rect" id="node7" href="$block__dev_8c.html#a79868b6f75989a03b1ad72c771d39cc1" title="hash" alt="" coords="642,56,693,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ocfs2_la_set_sizes" name="ocfs2_la_set_sizes">
-<area shape="rect" id="node2" href="$localalloc_8c.html#af00575bf8111c21b8ec7add5af9f1dfb" title="ocfs2_la_default_mb" alt="" coords="188,56,331,83"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#a5bf0d6a1898f2bd81834baf8c21446fe" title="ocfs2_clusters_to_megabytes" alt="" coords="379,5,575,32"/>
-<area shape="rect" id="node5" href="$ocfs2__fs_8h.html#a69711d6209e6210a880331f01bd9c035" title="ocfs2_local_alloc_size" alt="" coords="400,107,553,133"/>
-<area shape="rect" id="node6" href="$ocfs2_8h.html#a323924c47cf2e34c247d0f28a371b984" title="ocfs2_megabytes_to\l_clusters" alt="" coords="188,158,331,199"/>
-<area shape="rect" id="node4" href="$ocfs2__fs_8h.html#a055c5c91eb72a667ef6e3e8e59ba5c6d" title="ocfs2_group_bitmap_size" alt="" coords="391,56,562,83"/>
-</map>

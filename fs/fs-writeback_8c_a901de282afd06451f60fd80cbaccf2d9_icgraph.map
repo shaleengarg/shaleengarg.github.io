@@ -1,7 +1,0 @@
-<map id="wb_start_writeback" name="wb_start_writeback">
-<area shape="rect" id="node2" href="$fs-writeback_8c.html#ab198d8902d59220af2b210513c02b199" title="__wakeup_flusher_threads_bdi" alt="" coords="188,31,389,57"/>
-<area shape="rect" id="node3" href="$fs-writeback_8c.html#a55879596c5450565f75408e92b29d497" title="wakeup_flusher_threads_bdi" alt="" coords="437,5,624,32"/>
-<area shape="rect" id="node4" href="$fs-writeback_8c.html#acd77fd73d6e9a41c7fa130bc0e3bf018" title="wakeup_flusher_threads" alt="" coords="449,56,612,83"/>
-<area shape="rect" id="node5" href="$sync_8c.html#a8afa97bf9af465089a1711f1d494ae60" title="ksys_sync" alt="" coords="672,56,757,83"/>
-<area shape="rect" id="node6" href="$sync_8c.html#aea720904122429e3d896751bfc2a86dc" title="SYSCALL_DEFINE0" alt="" coords="805,56,952,83"/>
-</map>

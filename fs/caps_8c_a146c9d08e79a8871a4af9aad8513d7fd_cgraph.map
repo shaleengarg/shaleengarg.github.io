@@ -1,6 +1,0 @@
-<map id="drop_inode_snap_realm" name="drop_inode_snap_realm">
-<area shape="rect" id="node2" href="$snap_8c.html#ae9ac43ce9abdb99a0bb0135fe43954b3" title="ceph_put_snap_realm" alt="" coords="212,5,361,32"/>
-<area shape="rect" id="node5" href="$ceph_2super_8h.html#a5cfd03d4fd1754c43ab0a99fb09c479c" title="ceph_sb_to_client" alt="" coords="223,56,350,83"/>
-<area shape="rect" id="node3" href="$snap_8c.html#ace64bb84634490493f6e0f0f4e88ad28" title="__destroy_snap_realm" alt="" coords="409,5,563,32"/>
-<area shape="rect" id="node4" href="$snap_8c.html#a4aa6fffea265bc4b4e8dcf02e2406267" title="__put_snap_realm" alt="" coords="611,5,739,32"/>
-</map>

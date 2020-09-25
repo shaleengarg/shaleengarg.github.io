@@ -1,5 +1,0 @@
-<map id="ext4_mb_put_pa" name="ext4_mb_put_pa">
-<area shape="rect" id="node2" href="$ext4_2balloc_8c.html#a2da45db152dced20e12bf92fd1acc2ee" title="ext4_get_group_number" alt="" coords="172,13,333,39"/>
-<area shape="rect" id="node4" href="$mballoc_8c.html#abcce229dcccb1714b2d0a30ea5f7e23d" title="ext4_mb_pa_callback" alt="" coords="179,63,327,90"/>
-<area shape="rect" id="node3" href="$ext4_2balloc_8c.html#a76c7f04d0e6fdcb93af845697cb3302d" title="ext4_get_group_no_and\l_offset" alt="" coords="381,5,541,47"/>
-</map>

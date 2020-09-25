@@ -1,8 +1,0 @@
-<map id="ocfs2_write_end_inline" name="ocfs2_write_end_inline">
-<area shape="rect" id="node2" href="$ocfs2_2aops_8h.html#aa6c54fe0f8b0f881ba63ce870466e945" title="ocfs2_write_end_nolock" alt="" coords="208,56,371,83"/>
-<area shape="rect" id="node3" href="$ocfs2_2mmap_8c.html#add2460e181be216e7332706c4ee746f9" title="__ocfs2_page_mkwrite" alt="" coords="422,5,578,32"/>
-<area shape="rect" id="node5" href="$ocfs2_2aops_8c.html#a794850fcb703e6f770d88ae26b3511a0" title="ocfs2_write_end" alt="" coords="441,56,559,83"/>
-<area shape="rect" id="node6" href="$ocfs2_2aops_8c.html#a62285e9f85b08e2890ad6d40f73fbe3a" title="ocfs2_dio_wr_get_block" alt="" coords="419,107,581,133"/>
-<area shape="rect" id="node4" href="$ocfs2_2mmap_8c.html#a3aaaae00fd8adc5fb4aebe2dd31726eb" title="ocfs2_page_mkwrite" alt="" coords="629,5,772,32"/>
-<area shape="rect" id="node7" href="$ocfs2_2aops_8c.html#a34403509b19366144ea3c92c7f2760c8" title="ocfs2_direct_IO" alt="" coords="643,107,758,133"/>
-</map>

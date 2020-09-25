@@ -1,8 +1,0 @@
-<map id="seq_dentry" name="seq_dentry">
-<area shape="rect" id="node2" href="$d__path_8c.html#a0cf43bd72266ba1c60373337cf06d95f" title="dentry_path" alt="" coords="143,31,233,57"/>
-<area shape="rect" id="node6" href="$seq__file_8c.html#a6c4d24e7ef5d05cfa080b50808d1a5ff" title="mangle_path" alt="" coords="140,81,236,108"/>
-<area shape="rect" id="node7" href="$seq__file_8c.html#a80f6e047a79be50d2700c2208ce44450" title="EXPORT_SYMBOL" alt="" coords="284,119,423,145"/>
-<area shape="rect" id="node3" href="$d__path_8c.html#a92354b5a6932e68c90156a3d371b4381" title="prepend" alt="" coords="490,5,558,32"/>
-<area shape="rect" id="node4" href="$d__path_8c.html#a4e45e18c7e826a4a8602d26b3923e6e2" title="__dentry_path" alt="" coords="301,56,405,83"/>
-<area shape="rect" id="node5" href="$d__path_8c.html#a19bc818c4e32e5bb079bdae1e61a6829" title="prepend_name" alt="" coords="471,56,577,83"/>
-</map>

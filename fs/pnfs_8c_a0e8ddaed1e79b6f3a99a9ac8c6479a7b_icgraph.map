@@ -1,8 +1,0 @@
-<map id="pnfs_cleanup_layoutcommit" name="pnfs_cleanup_layoutcommit">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#ac58a723c18c0c84bf536c01d2ec4164e" title="nfs4_proc_secinfo" alt="" coords="237,31,365,57"/>
-<area shape="rect" id="node3" href="$nfs4namespace_8c.html#a22e556ad40ca81fde419a1a92a7ee656" title="nfs4_negotiate_security" alt="" coords="413,31,573,57"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a929dfebb7c46e2a50b962955cf6ab4b0" title="nfs4_proc_lookup_common" alt="" coords="621,31,803,57"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#a6423b20e5c89296eadd88743cf22c506" title="nfs4_proc_lookup" alt="" coords="886,5,1010,32"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#ad2002474313255f81f5c111effe8f12f" title="nfs4_proc_lookup_mountpoint" alt="" coords="851,56,1045,83"/>
-<area shape="rect" id="node7" href="$nfs4namespace_8c.html#abb583edebee636f6f7feccde9ab72225" title="nfs4_submount" alt="" coords="1093,56,1204,83"/>
-</map>

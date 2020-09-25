@@ -1,7 +1,0 @@
-<map id="make_node" name="make_node">
-<area shape="rect" id="node2" href="$config_8c.html#a1a93a5d2f93a8b0ddfc53d00c9089927" title="config_item_to_space" alt="" coords="160,5,309,32"/>
-<area shape="rect" id="node3" href="$item_8c.html#a3a4fe3c182b19ca23c77c0b0c829d0e9" title="config_item_init_type_name" alt="" coords="143,56,327,83"/>
-<area shape="rect" id="node4" href="$item_8c.html#a5e5e9bfe8dc14b90de2d79b216a9f143" title="config_item_set_name" alt="" coords="375,5,528,32"/>
-<area shape="rect" id="node5" href="$item_8c.html#a90f944f1c54c84dfd0e93e2bb57d7b5c" title="EXPORT_SYMBOL" alt="" coords="576,31,715,57"/>
-<area shape="rect" id="node6" href="$item_8c.html#a9c95f149a909b2515103c61d75b6077a" title="config_item_init" alt="" coords="395,107,508,133"/>
-</map>

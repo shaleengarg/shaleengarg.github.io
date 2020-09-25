@@ -1,7 +1,0 @@
-<map id="v9fs_uflags2omode" name="v9fs_uflags2omode">
-<area shape="rect" id="node2" href="$vfs__file_8c.html#a3c0b1e13f86067933e01defb959a0f3c" title="v9fs_file_open" alt="" coords="211,5,318,32"/>
-<area shape="rect" id="node3" href="$vfs__inode_8c.html#a60f9d7b10b46c2b28da2920cbf748dbb" title="v9fs_vfs_atomic_open" alt="" coords="188,56,341,83"/>
-<area shape="rect" id="node4" href="$vfs__inode_8c.html#a4e8c2d44da17a3563e72ae54056cab66" title="v9fs_refresh_inode" alt="" coords="389,56,521,83"/>
-<area shape="rect" id="node5" href="$vfs__dentry_8c.html#a3d403da144308713ce6cd74624599e7d" title="v9fs_lookup_revalidate" alt="" coords="569,5,724,32"/>
-<area shape="rect" id="node6" href="$vfs__inode_8c.html#a33ccbe1c11b8be929086b2690c7c646a" title="v9fs_vfs_link" alt="" coords="597,56,696,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="sprintf_cpu_key" name="sprintf_cpu_key">
-<area shape="rect" id="node2" href="$prints_8c.html#a79eb95db0797c6b18541d84feb5274e8" title="reiserfs_cpu_offset" alt="" coords="168,56,301,83"/>
-<area shape="rect" id="node5" href="$prints_8c.html#ac31ea39f8450a0f5bfd6f96d9a24c588" title="cpu_type" alt="" coords="197,5,272,32"/>
-<area shape="rect" id="node3" href="$reiserfs_8h.html#a05b20d0d23fc98b593f6c68574395ed1" title="cpu_key_k_type" alt="" coords="353,5,471,32"/>
-<area shape="rect" id="node4" href="$reiserfs_8h.html#a7a18eb87edf9b13864eadf32bccd747d" title="cpu_key_k_offset" alt="" coords="349,56,475,83"/>
-</map>

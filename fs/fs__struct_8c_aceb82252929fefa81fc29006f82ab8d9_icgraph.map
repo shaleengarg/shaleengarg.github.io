@@ -1,9 +1,0 @@
-<map id="set_fs_root" name="set_fs_root">
-<area shape="rect" id="node2" href="$namespace_8c.html#ac3c98bfb89cf1723085e18ce20e8a420" title="init_mount_tree" alt="" coords="140,31,251,57"/>
-<area shape="rect" id="node6" href="$namespace_8c.html#ae087b3dfcccf7764ec30f98edcdbe0c4" title="mntns_install" alt="" coords="146,81,245,108"/>
-<area shape="rect" id="node7" href="$open_8c.html#a5e0ee4a916704d6d3d76d5cdebfddcec" title="ksys_chroot" alt="" coords="149,132,242,159"/>
-<area shape="rect" id="node3" href="$namespace_8c.html#a9711762b62c5909c8297c2dc1cdd704b" title="mnt_init" alt="" coords="338,31,406,57"/>
-<area shape="rect" id="node4" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="493,5,616,32"/>
-<area shape="rect" id="node5" href="$dcache_8c.html#a8e57b1d00f73b05cbc11789c78196ce4" title="vfs_caches_init" alt="" coords="498,56,611,83"/>
-<area shape="rect" id="node8" href="$open_8c.html#ab692e43ee7b864a5c69a034590e8351d" title="SYSCALL_DEFINE1" alt="" coords="299,132,445,159"/>
-</map>

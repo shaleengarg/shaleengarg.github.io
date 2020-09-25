@@ -1,7 +1,0 @@
-<map id="nfs2_xdr_enc_sattrargs" name="nfs2_xdr_enc_sattrargs">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a71028f192b6b109bacc5ed86f06fdb48" title="encode_fhandle" alt="" coords="212,13,325,40"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#ac3c21d5e2a378c70cffb9c8863a87140" title="encode_sattr" alt="" coords="220,64,317,91"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#aa17cbee6759219474e9ccfb0b3d3064b" title="xdr_encode_time" alt="" coords="381,5,502,32"/>
-<area shape="rect" id="node5" href="$nfs2xdr_8c.html#a51ff0fcaea19fe7a683922fd277f1b9c" title="xdr_encode_current\l_server_time" alt="" coords="373,57,509,98"/>
-<area shape="rect" id="node6" href="$nfs2xdr_8c.html#a5de9751af32df6ff62752d5ef269d04e" title="xdr_time_not_set" alt="" coords="380,123,503,149"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="nfs_io_completion_put" name="nfs_io_completion_put">
-<area shape="rect" id="node2" href="$nfs_2write_8c.html#a9c218ac721620f126004005ea8bb5f45" title="nfs_writepages" alt="" coords="223,5,333,32"/>
-<area shape="rect" id="node3" href="$nfs_2write_8c.html#a03d5822a32e1a4903f87ba2b8fc4675c" title="nfs_write_completion" alt="" coords="205,56,351,83"/>
-<area shape="rect" id="node4" href="$nfs_2write_8c.html#af5af5f6947774bea8d0942fd7427b93e" title="nfs_async_write_reschedule_io" alt="" coords="399,56,603,83"/>
-</map>

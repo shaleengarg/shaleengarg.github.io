@@ -1,5 +1,0 @@
-<map id="check_nfsd_access" name="check_nfsd_access">
-<area shape="rect" id="node2" href="$_2nfs4proc_8c.html#a484eeaa8b228671ce708f67efa3216ac" title="nfsd4_spo_must_allow" alt="" coords="192,13,347,39"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a25f78962a669430ae0c3bcdc4d53815f" title="nfsd4_mach_creds_match" alt="" coords="395,13,569,39"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#a912a56cf2df4b3893c5203ca526eafe4" title="svc_rqst_integrity\l_protected" alt="" coords="617,5,743,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="do_sys_poll" name="do_sys_poll">
-<area shape="rect" id="node2" href="$select_8c.html#a596ee9216ca57163de16ce2a5383cb01" title="do_restart_poll" alt="" coords="164,5,271,32"/>
-<area shape="rect" id="node3" href="$select_8c.html#ac416698057b055d08d9dd1a90404359f" title="SYSCALL_DEFINE3" alt="" coords="339,31,485,57"/>
-<area shape="rect" id="node4" href="$select_8c.html#a5ff1a25c65df57d73e808e982cf1d106" title="SYSCALL_DEFINE5" alt="" coords="144,107,291,133"/>
-</map>

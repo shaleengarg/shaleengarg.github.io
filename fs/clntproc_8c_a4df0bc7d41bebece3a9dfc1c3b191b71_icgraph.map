@@ -1,9 +1,0 @@
-<map id="nlm_get_lockowner" name="nlm_get_lockowner">
-<area shape="rect" id="node2" href="$clntproc_8c.html#adff4b023176c420d5cd2422eb835293e" title="__nlm_find_lockowner" alt="" coords="197,31,347,57"/>
-<area shape="rect" id="node8" href="$clntproc_8c.html#a8c0dabf8cc8c54587c6709d15208031b" title="nlmclnt_locks_copy_lock" alt="" coords="188,81,356,108"/>
-<area shape="rect" id="node3" href="$clntproc_8c.html#ae6da2caf2fe0f7fb2eb26b51ad784bee" title="nlm_find_lockowner" alt="" coords="404,31,541,57"/>
-<area shape="rect" id="node4" href="$clntproc_8c.html#a2dd3606bc4528c789dcdb9d09251e09f" title="nlmclnt_locks_init\l_private" alt="" coords="589,23,716,65"/>
-<area shape="rect" id="node5" href="$clntproc_8c.html#a2b2f90da99fcd10bd08900e6cbc8f1c4" title="nlmclnt_proc" alt="" coords="764,31,860,57"/>
-<area shape="rect" id="node6" href="$nfs_2proc_8c.html#acb3f7793114c7260976a83886ec8421d" title="nfs_proc_lock" alt="" coords="912,5,1015,32"/>
-<area shape="rect" id="node7" href="$nfs3proc_8c.html#a37ce0d3aedfe899aea95433c6318c7ae" title="nfs3_proc_lock" alt="" coords="908,56,1019,83"/>
-</map>

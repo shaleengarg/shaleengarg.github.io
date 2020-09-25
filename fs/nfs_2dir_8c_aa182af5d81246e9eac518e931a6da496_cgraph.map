@@ -1,5 +1,0 @@
-<map id="nfs_opendir" name="nfs_opendir">
-<area shape="rect" id="node2" href="$iostat_8h.html#a827fa3b79055f4019a86f1f7dc3ba732" title="nfs_inc_stats" alt="" coords="158,5,258,32"/>
-<area shape="rect" id="node4" href="$nfs_2dir_8c.html#a7f2386c0196e80f83f3b32de743ad6d4" title="alloc_nfs_open_dir\l_context" alt="" coords="143,57,273,98"/>
-<area shape="rect" id="node3" href="$iostat_8h.html#af6c43e25d4518ea95856ae498ba92e58" title="nfs_inc_server_stats" alt="" coords="321,5,464,32"/>
-</map>

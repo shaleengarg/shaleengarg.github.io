@@ -1,5 +1,0 @@
-<map id="kernfs_rename_ns" name="kernfs_rename_ns">
-<area shape="rect" id="node2" href="$sysfs_2dir_8c.html#adc5b7df366c3fe88fb9cb69b66f57701" title="sysfs_rename_dir_ns" alt="" coords="185,5,332,32"/>
-<area shape="rect" id="node3" href="$sysfs_2dir_8c.html#a82dac3a107dcda934374641b02d4a4fd" title="sysfs_move_dir_ns" alt="" coords="191,56,326,83"/>
-<area shape="rect" id="node4" href="$sysfs_2symlink_8c.html#a954238d25200ed7a885da02fd2764631" title="sysfs_rename_link_ns" alt="" coords="183,107,335,133"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="squashfs_cache_delete" name="squashfs_cache_delete">
-<area shape="rect" id="node2" href="$squashfs_8h.html#a172f259c1f8d70eb6724c2dc2e5f6164" title="squashfs_cache_init" alt="" coords="212,5,353,32"/>
-<area shape="rect" id="node3" href="$squashfs_2super_8c.html#a48ba1323faf987f31cbbad8b50ed27ed" title="squashfs_fill_super" alt="" coords="403,56,538,83"/>
-<area shape="rect" id="node6" href="$squashfs_2super_8c.html#ae499159b66693a046388059925c0588c" title="squashfs_put_super" alt="" coords="401,107,540,133"/>
-<area shape="rect" id="node4" href="$squashfs_2super_8c.html#a83e0fd973f1099e80ee1690fa32a3c62" title="squashfs_mount" alt="" coords="588,56,707,83"/>
-<area shape="rect" id="node5" href="$squashfs_2super_8c.html#a1023ee8c3db7502a0b46b0194566d3c2" title="squashfs_destroy_inode" alt="" coords="755,81,917,108"/>
-</map>

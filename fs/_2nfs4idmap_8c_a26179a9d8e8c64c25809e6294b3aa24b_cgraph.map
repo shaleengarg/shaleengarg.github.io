@@ -1,7 +1,0 @@
-<map id="do_name_to_id" name="do_name_to_id">
-<area shape="rect" id="node2" href="$_2nfs4idmap_8c.html#aa670f8c13f68bd9358597f9e03436e62" title="numeric_name_to_id" alt="" coords="164,5,307,32"/>
-<area shape="rect" id="node3" href="$_2nfs4idmap_8c.html#abe2aab96df7921932aae65e09b387519" title="idmap_name_to_id" alt="" coords="170,56,301,83"/>
-<area shape="rect" id="node4" href="$_2nfs4idmap_8c.html#abcfc64788934388cb0c6527d0f676a59" title="rqst_authname" alt="" coords="355,5,463,32"/>
-<area shape="rect" id="node5" href="$_2nfs4idmap_8c.html#ac80b76dc741a46989d97b00d8f968ddb" title="idmap_lookup" alt="" coords="357,56,460,83"/>
-<area shape="rect" id="node6" href="$nfsd_2export_8h.html#a66ddec3a166114a80a055ebde47d5030" title="nfserrno" alt="" coords="374,107,443,133"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="bl_parse_concat" name="bl_parse_concat">
-<area shape="rect" id="node2" href="$nfs_2blocklayout_2dev_8c.html#adf41ec19183f1f498dc2062dc82406e7" title="bl_parse_deviceid" alt="" coords="171,100,297,127"/>
-<area shape="rect" id="node3" href="$nfs_2blocklayout_2dev_8c.html#a3cc61f837cff76a3d3b2c54921d95abd" title="bl_map_stripe" alt="" coords="372,5,475,32"/>
-<area shape="rect" id="node4" href="$nfs_2blocklayout_2dev_8c.html#aec59da37032572af83a6332150865758" title="bl_parse_stripe" alt="" coords="549,68,660,95"/>
-<area shape="rect" id="node5" href="$nfs_2blocklayout_2dev_8c.html#a1e5b868085812d8978f6ca41e7d75b27" title="bl_parse_slice" alt="" coords="371,131,476,157"/>
-<area shape="rect" id="node6" href="$nfs_2blocklayout_2dev_8c.html#a11d7c842c0ab2fe91951ce723a688417" title="bl_alloc_deviceid_node" alt="" coords="345,181,501,208"/>
-</map>

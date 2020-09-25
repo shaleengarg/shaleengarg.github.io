@@ -1,6 +1,0 @@
-<map id="jfs_truncate" name="jfs_truncate">
-<area shape="rect" id="node2" href="$jfs__inode_8h.html#acb2ba214dd55213aced6572d0edd6da8" title="jfs_setattr" alt="" coords="159,5,239,32"/>
-<area shape="rect" id="node3" href="$jfs_2inode_8c.html#ab95485fc8bb4902e534898908903c635" title="jfs_write_failed" alt="" coords="144,56,253,83"/>
-<area shape="rect" id="node4" href="$jfs_2inode_8c.html#a66eb093b60a561ae0d9f17f56e82fbb7" title="jfs_write_begin" alt="" coords="301,31,411,57"/>
-<area shape="rect" id="node5" href="$jfs_2inode_8c.html#ac7daee91ab65cacfc089cd308263543d" title="jfs_direct_IO" alt="" coords="308,81,404,108"/>
-</map>

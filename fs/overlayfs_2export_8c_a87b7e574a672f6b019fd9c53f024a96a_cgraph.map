@@ -1,7 +1,0 @@
-<map id="ovl_connectable_layer" name="ovl_connectable_layer">
-<area shape="rect" id="node2" href="$ovl__entry_8h.html#a5b31ac4c7f590633a76d58fad96ef34e" title="OVL_E" alt="" coords="233,5,297,32"/>
-<area shape="rect" id="node3" href="$overlayfs_8h.html#a25a8881c373a94c936cb407f5e8a25b5" title="ovl_dentry_upper" alt="" coords="204,56,325,83"/>
-<area shape="rect" id="node6" href="$overlayfs_8h.html#af99238fcac7cea10d8b08da07e13ec7a" title="ovl_test_flag" alt="" coords="217,107,313,133"/>
-<area shape="rect" id="node4" href="$ovl__entry_8h.html#a041d29afdee572c0b88f51cd10986d27" title="ovl_upperdentry_dereference" alt="" coords="373,56,563,83"/>
-<area shape="rect" id="node5" href="$ovl__entry_8h.html#aa841e714a900ca921bdda503ee671a34" title="OVL_I" alt="" coords="439,107,497,133"/>
-</map>

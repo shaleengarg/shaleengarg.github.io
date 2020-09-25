@@ -1,8 +1,0 @@
-<map id="__exist_node_summaries" name="__exist_node_summaries">
-<area shape="rect" id="node2" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="1016,17,1119,44"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8c.html#a993f0c191fd8f3924994fc773feddd7c" title="read_normal_summaries" alt="" coords="224,43,388,69"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a8045d2bde9f5b66c7a708fa5a4b0e9db" title="restore_curseg_summaries" alt="" coords="436,43,615,69"/>
-<area shape="rect" id="node3" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="1167,17,1253,44"/>
-<area shape="rect" id="node6" href="$f2fs_2segment_8c.html#a15a1e353c62b71ca27b0173d6a92a313" title="build_curseg" alt="" coords="663,43,757,69"/>
-<area shape="rect" id="node7" href="$f2fs_2segment_8c.html#afa166763e69e3cc5d86dac43bfafb1e3" title="build_segment_manager" alt="" coords="805,43,968,69"/>
-</map>

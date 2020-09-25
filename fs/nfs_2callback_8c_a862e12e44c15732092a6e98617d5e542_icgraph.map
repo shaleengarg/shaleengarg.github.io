@@ -1,5 +1,0 @@
-<map id="nfs_callback_down" name="nfs_callback_down">
-<area shape="rect" id="node2" href="$nfs4client_8c.html#a99a36d799e01c91d379dcd1871428830" title="nfs4_destroy_callback" alt="" coords="187,5,339,32"/>
-<area shape="rect" id="node3" href="$nfs4client_8c.html#ad363e5d0caf5f4c8ee7fd13fd26f5db0" title="nfs4_shutdown_client" alt="" coords="387,5,535,32"/>
-<area shape="rect" id="node4" href="$nfs4client_8c.html#a5f9fd332ecd6a3d11486f851ce0c36fd" title="nfs4_free_client" alt="" coords="583,5,697,32"/>
-</map>

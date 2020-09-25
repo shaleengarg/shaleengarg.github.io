@@ -1,5 +1,0 @@
-<map id="SYSCALL_DEFINE1" name="SYSCALL_DEFINE1">
-<area shape="rect" id="node2" href="$aio_8c.html#a2f0e09b2a7a0ad5cf70376ce7d4a5e1f" title="lookup_ioctx" alt="" coords="200,5,295,32"/>
-<area shape="rect" id="node3" href="$aio_8c.html#abf3fe27d9ef9fd4d6170e5620e6471de" title="kill_ioctx" alt="" coords="211,56,284,83"/>
-<area shape="rect" id="node4" href="$aio_8c.html#a4813ab4bb837f8807e1ead95bc016323" title="aio_nr_sub" alt="" coords="343,56,428,83"/>
-</map>

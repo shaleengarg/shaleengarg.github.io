@@ -1,6 +1,0 @@
-<map id="xfs_rtpick_extent" name="xfs_rtpick_extent">
-<area shape="rect" id="node2" href="$xfs__inode_8h.html#aedaa832cc1400d56df37c13d30163c98" title="xfs_isilocked" alt="" coords="363,5,461,32"/>
-<area shape="rect" id="node3" href="$ntfs_2inode_8h.html#ade15d2f33de0865b12ce2a4623dbf58c" title="VFS_I" alt="" coords="383,81,441,108"/>
-<area shape="rect" id="node4" href="$xfs__bit_8h.html#aec43ab6a32b333edc8ccdae9665f893f" title="xfs_highbit64" alt="" coords="196,81,295,108"/>
-<area shape="rect" id="node5" href="$xfs__trans_8h.html#a5e9f329781abedd5073623d6c9e71687" title="xfs_trans_log_inode" alt="" coords="176,31,315,57"/>
-</map>

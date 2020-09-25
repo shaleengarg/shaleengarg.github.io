@@ -1,6 +1,0 @@
-<map id="ocfs2_find_xe_in_bucket" name="ocfs2_find_xe_in_bucket">
-<area shape="rect" id="node2" href="$hfsplus_2xattr_8c.html#ae4ccf1ceae3bf7792a62283b6ca6cd99" title="name_len" alt="" coords="253,5,331,32"/>
-<area shape="rect" id="node4" href="$ocfs2__fs_8h.html#adfea3764ec78040e65ddaea656b05558" title="ocfs2_xattr_get_type" alt="" coords="220,56,364,83"/>
-<area shape="rect" id="node5" href="$ocfs2_2xattr_8c.html#a0318cd233ddad658531bf97b36bcfcac" title="ocfs2_xattr_bucket\l_get_name_value" alt="" coords="225,107,359,149"/>
-<area shape="rect" id="node3" href="$hfsplus_2xattr_8c.html#a6ece997c19fd566eddee8e3c8c0c9e7d" title="is_known_namespace" alt="" coords="412,5,563,32"/>
-</map>

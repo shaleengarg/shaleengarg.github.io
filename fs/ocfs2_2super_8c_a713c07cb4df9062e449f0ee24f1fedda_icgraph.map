@@ -1,8 +1,0 @@
-<map id="ocfs2_need_system_inode" name="ocfs2_need_system_inode">
-<area shape="rect" id="node2" href="$ocfs2_2super_8c.html#a48d640e51e32b63fe59c5d195ba45a5d" title="ocfs2_init_global_system\l_inodes" alt="" coords="231,5,400,47"/>
-<area shape="rect" id="node6" href="$ocfs2_2super_8c.html#aa2ac45e3dc374e3aa182e003e6ecb4d1" title="ocfs2_init_local_system\l_inodes" alt="" coords="234,71,397,112"/>
-<area shape="rect" id="node3" href="$ocfs2_2super_8c.html#acde5a063bcd0ae6340db5ad59b6230ba" title="ocfs2_initialize_super" alt="" coords="448,17,595,43"/>
-<area shape="rect" id="node4" href="$ocfs2_2super_8c.html#aae09c84567eb36b012612fa7f187c3ee" title="ocfs2_fill_super" alt="" coords="643,46,756,73"/>
-<area shape="rect" id="node5" href="$ocfs2_2super_8c.html#aca38f76e33cde96ed91b51148bcdc947" title="ocfs2_mount" alt="" coords="804,46,901,73"/>
-<area shape="rect" id="node7" href="$ocfs2_2super_8c.html#a1152f914bd33b454eccbdd520fd7f521" title="ocfs2_mount_volume" alt="" coords="448,71,595,98"/>
-</map>

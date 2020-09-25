@@ -1,7 +1,0 @@
-<map id="nfs4_make_rec_clidname" name="nfs4_make_rec_clidname">
-<area shape="rect" id="node2" href="$nfs4recover_8c.html#a99953d1442a16e701d34f92a77d8fad5" title="nfsd4_create_clid_dir" alt="" coords="227,5,373,32"/>
-<area shape="rect" id="node3" href="$nfs4recover_8c.html#a95e5567f776c0a013b1eca5f50f1833b" title="nfsd4_remove_clid_dir" alt="" coords="224,56,376,83"/>
-<area shape="rect" id="node4" href="$nfs4recover_8c.html#a10ba1c0305f5177f25b03973eb596870" title="nfsd4_check_legacy\l_client" alt="" coords="229,107,371,149"/>
-<area shape="rect" id="node5" href="$nfs4recover_8c.html#a384c506a0a065c4182973818cca1eb84" title="nfsd4_cltrack_legacy\l_recdir" alt="" coords="227,173,373,214"/>
-<area shape="rect" id="node6" href="$nfs4recover_8c.html#a4386a3d50b443e4430ba968c101696a2" title="nfsd4_umh_cltrack_check" alt="" coords="424,180,599,207"/>
-</map>

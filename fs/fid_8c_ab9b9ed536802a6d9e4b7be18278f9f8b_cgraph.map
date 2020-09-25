@@ -1,9 +1,0 @@
-<map id="v9fs_fid_lookup_with_uid" name="v9fs_fid_lookup_with_uid">
-<area shape="rect" id="node2" href="$v9fs_8h.html#a89b599a2263349f803c2e29728998af4" title="v9fs_dentry2v9ses" alt="" coords="234,5,366,32"/>
-<area shape="rect" id="node3" href="$fid_8c.html#ae8e676383ec458b4e94cf7f440c4fe04" title="v9fs_fid_find" alt="" coords="252,56,348,83"/>
-<area shape="rect" id="node4" href="$v9fs_8h.html#aa20a9b87db382b990ef3b0d7f5de4291" title="v9fs_proto_dotu" alt="" coords="243,107,357,133"/>
-<area shape="rect" id="node5" href="$v9fs_8h.html#ad9d6821fa26b42f78ff76cb80a0f9224" title="v9fs_proto_dotl" alt="" coords="245,157,355,184"/>
-<area shape="rect" id="node6" href="$fid_8c.html#a80127d1e2f1395162a897a47d8a56f02" title="v9fs_fid_add" alt="" coords="252,208,348,235"/>
-<area shape="rect" id="node7" href="$fid_8c.html#a94f70ecafe415b9d80b6a75f82127586" title="__add_fid" alt="" coords="427,233,505,260"/>
-<area shape="rect" id="node8" href="$fid_8c.html#a377d3b7e9a9edd5771d3db9907a58563" title="build_path_from_dentry" alt="" coords="221,309,379,336"/>
-</map>

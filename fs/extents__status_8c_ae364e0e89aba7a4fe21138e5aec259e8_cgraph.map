@@ -1,8 +1,0 @@
-<map id="ext4_es_can_be_merged" name="ext4_es_can_be_merged">
-<area shape="rect" id="node2" href="$extents__status_8h.html#ac74cf4e8a973bd3ed3cc80541e09c612" title="ext4_es_type" alt="" coords="413,84,513,110"/>
-<area shape="rect" id="node3" href="$extents__status_8h.html#a775d98da8ffccf6d97b2289cfef4e385" title="ext4_es_is_written" alt="" coords="227,33,358,60"/>
-<area shape="rect" id="node4" href="$extents__status_8h.html#a3eddcfd066f866b3d212f72c138be532" title="ext4_es_is_unwritten" alt="" coords="220,84,365,110"/>
-<area shape="rect" id="node5" href="$extents__status_8h.html#a501828682c0abccbb82d7ece9451e705" title="ext4_es_pblock" alt="" coords="236,134,349,161"/>
-<area shape="rect" id="node6" href="$extents__status_8h.html#a2b5cc6a1ba273ae4617ba93a833e4d43" title="ext4_es_is_hole" alt="" coords="235,185,351,212"/>
-<area shape="rect" id="node7" href="$extents__status_8h.html#a972dc8df744c978d8b8a4ebddb44e4d0" title="ext4_es_is_delayed" alt="" coords="224,236,361,262"/>
-</map>

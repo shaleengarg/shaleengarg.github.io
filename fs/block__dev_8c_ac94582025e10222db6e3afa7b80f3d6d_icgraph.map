@@ -1,4 +1,0 @@
-<map id="init_once" name="init_once">
-<area shape="rect" id="node2" href="$block__dev_8c.html#ad96a630d5b07541723f926c85f39a4e9" title="bdev_cache_init" alt="" coords="128,5,244,32"/>
-<area shape="rect" id="node3" href="$dcache_8c.html#a8e57b1d00f73b05cbc11789c78196ce4" title="vfs_caches_init" alt="" coords="292,5,405,32"/>
-</map>

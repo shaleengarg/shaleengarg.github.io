@@ -1,5 +1,0 @@
-<map id="nfs_writeback_done" name="nfs_writeback_done">
-<area shape="rect" id="node2" href="$iostat_8h.html#a6273073a78b918bcbad5c8a486b7380c" title="nfs_add_stats" alt="" coords="223,5,327,32"/>
-<area shape="rect" id="node4" href="$nfs_2write_8c.html#a1357a3a13b0a584b4feba5eeab4a9582" title="nfs_should_remove_suid" alt="" coords="192,56,359,83"/>
-<area shape="rect" id="node3" href="$iostat_8h.html#acc5c26942b72a61c812eabeed7f4b580" title="nfs_add_server_stats" alt="" coords="407,5,553,32"/>
-</map>

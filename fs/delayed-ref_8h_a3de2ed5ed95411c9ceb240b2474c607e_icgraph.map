@@ -1,5 +1,0 @@
-<map id="btrfs_delayed_ref_exit" name="btrfs_delayed_ref_exit">
-<area shape="rect" id="node2" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="399,23,489,50"/>
-<area shape="rect" id="node3" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="537,49,632,75"/>
-<area shape="rect" id="node4" href="$delayed-ref_8h.html#a377a8a1d9bd8bfb8e09dbda6f931d9b8" title="btrfs_delayed_ref_init" alt="" coords="204,23,351,50"/>
-</map>

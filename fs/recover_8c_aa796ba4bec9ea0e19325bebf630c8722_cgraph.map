@@ -1,6 +1,0 @@
-<map id="dlm_clear_toss" name="dlm_clear_toss">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="185,5,240,32"/>
-<area shape="rect" id="node4" href="$memory_8c.html#abe2ad1e73a3457dd4ac13e5fc81d1fe4" title="dlm_free_rsb" alt="" coords="164,56,261,83"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="309,5,428,32"/>
-<area shape="rect" id="node5" href="$memory_8c.html#a682fd6b8cb725261d1d6a2585ce34f3c" title="dlm_free_lvb" alt="" coords="321,56,417,83"/>
-</map>

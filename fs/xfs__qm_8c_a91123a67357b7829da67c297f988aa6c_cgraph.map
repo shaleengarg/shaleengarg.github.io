@@ -1,8 +1,0 @@
-<map id="xfs_qm_reset_dqcounts" name="xfs_qm_reset_dqcounts">
-<area shape="rect" id="node2" href="$xfs__dquot__buf_8c.html#a1822df2e2fb30d9b214e412b505a66f0" title="xfs_dquot_verify" alt="" coords="215,5,333,32"/>
-<area shape="rect" id="node3" href="$xfs__dquot__buf_8c.html#a71b5565d41d61a8cdb0989a3ade68387" title="xfs_dquot_repair" alt="" coords="215,107,333,133"/>
-<area shape="rect" id="node4" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="381,81,537,108"/>
-<area shape="rect" id="node5" href="$xfs__cksum_8h.html#a9dd19bdc687e14c10c277ecdbeeb4460" title="xfs_update_cksum" alt="" coords="393,144,525,171"/>
-<area shape="rect" id="node6" href="$xfs__cksum_8h.html#a15a789c62c95661dcbcc3130baae3bfe" title="xfs_start_cksum_update" alt="" coords="585,119,751,145"/>
-<area shape="rect" id="node7" href="$xfs__cksum_8h.html#a91fa5d874829ed88cc8b1bf4f2331612" title="xfs_end_cksum" alt="" coords="611,169,725,196"/>
-</map>

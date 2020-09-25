@@ -1,5 +1,0 @@
-<map id="ocfs2_file_unlock" name="ocfs2_file_unlock">
-<area shape="rect" id="node2" href="$ocfs2_2locks_8c.html#ad383c7a718ce5dc4d8db6b0df86cc279" title="ocfs2_do_flock" alt="" coords="183,5,293,32"/>
-<area shape="rect" id="node4" href="$ocfs2_2locks_8c.html#a5f9afca6313d63b8e53360f814ca6cc2" title="ocfs2_do_funlock" alt="" coords="176,56,300,83"/>
-<area shape="rect" id="node3" href="$locks_8h.html#a35fa1a11e4feb7ca853eafc983544d2e" title="ocfs2_flock" alt="" coords="348,31,437,57"/>
-</map>

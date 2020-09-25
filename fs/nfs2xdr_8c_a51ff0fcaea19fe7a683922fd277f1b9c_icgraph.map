@@ -1,6 +1,0 @@
-<map id="xdr_encode_current_server_time" name="xdr_encode_current_server_time">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#ac3c21d5e2a378c70cffb9c8863a87140" title="encode_sattr" alt="" coords="189,56,287,83"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a2e49af6c1b0f3ba84382f66136cb0c1b" title="nfs2_xdr_enc_sattrargs" alt="" coords="344,5,503,32"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ae1c340c10b1cc15c3f39f36e94bbd091" title="nfs2_xdr_enc_createargs" alt="" coords="339,56,507,83"/>
-<area shape="rect" id="node5" href="$nfs2xdr_8c.html#aaba32959e71ff70afff9aff6a0bcbfa7" title="nfs2_xdr_enc_symlinkargs" alt="" coords="335,107,512,133"/>
-</map>

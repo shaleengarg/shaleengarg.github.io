@@ -1,9 +1,0 @@
-<map id="xfs_init_bio_from_bh" name="xfs_init_bio_from_bh">
-<area shape="rect" id="node2" href="$xfs__aops_8c.html#a542727effd713a78e94e97ef8d211970" title="xfs_alloc_ioend" alt="" coords="196,5,308,32"/>
-<area shape="rect" id="node8" href="$xfs__aops_8c.html#aae5218bb08691279f2ff0c45adcf4b5f" title="xfs_chain_bio" alt="" coords="201,56,303,83"/>
-<area shape="rect" id="node3" href="$xfs__aops_8c.html#ab988f6291cbb2877761f91d7e94b74c8" title="xfs_add_to_ioend" alt="" coords="356,31,480,57"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#ab3b4b2735c124cb562ba26ff95395258" title="xfs_writepage_map" alt="" coords="528,31,663,57"/>
-<area shape="rect" id="node5" href="$xfs__aops_8c.html#a817b5c463a4d7f442c4da9cf58e70723" title="xfs_do_writepage" alt="" coords="711,31,835,57"/>
-<area shape="rect" id="node6" href="$xfs__aops_8c.html#a80aa6026194d3d165692d8244ecb3120" title="xfs_vm_writepage" alt="" coords="886,5,1014,32"/>
-<area shape="rect" id="node7" href="$xfs__aops_8c.html#a970b8046d2421d8491be0c23f44b3abe" title="xfs_vm_writepages" alt="" coords="883,56,1017,83"/>
-</map>

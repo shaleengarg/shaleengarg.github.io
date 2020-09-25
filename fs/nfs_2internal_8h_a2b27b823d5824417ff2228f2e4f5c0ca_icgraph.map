@@ -1,7 +1,0 @@
-<map id="nfs_filemap_write_and_wait_range" name="nfs_filemap_write_and_wait_range">
-<area shape="rect" id="node2" href="$nfs42proc_8c.html#a8bcbb75517d93885bf3ad6eb93e6bb18" title="_nfs42_proc_copy" alt="" coords="209,5,337,32"/>
-<area shape="rect" id="node5" href="$nfs42proc_8c.html#a2977642c89b069160013715618de9ac7" title="_nfs42_proc_llseek" alt="" coords="205,56,340,83"/>
-<area shape="rect" id="node3" href="$nfs42proc_8c.html#a3f05de16735e66bf1d6abcdcdb21424f" title="nfs42_proc_copy" alt="" coords="391,5,512,32"/>
-<area shape="rect" id="node4" href="$nfs4file_8c.html#aaa695de67c849f5499a0ea077e4b8d6d" title="nfs4_file_flush" alt="" coords="563,31,669,57"/>
-<area shape="rect" id="node6" href="$nfs42proc_8c.html#ae773c64f432457c4233f087f20b516d9" title="nfs42_proc_llseek" alt="" coords="388,56,515,83"/>
-</map>

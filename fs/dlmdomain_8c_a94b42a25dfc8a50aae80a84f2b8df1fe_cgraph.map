@@ -1,8 +1,0 @@
-<map id="dlm_query_region_handler" name="dlm_query_region_handler">
-<area shape="rect" id="node2" href="$dlmdomain_8c.html#a95e2f8d5f733bb199db934bc2eff2641" title="__dlm_lookup_domain_full" alt="" coords="227,27,401,54"/>
-<area shape="rect" id="node3" href="$dlmdomain_8c.html#a2cf2b68a68ffd22c2ed0dc621cf8d5e5" title="dlm_match_regions" alt="" coords="247,78,381,105"/>
-<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#ab0efa6a39d40342632c4f1a7d9e247c1" title="o2hb_global_heartbeat\l_active" alt="" coords="449,29,601,71"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#ae0cb49bd6c14213d3d479caa24373b03" title="o2hb_get_all_regions" alt="" coords="453,119,597,146"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#ad306fd3febbe0e26805f31170d33b316" title="EXPORT_SYMBOL" alt="" coords="666,37,805,63"/>
-<area shape="rect" id="node7" href="$cluster_2heartbeat_8c.html#aae9d726ce9c58d7e470f5e25f6ef316e" title="EXPORT_SYMBOL_GPL" alt="" coords="649,119,821,146"/>
-</map>

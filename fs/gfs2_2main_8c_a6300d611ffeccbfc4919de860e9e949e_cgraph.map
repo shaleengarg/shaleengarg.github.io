@@ -1,6 +1,0 @@
-<map id="gfs2_init_gl_aspace_once" name="gfs2_init_gl_aspace_once">
-<area shape="rect" id="node2" href="$gfs2_2main_8c.html#af64410231f63480352d04ad2c2d4c083" title="gfs2_init_glock_once" alt="" coords="238,5,382,32"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a183235cecd8d20b13b850d733c4646b7" title="address_space_init_once" alt="" coords="225,56,395,83"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a5f4d750a3d227ec7784c0c724f3a31ea" title="__address_space_init_once" alt="" coords="443,31,625,57"/>
-<area shape="rect" id="node5" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="465,81,603,108"/>
-</map>

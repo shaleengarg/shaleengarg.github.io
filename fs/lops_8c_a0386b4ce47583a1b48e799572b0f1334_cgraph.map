@@ -1,6 +1,0 @@
-<map id="gfs2_end_log_write" name="gfs2_end_log_write">
-<area shape="rect" id="node2" href="$lops_8c.html#a6d5779c1b8df9425e3f87628f383df64" title="gfs2_end_log_write_bh" alt="" coords="188,42,343,69"/>
-<area shape="rect" id="node3" href="$buffer_8c.html#a0c5a9b93af2e1cc8bdeb45d23f5fd4fd" title="mark_buffer_write_io\l_error" alt="" coords="391,5,533,47"/>
-<area shape="rect" id="node5" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="412,71,512,98"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="581,42,720,69"/>
-</map>

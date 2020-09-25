@@ -1,7 +1,0 @@
-<map id="smb2_check_message" name="smb2_check_message">
-<area shape="rect" id="node2" href="$smb2glob_8h.html#a95909fe75fb97ee67281d6ee12d3f0be" title="get_sync_hdr" alt="" coords="604,76,704,103"/>
-<area shape="rect" id="node3" href="$cifsglob_8h.html#a778113610ab70dcdd677940023fbd7b9" title="get_rfc1002_length" alt="" coords="209,25,341,52"/>
-<area shape="rect" id="node4" href="$smb2misc_8c.html#a5994cd55b0b2561f5dd5d9d4888992a4" title="check_smb2_hdr" alt="" coords="215,76,336,103"/>
-<area shape="rect" id="node5" href="$smb2misc_8c.html#a11274b02b5655f31bbbddbf1dbe3f343" title="smb2_calc_size" alt="" coords="217,127,333,153"/>
-<area shape="rect" id="node6" href="$smb2misc_8c.html#aadd4b507f5e649897baaaf0eef2fed33" title="smb2_get_data_area_len" alt="" coords="389,127,556,153"/>
-</map>

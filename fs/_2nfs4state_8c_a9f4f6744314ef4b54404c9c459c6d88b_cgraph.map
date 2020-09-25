@@ -1,6 +1,0 @@
-<map id="find_openstateowner_str" name="find_openstateowner_str">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#adc4a20d7509b587d1ac92fc110736192" title="find_openstateowner\l_str_locked" alt="" coords="217,49,360,90"/>
-<area shape="rect" id="node3" href="$_2nfs4state_8c.html#a408f5524a4726c3d8342d92f15c11a98" title="same_owner_str" alt="" coords="420,5,539,32"/>
-<area shape="rect" id="node4" href="$state_8h.html#a26a72a7d62d604e6b52faf456272c0c2" title="openowner" alt="" coords="437,56,522,83"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#ae7cc55f43eede5d8153a868b62beaf29" title="nfs4_get_stateowner" alt="" coords="408,107,551,133"/>
-</map>

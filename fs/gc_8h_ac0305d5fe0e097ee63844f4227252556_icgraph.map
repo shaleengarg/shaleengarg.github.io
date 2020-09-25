@@ -1,7 +1,0 @@
-<map id="decrease_sleep_time" name="decrease_sleep_time">
-<area shape="rect" id="node2" href="$f2fs_2gc_8c.html#a003016b835a06c1f517352be5f2403e6" title="gc_thread_func" alt="" coords="199,31,309,57"/>
-<area shape="rect" id="node3" href="$f2fs_2gc_8c.html#a05d708be10dc5018ef2ce6fdb7e77e06" title="start_gc_thread" alt="" coords="357,31,469,57"/>
-<area shape="rect" id="node4" href="$f2fs_2super_8c.html#afbfdc826c4f9f9541681e0b95a292cc1" title="f2fs_remount" alt="" coords="519,5,618,32"/>
-<area shape="rect" id="node5" href="$f2fs_2super_8c.html#aa5390cd4df801109235c5fc88611f838" title="f2fs_fill_super" alt="" coords="517,56,620,83"/>
-<area shape="rect" id="node6" href="$f2fs_2super_8c.html#ae98ae077e6a819c4ffaeeb673f652a44" title="f2fs_mount" alt="" coords="668,56,755,83"/>
-</map>

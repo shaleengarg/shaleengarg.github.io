@@ -1,6 +1,0 @@
-<map id="xfs_rud_item_format" name="xfs_rud_item_format">
-<area shape="rect" id="node2" href="$xfs__rmap__item_8c.html#a5703327e898e4bd833265ad22ff18a4e" title="RUD_ITEM" alt="" coords="209,5,299,32"/>
-<area shape="rect" id="node3" href="$xfs__log_8h.html#aba412a5e75b488175697ae915a29cb8b" title="xlog_copy_iovec" alt="" coords="195,56,313,83"/>
-<area shape="rect" id="node4" href="$xfs__log_8h.html#a16f389334328b20692bfbc622becf008" title="xlog_prepare_iovec" alt="" coords="361,31,496,57"/>
-<area shape="rect" id="node5" href="$xfs__log_8h.html#aa288b7f5445ede99356cfc2be4732125" title="xlog_finish_iovec" alt="" coords="367,81,490,108"/>
-</map>

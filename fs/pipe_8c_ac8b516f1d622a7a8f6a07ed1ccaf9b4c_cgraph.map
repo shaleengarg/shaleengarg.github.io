@@ -1,7 +1,0 @@
-<map id="wait_for_partner" name="wait_for_partner">
-<area shape="rect" id="node2" href="$pipe_8c.html#aed92895c4cd0e85a14dacc83660deb77" title="pipe_wait" alt="" coords="168,31,245,57"/>
-<area shape="rect" id="node3" href="$pipe_8c.html#a62efee87ea4adec1ffb9b5b901f5f5ab" title="pipe_unlock" alt="" coords="293,5,384,32"/>
-<area shape="rect" id="node5" href="$pipe_8c.html#acf6fdd2128993d70bbb11c7aee561f48" title="pipe_lock" alt="" coords="300,56,377,83"/>
-<area shape="rect" id="node4" href="$pipe_8c.html#af9a88fcab614fe914715bc865ec53616" title="EXPORT_SYMBOL" alt="" coords="432,5,571,32"/>
-<area shape="rect" id="node6" href="$pipe_8c.html#a984401e3f4bf9e82551af9f062a2cd02" title="pipe_lock_nested" alt="" coords="440,56,563,83"/>
-</map>

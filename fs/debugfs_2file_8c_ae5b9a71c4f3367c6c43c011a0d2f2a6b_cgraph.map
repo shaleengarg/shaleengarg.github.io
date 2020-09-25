@@ -1,6 +1,0 @@
-<map id="u32_array_read" name="u32_array_read">
-<area shape="rect" id="node2" href="$libfs_8c.html#a98cd05699e081ee1dc9f78316e3e184b" title="simple_read_from_buffer" alt="" coords="164,31,329,57"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="419,5,474,32"/>
-<area shape="rect" id="node5" href="$libfs_8c.html#a91c91ea39de851f32fce31e8967ceda2" title="EXPORT_SYMBOL" alt="" coords="377,56,516,83"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="564,5,683,32"/>
-</map>

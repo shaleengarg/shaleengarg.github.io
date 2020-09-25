@@ -1,7 +1,0 @@
-<map id="xfs_ail_push_all" name="xfs_ail_push_all">
-<area shape="rect" id="node2" href="$xfs__trans__ail_8c.html#aaa3d259032b8a1327861056fed4c0f34" title="xfs_ail_max_lsn" alt="" coords="168,5,284,32"/>
-<area shape="rect" id="node4" href="$xfs__trans__ail_8c.html#ac4e7489cb956fa2b19bc4de52eb9b1ea" title="xfs_ail_push" alt="" coords="179,56,273,83"/>
-<area shape="rect" id="node3" href="$xfs__trans__ail_8c.html#a55eddab1c2c5f2c0a6ec15d56161b3ae" title="xfs_ail_max" alt="" coords="363,5,455,32"/>
-<area shape="rect" id="node5" href="$xfs__trans__priv_8h.html#a8f99d20d0c9cabb723e542cf4abcd6c1" title="xfs_ail_min" alt="" coords="365,56,453,83"/>
-<area shape="rect" id="node6" href="$xfs__trans__priv_8h.html#a46c194a3cf6d9ff19790af7de3c3f384" title="xfs_trans_ail_copy_lsn" alt="" coords="332,107,487,133"/>
-</map>

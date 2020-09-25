@@ -1,5 +1,0 @@
-<map id="__journal_try_to_free_buffer" name="__journal_try_to_free_buffer">
-<area shape="rect" id="node2" href="$jbd2_2transaction_8c.html#a3259ee95302d9d3b3b5afcdd504f985f" title="jbd2_journal_try_to\l_free_buffers" alt="" coords="196,23,327,65"/>
-<area shape="rect" id="node3" href="$ext4_2inode_8c.html#ae1106b5a1edb576ff6d9fe74eb731cfb" title="ext4_releasepage" alt="" coords="390,5,514,32"/>
-<area shape="rect" id="node4" href="$ext4_2super_8c.html#ac8bf02d8ba26312b685d75ca2ac87b20" title="bdev_try_to_free_page" alt="" coords="375,56,529,83"/>
-</map>

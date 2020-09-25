@@ -1,5 +1,0 @@
-<map id="xlog_cil_force" name="xlog_cil_force">
-<area shape="rect" id="node2" href="$xfs__log__priv_8h.html#afa28642bf76e6263a10a1fc113943333" title="xlog_cil_force_lsn" alt="" coords="156,31,283,57"/>
-<area shape="rect" id="node3" href="$xfs__log__cil_8c.html#ad1a01cc4174aedee7bcf521d32f6d31f" title="xlog_cil_push_now" alt="" coords="331,5,463,32"/>
-<area shape="rect" id="node4" href="$xfs__log__priv_8h.html#a0b287add62cc8b1e511c5069e6415b57" title="xlog_wait" alt="" coords="358,56,435,83"/>
-</map>

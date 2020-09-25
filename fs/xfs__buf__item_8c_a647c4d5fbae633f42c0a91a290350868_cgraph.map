@@ -1,8 +1,0 @@
-<map id="xfs_buf_item_size" name="xfs_buf_item_size">
-<area shape="rect" id="node2" href="$xfs__buf__item_8c.html#a712f63d891d7b948318d521d36d7d1a7" title="BUF_ITEM" alt="" coords="230,5,318,32"/>
-<area shape="rect" id="node4" href="$xfs__buf__item_8c.html#aa93a62be85e932b0124a430406ec0a56" title="xfs_buf_log_format_size" alt="" coords="415,56,579,83"/>
-<area shape="rect" id="node5" href="$xfs__buf__item_8c.html#af08a20f96300a2f47e5437c23203442d" title="xfs_buf_item_size_segment" alt="" coords="181,107,367,133"/>
-<area shape="rect" id="node3" href="$xfs__buf__item_8c.html#a114482d388572a524936464315908181" title="xfs_buf_do_callbacks" alt="" coords="423,5,571,32"/>
-<area shape="rect" id="node6" href="$xfs__bit_8c.html#ac8336e529188203061c62eb90f3a9689" title="xfs_next_bit" alt="" coords="450,107,543,133"/>
-<area shape="rect" id="node7" href="$xfs__buf_8c.html#ae7109246d2f0da5175622e8390f40538" title="xfs_buf_offset" alt="" coords="444,157,549,184"/>
-</map>

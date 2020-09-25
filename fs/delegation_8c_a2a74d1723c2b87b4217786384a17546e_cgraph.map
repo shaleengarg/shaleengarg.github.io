@@ -1,6 +1,0 @@
-<map id="nfs_inode_detach_delegation" name="nfs_inode_detach_delegation">
-<area shape="rect" id="node2" href="$delegation_8c.html#a3cd64286180e3091efe8a581597530d8" title="nfs_start_delegation\l_return" alt="" coords="251,8,389,49"/>
-<area shape="rect" id="node4" href="$delegation_8c.html#a51cc9b5be076f4eb61f618215827962c" title="nfs_detach_delegation" alt="" coords="244,75,396,102"/>
-<area shape="rect" id="node3" href="$delegation_8c.html#ab71e87f45ada58721b37919d6737429f" title="nfs_start_delegation\l_return_locked" alt="" coords="451,5,589,47"/>
-<area shape="rect" id="node5" href="$delegation_8c.html#a1d6a9df4ce7acbb5468092591de27936" title="nfs_detach_delegation\l_locked" alt="" coords="444,71,596,112"/>
-</map>

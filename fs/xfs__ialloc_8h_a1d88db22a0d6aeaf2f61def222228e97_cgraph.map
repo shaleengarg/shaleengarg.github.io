@@ -1,7 +1,0 @@
-<map id="xfs_verify_agino" name="xfs_verify_agino">
-<area shape="rect" id="node2" href="$xfs__ialloc_8c.html#ab1d150e159fbb6e2b7739f91d567c028" title="xfs_ialloc_agino_range" alt="" coords="171,35,325,61"/>
-<area shape="rect" id="node3" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="373,5,512,32"/>
-<area shape="rect" id="node4" href="$xfs__ialloc_8c.html#a15cd3ec6129c028508a4d90a92cc3037" title="xfs_ialloc_cluster\l_alignment" alt="" coords="381,57,504,98"/>
-<area shape="rect" id="node5" href="$xfs__format_8h.html#a8ca8173647ad81b03ea98f9320205fba" title="xfs_sb_version_hasalign" alt="" coords="560,39,725,65"/>
-<area shape="rect" id="node6" href="$xfs__ialloc_8h.html#a7818052deb9bb5d5c79d32656c1cf45e" title="xfs_icluster_size_fsb" alt="" coords="570,89,715,116"/>
-</map>

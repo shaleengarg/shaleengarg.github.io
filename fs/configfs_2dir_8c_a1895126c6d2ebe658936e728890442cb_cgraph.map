@@ -1,5 +1,0 @@
-<map id="configfs_dir_open" name="configfs_dir_open">
-<area shape="rect" id="node2" href="$configfs_2dir_8c.html#af8ef494233b4843d199e7a79f1a3c552" title="configfs_dirent_is\l_ready" alt="" coords="185,5,309,47"/>
-<area shape="rect" id="node3" href="$configfs_2dir_8c.html#a651a0ca48164982c25f5d613d225d52b" title="configfs_new_dirent" alt="" coords="177,71,316,98"/>
-<area shape="rect" id="node4" href="$configfs_2dir_8c.html#a079f3668c0d9a10e60354dca984369d3" title="configfs_init_dirent\l_depth" alt="" coords="364,64,495,105"/>
-</map>

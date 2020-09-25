@@ -1,7 +1,0 @@
-<map id="nfsd_readv" name="nfsd_readv">
-<area shape="rect" id="node2" href="$_2nfs4xdr_8c.html#a212847701082d46e75f42447942edb14" title="nfsd4_encode_readv" alt="" coords="140,5,283,32"/>
-<area shape="rect" id="node4" href="$vfs_8h.html#a2a17a6fd6b09a492a5c74963776be1a3" title="nfsd_read" alt="" coords="172,56,251,83"/>
-<area shape="rect" id="node3" href="$_2nfs4xdr_8c.html#a662ac286c8cb631120088e4ea584d5e4" title="nfsd4_encode_read" alt="" coords="331,5,465,32"/>
-<area shape="rect" id="node5" href="$_2nfs3proc_8c.html#a3d950996f2107a53edbbe3b952796cd6" title="nfsd3_proc_read" alt="" coords="339,56,457,83"/>
-<area shape="rect" id="node6" href="$nfsproc_8c.html#a75d92ed077029c375a458d78768e93ce" title="nfsd_proc_read" alt="" coords="343,107,453,133"/>
-</map>

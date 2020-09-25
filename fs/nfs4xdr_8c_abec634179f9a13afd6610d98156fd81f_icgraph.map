@@ -1,5 +1,0 @@
-<map id="decode_secinfo_gss" name="decode_secinfo_gss">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#ac8b9e45ce92b30234abbb82b016afb34" title="decode_secinfo_common" alt="" coords="195,5,365,32"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#adc7f54432970d173b3f07fde76c2b8a2" title="decode_secinfo" alt="" coords="413,5,527,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a70aa255916d586b8d53927600792ec05" title="nfs4_xdr_dec_secinfo" alt="" coords="575,5,724,32"/>
-</map>

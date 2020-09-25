@@ -1,8 +1,0 @@
-<map id="encode_bool" name="encode_bool">
-<area shape="rect" id="node2" href="$clntxdr_8c.html#a06bbe96c974619fef8c329b47cd55cae" title="encode_nlm_holder" alt="" coords="159,5,293,32"/>
-<area shape="rect" id="node5" href="$clntxdr_8c.html#a2fe3ed5e3e9df277a1e1ab3cd8652640" title="nlm_xdr_enc_testargs" alt="" coords="151,56,301,83"/>
-<area shape="rect" id="node6" href="$clntxdr_8c.html#af88e0e652157213df82fe96378485e66" title="nlm_xdr_enc_lockargs" alt="" coords="150,107,302,133"/>
-<area shape="rect" id="node7" href="$clntxdr_8c.html#a8f9076316c95498d7fdf40031bacaca7" title="nlm_xdr_enc_cancargs" alt="" coords="148,157,304,184"/>
-<area shape="rect" id="node3" href="$clntxdr_8c.html#abb3850bbbe993426034aa3c465e7ffe3" title="encode_nlm_testrply" alt="" coords="352,5,495,32"/>
-<area shape="rect" id="node4" href="$clntxdr_8c.html#aa55b09e705cbcce23c67bfaf32ff7786" title="nlm_xdr_enc_testres" alt="" coords="543,5,685,32"/>
-</map>

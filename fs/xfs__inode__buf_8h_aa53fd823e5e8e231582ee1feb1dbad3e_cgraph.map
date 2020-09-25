@@ -1,8 +1,0 @@
-<map id="xfs_dinode_verify" name="xfs_dinode_verify">
-<area shape="rect" id="node2" href="$xfs__format_8h.html#a438df01c793b6c2d46880770bb451176" title="xfs_sb_version_hascrc" alt="" coords="186,5,342,32"/>
-<area shape="rect" id="node3" href="$xfs__cksum_8h.html#afcf022c104056b33352bd8ad08ca42cd" title="xfs_verify_cksum" alt="" coords="201,56,327,83"/>
-<area shape="rect" id="node6" href="$xfs__dir2_8c.html#a832cf28dca231181ff91e029a43f6680" title="xfs_mode_to_ftype" alt="" coords="197,107,331,133"/>
-<area shape="rect" id="node7" href="$xfs__format_8h.html#a354b7f2a34baad88895a54fcf911f5bf" title="xfs_sb_version_hasreflink" alt="" coords="177,157,351,184"/>
-<area shape="rect" id="node4" href="$xfs__cksum_8h.html#ab0182657171b8fe2c0de5601be4cdb04" title="xfs_start_cksum_safe" alt="" coords="399,31,549,57"/>
-<area shape="rect" id="node5" href="$xfs__cksum_8h.html#a91fa5d874829ed88cc8b1bf4f2331612" title="xfs_end_cksum" alt="" coords="417,81,531,108"/>
-</map>

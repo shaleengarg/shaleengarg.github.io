@@ -1,6 +1,0 @@
-<map id="encode_fallocate" name="encode_fallocate">
-<area shape="rect" id="node2" href="$nfs42xdr_8c.html#aaa6f2f0cd0c2e6ba230f62928aca1197" title="encode_allocate" alt="" coords="181,5,297,32"/>
-<area shape="rect" id="node4" href="$nfs42xdr_8c.html#a3b005e26de047b453b1d5cfc96a7e24e" title="encode_deallocate" alt="" coords="173,56,304,83"/>
-<area shape="rect" id="node3" href="$nfs42xdr_8c.html#a14a04065b07c9268843b4afe8b7d39d6" title="nfs4_xdr_enc_allocate" alt="" coords="359,5,511,32"/>
-<area shape="rect" id="node5" href="$nfs42xdr_8c.html#aa05c771a6a1651f70b1b6a3312d9aca3" title="nfs4_xdr_enc_deallocate" alt="" coords="352,56,519,83"/>
-</map>

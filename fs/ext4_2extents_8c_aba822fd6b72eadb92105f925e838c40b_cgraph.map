@@ -1,6 +1,0 @@
-<map id="ext4_ext_insert_index" name="ext4_ext_insert_index">
-<area shape="rect" id="node2" href="$ext4_2extents_8c.html#a03c120f07a26534d2aa76bd6f20833cc" title="ext4_ext_get_access" alt="" coords="205,5,352,32"/>
-<area shape="rect" id="node3" href="$ext4__extents_8h.html#a29920c8ca4290329bb7d711c644f62e5" title="ext4_idx_store_pblock" alt="" coords="203,56,355,83"/>
-<area shape="rect" id="node4" href="$ext4__extents_8h.html#ad30e9f26915a0545528d19ca2f728b81" title="add_to_hashtable_ext4\l_ext_path" alt="" coords="403,15,559,57"/>
-<area shape="rect" id="node5" href="$ext4__extents_8h.html#a053114657b783896186a53c2f7f97a93" title="add_to_hashtable_ext4\l_fsblk_t" alt="" coords="403,81,559,122"/>
-</map>

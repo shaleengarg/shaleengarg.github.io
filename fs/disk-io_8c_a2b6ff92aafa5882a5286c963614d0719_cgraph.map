@@ -1,8 +1,0 @@
-<map id="btrfs_end_buffer_write_sync" name="btrfs_end_buffer_write_sync">
-<area shape="rect" id="node2" href="$volumes_8c.html#ae649625b18dbb6f0712d629b6cc322b9" title="btrfs_dev_stat_inc\l_and_print" alt="" coords="240,57,369,98"/>
-<area shape="rect" id="node6" href="$buffer_8c.html#a5fc92b2c44523c64e98193eaa4f46541" title="unlock_buffer" alt="" coords="255,123,355,149"/>
-<area shape="rect" id="node3" href="$volumes_8h.html#a1eb97c479320c2e4d87fae7e93eedbe9" title="btrfs_dev_stat_inc" alt="" coords="422,5,551,32"/>
-<area shape="rect" id="node4" href="$volumes_8c.html#a49397ff0d559a80228c3e3103d42792d" title="btrfs_dev_stat_print\l_on_error" alt="" coords="418,57,555,98"/>
-<area shape="rect" id="node5" href="$volumes_8h.html#a001e4d4c3bfff212faa0d614efafe7dd" title="btrfs_dev_stat_read" alt="" coords="604,64,741,91"/>
-<area shape="rect" id="node7" href="$buffer_8c.html#a22f0973a948d1cc4ce512a1bb47331fa" title="EXPORT_SYMBOL" alt="" coords="417,123,556,149"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="nlmsvc_callback" name="nlmsvc_callback">
-<area shape="rect" id="node2" href="$svcproc_8c.html#af98d26b8c8ec516490040be3ef0c053a" title="nlmsvc_proc_test_msg" alt="" coords="183,5,340,32"/>
-<area shape="rect" id="node3" href="$svcproc_8c.html#a249a275266744749cc2bbc65b7fecb6e" title="nlmsvc_proc_lock_msg" alt="" coords="182,56,341,83"/>
-<area shape="rect" id="node4" href="$svcproc_8c.html#a1b7bff7b2358e3e0855de43dd6f776e6" title="nlmsvc_proc_cancel_msg" alt="" coords="175,107,348,133"/>
-<area shape="rect" id="node5" href="$svcproc_8c.html#af724722a3b41dfc1b36fff156c234714" title="nlmsvc_proc_unlock_msg" alt="" coords="175,157,348,184"/>
-<area shape="rect" id="node6" href="$svcproc_8c.html#ac9049578be64406d47a4f9c457c52392" title="nlmsvc_proc_granted_msg" alt="" coords="172,208,351,235"/>
-</map>

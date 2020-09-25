@@ -1,6 +1,0 @@
-<map id="RUI_ITEM" name="RUI_ITEM">
-<area shape="rect" id="node2" href="$xfs__rmap__item_8c.html#a07f38c1c76553ce3e04f2f950e244810" title="xfs_rui_item_size" alt="" coords="146,5,270,32"/>
-<area shape="rect" id="node3" href="$xfs__rmap__item_8c.html#a397869a83b74d0e2ab5d19e4bcdd2d3b" title="xfs_rui_item_format" alt="" coords="139,56,277,83"/>
-<area shape="rect" id="node4" href="$xfs__rmap__item_8c.html#a65105dc50dc6d7238e4bf191d93b1f0d" title="xfs_rui_item_unpin" alt="" coords="143,107,273,133"/>
-<area shape="rect" id="node5" href="$xfs__rmap__item_8c.html#af673372d6303254c7c4b10426c0da188" title="xfs_rui_item_unlock" alt="" coords="139,157,277,184"/>
-</map>

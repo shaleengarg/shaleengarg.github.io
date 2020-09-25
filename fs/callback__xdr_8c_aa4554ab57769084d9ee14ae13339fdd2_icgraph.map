@@ -1,5 +1,0 @@
-<map id="decode_fh" name="decode_fh">
-<area shape="rect" id="node2" href="$callback__xdr_8c.html#ae01e16b13764d1b847ce92ea7c085072" title="decode_getattr_args" alt="" coords="136,5,276,32"/>
-<area shape="rect" id="node4" href="$callback__xdr_8c.html#a50bbaf1afeef0eb10e0df4b35f3d5920" title="decode_recall_args" alt="" coords="139,56,273,83"/>
-<area shape="rect" id="node3" href="$callback__xdr_8c.html#acee5fa4f5a4e91e9f3588c29c80288b2" title="nfs4_callback_compound" alt="" coords="324,31,493,57"/>
-</map>

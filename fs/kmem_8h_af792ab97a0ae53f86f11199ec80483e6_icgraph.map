@@ -1,9 +1,0 @@
-<map id="kmem_zone_destroy" name="kmem_zone_destroy">
-<area shape="rect" id="node2" href="$xfs__buf_8h.html#a8c03880d885c2f503a68afdfba3510b6" title="xfs_buf_terminate" alt="" coords="199,5,325,32"/>
-<area shape="rect" id="node5" href="$xfs__dquot_8c.html#ad3798885e7d19f3fff344ecfc843732f" title="xfs_qm_init" alt="" coords="217,107,307,133"/>
-<area shape="rect" id="node6" href="$xfs__dquot_8c.html#ae37f92de89975aaeb93369d860ef4de2" title="xfs_qm_exit" alt="" coords="215,157,309,184"/>
-<area shape="rect" id="node7" href="$xfs__super_8c.html#a9a6ea95bbdf2de1f3103629925d45603" title="xfs_init_zones" alt="" coords="209,56,315,83"/>
-<area shape="rect" id="node8" href="$xfs__super_8c.html#ac2f04ffb37f586db7d27af1a6e5aa0da" title="xfs_destroy_zones" alt="" coords="196,208,328,235"/>
-<area shape="rect" id="node3" href="$xfs__super_8c.html#a195477451f30ab17d1855392825e56e4" title="init_xfs_fs" alt="" coords="376,107,459,133"/>
-<area shape="rect" id="node4" href="$xfs__super_8c.html#a2fe336df2be1dd74b03a62eaffe0cead" title="exit_xfs_fs" alt="" coords="507,132,593,159"/>
-</map>

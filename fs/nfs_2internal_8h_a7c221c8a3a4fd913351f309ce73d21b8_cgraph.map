@@ -1,6 +1,0 @@
-<map id="nfs_alloc_server" name="nfs_alloc_server">
-<area shape="rect" id="node2" href="$iostat_8h.html#a17f3c0b7a6a411f7b7615ec4988608a2" title="nfs_alloc_iostats" alt="" coords="362,8,482,34"/>
-<area shape="rect" id="node3" href="$client_8c.html#a2476c1f0da815d4014f45958ef2aad9d" title="pnfs_init_server" alt="" coords="365,82,479,109"/>
-<area shape="rect" id="node4" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="336,145,508,172"/>
-<area shape="rect" id="node5" href="$client_8c.html#a7c221c8a3a4fd913351f309ce73d21b8" title="nfs_alloc_server" alt="" coords="171,57,288,84"/>
-</map>

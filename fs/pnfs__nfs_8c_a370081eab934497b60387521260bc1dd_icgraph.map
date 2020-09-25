@@ -1,5 +1,0 @@
-<map id="pnfs_generic_alloc_ds_commits" name="pnfs_generic_alloc_ds_commits">
-<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#a76d4b18a94411a70081a0a0d870adba6" title="pnfs_generic_commit\l_pagelist" alt="" coords="184,23,331,65"/>
-<area shape="rect" id="node3" href="$filelayout_8c.html#a2864d9d29f5de9f30c69eb86fca48739" title="filelayout_commit_pagelist" alt="" coords="379,5,555,32"/>
-<area shape="rect" id="node4" href="$flexfilelayout_2flexfilelayout_8c.html#afec203e64e262b648cd6f5e82723e7ac" title="ff_layout_commit_pagelist" alt="" coords="379,56,554,83"/>
-</map>

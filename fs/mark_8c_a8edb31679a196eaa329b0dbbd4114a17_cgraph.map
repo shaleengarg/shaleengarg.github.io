@@ -1,5 +1,0 @@
-<map id="fsnotify_mark_destroy_workfn" name="fsnotify_mark_destroy_workfn">
-<area shape="rect" id="node2" href="$mark_8c.html#a37ad554d1673d58c32373dc6ca4e9f32" title="fsnotify_final_mark\l_destroy" alt="" coords="204,5,336,47"/>
-<area shape="rect" id="node3" href="$notify_2group_8c.html#a2f7d6112c116a8e0430cc30b53e878ae" title="fsnotify_put_group" alt="" coords="384,13,513,39"/>
-<area shape="rect" id="node4" href="$notify_2group_8c.html#a95852932c07430549488509c6139908b" title="fsnotify_final_destroy\l_group" alt="" coords="561,5,708,47"/>
-</map>

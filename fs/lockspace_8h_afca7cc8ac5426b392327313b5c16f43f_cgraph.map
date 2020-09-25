@@ -1,8 +1,0 @@
-<map id="dlm_stop_lockspaces" name="dlm_stop_lockspaces">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="220,19,275,45"/>
-<area shape="rect" id="node4" href="$member_8c.html#aa23a4d301cf16849e90b76edf73bad32" title="dlm_ls_stop" alt="" coords="201,81,293,108"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="360,5,479,32"/>
-<area shape="rect" id="node5" href="$recoverd_8c.html#a6fae7df72dba8bb6ecd326d4da2f7e63" title="dlm_recoverd_suspend" alt="" coords="341,56,497,83"/>
-<area shape="rect" id="node6" href="$recoverd_8c.html#ac32e08a68cf39f00b242e6d20b1ea08d" title="dlm_recoverd_resume" alt="" coords="344,107,495,133"/>
-<area shape="rect" id="node7" href="$member_8c.html#a1fe101ea40f31a3986b49a11f1b13605" title="dlm_lsop_recover_prep" alt="" coords="341,157,497,184"/>
-</map>

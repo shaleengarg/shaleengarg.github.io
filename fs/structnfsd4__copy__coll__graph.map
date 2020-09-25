@@ -1,6 +1,0 @@
-<map id="nfsd4_copy" name="nfsd4_copy">
-<area shape="rect" id="node2" href="$structnfsd42__write__res.html" title="nfsd42_write_res" alt="" coords="5,184,127,211"/>
-<area shape="rect" id="node3" href="$structstateid__t.html" title="stateid_t" alt="" coords="151,184,223,211"/>
-<area shape="rect" id="node4" href="$structstateid__opaque__t.html" title="stateid_opaque_t" alt="" coords="127,95,248,121"/>
-<area shape="rect" id="node5" href="$structclientid__t.html" title="clientid_t" alt="" coords="150,5,225,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="btrfs_set_path_blocking" name="btrfs_set_path_blocking">
-<area shape="rect" id="node2" href="$locking_8c.html#a9e348abb715bfbdaa8f5b77b476138d8" title="btrfs_set_lock_blocking_rw" alt="" coords="213,35,393,61"/>
-<area shape="rect" id="node3" href="$locking_8c.html#ab6aa419ebd229e967fff79065236cb79" title="btrfs_assert_tree_locked" alt="" coords="441,5,607,32"/>
-<area shape="rect" id="node4" href="$locking_8c.html#a96cb3fd07179ed9fd59676d6a7c0490a" title="btrfs_assert_tree_read\l_locked" alt="" coords="448,57,600,98"/>
-</map>

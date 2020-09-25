@@ -1,7 +1,0 @@
-<map id="_nfs4_proc_secinfo" name="_nfs4_proc_secinfo">
-<area shape="rect" id="node2" href="$nfs4state_8c.html#a2ff5681ee292064258c8a7fc140e0a68" title="nfs4_get_clid_cred" alt="" coords="188,17,319,43"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#af94c95f510cba048faefda6f3f70e4c3" title="nfs4_call_sync" alt="" coords="199,71,308,98"/>
-<area shape="rect" id="node3" href="$nfs4state_8c.html#aec6a6a8b72f44a6fa1efdf58848e1164" title="nfs4_get_machine_cred\l_locked" alt="" coords="373,5,533,47"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#abc9fb286c7d6320d28bfc792735f28c2" title="nfs4_init_sequence" alt="" coords="385,71,520,98"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#a6f902de876022de36aec8f6ef9e5df4c" title="nfs4_call_sync_sequence" alt="" coords="367,122,539,149"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="inotify_new_group" name="inotify_new_group">
-<area shape="rect" id="node2" href="$inotify__user_8c.html#abdfb40ae17619995270fd3693034b29e" title="do_inotify_init" alt="" coords="180,31,283,57"/>
-<area shape="rect" id="node3" href="$inotify__user_8c.html#a39839e33c7872b713a2e5e08776401a2" title="SYSCALL_DEFINE1" alt="" coords="331,5,477,32"/>
-<area shape="rect" id="node4" href="$inotify__user_8c.html#a6bb66b1348985ca75bbbbbb61a567521" title="SYSCALL_DEFINE0" alt="" coords="331,56,477,83"/>
-</map>

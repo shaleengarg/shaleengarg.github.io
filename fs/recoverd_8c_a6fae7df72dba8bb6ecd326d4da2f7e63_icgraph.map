@@ -1,6 +1,0 @@
-<map id="dlm_recoverd_suspend" name="dlm_recoverd_suspend">
-<area shape="rect" id="node2" href="$member_8h.html#aa23a4d301cf16849e90b76edf73bad32" title="dlm_ls_stop" alt="" coords="209,31,301,57"/>
-<area shape="rect" id="node3" href="$lockspace_8c.html#a8ee70acb845a9c1e0ea1e4466e86520b" title="dlm_control_store" alt="" coords="361,5,486,32"/>
-<area shape="rect" id="node4" href="$lockspace_8h.html#afca7cc8ac5426b392327313b5c16f43f" title="dlm_stop_lockspaces" alt="" coords="349,56,497,83"/>
-<area shape="rect" id="node5" href="$user_8c.html#a3a91b9b3899f9d95c3849847b7ca3a24" title="monitor_device_close" alt="" coords="545,56,693,83"/>
-</map>

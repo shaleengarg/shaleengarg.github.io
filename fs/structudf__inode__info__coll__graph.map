@@ -1,8 +1,0 @@
-<map id="udf_inode_info" name="udf_inode_info">
-<area shape="rect" id="node2" href="$structshort__ad.html" title="short_ad" alt="" coords="5,184,77,211"/>
-<area shape="rect" id="node3" href="$structkernel__lb__addr.html" title="kernel_lb_addr" alt="" coords="83,5,189,32"/>
-<area shape="rect" id="node5" href="$structextent__position.html" title="extent_position" alt="" coords="153,95,263,121"/>
-<area shape="rect" id="node4" href="$structudf__ext__cache.html" title="udf_ext_cache" alt="" coords="153,184,260,211"/>
-<area shape="rect" id="node6" href="$structlong__ad.html" title="long_ad" alt="" coords="285,184,352,211"/>
-<area shape="rect" id="node7" href="$structlb__addr.html" title="lb_addr" alt="" coords="288,95,352,121"/>
-</map>

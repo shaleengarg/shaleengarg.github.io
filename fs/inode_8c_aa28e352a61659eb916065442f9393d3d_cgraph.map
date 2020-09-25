@@ -1,7 +1,0 @@
-<map id="ilookup5_nowait" name="ilookup5_nowait">
-<area shape="rect" id="node2" href="$inode_8c.html#aa1822403d896f1040c371de082022045" title="hash" alt="" coords="212,5,263,32"/>
-<area shape="rect" id="node3" href="$inode_8c.html#af827e753dda790b4b798f86e933bb380" title="find_inode" alt="" coords="197,56,278,83"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="168,107,307,133"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a6bdbb5661dff23968a2a67170a4ffccf" title="__wait_on_freeing_inode" alt="" coords="355,31,520,57"/>
-<area shape="rect" id="node5" href="$inode_8c.html#ab5747108c3d9a3f113b72a10a9be6a2f" title="__iget" alt="" coords="409,81,466,108"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="free_space_test_bit" name="free_space_test_bit">
-<area shape="rect" id="node2" href="$ctree_8h.html#a5ff8f31126b29a90ae8574032eebf174" title="btrfs_item_key_to_cpu" alt="" coords="189,56,344,83"/>
-<area shape="rect" id="node7" href="$extent__io_8c.html#a5476f8a8a038de2a49cb6b44b551956a" title="extent_buffer_test_bit" alt="" coords="193,107,341,133"/>
-<area shape="rect" id="node3" href="$ctree_8h.html#aae843750b6ffc093bb4f89c505110dd1" title="btrfs_item_key" alt="" coords="415,5,523,32"/>
-<area shape="rect" id="node6" href="$ctree_8h.html#a140716a48536f88d5213fdd8e18ec0d2" title="btrfs_disk_key_to_cpu" alt="" coords="392,56,545,83"/>
-<area shape="rect" id="node4" href="$ctree_8h.html#aad867f4552c091bfa4750ed550368fdb" title="btrfs_item_nr" alt="" coords="593,5,692,32"/>
-<area shape="rect" id="node5" href="$ctree_8h.html#a3407693b57c548a868dcd19a94286eea" title="btrfs_item_nr_offset" alt="" coords="740,5,879,32"/>
-<area shape="rect" id="node8" href="$extent__io_8c.html#abd07484f87c6ee98b4ff56ca27f7951c" title="eb_bitmap_offset" alt="" coords="407,107,530,133"/>
-</map>

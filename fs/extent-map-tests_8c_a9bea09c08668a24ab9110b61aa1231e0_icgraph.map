@@ -1,7 +1,0 @@
-<map id="__test_case_4" name="__test_case_4">
-<area shape="rect" id="node2" href="$extent-map-tests_8c.html#a25d078346cae4e111a50b83696b6cfb9" title="test_case_4" alt="" coords="160,5,253,32"/>
-<area shape="rect" id="node3" href="$extent-map-tests_8c.html#ac5c31124d7007ca0875ca7f62a00f6c6" title="btrfs_test_extent_map" alt="" coords="301,5,453,32"/>
-<area shape="rect" id="node4" href="$btrfs-tests_8c.html#a9290554e2d874a984c4e9a3d8b0f0d85" title="btrfs_run_sanity_tests" alt="" coords="501,5,652,32"/>
-<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="700,5,791,32"/>
-<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="839,5,933,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="expand_fdtable" name="expand_fdtable">
-<area shape="rect" id="node2" href="$file_8c.html#a32d8679e048e4ad2ce593eeb754e874c" title="alloc_fdtable" alt="" coords="174,5,269,32"/>
-<area shape="rect" id="node3" href="$file_8c.html#a7d1a2bcb1266234155c7ac44de018acc" title="__free_fdtable" alt="" coords="335,81,439,108"/>
-<area shape="rect" id="node4" href="$file_8c.html#a1f16c74935f503350eedfd9c85b13c29" title="copy_fdtable" alt="" coords="173,157,269,184"/>
-<area shape="rect" id="node8" href="$file_8c.html#a5427152949eb9155ce6ed20ef5b420e7" title="free_fdtable_rcu" alt="" coords="164,107,279,133"/>
-<area shape="rect" id="node5" href="$file_8c.html#abfc95cdd47d380539638c76d38941249" title="copy_fd_bitmaps" alt="" coords="327,157,448,184"/>
-<area shape="rect" id="node6" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="496,157,551,184"/>
-<area shape="rect" id="node7" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="599,157,717,184"/>
-</map>

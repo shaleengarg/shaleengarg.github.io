@@ -1,5 +1,0 @@
-<map id="grow_buffers" name="grow_buffers">
-<area shape="rect" id="node2" href="$buffer_8c.html#a0afbbc13c36fbd7ead5948b2926e7d90" title="__getblk_slow" alt="" coords="151,5,256,32"/>
-<area shape="rect" id="node3" href="$buffer_8c.html#a786052bd5bd2888c5512965a2f746e84" title="__getblk_gfp" alt="" coords="304,5,400,32"/>
-<area shape="rect" id="node4" href="$buffer_8c.html#afa01bff6f071077845c288301912fbda" title="__bread_gfp" alt="" coords="448,5,541,32"/>
-</map>

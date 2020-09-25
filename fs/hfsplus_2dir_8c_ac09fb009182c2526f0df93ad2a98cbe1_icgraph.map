@@ -1,7 +1,0 @@
-<map id="hfsplus_instantiate" name="hfsplus_instantiate">
-<area shape="rect" id="node2" href="$hfsplus_2dir_8c.html#a5993428ddb0bdc48d7b5304c67eab60a" title="hfsplus_link" alt="" coords="197,5,287,32"/>
-<area shape="rect" id="node3" href="$hfsplus_2dir_8c.html#aeda0310a00867d05b95b1bc015923e5c" title="hfsplus_symlink" alt="" coords="184,56,300,83"/>
-<area shape="rect" id="node4" href="$hfsplus_2dir_8c.html#a35bf3faf117c9dfd41c7c9445eac16f9" title="hfsplus_mknod" alt="" coords="187,107,297,133"/>
-<area shape="rect" id="node5" href="$hfsplus_2dir_8c.html#a0f477be27f821443e6ad4eb85cff991f" title="hfsplus_create" alt="" coords="348,81,455,108"/>
-<area shape="rect" id="node6" href="$hfsplus_2dir_8c.html#a080f2cf4a5ffa50542a9c52802a4f3fa" title="hfsplus_mkdir" alt="" coords="350,132,453,159"/>
-</map>

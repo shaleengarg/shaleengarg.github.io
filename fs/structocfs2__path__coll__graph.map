@@ -1,8 +1,0 @@
-<map id="ocfs2_path" name="ocfs2_path">
-<area shape="rect" id="node2" href="$structocfs2__path__item.html" title="ocfs2_path_item" alt="" coords="23,184,142,211"/>
-<area shape="rect" id="node3" href="$structocfs2__extent__list.html" title="ocfs2_extent_list" alt="" coords="6,95,127,121"/>
-<area shape="rect" id="node4" href="$structocfs2__extent__rec.html" title="ocfs2_extent_rec" alt="" coords="5,5,128,32"/>
-<area shape="rect" id="node5" href="$structocfs2__caching__info.html" title="ocfs2_caching_info" alt="" coords="169,184,303,211"/>
-<area shape="rect" id="node6" href="$structocfs2__caching__operations.html" title="ocfs2_caching_operations" alt="" coords="152,95,325,121"/>
-<area shape="rect" id="node7" href="$structsuper__block.html" title="super_block" alt="" coords="193,5,285,32"/>
-</map>

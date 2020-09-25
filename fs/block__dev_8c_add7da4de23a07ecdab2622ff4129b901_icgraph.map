@@ -1,6 +1,0 @@
-<map id="dio_bio_write_op" name="dio_bio_write_op">
-<area shape="rect" id="node2" href="$block__dev_8c.html#a281561992099abf362a83655817f9a07" title="__blkdev_direct_IO\l_simple" alt="" coords="172,5,307,47"/>
-<area shape="rect" id="node5" href="$block__dev_8c.html#a8360c300d878d3d6e37078e183490b8f" title="__blkdev_direct_IO" alt="" coords="172,71,307,98"/>
-<area shape="rect" id="node3" href="$block__dev_8c.html#a1c4a6925907a154903d6dd14fa0d6f7a" title="blkdev_direct_IO" alt="" coords="355,42,475,69"/>
-<area shape="rect" id="node4" href="$block__dev_8c.html#a87446c4001b804b7332197fddef2dd52" title="blkdev_writepages" alt="" coords="523,42,653,69"/>
-</map>

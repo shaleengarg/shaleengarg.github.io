@@ -1,5 +1,0 @@
-<map id="ubifs_tnc_get_bu_keys" name="ubifs_tnc_get_bu_keys">
-<area shape="rect" id="node2" href="$ubifs_2file_8c.html#ad6186990c25e6b2dc7768ac1949bec83" title="ubifs_do_bulk_read" alt="" coords="209,5,344,32"/>
-<area shape="rect" id="node3" href="$ubifs_2file_8c.html#aed7254246d1ac02f002c675f49b0e685" title="ubifs_bulk_read" alt="" coords="392,5,505,32"/>
-<area shape="rect" id="node4" href="$ubifs_2file_8c.html#a86938bc9dd8e47804a84e7065efa58ae" title="ubifs_readpage" alt="" coords="553,5,664,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ore_get_rw_state" name="ore_get_rw_state">
-<area shape="rect" id="node2" href="$ore_8c.html#a34941c4da810691be20a6b899ac4a703" title="_ore_get_io_state" alt="" coords="184,5,309,32"/>
-<area shape="rect" id="node3" href="$ore_8c.html#ae964c3688be0194978ad149bdd783852" title="ore_calc_stripe_info" alt="" coords="177,56,316,83"/>
-<area shape="rect" id="node4" href="$ore_8c.html#a3a40092d96622c018306380323e84327" title="EXPORT_SYMBOL" alt="" coords="365,81,504,108"/>
-<area shape="rect" id="node5" href="$ore__raid_8c.html#acb4ab668d30e054833fe0fc76fa8619e" title="_ore_post_alloc_raid\l_stuff" alt="" coords="176,158,317,199"/>
-<area shape="rect" id="node6" href="$ore__raid_8c.html#ae4e8746920e4652482e26d24b9ef542a" title="_sp2d_alloc" alt="" coords="389,165,480,192"/>
-</map>

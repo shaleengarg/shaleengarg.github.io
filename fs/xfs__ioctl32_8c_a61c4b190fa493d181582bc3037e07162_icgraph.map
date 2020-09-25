@@ -1,6 +1,0 @@
-<map id="xfs_bstime_store_compat" name="xfs_bstime_store_compat">
-<area shape="rect" id="node2" href="$xfs__ioctl32_8c.html#a305adb37044f11124e03ba353fe5b076" title="xfs_bulkstat_one_fmt\l_compat" alt="" coords="225,5,372,47"/>
-<area shape="rect" id="node3" href="$xfs__ioctl32_8c.html#a6feded3e6a81268b3cf45d0cb5bf30f8" title="xfs_bulkstat_one_compat" alt="" coords="420,13,591,39"/>
-<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#af9dba26e43154e91924bc3084ca74702" title="xfs_compat_ioc_bulkstat" alt="" coords="639,13,805,39"/>
-<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="853,13,999,39"/>
-</map>

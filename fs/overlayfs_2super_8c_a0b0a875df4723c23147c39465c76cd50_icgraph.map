@@ -1,5 +1,0 @@
-<map id="ovl_split_lowerdirs" name="ovl_split_lowerdirs">
-<area shape="rect" id="node2" href="$overlayfs_2super_8c.html#a1707d7457d148229a2a93abbbabe5a8d" title="ovl_get_lowerstack" alt="" coords="183,5,317,32"/>
-<area shape="rect" id="node3" href="$overlayfs_2super_8c.html#ad189fedacb7a346e19cbf4d7ba775ba9" title="ovl_fill_super" alt="" coords="365,5,464,32"/>
-<area shape="rect" id="node4" href="$overlayfs_2super_8c.html#a45212ef365fb5aead6ac0d4ce69ce1ca" title="ovl_mount" alt="" coords="512,5,595,32"/>
-</map>

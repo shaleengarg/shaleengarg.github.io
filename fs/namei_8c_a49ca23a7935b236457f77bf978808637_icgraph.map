@@ -1,8 +1,0 @@
-<map id="page_put_link" name="page_put_link">
-<area shape="rect" id="node2" href="$namei_8c.html#a855ce148cb1a350de1e06345421af941" title="page_get_link" alt="" coords="156,56,259,83"/>
-<area shape="rect" id="node7" href="$nfs_2symlink_8c.html#aac67f08b24272ba298858baa3547c9a9" title="nfs_get_link" alt="" coords="161,107,253,133"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="307,5,481,32"/>
-<area shape="rect" id="node5" href="$f2fs_2namei_8c.html#a11f12b76961de87ae7a030147816c77e" title="f2fs_get_link" alt="" coords="346,56,442,83"/>
-<area shape="rect" id="node6" href="$namei_8c.html#a14ec44a472194d566ed6215ebfcd22b7" title="page_readlink" alt="" coords="343,107,445,133"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="529,5,627,32"/>
-</map>

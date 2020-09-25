@@ -1,7 +1,0 @@
-<map id="gfs2_size_hint" name="gfs2_size_hint">
-<area shape="rect" id="node2" href="$gfs2_2file_8c.html#a060d6b4abdb7136f44c218a3fddb48e2" title="gfs2_page_mkwrite" alt="" coords="160,5,295,32"/>
-<area shape="rect" id="node3" href="$gfs2_2file_8c.html#a7636d57a8b0891bcb01d402d9cc1866a" title="gfs2_file_write_iter" alt="" coords="343,56,473,83"/>
-<area shape="rect" id="node4" href="$gfs2_2file_8c.html#a05e3abde0f7e56d6d83814283cfde627" title="gfs2_file_splice_write" alt="" coords="521,107,668,133"/>
-<area shape="rect" id="node5" href="$gfs2_2file_8c.html#a65b34af1dd687621818a92b9294989cf" title="__gfs2_fallocate" alt="" coords="169,157,286,184"/>
-<area shape="rect" id="node6" href="$gfs2_2file_8c.html#a1d9335e767079ebc2cb0cdf70866355b" title="gfs2_fallocate" alt="" coords="357,157,459,184"/>
-</map>

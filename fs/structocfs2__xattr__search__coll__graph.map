@@ -1,6 +1,0 @@
-<map id="ocfs2_xattr_search" name="ocfs2_xattr_search">
-<area shape="rect" id="node2" href="$structocfs2__xattr__header.html" title="ocfs2_xattr_header" alt="" coords="120,95,253,121"/>
-<area shape="rect" id="node3" href="$structocfs2__xattr__entry.html" title="ocfs2_xattr_entry" alt="" coords="5,5,128,32"/>
-<area shape="rect" id="node4" href="$structocfs2__block__check.html" title="ocfs2_block_check" alt="" coords="153,5,287,32"/>
-<area shape="rect" id="node5" href="$structocfs2__xattr__bucket.html" title="ocfs2_xattr_bucket" alt="" coords="277,95,411,121"/>
-</map>

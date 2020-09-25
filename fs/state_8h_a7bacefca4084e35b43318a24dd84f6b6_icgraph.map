@@ -1,7 +1,0 @@
-<map id="nfsd4_find_reclaim_client" name="nfsd4_find_reclaim_client">
-<area shape="rect" id="node2" href="$state_8h.html#aa8ce494b77bc4ede582da57a63c5aae6" title="nfs4_has_reclaimed\l_state" alt="" coords="191,5,329,47"/>
-<area shape="rect" id="node5" href="$nfs4recover_8c.html#a95e5567f776c0a013b1eca5f50f1833b" title="nfsd4_remove_clid_dir" alt="" coords="184,71,336,98"/>
-<area shape="rect" id="node6" href="$nfs4recover_8c.html#a10ba1c0305f5177f25b03973eb596870" title="nfsd4_check_legacy\l_client" alt="" coords="189,123,331,164"/>
-<area shape="rect" id="node3" href="$nfs4recover_8c.html#a2044a0d12001735f5cb509e77fd3eb0e" title="purge_old" alt="" coords="384,13,463,39"/>
-<area shape="rect" id="node4" href="$nfs4recover_8c.html#ad8e1fc6cc028edc6f7407d64e2f2d3a3" title="nfsd4_recdir_purge_old" alt="" coords="511,13,667,39"/>
-</map>

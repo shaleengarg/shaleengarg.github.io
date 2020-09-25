@@ -1,5 +1,0 @@
-<map id="btrfs_get_dentry" name="btrfs_get_dentry">
-<area shape="rect" id="node2" href="$btrfs_2export_8c.html#a2f9121743aca761a79644b82563ec533" title="btrfs_fh_to_parent" alt="" coords="169,5,296,32"/>
-<area shape="rect" id="node3" href="$btrfs_2export_8c.html#a120bea47396a8fc6218f1e4e487ba010" title="btrfs_fh_to_dentry" alt="" coords="169,56,296,83"/>
-<area shape="rect" id="node4" href="$btrfs_2export_8c.html#a9ea914c0021cfe6a2b432c2ed1acfa73" title="btrfs_get_parent" alt="" coords="175,107,291,133"/>
-</map>

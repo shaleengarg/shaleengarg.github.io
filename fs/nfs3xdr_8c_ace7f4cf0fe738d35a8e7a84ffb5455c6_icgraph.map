@@ -1,7 +1,0 @@
-<map id="prepare_reply_buffer" name="prepare_reply_buffer">
-<area shape="rect" id="node2" href="$nfs3xdr_8c.html#a7d4f0dde0be7a1aaa0f5c3ae60049472" title="nfs3_xdr_enc_readlink3args" alt="" coords="203,5,387,32"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#aae6f677cd1878d2d42d3d54d841f0f5d" title="nfs3_xdr_enc_read3args" alt="" coords="213,56,377,83"/>
-<area shape="rect" id="node4" href="$nfs3xdr_8c.html#ab2adf04aba184bcc8def5892d9d4e8f1" title="nfs3_xdr_enc_readdir3args" alt="" coords="205,107,384,133"/>
-<area shape="rect" id="node5" href="$nfs3xdr_8c.html#aac7898866da566188e1573b0eff71a6a" title="nfs3_xdr_enc_readdirplus3args" alt="" coords="193,157,396,184"/>
-<area shape="rect" id="node6" href="$nfs3xdr_8c.html#ae225856e252d0961b72ccfe040a9103c" title="nfs3_xdr_enc_commit3args" alt="" coords="203,208,386,235"/>
-</map>

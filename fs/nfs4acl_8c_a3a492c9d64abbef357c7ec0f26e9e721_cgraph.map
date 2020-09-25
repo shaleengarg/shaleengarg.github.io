@@ -1,7 +1,0 @@
-<map id="low_mode_from_nfs4" name="low_mode_from_nfs4">
-<area shape="rect" id="node2" href="$nfs4acl_8c.html#aef820d0d725e327ea7b7810b97d1bb11" title="ace2type" alt="" coords="235,5,310,32"/>
-<area shape="rect" id="node3" href="$nfs4acl_8c.html#ad89bf0636365bccfbcd22f2868b8ae72" title="_posix_to_nfsv4_one" alt="" coords="200,56,345,83"/>
-<area shape="rect" id="node4" href="$nfs4acl_8c.html#af62a3770c88195f3a99ee459b2847e79" title="summarize_posix_acl" alt="" coords="399,5,547,32"/>
-<area shape="rect" id="node5" href="$nfs4acl_8c.html#a6b396e38afeff9ed399f05a775d8341c" title="deny_mask_from_posix" alt="" coords="393,56,553,83"/>
-<area shape="rect" id="node6" href="$nfs4acl_8c.html#a3375543c5a4bc390e2250f47927fdbfc" title="mask_from_posix" alt="" coords="411,107,536,133"/>
-</map>

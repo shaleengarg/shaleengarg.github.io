@@ -1,9 +1,0 @@
-<map id="jfs_sb_info" name="jfs_sb_info">
-<area shape="rect" id="node2" href="$structsuper__block.html" title="super_block" alt="" coords="5,5,97,32"/>
-<area shape="rect" id="node8" href="$structtblock.html" title="tblock" alt="" coords="192,95,249,121"/>
-<area shape="rect" id="node3" href="$structbmap.html" title="bmap" alt="" coords="44,213,99,240"/>
-<area shape="rect" id="node4" href="$structdbmap.html" title="dbmap" alt="" coords="35,95,97,121"/>
-<area shape="rect" id="node5" href="$structpxd__t.html" title="pxd_t" alt="" coords="143,5,197,32"/>
-<area shape="rect" id="node6" href="$structjfs__log.html" title="jfs_log" alt="" coords="200,213,260,240"/>
-<area shape="rect" id="node7" href="$structlbuf.html" title="lbuf" alt="" coords="298,333,341,360"/>
-</map>

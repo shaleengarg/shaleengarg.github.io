@@ -1,5 +1,0 @@
-<map id="encode_stateid4" name="encode_stateid4">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#ab76901176b16da42bfe76ad8669a4de9" title="encode_cb_recall4args" alt="" coords="173,5,327,32"/>
-<area shape="rect" id="node4" href="$nfs4callback_8c.html#adb8914dc67ee5f99d67be5384ac84689" title="nfs4_xdr_dec_cb_recall" alt="" coords="171,56,329,83"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#a03db72f594d31435f834d65397fa439f" title="nfs4_xdr_enc_cb_recall" alt="" coords="377,5,536,32"/>
-</map>

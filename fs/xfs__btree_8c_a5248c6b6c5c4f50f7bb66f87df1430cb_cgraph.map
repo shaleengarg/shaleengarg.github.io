@@ -1,5 +1,0 @@
-<map id="xfs_btree_sblock_verify" name="xfs_btree_sblock_verify">
-<area shape="rect" id="node2" href="$xfs__mount_8h.html#a6ada26e337ca2d4c2a0d3f5d68a6f1e9" title="xfs_daddr_to_agno" alt="" coords="213,5,345,32"/>
-<area shape="rect" id="node3" href="$xfs__alloc_8c.html#a3ebbc0ba763771526309a919a18591b2" title="xfs_verify_agbno" alt="" coords="219,56,340,83"/>
-<area shape="rect" id="node4" href="$xfs__alloc_8c.html#a6004c39ae1a6ee4f5331d8ee2ea8cb19" title="xfs_ag_block_count" alt="" coords="393,56,532,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="nfsd4_cb_notify_lock_release" name="nfsd4_cb_notify_lock_release">
-<area shape="rect" id="node2" href="$_2nfs4state_8c.html#ad24ce2c051005c97c8ef898027791da3" title="free_blocked_lock" alt="" coords="225,5,352,32"/>
-<area shape="rect" id="node5" href="$_2nfs4state_8c.html#a9eb4235942799c02ea016ef9d8f57df8" title="nfsd4_cb_notify_lock_done" alt="" coords="199,56,379,83"/>
-<area shape="rect" id="node3" href="$locks_8c.html#a8fd94e778fd9f51467c83f045029c2d1" title="locks_release_private" alt="" coords="427,5,575,32"/>
-<area shape="rect" id="node4" href="$locks_8c.html#ae0e51117f92ae6dc5ccfbaa60aaa53f1" title="EXPORT_SYMBOL_GPL" alt="" coords="623,5,795,32"/>
-</map>

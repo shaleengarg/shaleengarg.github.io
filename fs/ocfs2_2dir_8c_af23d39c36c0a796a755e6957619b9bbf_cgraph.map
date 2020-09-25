@@ -1,7 +1,0 @@
-<map id="ocfs2_expand_last_dirent" name="ocfs2_expand_last_dirent">
-<area shape="rect" id="node2" href="$ocfs2_2dir_8c.html#a48939977a3e130746e8468af31b20934" title="ocfs2_new_dir_wants\l_trailer" alt="" coords="231,23,379,65"/>
-<area shape="rect" id="node5" href="$ocfs2_2dir_8c.html#ac91bc9339022320f63e021d6948b2d11" title="ocfs2_dir_trailer_blk_off" alt="" coords="225,89,385,116"/>
-<area shape="rect" id="node6" href="$ocfs2_2dir_8c.html#a0bc0c8225ab4b252d8b09ff22a12b0e6" title="ocfs2_figure_dirent_hole" alt="" coords="224,140,387,167"/>
-<area shape="rect" id="node3" href="$ocfs2_8h.html#abfc3ee93060b367faf6a6782e62ae4ac" title="ocfs2_meta_ecc" alt="" coords="471,5,589,32"/>
-<area shape="rect" id="node4" href="$ocfs2_8h.html#a200687d8f1f8169c86283ee711f8685b" title="ocfs2_supports_indexed_dirs" alt="" coords="435,56,625,83"/>
-</map>

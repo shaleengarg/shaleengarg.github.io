@@ -1,8 +1,0 @@
-<map id="fd_statfs" name="fd_statfs">
-<area shape="rect" id="node2" href="$statfs_8c.html#a968b90dce69ee2ed04c2137954edea27" title="vfs_statfs" alt="" coords="127,56,207,83"/>
-<area shape="rect" id="node3" href="$statfs_8c.html#a5416dda9ef23e066d85d1dd25fa190c8" title="statfs_by_dentry" alt="" coords="265,5,383,32"/>
-<area shape="rect" id="node4" href="$statfs_8c.html#a9e1551a1c936fe2ed80ff4bad4fbf40c" title="calculate_f_flags" alt="" coords="264,56,384,83"/>
-<area shape="rect" id="node7" href="$statfs_8c.html#adb45b2c25421e82cda1fc0a82e718eff" title="EXPORT_SYMBOL" alt="" coords="255,107,393,133"/>
-<area shape="rect" id="node5" href="$statfs_8c.html#acc95e81ad1a94cce891167b1fb308f44" title="flags_by_mnt" alt="" coords="441,31,541,57"/>
-<area shape="rect" id="node6" href="$statfs_8c.html#a7bcae4d4783b94d7f4745a69024a196f" title="flags_by_sb" alt="" coords="445,81,537,108"/>
-</map>

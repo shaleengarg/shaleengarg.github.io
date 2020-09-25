@@ -1,8 +1,0 @@
-<map id="ocfs2_figure_contig_type" name="ocfs2_figure_contig_type">
-<area shape="rect" id="node2" href="$ocfs2_2alloc_8c.html#aa0f8b83afeb15b6b0ab8a0c847ffaa48" title="ocfs2_et_extent_contig" alt="" coords="220,64,377,91"/>
-<area shape="rect" id="node3" href="$ocfs2_2alloc_8c.html#af2c99f17f04ae9b499ceca9990ceb775" title="ocfs2_extent_rec_contig" alt="" coords="425,35,589,61"/>
-<area shape="rect" id="node7" href="$ocfs2_8h.html#a00eef5505a2e46ff0b0ba32149a1b802" title="ocfs2_metadata_cache\l_get_super" alt="" coords="429,86,586,127"/>
-<area shape="rect" id="node4" href="$ocfs2_2alloc_8c.html#a7cdda55f58d09d95a26f7e02b819666f" title="ocfs2_extents_adjacent" alt="" coords="637,5,797,32"/>
-<area shape="rect" id="node5" href="$ocfs2_2alloc_8c.html#af87e4e6dea85b9a3a07f3f007408ead8" title="ocfs2_block_extent\l_contig" alt="" coords="650,57,785,98"/>
-<area shape="rect" id="node6" href="$ocfs2_8h.html#ac2f56aa03d88002b636baddba9bee355" title="ocfs2_clusters_to_blocks" alt="" coords="845,64,1016,91"/>
-</map>

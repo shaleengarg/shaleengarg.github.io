@@ -1,6 +1,0 @@
-<map id="nfs4_state_start" name="nfs4_state_start">
-<area shape="rect" id="node2" href="$nfs4callback_8c.html#a0d5ff56c6b1807cfa2b62f05851dc359" title="set_callback_cred" alt="" coords="183,5,310,32"/>
-<area shape="rect" id="node3" href="$nfs4callback_8c.html#aea0bccc2e459952397f29760c071065f" title="nfsd4_create_callback\l_queue" alt="" coords="171,57,323,98"/>
-<area shape="rect" id="node4" href="$_2nfs4state_8c.html#aef125aefc231724110f7ff264525762f" title="set_max_delegations" alt="" coords="174,123,319,149"/>
-<area shape="rect" id="node5" href="$nfs4callback_8c.html#a0814491288fa653b755f6be147e0e9dc" title="cleanup_callback_cred" alt="" coords="169,173,324,200"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="vxfs_get_fshead" name="vxfs_get_fshead">
-<area shape="rect" id="node2" href="$vxfs__olt_8c.html#aa829f6ed1f1f6fbeff4fcc9be4edda49" title="vxfs_read_olt" alt="" coords="172,5,272,32"/>
-<area shape="rect" id="node3" href="$vxfs__super_8c.html#a1a0516750b0747cdac3f67a9dc339254" title="vxfs_fill_super" alt="" coords="320,5,427,32"/>
-<area shape="rect" id="node4" href="$vxfs__super_8c.html#a7f5943b315f644d46f42436878918ef1" title="vxfs_mount" alt="" coords="475,5,565,32"/>
-</map>

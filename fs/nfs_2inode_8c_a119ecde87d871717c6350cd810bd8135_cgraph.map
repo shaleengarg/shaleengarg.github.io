@@ -1,8 +1,0 @@
-<map id="nfs_check_inode_attributes" name="nfs_check_inode_attributes">
-<area shape="rect" id="node2" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="441,107,580,149"/>
-<area shape="rect" id="node3" href="$nfs_2inode_8c.html#a186b2e174ebe895fc8ebc01f1f125d76" title="nfs_file_has_buffered\l_writers" alt="" coords="237,49,383,90"/>
-<area shape="rect" id="node6" href="$nfs_2inode_8c.html#a2c8796a0dda755676128203347abd111" title="nfs_set_cache_invalid" alt="" coords="235,165,385,192"/>
-<area shape="rect" id="node4" href="$nfs_2inode_8c.html#a1fb43d1a856001468e9ec2219a040391" title="nfs_file_has_writers" alt="" coords="441,56,580,83"/>
-<area shape="rect" id="node5" href="$nfs_2internal_8h.html#a6c2847eab6b06cb093b33c9b7fee40a0" title="nfs_file_io_is_buffered" alt="" coords="435,5,587,32"/>
-<area shape="rect" id="node7" href="$nfs_2fscache_8h.html#af3f2768c71063606516dbb0ee9cf7d72" title="nfs_fscache_invalidate" alt="" coords="433,173,588,200"/>
-</map>

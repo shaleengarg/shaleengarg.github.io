@@ -1,8 +1,0 @@
-<map id="afs_queue_call_work" name="afs_queue_call_work">
-<area shape="rect" id="node2" href="$cmservice_8c.html#a922c0e12250bbca3c5a0c586e13bb306" title="afs_deliver_cb_callback" alt="" coords="205,5,366,32"/>
-<area shape="rect" id="node3" href="$cmservice_8c.html#a795235e7b427f163ee4f4c1d6598b580" title="afs_deliver_cb_init\l_call_back_state" alt="" coords="220,57,351,98"/>
-<area shape="rect" id="node4" href="$cmservice_8c.html#ae4eb62cc0e603101ba71392935530c2c" title="afs_deliver_cb_init\l_call_back_state3" alt="" coords="220,122,351,163"/>
-<area shape="rect" id="node5" href="$cmservice_8c.html#a4e67d3b05f2df42727724017f383fb81" title="afs_deliver_cb_probe" alt="" coords="213,188,358,215"/>
-<area shape="rect" id="node6" href="$cmservice_8c.html#ae597b3138b2ca01bd317d7a4d35d6fd2" title="afs_deliver_cb_probe_uuid" alt="" coords="197,239,373,265"/>
-<area shape="rect" id="node7" href="$cmservice_8c.html#af6d7d87cb1b06cbb2ba46947fe946c8d" title="afs_deliver_cb_tell\l_me_about_yourself" alt="" coords="216,290,355,331"/>
-</map>

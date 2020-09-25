@@ -1,9 +1,0 @@
-<map id="ufs_frag_map" name="ufs_frag_map">
-<area shape="rect" id="node2" href="$ufs_8h.html#a2b2db639d689d928b34afd2fb37f3987" title="UFS_I" alt="" coords="176,5,236,32"/>
-<area shape="rect" id="node3" href="$ufs_8h.html#abeb63dc517629bd2f7833215c463946e" title="UFS_SB" alt="" coords="169,56,243,83"/>
-<area shape="rect" id="node4" href="$ufs_2inode_8c.html#adef64efc8fb95b7514e1c4837c577d65" title="grow_chain32" alt="" coords="155,107,257,133"/>
-<area shape="rect" id="node5" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="159,157,253,184"/>
-<area shape="rect" id="node7" href="$ufs_2inode_8c.html#aef19b4a695d0dd54cbd428338d715628" title="grow_chain64" alt="" coords="155,208,257,235"/>
-<area shape="rect" id="node8" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="159,259,253,285"/>
-<area shape="rect" id="node6" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="305,208,388,235"/>
-</map>

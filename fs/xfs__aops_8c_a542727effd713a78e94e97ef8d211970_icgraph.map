@@ -1,7 +1,0 @@
-<map id="xfs_alloc_ioend" name="xfs_alloc_ioend">
-<area shape="rect" id="node2" href="$xfs__aops_8c.html#ab988f6291cbb2877761f91d7e94b74c8" title="xfs_add_to_ioend" alt="" coords="165,31,289,57"/>
-<area shape="rect" id="node3" href="$xfs__aops_8c.html#ab3b4b2735c124cb562ba26ff95395258" title="xfs_writepage_map" alt="" coords="337,31,472,57"/>
-<area shape="rect" id="node4" href="$xfs__aops_8c.html#a817b5c463a4d7f442c4da9cf58e70723" title="xfs_do_writepage" alt="" coords="520,31,644,57"/>
-<area shape="rect" id="node5" href="$xfs__aops_8c.html#a80aa6026194d3d165692d8244ecb3120" title="xfs_vm_writepage" alt="" coords="695,5,823,32"/>
-<area shape="rect" id="node6" href="$xfs__aops_8c.html#a970b8046d2421d8491be0c23f44b3abe" title="xfs_vm_writepages" alt="" coords="692,56,827,83"/>
-</map>

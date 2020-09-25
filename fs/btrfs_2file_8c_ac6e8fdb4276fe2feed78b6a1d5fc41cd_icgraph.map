@@ -1,5 +1,0 @@
-<map id="btrfs_drop_pages" name="btrfs_drop_pages">
-<area shape="rect" id="node2" href="$btrfs_2file_8c.html#abb642c5618a05bd0d1d2e8a40850d3d5" title="__btrfs_buffered_write" alt="" coords="176,31,327,57"/>
-<area shape="rect" id="node3" href="$btrfs_2file_8c.html#a6f18471497fe0716caf82fb1943db685" title="__btrfs_direct_write" alt="" coords="375,5,511,32"/>
-<area shape="rect" id="node4" href="$btrfs_2file_8c.html#a648f5f723e2831eaa490bda3b7902cc8" title="btrfs_file_write_iter" alt="" coords="559,31,691,57"/>
-</map>

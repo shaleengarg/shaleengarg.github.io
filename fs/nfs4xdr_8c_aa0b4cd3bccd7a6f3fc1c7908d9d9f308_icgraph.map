@@ -1,5 +1,0 @@
-<map id="decode_access" name="decode_access">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a4a1e563be013aac819f0a5d0a7691946" title="nfs4_xdr_dec_access" alt="" coords="179,5,329,32"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ae75f94182733d5f38a322b751a4a3d03" title="nfs4_xdr_dec_open" alt="" coords="187,56,321,83"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a7908acb35fe5153c15681f77e66d6b98" title="nfs4_xdr_dec_open_noattr" alt="" coords="167,107,341,133"/>
-</map>

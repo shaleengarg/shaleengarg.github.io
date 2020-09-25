@@ -1,7 +1,0 @@
-<map id="gdlm_bast" name="gdlm_bast">
-<area shape="rect" id="node2" href="$glock_8c.html#aad119e85f824c9bfefdb0c196720656b" title="gfs2_glock_cb" alt="" coords="136,81,243,108"/>
-<area shape="rect" id="node3" href="$xfs__linux_8h.html#ad8bf89cf792601420f318df5659db045" title="delay" alt="" coords="352,5,405,32"/>
-<area shape="rect" id="node4" href="$glock_8c.html#a42aebd982c7bcb1484097cd5f9bc7149" title="gfs2_glock_hold" alt="" coords="321,56,437,83"/>
-<area shape="rect" id="node5" href="$glock_8c.html#a5a97abf1e0ccd0d7bccc107cb853acdd" title="handle_callback" alt="" coords="321,107,436,133"/>
-<area shape="rect" id="node6" href="$glock_8c.html#a1ad999039c6b5fc4a2abca1c2a5f50b6" title="__gfs2_glock_queue_work" alt="" coords="291,157,467,184"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="gfs2_rgrp_send_discards" name="gfs2_rgrp_send_discards">
-<area shape="rect" id="node2" href="$lops_8c.html#a7d3216b99bdf3d6e7676ca94f106f9f2" title="maybe_release_space" alt="" coords="220,56,372,83"/>
-<area shape="rect" id="node6" href="$rgrp_8h.html#aac7dcffbb3945ebd6cc9e9be95773ccf" title="gfs2_fitrim" alt="" coords="255,107,337,133"/>
-<area shape="rect" id="node3" href="$lops_8c.html#a35b3b7b28c7fa982d88b3a0ed5fef74e" title="gfs2_unpin" alt="" coords="420,56,505,83"/>
-<area shape="rect" id="node4" href="$lops_8c.html#a3921f9c682e4776c47652c382b589edf" title="buf_lo_after_commit" alt="" coords="566,5,706,32"/>
-<area shape="rect" id="node5" href="$lops_8c.html#a2d7c3f53ea6174d1f46c4d64b4d2daa5" title="databuf_lo_after_commit" alt="" coords="553,56,719,83"/>
-<area shape="rect" id="node7" href="$gfs2_2file_8c.html#a774061dde76a13f2775ca80995822548" title="gfs2_ioctl" alt="" coords="423,107,502,133"/>
-<area shape="rect" id="node8" href="$gfs2_2file_8c.html#a05e3abde0f7e56d6d83814283cfde627" title="gfs2_file_splice_write" alt="" coords="563,107,709,133"/>
-</map>

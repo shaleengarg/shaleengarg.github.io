@@ -1,6 +1,0 @@
-<map id="hfs_mdb_put" name="hfs_mdb_put">
-<area shape="rect" id="node2" href="$hfs_2super_8c.html#ab6fefb133043b2e4a2186ea9445f9435" title="hfs_put_super" alt="" coords="151,5,255,32"/>
-<area shape="rect" id="node3" href="$hfs_2super_8c.html#a83be34d1c100f45d39029f598fd16164" title="hfs_fill_super" alt="" coords="303,81,401,108"/>
-<area shape="rect" id="node5" href="$mdb_8c.html#a6ef8d8e7cdf1b6357f1c14253b478561" title="hfs_mdb_get" alt="" coords="154,107,251,133"/>
-<area shape="rect" id="node4" href="$hfs_2super_8c.html#ad02dab2d53d22ff0cddb9baadc2229ef" title="hfs_mount" alt="" coords="449,81,532,108"/>
-</map>

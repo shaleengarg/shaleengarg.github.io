@@ -1,6 +1,0 @@
-<map id="nsm_xdr_enc_unmon" name="nsm_xdr_enc_unmon">
-<area shape="rect" id="node2" href="$mon_8c.html#a6214adefc54c26bfbaf742c77ae0108a" title="encode_mon_id" alt="" coords="200,31,313,57"/>
-<area shape="rect" id="node3" href="$mon_8c.html#af0b827320894ee09756515470cd1f9fd" title="encode_mon_name" alt="" coords="361,5,496,32"/>
-<area shape="rect" id="node5" href="$mon_8c.html#ab0208d966d3b5e1e7ec68bfd807b986c" title="encode_my_id" alt="" coords="375,56,482,83"/>
-<area shape="rect" id="node4" href="$mon_8c.html#a58efc506526940c297410c00d8a2eacb" title="encode_nsm_string" alt="" coords="544,31,679,57"/>
-</map>

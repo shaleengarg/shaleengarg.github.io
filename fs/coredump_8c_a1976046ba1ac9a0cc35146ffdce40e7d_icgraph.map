@@ -1,8 +1,0 @@
-<map id="dump_emit" name="dump_emit">
-<area shape="rect" id="node2" href="$binfmt__elf_8c.html#a1645b2628ac43863a70bb8df7b0abd34" title="load_elf_binary" alt="" coords="418,5,527,32"/>
-<area shape="rect" id="node3" href="$binfmt__elf__fdpic_8c.html#a3884768db165449a8609b2e418ca0c60" title="elf_fdpic_map_file\l_by_direct_mmap" alt="" coords="409,99,536,141"/>
-<area shape="rect" id="node6" href="$coredump_8c.html#a19d489707651d5923bfe0b2bfc369d6e" title="dump_skip" alt="" coords="140,56,225,83"/>
-<area shape="rect" id="node4" href="$binfmt__elf__fdpic_8c.html#ad9c5fe5dd1d89e6a7a0dc46675222a1e" title="elf_fdpic_map_file" alt="" coords="584,107,711,133"/>
-<area shape="rect" id="node5" href="$binfmt__elf__fdpic_8c.html#a50a91a9ffb626861af3795de158b5103" title="load_elf_fdpic_binary" alt="" coords="759,107,903,133"/>
-<area shape="rect" id="node7" href="$coredump_8c.html#ab8bcaf2e5359f04599a664c04081f245" title="dump_align" alt="" coords="273,56,361,83"/>
-</map>

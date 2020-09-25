@@ -1,6 +1,0 @@
-<map id="write_pipe_buf" name="write_pipe_buf">
-<area shape="rect" id="node2" href="$read__write_8c.html#a059eae1a3bb8834816834325b0e2521b" title="__kernel_write" alt="" coords="160,31,267,57"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#afa78d288f1d4bb4b053c65e1b0155dbd" title="__vfs_write" alt="" coords="339,5,429,32"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="315,56,453,83"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#a4b2f4ef6718d3c4726de9b775fb4ea0f" title="new_sync_write" alt="" coords="501,5,617,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="__close_fd" name="__close_fd">
-<area shape="rect" id="node2" href="$file_8c.html#a0342779f4c169df8d40933b0619c0d3e" title="replace_fd" alt="" coords="171,5,253,32"/>
-<area shape="rect" id="node5" href="$open_8c.html#a5a09849ecc3aa7c7c91f9f9ec016fff8" title="SYSCALL_DEFINE1" alt="" coords="139,56,285,83"/>
-<area shape="rect" id="node3" href="$coredump_8c.html#a26f3fd5ee9248e1c43e1527a0d7107b5" title="umh_pipe_setup" alt="" coords="333,5,451,32"/>
-<area shape="rect" id="node4" href="$coredump_8c.html#a0385fa658924a8f2182728fbc2efc412" title="do_coredump" alt="" coords="499,5,599,32"/>
-</map>

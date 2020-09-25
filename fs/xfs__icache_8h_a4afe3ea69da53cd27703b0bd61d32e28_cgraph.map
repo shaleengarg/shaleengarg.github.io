@@ -1,7 +1,0 @@
-<map id="xfs_inode_set_cowblocks_tag" name="xfs_inode_set_cowblocks_tag">
-<area shape="rect" id="node2" href="$xfs__icache_8c.html#a90ca8ec0fb11513685821486ce7a1aa4" title="__xfs_inode_set_blocks_tag" alt="" coords="251,56,437,83"/>
-<area shape="rect" id="node6" href="$xfs__icache_8c.html#a89fd30936cea813af551b16a2961a398" title="xfs_queue_cowblocks" alt="" coords="269,107,419,133"/>
-<area shape="rect" id="node3" href="$xfs__icache_8c.html#a095f507aa6cb6207c9b5dd667ad37e44" title="xfs_iflag_for_tag" alt="" coords="485,5,604,32"/>
-<area shape="rect" id="node4" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="493,56,597,83"/>
-<area shape="rect" id="node5" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="493,107,597,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="fsstack_copy_attr_all" name="fsstack_copy_attr_all">
-<area shape="rect" id="node2" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="249,31,323,57"/>
-<area shape="rect" id="node5" href="$stack_8c.html#ab90f6323ef73e764e075908d9ffc9abe" title="EXPORT_SYMBOL_GPL" alt="" coords="200,81,372,108"/>
-<area shape="rect" id="node3" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="420,5,504,32"/>
-<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="552,31,691,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="__nfs4_get_acl_uncached" name="__nfs4_get_acl_uncached">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#aed0ba8d692c954a611bddd80a9c7b71d" title="nfs4_get_acl_uncached" alt="" coords="227,5,385,32"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a4302f700cc134e29c5b108811ca305ea" title="nfs4_proc_get_acl" alt="" coords="433,5,561,32"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a97f2552ce070f1d9fe974bd9d7414ef7" title="nfs4_xattr_get_nfs4_acl" alt="" coords="609,5,771,32"/>
-</map>

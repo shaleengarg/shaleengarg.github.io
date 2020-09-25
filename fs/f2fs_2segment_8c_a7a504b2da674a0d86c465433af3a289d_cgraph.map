@@ -1,6 +1,0 @@
-<map id="destroy_dirty_segmap" name="destroy_dirty_segmap">
-<area shape="rect" id="node2" href="$f2fs_8h.html#afba5ea72e2d34d08ac7d1be3f03559e0" title="DIRTY_I" alt="" coords="412,55,487,82"/>
-<area shape="rect" id="node3" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="535,106,588,133"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8c.html#a009b3c7575f649003227fb16ed77e2b7" title="discard_dirty_segmap" alt="" coords="209,30,359,57"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#ad1f8f88532a18e808c133f1f88ff3955" title="destroy_victim_secmap" alt="" coords="204,81,364,107"/>
-</map>

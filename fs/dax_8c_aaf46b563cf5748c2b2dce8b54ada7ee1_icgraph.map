@@ -1,8 +1,0 @@
-<map id="dax_disassociate_entry" name="dax_disassociate_entry">
-<area shape="rect" id="node2" href="$dax_8c.html#aff4cd6fbf492d96cbe704903724391fd" title="grab_mapping_entry" alt="" coords="230,15,369,42"/>
-<area shape="rect" id="node3" href="$dax_8c.html#aa5ab29656a42dec187c240df7b6f1580" title="__dax_invalidate_mapping\l_entry" alt="" coords="212,67,387,108"/>
-<area shape="rect" id="node6" href="$dax_8c.html#a5036e86e8164c2d26f3d59585820f97f" title="dax_insert_mapping\l_entry" alt="" coords="230,132,369,173"/>
-<area shape="rect" id="node4" href="$dax_8c.html#a8fbf09a15e78cdf69d2f8c37aecf89d2" title="dax_delete_mapping\l_entry" alt="" coords="445,5,586,47"/>
-<area shape="rect" id="node5" href="$dax_8c.html#ad989362c2599171b6c4d1f74c11b0689" title="dax_invalidate_mapping\l_entry_sync" alt="" coords="435,71,596,112"/>
-<area shape="rect" id="node7" href="$dax_8c.html#a9945b1af3cce00f8f83df557ef8b52f6" title="dax_load_hole" alt="" coords="463,139,568,166"/>
-</map>

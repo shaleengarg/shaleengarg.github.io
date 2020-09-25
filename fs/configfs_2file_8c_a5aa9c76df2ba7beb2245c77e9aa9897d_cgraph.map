@@ -1,6 +1,0 @@
-<map id="configfs_write_file" name="configfs_write_file">
-<area shape="rect" id="node2" href="$configfs_2file_8c.html#adb9a4b44f8cce934e4d3444907e822b7" title="fill_write_buffer" alt="" coords="187,5,298,32"/>
-<area shape="rect" id="node3" href="$configfs_2file_8c.html#ad13312e199d0a043cfdeb6178e110e7b" title="flush_write_buffer" alt="" coords="180,56,305,83"/>
-<area shape="rect" id="node4" href="$configfs__internal_8h.html#a94334744f7750a8b13e74ac70b042c8b" title="to_attr" alt="" coords="357,31,415,57"/>
-<area shape="rect" id="node5" href="$configfs__internal_8h.html#aa65976d605432463738c7d7c9556664f" title="to_item" alt="" coords="353,81,419,108"/>
-</map>

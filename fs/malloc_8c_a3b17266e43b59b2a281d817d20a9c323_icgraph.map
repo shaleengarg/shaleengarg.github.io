@@ -1,5 +1,0 @@
-<map id="jffs2_destroy_slab_caches" name="jffs2_destroy_slab_caches">
-<area shape="rect" id="node2" href="$jffs2_2super_8c.html#ada8dce06e76419fa4b8962c92ab79beb" title="init_jffs2_fs" alt="" coords="400,24,489,51"/>
-<area shape="rect" id="node3" href="$jffs2_2super_8c.html#a31e0a1b18c45bc5888279ccd9f17b556" title="exit_jffs2_fs" alt="" coords="537,50,631,76"/>
-<area shape="rect" id="node4" href="$nodelist_8h.html#a0171bc0c680a9d42077d5d86b586063a" title="jffs2_create_slab_caches" alt="" coords="181,24,352,51"/>
-</map>

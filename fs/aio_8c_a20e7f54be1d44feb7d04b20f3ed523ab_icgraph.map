@@ -1,6 +1,0 @@
-<map id="aio_read_events_ring" name="aio_read_events_ring">
-<area shape="rect" id="node2" href="$aio_8c.html#a25df5bed80bf51fbd3499f1d9a648dd4" title="aio_read_events" alt="" coords="199,5,316,32"/>
-<area shape="rect" id="node3" href="$aio_8c.html#a34af4ce73e0c6bbc8252ffbb12e5893b" title="read_events" alt="" coords="364,5,457,32"/>
-<area shape="rect" id="node4" href="$aio_8c.html#abf3bfe69107b34ad9116b56b20a88372" title="do_io_getevents" alt="" coords="505,5,623,32"/>
-<area shape="rect" id="node5" href="$aio_8c.html#afa5fd2ceea4f0fab701cb14b1761fc4b" title="SYSCALL_DEFINE5" alt="" coords="671,5,817,32"/>
-</map>

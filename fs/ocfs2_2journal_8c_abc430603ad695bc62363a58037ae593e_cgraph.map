@@ -1,5 +1,0 @@
-<map id="ocfs2_clear_journal_error" name="ocfs2_clear_journal_error">
-<area shape="rect" id="node2" href="$jbd2_2journal_8c.html#a86f063bd93194302b4f2356f75efc329" title="jbd2_journal_errno" alt="" coords="199,5,325,32"/>
-<area shape="rect" id="node3" href="$jbd2_2journal_8c.html#ac70a97824b05b94c638961226a63fb30" title="jbd2_journal_ack_err" alt="" coords="191,56,333,83"/>
-<area shape="rect" id="node4" href="$jbd2_2journal_8c.html#aa15c49074ae6c9b252b6cdc01f507e47" title="jbd2_journal_clear_err" alt="" coords="188,107,336,133"/>
-</map>

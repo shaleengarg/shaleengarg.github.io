@@ -1,6 +1,0 @@
-<map id="hfs_bnode_write_u8" name="hfs_bnode_write_u8">
-<area shape="rect" id="node2" href="$brec_8c.html#a189b0fff348a099387e2da4255ae21da" title="hfs_brec_update_parent" alt="" coords="192,56,353,83"/>
-<area shape="rect" id="node5" href="$brec_8c.html#a0026884ebf394a78b86e49e823f02a05" title="hfs_btree_inc_height" alt="" coords="201,5,344,32"/>
-<area shape="rect" id="node3" href="$hfsplus__fs_8h.html#a625285d4396b97f38ecab8e5a2f6b9fc" title="hfs_brec_insert" alt="" coords="407,31,518,57"/>
-<area shape="rect" id="node4" href="$hfsplus__fs_8h.html#ad1949dd61d98082640c1b6246b5a40aa" title="hfs_brec_remove" alt="" coords="401,81,524,108"/>
-</map>

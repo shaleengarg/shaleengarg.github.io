@@ -1,6 +1,0 @@
-<map id="o2hb_exit" name="o2hb_exit">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#af99933acd96caa8253ab5b43801ab3fa" title="o2hb_debug_init" alt="" coords="132,5,248,32"/>
-<area shape="rect" id="node4" href="$nodemanager_8c.html#a6d6480b786ac8a41371a6ab5708e02fa" title="init_o2nm" alt="" coords="427,56,505,83"/>
-<area shape="rect" id="node5" href="$nodemanager_8c.html#a9eb95eee91524c301b0ebb332d8be27e" title="exit_o2nm" alt="" coords="296,107,379,133"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8h.html#aa55620d77882e2ef23a7b262bb863753" title="o2hb_init" alt="" coords="300,5,375,32"/>
-</map>

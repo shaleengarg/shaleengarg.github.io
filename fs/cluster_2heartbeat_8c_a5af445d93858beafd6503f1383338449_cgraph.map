@@ -1,6 +1,0 @@
-<map id="o2hb_heartbeat_group_mode_store" name="o2hb_heartbeat_group_mode_store">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a2dbfc565f1be01bc01bcba836aac0306" title="o2hb_global_heartbeat\l_mode_set" alt="" coords="204,5,356,47"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="253,71,307,98"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#a920d66f1d693f3927919dd139485fdcc" title="CONFIGFS_ATTR" alt="" coords="213,122,347,149"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="404,71,523,98"/>
-</map>

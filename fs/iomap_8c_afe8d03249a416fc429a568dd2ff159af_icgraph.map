@@ -1,7 +1,0 @@
-<map id="__iomap_read_page" name="__iomap_read_page">
-<area shape="rect" id="node2" href="$iomap_8c.html#a52743b28cca612cd02de00a14dfa5103" title="iomap_dirty_actor" alt="" coords="192,5,317,32"/>
-<area shape="rect" id="node3" href="$iomap_8c.html#a940db4e34882484993943265c5dbb8d9" title="iomap_file_dirty" alt="" coords="365,5,479,32"/>
-<area shape="rect" id="node4" href="$xfs__reflink_8c.html#a83a967c11172ce0733116bc950cdb2e4" title="xfs_reflink_dirty_extents" alt="" coords="527,5,691,32"/>
-<area shape="rect" id="node5" href="$xfs__reflink_8h.html#a0e8c219f70d8f2f215dafd39e4bc03f8" title="xfs_reflink_unshare" alt="" coords="739,5,873,32"/>
-<area shape="rect" id="node6" href="$xfs__file_8c.html#a2f8a82baa07bf0ab0592486e284d107f" title="xfs_file_fallocate" alt="" coords="921,5,1041,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="check_compressed_csum" name="check_compressed_csum">
-<area shape="rect" id="node2" href="$disk-io_8c.html#afefd1a76d3df3a8f54251a3aa9ef057b" title="btrfs_csum_data" alt="" coords="244,5,363,32"/>
-<area shape="rect" id="node3" href="$disk-io_8c.html#af1c87f201f23dab002e655d9c571af52" title="btrfs_csum_final" alt="" coords="244,56,363,83"/>
-<area shape="rect" id="node4" href="$btrfs__inode_8h.html#a27d6db5d99784644215e9dec11cbe392" title="btrfs_print_data_csum\l_error" alt="" coords="228,107,379,149"/>
-<area shape="rect" id="node5" href="$btrfs__inode_8h.html#ae61072d9920d46f280ce1e0c934d4307" title="btrfs_ino" alt="" coords="427,115,499,141"/>
-</map>

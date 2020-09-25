@@ -1,5 +1,0 @@
-<map id="nfsacl_encode" name="nfsacl_encode">
-<area shape="rect" id="node2" href="$_2nfs3acl_8c.html#a7a1ee618da9a3b65b581bb129c987e74" title="nfs3svc_encode_getaclres" alt="" coords="165,5,342,32"/>
-<area shape="rect" id="node3" href="$nfs3xdr_8c.html#ae225856e252d0961b72ccfe040a9103c" title="nfs3_xdr_enc_commit3args" alt="" coords="162,56,345,83"/>
-<area shape="rect" id="node4" href="$nfs2acl_8c.html#a6d6faac9abfc20783b23a334029b58d2" title="nfsaclsvc_encode_getaclres" alt="" coords="160,107,347,133"/>
-</map>

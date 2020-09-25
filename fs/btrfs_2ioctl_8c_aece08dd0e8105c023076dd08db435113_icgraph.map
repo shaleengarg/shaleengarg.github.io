@@ -1,9 +1,0 @@
-<map id="create_subvol" name="create_subvol">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a4424fbf22d98fefedcacb51896b790cd" title="btrfs_mksubvol" alt="" coords="156,31,267,57"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#ad21b72862d0f4ebfdcdf3c8d6cb2548a" title="btrfs_ioctl_snap_create\l_transid" alt="" coords="315,23,472,65"/>
-<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#a274286b1dbb25f419e68e3fc31eaaaf0" title="btrfs_ioctl_snap_create" alt="" coords="531,5,688,32"/>
-<area shape="rect" id="node8" href="$btrfs_2ioctl_8c.html#a34404ba763173c1240750bde89d592dc" title="btrfs_ioctl_snap_create_v2" alt="" coords="520,56,699,83"/>
-<area shape="rect" id="node5" href="$btrfs_2ioctl_8c.html#a2d0a4b592b745588c85490830ecac099" title="btrfs_ioctl" alt="" coords="747,31,825,57"/>
-<area shape="rect" id="node6" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="873,31,1048,57"/>
-<area shape="rect" id="node7" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="1096,31,1193,57"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ext4_blkdev_get" name="ext4_blkdev_get">
-<area shape="rect" id="node2" href="$ext4_2super_8c.html#a42f899a9c10d50fe8f5b3559941c090e" title="ext4_get_dev_journal" alt="" coords="171,5,316,32"/>
-<area shape="rect" id="node3" href="$ext4_2super_8c.html#a8d161f5c939109ce482d03e0f49c83d0" title="ext4_load_journal" alt="" coords="364,5,487,32"/>
-<area shape="rect" id="node4" href="$ext4_2super_8c.html#afbd5bc21c085ba46199b01d9c906c0c4" title="ext4_fill_super" alt="" coords="535,5,641,32"/>
-<area shape="rect" id="node5" href="$ext4_2super_8c.html#a29cf15a2bc142d6643c83291cdd15d86" title="ext4_mount" alt="" coords="689,5,780,32"/>
-</map>

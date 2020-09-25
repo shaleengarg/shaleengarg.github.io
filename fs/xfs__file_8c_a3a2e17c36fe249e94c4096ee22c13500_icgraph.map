@@ -1,6 +1,0 @@
-<map id="xfs_file_aio_write_checks" name="xfs_file_aio_write_checks">
-<area shape="rect" id="node2" href="$xfs__file_8c.html#aabb3042d6c8185a1bf327265125aa80e" title="xfs_file_dio_aio_write" alt="" coords="176,5,323,32"/>
-<area shape="rect" id="node4" href="$xfs__file_8c.html#a64b04eadb2020d599d47a4cbb63baafc" title="xfs_file_dax_write" alt="" coords="186,56,313,83"/>
-<area shape="rect" id="node5" href="$xfs__file_8c.html#aca1fd5d3dc58e3dbf6eefe9adfd3a16c" title="xfs_file_buffered_aio\l_write" alt="" coords="178,107,321,149"/>
-<area shape="rect" id="node3" href="$xfs__file_8c.html#a9aa74e71c579a830f6d15727eeca8050" title="xfs_file_write_iter" alt="" coords="371,56,495,83"/>
-</map>

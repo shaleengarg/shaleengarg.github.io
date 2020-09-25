@@ -1,8 +1,0 @@
-<map id="adfs_f_getnext" name="adfs_f_getnext">
-<area shape="rect" id="node2" href="$dir__f_8c.html#ad9bd365cd4ff40631639efef85f681f2" title="__adfs_dir_get" alt="" coords="161,81,268,108"/>
-<area shape="rect" id="node3" href="$dir__f_8c.html#a6dc6b4b3e55a8cbaf392918164f951af" title="adfs_dir2obj" alt="" coords="316,81,408,108"/>
-<area shape="rect" id="node4" href="$dir__f_8c.html#ae014779538bb38d17e828113e1900340" title="adfs_readname" alt="" coords="477,5,587,32"/>
-<area shape="rect" id="node5" href="$dir__f_8c.html#a789fdd446ea094aff4c19629d232d188" title="adfs_readval" alt="" coords="484,56,580,83"/>
-<area shape="rect" id="node6" href="$adfs_8h.html#acb83a8b1bcf495d9f3f84f82abb484ae" title="ADFS_SB" alt="" coords="491,107,573,133"/>
-<area shape="rect" id="node7" href="$adfs_8h.html#a3c80ecb2f41c7752501021088b73a286" title="append_filetype_suffix" alt="" coords="456,157,608,184"/>
-</map>

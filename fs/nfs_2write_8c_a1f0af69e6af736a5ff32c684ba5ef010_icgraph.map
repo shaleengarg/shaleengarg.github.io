@@ -1,7 +1,0 @@
-<map id="nfs_retry_commit" name="nfs_retry_commit">
-<area shape="rect" id="node2" href="$pnfs__nfs_8c.html#ada6f2143ecb4098fa16ba756da90cfe9" title="pnfs_generic_retry\l_commit" alt="" coords="176,23,305,65"/>
-<area shape="rect" id="node3" href="$pnfs__nfs_8c.html#a370081eab934497b60387521260bc1dd" title="pnfs_generic_alloc\l_ds_commits" alt="" coords="353,23,484,65"/>
-<area shape="rect" id="node4" href="$pnfs__nfs_8c.html#a76d4b18a94411a70081a0a0d870adba6" title="pnfs_generic_commit\l_pagelist" alt="" coords="532,23,679,65"/>
-<area shape="rect" id="node5" href="$filelayout_8c.html#a2864d9d29f5de9f30c69eb86fca48739" title="filelayout_commit_pagelist" alt="" coords="727,5,903,32"/>
-<area shape="rect" id="node6" href="$flexfilelayout_2flexfilelayout_8c.html#afec203e64e262b648cd6f5e82723e7ac" title="ff_layout_commit_pagelist" alt="" coords="727,56,902,83"/>
-</map>

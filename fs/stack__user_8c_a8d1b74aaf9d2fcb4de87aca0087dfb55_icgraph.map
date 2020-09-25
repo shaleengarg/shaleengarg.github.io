@@ -1,6 +1,0 @@
-<map id="ocfs2_control_install_private" name="ocfs2_control_install_private">
-<area shape="rect" id="node2" href="$stack__user_8c.html#a428b35004e6e65dad865468f10474786" title="ocfs2_control_do_setnode_msg" alt="" coords="201,5,408,32"/>
-<area shape="rect" id="node5" href="$stack__user_8c.html#a2fa9bcee6bfef3f1b1910ced3ef14de6" title="ocfs2_control_do_setversion_msg" alt="" coords="195,56,415,83"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#a6b9cede3c772d97f34e9e9df8cca0da6" title="ocfs2_control_message" alt="" coords="463,31,623,57"/>
-<area shape="rect" id="node4" href="$stack__user_8c.html#ab7b051aab37b98ba093e6abc336b3af2" title="ocfs2_control_write" alt="" coords="671,31,805,57"/>
-</map>

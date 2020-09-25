@@ -1,9 +1,0 @@
-<map id="afs_inode_init_from_status" name="afs_inode_init_from_status">
-<area shape="rect" id="node2" href="$afs_2internal_8h.html#a801a8077a5c28e59d76febe1b130a54e" title="AFS_VNODE_TO_I" alt="" coords="197,5,336,32"/>
-<area shape="rect" id="node3" href="$fsclient_8c.html#aa1496bc408f01855a914288bd1b9d2c5" title="afs_update_inode_from\l_status" alt="" coords="188,57,345,98"/>
-<area shape="rect" id="node7" href="$inode_8c.html#a79a9fc774cdfca7aa0f76f8e733c9c1e" title="inode_nohighmem" alt="" coords="393,123,520,149"/>
-<area shape="rect" id="node8" href="$afs_2internal_8h.html#a9f11733b71112d1a5eae719097a57978" title="afs_protocol_error" alt="" coords="203,173,330,200"/>
-<area shape="rect" id="node4" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="419,64,494,91"/>
-<area shape="rect" id="node5" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="568,21,652,48"/>
-<area shape="rect" id="node6" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="700,72,839,99"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="bitmap_clear_bits" name="bitmap_clear_bits">
-<area shape="rect" id="node2" href="$free-space-cache_8c.html#a9de39ee9080161ac68d21103019b7a76" title="__bitmap_clear_bits" alt="" coords="177,56,316,83"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="387,5,441,32"/>
-<area shape="rect" id="node5" href="$free-space-cache_8c.html#a09ef0758a72796858a4061a0cbfe0d4a" title="offset_to_bit" alt="" coords="367,56,461,83"/>
-<area shape="rect" id="node6" href="$free-space-cache_8c.html#a5f418a86ac45156a79860615a852d8e9" title="bytes_to_bits" alt="" coords="364,107,464,133"/>
-<area shape="rect" id="node4" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="512,5,631,32"/>
-</map>

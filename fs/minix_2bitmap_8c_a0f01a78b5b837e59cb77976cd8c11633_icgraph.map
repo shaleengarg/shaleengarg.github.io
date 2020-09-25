@@ -1,5 +1,0 @@
-<map id="count_free" name="count_free">
-<area shape="rect" id="node2" href="$minix_8h.html#adc64404a43dcb048df0ed6c310b6665f" title="minix_count_free_blocks" alt="" coords="136,5,303,32"/>
-<area shape="rect" id="node4" href="$minix_8h.html#ac9f7e52c6fd50e534b795014d1153b6a" title="minix_count_free_inodes" alt="" coords="136,56,303,83"/>
-<area shape="rect" id="node3" href="$minix_2inode_8c.html#a0ad38486f95e63198815d0d658d56d49" title="minix_statfs" alt="" coords="351,31,444,57"/>
-</map>

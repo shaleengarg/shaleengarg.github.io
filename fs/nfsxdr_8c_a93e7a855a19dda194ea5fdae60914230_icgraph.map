@@ -1,7 +1,0 @@
-<map id="decode_filename" name="decode_filename">
-<area shape="rect" id="node2" href="$xdr_8h.html#a4f28ba8f93a29572b31a6476933768e2" title="nfssvc_decode_diropargs" alt="" coords="181,5,352,32"/>
-<area shape="rect" id="node3" href="$xdr_8h.html#a9af82cc02a4e1fecb59cdd117a2d285b" title="nfssvc_decode_createargs" alt="" coords="177,56,356,83"/>
-<area shape="rect" id="node4" href="$xdr_8h.html#a0f0331600edc1566fc9880f970430a6c" title="nfssvc_decode_renameargs" alt="" coords="174,107,359,133"/>
-<area shape="rect" id="node5" href="$xdr_8h.html#a251537abf077f0ed87b41662380b81f2" title="nfssvc_decode_linkargs" alt="" coords="185,157,348,184"/>
-<area shape="rect" id="node6" href="$xdr_8h.html#a90442ee332ebe564621151c5e366b9f5" title="nfssvc_decode_symlinkargs" alt="" coords="173,208,360,235"/>
-</map>

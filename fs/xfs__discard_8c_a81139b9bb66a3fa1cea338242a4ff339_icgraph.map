@@ -1,5 +1,0 @@
-<map id="xfs_trim_extents" name="xfs_trim_extents">
-<area shape="rect" id="node2" href="$xfs__discard_8h.html#afbd0a7e7f5906f44b52ef96e98b9731a" title="xfs_ioc_trim" alt="" coords="172,5,265,32"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="313,5,408,32"/>
-<area shape="rect" id="node4" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="456,5,601,32"/>
-</map>

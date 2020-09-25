@@ -1,7 +1,0 @@
-<map id="ext4_group_overhead_blocks" name="ext4_group_overhead_blocks">
-<area shape="rect" id="node2" href="$ext4_2balloc_8c.html#a79579fad47ccebcf59dea37b3d37977f" title="ext4_bg_num_gdb" alt="" coords="200,56,328,83"/>
-<area shape="rect" id="node4" href="$ext4_2balloc_8c.html#a9fc5c03829348a6d1cadffc2ab067927" title="ext4_bg_has_super" alt="" coords="603,56,737,83"/>
-<area shape="rect" id="node3" href="$ext4_2balloc_8c.html#a2061e41c9d76ed0483766bada790afe8" title="ext4_bg_num_gdb_nometa" alt="" coords="376,5,555,32"/>
-<area shape="rect" id="node6" href="$ext4_2balloc_8c.html#a74b2f4fea5381082e4f26509f60234f5" title="ext4_bg_num_gdb_meta" alt="" coords="383,56,547,83"/>
-<area shape="rect" id="node5" href="$ext4_2balloc_8c.html#a980edbcd2e880c0b7f77d24021141d49" title="test_root" alt="" coords="785,56,859,83"/>
-</map>

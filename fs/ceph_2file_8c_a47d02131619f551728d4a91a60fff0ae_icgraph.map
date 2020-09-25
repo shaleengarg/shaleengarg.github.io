@@ -1,6 +1,0 @@
-<map id="ceph_aio_complete_req" name="ceph_aio_complete_req">
-<area shape="rect" id="node2" href="$ceph_2file_8c.html#a1a0bb5be7becec9cff3e6b079b37f6c9" title="ceph_aio_retry_work" alt="" coords="219,5,361,32"/>
-<area shape="rect" id="node3" href="$ceph_2file_8c.html#a37653a820bbf2b8e23c98ba1deaef31c" title="ceph_direct_read_write" alt="" coords="212,56,368,83"/>
-<area shape="rect" id="node4" href="$ceph_2file_8c.html#ab25c5614757da5077be4710cbb3ec98c" title="ceph_read_iter" alt="" coords="418,31,525,57"/>
-<area shape="rect" id="node5" href="$ceph_2file_8c.html#a94c42f499f5051ae4163de2ead8de322" title="ceph_write_iter" alt="" coords="416,81,527,108"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="global_rsv_reserved_show" name="global_rsv_reserved_show">
-<area shape="rect" id="node2" href="$btrfs_2sysfs_8c.html#a2fec551aff30570ac703c4cfd20780c2" title="to_fs_info" alt="" coords="247,5,326,32"/>
-<area shape="rect" id="node4" href="$btrfs_2sysfs_8c.html#a35d0ff2df1d45a144afec42b079c8086" title="btrfs_show_u64" alt="" coords="229,56,344,83"/>
-<area shape="rect" id="node5" href="$btrfs_2sysfs_8c.html#a91b4115ebf187483cd1f1f8825057b94" title="BTRFS_ATTR" alt="" coords="233,107,341,133"/>
-<area shape="rect" id="node3" href="$btrfs_2sysfs_8c.html#a6e6b9402cebc5c178968774b993e1647" title="to_fs_devs" alt="" coords="392,5,479,32"/>
-</map>

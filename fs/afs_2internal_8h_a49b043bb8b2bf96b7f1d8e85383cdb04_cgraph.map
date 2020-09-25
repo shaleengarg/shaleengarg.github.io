@@ -1,7 +1,0 @@
-<map id="afs_check_for_remote_deletion" name="afs_check_for_remote_deletion">
-<area shape="rect" id="node2" href="$afs_2internal_8h.html#a6fc29945104c0f99fc6ae24bdfcbd827" title="afs_break_callback" alt="" coords="204,31,339,57"/>
-<area shape="rect" id="node3" href="$afs_2internal_8h.html#af1ee7732bdf3bb47391a9c2db2d75def" title="afs_clear_permits" alt="" coords="415,5,541,32"/>
-<area shape="rect" id="node6" href="$flock_8c.html#ab359dd36e5f4cdc8c6136e99fd3e2d56" title="afs_lock_may_be_available" alt="" coords="387,56,569,83"/>
-<area shape="rect" id="node4" href="$afs_2security_8c.html#ab229522a5babbc4c97e607e5124c101e" title="afs_put_permits" alt="" coords="617,5,732,32"/>
-<area shape="rect" id="node5" href="$afs_2security_8c.html#a8793d4d90403c14dabd396a25d971f7c" title="afs_permits_rcu" alt="" coords="780,5,895,32"/>
-</map>

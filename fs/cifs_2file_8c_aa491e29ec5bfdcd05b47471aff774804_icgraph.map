@@ -1,6 +1,0 @@
-<map id="cifs_reopen_persistent_handles" name="cifs_reopen_persistent_handles">
-<area shape="rect" id="node2" href="$smb2proto_8h.html#a2dfaeaac6c6668cb3ea6c1642f5f3d71" title="smb2_reconnect_server" alt="" coords="207,13,368,39"/>
-<area shape="rect" id="node3" href="$connect_8c.html#a1b47924149caa3e58ba07ae3d2e4da4a" title="cifs_get_tcp_session" alt="" coords="416,13,561,39"/>
-<area shape="rect" id="node4" href="$connect_8c.html#a929008d2b39722c35a2fb06bbb6d290b" title="cifs_mount" alt="" coords="609,13,696,39"/>
-<area shape="rect" id="node5" href="$cifsfs_8c.html#a6efb285c040da24b9f05a0a3e819ad2a" title="cifs_do_mount" alt="" coords="744,13,851,39"/>
-</map>

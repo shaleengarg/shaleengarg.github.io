@@ -1,8 +1,0 @@
-<map id="asn1_open" name="asn1_open">
-<area shape="rect" id="node2" href="$cifsproto_8h.html#abffa47a0e1073a6f380a8592902d6d11" title="decode_negTokenInit" alt="" coords="139,31,285,57"/>
-<area shape="rect" id="node3" href="$cifssmb_8c.html#af1b27704643d5958e408cf930dc6d468" title="decode_ext_sec_blob" alt="" coords="333,5,481,32"/>
-<area shape="rect" id="node6" href="$smb2proto_8h.html#a59252483a043e4e305176533b1066f0b" title="SMB2_negotiate" alt="" coords="348,56,467,83"/>
-<area shape="rect" id="node4" href="$cifssmb_8c.html#ad8f2a40b93d6c4438f3f7732043d41d2" title="CIFSSMBNegotiate" alt="" coords="529,5,668,32"/>
-<area shape="rect" id="node5" href="$smb1ops_8c.html#ad0afa19dece147970514c3804365ebbe" title="cifs_negotiate" alt="" coords="716,5,819,32"/>
-<area shape="rect" id="node7" href="$smb2ops_8c.html#a84f7cb71de5147fd5f0d8a3d2293152d" title="smb2_negotiate" alt="" coords="541,56,656,83"/>
-</map>

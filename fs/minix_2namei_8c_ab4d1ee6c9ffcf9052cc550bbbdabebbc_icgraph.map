@@ -1,6 +1,0 @@
-<map id="add_nondir" name="add_nondir">
-<area shape="rect" id="node2" href="$minix_2namei_8c.html#a29fdc0cbe156794dde13dcd971ea3601" title="minix_mknod" alt="" coords="142,5,241,32"/>
-<area shape="rect" id="node4" href="$minix_2namei_8c.html#ae368e220e70a32d2c1a2342ef9302058" title="minix_symlink" alt="" coords="139,56,244,83"/>
-<area shape="rect" id="node5" href="$minix_2namei_8c.html#adf5b7f94bfcd26561d7ff794640d3cfe" title="minix_link" alt="" coords="151,107,231,133"/>
-<area shape="rect" id="node3" href="$minix_2namei_8c.html#a4bcb6a1dc8b541ab7b5b1723d603ccd1" title="minix_create" alt="" coords="292,5,388,32"/>
-</map>

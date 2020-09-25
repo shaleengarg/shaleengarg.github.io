@@ -1,8 +1,0 @@
-<map id="wait_for_concurrent_writes" name="wait_for_concurrent_writes">
-<area shape="rect" id="node2" href="$vfs_8h.html#a0111435f58ea9eedc6b7d18ffb13a593" title="nfsd_vfs_write" alt="" coords="189,31,296,57"/>
-<area shape="rect" id="node3" href="$_2nfs4proc_8c.html#aa5dcbf94d8a7f439f15c7730994a5aad" title="nfsd4_write" alt="" coords="344,5,433,32"/>
-<area shape="rect" id="node5" href="$vfs_8h.html#a88fac4397606d5a768e1730358d41007" title="nfsd_write" alt="" coords="347,56,430,83"/>
-<area shape="rect" id="node4" href="$_2nfs4proc_8c.html#a1a30d80c9d755fbc60be3e1200e4da0f" title="nfsd4_seek_rsize" alt="" coords="481,5,605,32"/>
-<area shape="rect" id="node6" href="$_2nfs3proc_8c.html#a33d89a8d8bb0dd0843772573e1bf1d24" title="nfsd3_proc_write" alt="" coords="483,56,604,83"/>
-<area shape="rect" id="node7" href="$nfsproc_8c.html#aa1504d1775164e795aefd6d03e4a0745" title="nfsd_proc_write" alt="" coords="486,107,601,133"/>
-</map>

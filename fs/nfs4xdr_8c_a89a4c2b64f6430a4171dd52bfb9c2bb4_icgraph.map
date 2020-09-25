@@ -1,5 +1,0 @@
-<map id="encode_openhdr" name="encode_openhdr">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a1b41ffc7deab9e79d495e03cc14165ac" title="encode_open" alt="" coords="171,31,269,57"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ac66d3792926f27232025255cba72761d" title="nfs4_xdr_enc_open" alt="" coords="337,5,472,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a3951ac577a6fc2408b1013e316088457" title="nfs4_xdr_enc_open_noattr" alt="" coords="317,56,492,83"/>
-</map>

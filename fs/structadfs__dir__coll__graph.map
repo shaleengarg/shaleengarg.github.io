@@ -1,5 +1,0 @@
-<map id="adfs_dir" name="adfs_dir">
-<area shape="rect" id="node2" href="$unionadfs__dirtail.html" title="adfs_dirtail" alt="" coords="5,5,91,32"/>
-<area shape="rect" id="node3" href="$structsuper__block.html" title="super_block" alt="" coords="115,5,207,32"/>
-<area shape="rect" id="node4" href="$structadfs__dirheader.html" title="adfs_dirheader" alt="" coords="232,5,339,32"/>
-</map>

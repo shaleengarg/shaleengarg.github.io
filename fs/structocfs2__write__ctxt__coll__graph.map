@@ -1,6 +1,0 @@
-<map id="ocfs2_write_ctxt" name="ocfs2_write_ctxt">
-<area shape="rect" id="node2" href="$structocfs2__cached__dealloc__ctxt.html" title="ocfs2_cached_dealloc_ctxt" alt="" coords="5,184,185,211"/>
-<area shape="rect" id="node3" href="$structocfs2__per__slot__free__list.html" title="ocfs2_per_slot_free_list" alt="" coords="207,95,367,121"/>
-<area shape="rect" id="node4" href="$structocfs2__cached__block__free.html" title="ocfs2_cached_block_free" alt="" coords="10,5,181,32"/>
-<area shape="rect" id="node5" href="$structocfs2__write__cluster__desc.html" title="ocfs2_write_cluster_desc" alt="" coords="210,184,381,211"/>
-</map>

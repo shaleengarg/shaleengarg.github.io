@@ -1,7 +1,0 @@
-<map id="btrfs_add_delayed_extent_op" name="btrfs_add_delayed_extent_op">
-<area shape="rect" id="node2" href="$delayed-ref_8c.html#adc24c08cf4485407a7dda26df87a7e43" title="add_delayed_ref_head" alt="" coords="245,71,397,98"/>
-<area shape="rect" id="node3" href="$qgroup_8c.html#ac6d32b89bbb19d460db86b4e7c20a8a8" title="btrfs_qgroup_trace\l_extent_nolock" alt="" coords="465,5,596,47"/>
-<area shape="rect" id="node4" href="$delayed-ref_8c.html#adf3f099484de7204b32a7a1875d498ec" title="htree_insert" alt="" coords="485,71,576,98"/>
-<area shape="rect" id="node5" href="$delayed-ref_8c.html#a200caa9faac7c2e87a62fb4ec78a61d0" title="update_existing_head_ref" alt="" coords="445,122,616,149"/>
-<area shape="rect" id="node6" href="$delayed-ref_8h.html#adfb9551f72cfaf5e6ff419ad2ea2de00" title="btrfs_free_delayed\l_extent_op" alt="" coords="664,115,793,156"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="squashfs_copy_cache" name="squashfs_copy_cache">
-<area shape="rect" id="node2" href="$squashfs_2file_8c.html#ae478cc63c67c90165c91fb609eee5f21" title="squashfs_readpage_fragment" alt="" coords="205,5,399,32"/>
-<area shape="rect" id="node4" href="$squashfs_2file_8c.html#a143d6b1c8f21c1b1b176db7bcd551434" title="squashfs_readpage_sparse" alt="" coords="211,56,393,83"/>
-<area shape="rect" id="node5" href="$squashfs_8h.html#a6dfa32de322563eb1536f153d6fa1c88" title="squashfs_readpage_block" alt="" coords="215,107,389,133"/>
-<area shape="rect" id="node3" href="$squashfs_2file_8c.html#a0bd06ed1a7f82548ed746b23770e2b8e" title="squashfs_readpage" alt="" coords="447,56,581,83"/>
-</map>

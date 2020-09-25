@@ -1,7 +1,0 @@
-<map id="befs_dump_super_block" name="befs_dump_super_block">
-<area shape="rect" id="node2" href="$befs_2debug_8c.html#a9adcbde37088a09e232dcb26c882f06d" title="befs_debug" alt="" coords="220,5,309,32"/>
-<area shape="rect" id="node3" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="218,56,311,83"/>
-<area shape="rect" id="node5" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="218,107,311,133"/>
-<area shape="rect" id="node6" href="$befs_2endian_8h.html#a13e7cd2d34be798771b754b84053c63d" title="fsrun_to_cpu" alt="" coords="216,157,313,184"/>
-<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="361,107,444,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="vfs_iter_write" name="vfs_iter_write">
-<area shape="rect" id="node2" href="$read__write_8c.html#ac50de950a19bc336a8c56ebf099c544e" title="do_iter_write" alt="" coords="175,56,271,83"/>
-<area shape="rect" id="node7" href="$read__write_8c.html#a3a79a75f5f3d3fd6699e64d26dbda713" title="EXPORT_SYMBOL" alt="" coords="153,107,292,133"/>
-<area shape="rect" id="node3" href="$read__write_8c.html#afbdfb0b8e152ecdfe09483ddf1f64787" title="rw_verify_area" alt="" coords="361,5,467,32"/>
-<area shape="rect" id="node5" href="$read__write_8c.html#a9ec88c5f01966e0e6c73ee9d81cfa2b8" title="do_iter_readv_writev" alt="" coords="343,56,485,83"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#ab83f5d78a28c55e59263faea5a43ed84" title="do_loop_readv_writev" alt="" coords="340,107,488,133"/>
-<area shape="rect" id="node4" href="$read__write_8c.html#afa09670f9dece7b455c7759c110fb0bb" title="unsigned_offsets" alt="" coords="536,5,657,32"/>
-</map>

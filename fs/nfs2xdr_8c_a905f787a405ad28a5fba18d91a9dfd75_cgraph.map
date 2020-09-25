@@ -1,6 +1,0 @@
-<map id="nfs2_xdr_dec_readdirres" name="nfs2_xdr_dec_readdirres">
-<area shape="rect" id="node2" href="$nfs2xdr_8c.html#a9d8be0c578da5baf3b8aea43cd2d7253" title="decode_stat" alt="" coords="233,5,326,32"/>
-<area shape="rect" id="node4" href="$nfs2xdr_8c.html#ae567c2cc48118f6575c3e9848f9825f3" title="decode_readdirok" alt="" coords="217,56,341,83"/>
-<area shape="rect" id="node5" href="$nfs2xdr_8c.html#ae4e3536fce92515966ce15d8f618db08" title="nfs_stat_to_errno" alt="" coords="218,107,341,133"/>
-<area shape="rect" id="node3" href="$nfs2xdr_8c.html#a46ed9a6524c9e0d9a93eec71d190fcaa" title="print_overflow_msg" alt="" coords="389,5,524,32"/>
-</map>

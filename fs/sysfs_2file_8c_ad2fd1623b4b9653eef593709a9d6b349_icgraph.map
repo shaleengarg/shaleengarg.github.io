@@ -1,5 +1,0 @@
-<map id="sysfs_file_ops" name="sysfs_file_ops">
-<area shape="rect" id="node2" href="$sysfs_2file_8c.html#a382f514b707e1f041b6824fc845618b3" title="sysfs_kf_seq_show" alt="" coords="160,5,299,32"/>
-<area shape="rect" id="node3" href="$sysfs_2file_8c.html#a574b3ab83f35e1d464e2d656e65880bc" title="sysfs_kf_read" alt="" coords="177,56,281,83"/>
-<area shape="rect" id="node4" href="$sysfs_2file_8c.html#aa4589cdb3484a864755d5bf334d2be41" title="sysfs_kf_write" alt="" coords="176,107,283,133"/>
-</map>

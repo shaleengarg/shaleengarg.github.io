@@ -1,7 +1,0 @@
-<map id="__insert_discard_tree" name="__insert_discard_tree">
-<area shape="rect" id="node2" href="$f2fs_8h.html#adb061aa88c6725a813c30b1c9c11e73b" title="SM_I" alt="" coords="657,40,711,67"/>
-<area shape="rect" id="node3" href="$extent__cache_8c.html#a167d73c6ce47fd8c77882d7526aa16cd" title="__lookup_rb_tree_for\l_insert" alt="" coords="205,25,348,66"/>
-<area shape="rect" id="node4" href="$f2fs_2segment_8c.html#a8ed4bc5a487e66d74b2f11197565ed2e" title="__attach_discard_cmd" alt="" coords="200,91,353,118"/>
-<area shape="rect" id="node5" href="$f2fs_2segment_8c.html#a5f9d777683c3ffbd4953e39e7d7a7d9f" title="__create_discard_cmd" alt="" coords="401,91,555,118"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a89cdeb21b1094324507ceb671f9df9b2" title="f2fs_kmem_cache_alloc" alt="" coords="603,91,765,118"/>
-</map>

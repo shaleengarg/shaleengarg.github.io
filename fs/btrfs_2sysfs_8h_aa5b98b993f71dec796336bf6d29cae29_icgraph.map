@@ -1,7 +1,0 @@
-<map id="attr_to_btrfs_feature_attr" name="attr_to_btrfs_feature_attr">
-<area shape="rect" id="node2" href="$btrfs_2sysfs_8c.html#a99fe06e499ee1e6af431b0d47404b2fc" title="btrfs_feature_visible" alt="" coords="219,5,357,32"/>
-<area shape="rect" id="node3" href="$btrfs_2sysfs_8c.html#a875e23cf1255618eb489a993b720b76a" title="init_feature_attrs" alt="" coords="229,56,347,83"/>
-<area shape="rect" id="node4" href="$btrfs_2sysfs_8c.html#a3ecc3a370ea58d178626809928b18ec3" title="btrfs_init_sysfs" alt="" coords="405,56,516,83"/>
-<area shape="rect" id="node5" href="$btrfs_2super_8c.html#aee0eb4e35d4455ecf8e50fa8ec5c1605" title="init_btrfs_fs" alt="" coords="564,56,655,83"/>
-<area shape="rect" id="node6" href="$btrfs_2super_8c.html#ac03bf3e0a3b4a44b04f54ce4ebde51d2" title="exit_btrfs_fs" alt="" coords="703,56,797,83"/>
-</map>

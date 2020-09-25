@@ -1,6 +1,0 @@
-<map id="EFD_ITEM" name="EFD_ITEM">
-<area shape="rect" id="node2" href="$xfs__extfree__item_8c.html#a73d84f244b3f303bb3f5102332983c03" title="xfs_efd_item_size" alt="" coords="160,5,288,32"/>
-<area shape="rect" id="node3" href="$xfs__extfree__item_8c.html#a5176e14d7804fa1cbd26f9522c82a174" title="xfs_efd_item_format" alt="" coords="153,56,295,83"/>
-<area shape="rect" id="node4" href="$xfs__extfree__item_8c.html#a3455980dd3ab0cd3473e77771433331e" title="xfs_efd_item_unlock" alt="" coords="153,107,295,133"/>
-<area shape="rect" id="node5" href="$xfs__extfree__item_8c.html#aac4387e0ee7ecc918f229939d4d51bc1" title="xfs_efd_item_committed" alt="" coords="141,157,307,184"/>
-</map>

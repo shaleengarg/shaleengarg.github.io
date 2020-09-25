@@ -1,5 +1,0 @@
-<map id="buf_to_pages_noslab" name="buf_to_pages_noslab">
-<area shape="rect" id="node2" href="$nfs4proc_8c.html#a710d8a5a6b3fe926a311f20f2e9ad120" title="__nfs4_proc_set_acl" alt="" coords="199,5,341,32"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a52b9929447096c4c89b6a3efe3c85fb8" title="nfs4_proc_set_acl" alt="" coords="389,5,517,32"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#ad9cf11364ad259c038c531df42e3ee10" title="nfs4_xattr_set_nfs4_acl" alt="" coords="565,5,727,32"/>
-</map>

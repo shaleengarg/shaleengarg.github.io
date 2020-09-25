@@ -1,9 +1,0 @@
-<map id="exact_copy_from_user" name="exact_copy_from_user">
-<area shape="rect" id="node2" href="$namespace_8c.html#af19b847e45594b28d730fae36561a778" title="copy_mount_options" alt="" coords="208,56,351,83"/>
-<area shape="rect" id="node3" href="$internal_8h.html#a824189e343332799e1a3d205227cd14c" title="__sync_blockdev" alt="" coords="443,5,565,32"/>
-<area shape="rect" id="node4" href="$compat_8c.html#a3d85834ab71c46c846be15644e3ac17f" title="COMPAT_SYSCALL_DEFINE5" alt="" coords="399,56,609,83"/>
-<area shape="rect" id="node7" href="$namespace_8c.html#ad34ea66cdaf4544bab397528d6d3e8c0" title="ksys_mount" alt="" coords="457,107,551,133"/>
-<area shape="rect" id="node5" href="$aio_8c.html#afa5fd2ceea4f0fab701cb14b1761fc4b" title="SYSCALL_DEFINE5" alt="" coords="657,5,804,32"/>
-<area shape="rect" id="node6" href="$read__write_8c.html#a3027081c8ba8c50821f4222c2082badc" title="SYSCALL_DEFINE6" alt="" coords="657,56,804,83"/>
-<area shape="rect" id="node8" href="$namespace_8c.html#ae03e562d0aa8316cb400740651c2e690" title="SYSCALL_DEFINE5" alt="" coords="657,107,804,133"/>
-</map>

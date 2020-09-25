@@ -1,7 +1,0 @@
-<map id="smb2_calc_signature" name="smb2_calc_signature">
-<area shape="rect" id="node2" href="$smb2transport_8c.html#aaae0d06cfe80932e6d6ecd5fb2bfb0d1" title="smb2_find_smb_ses" alt="" coords="223,5,365,32"/>
-<area shape="rect" id="node4" href="$smb2transport_8c.html#a7cd1aec6232714206da93e99b92f2aa2" title="smb2_crypto_shash_allocate" alt="" coords="199,56,389,83"/>
-<area shape="rect" id="node6" href="$cifsencrypt_8c.html#ac2646f5af9406020b329f44a4562584c" title="__cifs_calc_signature" alt="" coords="220,107,368,133"/>
-<area shape="rect" id="node3" href="$smb2transport_8c.html#a5915cdace55bef93534b9eaeb47a6971" title="smb2_find_smb_ses_unlocked" alt="" coords="437,5,639,32"/>
-<area shape="rect" id="node5" href="$cifsproto_8h.html#a69d2168a19e01f2ca2a86ccab9c567ee" title="cifs_alloc_hash" alt="" coords="482,56,594,83"/>
-</map>

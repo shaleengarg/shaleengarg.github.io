@@ -1,9 +1,0 @@
-<map id="filelayout_async_handle_error" name="filelayout_async_handle_error">
-<area shape="rect" id="node2" href="$filelayout_8c.html#a397431f76be2e53cc2c3b6c30f23c18d" title="filelayout_read_done_cb" alt="" coords="223,5,386,32"/>
-<area shape="rect" id="node4" href="$filelayout_8c.html#afed70fb4040e4447a6708af87522ed83" title="filelayout_write_done_cb" alt="" coords="222,56,387,83"/>
-<area shape="rect" id="node6" href="$filelayout_8c.html#a060fdca14b3c4b588e0d9675f9e90379" title="filelayout_commit_done_cb" alt="" coords="215,111,395,137"/>
-<area shape="rect" id="node3" href="$filelayout_8c.html#a792bfe3a83dea5d87d2c2f6b2ecd3edd" title="filelayout_read_prepare" alt="" coords="445,5,601,32"/>
-<area shape="rect" id="node5" href="$filelayout_8c.html#a978734591e9890e7724eca9d179ea383" title="filelayout_write_pagelist" alt="" coords="443,56,604,83"/>
-<area shape="rect" id="node7" href="$filelayout_8c.html#a0922e148882fea18aafa07652be72e52" title="filelayout_initiate\l_commit" alt="" coords="464,107,583,149"/>
-<area shape="rect" id="node8" href="$filelayout_8c.html#a2864d9d29f5de9f30c69eb86fca48739" title="filelayout_commit_pagelist" alt="" coords="652,115,828,141"/>
-</map>

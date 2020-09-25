@@ -1,8 +1,0 @@
-<map id="f2fs_shrink_count" name="f2fs_shrink_count">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="380,27,435,54"/>
-<area shape="rect" id="node4" href="$f2fs_2shrinker_8c.html#a4ad6988672b9fbf1ac34ae1c2e028b6d" title="__count_extent_cache" alt="" coords="179,128,332,155"/>
-<area shape="rect" id="node5" href="$f2fs_2shrinker_8c.html#a76634303c02fe0eb03b33b5dce3d2c70" title="__count_nat_entries" alt="" coords="186,27,325,54"/>
-<area shape="rect" id="node7" href="$f2fs_2shrinker_8c.html#abe1f06d69b3e66ec510bf4cbcac1a565" title="__count_free_nids" alt="" coords="191,78,319,104"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="483,27,601,54"/>
-<area shape="rect" id="node6" href="$f2fs_8h.html#a809a8b0fec3a3139d3e68bbf97410996" title="NM_I" alt="" coords="380,78,435,104"/>
-</map>

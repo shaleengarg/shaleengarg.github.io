@@ -1,9 +1,0 @@
-<map id="__build_xattrs" name="__build_xattrs">
-<area shape="rect" id="node2" href="$ceph_2super_8h.html#a558320a759879c6fdd1fe840f0dfa37e" title="ceph_inode" alt="" coords="189,5,277,32"/>
-<area shape="rect" id="node3" href="$ceph_2xattr_8c.html#a595b72dc908576cc7e0abdadb7a2ddff" title="__ceph_destroy_xattrs" alt="" coords="156,56,311,83"/>
-<area shape="rect" id="node5" href="$ceph_2xattr_8c.html#a337f1ccc8b4f74a5edd685ce92822af7" title="__set_xattr" alt="" coords="190,107,277,133"/>
-<area shape="rect" id="node4" href="$ceph_2xattr_8c.html#a406d0004af94183d520d66c7971c0408" title="__free_xattr" alt="" coords="369,56,460,83"/>
-<area shape="rect" id="node6" href="$ceph_2xattr_8c.html#a623c677a139b5400b454f705650b62d0" title="__remove_xattr" alt="" coords="359,107,471,133"/>
-<area shape="rect" id="node7" href="$hfsplus_2xattr_8c.html#ae4ccf1ceae3bf7792a62283b6ca6cd99" title="name_len" alt="" coords="375,157,454,184"/>
-<area shape="rect" id="node8" href="$hfsplus_2xattr_8c.html#a6ece997c19fd566eddee8e3c8c0c9e7d" title="is_known_namespace" alt="" coords="519,157,669,184"/>
-</map>

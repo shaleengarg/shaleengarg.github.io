@@ -1,6 +1,0 @@
-<map id="cld_pipe_upcall" name="cld_pipe_upcall">
-<area shape="rect" id="node2" href="$nfs4recover_8c.html#a17bf61738cdc47cf7c6b1fc1efc473b2" title="nfsd4_cld_create" alt="" coords="179,5,301,32"/>
-<area shape="rect" id="node3" href="$nfs4recover_8c.html#a6856f913e856dd5617d9bd736d1a6651" title="nfsd4_cld_remove" alt="" coords="176,56,304,83"/>
-<area shape="rect" id="node4" href="$nfs4recover_8c.html#aea784f57094fa1f06e88a1ac2f14be30" title="nfsd4_cld_check" alt="" coords="180,107,300,133"/>
-<area shape="rect" id="node5" href="$nfs4recover_8c.html#a459609d1ea17c4e576c5830d18eeade8" title="nfsd4_cld_grace_done" alt="" coords="164,157,316,184"/>
-</map>

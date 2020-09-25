@@ -1,6 +1,0 @@
-<map id="to_error_cfg" name="to_error_cfg">
-<area shape="rect" id="node2" href="$xfs__sysfs_8c.html#a44d364029c5e4605ee8f6fe2037f5084" title="max_retries_show" alt="" coords="176,5,304,32"/>
-<area shape="rect" id="node3" href="$xfs__sysfs_8c.html#a7752a5adf56391470286328ba4059f1c" title="max_retries_store" alt="" coords="177,56,303,83"/>
-<area shape="rect" id="node4" href="$xfs__sysfs_8c.html#a804305b5cb6d458177b9ded52af0110a" title="retry_timeout_seconds_show" alt="" coords="144,107,336,133"/>
-<area shape="rect" id="node5" href="$xfs__sysfs_8c.html#a3854bd6e36035068d3b23a90bc51c1d0" title="retry_timeout_seconds\l_store" alt="" coords="163,158,317,199"/>
-</map>

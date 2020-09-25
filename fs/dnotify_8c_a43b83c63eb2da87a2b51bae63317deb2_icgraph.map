@@ -1,5 +1,0 @@
-<map id="attach_dn" name="attach_dn">
-<area shape="rect" id="node2" href="$dnotify_8c.html#af19a6287ec20331bae9d4e69dbb3491e" title="fcntl_dirnotify" alt="" coords="132,5,232,32"/>
-<area shape="rect" id="node3" href="$fcntl_8c.html#a1835af351ff73a070b28d36ba0492bcf" title="do_fcntl" alt="" coords="280,5,348,32"/>
-<area shape="rect" id="node4" href="$fcntl_8c.html#a1adfe6e9003a92868c40796576a7f89f" title="SYSCALL_DEFINE3" alt="" coords="396,5,543,32"/>
-</map>

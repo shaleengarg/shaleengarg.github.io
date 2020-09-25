@@ -1,6 +1,0 @@
-<map id="eventfd_release" name="eventfd_release">
-<area shape="rect" id="node2" href="$eventfd_8c.html#a67f14cc58a8a406f2a6b97775895511e" title="eventfd_ctx_put" alt="" coords="168,31,283,57"/>
-<area shape="rect" id="node3" href="$eventfd_8c.html#acc6708ce7056c747d42651aedd416b4e" title="eventfd_free" alt="" coords="369,5,464,32"/>
-<area shape="rect" id="node5" href="$eventfd_8c.html#a79d705941f549ad8dab7b9f7f1a62e87" title="EXPORT_SYMBOL_GPL" alt="" coords="331,56,503,83"/>
-<area shape="rect" id="node4" href="$eventfd_8c.html#aefc5d9ed0f5fbc211c5e481b4722068f" title="eventfd_free_ctx" alt="" coords="551,5,669,32"/>
-</map>

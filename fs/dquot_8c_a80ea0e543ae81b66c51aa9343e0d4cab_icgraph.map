@@ -1,9 +1,0 @@
-<map id="do_get_dqblk" name="do_get_dqblk">
-<area shape="rect" id="node2" href="$dquot_8c.html#ac81b6e4e26366f71b6d2a97dfaffa4c7" title="dquot_get_dqblk" alt="" coords="168,56,285,83"/>
-<area shape="rect" id="node8" href="$dquot_8c.html#a464ec02c90b503c9d04f3cfd8f71dc37" title="dquot_get_next_dqblk" alt="" coords="152,107,301,133"/>
-<area shape="rect" id="node3" href="$ext2_2super_8c.html#a87367f13a26df0aac3f9c3f1dfe37711" title="ext2_show_options" alt="" coords="359,107,494,133"/>
-<area shape="rect" id="node4" href="$ext4_2super_8c.html#ac8bf02d8ba26312b685d75ca2ac87b20" title="bdev_try_to_free_page" alt="" coords="349,157,504,184"/>
-<area shape="rect" id="node5" href="$f2fs_2super_8c.html#afbfdc826c4f9f9541681e0b95a292cc1" title="f2fs_remount" alt="" coords="377,5,476,32"/>
-<area shape="rect" id="node6" href="$jfs_2super_8c.html#a39bff1995fffbbca5b77ff5420b8ad58" title="jfs_statfs" alt="" coords="389,56,465,83"/>
-<area shape="rect" id="node7" href="$jfs_2super_8c.html#aab70ef6c99af0fab8afa6b853d0b2d72" title="jfs_show_options" alt="" coords="552,56,675,83"/>
-</map>

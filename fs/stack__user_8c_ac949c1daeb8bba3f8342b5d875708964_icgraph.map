@@ -1,5 +1,0 @@
-<map id="sync_lock" name="sync_lock">
-<area shape="rect" id="node2" href="$stack__user_8c.html#a2cb8a4c57999cd55c04cf145b156c7c8" title="version_lock" alt="" coords="135,5,229,32"/>
-<area shape="rect" id="node3" href="$stack__user_8c.html#a6e75294d49ebe079cc968e77318b4351" title="get_protocol_version" alt="" coords="277,5,420,32"/>
-<area shape="rect" id="node4" href="$stack__user_8c.html#a6b120bebcbf6409be5c95f71b3ae884d" title="user_cluster_connect" alt="" coords="468,5,615,32"/>
-</map>

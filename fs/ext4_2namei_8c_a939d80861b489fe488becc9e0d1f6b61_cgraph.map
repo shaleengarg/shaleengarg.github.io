@@ -1,9 +1,0 @@
-<map id="dx_insert_block" name="dx_insert_block">
-<area shape="rect" id="node2" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="315,6,369,32"/>
-<area shape="rect" id="node4" href="$ext4_2namei_8c.html#a3eb92093a9319141e5640b918f0026db" title="dx_get_count" alt="" coords="167,31,267,58"/>
-<area shape="rect" id="node5" href="$ext4_2namei_8c.html#a86b914ae08a05cf1863f74b3217f5f8d" title="dx_get_limit" alt="" coords="171,82,263,108"/>
-<area shape="rect" id="node6" href="$ext4_2namei_8c.html#adb3e0872d57a4f7f702909e77a6c1fcb" title="dx_set_hash" alt="" coords="169,132,265,159"/>
-<area shape="rect" id="node7" href="$ext4_2namei_8c.html#a7d220e17ef933fde15019f1f2243900f" title="dx_set_block" alt="" coords="167,183,266,210"/>
-<area shape="rect" id="node8" href="$ext4_2namei_8c.html#a5086835f375b6caebdf75e3aca07d702" title="dx_set_count" alt="" coords="167,234,267,260"/>
-<area shape="rect" id="node3" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="417,6,536,32"/>
-</map>

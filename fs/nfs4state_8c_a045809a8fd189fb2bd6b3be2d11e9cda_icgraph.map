@@ -1,7 +1,0 @@
-<map id="nfs4_gc_state_owners" name="nfs4_gc_state_owners">
-<area shape="rect" id="node2" href="$nfs4state_8c.html#a0749f5be2a1d9f5b547729d752513107" title="nfs4_get_state_owner" alt="" coords="207,31,357,57"/>
-<area shape="rect" id="node3" href="$nfs4proc_8c.html#a42bc234737bac5a3112d6f2a4d21821f" title="_nfs4_do_open" alt="" coords="405,31,516,57"/>
-<area shape="rect" id="node4" href="$nfs4proc_8c.html#a4d76e21426c2445eb232093cae7fcb87" title="nfs4_do_open" alt="" coords="564,31,667,57"/>
-<area shape="rect" id="node5" href="$nfs4proc_8c.html#ae5867549d21e71ae3e3bd25c9f84f76a" title="nfs4_atomic_open" alt="" coords="715,5,843,32"/>
-<area shape="rect" id="node6" href="$nfs4proc_8c.html#a0832ef444b1654fc2b2c6a24563138b6" title="nfs4_proc_create" alt="" coords="717,56,840,83"/>
-</map>

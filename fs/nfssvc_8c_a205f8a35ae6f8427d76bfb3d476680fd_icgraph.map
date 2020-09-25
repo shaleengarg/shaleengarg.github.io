@@ -1,7 +1,0 @@
-<map id="nfsd_shutdown_generic" name="nfsd_shutdown_generic">
-<area shape="rect" id="node2" href="$nfssvc_8c.html#aeba7a0fe8aab7495582fc5354b6a125b" title="nfsd_startup_net" alt="" coords="220,5,339,32"/>
-<area shape="rect" id="node5" href="$nfssvc_8c.html#a9dd5999326fe21f1ec0c3e5423fb4626" title="nfsd_shutdown_net" alt="" coords="212,56,347,83"/>
-<area shape="rect" id="node3" href="$nfssvc_8c.html#ada372426164cc6d508f879a00f91628b" title="nfsd_svc" alt="" coords="417,5,491,32"/>
-<area shape="rect" id="node4" href="$nfsctl_8c.html#a12833068e29a4d10afa82b43ad723f07" title="write_threads" alt="" coords="561,5,661,32"/>
-<area shape="rect" id="node6" href="$nfssvc_8c.html#a729298b9be30157084389bb612834c3d" title="nfsd_last_thread" alt="" coords="395,56,513,83"/>
-</map>

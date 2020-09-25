@@ -1,6 +1,0 @@
-<map id="ubifs_pnode" name="ubifs_pnode">
-<area shape="rect" id="node3" href="$structubifs__nbranch.html" title="ubifs_nbranch" alt="" coords="8,184,111,211"/>
-<area shape="rect" id="node2" href="$structubifs__nnode.html" title="ubifs_nnode" alt="" coords="63,273,155,300"/>
-<area shape="rect" id="node4" href="$structubifs__cnode.html" title="ubifs_cnode" alt="" coords="63,363,155,389"/>
-<area shape="rect" id="node5" href="$structubifs__lprops.html" title="ubifs_lprops" alt="" coords="134,5,226,32"/>
-</map>

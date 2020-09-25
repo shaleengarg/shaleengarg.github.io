@@ -1,5 +1,0 @@
-<map id="nfs_zap_mapping" name="nfs_zap_mapping">
-<area shape="rect" id="node2" href="$nfs_2inode_8c.html#a2c8796a0dda755676128203347abd111" title="nfs_set_cache_invalid" alt="" coords="177,42,328,69"/>
-<area shape="rect" id="node3" href="$delegation_8h.html#af3d76425df830335b78e3f082340a2b1" title="nfs_have_delegated\l_attributes" alt="" coords="384,5,523,47"/>
-<area shape="rect" id="node4" href="$nfs_2fscache_8h.html#af3f2768c71063606516dbb0ee9cf7d72" title="nfs_fscache_invalidate" alt="" coords="376,71,531,98"/>
-</map>

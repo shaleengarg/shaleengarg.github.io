@@ -1,5 +1,0 @@
-<map id="fallocate_chunk" name="fallocate_chunk">
-<area shape="rect" id="node2" href="$gfs2_2file_8c.html#a65b34af1dd687621818a92b9294989cf" title="__gfs2_fallocate" alt="" coords="167,5,284,32"/>
-<area shape="rect" id="node3" href="$gfs2_2file_8c.html#a1d9335e767079ebc2cb0cdf70866355b" title="gfs2_fallocate" alt="" coords="332,5,435,32"/>
-<area shape="rect" id="node4" href="$gfs2_2file_8c.html#a05e3abde0f7e56d6d83814283cfde627" title="gfs2_file_splice_write" alt="" coords="483,5,629,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="btrfs_double_inode_lock" name="btrfs_double_inode_lock">
-<area shape="rect" id="node2" href="$btrfs_2ioctl_8c.html#a90a4ec3c6fab6579d14ee124d5f96bc4" title="btrfs_extent_same" alt="" coords="216,5,347,32"/>
-<area shape="rect" id="node4" href="$btrfs_2ioctl_8c.html#a1313ce6d068dc5c4d70bda44d702af64" title="btrfs_clone_files" alt="" coords="223,56,340,83"/>
-<area shape="rect" id="node3" href="$btrfs_2ioctl_8c.html#add50be5cc311c8fe05253a9977680992" title="btrfs_dedupe_file_range" alt="" coords="395,5,555,32"/>
-<area shape="rect" id="node5" href="$btrfs_2ioctl_8c.html#acdccfff24b86b70a3eef7c99d6305f3e" title="btrfs_clone_file_range" alt="" coords="400,56,549,83"/>
-</map>

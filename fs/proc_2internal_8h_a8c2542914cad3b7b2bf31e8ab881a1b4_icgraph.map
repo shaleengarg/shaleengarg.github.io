@@ -1,6 +1,0 @@
-<map id="proc_self_init" name="proc_self_init">
-<area shape="rect" id="node2" href="$proc_2internal_8h.html#ad568c68ba79e607ff5725b480a4eff10" title="proc_tty_init" alt="" coords="155,5,249,32"/>
-<area shape="rect" id="node5" href="$proc_2root_8c.html#a6ec4e514557ae5cd161e3b828bf3e0e3" title="proc_root_init" alt="" coords="152,56,252,83"/>
-<area shape="rect" id="node3" href="$proc_2internal_8h.html#afa8e5d4ed0f98d8fdccc4b1612c56407" title="proc_sys_evict_inode" alt="" coords="300,5,448,32"/>
-<area shape="rect" id="node4" href="$proc_2internal_8h.html#a7c3c6665dc14d5e445cb0927a4f9edaa" title="proc_net_init" alt="" coords="496,5,592,32"/>
-</map>

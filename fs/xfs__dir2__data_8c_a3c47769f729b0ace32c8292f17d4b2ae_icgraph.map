@@ -1,9 +1,0 @@
-<map id="__xfs_dir3_data_check" name="__xfs_dir3_data_check">
-<area shape="rect" id="node2" href="$xfs__dir2__block_8c.html#a6160db26fe0d0c20af1ac4a6f86005a3" title="xfs_dir3_block_verify" alt="" coords="413,74,559,101"/>
-<area shape="rect" id="node5" href="$xfs__dir2__priv_8h.html#a3c47769f729b0ace32c8292f17d4b2ae" title="__xfs_dir3_data_check" alt="" coords="209,119,365,146"/>
-<area shape="rect" id="node6" href="$xfs__dir2__data_8c.html#a41402df629f5ba29f7ab569b512180e4" title="xfs_dir3_data_verify" alt="" coords="417,155,555,182"/>
-<area shape="rect" id="node3" href="$xfs__dir2__block_8c.html#ab351539c5d2594cd44b8d10ceada0128" title="xfs_dir3_block_read\l_verify" alt="" coords="608,5,747,47"/>
-<area shape="rect" id="node4" href="$xfs__dir2__block_8c.html#a4a3399433c39a3763e02daa8dec19360" title="xfs_dir3_block_write\l_verify" alt="" coords="607,71,748,112"/>
-<area shape="rect" id="node7" href="$xfs__dir2__data_8c.html#a0994cc80bd63ad3ee128766190a3853b" title="xfs_dir3_data_read\l_verify" alt="" coords="611,144,743,185"/>
-<area shape="rect" id="node8" href="$xfs__dir2__data_8c.html#a096c6c66fee617c5badc52b61c6361ab" title="xfs_dir3_data_write\l_verify" alt="" coords="610,209,745,251"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="xfs_create" name="xfs_create">
-<area shape="rect" id="node2" href="$xfs__iops_8c.html#ab26e9da7afbd4a9e35cfed42da95a51e" title="xfs_generic_create" alt="" coords="136,56,268,83"/>
-<area shape="rect" id="node3" href="$xfs__iops_8c.html#a30a19f32888a9caa7d7561e15f8ee810" title="xfs_vn_mknod" alt="" coords="316,31,423,57"/>
-<area shape="rect" id="node6" href="$xfs__iops_8c.html#aedf85745b72c8abe1af3544109eb78da" title="xfs_vn_tmpfile" alt="" coords="316,81,423,108"/>
-<area shape="rect" id="node4" href="$xfs__iops_8c.html#a8834f3c367781576f03894371282254c" title="xfs_vn_create" alt="" coords="471,5,575,32"/>
-<area shape="rect" id="node5" href="$xfs__iops_8c.html#a28ca6512584d7c71c6238ad684c49374" title="xfs_vn_mkdir" alt="" coords="473,56,573,83"/>
-</map>

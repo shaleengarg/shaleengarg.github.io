@@ -1,8 +1,0 @@
-<map id="load_nls_default" name="load_nls_default">
-<area shape="rect" id="node2" href="$nls__base_8c.html#ad48e92e3db22a2d23eb44c6533736260" title="load_nls" alt="" coords="206,5,277,32"/>
-<area shape="rect" id="node4" href="$nls__base_8c.html#a2c440fcf315dd54d6ae38a741aa24d74" title="EXPORT_SYMBOL" alt="" coords="172,56,311,83"/>
-<area shape="rect" id="node5" href="$nls__base_8c.html#a168a87828ea93c6a510f0192111dbcd9" title="unregister_nls" alt="" coords="190,107,293,133"/>
-<area shape="rect" id="node6" href="$nls__base_8c.html#a385f84f3a124e30fcbdd85d9d9daf51b" title="unload_nls" alt="" coords="199,157,283,184"/>
-<area shape="rect" id="node7" href="$nls__base_8c.html#a5c95e2cd11cba226f5f3513060a8928e" title="MODULE_LICENSE" alt="" coords="169,208,313,235"/>
-<area shape="rect" id="node3" href="$nls__base_8c.html#ad7f64e1860c100115349d8d361e6823f" title="find_nls" alt="" coords="361,5,428,32"/>
-</map>

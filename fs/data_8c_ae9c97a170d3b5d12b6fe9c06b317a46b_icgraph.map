@@ -1,5 +1,0 @@
-<map id="f2fs_set_page_dirty_nobuffers" name="f2fs_set_page_dirty_nobuffers">
-<area shape="rect" id="node2" href="$f2fs_2checkpoint_8c.html#ab288f7aebee4c1f575c49220ec601b89" title="f2fs_set_meta_page\l_dirty" alt="" coords="189,5,329,47"/>
-<area shape="rect" id="node3" href="$data_8c.html#a093c979526853bf81e6697d842daaae5" title="f2fs_set_data_page\l_dirty" alt="" coords="191,71,327,112"/>
-<area shape="rect" id="node4" href="$node_8c.html#a8e528bbe0335c09077ff6e770b26224c" title="f2fs_set_node_page\l_dirty" alt="" coords="190,136,329,177"/>
-</map>

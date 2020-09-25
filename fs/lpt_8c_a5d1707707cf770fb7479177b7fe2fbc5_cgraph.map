@@ -1,9 +1,0 @@
-<map id="lpt_init_rd" name="lpt_init_rd">
-<area shape="rect" id="node2" href="$lpt_8c.html#a3174779440616f0c85a44f40480d5977" title="read_ltab" alt="" coords="132,43,207,69"/>
-<area shape="rect" id="node3" href="$ubifs_2io_8c.html#ab6a2a3c4a79d6d4c52350540437d3cb3" title="ubifs_leb_read" alt="" coords="255,5,361,32"/>
-<area shape="rect" id="node5" href="$lpt_8c.html#a5a0c9d1884b60df493d76328ce9e2d71" title="unpack_ltab" alt="" coords="262,68,354,95"/>
-<area shape="rect" id="node4" href="$ubifs_2misc_8c.html#af5ba8850d81aacf8102c272d5cf47550" title="ubifs_err" alt="" coords="595,43,667,69"/>
-<area shape="rect" id="node6" href="$lpt_8c.html#a96436eaf7459ebef6525d09761a38d2c" title="check_lpt_type" alt="" coords="409,43,520,69"/>
-<area shape="rect" id="node7" href="$lpt_8c.html#af769280c22d887914ee95e9c2e4cc7de" title="ubifs_unpack_bits" alt="" coords="568,93,695,120"/>
-<area shape="rect" id="node8" href="$lpt_8c.html#ac0dcb63535a53346f5364a21cd948dec" title="check_lpt_crc" alt="" coords="413,93,516,120"/>
-</map>

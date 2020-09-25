@@ -1,5 +1,0 @@
-<map id="process_ptload_program_headers_elf32" name="process_ptload_program_headers_elf32">
-<area shape="rect" id="node2" href="$vmcore_8c.html#a92d26f114b60cf5e8bcb69ad3f43dd02" title="parse_crash_elf32_headers" alt="" coords="217,13,399,39"/>
-<area shape="rect" id="node3" href="$vmcore_8c.html#a01c022a0aa4c0ed90729636dee6c9a17" title="parse_crash_elf_headers" alt="" coords="447,13,613,39"/>
-<area shape="rect" id="node4" href="$vmcore_8c.html#a96b3f33aac2c6921c86e2e3c03514724" title="vmcore_init" alt="" coords="661,13,751,39"/>
-</map>

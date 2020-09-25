@@ -1,4 +1,0 @@
-<map id="try_release_extent_buffer" name="try_release_extent_buffer">
-<area shape="rect" id="node2" href="$disk-io_8c.html#af0effa04dd8d7aee921a7799177c4f42" title="btree_releasepage" alt="" coords="183,13,311,39"/>
-<area shape="rect" id="node3" href="$disk-io_8c.html#a9ad01b24daacf55dd36d4bf894de431e" title="btree_invalidatepage" alt="" coords="359,13,500,39"/>
-</map>

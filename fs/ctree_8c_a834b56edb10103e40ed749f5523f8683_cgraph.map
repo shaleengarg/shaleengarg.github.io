@@ -1,8 +1,0 @@
-<map id="unlock_up" name="unlock_up">
-<area shape="rect" id="node2" href="$locking_8h.html#a4e077d1af39caa3f5993eeabd284ad5f" title="btrfs_tree_unlock_rw" alt="" coords="135,64,277,91"/>
-<area shape="rect" id="node3" href="$locking_8h.html#a21b4045191c3f61af033da14c294e7e6" title="btrfs_tree_unlock" alt="" coords="341,5,464,32"/>
-<area shape="rect" id="node5" href="$locking_8h.html#af1458ea8c9813bf0adcdee273c8e2494" title="btrfs_tree_read_unlock\l_blocking" alt="" coords="325,57,480,98"/>
-<area shape="rect" id="node7" href="$locking_8h.html#abcfca79b4675d7daba8ea67473bae19e" title="btrfs_tree_read_unlock" alt="" coords="325,123,480,149"/>
-<area shape="rect" id="node4" href="$locking_8c.html#ab6aa419ebd229e967fff79065236cb79" title="btrfs_assert_tree_locked" alt="" coords="528,5,693,32"/>
-<area shape="rect" id="node6" href="$locking_8c.html#a96cb3fd07179ed9fd59676d6a7c0490a" title="btrfs_assert_tree_read\l_locked" alt="" coords="535,86,687,127"/>
-</map>

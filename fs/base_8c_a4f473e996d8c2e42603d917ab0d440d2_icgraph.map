@@ -1,7 +1,0 @@
-<map id="dname_to_vma_addr" name="dname_to_vma_addr">
-<area shape="rect" id="node2" href="$base_8c.html#abf702c2bd72ba61fd4fdd45bc02a21f9" title="map_files_d_revalidate" alt="" coords="196,5,351,32"/>
-<area shape="rect" id="node3" href="$base_8c.html#ac54c47648560863f8cac9fefe5a830da" title="map_files_get_link" alt="" coords="208,56,339,83"/>
-<area shape="rect" id="node5" href="$base_8c.html#ac4d92bedea8a26c4bbd4392027282d3a" title="proc_map_files_lookup" alt="" coords="625,107,779,133"/>
-<area shape="rect" id="node4" href="$base_8c.html#a727f502561338a505a74b3b1da4bb2fb" title="proc_map_files_instantiate" alt="" coords="399,56,576,83"/>
-<area shape="rect" id="node6" href="$base_8c.html#a1275c2e92dac59cc3d98f30c529cacfd" title="proc_map_files_readdir" alt="" coords="624,56,780,83"/>
-</map>

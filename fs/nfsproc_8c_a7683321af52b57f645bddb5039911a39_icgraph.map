@@ -1,5 +1,0 @@
-<map id="nfsd_return_attrs" name="nfsd_return_attrs">
-<area shape="rect" id="node2" href="$nfsproc_8c.html#a8cfe81d9546ee51ddd04454b621c7151" title="nfsd_proc_getattr" alt="" coords="173,5,296,32"/>
-<area shape="rect" id="node3" href="$nfsproc_8c.html#a8457fe9d125bad57e5d1e875ee26b7e2" title="nfsd_proc_setattr" alt="" coords="173,56,296,83"/>
-<area shape="rect" id="node4" href="$nfsproc_8c.html#aa1504d1775164e795aefd6d03e4a0745" title="nfsd_proc_write" alt="" coords="177,107,292,133"/>
-</map>

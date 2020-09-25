@@ -1,8 +1,0 @@
-<map id="is_daemon_in_service" name="is_daemon_in_service">
-<area shape="rect" id="node2" href="$orangefs-debugfs_8c.html#af7322d2941534c5370661f26b3d2d757" title="orangefs_debug_write" alt="" coords="211,5,360,32"/>
-<area shape="rect" id="node3" href="$orangefs-kernel_8h.html#a4f08047843c24a394dbe0b6ba221554a" title="match_handle" alt="" coords="234,56,337,83"/>
-<area shape="rect" id="node6" href="$orangefs-sysfs_8c.html#af88f6f5b512e0dedc4853400399119c2" title="sysfs_service_op_show" alt="" coords="204,107,367,133"/>
-<area shape="rect" id="node7" href="$orangefs-sysfs_8c.html#a353a500a4b87cd2e1593af88222492d4" title="sysfs_service_op_store" alt="" coords="205,157,365,184"/>
-<area shape="rect" id="node4" href="$orangefs_2dcache_8c.html#a76445575fd50e54e12b48d85fde2129f" title="orangefs_revalidate\l_lookup" alt="" coords="415,49,549,90"/>
-<area shape="rect" id="node5" href="$orangefs_2dcache_8c.html#a51305217c638dde71cb4238e7022e9ee" title="orangefs_d_revalidate" alt="" coords="597,56,747,83"/>
-</map>

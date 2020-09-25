@@ -1,8 +1,0 @@
-<map id="add_durable_context" name="add_durable_context">
-<area shape="rect" id="node2" href="$smb2pdu_8c.html#a4f32ab268aab68f4261d85bcc365ca0b" title="add_durable_reconnect\l_v2_context" alt="" coords="216,5,372,47"/>
-<area shape="rect" id="node4" href="$smb2pdu_8c.html#a15c1be2dc511da2066d0e451d53e4e1e" title="add_durable_v2_context" alt="" coords="213,71,375,98"/>
-<area shape="rect" id="node6" href="$smb2pdu_8c.html#a82852844bd7265f148f864656c8657b6" title="create_reconnect_durable_buf" alt="" coords="196,122,392,149"/>
-<area shape="rect" id="node7" href="$smb2pdu_8c.html#a296c119e7e3ec421a3054f4ffcb5f288" title="create_durable_buf" alt="" coords="228,173,360,199"/>
-<area shape="rect" id="node3" href="$smb2pdu_8c.html#aa92d54262114cdd6cad543ac57e7291a" title="create_reconnect_durable\l_v2_buf" alt="" coords="440,5,611,47"/>
-<area shape="rect" id="node5" href="$smb2pdu_8c.html#a333789ee3ebfe0780f6a10f4dfea895a" title="create_durable_v2_buf" alt="" coords="449,71,602,98"/>
-</map>

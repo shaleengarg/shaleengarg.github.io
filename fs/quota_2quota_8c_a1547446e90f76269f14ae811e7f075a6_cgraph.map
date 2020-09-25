@@ -1,7 +1,0 @@
-<map id="quota_sync_all" name="quota_sync_all">
-<area shape="rect" id="node2" href="$super_8c.html#a5d396621fc59429300a1bdbf858c032f" title="iterate_supers" alt="" coords="169,5,273,32"/>
-<area shape="rect" id="node6" href="$quota_2quota_8c.html#a0e1c9fdd2f09358976ad31fe7c775ea5" title="quota_sync_one" alt="" coords="163,56,280,83"/>
-<area shape="rect" id="node3" href="$super_8c.html#a3533b106df6dc38a0d0c6c3b4fd9d130" title="__put_super" alt="" coords="328,5,421,32"/>
-<area shape="rect" id="node4" href="$super_8c.html#ac18e1abceac6e84cf677a1ea4be14421" title="destroy_super_rcu" alt="" coords="469,5,599,32"/>
-<area shape="rect" id="node5" href="$super_8c.html#a627a37c41b63f3c8f96ef0206da0eed1" title="destroy_super_work" alt="" coords="647,5,785,32"/>
-</map>

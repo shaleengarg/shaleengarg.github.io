@@ -1,6 +1,0 @@
-<map id="encode_release_lockowner" name="encode_release_lockowner">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#af331741cfbeebb9874e32761ef58433a" title="encode_op_hdr" alt="" coords="242,5,353,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#aa21ea9558086b3d8f99accf38ab3331c" title="encode_lockowner" alt="" coords="232,56,363,83"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ab33bed6588aeafcdec18900fffe81db3" title="encode_uint32" alt="" coords="411,5,517,32"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#aeb6935e87253006dc578e9f5f5709dd2" title="reserve_space" alt="" coords="411,56,517,83"/>
-</map>

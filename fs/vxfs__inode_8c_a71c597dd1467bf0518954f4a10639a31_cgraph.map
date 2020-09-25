@@ -1,9 +1,0 @@
-<map id="dip2vip_cpy" name="dip2vip_cpy">
-<area shape="rect" id="node2" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="151,5,245,32"/>
-<area shape="rect" id="node4" href="$befs_2endian_8h.html#a4e097a2d44726a7d174f21d830a2d693" title="fs64_to_cpu" alt="" coords="151,56,245,83"/>
-<area shape="rect" id="node5" href="$vxfs__inode_8c.html#a035ef182183a8eebf283ff366ed48eae" title="vxfs_transmod" alt="" coords="144,107,252,133"/>
-<area shape="rect" id="node6" href="$inode_8c.html#a01ed868f59230449a75b85f7157efd95" title="set_nlink" alt="" coords="161,157,235,184"/>
-<area shape="rect" id="node3" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="301,31,383,57"/>
-<area shape="rect" id="node7" href="$inode_8c.html#a3988783ee2de89674d83e4e86080d792" title="clear_nlink" alt="" coords="300,132,384,159"/>
-<area shape="rect" id="node8" href="$debugfs_2inode_8c.html#a16e485b5debd4cd96a200844c38df190" title="EXPORT_SYMBOL" alt="" coords="432,157,571,184"/>
-</map>

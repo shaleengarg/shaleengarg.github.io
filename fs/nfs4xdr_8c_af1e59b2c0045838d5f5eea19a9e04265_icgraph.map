@@ -1,9 +1,0 @@
-<map id="decode_open_stateid" name="decode_open_stateid">
-<area shape="rect" id="node2" href="$nfs4xdr_8c.html#a325524ebd791868dade3ec9e25e3c3ff" title="decode_open" alt="" coords="234,56,333,83"/>
-<area shape="rect" id="node5" href="$nfs4xdr_8c.html#a33bef3eb54b105e254b730c20022ad7d" title="decode_open_confirm" alt="" coords="209,107,358,133"/>
-<area shape="rect" id="node7" href="$nfs4xdr_8c.html#a432c27cbf7f7568861e8af3f87677339" title="decode_open_downgrade" alt="" coords="199,157,368,184"/>
-<area shape="rect" id="node3" href="$nfs4xdr_8c.html#ae75f94182733d5f38a322b751a4a3d03" title="nfs4_xdr_dec_open" alt="" coords="451,5,586,32"/>
-<area shape="rect" id="node4" href="$nfs4xdr_8c.html#a7908acb35fe5153c15681f77e66d6b98" title="nfs4_xdr_dec_open_noattr" alt="" coords="431,56,606,83"/>
-<area shape="rect" id="node6" href="$nfs4xdr_8c.html#ad8582642da572461c8443e61d6196196" title="nfs4_xdr_dec_open_confirm" alt="" coords="426,107,611,133"/>
-<area shape="rect" id="node8" href="$nfs4xdr_8c.html#aa90cc38f40bd4cc6d4c57a37fa2e3f41" title="nfs4_xdr_dec_open_downgrade" alt="" coords="416,157,621,184"/>
-</map>

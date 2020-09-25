@@ -1,8 +1,0 @@
-<map id="o2hb_arm_timeout" name="o2hb_arm_timeout">
-<area shape="rect" id="node2" href="$cluster_2heartbeat_8c.html#a784416cf0eec3fbc72f93a001f0fd363" title="o2hb_nego_timeout" alt="" coords="425,5,560,32"/>
-<area shape="rect" id="node4" href="$cluster_2heartbeat_8c.html#aab4c5615db1202ad3b3681714362d88c" title="o2hb_nego_approve_handler" alt="" coords="183,64,369,91"/>
-<area shape="rect" id="node6" href="$cluster_2heartbeat_8c.html#a7d84faee862e1cd6071968d4c5de9b73" title="o2hb_do_disk_heartbeat" alt="" coords="195,119,357,145"/>
-<area shape="rect" id="node3" href="$cluster_2heartbeat_8c.html#af950396e373c84f930a2168da781f6ec" title="o2hb_region_dev_store" alt="" coords="616,64,772,91"/>
-<area shape="rect" id="node5" href="$cluster_2heartbeat_8c.html#af040c863276ab4008d7a7eca1cd5244a" title="o2hb_heartbeat_group\l_make_item" alt="" coords="417,57,568,98"/>
-<area shape="rect" id="node7" href="$cluster_2heartbeat_8c.html#a2bc2625e842d179a5d84f407ccfbe93d" title="o2hb_thread" alt="" coords="446,123,539,149"/>
-</map>

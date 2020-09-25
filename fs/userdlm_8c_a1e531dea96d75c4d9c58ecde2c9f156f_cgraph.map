@@ -1,6 +1,0 @@
-<map id="user_dlm_read_lvb" name="user_dlm_read_lvb">
-<area shape="rect" id="node2" href="$userdlm_8h.html#a2aa1e92c0272e44bed9bb2d365972c94" title="DLMFS_I" alt="" coords="215,5,293,32"/>
-<area shape="rect" id="node3" href="$stackglue_8c.html#a257e3ebded09b7a17f706e48f1643f0e" title="ocfs2_dlm_lvb_valid" alt="" coords="184,80,324,107"/>
-<area shape="rect" id="node5" href="$stackglue_8c.html#a828cedade4dc79341fec21c2008968af" title="ocfs2_dlm_lvb" alt="" coords="201,155,307,181"/>
-<area shape="rect" id="node4" href="$stackglue_8c.html#a15052933b776705ee3821e1804f38e1f" title="EXPORT_SYMBOL_GPL" alt="" coords="372,117,544,144"/>
-</map>

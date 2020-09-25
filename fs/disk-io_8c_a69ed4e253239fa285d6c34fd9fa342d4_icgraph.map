@@ -1,8 +1,0 @@
-<map id="csum_tree_block" name="csum_tree_block">
-<area shape="rect" id="node2" href="$disk-io_8c.html#a1226fca58cdbbbf6a2c92fa8872af371" title="csum_dirty_buffer" alt="" coords="175,51,301,77"/>
-<area shape="rect" id="node7" href="$disk-io_8c.html#a66cc9b58704cf43edbf838777f83e147" title="btree_readpage_end\l_io_hook" alt="" coords="351,99,490,141"/>
-<area shape="rect" id="node3" href="$disk-io_8c.html#a08253d350a04c60e54c0ff822a23a7c2" title="btree_csum_one_bio" alt="" coords="349,48,492,75"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#ae5c6dfcb417b6951073189273f612e66" title="btree_submit_bio_start" alt="" coords="540,5,695,32"/>
-<area shape="rect" id="node5" href="$disk-io_8c.html#a5c8a6960b9eb2eefd752fde872397524" title="btree_submit_bio_hook" alt="" coords="743,56,899,83"/>
-<area shape="rect" id="node6" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="947,81,1044,108"/>
-</map>

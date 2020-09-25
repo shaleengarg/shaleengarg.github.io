@@ -1,5 +1,0 @@
-<map id="ext4_blkdev_remove" name="ext4_blkdev_remove">
-<area shape="rect" id="node2" href="$ext4_2super_8c.html#a21b6f94cb84d6f9e08dbf2357cdd04b8" title="ext4_put_super" alt="" coords="196,5,307,32"/>
-<area shape="rect" id="node3" href="$ext4_2super_8c.html#afbd5bc21c085ba46199b01d9c906c0c4" title="ext4_fill_super" alt="" coords="198,56,305,83"/>
-<area shape="rect" id="node4" href="$ext4_2super_8c.html#a29cf15a2bc142d6643c83291cdd15d86" title="ext4_mount" alt="" coords="355,56,445,83"/>
-</map>

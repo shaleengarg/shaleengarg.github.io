@@ -1,6 +1,0 @@
-<map id="squashfs_decompressor_destroy" name="squashfs_decompressor_destroy">
-<area shape="rect" id="node2" href="$squashfs_2super_8c.html#a48ba1323faf987f31cbbad8b50ed27ed" title="squashfs_fill_super" alt="" coords="217,5,352,32"/>
-<area shape="rect" id="node5" href="$squashfs_2super_8c.html#ae499159b66693a046388059925c0588c" title="squashfs_put_super" alt="" coords="400,56,539,83"/>
-<area shape="rect" id="node3" href="$squashfs_2super_8c.html#a83e0fd973f1099e80ee1690fa32a3c62" title="squashfs_mount" alt="" coords="410,5,529,32"/>
-<area shape="rect" id="node4" href="$squashfs_2super_8c.html#a1023ee8c3db7502a0b46b0194566d3c2" title="squashfs_destroy_inode" alt="" coords="587,31,749,57"/>
-</map>

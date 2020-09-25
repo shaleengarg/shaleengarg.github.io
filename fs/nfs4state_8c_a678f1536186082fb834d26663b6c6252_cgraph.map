@@ -1,8 +1,0 @@
-<map id="nfs4_wait_clnt_recover" name="nfs4_wait_clnt_recover">
-<area shape="rect" id="node2" href="$nfs_2inode_8c.html#a87eb4a56e62919e491b117551ec5925d" title="nfs_wait_bit_killable" alt="" coords="209,44,348,71"/>
-<area shape="rect" id="node5" href="$client_8c.html#a3f0243df52c303bbae6c8ad4b3c716e5" title="nfs_put_client" alt="" coords="227,119,330,145"/>
-<area shape="rect" id="node3" href="$nfs_2inode_8c.html#a8d3239dc78471c1a24077e8df920d5a6" title="nfs_wait_killable" alt="" coords="425,5,544,32"/>
-<area shape="rect" id="node4" href="$debugfs_2inode_8c.html#ab0e32a685998ab4f1be52f66ddedfca1" title="EXPORT_SYMBOL_GPL" alt="" coords="399,56,571,83"/>
-<area shape="rect" id="node6" href="$client_8c.html#ae4b0595b3b0b7a7a1445b67fc96461da" title="nfs_cb_idr_remove_locked" alt="" coords="396,112,573,139"/>
-<area shape="rect" id="node7" href="$client_8c.html#af60a6fe2e3271874b5118b185070b842" title="EXPORT_SYMBOL_GPL" alt="" coords="399,163,571,189"/>
-</map>

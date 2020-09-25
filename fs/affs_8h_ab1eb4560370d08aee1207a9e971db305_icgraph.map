@@ -1,8 +1,0 @@
-<map id="affs_nofilenametruncate" name="affs_nofilenametruncate">
-<area shape="rect" id="node2" href="$affs_2namei_8c.html#af9a6f1cd3104ffc2b87895a2357c498d" title="affs_hash_dentry" alt="" coords="237,5,360,32"/>
-<area shape="rect" id="node3" href="$affs_2namei_8c.html#a73ccb1f5ad16bfd1d071b339302b63e4" title="affs_intl_hash_dentry" alt="" coords="225,56,372,83"/>
-<area shape="rect" id="node4" href="$affs_2namei_8c.html#af34891f510d85f684419edba5fcbd76d" title="affs_compare_dentry" alt="" coords="227,107,371,133"/>
-<area shape="rect" id="node5" href="$affs_2namei_8c.html#a1291ff14883855dacd4b447ee21a2b1f" title="affs_intl_compare_dentry" alt="" coords="215,157,383,184"/>
-<area shape="rect" id="node6" href="$affs_2namei_8c.html#ad13f75579d419a63a3fbaa940522fb52" title="affs_rename" alt="" coords="251,208,346,235"/>
-<area shape="rect" id="node7" href="$affs_2namei_8c.html#aabf53ce560e2da8a825047dc57a4b34a" title="affs_rename2" alt="" coords="431,208,532,235"/>
-</map>

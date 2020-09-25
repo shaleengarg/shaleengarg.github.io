@@ -1,5 +1,0 @@
-<map id="ufs_get_fs_npsect" name="ufs_get_fs_npsect">
-<area shape="rect" id="node2" href="$ufs_8h.html#abeb63dc517629bd2f7833215c463946e" title="UFS_SB" alt="" coords="192,5,267,32"/>
-<area shape="rect" id="node3" href="$befs_2endian_8h.html#ae07ba9050b95e781e7d8925d1cab379a" title="fs32_to_cpu" alt="" coords="183,56,276,83"/>
-<area shape="rect" id="node4" href="$befs_8h.html#aff4e99b99b6c83e66731b525922eae33" title="BEFS_SB" alt="" coords="324,56,407,83"/>
-</map>

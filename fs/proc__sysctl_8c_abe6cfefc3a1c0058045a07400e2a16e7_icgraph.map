@@ -1,5 +1,0 @@
-<map id="proc_sys_call_handler" name="proc_sys_call_handler">
-<area shape="rect" id="node2" href="$proc__sysctl_8c.html#aae76691ce99188d51fb33999ed7cd68e" title="proc_sys_read" alt="" coords="206,5,313,32"/>
-<area shape="rect" id="node4" href="$proc__sysctl_8c.html#a7bff29c483ee80464ca6a8e880536320" title="proc_sys_write" alt="" coords="204,56,315,83"/>
-<area shape="rect" id="node3" href="$proc__sysctl_8c.html#ad69278ca55f246a6d49f8f78f1da0e29" title="proc_sys_getattr" alt="" coords="363,31,481,57"/>
-</map>

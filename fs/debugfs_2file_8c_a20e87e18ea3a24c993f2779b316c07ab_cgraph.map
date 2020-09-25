@@ -1,7 +1,0 @@
-<map id="debugfs_attr_write" name="debugfs_attr_write">
-<area shape="rect" id="node2" href="$debugfs_2file_8c.html#ad9b5c5e29ed959f6c9799a9bc33a3108" title="debugfs_file_get" alt="" coords="185,5,302,32"/>
-<area shape="rect" id="node3" href="$debugfs_2file_8c.html#a6d2a15b8744d634611368fe7b0649a8d" title="EXPORT_SYMBOL_GPL" alt="" coords="352,56,524,83"/>
-<area shape="rect" id="node4" href="$libfs_8c.html#a2ba94fea0f4e91d505cff5c0121958b7" title="simple_attr_write" alt="" coords="183,157,304,184"/>
-<area shape="rect" id="node6" href="$debugfs_2file_8c.html#a1f4c207e67de31824bd405da15049f4e" title="debugfs_file_put" alt="" coords="185,107,302,133"/>
-<area shape="rect" id="node5" href="$libfs_8c.html#a9bade89b22c1168f5c45b579caa2b48e" title="EXPORT_SYMBOL_GPL" alt="" coords="352,157,524,184"/>
-</map>

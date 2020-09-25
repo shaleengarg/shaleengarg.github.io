@@ -1,8 +1,0 @@
-<map id="get_cramfs_inode" name="get_cramfs_inode">
-<area shape="rect" id="node2" href="$cramfs_2inode_8c.html#a1d0ee13d55c1127049acb9b61788eabf" title="cramfs_finalize_super" alt="" coords="179,71,328,98"/>
-<area shape="rect" id="node6" href="$cramfs_2inode_8c.html#ab67af87ae5b9d913e78257b6a19f111d" title="cramfs_lookup" alt="" coords="200,122,307,149"/>
-<area shape="rect" id="node3" href="$cramfs_2inode_8c.html#a309710a6b835f8653e176e0e864c52de" title="cramfs_blkdev_fill\l_super" alt="" coords="388,5,515,47"/>
-<area shape="rect" id="node5" href="$cramfs_2inode_8c.html#af1f630d537077840f8911ab484eb9a09" title="cramfs_mtd_fill_super" alt="" coords="376,71,527,98"/>
-<area shape="rect" id="node4" href="$cramfs_2inode_8c.html#ac10ef8446918a93056e4718405bbc8e9" title="cramfs_mount" alt="" coords="575,42,680,69"/>
-<area shape="rect" id="node7" href="$cramfs_2inode_8c.html#a765965e3c53b2328d5878203bf76b296" title="cramfs_readpage" alt="" coords="390,122,513,149"/>
-</map>

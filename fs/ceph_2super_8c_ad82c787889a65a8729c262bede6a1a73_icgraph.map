@@ -1,5 +1,0 @@
-<map id="ceph_inode_init_once" name="ceph_inode_init_once">
-<area shape="rect" id="node2" href="$ceph_2super_8c.html#a6023c5494ebd1e6cf4357b051ecc630b" title="init_caches" alt="" coords="200,5,288,32"/>
-<area shape="rect" id="node3" href="$ceph_2super_8c.html#aac605844d043c0f152021a1efc43380c" title="init_ceph" alt="" coords="336,5,411,32"/>
-<area shape="rect" id="node4" href="$ceph_2super_8c.html#a0b191290c79e6c9df9f00e4710e1184d" title="exit_ceph" alt="" coords="459,5,537,32"/>
-</map>

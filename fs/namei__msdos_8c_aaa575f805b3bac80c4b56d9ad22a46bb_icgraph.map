@@ -1,6 +1,0 @@
-<map id="msdos_add_entry" name="msdos_add_entry">
-<area shape="rect" id="node2" href="$namei__msdos_8c.html#a745e83298479e4e0a8bd5eb578c77a9a" title="msdos_create" alt="" coords="193,5,297,32"/>
-<area shape="rect" id="node3" href="$namei__msdos_8c.html#adb705d5f57b4b80899be5053e7f84e83" title="msdos_mkdir" alt="" coords="195,56,295,83"/>
-<area shape="rect" id="node4" href="$namei__msdos_8c.html#ac162198cf9fbdf1b928ae4bdb4a9b136" title="do_msdos_rename" alt="" coords="179,107,311,133"/>
-<area shape="rect" id="node5" href="$namei__msdos_8c.html#a57e274e7ed12c03e53c07d8f4079c1c9" title="msdos_rename" alt="" coords="359,107,469,133"/>
-</map>

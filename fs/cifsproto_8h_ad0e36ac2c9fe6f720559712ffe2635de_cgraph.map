@@ -1,7 +1,0 @@
-<map id="cifs_compose_mount_options" name="cifs_compose_mount_options">
-<area shape="rect" id="node2" href="$cifs__dfs__ref_8c.html#ae716b5c0501680dabbd7b89c4244ccb2" title="cifs_build_devname" alt="" coords="200,5,337,32"/>
-<area shape="rect" id="node4" href="$cifs_2dns__resolve_8c.html#a56be7ea6954d45b7a542221f2399997b" title="dns_resolve_server\l_name_to_ip" alt="" coords="201,57,336,98"/>
-<area shape="rect" id="node3" href="$cifsglob_8h.html#a1925d20ef401de17afcccd7c9e9bc459" title="convert_delimiter" alt="" coords="398,5,519,32"/>
-<area shape="rect" id="node5" href="$cifsproto_8h.html#ae420557350e0ccc46ede2c07a143eb61" title="cifs_convert_address" alt="" coords="385,64,532,91"/>
-<area shape="rect" id="node6" href="$netmisc_8c.html#a5868a908d730156dd64e68cc8d4f02f2" title="cifs_inet_pton" alt="" coords="580,64,683,91"/>
-</map>

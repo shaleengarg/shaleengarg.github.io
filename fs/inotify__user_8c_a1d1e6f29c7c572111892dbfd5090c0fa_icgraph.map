@@ -1,6 +1,0 @@
-<map id="inotify_arg_to_mask" name="inotify_arg_to_mask">
-<area shape="rect" id="node2" href="$inotify__user_8c.html#aee7574493c2195196f6869430829ec04" title="inotify_update_existing\l_watch" alt="" coords="192,5,347,47"/>
-<area shape="rect" id="node5" href="$inotify__user_8c.html#a52a081de56954432761b56eae23ffb2e" title="inotify_new_watch" alt="" coords="204,71,335,98"/>
-<area shape="rect" id="node3" href="$inotify__user_8c.html#a24dc6fd612cd4c9be138c3b002761a83" title="inotify_update_watch" alt="" coords="395,42,540,69"/>
-<area shape="rect" id="node4" href="$inotify__user_8c.html#a8fe0bf01ee3fda7e85db7d3903aee01c" title="SYSCALL_DEFINE3" alt="" coords="588,42,735,69"/>
-</map>

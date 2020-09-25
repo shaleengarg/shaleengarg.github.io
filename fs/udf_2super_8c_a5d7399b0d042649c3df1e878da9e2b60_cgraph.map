@@ -1,7 +1,0 @@
-<map id="udf_sb_alloc_partition_maps" name="udf_sb_alloc_partition_maps">
-<area shape="rect" id="node2" href="$udf__sb_8h.html#a79a02eb98d3378750c6f5bb9b0ed3c05" title="UDF_SB" alt="" coords="240,56,315,83"/>
-<area shape="rect" id="node5" href="$exec_8c.html#a36dcaf63ad8fe9783c81b418943e2346" title="count" alt="" coords="250,107,305,133"/>
-<area shape="rect" id="node3" href="$udf__sb_8h.html#a3351cf2162ac6c54a90809129c0b8334" title="udf_sb_lvidiu" alt="" coords="394,5,493,32"/>
-<area shape="rect" id="node4" href="$udf__sb_8h.html#a937deb9daed0738f20de2e039829e1ed" title="udf_compute_nr_groups" alt="" coords="363,56,524,83"/>
-<area shape="rect" id="node6" href="$exec_8c.html#a9ea507497a5718b67a987a1c91a5becb" title="get_user_arg_ptr" alt="" coords="384,107,503,133"/>
-</map>

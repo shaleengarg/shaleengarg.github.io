@@ -1,7 +1,0 @@
-<map id="xfs_inode_set_reclaim_tag" name="xfs_inode_set_reclaim_tag">
-<area shape="rect" id="node2" href="$xfs__sb_8c.html#a1dbd4c59e91dab91e783f0d49203e77a" title="xfs_perag_get" alt="" coords="268,5,372,32"/>
-<area shape="rect" id="node3" href="$xfs__icache_8c.html#abc841b296dc23a098d1ab938b8a3fd45" title="xfs_perag_set_reclaim_tag" alt="" coords="231,56,409,83"/>
-<area shape="rect" id="node5" href="$xfs__inode_8h.html#af81938578aaec562c08fbbdf29f6893e" title="__xfs_iflags_set" alt="" coords="261,107,379,133"/>
-<area shape="rect" id="node6" href="$xfs__sb_8c.html#a9f1e1a07a211a517c542c2c25b933bf5" title="xfs_perag_put" alt="" coords="268,157,372,184"/>
-<area shape="rect" id="node4" href="$xfs__icache_8c.html#a83448e9aa9df12e22671eaa83d403097" title="xfs_reclaim_work_queue" alt="" coords="457,56,624,83"/>
-</map>

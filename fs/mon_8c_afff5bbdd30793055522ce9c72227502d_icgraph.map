@@ -1,5 +1,0 @@
-<map id="nsm_reboot_lookup" name="nsm_reboot_lookup">
-<area shape="rect" id="node2" href="$host_8c.html#a7b3aa5a8da6db14462d5e03f54a38f4a" title="nlm_host_rebooted" alt="" coords="188,31,320,57"/>
-<area shape="rect" id="node3" href="$svc4proc_8c.html#a2c797bff1065843040c85a72eefd904b" title="nlm4svc_proc_sm_notify" alt="" coords="368,5,535,32"/>
-<area shape="rect" id="node4" href="$svcproc_8c.html#aa6252f981fb1ec60077826d0634760ff" title="nlmsvc_proc_sm_notify" alt="" coords="371,56,531,83"/>
-</map>

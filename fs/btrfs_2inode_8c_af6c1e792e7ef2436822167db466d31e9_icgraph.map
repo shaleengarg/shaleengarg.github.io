@@ -1,5 +1,0 @@
-<map id="btrfs_add_delalloc_inodes" name="btrfs_add_delalloc_inodes">
-<area shape="rect" id="node2" href="$btrfs_2inode_8c.html#a7259504d8ca49c583489c2d2f281a24f" title="btrfs_set_bit_hook" alt="" coords="180,13,309,39"/>
-<area shape="rect" id="node3" href="$btrfs_2inode_8c.html#a3e5e1336138f5706fe9b607d1af68590" title="btrfs_set_range_writeback" alt="" coords="357,13,532,39"/>
-<area shape="rect" id="node4" href="$disk-io_8c.html#a065d6cce46bad5965b457aaf1a2a5317" title="btree_fs_info" alt="" coords="580,13,677,39"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="xfs_scrub_validate_inputs" name="xfs_scrub_validate_inputs">
-<area shape="rect" id="node2" href="$xfs_2scrub_2scrub_8c.html#afa1b9067fcd0c91f8aa1c8c8e11f018f" title="xfs_scrub_metadata" alt="" coords="184,13,324,39"/>
-<area shape="rect" id="node3" href="$xfs__ioctl_8c.html#a5299e5f73360b508b039bd785dc6dcc7" title="xfs_ioc_scrub_metadata" alt="" coords="372,13,536,39"/>
-<area shape="rect" id="node4" href="$xfs__ioctl_8h.html#a8403ebcdd3daf22957e81b9dd35a2caa" title="xfs_file_ioctl" alt="" coords="584,13,679,39"/>
-<area shape="rect" id="node5" href="$xfs__ioctl32_8c.html#a1b59096eb8a150a0055bc6069684b32f" title="xfs_file_compat_ioctl" alt="" coords="727,13,872,39"/>
-</map>
